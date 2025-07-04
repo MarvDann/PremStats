@@ -1,6 +1,6 @@
 {
   "root": true,
-  "extends": ["neostandard"],
+  "extends": ["standard", "@typescript-eslint"],
   "parser": "@typescript-eslint/parser",
   "parserOptions": {
     "ecmaVersion": "latest",

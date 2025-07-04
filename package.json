@@ -14,9 +14,9 @@
     "lint:fix": "pnpm --filter './apps/**' --filter './packages/**' lint:fix",
     "typecheck": "pnpm --filter './apps/**' --filter './packages/**' typecheck",
     "storybook": "pnpm --filter '@premstats/ui' storybook",
-    "docker:up": "docker-compose up",
-    "docker:down": "docker-compose down",
-    "docker:build": "docker-compose build",
+    "docker:up": "docker compose up",
+    "docker:down": "docker compose down",
+    "docker:build": "docker compose build",
     "agent": "node scripts/agent-cli.js"
   },
   "devDependencies": {
@@ -24,7 +24,10 @@
     "@typescript-eslint/eslint-plugin": "^6.19.0",
     "@typescript-eslint/parser": "^6.19.0",
     "eslint": "^8.56.0",
-    "eslint-config-neostandard": "^0.6.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.29.0",
+    "eslint-plugin-n": "^16.6.0",
+    "eslint-plugin-promise": "^6.1.0",
     "eslint-plugin-solid": "^0.13.0",
     "typescript": "^5.3.3"
   },

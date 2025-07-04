@@ -6,7 +6,7 @@ echo "🚀 Setting up PremStats development environment..."
 command -v node >/dev/null 2>&1 || { echo "❌ Node.js is required but not installed."; exit 1; }
 command -v pnpm >/dev/null 2>&1 || { echo "❌ pnpm is required but not installed. Run: npm install -g pnpm"; exit 1; }
 command -v docker >/dev/null 2>&1 || { echo "❌ Docker is required but not installed."; exit 1; }
-command -v docker-compose >/dev/null 2>&1 || { echo "❌ Docker Compose is required but not installed."; exit 1; }
+docker compose version >/dev/null 2>&1 || { echo "❌ Docker Compose is required but not installed."; exit 1; }
 
 echo "✅ All required tools found"
 
@@ -34,11 +34,11 @@ chmod +x agents/base/agent-worker.js
 
 # Start Docker services
 echo "🐳 Starting Docker services..."
-docker-compose up -d postgres redis
+docker compose up -d postgres redis
 
 # Wait for PostgreSQL to be ready
 echo "⏳ Waiting for PostgreSQL..."
-until docker-compose exec postgres pg_isready -U premstats > /dev/null 2>&1; do
+until docker compose exec postgres pg_isready -U premstats > /dev/null 2>&1; do
   sleep 1
 done
 
@@ -49,7 +49,7 @@ echo ""
 echo "✨ Setup complete! Next steps:"
 echo ""
 echo "1. Start the development environment:"
-echo "   docker-compose up"
+echo "   docker compose up"
 echo ""
 echo "2. In another terminal, run the data agent:"
 echo "   pnpm --filter @premstats/agents agent:data"
