@@ -1,0 +1,93 @@
+name: Issue Bot
+
+on:
+  issues:
+    types: [opened, labeled]
+  issue_comment:
+    types: [created]
+
+jobs:
+  process-issue:
+    name: Process Issue
+    runs-on: ubuntu-latest
+    if: contains(github.event.issue.labels.*.name, 'ai-task')
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          
+      - name: Process issue with AI
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          node scripts/issue-processor.js \
+            --issue-number ${{ github.event.issue.number }} \
+            --action process
+            
+      - name: Create branch for issue
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          BRANCH_NAME="ai/issue-${{ github.event.issue.number }}"
+          git checkout -b $BRANCH_NAME
+          git push origin $BRANCH_NAME
+          
+      - name: Comment on issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: '🤖 AI Agent is working on this issue. Branch: `ai/issue-${{ github.event.issue.number }}`'
+            })
+
+  auto-label:
+    name: Auto Label Issues
+    runs-on: ubuntu-latest
+    if: github.event_name == 'issues' && github.event.action == 'opened'
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Analyze and label issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const issue = context.payload.issue
+            const labels = []
+            
+            // Analyze issue title and body
+            const text = (issue.title + ' ' + issue.body).toLowerCase()
+            
+            if (text.includes('bug') || text.includes('error') || text.includes('fix')) {
+              labels.push('bug')
+            }
+            if (text.includes('feature') || text.includes('add') || text.includes('new')) {
+              labels.push('enhancement')
+            }
+            if (text.includes('ui') || text.includes('design') || text.includes('style')) {
+              labels.push('ui')
+            }
+            if (text.includes('api') || text.includes('backend') || text.includes('endpoint')) {
+              labels.push('backend')
+            }
+            if (text.includes('scrape') || text.includes('data') || text.includes('import')) {
+              labels.push('data')
+            }
+            if (text.includes('test') || text.includes('testing')) {
+              labels.push('testing')
+            }
+            
+            if (labels.length > 0) {
+              await github.rest.issues.addLabels({
+                issue_number: issue.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                labels: labels
+              })
+            }

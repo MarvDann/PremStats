@@ -1,0 +1,14 @@
+{
+  "name": "@premstats/scripts",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "PremStats utility scripts",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^11.1.0",
+    "ora": "^8.0.1",
+    "redis": "^4.6.0",
+    "uuid": "^9.0.1"
+  }
+}

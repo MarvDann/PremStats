@@ -1,0 +1,105 @@
+version: '3.8'
+
+services:
+  # Frontend development server
+  frontend:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.frontend
+    volumes:
+      - ./apps/web:/app/apps/web
+      - ./packages/ui:/app/packages/ui
+      - /app/node_modules
+      - /app/apps/web/node_modules
+      - /app/packages/ui/node_modules
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=development
+      - VITE_API_URL=http://localhost:8080
+    depends_on:
+      - api
+    command: pnpm --filter @premstats/web dev --host
+
+  # Backend API with hot reload
+  api:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.backend
+    volumes:
+      - ./packages/api:/app
+    ports:
+      - "8080:8080"
+    environment:
+      - ENV=development
+      - DATABASE_URL=postgres://premstats:premstats@postgres:5432/premstats?sslmode=disable
+      - REDIS_URL=redis://redis:6379
+      - PORT=8080
+    depends_on:
+      - postgres
+      - redis
+
+  # PostgreSQL database
+  postgres:
+    image: postgres:16-alpine
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./scripts/init-db.sql:/docker-entrypoint-initdb.d/init.sql
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_USER=premstats
+      - POSTGRES_PASSWORD=premstats
+      - POSTGRES_DB=premstats
+
+  # Redis for caching and task queue
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+
+  # Storybook for component development
+  storybook:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.storybook
+    volumes:
+      - ./packages/ui:/app/packages/ui
+      - /app/node_modules
+      - /app/packages/ui/node_modules
+    ports:
+      - "6006:6006"
+    command: pnpm --filter @premstats/ui storybook
+
+  # Data scraper agent
+  scraper:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.scraper
+    volumes:
+      - ./packages/scraper:/app
+    environment:
+      - DATABASE_URL=postgres://premstats:premstats@postgres:5432/premstats?sslmode=disable
+      - REDIS_URL=redis://redis:6379
+      - RATE_LIMIT=10
+      - CACHE_DIR=/tmp/scraper-cache
+    depends_on:
+      - postgres
+      - redis
+
+  # pgAdmin for database management
+  pgadmin:
+    image: dpage/pgadmin4:latest
+    ports:
+      - "5050:80"
+    environment:
+      - PGADMIN_DEFAULT_EMAIL=admin@premstats.com
+      - PGADMIN_DEFAULT_PASSWORD=admin
+    depends_on:
+      - postgres
+
+volumes:
+  postgres_data:
+  redis_data:

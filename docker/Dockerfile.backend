@@ -1,0 +1,33 @@
+FROM golang:1.21-alpine AS builder
+
+# Install air for hot reload
+RUN go install github.com/cosmtrek/air@latest
+
+WORKDIR /app
+
+# Copy go mod files
+COPY packages/api/go.mod packages/api/go.sum* ./
+
+# Download dependencies
+RUN go mod download
+
+# Development stage
+FROM golang:1.21-alpine
+
+# Copy air from builder
+COPY --from=builder /go/bin/air /usr/local/bin/air
+
+WORKDIR /app
+
+# Create .air.toml for hot reload configuration
+RUN echo 'root = "."' > .air.toml && \
+    echo 'tmp_dir = "tmp"' >> .air.toml && \
+    echo '[build]' >> .air.toml && \
+    echo 'cmd = "go build -o ./tmp/main ./cmd/api"' >> .air.toml && \
+    echo 'bin = "tmp/main"' >> .air.toml && \
+    echo 'include_ext = ["go", "tpl", "tmpl", "html"]' >> .air.toml
+
+EXPOSE 8080
+
+# Run with air for hot reload
+CMD ["air"]

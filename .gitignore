@@ -1,0 +1,56 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+dist/
+build/
+*.log
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+coverage/
+.nyc_output/
+*.lcov
+
+# Production
+dist/
+build/
+*.tsbuildinfo
+
+# Docker
+docker/volumes/
+postgres_data/
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+vendor/
+go.work
+go.work.sum
+
+# Temporary
+tmp/
+temp/
+.cache/
+
+# Storybook
+storybook-static/

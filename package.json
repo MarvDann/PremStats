@@ -1,0 +1,35 @@
+{
+  "name": "premstats",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Premier League Statistics Application",
+  "scripts": {
+    "dev": "pnpm --parallel --filter './apps/**' --filter './packages/**' dev",
+    "build": "pnpm --filter './apps/**' --filter './packages/**' build",
+    "test": "pnpm --filter './apps/**' --filter './packages/**' test",
+    "test:unit": "pnpm --filter './apps/**' --filter './packages/**' test:unit",
+    "test:e2e": "pnpm --filter './apps/**' test:e2e",
+    "lint": "pnpm --filter './apps/**' --filter './packages/**' lint",
+    "lint:fix": "pnpm --filter './apps/**' --filter './packages/**' lint:fix",
+    "typecheck": "pnpm --filter './apps/**' --filter './packages/**' typecheck",
+    "storybook": "pnpm --filter '@premstats/ui' storybook",
+    "docker:up": "docker-compose up",
+    "docker:down": "docker-compose down",
+    "docker:build": "docker-compose build",
+    "agent": "node scripts/agent-cli.js"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "@typescript-eslint/eslint-plugin": "^6.19.0",
+    "@typescript-eslint/parser": "^6.19.0",
+    "eslint": "^8.56.0",
+    "eslint-config-neostandard": "^0.6.0",
+    "eslint-plugin-solid": "^0.13.0",
+    "typescript": "^5.3.3"
+  },
+  "engines": {
+    "node": ">=20.0.0",
+    "pnpm": ">=8.0.0"
+  }
+}
