@@ -1,0 +1,281 @@
+import fetch from 'node-fetch'
+import chalk from 'chalk'
+import csv from 'csv-parser'
+import { Readable } from 'stream'
+
+export class HistoricalCSVScraper {
+  constructor(pool) {
+    this.pool = pool
+    this.baseUrl = 'https://www.football-data.co.uk/mmz4281'
+    this.teamMappings = {
+      // Handle team name variations
+      'Man United': 'Manchester United FC',
+      'Man City': 'Manchester City FC',
+      'Newcastle': 'Newcastle United FC',
+      'Tottenham': 'Tottenham Hotspur FC',
+      'Sheff Utd': 'Sheffield United FC',
+      'Sheffield United': 'Sheffield United FC',
+      'Sheff Wed': 'Sheffield Wednesday FC',
+      'Sheffield Weds': 'Sheffield Wednesday FC',
+      'Nottm Forest': 'Nottingham Forest FC',
+      'Nott\'m Forest': 'Nottingham Forest FC',
+      'Leicester': 'Leicester City FC',
+      'Leeds': 'Leeds United FC',
+      'Wolves': 'Wolverhampton Wanderers FC',
+      'West Ham': 'West Ham United FC',
+      'West Brom': 'West Bromwich Albion FC',
+      'Stoke': 'Stoke City FC',
+      'Swansea': 'Swansea City AFC',
+      'Norwich': 'Norwich City FC',
+      'Fulham': 'Fulham FC',
+      'Cardiff': 'Cardiff City FC',
+      'Hull': 'Hull City AFC',
+      'Birmingham': 'Birmingham City FC',
+      'Blackburn': 'Blackburn Rovers FC',
+      'Bolton': 'Bolton Wanderers FC',
+      'Middlesbrough': 'Middlesbrough FC',
+      'Middlesboro': 'Middlesbrough FC',
+      'QPR': 'Queens Park Rangers FC',
+      'Brighton': 'Brighton & Hove Albion FC',
+      'Burnley': 'Burnley FC',
+      'Huddersfield': 'Huddersfield Town AFC',
+      'Bournemouth': 'AFC Bournemouth',
+      // Simple names to full names
+      'Arsenal': 'Arsenal FC',
+      'Chelsea': 'Chelsea FC',
+      'Liverpool': 'Liverpool FC',
+      'Everton': 'Everton FC',
+      'Southampton': 'Southampton FC',
+      'Coventry': 'Coventry City FC',
+      'Oldham': 'Oldham Athletic AFC',
+      'Ipswich': 'Ipswich Town FC',
+      'Swindon': 'Swindon Town FC',
+      'Wimbledon': 'Wimbledon FC',
+      'Derby': 'Derby County FC',
+      'Barnsley': 'Barnsley FC',
+      'Bradford': 'Bradford City AFC',
+      'Charlton': 'Charlton Athletic FC',
+      'Portsmouth': 'Portsmouth FC',
+      'Watford': 'Watford FC',
+      'Wigan': 'Wigan Athletic FC',
+      'Reading': 'Reading FC',
+      'Sunderland': 'Sunderland AFC',
+      'Luton': 'Luton Town FC',
+      'Aston Villa': 'Aston Villa FC',
+      'Crystal Palace': 'Crystal Palace FC',
+      'Norwich': 'Norwich City FC'
+    }
+  }
+
+  // Get season year format for CSV files (9293, 9394, etc.)
+  getSeasonCode(seasonName) {
+    const match = seasonName.match(/(\d{2})(\d{2})\/(\d{2})/)
+    if (match) {
+      return match[2] + match[3]
+    }
+    // Handle full year format
+    const yearMatch = seasonName.match(/(\d{4})\/(\d{2})/)
+    if (yearMatch) {
+      return yearMatch[1].substr(2) + yearMatch[2]
+    }
+    return null
+  }
+
+  // Normalize team names - just return as-is since we're using short names
+  normalizeTeamName(name) {
+    if (!name) return null
+    return name.trim()
+  }
+
+  // Parse date in various formats
+  parseDate(dateStr) {
+    if (!dateStr) return null
+    
+    // Try DD/MM/YY format
+    const ddmmyy = dateStr.match(/(\d{1,2})\/(\d{1,2})\/(\d{2})/)
+    if (ddmmyy) {
+      const year = parseInt(ddmmyy[3]) > 50 ? '19' + ddmmyy[3] : '20' + ddmmyy[3]
+      return `${year}-${ddmmyy[2].padStart(2, '0')}-${ddmmyy[1].padStart(2, '0')}`
+    }
+    
+    // Try DD/MM/YYYY format
+    const ddmmyyyy = dateStr.match(/(\d{1,2})\/(\d{1,2})\/(\d{4})/)
+    if (ddmmyyyy) {
+      return `${ddmmyyyy[3]}-${ddmmyyyy[2].padStart(2, '0')}-${ddmmyyyy[1].padStart(2, '0')}`
+    }
+    
+    return dateStr
+  }
+
+  // Download and parse CSV file
+  async downloadCSV(seasonCode) {
+    const url = `${this.baseUrl}/${seasonCode}/E0.csv`
+    console.log(chalk.gray(`Downloading: ${url}`))
+    
+    try {
+      const response = await fetch(url)
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}: ${response.statusText}`)
+      }
+      
+      const text = await response.text()
+      return await this.parseCSV(text)
+    } catch (error) {
+      console.error(chalk.red(`Failed to download CSV: ${error.message}`))
+      throw error
+    }
+  }
+
+  // Parse CSV text into array of match objects
+  parseCSV(csvText) {
+    return new Promise((resolve, reject) => {
+      const results = []
+      const stream = Readable.from(csvText)
+      
+      stream
+        .pipe(csv())
+        .on('data', (row) => {
+          // Map CSV columns to our format
+          const match = {
+            date: this.parseDate(row.Date),
+            homeTeam: this.normalizeTeamName(row.HomeTeam),
+            awayTeam: this.normalizeTeamName(row.AwayTeam),
+            homeScore: parseInt(row.FTHG) || 0, // Full Time Home Goals
+            awayScore: parseInt(row.FTAG) || 0, // Full Time Away Goals
+            halfTimeHome: parseInt(row.HTHG) || null, // Half Time Home Goals
+            halfTimeAway: parseInt(row.HTAG) || null, // Half Time Away Goals
+            result: row.FTR, // Full Time Result (H/D/A)
+            referee: row.Referee || null,
+            // Additional stats if available
+            homeShots: parseInt(row.HS) || null,
+            awayShots: parseInt(row.AS) || null,
+            homeShotsTarget: parseInt(row.HST) || null,
+            awayShotsTarget: parseInt(row.AST) || null,
+            homeCorners: parseInt(row.HC) || null,
+            awayCorners: parseInt(row.AC) || null,
+            homeFouls: parseInt(row.HF) || null,
+            awayFouls: parseInt(row.AF) || null,
+            homeYellow: parseInt(row.HY) || null,
+            awayYellow: parseInt(row.AY) || null,
+            homeRed: parseInt(row.HR) || null,
+            awayRed: parseInt(row.AR) || null
+          }
+          
+          if (match.date && match.homeTeam && match.awayTeam) {
+            results.push(match)
+          }
+        })
+        .on('end', () => {
+          console.log(chalk.green(`Parsed ${results.length} matches`))
+          resolve(results)
+        })
+        .on('error', reject)
+    })
+  }
+
+  // Store matches in database
+  async storeMatches(matches, seasonId) {
+    let stored = 0
+    let failed = 0
+    
+    for (const match of matches) {
+      try {
+        // Get team IDs
+        const homeTeamResult = await this.pool.query(
+          'SELECT id FROM teams WHERE name = $1 OR short_name = $1',
+          [match.homeTeam]
+        )
+        const awayTeamResult = await this.pool.query(
+          'SELECT id FROM teams WHERE name = $1 OR short_name = $1',
+          [match.awayTeam]
+        )
+        
+        if (homeTeamResult.rows.length === 0 || awayTeamResult.rows.length === 0) {
+          console.error(chalk.yellow(`Teams not found: ${match.homeTeam} vs ${match.awayTeam}`))
+          failed++
+          continue
+        }
+        
+        const homeTeamId = homeTeamResult.rows[0].id
+        const awayTeamId = awayTeamResult.rows[0].id
+        
+        // Insert match
+        await this.pool.query(`
+          INSERT INTO matches (
+            season_id, home_team_id, away_team_id, match_date,
+            home_score, away_score, half_time_home, half_time_away,
+            status, referee
+          ) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10)
+          ON CONFLICT DO NOTHING
+        `, [
+          seasonId, homeTeamId, awayTeamId, match.date,
+          match.homeScore, match.awayScore, match.halfTimeHome, match.halfTimeAway,
+          'FINISHED', match.referee
+        ])
+        
+        stored++
+      } catch (error) {
+        console.error(chalk.red(`Failed to store match: ${error.message}`))
+        failed++
+      }
+    }
+    
+    return { stored, failed, total: matches.length }
+  }
+
+  // Scrape a full season
+  async scrapeSeason(seasonName) {
+    console.log(chalk.blue(`\nScraping season: ${seasonName}`))
+    
+    // Get season from database
+    const seasonResult = await this.pool.query(
+      'SELECT id, year FROM seasons WHERE name = $1',
+      [seasonName]
+    )
+    
+    if (seasonResult.rows.length === 0) {
+      throw new Error(`Season ${seasonName} not found in database`)
+    }
+    
+    const seasonId = seasonResult.rows[0].id
+    const seasonCode = this.getSeasonCode(seasonName)
+    
+    if (!seasonCode) {
+      throw new Error(`Invalid season format: ${seasonName}`)
+    }
+    
+    // Download and parse CSV
+    const matches = await this.downloadCSV(seasonCode)
+    
+    // Store matches
+    const result = await this.storeMatches(matches, seasonId)
+    
+    console.log(chalk.green(`Season ${seasonName} complete:`))
+    console.log(chalk.green(`- Stored: ${result.stored}`))
+    console.log(chalk.yellow(`- Failed: ${result.failed}`))
+    
+    return result
+  }
+
+  // Scrape multiple seasons
+  async scrapeMultipleSeasons(startYear, endYear) {
+    const results = []
+    
+    for (let year = startYear; year <= endYear; year++) {
+      const seasonName = `${year}/${(year + 1).toString().substr(2)}`
+      
+      try {
+        const result = await this.scrapeSeason(seasonName)
+        results.push({ season: seasonName, ...result })
+        
+        // Rate limiting
+        await new Promise(resolve => setTimeout(resolve, 2000))
+      } catch (error) {
+        console.error(chalk.red(`Failed to scrape ${seasonName}: ${error.message}`))
+        results.push({ season: seasonName, error: error.message })
+      }
+    }
+    
+    return results
+  }
+}
