@@ -4,6 +4,7 @@ import { AgentWorker } from '../base/agent-worker.js'
 import chalk from 'chalk'
 import { FootballDataClient } from './football-data-client.js'
 import { HistoricalCSVScraper } from './historical-csv-scraper.js'
+import { TimHoareScraper } from './timhoare-scraper.js'
 import pg from 'pg'
 import dotenv from 'dotenv'
 
@@ -19,6 +20,7 @@ const pool = new Pool({
 // Initialize API client and scrapers
 const apiClient = new FootballDataClient()
 const historicalScraper = new HistoricalCSVScraper(pool)
+const timHoareScraper = new TimHoareScraper(pool)
 
 // Task handler for data collection
 async function handleDataTask(task) {
@@ -28,14 +30,17 @@ async function handleDataTask(task) {
   const taskLower = task.task.toLowerCase()
   
   if (taskLower.includes('scrape')) {
-    if (taskLower.includes('historical')) {
-      // Handle historical data scraping
+    if (taskLower.includes('1992-93') || taskLower.includes('1992/93')) {
+      // Handle 1992/93 season specifically with TimHoare scraper
+      return await scrape1992Season()
+    } else if (taskLower.includes('historical')) {
+      // Handle other historical data scraping
       const yearMatch = task.task.match(/(\d{4})/)
       if (yearMatch) {
         const year = parseInt(yearMatch[1])
         return await scrapeHistoricalSeason(year)
       } else {
-        return await scrapeHistoricalSeason(1992) // Default to first PL season
+        return await scrapeHistoricalSeason(1993) // Default to 1993 (first available from CSV)
       }
     } else if (taskLower.includes('teams')) {
       return await scrapeTeams()
@@ -321,6 +326,34 @@ async function scrapeTeams() {
     }
   } catch (error) {
     console.error(chalk.red(`Failed to fetch teams: ${error.message}`))
+    throw error
+  }
+}
+
+// Scrape 1992/93 season using TimHoare data
+async function scrape1992Season() {
+  console.log(chalk.blue('Scraping 1992/93 season using TimHoare repository data'))
+  
+  try {
+    const result = await timHoareScraper.scrape1992Season()
+    
+    // Calculate and store standings after importing matches
+    console.log(chalk.gray('Calculating final standings...'))
+    const seasonResult = await pool.query('SELECT id FROM seasons WHERE name = $1', ['1992/93'])
+    if (seasonResult.rows.length > 0) {
+      const seasonId = seasonResult.rows[0].id
+      await calculateAndStoreStandings(seasonId)
+    }
+    
+    return {
+      season: '1992/93',
+      year: 1992,
+      ...result,
+      source: 'TimHoare/Premier_League_Data',
+      timestamp: new Date().toISOString()
+    }
+  } catch (error) {
+    console.error(chalk.red(`Failed to scrape 1992/93 season: ${error.message}`))
     throw error
   }
 }

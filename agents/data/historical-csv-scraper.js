@@ -63,7 +63,9 @@ export class HistoricalCSVScraper {
       'Luton': 'Luton Town FC',
       'Aston Villa': 'Aston Villa FC',
       'Crystal Palace': 'Crystal Palace FC',
-      'Norwich': 'Norwich City FC'
+      'Norwich': 'Norwich City FC',
+      'Blackpool': 'Blackpool FC',
+      'Brentford': 'Brentford FC'
     }
   }
 
@@ -173,6 +175,11 @@ export class HistoricalCSVScraper {
     })
   }
 
+  // Map CSV team name to database team name
+  mapTeamName(csvName) {
+    return this.teamMappings[csvName] || csvName
+  }
+
   // Store matches in database
   async storeMatches(matches, seasonId) {
     let stored = 0
@@ -180,18 +187,22 @@ export class HistoricalCSVScraper {
     
     for (const match of matches) {
       try {
+        // Map team names from CSV to database format
+        const homeTeamName = this.mapTeamName(match.homeTeam)
+        const awayTeamName = this.mapTeamName(match.awayTeam)
+        
         // Get team IDs
         const homeTeamResult = await this.pool.query(
           'SELECT id FROM teams WHERE name = $1 OR short_name = $1',
-          [match.homeTeam]
+          [homeTeamName]
         )
         const awayTeamResult = await this.pool.query(
           'SELECT id FROM teams WHERE name = $1 OR short_name = $1',
-          [match.awayTeam]
+          [awayTeamName]
         )
         
         if (homeTeamResult.rows.length === 0 || awayTeamResult.rows.length === 0) {
-          console.error(chalk.yellow(`Teams not found: ${match.homeTeam} vs ${match.awayTeam}`))
+          console.error(chalk.yellow(`Teams not found: ${match.homeTeam} -> ${homeTeamName} vs ${match.awayTeam} -> ${awayTeamName}`))
           failed++
           continue
         }

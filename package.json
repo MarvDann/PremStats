@@ -5,34 +5,49 @@
   "type": "module",
   "description": "Premier League Statistics Application",
   "scripts": {
-    "dev": "pnpm --parallel --filter './apps/**' --filter './packages/**' dev",
-    "build": "pnpm --filter './apps/**' --filter './packages/**' build",
+    "start": "./launch.sh",
+    "stop": "./stop.sh",
+    "quick-start": "./quick-start.sh",
+    "dev": "pnpm run quick-start",
+    "build": "pnpm --filter '@premstats/ui' build && pnpm --filter '@premstats/web' build",
     "test": "pnpm --filter './apps/**' --filter './packages/**' test",
     "test:unit": "pnpm --filter './apps/**' --filter './packages/**' test:unit",
-    "test:e2e": "pnpm --filter './apps/**' test:e2e",
+    "test:e2e": "./scripts/run-e2e-tests.sh",
+    "test:e2e:ui": "./scripts/run-e2e-tests.sh ui",
+    "test:e2e:headed": "./scripts/run-e2e-tests.sh headed",
     "lint": "pnpm --filter './apps/**' --filter './packages/**' lint",
     "lint:fix": "pnpm --filter './apps/**' --filter './packages/**' lint:fix",
     "typecheck": "pnpm --filter './apps/**' --filter './packages/**' typecheck",
+    "install:all": "pnpm install && pnpm --filter @premstats/ui build",
+    "api": "cd packages/api && go run cmd/api/main.go",
+    "frontend": "pnpm --filter @premstats/web dev",
+    "ui:dev": "pnpm --filter @premstats/ui storybook",
+    "ui:build": "pnpm --filter @premstats/ui build",
+    "ui:test": "pnpm --filter @premstats/ui test",
     "storybook": "pnpm --filter '@premstats/ui' storybook",
-    "docker:up": "docker compose up",
+    "docker:up": "docker compose up -d",
     "docker:down": "docker compose down",
     "docker:build": "docker compose build",
-    "agent": "node scripts/agent-cli.js"
+    "docker:logs": "docker compose logs -f",
+    "agent": "node scripts/agent-cli.js",
+    "agent:data": "node agents/data/index.js",
+    "setup": "pnpm install && pnpm ui:build && docker compose up -d postgres redis"
   },
   "devDependencies": {
     "@types/node": "^20.11.0",
-    "@typescript-eslint/eslint-plugin": "^6.19.0",
-    "@typescript-eslint/parser": "^6.19.0",
+    "@typescript-eslint/eslint-plugin": "^6.21.0",
+    "@typescript-eslint/parser": "^6.21.0",
     "eslint": "^8.56.0",
     "eslint-config-standard": "^17.1.0",
     "eslint-plugin-import": "^2.29.0",
     "eslint-plugin-n": "^16.6.0",
     "eslint-plugin-promise": "^6.1.0",
-    "eslint-plugin-solid": "^0.13.0",
+    "eslint-plugin-solid": "^0.13.2",
     "typescript": "^5.3.3"
   },
   "engines": {
     "node": ">=20.0.0",
     "pnpm": ">=8.0.0"
-  }
+  },
+  "packageManager": "pnpm@10.12.4+sha512.5ea8b0deed94ed68691c9bad4c955492705c5eeb8a87ef86bc62c74a26b037b08ff9570f108b2e4dbd1dd1a9186fea925e527f141c648e85af45631074680184"
 }

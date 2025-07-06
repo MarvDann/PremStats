@@ -3,9 +3,9 @@
 import { spawn } from 'child_process'
 import chalk from 'chalk'
 
-// Seasons to import (1993/94 to 2024/25)
+// Seasons to import (2004/05 to 2024/25) - continuing from where we left off
 const seasons = []
-for (let year = 1994; year <= 2024; year++) {
+for (let year = 2004; year <= 2024; year++) {
   seasons.push(year)
 }
 
