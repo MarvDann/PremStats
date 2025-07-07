@@ -1,5 +1,5 @@
 import type { Component } from 'solid-js'
-import { createSignal, For } from 'solid-js'
+import { createSignal, For, onMount, onCleanup } from 'solid-js'
 import { createQuery } from '@tanstack/solid-query'
 import { Container, Card, StatsCard, Input, DataTable } from '@premstats/ui'
 
@@ -31,6 +31,14 @@ const PlayersPage: Component = () => {
   const [searchTerm, setSearchTerm] = createSignal('')
   const [selectedTeam, setSelectedTeam] = createSignal<number | null>(null)
 
+  onMount(() => {
+    console.log('Players component mounted')
+  })
+
+  onCleanup(() => {
+    console.log('Players component unmounted')
+  })
+
   const teamsQuery = createQuery(() => ({
     queryKey: ['teams'],
     queryFn: async (): Promise<{ teams: Team[] }> => {
@@ -38,7 +46,8 @@ const PlayersPage: Component = () => {
       if (!response.ok) {
         throw new Error('Failed to fetch teams')
       }
-      return response.json()
+      const result = await response.json()
+      return result.data // Extract the data property from the API response
     }
   }))
 
@@ -112,7 +121,7 @@ const PlayersPage: Component = () => {
   ]
 
   return (
-    <Container>
+    <Container class="max-w-5xl">
       <div class="space-y-6">
         <div class="flex justify-between items-center">
           <h1 class="text-3xl font-bold tracking-tight">Premier League Players</h1>
@@ -183,7 +192,7 @@ const PlayersPage: Component = () => {
                 onChange={(e) => setSelectedTeam(e.currentTarget.value ? parseInt(e.currentTarget.value) : null)}
               >
                 <option value="">All Teams</option>
-                <For each={teamsQuery.data?.teams || []}>
+                <For each={teamsQuery.data?.teams ? [...teamsQuery.data.teams].sort((a, b) => a.name.localeCompare(b.name)) : []}>
                   {(team) => (
                     <option value={team.id}>{team.name}</option>
                   )}

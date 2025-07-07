@@ -3,15 +3,20 @@ import { tv } from 'tailwind-variants'
 import { cn } from '../../utils/cn'
 
 const tableVariants = tv({
-  base: 'w-full caption-bottom text-sm',
+  base: 'w-full caption-bottom',
   variants: {
     variant: {
       default: '',
       striped: '[&_tbody_tr:nth-child(odd)]:bg-muted/50'
+    },
+    size: {
+      default: 'text-sm',
+      compact: 'text-xs'
     }
   },
   defaultVariants: {
-    variant: 'default'
+    variant: 'default',
+    size: 'default'
   }
 })
 
@@ -28,14 +33,16 @@ export interface DataTableProps<T> extends JSX.HTMLAttributes<HTMLTableElement> 
   data: T[]
   columns: Column<T>[]
   variant?: 'default' | 'striped'
+  size?: 'default' | 'compact'
   sortable?: boolean
+  getRowClass?: (item: T) => string
   class?: string
 }
 
 type SortDirection = 'asc' | 'desc' | null
 
 export function DataTable<T> (props: DataTableProps<T>) {
-  const [local, others] = splitProps(props, ['data', 'columns', 'variant', 'sortable', 'class'])
+  const [local, others] = splitProps(props, ['data', 'columns', 'variant', 'size', 'sortable', 'getRowClass', 'class'])
   const [sortColumn, setSortColumn] = createSignal<string | null>(null)
   const [sortDirection, setSortDirection] = createSignal<SortDirection>(null)
 
@@ -134,10 +141,18 @@ export function DataTable<T> (props: DataTableProps<T>) {
     }
   }
 
+  const getPaddingClass = () => {
+    return local.size === 'compact' ? 'px-3 py-2' : 'px-4 py-2'
+  }
+
+  const getHeaderPaddingClass = () => {
+    return local.size === 'compact' ? 'h-10 px-3' : 'h-12 px-4'
+  }
+
   return (
     <div class="relative w-full overflow-auto">
       <table
-        class={cn(tableVariants({ variant: local.variant }), local.class)}
+        class={cn(tableVariants({ variant: local.variant, size: local.size }), local.class)}
         {...others}
       >
         <thead class="[&_tr]:border-b">
@@ -146,7 +161,8 @@ export function DataTable<T> (props: DataTableProps<T>) {
               {(column) => (
                 <th
                   class={cn(
-                    'h-12 px-4 font-medium text-muted-foreground',
+                    getHeaderPaddingClass(),
+                    'font-medium text-muted-foreground',
                     getAlignmentClass(column.align),
                     column.sortable && local.sortable ? 'cursor-pointer select-none hover:text-foreground' : ''
                   )}
@@ -165,10 +181,13 @@ export function DataTable<T> (props: DataTableProps<T>) {
         <tbody class="[&_tr:last-child]:border-0">
           <For each={sortedData()}>
             {(item) => (
-              <tr class="border-b transition-colors hover:bg-muted/50 data-[state=selected]:bg-muted">
+              <tr class={cn(
+                "border-b transition-colors hover:bg-muted/50 data-[state=selected]:bg-muted",
+                local.getRowClass ? local.getRowClass(item) : ""
+              )}>
                 <For each={local.columns}>
                   {(column) => (
-                    <td class={cn('p-4', getAlignmentClass(column.align))}>
+                    <td class={cn(getPaddingClass(), getAlignmentClass(column.align))}>
                       {column.accessor(item)}
                     </td>
                   )}

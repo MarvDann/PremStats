@@ -1,8 +1,9 @@
 import type { Component } from 'solid-js'
-import { createSignal, For } from 'solid-js'
+import { createSignal, For, onMount } from 'solid-js'
 import { useParams } from '@solidjs/router'
 import { createQuery } from '@tanstack/solid-query'
 import { Container, Card, StatsCard, Button } from '@premstats/ui'
+import { getTeamCrest } from '../utils/teamCrests'
 
 interface Team {
   id: number
@@ -50,6 +51,13 @@ const TeamDetail: Component = () => {
   const teamId = () => parseInt(params.id)
   const [selectedSeason, setSelectedSeason] = createSignal<number | null>(null)
 
+  // Set default season to current season (2024/25 = ID 33)
+  onMount(() => {
+    if (selectedSeason() === null) {
+      setSelectedSeason(33) // Default to current season
+    }
+  })
+
   const teamQuery = createQuery(() => ({
     queryKey: ['team', teamId()],
     queryFn: async (): Promise<Team> => {
@@ -69,7 +77,12 @@ const TeamDetail: Component = () => {
       if (!response.ok) {
         throw new Error('Failed to fetch seasons')
       }
-      return response.json()
+      const data = await response.json()
+      // Sort seasons by name descending (most recent first)
+      const sortedSeasons = data.data.seasons.sort((a: Season, b: Season) => 
+        b.name.localeCompare(a.name)
+      )
+      return { seasons: sortedSeasons }
     }
   }))
 
@@ -92,20 +105,33 @@ const TeamDetail: Component = () => {
   const teamMatchesQuery = createQuery(() => ({
     queryKey: ['team-matches', teamId(), selectedSeason()],
     queryFn: async (): Promise<{ matches: Match[] }> => {
-      const seasonParam = selectedSeason() ? `&season=${selectedSeason()}` : ''
-      const response = await fetch(`http://localhost:8081/api/v1/matches?limit=100${seasonParam}`)
+      if (!selectedSeason()) {
+        throw new Error('No season selected')
+      }
+      const response = await fetch(`http://localhost:8081/api/v1/matches?season=${selectedSeason()}&limit=100`)
       if (!response.ok) {
         throw new Error('Failed to fetch matches')
       }
       const data = await response.json()
-      // Filter matches for this team
+      // Filter matches for this team using correct field names
       const teamName = teamQuery.data?.name || ''
-      const filteredMatches = data.matches.filter((match: Match) => 
-        match.home_team === teamName || match.away_team === teamName
+      const filteredMatches = data.data.matches.filter((match: any) => 
+        match.homeTeam === teamName || match.awayTeam === teamName
       )
-      return { matches: filteredMatches }
+      // Convert to expected format
+      const convertedMatches = filteredMatches.map((match: any) => ({
+        id: match.id,
+        season_id: match.seasonId,
+        home_team: match.homeTeam,
+        away_team: match.awayTeam,
+        home_score: match.homeScore,
+        away_score: match.awayScore,
+        match_date: match.date,
+        referee: match.referee
+      }))
+      return { matches: convertedMatches }
     },
-    enabled: () => teamQuery.data !== undefined
+    enabled: () => teamQuery.data !== undefined && selectedSeason() !== null
   }))
 
   const formatDate = (dateString: string) => {
@@ -147,23 +173,31 @@ const TeamDetail: Component = () => {
 
   const getResultColor = (result: string) => {
     switch (result) {
-      case 'W': return 'bg-green-100 text-green-800'
-      case 'L': return 'bg-red-100 text-red-800'
-      case 'D': return 'bg-gray-100 text-gray-800'
-      default: return 'bg-gray-100 text-gray-800'
+      case 'W': return 'bg-emerald-50 text-emerald-700 border border-emerald-200'
+      case 'L': return 'bg-rose-50 text-rose-700 border border-rose-200'
+      case 'D': return 'bg-slate-100 text-slate-600 border border-slate-200'
+      default: return 'bg-slate-100 text-slate-600 border border-slate-200'
     }
   }
 
   return (
-    <Container>
+    <Container class="max-w-5xl">
       <div class="space-y-6">
         {/* Team Header */}
         {teamQuery.data && (
           <div class="flex items-center justify-between">
             <div class="flex items-center space-x-4">
-              <div class="w-16 h-16 bg-primary rounded-lg flex items-center justify-center text-primary-foreground font-bold text-xl">
-                {teamQuery.data.shortName}
-              </div>
+              {getTeamCrest(teamQuery.data.name) ? (
+                <img
+                  src={getTeamCrest(teamQuery.data.name)}
+                  alt={`${teamQuery.data.name} crest`}
+                  class="w-16 h-16 object-contain"
+                />
+              ) : (
+                <div class="w-16 h-16 bg-primary rounded-lg flex items-center justify-center text-primary-foreground font-bold text-xl">
+                  {teamQuery.data.shortName}
+                </div>
+              )}
               <div>
                 <h1 class="text-3xl font-bold tracking-tight">{teamQuery.data.name}</h1>
                 <p class="text-muted-foreground">
@@ -185,7 +219,7 @@ const TeamDetail: Component = () => {
             value={selectedSeason() || ''}
             onChange={(e) => setSelectedSeason(e.currentTarget.value ? parseInt(e.currentTarget.value) : null)}
           >
-            <option value="">Select a season</option>
+            <option value="">All seasons available</option>
             <For each={seasonsQuery.data?.seasons || []}>
               {(season) => (
                 <option value={season.id}>{season.name}</option>

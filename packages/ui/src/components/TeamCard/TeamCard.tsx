@@ -1,4 +1,4 @@
-import { JSX, ParentComponent, splitProps, Show } from 'solid-js'
+import { JSX, ParentComponent, splitProps, Show, For } from 'solid-js'
 import { tv } from 'tailwind-variants'
 import { cn } from '../../utils/cn'
 import { Card, CardHeader, CardContent } from '../Card'
@@ -40,6 +40,7 @@ export interface TeamCardProps extends JSX.HTMLAttributes<HTMLDivElement> {
   size?: 'sm' | 'md' | 'lg'
   variant?: 'default' | 'compact' | 'featured'
   showStats?: boolean
+  formGuide?: string[] // Array of W/L/D results from last 6 matches
   class?: string
 }
 
@@ -47,7 +48,7 @@ export const TeamCard: ParentComponent<TeamCardProps> = (props) => {
   const [local, others] = splitProps(props, [
     'name', 'stadium', 'founded', 'manager', 'logo', 'position', 'points', 
     'played', 'won', 'drawn', 'lost', 'goalsFor', 'goalsAgainst', 
-    'size', 'variant', 'showStats', 'class'
+    'size', 'variant', 'showStats', 'formGuide', 'class'
   ])
 
   const getPositionColor = (position?: number) => {
@@ -68,6 +69,15 @@ export const TeamCard: ParentComponent<TeamCardProps> = (props) => {
     return ''
   }
 
+  const getResultColor = (result: string) => {
+    switch (result) {
+      case 'W': return 'bg-emerald-50 text-emerald-700 border border-emerald-200'
+      case 'L': return 'bg-rose-50 text-rose-700 border border-rose-200'
+      case 'D': return 'bg-slate-100 text-slate-600 border border-slate-200'
+      default: return 'bg-slate-100 text-slate-600 border border-slate-200'
+    }
+  }
+
   return (
     <Card
       class={cn(teamCardVariants({ size: local.size, variant: local.variant }), local.class)}
@@ -80,7 +90,20 @@ export const TeamCard: ParentComponent<TeamCardProps> = (props) => {
               src={local.logo}
               alt={`${local.name} logo`}
               class="team-logo w-12 h-12 object-contain"
+              onError={(e) => {
+                e.currentTarget.style.display = 'none'
+                const fallback = e.currentTarget.nextElementSibling as HTMLElement
+                if (fallback) {
+                  fallback.style.display = 'flex'
+                  fallback.classList.remove('hidden')
+                }
+              }}
             />
+            <div class="team-logo w-12 h-12 bg-muted rounded-full hidden items-center justify-center">
+              <span class="text-lg font-bold text-muted-foreground">
+                {local.name.substring(0, 2).toUpperCase()}
+              </span>
+            </div>
           </Show>
           <Show when={!local.logo}>
             <div class="team-logo w-12 h-12 bg-muted rounded-full flex items-center justify-center">
@@ -163,6 +186,25 @@ export const TeamCard: ParentComponent<TeamCardProps> = (props) => {
                 <div class="text-xs text-muted-foreground">Goals Against</div>
               </div>
             </Show>
+          </div>
+        </Show>
+
+        {/* Form Guide */}
+        <Show when={local.formGuide && local.formGuide.length > 0}>
+          <div class="space-y-2">
+            <div class="text-xs text-muted-foreground font-medium">Last 6 PL matches</div>
+            <div class="flex gap-1">
+              <For each={local.formGuide?.slice().reverse()}>
+                {(result) => (
+                  <div class={cn(
+                    'w-6 h-6 rounded-full text-xs font-bold flex items-center justify-center',
+                    getResultColor(result)
+                  )}>
+                    {result}
+                  </div>
+                )}
+              </For>
+            </div>
           </div>
         </Show>
 

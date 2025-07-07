@@ -8,64 +8,63 @@ export class HistoricalCSVScraper {
     this.pool = pool
     this.baseUrl = 'https://www.football-data.co.uk/mmz4281'
     this.teamMappings = {
-      // Handle team name variations
-      'Man United': 'Manchester United FC',
-      'Man City': 'Manchester City FC',
-      'Newcastle': 'Newcastle United FC',
-      'Tottenham': 'Tottenham Hotspur FC',
-      'Sheff Utd': 'Sheffield United FC',
-      'Sheffield United': 'Sheffield United FC',
-      'Sheff Wed': 'Sheffield Wednesday FC',
-      'Sheffield Weds': 'Sheffield Wednesday FC',
-      'Nottm Forest': 'Nottingham Forest FC',
-      'Nott\'m Forest': 'Nottingham Forest FC',
-      'Leicester': 'Leicester City FC',
-      'Leeds': 'Leeds United FC',
-      'Wolves': 'Wolverhampton Wanderers FC',
-      'West Ham': 'West Ham United FC',
-      'West Brom': 'West Bromwich Albion FC',
-      'Stoke': 'Stoke City FC',
-      'Swansea': 'Swansea City AFC',
-      'Norwich': 'Norwich City FC',
-      'Fulham': 'Fulham FC',
-      'Cardiff': 'Cardiff City FC',
-      'Hull': 'Hull City AFC',
-      'Birmingham': 'Birmingham City FC',
-      'Blackburn': 'Blackburn Rovers FC',
-      'Bolton': 'Bolton Wanderers FC',
-      'Middlesbrough': 'Middlesbrough FC',
-      'Middlesboro': 'Middlesbrough FC',
-      'QPR': 'Queens Park Rangers FC',
-      'Brighton': 'Brighton & Hove Albion FC',
-      'Burnley': 'Burnley FC',
-      'Huddersfield': 'Huddersfield Town AFC',
-      'Bournemouth': 'AFC Bournemouth',
-      // Simple names to full names
-      'Arsenal': 'Arsenal FC',
-      'Chelsea': 'Chelsea FC',
-      'Liverpool': 'Liverpool FC',
-      'Everton': 'Everton FC',
-      'Southampton': 'Southampton FC',
-      'Coventry': 'Coventry City FC',
-      'Oldham': 'Oldham Athletic AFC',
-      'Ipswich': 'Ipswich Town FC',
-      'Swindon': 'Swindon Town FC',
-      'Wimbledon': 'Wimbledon FC',
-      'Derby': 'Derby County FC',
-      'Barnsley': 'Barnsley FC',
-      'Bradford': 'Bradford City AFC',
-      'Charlton': 'Charlton Athletic FC',
-      'Portsmouth': 'Portsmouth FC',
-      'Watford': 'Watford FC',
-      'Wigan': 'Wigan Athletic FC',
-      'Reading': 'Reading FC',
-      'Sunderland': 'Sunderland AFC',
-      'Luton': 'Luton Town FC',
-      'Aston Villa': 'Aston Villa FC',
-      'Crystal Palace': 'Crystal Palace FC',
-      'Norwich': 'Norwich City FC',
-      'Blackpool': 'Blackpool FC',
-      'Brentford': 'Brentford FC'
+      // Handle team name variations - normalize TO short versions
+      'Man United': 'Manchester United',
+      'Man City': 'Manchester City',
+      'Newcastle': 'Newcastle United',
+      'Tottenham': 'Tottenham',
+      'Sheff Utd': 'Sheffield United',
+      'Sheffield United': 'Sheffield United',
+      'Sheff Wed': 'Sheffield Wednesday',
+      'Sheffield Weds': 'Sheffield Wednesday',
+      'Nottm Forest': 'Nottingham Forest',
+      'Nott\'m Forest': 'Nottingham Forest',
+      'Leicester': 'Leicester City',
+      'Leeds': 'Leeds United',
+      'Wolves': 'Wolverhampton Wanderers',
+      'West Ham': 'West Ham United',
+      'West Brom': 'West Bromwich Albion',
+      'Stoke': 'Stoke City',
+      'Swansea': 'Swansea City',
+      'Norwich': 'Norwich City',
+      'Fulham': 'Fulham',
+      'Cardiff': 'Cardiff City',
+      'Hull': 'Hull City',
+      'Birmingham': 'Birmingham City',
+      'Blackburn': 'Blackburn Rovers',
+      'Bolton': 'Bolton Wanderers',
+      'Middlesbrough': 'Middlesbrough',
+      'Middlesboro': 'Middlesbrough',
+      'QPR': 'Queens Park Rangers',
+      'Brighton': 'Brighton & Hove Albion',
+      'Burnley': 'Burnley',
+      'Huddersfield': 'Huddersfield Town',
+      'Bournemouth': 'Bournemouth',
+      // Standard names (already short versions)
+      'Arsenal': 'Arsenal',
+      'Chelsea': 'Chelsea',
+      'Liverpool': 'Liverpool',
+      'Everton': 'Everton',
+      'Southampton': 'Southampton',
+      'Coventry': 'Coventry City',
+      'Oldham': 'Oldham Athletic',
+      'Ipswich': 'Ipswich Town',
+      'Swindon': 'Swindon Town',
+      'Wimbledon': 'Wimbledon',
+      'Derby': 'Derby County',
+      'Barnsley': 'Barnsley',
+      'Bradford': 'Bradford City',
+      'Charlton': 'Charlton Athletic',
+      'Portsmouth': 'Portsmouth',
+      'Watford': 'Watford',
+      'Wigan': 'Wigan Athletic',
+      'Reading': 'Reading',
+      'Sunderland': 'Sunderland',
+      'Luton': 'Luton Town',
+      'Aston Villa': 'Aston Villa',
+      'Crystal Palace': 'Crystal Palace',
+      'Blackpool': 'Blackpool',
+      'Brentford': 'Brentford'
     }
   }
 
@@ -83,27 +82,30 @@ export class HistoricalCSVScraper {
     return null
   }
 
-  // Normalize team names - just return as-is since we're using short names
+  // Normalize team names to short versions
   normalizeTeamName(name) {
     if (!name) return null
-    return name.trim()
+    const trimmed = name.trim()
+    
+    // Use mapping if available, otherwise return as-is
+    return this.teamMappings[trimmed] || trimmed
   }
 
   // Parse date in various formats
   parseDate(dateStr) {
     if (!dateStr) return null
     
-    // Try DD/MM/YY format
-    const ddmmyy = dateStr.match(/(\d{1,2})\/(\d{1,2})\/(\d{2})/)
-    if (ddmmyy) {
-      const year = parseInt(ddmmyy[3]) > 50 ? '19' + ddmmyy[3] : '20' + ddmmyy[3]
-      return `${year}-${ddmmyy[2].padStart(2, '0')}-${ddmmyy[1].padStart(2, '0')}`
-    }
-    
-    // Try DD/MM/YYYY format
+    // Try DD/MM/YYYY format first (4-digit years)
     const ddmmyyyy = dateStr.match(/(\d{1,2})\/(\d{1,2})\/(\d{4})/)
     if (ddmmyyyy) {
       return `${ddmmyyyy[3]}-${ddmmyyyy[2].padStart(2, '0')}-${ddmmyyyy[1].padStart(2, '0')}`
+    }
+    
+    // Try DD/MM/YY format (2-digit years only)
+    const ddmmyy = dateStr.match(/^(\d{1,2})\/(\d{1,2})\/(\d{2})$/)
+    if (ddmmyy) {
+      const year = parseInt(ddmmyy[3]) > 50 ? '19' + ddmmyy[3] : '20' + ddmmyy[3]
+      return `${year}-${ddmmyy[2].padStart(2, '0')}-${ddmmyy[1].padStart(2, '0')}`
     }
     
     return dateStr

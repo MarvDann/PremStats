@@ -1,6 +1,6 @@
 import type { Component } from 'solid-js'
 import { createSignal } from 'solid-js'
-import { Container, Card, StatsCard, Input, Button } from '@premstats/ui'
+import { Container, StatsCard, Input, Button } from '@premstats/ui'
 
 const HomePage: Component = () => {
   const [query, setQuery] = createSignal('')
@@ -11,7 +11,7 @@ const HomePage: Component = () => {
   }
 
   return (
-    <Container>
+    <Container class="max-w-5xl">
       <div class="space-y-8">
         {/* Hero Section */}
         <div class="text-center space-y-4">
@@ -19,7 +19,7 @@ const HomePage: Component = () => {
             Premier League Statistics
           </h1>
           <p class="text-xl text-muted-foreground max-w-2xl mx-auto">
-            Comprehensive football data from 1992 to present. Explore teams, players, matches, and statistics.
+            Comprehensive football data from 1992 to present.<br />Explore teams, players, matches, and statistics.
           </p>
         </div>
 
@@ -60,57 +60,12 @@ const HomePage: Component = () => {
           />
           <StatsCard
             label="Current Season"
-            value="2023/24"
+            value="2024/25"
             description="In progress"
             variant="default"
           />
         </div>
 
-        {/* Featured Section */}
-        <div class="space-y-6">
-          <h2 class="text-3xl font-bold tracking-tight">Quick Access</h2>
-          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
-            <Card>
-              <a
-                href="/teams"
-                class="block p-6 group hover:bg-muted/50 transition-colors"
-              >
-                <h3 class="font-semibold group-hover:text-primary">Teams</h3>
-                <p class="text-sm text-muted-foreground">Explore all Premier League teams</p>
-              </a>
-            </Card>
-            
-            <Card>
-              <a
-                href="/players"
-                class="block p-6 group hover:bg-muted/50 transition-colors"
-              >
-                <h3 class="font-semibold group-hover:text-primary">Players</h3>
-                <p class="text-sm text-muted-foreground">Player statistics and records</p>
-              </a>
-            </Card>
-            
-            <Card>
-              <a
-                href="/matches"
-                class="block p-6 group hover:bg-muted/50 transition-colors"
-              >
-                <h3 class="font-semibold group-hover:text-primary">Matches</h3>
-                <p class="text-sm text-muted-foreground">Historical match results</p>
-              </a>
-            </Card>
-            
-            <Card>
-              <a
-                href="/stats"
-                class="block p-6 group hover:bg-muted/50 transition-colors"
-              >
-                <h3 class="font-semibold group-hover:text-primary">Statistics</h3>
-                <p class="text-sm text-muted-foreground">Advanced analytics and insights</p>
-              </a>
-            </Card>
-          </div>
-        </div>
       </div>
     </Container>
   )

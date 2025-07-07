@@ -9,8 +9,21 @@ import TeamDetail from './pages/TeamDetail'
 import PlayersPage from './pages/Players'
 import MatchesPage from './pages/Matches'
 import StatsPage from './pages/Stats'
+import { initializeCurrentSeason } from './utils/seasonStore'
 
-const queryClient = new QueryClient()
+const queryClient = new QueryClient({
+  defaultOptions: {
+    queries: {
+      staleTime: 0, // Always consider data stale
+      gcTime: 1000 * 60 * 5, // 5 minutes
+      refetchOnWindowFocus: true,
+      refetchOnReconnect: true,
+    },
+  },
+})
+
+// Initialize the current season when the app starts
+initializeCurrentSeason()
 
 const root = document.getElementById('root')
 
