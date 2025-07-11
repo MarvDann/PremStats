@@ -31,7 +31,7 @@ test.describe('PremStats Pages', () => {
     await expect(page.getByRole('link', { name: /Teams/i })).toBeVisible()
     await expect(page.getByRole('link', { name: /Players/i })).toBeVisible()
     await expect(page.getByRole('link', { name: /Matches/i })).toBeVisible()
-    await expect(page.getByRole('link', { name: /Statistics/i })).toBeVisible()
+    await expect(page.getByRole('link', { name: /Tables/i })).toBeVisible()
   })
 
   test('Navigation works correctly', async ({ page }) => {
@@ -117,11 +117,12 @@ test.describe('PremStats Pages', () => {
     await expect(page.getByRole('heading', { name: /Premier League Players/i })).toBeVisible()
     
     // Check for stats cards
+    await expect(page.getByText(/Current Top Scorer/i)).toBeVisible()
     await expect(page.getByText(/All-Time Top Scorer/i)).toBeVisible()
-    await expect(page.getByText(/Most Appearances/i)).toBeVisible()
     
     // Check for data tables
-    await expect(page.getByText(/Top Scorers by Season/i)).toBeVisible()
+    await expect(page.getByText(/Top Scorers - 2024\/25 Season/i)).toBeVisible()
+    await expect(page.getByText(/All Players/i)).toBeVisible()
     await expect(page.getByText(/All-Time Leading Scorers/i)).toBeVisible()
     
     // Check search functionality

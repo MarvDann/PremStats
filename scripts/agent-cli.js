@@ -5,6 +5,9 @@ import { program } from 'commander'
 import chalk from 'chalk'
 import ora from 'ora'
 import { v4 as uuidv4 } from 'uuid'
+import { execSync } from 'child_process'
+import { WorktreeManager } from '../agents/base/worktree-manager.js'
+import { GitHubIssueMonitor } from '../agents/github/issue-monitor.js'
 
 const REDIS_URL = process.env.REDIS_URL || 'redis://localhost:6379'
 
@@ -41,11 +44,13 @@ async function dispatchTask(agent, task, options) {
     
     const taskData = {
       id: uuidv4(),
+      type: options.metadata ? 'github-issue' : 'generic',
       agent,
       task,
       priority: options.priority || 'normal',
       created: new Date().toISOString(),
-      status: 'pending'
+      status: 'pending',
+      ...(options.metadata && { metadata: options.metadata })
     }
     
     await redis.lPush(QUEUES[agent], JSON.stringify(taskData))
@@ -218,5 +223,184 @@ program
   .action((endpoint) => {
     dispatchTask('backend', `Create ${endpoint} endpoint`, { priority: 'normal' })
   })
+
+// GitHub Integration Commands
+program
+  .command('issue <number>')
+  .description('Assign GitHub issue to appropriate agent')
+  .option('-a, --agent <agent>', 'Force assign to specific agent')
+  .action(async (number, options) => {
+    await assignIssue(number, options.agent)
+  })
+
+program
+  .command('pr-status')
+  .description('Check status of agent-created PRs')
+  .action(async () => {
+    await checkPRStatus()
+  })
+
+program
+  .command('worktrees')
+  .description('List active worktrees')
+  .action(async () => {
+    await listWorktrees()
+  })
+
+program
+  .command('cleanup-worktrees')
+  .description('Clean up completed worktrees')
+  .action(async () => {
+    await cleanupWorktrees()
+  })
+
+program
+  .command('monitor')
+  .description('Start GitHub issue monitor')
+  .action(async () => {
+    await startMonitor()
+  })
+
+// GitHub Integration Command Implementations
+
+// Assign GitHub issue to agent
+async function assignIssue(issueNumber, forcedAgent) {
+  const spinner = ora('Assigning GitHub issue...').start()
+  
+  try {
+    // Fetch issue details
+    const issueJson = execSync(`gh issue view ${issueNumber} --json title,body,labels`, {
+      encoding: 'utf-8'
+    })
+    const issue = JSON.parse(issueJson)
+    
+    // Determine agent type
+    let agentType = forcedAgent
+    if (!agentType) {
+      const text = (issue.title + ' ' + issue.body).toLowerCase()
+      const frontendKeywords = ['page', 'component', 'ui', 'display', 'frontend', 'match detail']
+      agentType = frontendKeywords.some(keyword => text.includes(keyword)) ? 'frontend' : 'backend'
+    }
+    
+    // Dispatch task
+    await dispatchTask(agentType, `Fix GitHub Issue #${issueNumber}: ${issue.title}`, {
+      priority: 'high',
+      metadata: {
+        issueNumber: parseInt(issueNumber),
+        issueTitle: issue.title,
+        issueBody: issue.body,
+        repository: 'MarvDann/PremStats'
+      }
+    })
+    
+    spinner.succeed(chalk.green(`Issue #${issueNumber} assigned to ${agentType} agent`))
+    
+  } catch (error) {
+    spinner.fail(chalk.red('Failed to assign issue'))
+    console.error(error.message)
+  }
+}
+
+// Check PR status
+async function checkPRStatus() {
+  const spinner = ora('Checking PR status...').start()
+  
+  try {
+    const prs = execSync('gh pr list --author @me --json number,title,state,url', {
+      encoding: 'utf-8'
+    })
+    
+    const prList = JSON.parse(prs)
+    spinner.stop()
+    
+    if (prList.length === 0) {
+      console.log(chalk.yellow('No PRs found'))
+      return
+    }
+    
+    console.log(chalk.bold('\nAgent-created PRs:\n'))
+    
+    for (const pr of prList) {
+      const statusColor = pr.state === 'OPEN' ? chalk.green : chalk.gray
+      console.log(`#${pr.number}: ${pr.title}`)
+      console.log(`  Status: ${statusColor(pr.state)}`)
+      console.log(`  URL: ${chalk.blue(pr.url)}`)
+      console.log()
+    }
+    
+  } catch (error) {
+    spinner.fail(chalk.red('Failed to check PR status'))
+    console.error(error.message)
+  }
+}
+
+// List active worktrees
+async function listWorktrees() {
+  const spinner = ora('Listing worktrees...').start()
+  
+  try {
+    const worktreeManager = new WorktreeManager()
+    const worktrees = await worktreeManager.listWorktrees()
+    
+    spinner.stop()
+    
+    const issueWorktrees = worktrees.filter(w => w.path.includes('issue-'))
+    
+    if (issueWorktrees.length === 0) {
+      console.log(chalk.yellow('No active issue worktrees'))
+      return
+    }
+    
+    console.log(chalk.bold('\nActive Issue Worktrees:\n'))
+    
+    for (const worktree of issueWorktrees) {
+      const issueMatch = worktree.path.match(/issue-(\d+)/)
+      const issueNumber = issueMatch ? issueMatch[1] : 'unknown'
+      
+      console.log(`Issue #${issueNumber}:`)
+      console.log(`  Path: ${worktree.path}`)
+      console.log(`  Branch: ${worktree.branch || 'detached'}`)
+      console.log(`  Status: ${worktree.detached ? 'detached' : 'active'}`)
+      console.log()
+    }
+    
+  } catch (error) {
+    spinner.fail(chalk.red('Failed to list worktrees'))
+    console.error(error.message)
+  }
+}
+
+// Clean up worktrees
+async function cleanupWorktrees() {
+  const spinner = ora('Cleaning up worktrees...').start()
+  
+  try {
+    const worktreeManager = new WorktreeManager()
+    await worktreeManager.cleanupAll()
+    
+    spinner.succeed(chalk.green('Worktrees cleaned up successfully'))
+    
+  } catch (error) {
+    spinner.fail(chalk.red('Failed to cleanup worktrees'))
+    console.error(error.message)
+  }
+}
+
+// Start GitHub issue monitor
+async function startMonitor() {
+  console.log(chalk.blue('🔍 Starting GitHub Issue Monitor...'))
+  console.log(chalk.gray('This will monitor for new issues and assign them to agents'))
+  console.log(chalk.gray('Press Ctrl+C to stop'))
+  
+  try {
+    const monitor = new GitHubIssueMonitor()
+    await monitor.start()
+    
+  } catch (error) {
+    console.error(chalk.red('Failed to start monitor'))
+    console.error(error.message)
+    process.exit(1)
+  }
+}
 
 program.parse()

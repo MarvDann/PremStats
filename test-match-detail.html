@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Match Detail Test</title>
+</head>
+<body>
+    <h1>Testing Match Detail Page</h1>
+    <iframe src="http://localhost:3000/matches/15111" width="100%" height="800" style="border: 1px solid #ccc;"></iframe>
+    
+    <script>
+        // Try to fetch the page content
+        fetch('http://localhost:3000/matches/15111')
+            .then(response => response.text())
+            .then(html => {
+                console.log('Page HTML length:', html.length);
+                // Check if it's the SPA shell or actual content
+                if (html.includes('root')) {
+                    console.log('SPA root element found');
+                }
+                if (html.includes('error') || html.includes('Error')) {
+                    console.log('Possible error in page');
+                }
+            })
+            .catch(err => console.error('Fetch error:', err));
+            
+        // Also test the API directly
+        fetch('http://localhost:8081/api/v1/matches/15111')
+            .then(response => response.json())
+            .then(data => {
+                console.log('API Response:', data);
+                document.body.innerHTML += '<h2>API Data:</h2><pre>' + JSON.stringify(data, null, 2) + '</pre>';
+            })
+            .catch(err => console.error('API error:', err));
+    </script>
+</body>
+</html>

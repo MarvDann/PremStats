@@ -16,6 +16,7 @@ A comprehensive web application for Premier League statistics from 1992 to prese
 - **Visualizations**: Interactive charts and graphs for statistics
 - **AI Integration**: GitHub issue automation with AI agents
 - **Multi-agent Architecture**: Parallel development with specialized agents
+- **Automated Issue Resolution**: GitHub issues automatically analyzed and fixed
 
 ## 🛠️ Tech Stack
 
@@ -83,8 +84,10 @@ PremStats/
 │   ├── api/                 # Go backend API
 │   └── scraper/            # Go web scraping service
 ├── agents/                  # AI agent workers
+│   ├── base/               # Base agent classes and utilities
 │   ├── data/               # Data collection agent
 │   ├── frontend/           # Frontend development agent
+│   ├── github/             # GitHub issue monitoring agent
 │   ├── backend/            # Backend development agent
 │   ├── devops/             # DevOps automation agent
 │   └── qa/                 # Testing and QA agent
@@ -221,6 +224,41 @@ The UI package provides themeable components:
 - `Form` - Input controls
 
 Access Storybook at http://localhost:6006 for component documentation.
+
+## 🤖 GitHub Automation
+
+PremStats includes an automated GitHub issue resolution system:
+
+### Features
+- **Automatic Issue Detection**: Monitors GitHub issues every 5 minutes
+- **Smart Classification**: Analyzes issues to determine if they're frontend-related
+- **Isolated Development**: Creates Git worktrees for each issue
+- **Automated Fixes**: Implements code changes based on issue analysis
+- **Quality Assurance**: Runs tests before creating Pull Requests
+- **PR Generation**: Creates Pull Requests with detailed descriptions
+
+### Commands
+```bash
+# Assign issue to agent
+node scripts/agent-cli.js issue 1
+
+# Start issue monitor
+node scripts/agent-cli.js monitor
+
+# Check worktrees
+node scripts/agent-cli.js worktrees
+
+# Check PR status
+node scripts/agent-cli.js pr-status
+```
+
+### Supported Issue Types
+- Match detail page improvements
+- Score display fixes
+- Match events implementation
+- General page enhancements
+
+For detailed information, see [GitHub Automation Documentation](docs/github-automation.md).
 
 ## 🚢 Deployment
 
