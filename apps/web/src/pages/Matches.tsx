@@ -1,6 +1,7 @@
 import type { Component } from 'solid-js'
 import { createSignal, For, onMount, onCleanup } from 'solid-js'
 import { createQuery } from '@tanstack/solid-query'
+import { A } from '@solidjs/router'
 import { Container, Card } from '@premstats/ui'
 import { getCurrentSeasonId, getSortedSeasons } from '../utils/seasonStore'
 import { getTeamCrest } from '../utils/teamCrests'
@@ -19,10 +20,6 @@ interface Match {
   status: string
 }
 
-interface Season {
-  id: number
-  name: string
-}
 
 const MatchesPage: Component = () => {
   const [selectedSeason, setSelectedSeason] = createSignal<number | null>(null)
@@ -220,8 +217,9 @@ const MatchesPage: Component = () => {
         <div class="space-y-2">
           <For each={matchesQuery.data?.matches || []}>
             {(match) => (
-              <Card>
-                <div class="p-3">
+              <A href={`/matches/${match.id}`} class="block">
+                <Card class="hover:shadow-md transition-shadow">
+                  <div class="p-3">
                   <div class="flex items-center justify-between">
                     <div class="flex items-center space-x-4">
                       <div class="text-sm text-muted-foreground min-w-[80px]">
@@ -293,7 +291,8 @@ const MatchesPage: Component = () => {
                     </div>
                   </div>
                 </div>
-              </Card>
+                </Card>
+              </A>
             )}
           </For>
         </div>
@@ -310,7 +309,7 @@ const MatchesPage: Component = () => {
             </button>
             
             <div class="flex items-center space-x-1">
-              <For each={Array.from({ length: Math.min(5, totalPages()) }, (_, i) => {
+              <For each={Array.from({ length: Math.min(5, totalPages()) }, () => {
                 const start = Math.max(1, currentPage() - 2)
                 const end = Math.min(totalPages(), start + 4)
                 return Array.from({ length: end - start + 1 }, (_, j) => start + j)

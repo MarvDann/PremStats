@@ -38,36 +38,32 @@
 - ✅ **Historical accuracy** - Season-specific qualification rules (1992-2025)
 - ✅ **Mobile responsive layout** - Optimized search and navigation components
 
-## 🚨 CRITICAL DATA ISSUES (HIGH PRIORITY)
-
-### ❌ Date Corruption (PARTIALLY FIXED)
-- ✅ **2024/25 season** - RE-IMPORTED with correct dates (Aug 2024 - May 2025)
-- ✅ **Date parsing bug** - FIXED in import scripts
-- ❌ **2023/24 season** - Still corrupted (shows 2020 dates)
-- ❌ **2022/23 season** - Still corrupted (shows 2020 dates)  
-- ❌ **2021/22 season** - Still corrupted (shows 2020 dates)
-- ❌ **8 more seasons** - Need re-import (2017/18 to 2020/21)
-
-### 📊 Data Quality Summary
-- **✅ 23 seasons GOOD** (67.6%) - Reliable data 1992-2016 + 2024/25
-- **❌ 10 seasons CORRUPTED** (29.4%) - Need re-import (2017-2023)
-- **❌ 1 season MISSING** (2.9%) - 2025/26 (future season)
-
 ## 🔥 IMMEDIATE PRIORITIES
 
-### Phase 1: Data Recovery (THIS WEEK)
-1. **Re-import 2023/24** - Most recent complete season
-2. **Re-import 2022/23** - Recent season with full data
-3. **Re-import 2021/22** - Complete recent seasons
-4. **Re-import 2020/21** - COVID season
-5. **Verify all dates** - Ensure proper 20XX-20YY ranges
+### Critical Phase 1: Match Stats & Goal Scorer Import (DISCOVERY COMPLETE)
 
-### Phase 2: Remaining Seasons (NEXT WEEK)  
-1. **Re-import 2019/20** - Complete modern era
-2. **Re-import 2018/19** - Fill data gaps
-3. **Re-import 2017/18** - Final corrupted season
-4. **Re-import 2015/16** - Historical gap
-5. **Re-import 2002/03** - Early corruption
+**Status**: Research complete - Ready to implement comprehensive match statistics import
+
+**Key Discovery**: Squad data must be imported first to properly map goal scorers to players
+
+**Data Sources Identified**:
+- **OpenFootball Project**: Complete historical JSON data (1992-2025) - FREE
+- **API-Football**: Comprehensive match events and player stats - FREE tier + paid plans
+- **Football-Data.co.uk**: Historical CSV files with match statistics - FREE
+- **Fantasy Premier League API**: Current season player data - FREE
+
+**Implementation Priority Order**:
+1. **Squad Data Import** - All players + team affiliations by season (1992-2025)
+2. **Player Name Normalization** - Handle name variations across data sources
+3. **Goal Scorer Import** - Match events with proper player/team references
+4. **Database Schema Enhancement** - Extended match_events and goals tables
+
+**Target Features**:
+- Goals per player per season
+- 5-year goal breakdowns
+- Goal timing and type analysis
+- Assist tracking
+- Transfer window considerations
 
 ## 🎯 PRODUCTION FEATURES (READY TO BUILD)
 
@@ -94,7 +90,7 @@
 - [ ] **Bundle optimization** - Reduce frontend load times
 
 ### Advanced Features
-- [ ] **Goal scorer data** - Individual player goal tracking  
+- [ ] **Goal scorer data** - Individual player goal tracking
 - [ ] **Transfer history** - Player movement tracking
 - [ ] **Head-to-head records** - Team comparison features
 - [ ] **Stadium information** - Venue details and history
@@ -118,7 +114,7 @@
 ## 🎯 SUCCESS METRICS ACHIEVED
 
 - ✅ **Full frontend functionality** - All pages working with real data
-- ✅ **API reliability** - 11 endpoints with proper error handling  
+- ✅ **API reliability** - 11 endpoints with proper error handling
 - ✅ **Cross-browser compatibility** - Works on all major browsers
 - ✅ **Mobile responsiveness** - Functional on all screen sizes
 - ✅ **Data integrity** - 67% of historical data is excellent quality
@@ -145,9 +141,7 @@
 ## 📈 NEXT SESSION PRIORITIES
 
 1. **Continue data re-import** - Focus on 2023/24 and 2022/23 seasons
-2. **Test corrected 2024/25** - Verify frontend shows proper current season
-3. **Add team detail pages** - Leverage existing good historical data
-4. **Implement basic search** - Start with simple team/player search
+2. **Pick up issues from repo and fix** - Read issues from github and fix in separate branches, include a screenshot in your PR of the page and a bullet point list summary of what was changed.
 
 ---
 

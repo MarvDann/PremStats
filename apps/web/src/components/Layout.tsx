@@ -1,7 +1,7 @@
 import type { ParentComponent } from 'solid-js'
 import { createSignal } from 'solid-js'
-import { A, useLocation } from '@solidjs/router'
-import { Button } from '@premstats/ui'
+import { A } from '@solidjs/router'
+import { ErrorBoundary } from './ErrorBoundary'
 
 const Layout: ParentComponent = (props) => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = createSignal(false)
@@ -121,7 +121,9 @@ const Layout: ParentComponent = (props) => {
         </div>
       </nav>
       <main class="container mx-auto px-4 py-8">
-        {props.children}
+        <ErrorBoundary>
+          {props.children}
+        </ErrorBoundary>
       </main>
     </div>
   )

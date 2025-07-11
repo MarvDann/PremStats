@@ -31,12 +31,14 @@ func main() {
 	matchService := services.NewMatchService(db)
 	standingsService := services.NewStandingsService(db)
 	seasonService := services.NewSeasonService(db)
+	playerService := services.NewPlayerService(db)
 
 	// Initialize handlers
 	teamHandler := handlers.NewTeamHandler(teamService)
 	matchHandler := handlers.NewMatchHandler(matchService)
 	standingsHandler := handlers.NewStandingsHandler(standingsService)
 	seasonHandler := handlers.NewSeasonHandler(seasonService)
+	playerHandler := handlers.NewPlayerHandler(playerService)
 
 	router := mux.NewRouter()
 
@@ -58,6 +60,7 @@ func main() {
 	// Matches endpoints
 	api.HandleFunc("/matches", matchHandler.GetMatches).Methods("GET")
 	api.HandleFunc("/matches/{id:[0-9]+}", matchHandler.GetMatchByID).Methods("GET")
+	api.HandleFunc("/matches/{id:[0-9]+}/events", matchHandler.GetMatchEvents).Methods("GET")
 	api.HandleFunc("/matches/season/{seasonId:[0-9]+}", matchHandler.GetMatchesBySeason).Methods("GET")
 
 	// Standings endpoints
@@ -68,6 +71,16 @@ func main() {
 
 	// Statistics endpoints (legacy compatibility)
 	api.HandleFunc("/stats/standings", standingsHandler.GetStandings).Methods("GET")
+	api.HandleFunc("/stats/top-scorers", playerHandler.GetTopScorers).Methods("GET")
+
+	// Player endpoints
+	api.HandleFunc("/players", playerHandler.GetPlayers).Methods("GET")
+	api.HandleFunc("/players/{id:[0-9]+}", playerHandler.GetPlayerByID).Methods("GET")
+	api.HandleFunc("/players/positions", playerHandler.GetPlayerPositions).Methods("GET")
+	api.HandleFunc("/players/nationalities", playerHandler.GetPlayerNationalities).Methods("GET")
+
+	// Search endpoint
+	api.HandleFunc("/search", playerHandler.SearchPlayers).Methods("GET")
 
 	// Natural language query endpoint (placeholder)
 	api.HandleFunc("/query", queryHandler).Methods("POST")

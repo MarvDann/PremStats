@@ -161,3 +161,28 @@ func (h *MatchHandler) GetMatchesBySeason(w http.ResponseWriter, r *http.Request
 
 	respondWithJSON(w, http.StatusOK, response)
 }
+
+// GetMatchEvents handles GET /api/v1/matches/{id}/events
+func (h *MatchHandler) GetMatchEvents(w http.ResponseWriter, r *http.Request) {
+	vars := mux.Vars(r)
+	id, err := strconv.Atoi(vars["id"])
+	if err != nil {
+		respondWithError(w, http.StatusBadRequest, "Invalid match ID", err)
+		return
+	}
+
+	events, err := h.matchService.GetMatchEvents(id)
+	if err != nil {
+		respondWithError(w, http.StatusInternalServerError, "Failed to fetch match events", err)
+		return
+	}
+
+	response := models.APIResponse{
+		Success: true,
+		Data: map[string]interface{}{
+			"events": events,
+		},
+	}
+
+	respondWithJSON(w, http.StatusOK, response)
+}

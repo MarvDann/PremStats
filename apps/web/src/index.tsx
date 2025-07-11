@@ -8,6 +8,7 @@ import TeamsPage from './pages/Teams'
 import TeamDetail from './pages/TeamDetail'
 import PlayersPage from './pages/Players'
 import MatchesPage from './pages/Matches'
+import MatchDetail from './pages/MatchDetail'
 import StatsPage from './pages/Stats'
 import { initializeCurrentSeason } from './utils/seasonStore'
 
@@ -41,6 +42,7 @@ render(() => (
       <Route path="/teams/:id" component={TeamDetail} />
       <Route path="/players" component={PlayersPage} />
       <Route path="/matches" component={MatchesPage} />
+      <Route path="/matches/:id" component={MatchDetail} />
       <Route path="/stats" component={StatsPage} />
     </Router>
   </QueryClientProvider>

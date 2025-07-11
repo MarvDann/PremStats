@@ -1,15 +1,11 @@
 import type { Component } from 'solid-js'
 import { createSignal, For, onMount, onCleanup } from 'solid-js'
 import { createQuery } from '@tanstack/solid-query'
-import { Container, Card, DataTable, StatsCard } from '@premstats/ui'
+import { Container, DataTable } from '@premstats/ui'
 import { getCurrentSeasonId, getSortedSeasons } from '../utils/seasonStore'
 import { getTeamCrest } from '../utils/teamCrests'
 import { ErrorBoundary } from '../components/ErrorBoundary'
 
-interface Season {
-  id: number
-  name: string
-}
 
 interface StandingsEntry {
   position: number

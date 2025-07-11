@@ -27,6 +27,8 @@ Thumbs.db
 coverage/
 .nyc_output/
 *.lcov
+test-results/
+playwright-report/
 
 # Production
 dist/

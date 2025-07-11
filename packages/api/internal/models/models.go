@@ -73,11 +73,64 @@ type Standings struct {
 
 // Player represents a Premier League player
 type Player struct {
+	ID          int    `json:"id"`
+	Name        string `json:"name"`
+	DateOfBirth string `json:"dateOfBirth,omitempty"`
+	Nationality string `json:"nationality,omitempty"`
+	Position    string `json:"position,omitempty"`
+	TeamID      int    `json:"teamId,omitempty"`
+	Team        string `json:"team,omitempty"`
+}
+
+// PlayerStats represents player statistics for a season
+type PlayerStats struct {
+	ID          int    `json:"id"`
+	PlayerID    int    `json:"playerId"`
+	PlayerName  string `json:"playerName"`
+	SeasonID    int    `json:"seasonId"`
+	SeasonName  string `json:"seasonName"`
+	TeamID      int    `json:"teamId"`
+	TeamName    string `json:"teamName"`
+	Appearances int    `json:"appearances"`
+	Goals       int    `json:"goals"`
+	Assists     int    `json:"assists"`
+	YellowCards int    `json:"yellowCards"`
+	RedCards    int    `json:"redCards"`
+}
+
+// TopScorer represents a top scorer entry
+type TopScorer struct {
+	Rank        int    `json:"rank"`
+	PlayerID    int    `json:"playerId"`
+	PlayerName  string `json:"playerName"`
+	TeamID      int    `json:"teamId"`
+	TeamName    string `json:"teamName"`
+	Goals       int    `json:"goals"`
+	Assists     int    `json:"assists"`
+	Appearances int    `json:"appearances"`
+	Nationality string `json:"nationality,omitempty"`
+	Position    string `json:"position,omitempty"`
+}
+
+// SearchResult represents a search result item
+type SearchResult struct {
+	Type     string `json:"type"`     // "player", "team", "match"
 	ID       int    `json:"id"`
 	Name     string `json:"name"`
-	Position string `json:"position,omitempty"`
-	TeamID   int    `json:"teamId,omitempty"`
-	Team     string `json:"team,omitempty"`
+	Subtitle string `json:"subtitle,omitempty"`
+	Extra    string `json:"extra,omitempty"`
+}
+
+// MatchEvent represents an event that occurred during a match
+type MatchEvent struct {
+	ID         int    `json:"id"`
+	MatchID    int    `json:"matchId"`
+	EventType  string `json:"eventType"` // goal, own_goal, penalty, yellow_card, red_card, substitution
+	Minute     int    `json:"minute"`
+	PlayerID   int    `json:"playerId"`
+	PlayerName string `json:"playerName,omitempty"`
+	TeamID     int    `json:"teamId"`
+	Detail     string `json:"detail,omitempty"`
 }
 
 // TeamStats represents team statistics for a season
