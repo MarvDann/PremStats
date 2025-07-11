@@ -53,6 +53,11 @@ go.work.sum
 tmp/
 temp/
 .cache/
+*.pid
+.api.pid
+
+# Claude Code
+.claude/
 
 # Storybook
 storybook-static/
