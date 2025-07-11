@@ -8,7 +8,7 @@ const statsCardVariants = tv({
   variants: {
     variant: {
       default: '',
-      success: 'bg-primary/5 border-primary/20 dark:bg-primary/10 dark:border-primary/30',
+      success: 'bg-green-50 border-green-200 dark:bg-green-950 dark:border-green-800',
       warning: 'bg-yellow-50 border-yellow-200 dark:bg-yellow-950 dark:border-yellow-800',
       danger: 'bg-red-50 border-red-200 dark:bg-red-950 dark:border-red-800'
     },
@@ -33,7 +33,7 @@ const valueVariants = tv({
     },
     variant: {
       default: 'text-foreground',
-      success: 'text-primary dark:text-primary/80',
+      success: 'text-green-700 dark:text-green-300',
       warning: 'text-yellow-700 dark:text-yellow-300',
       danger: 'text-red-700 dark:text-red-300'
     }

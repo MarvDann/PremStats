@@ -71,10 +71,10 @@ export const TeamCard: ParentComponent<TeamCardProps> = (props) => {
 
   const getResultColor = (result: string) => {
     switch (result) {
-      case 'W': return 'bg-emerald-50 text-emerald-700 border border-emerald-200'
-      case 'L': return 'bg-rose-50 text-rose-700 border border-rose-200'
-      case 'D': return 'bg-slate-100 text-slate-600 border border-slate-200'
-      default: return 'bg-slate-100 text-slate-600 border border-slate-200'
+    case 'W': return 'bg-emerald-50 text-emerald-700 border border-emerald-200'
+    case 'L': return 'bg-rose-50 text-rose-700 border border-rose-200'
+    case 'D': return 'bg-slate-100 text-slate-600 border border-slate-200'
+    default: return 'bg-slate-100 text-slate-600 border border-slate-200'
     }
   }
 

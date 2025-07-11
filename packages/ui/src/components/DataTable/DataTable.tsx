@@ -182,8 +182,8 @@ export function DataTable<T> (props: DataTableProps<T>) {
           <For each={sortedData()}>
             {(item) => (
               <tr class={cn(
-                "border-b transition-colors hover:bg-muted/50 data-[state=selected]:bg-muted",
-                local.getRowClass ? local.getRowClass(item) : ""
+                'border-b transition-colors hover:bg-muted/50 data-[state=selected]:bg-muted',
+                local.getRowClass ? local.getRowClass(item) : ''
               )}>
                 <For each={local.columns}>
                   {(column) => (
