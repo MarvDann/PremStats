@@ -4,6 +4,7 @@ import { useParams } from '@solidjs/router'
 import { createQuery } from '@tanstack/solid-query'
 import { Container, Card, StatsCard, Button } from '@premstats/ui'
 import { getTeamCrest } from '../utils/teamCrests'
+import { apiUrl } from '../config/api'
 
 interface Team {
   id: number
@@ -61,7 +62,7 @@ const TeamDetail: Component = () => {
   const teamQuery = createQuery(() => ({
     queryKey: ['team', teamId()],
     queryFn: async (): Promise<Team> => {
-      const response = await fetch(`http://localhost:8081/api/v1/teams/${teamId()}`)
+      const response = await fetch(apiUrl(`/teams/${teamId()}`))
       if (!response.ok) {
         throw new Error('Failed to fetch team')
       }
@@ -73,7 +74,7 @@ const TeamDetail: Component = () => {
   const seasonsQuery = createQuery(() => ({
     queryKey: ['seasons'],
     queryFn: async (): Promise<{ seasons: Season[] }> => {
-      const response = await fetch('http://localhost:8081/api/v1/seasons')
+      const response = await fetch(apiUrl('/seasons'))
       if (!response.ok) {
         throw new Error('Failed to fetch seasons')
       }
@@ -92,7 +93,7 @@ const TeamDetail: Component = () => {
       if (!selectedSeason()) {
         throw new Error('No season selected')
       }
-      const response = await fetch(`http://localhost:8081/api/v1/standings/team/${teamId()}/season/${selectedSeason()}`)
+      const response = await fetch(apiUrl(`/standings/team/${teamId()}/season/${selectedSeason()}`))
       if (!response.ok) {
         throw new Error('Failed to fetch team season stats')
       }
@@ -108,7 +109,7 @@ const TeamDetail: Component = () => {
       if (!selectedSeason()) {
         throw new Error('No season selected')
       }
-      const response = await fetch(`http://localhost:8081/api/v1/matches?season=${selectedSeason()}&limit=100`)
+      const response = await fetch(apiUrl(`/matches?season=${selectedSeason()}&limit=100`))
       if (!response.ok) {
         throw new Error('Failed to fetch matches')
       }

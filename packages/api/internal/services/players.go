@@ -3,6 +3,7 @@ package services
 import (
 	"database/sql"
 	"fmt"
+	"strconv"
 	"strings"
 
 	"github.com/premstats/api/internal/database"
@@ -20,10 +21,12 @@ func NewPlayerService(db *database.DB) *PlayerService {
 }
 
 // GetPlayers returns all players with optional filters
-func (s *PlayerService) GetPlayers(limit, offset int, search, position, nationality string) ([]models.Player, error) {
+func (s *PlayerService) GetPlayers(limit, offset int, search, position, nationality, team string) ([]models.Player, error) {
 	query := `
-		SELECT DISTINCT p.id, p.name, p.date_of_birth, p.nationality, p.position
+		SELECT DISTINCT p.id, p.name, p.date_of_birth, p.nationality, p.position, 
+		       p.current_team_id, t.name as team_name
 		FROM players p
+		LEFT JOIN teams t ON p.current_team_id = t.id
 		WHERE 1=1
 	`
 	args := []interface{}{}
@@ -48,6 +51,16 @@ func (s *PlayerService) GetPlayers(limit, offset int, search, position, national
 		query += fmt.Sprintf(" AND p.nationality = $%d", argIndex)
 		args = append(args, nationality)
 		argIndex++
+	}
+
+	// Add team filter (by team ID)
+	if team != "" {
+		teamID, err := strconv.Atoi(team)
+		if err == nil {
+			query += fmt.Sprintf(" AND p.current_team_id = $%d", argIndex)
+			args = append(args, teamID)
+			argIndex++
+		}
 	}
 
 	query += " ORDER BY p.name"
@@ -75,8 +88,10 @@ func (s *PlayerService) GetPlayers(limit, offset int, search, position, national
 		var dateOfBirth sql.NullString
 		var nationality sql.NullString
 		var position sql.NullString
+		var teamID sql.NullInt32
+		var teamName sql.NullString
 
-		err := rows.Scan(&p.ID, &p.Name, &dateOfBirth, &nationality, &position)
+		err := rows.Scan(&p.ID, &p.Name, &dateOfBirth, &nationality, &position, &teamID, &teamName)
 		if err != nil {
 			return nil, fmt.Errorf("failed to scan player: %w", err)
 		}
@@ -90,11 +105,68 @@ func (s *PlayerService) GetPlayers(limit, offset int, search, position, national
 		if position.Valid {
 			p.Position = position.String
 		}
+		if teamID.Valid {
+			p.TeamID = int(teamID.Int32)
+		}
+		if teamName.Valid {
+			p.Team = teamName.String
+		}
 
 		players = append(players, p)
 	}
 
 	return players, nil
+}
+
+// GetPlayersCount returns the total count of players with filters
+func (s *PlayerService) GetPlayersCount(search, position, nationality, team string) (int, error) {
+	query := `
+		SELECT COUNT(DISTINCT p.id)
+		FROM players p
+		LEFT JOIN teams t ON p.current_team_id = t.id
+		WHERE 1=1
+	`
+	args := []interface{}{}
+	argIndex := 1
+
+	// Add search filter
+	if search != "" {
+		query += fmt.Sprintf(" AND p.name ILIKE $%d", argIndex)
+		args = append(args, "%"+search+"%")
+		argIndex++
+	}
+
+	// Add position filter
+	if position != "" {
+		query += fmt.Sprintf(" AND p.position = $%d", argIndex)
+		args = append(args, position)
+		argIndex++
+	}
+
+	// Add nationality filter
+	if nationality != "" {
+		query += fmt.Sprintf(" AND p.nationality = $%d", argIndex)
+		args = append(args, nationality)
+		argIndex++
+	}
+
+	// Add team filter (by team ID)
+	if team != "" {
+		teamID, err := strconv.Atoi(team)
+		if err == nil {
+			query += fmt.Sprintf(" AND p.current_team_id = $%d", argIndex)
+			args = append(args, teamID)
+			argIndex++
+		}
+	}
+
+	var count int
+	err := s.db.QueryRow(query, args...).Scan(&count)
+	if err != nil {
+		return 0, fmt.Errorf("failed to count players: %w", err)
+	}
+
+	return count, nil
 }
 
 // GetPlayerByID returns a single player by ID

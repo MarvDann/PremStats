@@ -4,6 +4,7 @@ import { createQuery } from '@tanstack/solid-query'
 import { A } from '@solidjs/router'
 import { Input, TeamCard, Container } from '@premstats/ui'
 import { getTeamCrest } from '../utils/teamCrests'
+import { apiUrl } from '../config/api'
 
 interface Team {
   id: number
@@ -37,7 +38,7 @@ const TeamsPage: Component = () => {
   const teamsQuery = createQuery(() => ({
     queryKey: ['teams'],
     queryFn: async (): Promise<{ teams: Team[] }> => {
-      const response = await fetch('http://localhost:8081/api/v1/teams')
+      const response = await fetch(apiUrl('/teams'))
       if (!response.ok) {
         throw new Error('Failed to fetch teams')
       }
@@ -50,7 +51,7 @@ const TeamsPage: Component = () => {
   const recentMatchesQuery = createQuery(() => ({
     queryKey: ['recent-matches'],
     queryFn: async (): Promise<{ matches: Match[] }> => {
-      const response = await fetch('http://localhost:8081/api/v1/matches?season=33&limit=500')
+      const response = await fetch(apiUrl('/matches?season=33&limit=500'))
       if (!response.ok) {
         throw new Error('Failed to fetch recent matches')
       }

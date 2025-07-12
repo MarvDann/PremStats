@@ -5,6 +5,7 @@ import { Container, DataTable } from '@premstats/ui'
 import { getCurrentSeasonId, getSortedSeasons } from '../utils/seasonStore'
 import { getTeamCrest } from '../utils/teamCrests'
 import { ErrorBoundary } from '../components/ErrorBoundary'
+import { apiUrl } from '../config/api'
 
 
 interface StandingsEntry {
@@ -68,7 +69,7 @@ const StatsPage: Component = () => {
       const seasonId = effectiveSeasonId()
       if (!seasonId) throw new Error('No season selected')
       
-      const response = await fetch(`http://localhost:8081/api/v1/standings?season=${seasonId}`)
+      const response = await fetch(apiUrl(`/standings?season=${seasonId}`))
       if (!response.ok) {
         throw new Error('Failed to fetch standings')
       }
@@ -86,7 +87,7 @@ const StatsPage: Component = () => {
       const seasonId = effectiveSeasonId()
       if (!seasonId) throw new Error('No season selected')
       
-      const response = await fetch(`http://localhost:8081/api/v1/seasons/${seasonId}/summary`)
+      const response = await fetch(apiUrl(`/seasons/${seasonId}/summary`))
       if (!response.ok) {
         throw new Error('Failed to fetch season summary')
       }

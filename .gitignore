@@ -48,6 +48,7 @@ postgres_data/
 vendor/
 go.work
 go.work.sum
+packages/api/bin/
 
 # Temporary
 tmp/

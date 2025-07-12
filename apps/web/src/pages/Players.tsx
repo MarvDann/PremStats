@@ -3,6 +3,7 @@ import { createSignal, For, onMount, onCleanup } from 'solid-js'
 import { createQuery } from '@tanstack/solid-query'
 import { Container, Card, StatsCard, Input, DataTable } from '@premstats/ui'
 import { getCurrentSeasonId } from '../utils/seasonStore'
+import { apiUrl } from '../config/api'
 
 interface TopScorer {
   rank: number
@@ -23,12 +24,22 @@ interface Player {
   dateOfBirth?: string
   nationality?: string
   position?: string
+  teamId?: number
+  team?: string
+}
+
+interface Team {
+  id: number
+  name: string
 }
 
 const PlayersPage: Component = () => {
   const [searchTerm, setSearchTerm] = createSignal('')
   const [selectedPosition, setSelectedPosition] = createSignal<string>('')
   const [selectedNationality, setSelectedNationality] = createSignal<string>('')
+  const [selectedTeam, setSelectedTeam] = createSignal<string>('')
+  const [currentPage, setCurrentPage] = createSignal(1)
+  const [playersPerPage] = createSignal(50)
   const selectedSeason = () => getCurrentSeasonId() || 33 // Default to 2024/25
 
   onMount(() => {
@@ -43,7 +54,7 @@ const PlayersPage: Component = () => {
   const topScorersQuery = createQuery(() => ({
     queryKey: ['topScorers', selectedSeason()],
     queryFn: async (): Promise<{ topScorers: TopScorer[] }> => {
-      const response = await fetch(`http://localhost:8081/api/v1/stats/top-scorers?season=${selectedSeason()}&limit=10`)
+      const response = await fetch(apiUrl(`/stats/top-scorers?season=${selectedSeason()}&limit=10`))
       if (!response.ok) {
         throw new Error('Failed to fetch top scorers')
       }
@@ -54,20 +65,23 @@ const PlayersPage: Component = () => {
 
   // Fetch all players
   const playersQuery = createQuery(() => ({
-    queryKey: ['players', searchTerm(), selectedPosition(), selectedNationality()],
-    queryFn: async (): Promise<{ players: Player[] }> => {
+    queryKey: ['players', searchTerm(), selectedPosition(), selectedNationality(), selectedTeam(), currentPage()],
+    queryFn: async (): Promise<{ players: Player[]; total: number }> => {
+      const offset = (currentPage() - 1) * playersPerPage()
       const params = new URLSearchParams({
-        limit: '100',
+        limit: playersPerPage().toString(),
+        offset: offset.toString(),
         search: searchTerm(),
         position: selectedPosition(),
-        nationality: selectedNationality()
+        nationality: selectedNationality(),
+        team: selectedTeam()
       })
-      const response = await fetch(`http://localhost:8081/api/v1/players?${params}`)
+      const response = await fetch(apiUrl(`/players?${params}`))
       if (!response.ok) {
         throw new Error('Failed to fetch players')
       }
       const result = await response.json()
-      return result.data
+      return { players: result.data.players, total: result.data.total || result.data.players.length }
     }
   }))
 
@@ -75,7 +89,7 @@ const PlayersPage: Component = () => {
   const positionsQuery = createQuery(() => ({
     queryKey: ['positions'],
     queryFn: async (): Promise<{ positions: string[] }> => {
-      const response = await fetch('http://localhost:8081/api/v1/players/positions')
+      const response = await fetch(apiUrl('/players/positions'))
       if (!response.ok) {
         throw new Error('Failed to fetch positions')
       }
@@ -88,9 +102,22 @@ const PlayersPage: Component = () => {
   const nationalitiesQuery = createQuery(() => ({
     queryKey: ['nationalities'],
     queryFn: async (): Promise<{ nationalities: string[] }> => {
-      const response = await fetch('http://localhost:8081/api/v1/players/nationalities')
+      const response = await fetch(apiUrl('/players/nationalities'))
       if (!response.ok) {
         throw new Error('Failed to fetch nationalities')
+      }
+      const result = await response.json()
+      return result.data
+    }
+  }))
+
+  // Fetch teams for filter
+  const teamsQuery = createQuery(() => ({
+    queryKey: ['teams'],
+    queryFn: async (): Promise<{ teams: Team[] }> => {
+      const response = await fetch(apiUrl('/teams'))
+      if (!response.ok) {
+        throw new Error('Failed to fetch teams')
       }
       const result = await response.json()
       return result.data
@@ -123,6 +150,7 @@ const PlayersPage: Component = () => {
 
   const playersColumns = [
     { header: 'Name', key: 'name', align: 'left' as const, accessor: (item: Player) => item.name },
+    { header: 'Team', key: 'team', align: 'left' as const, accessor: (item: Player) => item.team || '-' },
     { header: 'Position', key: 'position', align: 'center' as const, accessor: (item: Player) => item.position || '-' },
     { header: 'Nationality', key: 'nationality', align: 'center' as const, accessor: (item: Player) => item.nationality || '-' }
   ]
@@ -146,7 +174,7 @@ const PlayersPage: Component = () => {
             label="Current Top Scorer"
             value={topScorersQuery.data?.topScorers?.[0]?.playerName || "Loading..."}
             description={topScorersQuery.data?.topScorers?.[0] ? `${topScorersQuery.data.topScorers[0].goals} goals` : ""}
-            variant="success"
+            variant="default"
           />
           <StatsCard
             label="Most Assists"
@@ -162,7 +190,7 @@ const PlayersPage: Component = () => {
           />
           <StatsCard
             label="Total Players"
-            value={playersQuery.data?.players?.length?.toString() || "0"}
+            value={playersQuery.data?.total?.toString() || playersQuery.data?.players?.length?.toString() || "0"}
             description="In database"
             variant="default"
           />
@@ -192,7 +220,7 @@ const PlayersPage: Component = () => {
         {/* All Players */}
         <div class="space-y-4">
           <h2 class="text-2xl font-bold">All Players</h2>
-          
+
           {/* Filters */}
           <div class="flex flex-wrap gap-4 items-center">
             <div class="flex-1 max-w-md">
@@ -200,15 +228,39 @@ const PlayersPage: Component = () => {
                 type="text"
                 placeholder="Search players..."
                 value={searchTerm()}
-                onInput={(e: Event) => setSearchTerm((e.currentTarget as HTMLInputElement).value)}
+                onInput={(e: Event) => {
+                  setSearchTerm((e.currentTarget as HTMLInputElement).value)
+                  setCurrentPage(1) // Reset to first page when searching
+                }}
               />
             </div>
             <div class="flex items-center space-x-2">
+              <label class="text-sm font-medium">Team:</label>
+              <select
+                class="flex h-10 rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
+                value={selectedTeam()}
+                onChange={(e) => {
+                  setSelectedTeam(e.currentTarget.value)
+                  setCurrentPage(1)
+                }}
+              >
+                <option value="">All Teams</option>
+                <For each={teamsQuery.data?.teams || []}>
+                  {(team) => (
+                    <option value={team.id.toString()}>{team.name}</option>
+                  )}
+                </For>
+              </select>
+            </div>
+            <div class="flex items-center space-x-2">
               <label class="text-sm font-medium">Position:</label>
-              <select 
+              <select
                 class="flex h-10 rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
                 value={selectedPosition()}
-                onChange={(e) => setSelectedPosition(e.currentTarget.value)}
+                onChange={(e) => {
+                  setSelectedPosition(e.currentTarget.value)
+                  setCurrentPage(1)
+                }}
               >
                 <option value="">All Positions</option>
                 <For each={positionsQuery.data?.positions || []}>
@@ -220,10 +272,13 @@ const PlayersPage: Component = () => {
             </div>
             <div class="flex items-center space-x-2">
               <label class="text-sm font-medium">Nationality:</label>
-              <select 
+              <select
                 class="flex h-10 rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
                 value={selectedNationality()}
-                onChange={(e) => setSelectedNationality(e.currentTarget.value)}
+                onChange={(e) => {
+                  setSelectedNationality(e.currentTarget.value)
+                  setCurrentPage(1)
+                }}
               >
                 <option value="">All Nationalities</option>
                 <For each={nationalitiesQuery.data?.nationalities || []}>
@@ -240,12 +295,70 @@ const PlayersPage: Component = () => {
               {playersQuery.isLoading ? (
                 <p class="text-center py-4 text-muted-foreground">Loading players...</p>
               ) : playersQuery.data?.players ? (
-                <DataTable
-                  data={playersQuery.data.players}
-                  columns={playersColumns}
-                  sortable={true}
-                  variant="striped"
-                />
+                <>
+                  <DataTable
+                    data={playersQuery.data.players}
+                    columns={playersColumns}
+                    sortable={true}
+                    variant="striped"
+                  />
+
+                  {/* Pagination Controls */}
+                  {playersQuery.data.total > playersPerPage() && (
+                    <div class="flex items-center justify-between mt-4 pt-4 border-t">
+                      <div class="text-sm text-muted-foreground">
+                        Showing {(currentPage() - 1) * playersPerPage() + 1} to {Math.min(currentPage() * playersPerPage(), playersQuery.data.total)} of {playersQuery.data.total} players
+                      </div>
+                      <div class="flex items-center space-x-2">
+                        <button
+                          onClick={() => setCurrentPage(Math.max(1, currentPage() - 1))}
+                          disabled={currentPage() === 1}
+                          class="px-3 py-1 rounded-md border border-input bg-background text-sm font-medium hover:bg-accent hover:text-accent-foreground disabled:opacity-50 disabled:cursor-not-allowed"
+                        >
+                          Previous
+                        </button>
+
+                        <div class="flex items-center space-x-1">
+                          {Array.from({ length: Math.min(5, Math.ceil(playersQuery.data.total / playersPerPage())) }, (_, i) => {
+                            const totalPages = Math.ceil(playersQuery.data.total / playersPerPage())
+                            let pageNum: number
+
+                            if (totalPages <= 5) {
+                              pageNum = i + 1
+                            } else if (currentPage() <= 3) {
+                              pageNum = i + 1
+                            } else if (currentPage() >= totalPages - 2) {
+                              pageNum = totalPages - 4 + i
+                            } else {
+                              pageNum = currentPage() - 2 + i
+                            }
+
+                            return (
+                              <button
+                                onClick={() => setCurrentPage(pageNum)}
+                                class={`px-3 py-1 rounded-md text-sm font-medium ${
+                                  currentPage() === pageNum
+                                    ? 'bg-primary text-primary-foreground'
+                                    : 'border border-input bg-background hover:bg-accent hover:text-accent-foreground'
+                                }`}
+                              >
+                                {pageNum}
+                              </button>
+                            )
+                          })}
+                        </div>
+
+                        <button
+                          onClick={() => setCurrentPage(Math.min(Math.ceil(playersQuery.data.total / playersPerPage()), currentPage() + 1))}
+                          disabled={currentPage() === Math.ceil(playersQuery.data.total / playersPerPage())}
+                          class="px-3 py-1 rounded-md border border-input bg-background text-sm font-medium hover:bg-accent hover:text-accent-foreground disabled:opacity-50 disabled:cursor-not-allowed"
+                        >
+                          Next
+                        </button>
+                      </div>
+                    </div>
+                  )}
+                </>
               ) : (
                 <p class="text-center py-4 text-muted-foreground">No players found</p>
               )}
@@ -272,7 +385,7 @@ const PlayersPage: Component = () => {
         <Card>
           <div class="p-4 bg-blue-50 border-blue-200">
             <p class="text-sm text-blue-800">
-              <strong>Note:</strong> Currently showing 2024/25 season top scorers with {topScorersQuery.data?.topScorers?.length || 0} players. 
+              <strong>Note:</strong> Currently showing 2024/25 season top scorers with {topScorersQuery.data?.topScorers?.length || 0} players.
               All-time records are historical estimates. Individual match-level goal data is being imported progressively.
             </p>
           </div>

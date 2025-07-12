@@ -1,4 +1,5 @@
 import { createSignal } from 'solid-js'
+import { apiUrl } from '../config/api'
 
 export interface Season {
   id: number
@@ -13,7 +14,7 @@ const [allSeasons, setAllSeasons] = createSignal<Season[]>([])
 export const initializeCurrentSeason = async () => {
   try {
     // Fetch all seasons
-    const seasonsResponse = await fetch('http://localhost:8081/api/v1/seasons')
+    const seasonsResponse = await fetch(apiUrl('/seasons'))
     if (!seasonsResponse.ok) {
       throw new Error('Failed to fetch seasons')
     }
@@ -28,7 +29,7 @@ export const initializeCurrentSeason = async () => {
     // Find the most recent season that has actual match data
     for (const season of sortedSeasons) {
       try {
-        const matchesResponse = await fetch(`http://localhost:8081/api/v1/matches?season=${season.id}&limit=1`)
+        const matchesResponse = await fetch(apiUrl(`/matches?season=${season.id}&limit=1`))
         if (matchesResponse.ok) {
           const matchesResult = await matchesResponse.json()
           if (matchesResult.data.matches && matchesResult.data.matches.length > 0) {

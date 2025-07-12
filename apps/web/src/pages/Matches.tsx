@@ -5,6 +5,7 @@ import { A } from '@solidjs/router'
 import { Container, Card } from '@premstats/ui'
 import { getCurrentSeasonId, getSortedSeasons } from '../utils/seasonStore'
 import { getTeamCrest } from '../utils/teamCrests'
+import { apiUrl } from '../config/api'
 
 interface Match {
   id: number
@@ -58,7 +59,7 @@ const MatchesPage: Component = () => {
       if (!seasonId) return []
       
       // Fetch matches for the season to get unique teams
-      const response = await fetch(`http://localhost:8081/api/v1/matches?season=${seasonId}&limit=1000`)
+      const response = await fetch(apiUrl(`/matches?season=${seasonId}&limit=1000`))
       if (!response.ok) {
         throw new Error('Failed to fetch matches for season teams')
       }
@@ -85,7 +86,7 @@ const MatchesPage: Component = () => {
       if (!seasonId) throw new Error('No season selected')
       
       // Fetch ALL matches for the season first
-      const response = await fetch(`http://localhost:8081/api/v1/matches?season=${seasonId}&limit=1000`)
+      const response = await fetch(apiUrl(`/matches?season=${seasonId}&limit=1000`))
       if (!response.ok) {
         throw new Error('Failed to fetch matches')
       }

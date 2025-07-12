@@ -31,14 +31,26 @@ func (h *PlayerHandler) GetPlayers(w http.ResponseWriter, r *http.Request) {
 	search := r.URL.Query().Get("search")
 	position := r.URL.Query().Get("position")
 	nationality := r.URL.Query().Get("nationality")
+	team := r.URL.Query().Get("team")
 
 	// Get players from service
-	players, err := h.service.GetPlayers(limit, offset, search, position, nationality)
+	players, err := h.service.GetPlayers(limit, offset, search, position, nationality, team)
 	if err != nil {
 		w.WriteHeader(http.StatusInternalServerError)
 		json.NewEncoder(w).Encode(models.APIResponse{
 			Success: false,
 			Error:   "Failed to fetch players",
+		})
+		return
+	}
+
+	// Get total count for pagination
+	total, err := h.service.GetPlayersCount(search, position, nationality, team)
+	if err != nil {
+		w.WriteHeader(http.StatusInternalServerError)
+		json.NewEncoder(w).Encode(models.APIResponse{
+			Success: false,
+			Error:   "Failed to count players",
 		})
 		return
 	}
@@ -49,12 +61,14 @@ func (h *PlayerHandler) GetPlayers(w http.ResponseWriter, r *http.Request) {
 		Success: true,
 		Data: map[string]interface{}{
 			"players": players,
+			"total":   total,
 			"filters": map[string]interface{}{
 				"limit":       limit,
 				"offset":      offset,
 				"search":      search,
 				"position":    position,
 				"nationality": nationality,
+				"team":        team,
 			},
 		},
 	})

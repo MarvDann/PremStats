@@ -4,6 +4,7 @@ import { useParams } from '@solidjs/router'
 import { createQuery } from '@tanstack/solid-query'
 import { Container, Card, Button, Badge } from '@premstats/ui'
 import { getTeamCrest } from '../utils/teamCrests'
+import { apiUrl } from '../config/api'
 
 interface MatchDetail {
   id: number
@@ -65,7 +66,7 @@ const MatchDetail: Component = () => {
   const matchQuery = createQuery(() => ({
     queryKey: ['match', matchId()],
     queryFn: async (): Promise<MatchDetail> => {
-      const response = await fetch(`http://localhost:8081/api/v1/matches/${matchId()}`)
+      const response = await fetch(apiUrl(`/matches/${matchId()}`))
       if (!response.ok) {
         throw new Error('Failed to fetch match')
       }
@@ -78,7 +79,7 @@ const MatchDetail: Component = () => {
   const eventsQuery = createQuery(() => ({
     queryKey: ['match-events', matchId()],
     queryFn: async (): Promise<{ events: MatchEvent[] }> => {
-      const response = await fetch(`http://localhost:8081/api/v1/matches/${matchId()}/events`)
+      const response = await fetch(apiUrl(`/matches/${matchId()}/events`))
       if (!response.ok) {
         // Return empty events if endpoint doesn't exist yet
         return { events: [] }
@@ -94,7 +95,7 @@ const MatchDetail: Component = () => {
     queryFn: async (): Promise<HeadToHead | null> => {
       if (!matchQuery.data) return null
       const response = await fetch(
-        `http://localhost:8081/api/v1/teams/${matchQuery.data.homeTeamId}/vs/${matchQuery.data.awayTeamId}`
+        apiUrl(`/teams/${matchQuery.data.homeTeamId}/vs/${matchQuery.data.awayTeamId}`)
       )
       if (!response.ok) {
         // Return mock data for now

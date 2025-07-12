@@ -44,7 +44,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 11. **TypeScript JSX**: Configure `jsx: "preserve"` and `jsxImportSource: "solid-js"`
 12. **Storybook + SolidJS**: Use `@storybook/html-vite` with `vite-plugin-solid`
 13. **Component Testing**: SolidJS Testing Library works excellently with Vitest
-14. **Football Context**: Position-based colors (Champions League=green, relegation=red)
+14. **Color Scheme**: Deep purple theme with gradients (`from-primary to-purple-600`). Avoid green for UI components - only use for football context (Champions League positions). StatsCards should use `variant="default"` unless specifically indicating success/failure states.
 15. **Accessibility**: Always include ARIA labels, proper semantic HTML, keyboard navigation
 16. **VS Code Launch Config**: Use `"runtimeExecutable": "bash"` for shell scripts, not `"program": "script.sh"`
 17. **E2E Testing**: Playwright works excellently with SolidJS, auto-starts dev server
@@ -62,6 +62,14 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 29. **Premier League Data Sources**: OpenFootball Project (free historical JSON), API-Football (comprehensive), Football-Data.co.uk (CSV files)
 30. **Player Name Normalization**: Critical for linking goal scorers across different data sources ("Mohamed Salah" vs "M. Salah")
 31. **Transfer Window Tracking**: Players need team attribution by season/date to handle mid-season transfers properly
+32. **API Development Process**: Always check what's running first (`ps aux | grep api`, `curl health check`). Use `./scripts/dev-restart.sh` for streamlined restarts. Kill processes with `pkill -9 -f "api"` and rebuild with `go build` before starting.
+33. **Database Relationships**: Use IDs for filtering, not names (e.g., `team_id` instead of `team_name`) for better performance and accuracy.
+34. **Duplicate Data Handling**: Use aggressive name cleaning with diacritic normalization. Prioritize records with completeness scores (team + nationality + position + DOB). Always preserve statistics when merging duplicates.
+35. **Color Scheme Consistency**: Purple theme (`from-primary to-purple-600`). StatsCards use `variant="default"` unless specifically indicating success/failure. Avoid green except for football context (Champions League positions).
+36. **Port Conflicts**: Always check for existing processes before starting services. Use consistent ports (8081 for API, 3000 for frontend). VS Code port forwarding can cause conflicts.
+37. **Directory Management**: Always verify `pwd` before running scripts. API commands run from `packages/api/`. Project scripts run from root.
+38. **Pagination Patterns**: 50 items per page, include total count in API responses, reset to page 1 when filters change, show "Showing X to Y of Z" format.
+39. **Team Filter Implementation**: Use team dropdown with ID values but display names. Filter API by `current_team_id` for accurate results.
 
 ### Quick Start Commands
 ```bash
