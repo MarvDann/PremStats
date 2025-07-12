@@ -135,7 +135,7 @@ const MatchDetail: Component = () => {
 
   const getResultBadge = (homeScore: number | null, awayScore: number | null, isHome: boolean) => {
     if (homeScore === null || awayScore === null) return null
-    
+
     if (homeScore > awayScore) {
       return isHome ? <Badge variant="success">W</Badge> : <Badge variant="destructive">L</Badge>
     } else if (homeScore < awayScore) {
@@ -166,34 +166,6 @@ const MatchDetail: Component = () => {
 
   return (
     <Container>
-
-          {/* Match Scores */}
-          <div class="text-center mb-8">
-            <div class="flex items-center justify-center gap-8">
-              <div class="text-center">
-                <div class="text-sm font-medium text-muted-foreground mb-2">
-                  {match()?.homeTeam}
-                </div>
-                <div class="text-6xl font-bold text-primary">
-                  {match()?.homeScore ?? 0}
-                </div>
-              </div>
-              <div class="text-2xl font-bold text-muted-foreground">
-                VS
-              </div>
-              <div class="text-center">
-                <div class="text-sm font-medium text-muted-foreground mb-2">
-                  {match()?.awayTeam}
-                </div>
-                <div class="text-6xl font-bold text-primary">
-                  {match()?.awayScore ?? 0}
-                </div>
-              </div>
-            </div>
-            <div class="text-sm text-muted-foreground mt-4">
-              {match()?.date && new Date(match().date).toLocaleDateString()}
-            </div>
-          </div>
       <div class="space-y-6">
         {/* Back button */}
         <Button onClick={() => window.history.back()}>
@@ -535,7 +507,7 @@ const MatchDetail: Component = () => {
                     {(event) => {
                       const isHomeTeam = event.teamId === matchQuery.data?.homeTeamId
                       const teamName = isHomeTeam ? matchQuery.data?.homeTeam : matchQuery.data?.awayTeam
-                      
+
                       return (
                         <div class={`flex items-center space-x-4 p-3 rounded-lg transition-colors hover:bg-muted/50 ${
                           event.eventType === 'goal' || event.eventType === 'penalty' ? 'bg-primary/5' : ''
