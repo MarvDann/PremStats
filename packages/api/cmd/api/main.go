@@ -39,6 +39,7 @@ func main() {
 	standingsHandler := handlers.NewStandingsHandler(standingsService)
 	seasonHandler := handlers.NewSeasonHandler(seasonService)
 	playerHandler := handlers.NewPlayerHandler(playerService)
+	reportsHandler := &handlers.Handler{DB: db}
 
 	router := mux.NewRouter()
 
@@ -81,6 +82,10 @@ func main() {
 
 	// Search endpoint
 	api.HandleFunc("/search", playerHandler.SearchPlayers).Methods("GET")
+
+	// Reports endpoints
+	api.HandleFunc("/reports/data-completeness", reportsHandler.GetDataCompletenessReport).Methods("GET")
+	api.HandleFunc("/reports/season-completeness", reportsHandler.GetSeasonCompleteness).Methods("GET")
 
 	// Natural language query endpoint (placeholder)
 	api.HandleFunc("/query", queryHandler).Methods("POST")

@@ -1,0 +1,2 @@
+psql: error: /home/marvdann/projects/PremStats/scripts/validation/data-integrity-check.sql: No such file or directory
+

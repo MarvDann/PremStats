@@ -55,6 +55,13 @@ const Layout: ParentComponent = (props) => {
                 >
                   Tables
                 </A>
+                <A
+                  href="/data-completeness"
+                  class="text-sm font-semibold transition-colors text-white/90 hover:text-white"
+                  activeClass="text-white font-bold"
+                >
+                  Data Quality
+                </A>
               </div>
             </div>
             
@@ -114,6 +121,14 @@ const Layout: ParentComponent = (props) => {
                   onClick={closeMobileMenu}
                 >
                   Tables
+                </A>
+                <A
+                  href="/data-completeness"
+                  class="block px-3 py-2 rounded-md text-base font-semibold text-white/90 hover:text-white hover:bg-white/10"
+                  activeClass="text-white bg-white/20 font-bold"
+                  onClick={closeMobileMenu}
+                >
+                  Data Quality
                 </A>
               </div>
             </div>

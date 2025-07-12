@@ -1,0 +1,62 @@
+ validation_check | result | correct_seasons | total_seasons 
+------------------+--------+-----------------+---------------
+ 1.1 Match Counts | PASS   |              33 |            33
+(1 row)
+
+    validation_check    | result | invalid_matches | total_matches 
+------------------------+--------+-----------------+---------------
+ 1.2 Match Data Quality | PASS   |               0 |         12786
+(1 row)
+
+    validation_check     | result | invalid_dates | total_matches_with_goals 
+-------------------------+--------+---------------+--------------------------
+ 1.3 Match Date Accuracy | PASS   |             0 |                     3458
+(1 row)
+
+    validation_check    | result | duplicate_goals | total_goals 
+------------------------+--------+-----------------+-------------
+ 2.1 No Duplicate Goals | PASS   |               0 |        8822
+(1 row)
+
+    validation_check     | result | perfect_matches | total_matches_with_goals | accuracy_pct 
+-------------------------+--------+-----------------+--------------------------+--------------
+ 2.2 Goal-Score Accuracy | FAIL   |            2373 |                     3458 |         68.6
+(1 row)
+
+   validation_check    | result | orphaned_goals | total_goals 
+-----------------------+--------+----------------+-------------
+ 2.3 No Orphaned Goals | PASS   |              0 |        8822
+(1 row)
+
+      validation_check      | result | invalid_minutes | total_goals 
+----------------------------+--------+-----------------+-------------
+ 2.4 Realistic Goal Minutes | PASS   |               0 |        8822
+(1 row)
+
+     validation_check     | result | invalid_team_goals | total_goals 
+--------------------------+--------+--------------------+-------------
+ 3.1 Goal Team Assignment | PASS   |                  0 |        8822
+(1 row)
+
+  validation_check   | result | seasons_with_goals | total_seasons | coverage_pct 
+---------------------+--------+--------------------+---------------+--------------
+ 4.1 Season Coverage | INFO   |                 21 |            33 |         63.6
+(1 row)
+
+ERROR:  column "goal_accuracy_pass" does not exist
+LINE 44:       WHEN goal_accuracy_pass IS NOT NULL THEN goal_accuracy...
+                    ^
+         report_section         |     validation_timestamp      
+--------------------------------+-------------------------------
+ === DATA INTEGRITY SUMMARY === | 2025-07-12 12:37:55.704642+00
+(1 row)
+
+              metric              | value 
+----------------------------------+-------
+ Total Seasons                    |    33
+ Total Matches                    | 12786
+ Total Goals                      |  8822
+ Perfect Matches (Goals = Scores) |  2373
+ Data Quality Score (%)           |  68.6
+(5 rows)
+

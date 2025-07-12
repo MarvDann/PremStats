@@ -10,6 +10,7 @@ import PlayersPage from './pages/Players'
 import MatchesPage from './pages/Matches'
 import MatchDetail from './pages/MatchDetail'
 import StatsPage from './pages/Stats'
+import DataCompleteness from './pages/DataCompleteness'
 import { initializeCurrentSeason } from './utils/seasonStore'
 
 const queryClient = new QueryClient({
@@ -44,6 +45,7 @@ render(() => (
       <Route path="/matches" component={MatchesPage} />
       <Route path="/matches/:id" component={MatchDetail} />
       <Route path="/stats" component={StatsPage} />
+      <Route path="/data-completeness" component={DataCompleteness} />
     </Router>
   </QueryClientProvider>
 ), root!)

@@ -1,0 +1,37 @@
+{
+  "dataSources": [
+    {
+      "name": "API-Football",
+      "endpoint": "https://api-football-v1.p.rapidapi.com/v3",
+      "coverage": "Live matches, player stats, fixtures",
+      "priority": "high",
+      "status": "configured"
+    },
+    {
+      "name": "Fantasy Premier League API",
+      "endpoint": "https://fantasy.premierleague.com/api",
+      "coverage": "Player performance, team stats",
+      "priority": "medium",
+      "status": "configured"
+    },
+    {
+      "name": "Premier League Official",
+      "endpoint": "https://footballapi.pulselive.com",
+      "coverage": "Official match data, stats",
+      "priority": "high",
+      "status": "configured"
+    }
+  ],
+  "updateFrequency": {
+    "live_matches": "30 seconds",
+    "player_stats": "15 minutes",
+    "fixtures": "daily",
+    "standings": "daily"
+  },
+  "automationTasks": [
+    "Match result updates",
+    "Goal scorer tracking",
+    "Team standings refresh",
+    "Player transfer updates"
+  ]
+}

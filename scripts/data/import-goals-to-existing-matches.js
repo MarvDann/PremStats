@@ -20,7 +20,7 @@ async function importGoalsToExistingMatches() {
   const spinner = ora('Starting goals import to existing matches...').start()
   
   try {
-    const matchesFile = 'data/matches-fixed.csv'
+    const matchesFile = 'data/processed/matches/matches-fixed.csv'
     
     if (!fs.existsSync(matchesFile)) {
       throw new Error(`Matches file not found: ${matchesFile}`)
@@ -40,9 +40,9 @@ async function importGoalsToExistingMatches() {
     let totalGoals = 0
     let playerLinkingIssues = 0
     
-    // Process first 500 matches to build up goal data  
-    const testMatches = validMatches.slice(0, 500)
-    console.log(`🚀 Processing ${testMatches.length} matches for debugging`)
+    // Process ALL matches to complete goal data import
+    const testMatches = validMatches
+    console.log(`🚀 Processing ${testMatches.length} matches for complete import`)
     
     for (const matchData of testMatches) {
       try {
@@ -57,7 +57,7 @@ async function importGoalsToExistingMatches() {
           continue
         }
         
-        if (matchesFound <= 3) {
+        if (matchesFound <= 5) {
           console.log(chalk.green(`✅ Match found: ${matchData.homeTeam} vs ${matchData.awayTeam} -> DB ID ${existingMatch.id}`))
         }
         
@@ -66,7 +66,7 @@ async function importGoalsToExistingMatches() {
         
         // Import goals for this existing match
         if (matchData.homeGoalScorers || matchData.awayGoalScorers) {
-          if (totalGoals < 20 || totalGoals % 50 === 0) {
+          if (totalGoals < 20 || totalGoals % 200 === 0) {
             console.log(`⚽ Processing goals for match ${matchId}: ${matchData.homeTeam} vs ${matchData.awayTeam}`)
           }
           
@@ -90,14 +90,19 @@ async function importGoalsToExistingMatches() {
           totalGoals += awayGoals.successful
           playerLinkingIssues += awayGoals.linkingIssues
           
-          if (totalGoals < 20 || totalGoals % 50 === 0) {
+          if (totalGoals < 20 || totalGoals % 200 === 0) {
             console.log(`✅ Imported ${homeGoals.successful + awayGoals.successful} goals, ${homeGoals.linkingIssues + awayGoals.linkingIssues} linking issues`)
           }
         }
         
         // Progress reporting
-        if (matchesFound % 500 === 0) {
-          spinner.text = `Found ${matchesFound} matches, imported ${totalGoals} goals...`
+        if (totalMatches % 100 === 0) {
+          spinner.text = `Processed ${totalMatches}/${testMatches.length} matches, found ${matchesFound}, imported ${totalGoals} goals...`
+        }
+        
+        if (totalMatches % 1000 === 0) {
+          console.log(chalk.blue(`📊 Progress: ${totalMatches}/${testMatches.length} (${(totalMatches/testMatches.length*100).toFixed(1)}%)`))
+          console.log(chalk.green(`✅ Matches found: ${matchesFound}, Goals imported: ${totalGoals}, Linking issues: ${playerLinkingIssues}`))
         }
         
       } catch (error) {
@@ -265,16 +270,16 @@ function extractMatchData(values, columnMap) {
     awayGoalMinutes: values[columnMap.awayGoalMinutes]?.trim() || ''
   }
   
-  // Debug first few matches with goal data
-  if (result.homeGoalScorers || result.awayGoalScorers) {
-    console.log('🎯 Found match with goals:', {
-      teams: `${result.homeTeam} vs ${result.awayTeam}`,
-      homeGoalScorers: result.homeGoalScorers,
-      homeGoalMinutes: result.homeGoalMinutes,
-      awayGoalScorers: result.awayGoalScorers,
-      awayGoalMinutes: result.awayGoalMinutes
-    })
-  }
+  // Debug first few matches with goal data (disabled for performance)
+  // if (result.homeGoalScorers || result.awayGoalScorers) {
+  //   console.log('🎯 Found match with goals:', {
+  //     teams: `${result.homeTeam} vs ${result.awayTeam}`,
+  //     homeGoalScorers: result.homeGoalScorers,
+  //     homeGoalMinutes: result.homeGoalMinutes,
+  //     awayGoalScorers: result.awayGoalScorers,
+  //     awayGoalMinutes: result.awayGoalMinutes
+  //   })
+  // }
   
   return result
 }

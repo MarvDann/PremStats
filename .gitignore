@@ -58,7 +58,7 @@ temp/
 .api.pid
 .pids/
 
-# Runtime files  
+# Runtime files
 logs/*.log
 logs/**/*.log
 agent*.log
@@ -71,3 +71,6 @@ season-audit-report.json
 
 # Storybook
 storybook-static/
+
+# Backups
+backups/
