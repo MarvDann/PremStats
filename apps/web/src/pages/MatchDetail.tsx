@@ -165,7 +165,35 @@ const MatchDetail: Component = () => {
   }
 
   return (
-    <Container class="max-w-5xl">
+    <Container>
+
+          {/* Match Scores */}
+          <div class="text-center mb-8">
+            <div class="flex items-center justify-center gap-8">
+              <div class="text-center">
+                <div class="text-sm font-medium text-muted-foreground mb-2">
+                  {match()?.homeTeam}
+                </div>
+                <div class="text-6xl font-bold text-primary">
+                  {match()?.homeScore ?? 0}
+                </div>
+              </div>
+              <div class="text-2xl font-bold text-muted-foreground">
+                VS
+              </div>
+              <div class="text-center">
+                <div class="text-sm font-medium text-muted-foreground mb-2">
+                  {match()?.awayTeam}
+                </div>
+                <div class="text-6xl font-bold text-primary">
+                  {match()?.awayScore ?? 0}
+                </div>
+              </div>
+            </div>
+            <div class="text-sm text-muted-foreground mt-4">
+              {match()?.date && new Date(match().date).toLocaleDateString()}
+            </div>
+          </div>
       <div class="space-y-6">
         {/* Back button */}
         <Button onClick={() => window.history.back()}>
