@@ -2,7 +2,26 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-## 🚀 CURRENT STATUS (Last Updated: 2025-01-06)
+## 📑 Documentation Index
+
+### Core Documentation
+- **[Database Schema](docs/DATABASE_SCHEMA.md)** - Complete schema with relationships and current data
+- **[Schema Diagram](docs/SCHEMA_DIAGRAM.md)** - Visual database structure and relationships  
+- **[Season Audit](SEASON-AUDIT-SUMMARY.md)** - Data quality report (33 seasons, 100% integrity)
+- **[API Documentation](docs/API.md)** - REST endpoints and usage examples
+- **[Development Workflow](docs/development-workflow.md)** - Best practices and conventions
+
+### Component Documentation
+- **[UI Components](packages/ui/README.md)** - Component library with props and examples *(Coming Soon)*
+- **[Frontend Architecture](apps/web/README.md)** - SolidJS patterns and routing *(Coming Soon)*
+- **[Testing Guide](docs/testing.md)** - E2E, unit, and integration testing *(Coming Soon)*
+
+### Scripts Documentation  
+- **[Data Import Scripts](scripts/README.md)** - Data import and management tools *(Coming Soon)*
+- **[Development Scripts](scripts/dev/README.md)** - Development automation *(Coming Soon)*
+- **[Maintenance Scripts](scripts/maintenance/README.md)** - Cleanup and monitoring *(Coming Soon)*
+
+## 🚀 CURRENT STATUS (Last Updated: 2025-01-12)
 
 **PremStats is LIVE with error-free frontend, production Go API, and comprehensive testing!**
 
@@ -30,46 +49,58 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - **Docker Compose v2**: Use `docker compose` not `docker-compose`
 - **ESLint**: Standard config (not neostandard due to version conflicts)
 
-### Key Learnings
-1. **WSL Compatibility**: No MCP needed - Redis task queues work perfectly
-2. **Agent Architecture**: Base worker class + specific agent implementations
-3. **Code Style**: 2 spaces, no semicolons, single quotes, no trailing commas
-4. **Dependencies**: Some package conflicts resolved (neostandard → standard)
-5. **GitHub**: Repository at https://github.com/MarvDann/PremStats
-6. **Database Null Handling**: Always use sql.NullString and sql.NullInt32 for nullable fields
-7. **Go API Architecture**: Services → Handlers → Models pattern works excellently
-8. **PostgreSQL Integration**: Real-time calculations from historical match data
-9. **SolidJS Components**: Use proper reactivity patterns, avoid React patterns
-10. **Tailwind Variants**: Use `tailwind-variants` for component styling, not manual classes
-11. **TypeScript JSX**: Configure `jsx: "preserve"` and `jsxImportSource: "solid-js"`
-12. **Storybook + SolidJS**: Use `@storybook/html-vite` with `vite-plugin-solid`
-13. **Component Testing**: SolidJS Testing Library works excellently with Vitest
-14. **Color Scheme**: Deep purple theme with gradients (`from-primary to-purple-600`). Avoid green for UI components - only use for football context (Champions League positions). StatsCards should use `variant="default"` unless specifically indicating success/failure states.
-15. **Accessibility**: Always include ARIA labels, proper semantic HTML, keyboard navigation
-16. **VS Code Launch Config**: Use `"runtimeExecutable": "bash"` for shell scripts, not `"program": "script.sh"`
-17. **E2E Testing**: Playwright works excellently with SolidJS, auto-starts dev server
-18. **UI Build Dependencies**: Frontend depends on UI components being built first - add checks to all launchers
-19. **Blank Page Debugging**: E2E tests catch UI import/build issues before manual testing
-20. **Playwright Dependencies**: WSL environments require system dependencies (`sudo pnpm exec playwright install-deps`) for full browser testing
-21. **Service Dependencies**: E2E tests require API + Database + UI components all working together
-22. **SolidJS Router v0.10.x Breaking Changes**: Routes component removed - Router acts as Routes, Layout goes in root prop
-23. **TypeScript Declaration Generation**: Use vite-plugin-dts for UI packages to generate proper .d.ts files
-24. **DataTable Column Interface**: Must include accessor function - `{ header, key, align, accessor: (item) => item.field }`
-25. **SolidJS Event Handlers**: Always type events explicitly - `(e: Event)` or `(e: KeyboardEvent)` to avoid implicit any errors
-26. **Router Migration Pattern**: Move from `<Router><App /></Router>` to `<Router root={Layout}><Route.../></Router>` structure
-27. **Front End Entry Point**: `index.tsx` rather than `App.tsx`
-28. **Match Stats Data Dependencies**: Squad data must be imported first to properly map goal scorers to players - prevents orphaned records
-29. **Premier League Data Sources**: OpenFootball Project (free historical JSON), API-Football (comprehensive), Football-Data.co.uk (CSV files)
-30. **Player Name Normalization**: Critical for linking goal scorers across different data sources ("Mohamed Salah" vs "M. Salah")
-31. **Transfer Window Tracking**: Players need team attribution by season/date to handle mid-season transfers properly
-32. **API Development Process**: Always check what's running first (`ps aux | grep api`, `curl health check`). Use `./scripts/dev-restart.sh` for streamlined restarts. Kill processes with `pkill -9 -f "api"` and rebuild with `go build` before starting.
-33. **Database Relationships**: Use IDs for filtering, not names (e.g., `team_id` instead of `team_name`) for better performance and accuracy.
-34. **Duplicate Data Handling**: Use aggressive name cleaning with diacritic normalization. Prioritize records with completeness scores (team + nationality + position + DOB). Always preserve statistics when merging duplicates.
-35. **Color Scheme Consistency**: Purple theme (`from-primary to-purple-600`). StatsCards use `variant="default"` unless specifically indicating success/failure. Avoid green except for football context (Champions League positions).
-36. **Port Conflicts**: Always check for existing processes before starting services. Use consistent ports (8081 for API, 3000 for frontend). VS Code port forwarding can cause conflicts.
-37. **Directory Management**: Always verify `pwd` before running scripts. API commands run from `packages/api/`. Project scripts run from root.
-38. **Pagination Patterns**: 50 items per page, include total count in API responses, reset to page 1 when filters change, show "Showing X to Y of Z" format.
-39. **Team Filter Implementation**: Use team dropdown with ID values but display names. Filter API by `current_team_id` for accurate results.
+## 💡 Key Development Guidelines
+
+### 🎨 Frontend (SolidJS + Tailwind)
+- **SolidJS Patterns**: Use proper reactivity patterns, avoid React patterns (#9)
+- **Router v0.10.x**: `<Router root={Layout}><Route.../></Router>` structure (#22, #26)
+- **Event Handlers**: Type events explicitly - `(e: Event)` or `(e: KeyboardEvent)` (#25)
+- **Entry Point**: Use `index.tsx` rather than `App.tsx` (#27)
+- **TypeScript JSX**: Configure `jsx: "preserve"` and `jsxImportSource: "solid-js"` (#11)
+- **Component Testing**: SolidJS Testing Library + Vitest works excellently (#13)
+
+### 🎨 UI Components & Styling
+- **Color Scheme**: Deep purple theme `from-primary to-purple-600`. Avoid green except for football context (#14, #35)
+- **StatsCards**: Use `variant="default"` unless indicating success/failure states (#14, #35)
+- **Tailwind Variants**: Use `tailwind-variants` for component styling, not manual classes (#10)
+- **DataTable Columns**: Must include accessor function - `{ header, key, align, accessor: (item) => item.field }` (#24)
+- **Accessibility**: Always include ARIA labels, proper semantic HTML, keyboard navigation (#15)
+- **TypeScript Declarations**: Use vite-plugin-dts for UI packages to generate .d.ts files (#23)
+
+### 🔧 Backend (Go API)
+- **Architecture Pattern**: Services → Handlers → Models pattern works excellently (#7)
+- **Database Null Handling**: Always use sql.NullString and sql.NullInt32 for nullable fields (#6)
+- **Database Relationships**: Use IDs for filtering, not names (e.g., `team_id` vs `team_name`) (#33)
+- **API Process Management**: Check running processes first, use `./scripts/dev-restart.sh` (#32)
+- **Port Management**: 8081 for API, 3000 for frontend. Check for conflicts (#36)
+- **Directory Context**: API commands run from `packages/api/`, project scripts from root (#37)
+
+### 📊 Data Management
+- **Import Dependencies**: Squad data must be imported first before goal scorers (#28)
+- **Name Normalization**: Critical for linking across data sources ("Mohamed Salah" vs "M. Salah") (#30)
+- **Transfer Tracking**: Players need team attribution by season/date for transfers (#31)
+- **Duplicate Handling**: Use aggressive name cleaning with diacritic normalization (#34)
+- **Data Sources**: OpenFootball Project, API-Football, Football-Data.co.uk (#29)
+
+### 🧪 Testing & Development
+- **E2E Testing**: Playwright works excellently with SolidJS, auto-starts dev server (#17)
+- **Test Dependencies**: E2E tests require API + Database + UI components all working (#21)
+- **UI Build Dependencies**: Frontend depends on UI components being built first (#18)
+- **WSL Playwright**: Requires system dependencies `sudo pnpm exec playwright install-deps` (#20)
+- **VS Code Launch**: Use `"runtimeExecutable": "bash"` for shell scripts (#16)
+
+### 🛠️ Development Environment
+- **Code Style**: 2 spaces, no semicolons, single quotes, no trailing commas (#3)
+- **Package Manager**: Use `pnpm` not `npm` with workspaces
+- **Docker**: Use `docker compose` not `docker-compose` (v2)
+- **ESLint**: Standard config (not neostandard due to version conflicts) (#4)
+- **Go Path**: Add ~/go/bin to PATH: `export PATH=$HOME/go/bin:$PATH`
+- **WSL Compatibility**: Redis task queues work perfectly, no MCP needed (#1)
+
+### 🎯 UI Patterns
+- **Pagination**: 50 items per page, include total count, reset to page 1 on filter change (#38)
+- **Team Filters**: Use team dropdown with ID values but display names, filter by `current_team_id` (#39)
+- **Storybook**: Use `@storybook/html-vite` with `vite-plugin-solid` (#12)
 
 ### Quick Start Commands
 ```bash

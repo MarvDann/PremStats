@@ -56,6 +56,15 @@ temp/
 .cache/
 *.pid
 .api.pid
+.pids/
+
+# Runtime files  
+logs/*.log
+logs/**/*.log
+agent*.log
+season-audit-report.json
+*.audit
+*.report
 
 # Claude Code
 .claude/

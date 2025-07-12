@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Streamlined development restart script
-# Checks what's running and restarts only what's needed
+# Uses the new process manager for better reliability
 
 set -e
 
@@ -13,7 +13,9 @@ NC='\033[0m'
 
 echo -e "${BLUE}🔄 PremStats Development Restart${NC}"
 
-# Ensure we're in project root
+# Ensure we're in project root and locate process manager
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+PROCESS_MANAGER="$SCRIPT_DIR/process-manager.sh"
 cd "$(dirname "$0")/.."
 
 # Check database
@@ -25,30 +27,44 @@ else
     echo -e "${GREEN}✅ Database already running${NC}"
 fi
 
-# Check API
-if curl -s "http://localhost:8081/api/v1/teams" > /dev/null 2>&1; then
-    echo -e "${YELLOW}🔄 Restarting existing API...${NC}"
-    pkill -f "api\|main.go" || true
-    sleep 3
+# Restart API using process manager
+if [ -f "$PROCESS_MANAGER" ]; then
+    echo -e "${YELLOW}🔄 Using process manager to restart API...${NC}"
+    "$PROCESS_MANAGER" restart-api
+    if [ $? -eq 0 ]; then
+        echo -e "${GREEN}✅ API restarted successfully${NC}"
+    else
+        echo -e "${YELLOW}❌ API restart failed${NC}"
+        exit 1
+    fi
 else
-    echo -e "${YELLOW}🚀 Starting API...${NC}"
-fi
-
-# Start API
-cd packages/api
-go build -o bin/api cmd/api/main.go
-PORT=8081 ./bin/api > api.log 2>&1 &
-API_PID=$!
-echo "API_PID=$API_PID" > ../../.api.pid
-
-# Verify API
-sleep 5
-if curl -s "http://localhost:8081/api/v1/teams" > /dev/null 2>&1; then
-    echo -e "${GREEN}✅ API running on port 8081${NC}"
-else
-    echo -e "${YELLOW}❌ API failed - check api.log${NC}"
-    tail -5 api.log
-    exit 1
+    # Fallback to legacy method
+    echo -e "${YELLOW}⚠️  Process manager not found, using legacy restart...${NC}"
+    
+    # Check API
+    if curl -s "http://localhost:8081/api/v1/teams" > /dev/null 2>&1; then
+        echo -e "${YELLOW}🔄 Restarting existing API...${NC}"
+        pkill -f "api\|main.go" || true
+        sleep 3
+    else
+        echo -e "${YELLOW}🚀 Starting API...${NC}"
+    fi
+    
+    # Start API
+    cd packages/api
+    go build -o bin/api cmd/api/main.go
+    PORT=8081 ./bin/api > ../../logs/api/api.log 2>&1 &
+    
+    # Verify API
+    sleep 5
+    if curl -s "http://localhost:8081/api/v1/teams" > /dev/null 2>&1; then
+        echo -e "${GREEN}✅ API running on port 8081${NC}"
+    else
+        echo -e "${YELLOW}❌ API failed - check logs/api/api.log${NC}"
+        exit 1
+    fi
+    
+    cd ../..
 fi
 
 # Test new features

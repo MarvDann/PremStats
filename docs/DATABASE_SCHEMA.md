@@ -6,10 +6,12 @@ The PremStats database is designed to store comprehensive Premier League histori
 
 ## Database Statistics
 
-- **Total Matches**: 11,944 (32 complete seasons)
-- **Teams**: 50+ (all teams that have played in Premier League)
-- **Seasons**: 1993/94 to 2024/25 (32 seasons with data)
+- **Total Matches**: 12,786 (33 complete seasons)
+- **Teams**: 51 (all teams that have played in Premier League)
+- **Players**: 944 (with current team tracking)
+- **Seasons**: 1992/93 to 2024/25 (33 seasons with data)
 - **Database Engine**: PostgreSQL 16
+- **Last Updated**: 2025-01-12
 
 ## Schema Diagram
 
@@ -62,6 +64,7 @@ erDiagram
         date date_of_birth "nullable"
         varchar nationality "nullable"
         varchar position "nullable"
+        int current_team_id FK "nullable"
         timestamp created_at
         timestamp updated_at
     }
@@ -119,6 +122,17 @@ erDiagram
         boolean relegated "default false"
         timestamp created_at
     }
+    
+    MATCH_EVENTS {
+        int id PK
+        int match_id FK
+        varchar event_type
+        int minute
+        int player_id FK "nullable"
+        int team_id FK "nullable"
+        varchar detail "nullable"
+        timestamp created_at
+    }
 
     %% Relationships
     SEASONS ||--o{ MATCHES : "has"
@@ -134,9 +148,11 @@ erDiagram
     TEAMS ||--o{ TEAM_SEASONS : "participates"
     
     MATCHES ||--o{ GOALS : "contains"
+    MATCHES ||--o{ MATCH_EVENTS : "contains"
     
     PLAYERS ||--o{ GOALS : "scores"
     PLAYERS ||--o{ PLAYER_STATS : "has"
+    PLAYERS ||--o{ MATCH_EVENTS : "participates"
 ```
 
 ## Table Details
@@ -156,7 +172,7 @@ Primary table for Premier League seasons.
 | `team_count` | `integer` | DEFAULT 20 | Number of teams in season |
 | `created_at` | `timestamp` | DEFAULT NOW() | Record creation time |
 
-**Data Coverage**: 34 seasons (1992/93 to 2025/26), 32 with match data
+**Data Coverage**: 34 seasons (1992/93 to 2025/26), 33 with match data
 
 #### `teams`
 Information about all Premier League teams (past and present).
@@ -173,7 +189,7 @@ Information about all Premier League teams (past and present).
 | `created_at` | `timestamp` | DEFAULT NOW() | Record creation time |
 | `updated_at` | `timestamp` | DEFAULT NOW() | Last update time |
 
-**Data Coverage**: 50+ teams including historical clubs (Wimbledon FC, Swindon Town FC, etc.)
+**Data Coverage**: 51 teams including historical clubs (Wimbledon FC, Swindon Town FC, etc.)
 
 #### `matches`
 Historical match results and fixture data.
@@ -199,7 +215,7 @@ Historical match results and fixture data.
 - `idx_matches_date` on `match_date`
 - `idx_matches_season` on `season_id`
 
-**Data Coverage**: 11,944 matches across 32 seasons
+**Data Coverage**: 12,786 matches across 33 seasons (1992/93 to 2024/25)
 
 ### Statistics & Analysis Tables
 
@@ -245,7 +261,7 @@ Individual goal events within matches.
 ### Player & Team Management
 
 #### `players`
-Player biographical information.
+Player biographical information and current team tracking.
 
 | Column | Type | Constraints | Description |
 |--------|------|-------------|-------------|
@@ -254,6 +270,11 @@ Player biographical information.
 | `date_of_birth` | `date` | NULLABLE | Birth date |
 | `nationality` | `varchar(100)` | NULLABLE | Player nationality |
 | `position` | `varchar(50)` | NULLABLE | Playing position |
+| `current_team_id` | `integer` | FOREIGN KEY, NULLABLE | Current team reference |
+| `created_at` | `timestamp` | DEFAULT NOW() | Record creation time |
+| `updated_at` | `timestamp` | DEFAULT NOW() | Last update time |
+
+**Data Coverage**: 944 players with biographical data and current team tracking
 
 #### `player_stats`
 Season-by-season player statistics.
@@ -287,13 +308,36 @@ Team participation and outcomes by season.
 
 **Unique Constraint**: `(team_id, season_id)`
 
+#### `match_events`
+Detailed in-match events and occurrences.
+
+| Column | Type | Constraints | Description |
+|--------|------|-------------|-------------|
+| `id` | `integer` | PRIMARY KEY | Auto-increment event ID |
+| `match_id` | `integer` | FOREIGN KEY | Match reference |
+| `event_type` | `varchar(50)` | NOT NULL | Type of event (goal, card, substitution, etc.) |
+| `minute` | `integer` | NOT NULL | Minute when event occurred |
+| `player_id` | `integer` | FOREIGN KEY, NULLABLE | Player involved in event |
+| `team_id` | `integer` | FOREIGN KEY, NULLABLE | Team reference for event |
+| `detail` | `varchar(255)` | NULLABLE | Additional event details |
+| `created_at` | `timestamp` | DEFAULT NOW() | Record creation time |
+
+**Indexes**:
+- `idx_match_events_match` on `match_id`
+- `idx_match_events_player` on `player_id`
+- `idx_match_events_type` on `event_type`
+
+**Data Coverage**: Schema ready for comprehensive match event tracking
+
 ## Key Relationships
 
 ### Primary Relationships
 - **Seasons → Matches**: One-to-many (each season has many matches)
 - **Teams → Matches**: One-to-many (teams play multiple matches as home/away)
 - **Matches → Goals**: One-to-many (matches contain multiple goals)
+- **Matches → Match Events**: One-to-many (matches contain multiple events)
 - **Players → Goals**: One-to-many (players score multiple goals)
+- **Players → Match Events**: One-to-many (players participate in multiple events)
 
 ### Statistical Relationships
 - **Seasons → Standings**: One-to-many (season has league table entries)
@@ -333,6 +377,7 @@ All relationships are enforced with foreign key constraints to maintain referent
 ### Indexes
 - **Matches**: Indexed on `match_date` and `season_id` for fast date/season queries
 - **Goals**: Indexed on `match_id` and `player_id` for quick goal lookups
+- **Match Events**: Indexed on `match_id`, `player_id`, and `event_type` for event queries
 - **Standings**: Indexed on `season_id` for league table queries
 - **Player Stats**: Indexed on `season_id` for season statistics
 
