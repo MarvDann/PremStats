@@ -1,0 +1,36 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Oct 27, 2006",Chris Kirkland,"1,98m",3219,['England'],€4.00m,: Ablöse €3.73m,30,"May 2, 1981",Retired
+Goalkeeper,right,,"Jul 4, 2011",Ali Al-Habsi,"1,94m",26633,['Oman'],€2.00m,: Ablöse €4.30m,29,"Dec 30, 1981",Retired
+Goalkeeper,right,,"Jul 1, 2005",Mike Pollitt,"1,93m",32217,['England'],€250k,Rotherham United,39,"Feb 29, 1972",Retired
+Goalkeeper,right,,"Jul 1, 2010",Lee Nicholls,"1,91m",126258,['England'],€50k,Wigan Athletic U18,18,"Oct 5, 1992",Huddersfield Town
+Centre-Back,right,,"Jul 1, 2010",Antolín Alcaraz,"1,87m",14259,"['Paraguay', 'Italy']",€4.00m,: Ablöse free transfer,28,"Jul 30, 1982",Retired
+Centre-Back,right,,"Jan 13, 2010",Gary Caldwell,"1,85m",3791,['Scotland'],€3.50m,Celtic FC,29,"Apr 12, 1982",Retired
+Centre-Back,right,,"Aug 23, 2010",Steven Caldwell,"1,83m",3462,['Scotland'],€2.00m,: Ablöse free transfer,30,"Sep 12, 1980",Retired
+Centre-Back,,,"Jan 1, 2010",Steve Gohouri,,19857,"[""Cote d'Ivoire"", 'France']",€1.50m,Borussia Mönchengladbach,30,"Feb 8, 1981",---
+Centre-Back,right,,"Jan 1, 2011",Adrián López,"1,84m",44966,['Spain'],€500k,Deportivo de La Coruña,24,"Feb 25, 1987",Without Club
+Centre-Back,,,,Jordan Robinson,"1,88m",173066,['England'],,,20,"Apr 28, 1991",Retired
+Centre-Back,right,,"Jul 1, 2011",Román Golobart,"1,93m",90273,['Spain'],,Wigan Athletic U21,19,"Mar 21, 1992",Retired
+Left-Back,left,,"Oct 21, 2014",Maynor Figueroa,"1,82m",62240,['Honduras'],€5.50m,: Ablöse free transfer,28,"May 2, 1983",Retired
+Left-Back,left,,"Jul 1, 2009",Jordan Mustoe,"1,79m",61715,['England'],,Wigan Athletic U18,20,"Jan 28, 1991",Without Club
+Right-Back,right,,"Jul 1, 2010",Ronnie Stam,"1,79m",24877,['Netherlands'],€4.00m,Twente Enschede FC,27,"Jun 18, 1984",Retired
+Right-Back,right,,"Aug 1, 2006",Emmerson Boyce,"1,80m",19641,"['Barbados', 'England']",€2.50m,: Ablöse €1.50m,31,"Sep 24, 1979",Retired
+Right-Back,right,,"Jul 1, 2011",Adam Buxton,"1,85m",126249,['England'],,Wigan Athletic U18,19,"May 12, 1992",Bootle FC
+Defensive Midfield,right,,"Jul 1, 2009",Hendry Thomas,"1,80m",62275,['Honduras'],€3.00m,CD Olimpia,26,"Feb 23, 1985",Retired
+Central Midfield,right,,"Aug 22, 2009",Mohamed Diamé,"1,84m",70950,"['Senegal', 'France']",€3.50m,: Ablöse €3.00m,24,"Jun 14, 1987",Al-Sailiya SC
+Central Midfield,right,,"Jul 16, 2009",James McCarthy,"1,80m",45333,"['Ireland', 'Scotland']",€3.00m,Hamilton Academical FC,20,"Nov 12, 1990",Celtic FC
+Central Midfield,right,,"Jan 26, 2009",Ben Watson,"1,78m",14081,['England'],€2.50m,: Ablöse €2.10m,25,"Jul 9, 1985",Retired
+Central Midfield,right,,"Aug 31, 2010",Tom Cleverley,"1,75m",73484,['England'],€2.50m,Manchester United,21,"Aug 12, 1989",Retired
+Central Midfield,left,,"Aug 17, 2016",Jordi Gómez,"1,78m",39010,['Spain'],€2.00m,Sunderland AFC,26,"May 24, 1985",Retired
+Central Midfield,both,,"Jul 1, 2010",James McArthur,"1,78m",41416,['Scotland'],€2.00m,Hamilton Academical FC,23,"Oct 7, 1987",Retired
+Central Midfield,right,,,Callum Morris,"1,87m",142728,['England'],,,18,"Sep 1, 1992",Precision FC
+Central Midfield,left,,"Jul 1, 2010",Daniel Redmond,"1,75m",61586,['England'],,Wigan Athletic U21,20,"Mar 2, 1991",The New Saints
+Attacking Midfield,left,,"Jul 10, 2007",Jason Koumas,"1,77m",3661,"['Wales', 'Cyprus']",€2.00m,West Bromwich Albion,31,"Sep 25, 1979",Retired
+Left Winger,right,,"Jul 1, 2008",Daniël de Ridder,"1,80m",15894,"['Netherlands', 'Israel']",€750k,: Ablöse free transfer,27,"Mar 6, 1984",Retired
+Right Winger,left,heart problems - Return unknown,"Feb 2, 2009",Charles N'Zogbia,"1,71m",22165,"['France', 'DR Congo']",€9.00m,Newcastle United,25,"May 28, 1986",Retired
+Right Winger,right,,"Jan 31, 2010",Victor Moses,"1,77m",59866,"['Nigeria', 'England']",€2.50m,: Ablöse €3.00m,20,"Dec 12, 1990",Luton Town
+Right Winger,right,"Muscle injury - Return expected on Nov 24, 2024","Jul 1, 2023",Callum McManaman,"1,74m",61711,"['England', 'Ireland']",,Without Club,20,"Apr 25, 1991",Wigan Athletic
+Centre-Forward,right,,"Jan 26, 2009",Hugo Rodallega,"1,81m",37934,['Colombia'],€7.50m,Club Necaxa,25,"Jul 25, 1985",Independiente Santa Fe
+Centre-Forward,right,,"Jul 1, 2010",Mauro Boselli,"1,81m",40822,"['Argentina', 'Mexico']",€5.50m,: Ablöse €3.70m,26,"May 22, 1985",Retired
+Centre-Forward,right,,"Aug 31, 2010",Franco Di Santo,"1,93m",59783,"['Argentina', 'Italy']",€2.50m,Chelsea FC,22,"Apr 7, 1989",Without Club
+Centre-Forward,,,"Jul 18, 2009",Jason Scotland,"1,75m",12807,['Trinidad and Tobago'],€1.75m,: Ablöse €2.30m,32,"Feb 18, 1979",Retired
+Centre-Forward,right,,"Jan 31, 2011",Conor Sammon,"1,88m",68331,['Ireland'],€700k,: Ablöse €700k,24,"Nov 6, 1986",Alloa Athletic FC

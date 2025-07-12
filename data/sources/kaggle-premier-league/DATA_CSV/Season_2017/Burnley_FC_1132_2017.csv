@@ -1,0 +1,31 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 19, 2016",Nick Pope,"1,98m",192080,['England'],€10.00m,Charlton Athletic,26,"Apr 19, 1992",Newcastle United
+Goalkeeper,right,,"Jul 1, 2013",Tom Heaton,"1,88m",34130,['England'],€4.00m,: Ablöse free transfer,32,"Apr 15, 1986",Manchester United
+Goalkeeper,right,,"Sep 21, 2017",Anders Lindegaard,"1,93m",22491,['Denmark'],€500k,Without Club,34,"Apr 13, 1984",Retired
+Goalkeeper,,,"Aug 8, 2017",Adam Legzdins,"1,90m",43858,"['England', 'Latvia']",€250k,Birmingham City,31,"Nov 28, 1986",Dundee FC
+Centre-Back,right,,"Feb 1, 2016",James Tarkowski,"1,85m",173504,"['England', 'Poland']",€15.00m,: Ablöse €4.00m,25,"Nov 19, 1992",Everton FC
+Centre-Back,left,,"Jan 17, 2012",Ben Mee,"1,80m",74810,['England'],€10.00m,: Ablöse ?,28,"Sep 21, 1989",Brentford FC
+Centre-Back,right,,"Jan 1, 2010",Kevin Long,"1,88m",111114,['Ireland'],€2.50m,Cork City FC,27,"Aug 18, 1990",Toronto FC
+Left-Back,left,,"Jul 6, 2017",Charlie Taylor,"1,83m",195633,['England'],€5.00m,Leeds United,24,"Sep 18, 1993",Southampton FC
+Left-Back,left,,"Aug 15, 2014",Stephen Ward,"1,84m",34691,['Ireland'],€3.00m,Wolverhampton Wanderers,32,"Aug 20, 1985",Retired
+Right-Back,right,,"Jul 1, 2015",Matthew Lowton,"1,80m",102258,['England'],€5.00m,: Ablöse €1.40m,29,"Jun 9, 1989",Precision FC
+Right-Back,right,,"Jul 25, 2017",Phil Bardsley,"1,80m",15773,"['Scotland', 'England']",€1.50m,Stoke City,33,"Jun 28, 1985",Retired
+Defensive Midfield,right,,"Jul 11, 2017",Jack Cork,"1,85m",40613,['England'],€15.00m,: Ablöse €9.10m,29,"Jun 25, 1989",Burnley FC U21
+Defensive Midfield,right,,"Aug 16, 2016",Steven Defour,"1,75m",33866,['Belgium'],€7.00m,: Ablöse €8.60m,30,"Apr 15, 1988",Retired
+Defensive Midfield,right,,"Jan 31, 2017",Ashley Westwood,"1,74m",91317,['England'],€4.00m,: Ablöse €5.80m,28,"Apr 1, 1990",Charlotte FC
+Defensive Midfield,right,,"Mar 10, 2015",Fredrik Ulvestad,"1,83m",158022,['Norway'],€800k,Without Club,26,"Jun 17, 1992",Pogon Szczecin
+Defensive Midfield,right,,"Jul 1, 2016",Aiden O'Neill,"1,78m",385918,"['Australia', 'Northern Ireland']",€500k,: Ablöse -,19,"Jul 4, 1998",Standard Liège
+Central Midfield,right,,"Aug 31, 2016",Jeff Hendrick,"1,85m",148262,['Ireland'],€10.00m,Derby County,26,"Jan 31, 1992",Without Club
+Central Midfield,right,,"Jul 19, 2013",Scott Arfield,"1,78m",55291,"['Canada', 'Scotland']",€3.00m,: Ablöse free transfer,29,"Nov 1, 1988",Bolton Wanderers
+Central Midfield,right,,"Jul 1, 2010",Dean Marney,"1,83m",4055,['England'],€1.00m,: Ablöse €600k,34,"Jan 31, 1984",Retired
+Left Midfield,left,Injury to the ankle - Return unknown,"Jan 31, 2017",Robbie Brady,"1,76m",128229,['Ireland'],€10.00m,: Ablöse €15.10m,26,"Jan 14, 1992",Preston North End
+Left Winger,right,,"Jan 9, 2018",Georges-Kevin N'Koudou,"1,72m",215679,"['Cameroon', 'France']",€7.00m,Tottenham Hotspur,23,"Feb 13, 1995",Damac FC
+Left Winger,left,,"Jul 1, 2018",Dwight McNeil,"1,83m",584769,['England'],,: Ablöse -,18,"Nov 22, 1999",Everton FC
+Right Winger,left,,"Jul 19, 2016",Jóhann Berg Gudmundsson,"1,86m",89231,['Iceland'],€10.00m,Charlton Athletic,27,"Oct 27, 1990",Al-Orobah FC
+Right Winger,right,,"Aug 25, 2021",Aaron Lennon,"1,65m",14221,"['England', 'Ireland']",€5.00m,Kayserispor,31,"Apr 16, 1987",Retired
+Right Winger,right,,"Jul 7, 2017",Jonathan Walters,"1,83m",3306,"['Ireland', 'England']",€2.00m,Stoke City,34,"Sep 20, 1983",Retired
+Centre-Forward,right,,"Aug 21, 2017",Chris Wood,"1,91m",108725,['New Zealand'],€18.00m,Leeds United,26,"Dec 7, 1991",Nottingham Forest
+Centre-Forward,right,,"Jan 10, 2014",Ashley Barnes,"1,85m",63200,['England'],€8.00m,Brighton & Hove Albion,28,"Oct 30, 1989",Norwich City
+Centre-Forward,right,,"Jul 31, 2012",Sam Vokes,"1,86m",48078,"['Wales', 'England']",€6.00m,Wolverhampton Wanderers,28,"Oct 21, 1989",Wycombe Wanderers
+Centre-Forward,right,,"Aug 31, 2017",Nahki Wells,"1,70m",173483,['Bermuda'],€4.50m,: Ablöse €5.40m,28,"Jun 1, 1990",Bristol City
+Centre-Forward,right,,"Jul 28, 2015",Chris Long,"1,79m",183298,['England'],€750k,Everton FC U21,23,"Feb 25, 1995",Crewe Alexandra

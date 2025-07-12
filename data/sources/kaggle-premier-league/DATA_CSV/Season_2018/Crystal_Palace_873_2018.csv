@@ -1,0 +1,37 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jan 31, 2014",Wayne Hennessey,"1,98m",45494,['Wales'],€5.00m,Wolverhampton Wanderers,32,"Jan 24, 1987",Without Club
+Goalkeeper,right,,"Jul 1, 2018",Vicente Guaita,"1,90m",64399,['Spain'],€5.00m,Getafe CF,32,"Jan 10, 1987",Celta de Vigo
+Goalkeeper,right,,"Jul 13, 2004",Julián Speroni,"1,86m",12814,"['Argentina', 'Italy']",€250k,Dundee FC,40,"May 18, 1979",Retired
+Goalkeeper,right,,"Aug 4, 2017",Dion Henry,"1,90m",345899,"['England', 'Jamaica']",€50k,Peterborough United,21,"Sep 12, 1997",Sittingbourne FC
+Goalkeeper,right,,,Joe Tupper,"1,84m",424901,['England'],,,21,"Nov 15, 1997",Without Club
+Centre-Back,left,,"Aug 31, 2017",Mamadou Sakho,"1,87m",47713,"['France', 'Senegal']",€15.00m,: Ablöse €28.20m,29,"Feb 13, 1990",Torpedo Kutaisi
+Centre-Back,right,,"Jul 5, 2016",James Tomkins,"1,92m",61592,['England'],€8.00m,West Ham United,30,"Mar 29, 1989",Without Club
+Centre-Back,right,,"Jan 31, 2014",Scott Dann,"1,94m",62688,['England'],€4.00m,Blackburn Rovers,32,"Feb 14, 1987",Without Club
+Centre-Back,right,Red card suspension -  - National League,"Jul 1, 2013",Ryan Inniss,"1,97m",183284,"['England', 'Trinidad and Tobago']",€150k,Crystal Palace U18,24,"Jun 5, 1995",Forest Green Rovers
+Centre-Back,right,,"Jul 1, 2019",Sam Woods,"1,85m",611650,['England'],,Crystal Palace U21,20,"Sep 11, 1998",AFC Croydon Athletic
+Left-Back,left,,"Jan 30, 2017",Patrick van Aanholt,"1,76m",52119,"['Netherlands', 'Curacao']",€10.00m,Sunderland AFC,28,"Aug 29, 1990",Without Club
+Left-Back,left,,"Feb 1, 2015",Pape Souaré,"1,78m",125868,['Senegal'],€2.00m,: Ablöse €5.30m,29,"Jun 6, 1990",Ebbsfleet United
+Right-Back,right,,"Jan 1, 2018",Aaron Wan-Bissaka,"1,83m",477758,"['England', 'DR Congo']",€35.00m,Crystal Palace U21,21,"Nov 26, 1997",West Ham United
+Right-Back,right,Team captain,"Jul 1, 2012",Joel Ward,"1,86m",92572,['England'],€4.00m,: Ablöse €650k,29,"Oct 29, 1989",Crystal Palace
+Right-Back,right,,"Aug 14, 2014",Martin Kelly,"1,91m",78959,['England'],€3.00m,: Ablöse €2.00m,29,"Apr 27, 1990",Without Club
+Defensive Midfield,right,,"Jan 31, 2017",Luka Milivojevic,"1,86m",74300,['Serbia'],€20.00m,: Ablöse €15.10m,28,"Apr 7, 1991",Shabab Al-Ahli Club
+Defensive Midfield,right,,"Aug 2, 2018",Cheikhou Kouyaté,"1,89m",66934,"['Senegal', 'Belgium']",€10.00m,West Ham United,29,"Dec 21, 1989",Without Club
+Defensive Midfield,left,Hamstring injury - Return unknown,"Jul 24, 2017",Jairo Riedewald,"1,82m",241481,"['Netherlands', 'Suriname']",€5.00m,Ajax Amsterdam,22,"Sep 9, 1996",Royal Antwerp FC
+Central Midfield,both,,"Sep 1, 2014",James McArthur,"1,78m",41416,['Scotland'],€7.00m,Wigan Athletic,31,"Oct 7, 1987",Retired
+Central Midfield,left,,"Jan 31, 2014",Jason Puncheon,"1,73m",47995,"['England', 'Jamaica']",€3.00m,Southampton FC,33,"Jun 18, 1986",Kissos Kissonergas
+Central Midfield,right,,,Luke Dreher,"1,84m",432293,['England'],,,20,"Nov 27, 1998",AFC Croydon Athletic
+Central Midfield,right,,,Nya Kirby,"1,74m",406633,"['England', 'St. Vincent & Grenadinen']",,,19,"Jan 31, 2000",AFC Croydon Athletic
+Left Midfield,left,,"Jan 13, 2017",Jeffrey Schlupp,"1,78m",157506,"['Ghana', 'Germany']",€10.00m,Leicester City,26,"Dec 23, 1992",Crystal Palace
+Attacking Midfield,right,,"Aug 2, 2018",Max Meyer,"1,73m",146164,['Germany'],€15.00m,FC Schalke 04,23,"Sep 18, 1995",APOEL Nicosia
+Attacking Midfield,both,,"Jul 1, 2011",Jonny Williams,"1,68m",170322,"['Wales', 'England']",€1.00m,: Ablöse -,25,"Oct 9, 1993",Gillingham FC
+Attacking Midfield,right,,,Giovanni McGregor,"1,76m",611651,['England'],,,20,"Jan 9, 1999",Without Club
+Left Winger,right,,"Feb 2, 2015",Wilfried Zaha,"1,80m",145988,"[""Cote d'Ivoire"", 'England']",€45.00m,Manchester United,26,"Nov 10, 1992",Olympique Lyon
+Left Winger,left,,"Jan 27, 2019",Bakary Sako,"1,83m",46791,"['Mali', 'France']",€4.00m,West Bromwich Albion,31,"Apr 26, 1988",Retired
+Left Winger,right,,"Jul 1, 2016",Sullay Kaikai,"1,82m",244130,"['Sierra Leone', 'England']",€350k,Crystal Palace U21,23,"Aug 26, 1995",Cambridge United
+Right Winger,left,,"Jul 1, 2016",Andros Townsend,"1,81m",61842,['England'],€15.00m,Newcastle United,27,"Jul 16, 1991",Antalyaspor
+Right Winger,left,,,Jason Lokilo,"1,75m",325200,"['Belgium', 'DR Congo']",€200k,,20,"Sep 17, 1998",CSKA-Sofia
+Centre-Forward,right,,"Sep 10, 2020",Michy Batshuayi,"1,85m",179184,"['Belgium', 'DR Congo']",€30.00m,Chelsea FC,25,"Oct 2, 1993",Galatasaray
+Centre-Forward,right,,"Aug 20, 2016",Christian Benteke,"1,90m",50201,"['Belgium', 'DR Congo']",€15.00m,: Ablöse €31.20m,28,"Dec 3, 1990",D.C. United
+Centre-Forward,right,,"Jul 25, 2019",Jordan Ayew,"1,82m",108354,"['Ghana', 'France']",€8.00m,: Ablöse €2.80m,27,"Sep 11, 1991",Leicester City
+Centre-Forward,left,,"Jan 31, 2018",Alexander Sørloth,"1,95m",238407,['Norway'],€6.00m,FC Midtjylland,23,"Dec 5, 1995",Atlético de Madrid
+Centre-Forward,right,,"Aug 3, 2015",Connor Wickham,"1,89m",95435,"['England', 'Northern Ireland']",€3.00m,Sunderland AFC,26,"Mar 31, 1993",Without Club

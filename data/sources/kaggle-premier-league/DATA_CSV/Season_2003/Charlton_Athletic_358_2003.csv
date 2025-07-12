@@ -1,0 +1,32 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,"Jul 1, 1999",Dean Kiely,"1,85m",3748,"['Ireland', 'England']",Bury FC,33,"Oct 10, 1970",Retired
+Goalkeeper,right,"Jul 1, 2003",Simon Royce,"1,88m",5162,['England'],: Ablöse free transfer,32,"Sep 9, 1971",Retired
+Goalkeeper,right,"Jul 1, 2003",Sérgio Leite,"1,88m",10372,['Portugal'],Boavista FC,24,"Aug 16, 1979",Retired
+Centre-Back,right,"Nov 8, 2000",Mark Fish,"1,87m",3087,['South Africa'],: Ablöse €1.55m,30,"Mar 14, 1974",Retired
+Centre-Back,,"Jul 1, 1995",Richard Rufus,"1,85m",4101,['England'],Charlton Athletic U18,29,"Jan 12, 1975",Retired
+Centre-Back,right,"Jul 1, 2002",Gary Rowett,"1,85m",4102,['England'],: Ablöse €5.25m,30,"Mar 6, 1974",Retired
+Centre-Back,right,"Jul 1, 2002",Michael Turner,"1,93m",12127,['England'],Charlton Athletic U18,20,"Nov 9, 1983",Retired
+Centre-Back,right,"Aug 31, 2010",Jonathan Fortune,"1,88m",4103,['England'],Sheffield United,23,"Aug 23, 1980",Retired
+Centre-Back,right,"Jul 1, 2003",Chris Perry,"1,75m",4051,['England'],: Ablöse €100k,31,"Apr 26, 1973",Retired
+Left-Back,left,"Jul 1, 2007",Chris Powell,"1,78m",4100,"['England', 'Jamaica']",Watford FC,34,"Sep 8, 1969",Retired
+Left-Back,left,"Mar 27, 2003",Hermann Hreidarsson,"1,85m",3860,['Iceland'],Ipswich Town,29,"Jul 11, 1974",Retired
+Left-Back,left,"Jul 1, 1998",Paul Konchesky,"1,78m",3296,['England'],Charlton Athletic U18,23,"May 15, 1981",Retired
+Right-Back,right,"Jul 1, 2001",Luke Young,"1,83m",3271,['England'],: Ablöse €6.00m,24,"Jul 19, 1979",Retired
+Right-Back,right,"Jul 1, 2005",Osei Sankofa,"1,83m",4105,"['England', 'Jamaica']",Charlton Athletic U21,19,"Mar 19, 1985",Retired
+Defensive Midfield,right,"Jul 1, 2000",Radostin Kishishev,"1,80m",3001,['Bulgaria'],: Ablöse €4.50m,29,"Jul 30, 1974",Retired
+Midfielder,,"Jul 1, 2003",Adrian Deane,,12129,['Ireland'],Charlton Athletic U18,21,"Feb 24, 1983",Retired
+Defensive Midfield,left,"Jul 1, 2003",Stephen Hughes,"1,83m",10400,['England'],Watford FC,27,"Sep 18, 1976",Retired
+Central Midfield,right,"Aug 1, 1997",Scott Parker,"1,80m",3785,['England'],Charlton Athletic U18,23,"Oct 13, 1980",Retired
+Central Midfield,right,"Jul 1, 2003",Matt Holland,"1,75m",3102,"['Ireland', 'England']",Ipswich Town,30,"Apr 11, 1974",Retired
+Attacking Midfield,right,"Jul 1, 2000",Claus Jensen,"1,83m",3099,['Denmark'],: Ablöse €6.00m,27,"Apr 29, 1977",Retired
+Left Winger,left,"Feb 2, 2004",Jerome Thomas,"1,77m",3560,"['England', 'Guyana']",Arsenal FC Reserves,21,"Mar 23, 1983",Retired
+Right Winger,right,"Mar 23, 1999",Graham Stuart,"1,73m",3334,['England'],Sheffield United,33,"Oct 24, 1970",Retired
+Right Winger,,"Jul 1, 2002",Jamal Campbell-Ryce,"1,70m",4106,"['Jamaica', 'England']",Charlton Athletic U18,21,"Apr 6, 1983",Retired
+Right Winger,right,"Jul 1, 2003",Lloyd Sam,"1,73m",12131,"['Ghana', 'England']",Charlton Athletic U18,19,"Sep 27, 1984",Retired
+Second Striker,,"Jul 1, 2011",Jason Euell,"1,80m",3092,"['Jamaica', 'England']",Blackpool FC,27,"Feb 6, 1977",Retired
+Centre-Forward,,"Jul 1, 2003",Paolo Di Canio,,3699,['Italy'],: Ablöse free transfer,35,"Jul 9, 1968",Retired
+Centre-Forward,right,"Jul 1, 1996",Kevin Lisbie,"1,78m",4097,"['Jamaica', 'England']",Charlton Athletic U18,25,"Oct 17, 1978",Retired
+Centre-Forward,right,"Jan 1, 2001",Shaun Bartlett,"1,88m",3089,['South Africa'],: Ablöse €3.00m,31,"Oct 31, 1972",Retired
+Centre-Forward,right,"Jul 1, 2000",Mathias Svensson,"1,86m",3861,['Sweden'],: Ablöse €900k,29,"Sep 24, 1974",Retired
+Centre-Forward,both,"Jul 1, 2000",Jonatan Johansson,"1,84m",3117,"['Finland', 'Sweden']",: Ablöse €4.30m,28,"Aug 16, 1975",Retired
+Centre-Forward,right,"Aug 20, 2003",Carlton Cole,"1,91m",3179,"['England', 'Sierra Leone']",: Ablöse free transfer,20,"Oct 12, 1983",Retired

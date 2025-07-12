@@ -1,0 +1,42 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jan 31, 2014",Wayne Hennessey,"1,98m",45494,['Wales'],€4.00m,Wolverhampton Wanderers,31,"Jan 24, 1987",Without Club
+Goalkeeper,left,,"Mar 2, 2018",Diego Cavalieri,"1,89m",53231,"['Brazil', 'Italy']",€1.00m,Without Club,35,"Dec 1, 1982",Retired
+Goalkeeper,right,,"Jul 13, 2004",Julián Speroni,"1,86m",12814,"['Argentina', 'Italy']",€250k,Dundee FC,39,"May 18, 1979",Retired
+Goalkeeper,right,,"Aug 4, 2017",Dion Henry,"1,90m",345899,"['England', 'Jamaica']",€50k,Peterborough United,20,"Sep 12, 1997",Sittingbourne FC
+Centre-Back,left,,"Aug 31, 2017",Mamadou Sakho,"1,87m",47713,"['France', 'Senegal']",€15.00m,: Ablöse €28.20m,28,"Feb 13, 1990",Torpedo Kutaisi
+Centre-Back,right,,"Jul 5, 2016",James Tomkins,"1,92m",61592,['England'],€8.00m,West Ham United,29,"Mar 29, 1989",Without Club
+Centre-Back,right,,"Jan 31, 2014",Scott Dann,"1,94m",62688,['England'],€5.00m,Blackburn Rovers,31,"Feb 14, 1987",Without Club
+Centre-Back,left,"Yellow card suspension - until Nov 25, 2024 - Betclic 2 Liga - 1 matchday","Jan 23, 2018",Jaroslaw Jach,"1,92m",327755,['Poland'],€2.00m,Zaglebie Lubin,24,"Feb 17, 1994",Zaglebie Lubin
+Centre-Back,left,,"Aug 31, 2012",Damien Delaney,"1,90m",36861,['Ireland'],€1.00m,Ipswich Town,36,"Jul 20, 1981",Retired
+Centre-Back,right,Red card suspension -  - National League,"Jul 1, 2013",Ryan Inniss,"1,97m",183284,"['England', 'Trinidad and Tobago']",€75k,Crystal Palace U18,23,"Jun 5, 1995",Forest Green Rovers
+Left-Back,left,,"Jan 30, 2017",Patrick van Aanholt,"1,76m",52119,"['Netherlands', 'Curacao']",€9.00m,Sunderland AFC,27,"Aug 29, 1990",Without Club
+Left-Back,left,,"Feb 1, 2015",Pape Souaré,"1,78m",125868,['Senegal'],€3.50m,: Ablöse €5.30m,28,"Jun 6, 1990",Ebbsfleet United
+Right-Back,right,,"Aug 10, 2017",Timothy Fosu-Mensah,"1,85m",315131,"['Netherlands', 'Ghana']",€7.00m,Manchester United,20,"Jan 2, 1998",Without Club
+Right-Back,right,Team captain,"Jul 1, 2012",Joel Ward,"1,86m",92572,['England'],€5.00m,: Ablöse €650k,28,"Oct 29, 1989",Crystal Palace
+Right-Back,right,,"Aug 14, 2014",Martin Kelly,"1,91m",78959,['England'],€3.00m,: Ablöse €2.00m,28,"Apr 27, 1990",Without Club
+Right-Back,right,,"Jan 1, 2018",Aaron Wan-Bissaka,"1,83m",477758,"['England', 'DR Congo']",€1.00m,Crystal Palace U21,20,"Nov 26, 1997",West Ham United
+Defensive Midfield,right,,"Jan 31, 2017",Luka Milivojevic,"1,86m",74300,['Serbia'],€15.00m,: Ablöse €15.10m,27,"Apr 7, 1991",Shabab Al-Ahli Club
+Defensive Midfield,left,Hamstring injury - Return unknown,"Jul 24, 2017",Jairo Riedewald,"1,82m",241481,"['Netherlands', 'Suriname']",€5.00m,Ajax Amsterdam,21,"Sep 9, 1996",Royal Antwerp FC
+Defensive Midfield,right,,,Michael Phillips,"1,74m",378629,['England'],,,20,"Sep 22, 1997",Hemel Hempstead Town
+Central Midfield,right,,"Jul 12, 2017",Ruben Loftus-Cheek,"1,91m",202886,"['England', 'Guyana']",€15.00m,Chelsea FC,22,"Jan 23, 1996",AC Milan
+Central Midfield,right,,"Jul 1, 2015",Yohan Cabaye,"1,73m",29434,['France'],€10.00m,: Ablöse €13.90m,32,"Jan 14, 1986",Retired
+Central Midfield,both,,"Sep 1, 2014",James McArthur,"1,78m",41416,['Scotland'],€6.00m,Wigan Athletic,30,"Oct 7, 1987",Retired
+Central Midfield,left,,"Jan 31, 2014",Jason Puncheon,"1,73m",47995,"['England', 'Jamaica']",€5.00m,Southampton FC,32,"Jun 18, 1986",Kissos Kissonergas
+Central Midfield,right,,"Jan 29, 2015",Jordon Mutch,"1,84m",57207,['England'],€2.00m,: Ablöse €6.34m,26,"Dec 2, 1991",Gold Coast Knights
+Central Midfield,right,"Yellow card suspension - until Nov 30, 2024 - Süper Lig - 1 matchday","Jan 22, 2018",Erdal Rakip,"1,79m",230746,"['North Macedonia', 'Sweden']",€1.50m,SL Benfica,22,"Feb 13, 1996",Antalyaspor
+Central Midfield,right,,,Nya Kirby,"1,74m",406633,"['England', 'St. Vincent & Grenadinen']",,,18,"Jan 31, 2000",AFC Croydon Athletic
+Left Midfield,left,,"Jan 13, 2017",Jeffrey Schlupp,"1,78m",157506,"['Ghana', 'Germany']",€9.00m,Leicester City,25,"Dec 23, 1992",Crystal Palace
+Attacking Midfield,both,,"Jul 1, 2011",Jonny Williams,"1,68m",170322,"['Wales', 'England']",€1.00m,: Ablöse -,24,"Oct 9, 1993",Gillingham FC
+Left Winger,right,,"Feb 2, 2015",Wilfried Zaha,"1,80m",145988,"[""Cote d'Ivoire"", 'England']",€30.00m,Manchester United,25,"Nov 10, 1992",Olympique Lyon
+Left Winger,left,,"Jan 27, 2019",Bakary Sako,"1,83m",46791,"['Mali', 'France']",€5.00m,West Bromwich Albion,30,"Apr 26, 1988",Retired
+Left Winger,right,,"Jul 1, 2016",Sullay Kaikai,"1,82m",244130,"['Sierra Leone', 'England']",€500k,Crystal Palace U21,22,"Aug 26, 1995",Cambridge United
+Left Winger,right,,"Feb 2, 2015",Keshi Anderson,"1,75m",353674,"['England', 'Nigeria']",€100k,Barton Rovers,23,"Apr 6, 1995",Birmingham City
+Left Winger,right,,,Levi Lumeka,"1,70m",537182,"['England', 'DR Congo']",,,19,"Sep 5, 1998",Oxford City
+Right Winger,left,,"Jul 1, 2016",Andros Townsend,"1,81m",61842,['England'],€15.00m,Newcastle United,26,"Jul 16, 1991",Antalyaspor
+Right Winger,right,,"Feb 2, 2015",Chung-yong Lee,"1,80m",81801,"['Korea, South']",€1.50m,Bolton Wanderers,29,"Jul 2, 1988",Ulsan HD FC
+Right Winger,left,,,Jason Lokilo,"1,75m",325200,"['Belgium', 'DR Congo']",,,19,"Sep 17, 1998",CSKA-Sofia
+Centre-Forward,right,,"Aug 20, 2016",Christian Benteke,"1,90m",50201,"['Belgium', 'DR Congo']",€22.00m,: Ablöse €31.20m,27,"Dec 3, 1990",D.C. United
+Centre-Forward,left,,"Jan 31, 2018",Alexander Sørloth,"1,95m",238407,['Norway'],€7.00m,FC Midtjylland,22,"Dec 5, 1995",Atlético de Madrid
+Centre-Forward,right,,"Aug 3, 2015",Connor Wickham,"1,89m",95435,"['England', 'Northern Ireland']",€5.00m,Sunderland AFC,25,"Mar 31, 1993",Without Club
+Centre-Forward,right,,"Mar 30, 2016",Freddie Ladapo,"1,83m",233998,"['England', 'Nigeria']",€250k,Margate FC,25,"Feb 1, 1993",Huddersfield Town
+Centre-Forward,left,,,James Daly,"1,78m",577779,['England'],,,18,"Jan 12, 2000",Harrogate Town

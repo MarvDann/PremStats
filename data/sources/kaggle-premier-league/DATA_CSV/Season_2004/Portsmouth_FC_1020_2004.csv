@@ -1,0 +1,38 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 2002",Shaka Hislop,"1,98m",4175,"['Trinidad and Tobago', 'England']",€1.50m,: Ablöse free transfer,36,"Feb 22, 1969",Retired
+Goalkeeper,right,"Jan 1, 2005",Konstantinos Chalkias,"1,98m",15423,['Greece'],€1.25m,: Ablöse €150k,31,"May 30, 1974",Retired
+Goalkeeper,right,"Mar 1, 2005",Andrea Guatelli,"1,97m",28808,['Italy'],€75k,Parma Primavera,21,"May 5, 1984",SC Balerna
+Goalkeeper,right,"Jul 1, 2004",Jamie Ashdown,"1,90m",13397,['England'],€50k,Reading FC,24,"Nov 30, 1980",Retired
+Centre-Back,left,"Jul 1, 2003",Dejan Stefanovic,"1,80m",4308,['Serbia'],€2.80m,Vitesse Arnhem,30,"Oct 28, 1974",Retired
+Centre-Back,right,"Jul 1, 2002",Arjan de Zeeuw,"1,92m",5909,['Netherlands'],€1.30m,Wigan Athletic,35,"Apr 16, 1970",Retired
+Centre-Back,right,"Jul 1, 2000",Linvoy Primus,"1,80m",4266,['England'],€800k,Reading FC,31,"Sep 14, 1973",Retired
+Centre-Back,,"Jul 1, 2002",Hayden Foxe,,3336,['Australia'],€800k,: Ablöse free transfer,28,"Jun 23, 1977",Retired
+Left-Back,left,"Jul 1, 2004",David Unsworth,"1,87m",3272,['England'],€3.80m,: Ablöse free transfer,31,"Oct 16, 1973",Retired
+Right-Back,right,"Jul 1, 2004",Andy Griffin,"1,73m",3579,['England'],€3.00m,Newcastle United,26,"Mar 17, 1979",Retired
+Right-Back,right,"Jul 1, 2003",Sébastien Schemmel,"1,77m",3798,['France'],€1.00m,: Ablöse free transfer,30,"Jun 2, 1975",Retired
+Right-Back,right,"Feb 1, 2004",John Curtis,"1,78m",7913,['England'],€300k,: Ablöse free transfer,26,"Sep 3, 1978",Retired
+Right-Back,right,"Jul 1, 2001",Lewis Buxton,"1,85m",9203,['England'],€75k,: Ablöse -,21,"Dec 10, 1983",Retired
+Right-Back,right,"Jul 1, 2003",Gary Silk,"1,76m",21220,['England'],,: Ablöse -,20,"Sep 13, 1984",Retired
+Defensive Midfield,right,"Jul 1, 2003",Amdy Faye,"1,84m",5428,"['Senegal', 'France']",€3.50m,AJ Auxerre,28,"Mar 12, 1977",Retired
+Defensive Midfield,right,"Jul 1, 2004",Aliou Cissé,"1,80m",3796,"['Senegal', 'France']",€3.00m,: Ablöse €450k,29,"Mar 24, 1976",Retired
+Defensive Midfield,right,"Jan 1, 2005",Giannis Skopelitis,"1,79m",15219,['Greece'],€1.50m,: Ablöse €1.50m,27,"Mar 2, 1978",Retired
+Defensive Midfield,left,"Jul 1, 2002",Richard Hughes,"1,75m",9207,['Scotland'],€750k,: Ablöse €80k,26,"Jun 25, 1979",Retired
+Defensive Midfield,right,"Sep 5, 2013",Shaun Cooper,"1,78m",9222,['England'],€100k,Without Club,21,"Oct 5, 1983",Retired
+Central Midfield,left,"Jul 1, 2000",Nigel Quashie,"1,75m",4139,"['Scotland', 'England']",€2.50m,: Ablöse €900k,26,"Jul 20, 1978",Retired
+Central Midfield,right,"Jul 1, 2000",Gary O'Neil,"1,74m",3995,['England'],€800k,: Ablöse -,22,"May 18, 1983",Retired
+Central Midfield,right,"Jul 1, 2003",Anthony Pulis,"1,78m",28759,"['Wales', 'England']",€50k,: Ablöse -,20,"Jul 21, 1984",Retired
+Right Midfield,right,"Oct 1, 2002",Steve Stone,"1,75m",3364,['England'],€2.00m,: Ablöse free transfer,33,"Aug 20, 1971",Retired
+Right Midfield,right,"Mar 1, 2000",Kevin Harper,"1,68m",9220,"['Scotland', 'England']",€1.00m,: Ablöse €450k,29,"Jan 15, 1976",Retired
+Left Midfield,left,"Jul 1, 2002",Matthew Taylor,"1,77m",9218,['England'],€600k,: Ablöse €600k,23,"Nov 27, 1981",Retired
+Attacking Midfield,,"Jul 1, 2003",Patrik Berger,,3218,['Czech Republic'],€4.50m,: Ablöse free transfer,31,"Nov 10, 1973",Retired
+Attacking Midfield,right,"Aug 1, 2004",Valéry Mézague,"1,83m",5703,"['Cameroon', 'France']",€1.75m,: Ablöse €500k,21,"Dec 8, 1983",---
+Attacking Midfield,right,"Jan 1, 2004",Eyal Berkovic,"1,70m",3231,['Israel'],€1.25m,: Ablöse €750k,33,"Apr 2, 1972",Retired
+Left Winger,left,"Jan 1, 2005",Liam Horsted,"1,80m",29970,['England'],€50k,Portsmouth FC U21,19,"Oct 28, 1985",Unknown
+Right Winger,both,"Aug 30, 2004",Diomansy Kamara,"1,84m",6053,"['Senegal', 'France']",€2.50m,: Ablöse €3.50m,24,"Nov 8, 1980",Retired
+Centre-Forward,,"Jul 1, 2003",Yakubu Aiyegbeni,"1,83m",8559,['Nigeria'],€9.50m,: Ablöse €4.75m,22,"Nov 22, 1982",Retired
+Centre-Forward,right,"Mar 1, 2002",Svetoslav Todorov,"1,83m",3978,"['Bulgaria', 'England']",€4.00m,: Ablöse €1.13m,26,"Aug 30, 1978",Retired
+Centre-Forward,right,"Jul 1, 2004",Lomana LuaLua,"1,80m",3458,"['DR Congo', 'England']",€3.50m,Newcastle United,24,"Dec 28, 1980",Retired
+Centre-Forward,right,"Aug 27, 2004",Ricardo Fuller,"1,91m",14014,['Jamaica'],€3.00m,: Ablöse €2.50m,25,"Oct 31, 1979",Retired
+Centre-Forward,right,"Jul 1, 2002",Vincent Péricard,"1,85m",3970,"['France', 'Cameroon']",€1.00m,: Ablöse €600k,22,"Oct 3, 1982",Retired
+Centre-Forward,right,"Jan 1, 2005",Aleksandar Rodic,"1,87m",24569,['Slovenia'],€400k,: Ablöse free transfer,25,"Dec 26, 1979",Retired
+Centre-Forward,right,"Jan 10, 2013",James Keene,"1,79m",38089,['England'],,IF Elfsborg,19,"Dec 26, 1985",Retired

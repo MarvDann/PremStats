@@ -1,0 +1,40 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 9, 2013",Joel Robles,"1,94m",101118,['Spain'],€5.00m,: Ablöse €4.00m,27,"Jun 17, 1990",Estoril Praia
+Goalkeeper,right,,"Jul 1, 2016",Maarten Stekelenburg,"1,97m",4311,['Netherlands'],€2.00m,Fulham FC,34,"Sep 22, 1982",Retired
+Goalkeeper,right,,"Jul 1, 2016",Mateusz Hewelt,"1,91m",318547,"['Poland', 'Ireland']",,Everton FC U23,20,"Sep 23, 1996",Radcliffe FC
+Centre-Back,left,,"Sep 1, 2015",Ramiro Funes Mori,"1,87m",11111,"['Argentina', 'United States']",€12.00m,: Ablöse €12.20m,26,"Mar 5, 1991",CA River Plate
+Centre-Back,right,,"Aug 10, 2016",Ashley Williams,"1,83m",67355,"['Wales', 'England']",€8.00m,: Ablöse €14.00m,32,"Aug 23, 1984",Retired
+Centre-Back,right,,"Aug 13, 2015",Mason Holgate,"1,87m",348623,"['Jamaica', 'England']",€5.00m,Barnsley FC,20,"Oct 22, 1996",West Bromwich Albion
+Centre-Back,left,,"Aug 2, 2014",Brendan Galloway,"1,86m",208244,"['Zimbabwe', 'England']",€3.00m,Milton Keynes Dons,21,"Mar 17, 1996",Plymouth Argyle
+Centre-Back,right,,"Jul 4, 2007",Phil Jagielka,"1,80m",13520,"['England', 'Poland']",€2.00m,Sheffield United,34,"Aug 17, 1982",Retired
+Centre-Back,right,,"Jul 1, 2014",Tyias Browning,"1,88m",156934,"['China', 'England']",€1.00m,Everton FC U21,23,"May 27, 1994",Shanghai Port
+Centre-Back,right,,"Jan 1, 2016",Matthew Pennington,"1,85m",220755,['England'],€500k,Everton FC U21,22,"Oct 6, 1994",Blackpool FC
+Left-Back,left,,"Aug 7, 2007",Leighton Baines,"1,70m",13507,['England'],€12.00m,Wigan Athletic,32,"Dec 11, 1984",Retired
+Left-Back,left,,"Aug 31, 2012",Bryan Oviedo,"1,72m",124983,['Costa Rica'],€2.50m,: Ablöse €4.50m,27,"Feb 18, 1990",LD Alajuelense
+Left-Back,left,,"Jul 1, 2011",Luke Garbutt,"1,80m",110860,['England'],€1.00m,: Ablöse -,24,"May 21, 1993",Salford City
+Right-Back,right,Team captain,"Jan 1, 2009",Séamus Coleman,"1,77m",68390,['Ireland'],€17.00m,Sligo Rovers,28,"Oct 11, 1988",Everton FC
+Right-Back,right,,"Jul 1, 2017",Jonjoe Kenny,"1,76m",258883,"['England', 'Ireland']",€250k,Everton FC U23,20,"Mar 15, 1997",Hertha BSC
+Defensive Midfield,right,,"Jan 12, 2017",Morgan Schneiderlin,"1,86m",56818,['France'],€22.00m,Manchester United,27,"Nov 8, 1989",Retired
+Defensive Midfield,right,,"Jul 28, 2014",Muhamed Besic,"1,80m",93905,"['Bosnia-Herzegovina', 'Germany']",€5.00m,: Ablöse €4.80m,24,"Sep 10, 1992",Without Club
+Defensive Midfield,left,,"Jul 8, 2014",Gareth Barry,"1,84m",3291,['England'],€1.50m,: Ablöse free transfer,36,"Feb 23, 1981",Unknown
+Central Midfield,right,,"Jul 1, 2011",Ross Barkley,"1,89m",131978,['England'],€25.00m,: Ablöse -,23,"Dec 5, 1993",Aston Villa
+Central Midfield,right,,"Sep 1, 2022",Idrissa Gueye,"1,74m",126665,['Senegal'],€18.00m,: Ablöse €4.00m,27,"Sep 26, 1989",Everton FC
+Central Midfield,right,,"Sep 2, 2013",James McCarthy,"1,80m",45333,"['Ireland', 'Scotland']",€15.00m,Wigan Athletic,26,"Nov 12, 1990",Celtic FC
+Central Midfield,right,,"Jul 1, 2015",Tom Cleverley,"1,75m",73484,['England'],€8.00m,Manchester United,27,"Aug 12, 1989",Retired
+Central Midfield,right,,"Jan 1, 2017",Tom Davies,"1,80m",314210,['England'],€8.00m,Everton FC U23,19,"Jun 30, 1998",Sheffield United
+Central Midfield,right,,"Jan 13, 2012",Darron Gibson,"1,83m",42413,"['Ireland', 'Northern Ireland']",€1.50m,Manchester United,29,"Oct 25, 1987",Retired
+Central Midfield,right,,,Joe Williams,"1,85m",268185,['England'],,,20,"Dec 8, 1996",Bristol City
+Left Winger,right,,"Aug 15, 2016",Yannick Bolasie,"1,85m",75471,"['DR Congo', 'England']",€20.00m,Crystal Palace,28,"May 24, 1989",Criciúma Esporte Clube
+Left Winger,both,,"Jan 11, 2014",Aiden McGeady,"1,80m",21333,"['Ireland', 'Scotland']",€3.50m,: Ablöse €2.00m,31,"Apr 4, 1986",Retired
+Right Winger,right,,"Aug 19, 2012",Kevin Mirallas,"1,82m",33639,"['Belgium', 'Spain']",€13.00m,: Ablöse €7.65m,29,"Oct 5, 1987",Retired
+Right Winger,right,,"Sep 1, 2015",Aaron Lennon,"1,65m",14221,"['England', 'Ireland']",€5.00m,Tottenham Hotspur,30,"Apr 16, 1987",Retired
+Second Striker,right,,"Jan 5, 2017",Ademola Lookman,"1,74m",406040,"['Nigeria', 'England']",€5.00m,Charlton Athletic,19,"Oct 20, 1997",Atalanta BC
+Second Striker,right,,"Jan 7, 2016",Shani Tarashaj,"1,76m",184381,"['Switzerland', 'Kosovo']",€2.00m,: Ablöse €4.00m,22,"Feb 7, 1995",Retired
+Centre-Forward,left,,"Jul 30, 2014",Romelu Lukaku,"1,91m",96341,"['Belgium', 'DR Congo']",€50.00m,Chelsea FC,24,"May 13, 1993",SSC Napoli
+Centre-Forward,right,Knee surgery - Return unknown,"Jul 1, 2015",Gerard Deulofeu,"1,77m",129476,['Spain'],€12.00m,FC Barcelona,23,"Mar 13, 1994",Udinese Calcio
+Centre-Forward,right,,"Aug 31, 2016",Enner Valencia,"1,78m",139503,['Ecuador'],€10.00m,West Ham United,27,"Nov 4, 1989",Sport Club Internacional
+Centre-Forward,right,,"Feb 1, 2016",Oumar Niasse,"1,82m",209781,['Senegal'],€9.00m,: Ablöse €17.90m,27,"Apr 18, 1990",Without Club
+Centre-Forward,right,,"Aug 31, 2016",Dominic Calvert-Lewin,"1,89m",306024,['England'],€3.50m,Sheffield United,20,"Mar 16, 1997",Everton FC
+Centre-Forward,right,,"Jul 8, 2013",Arouna Koné,"1,81m",8552,"[""Cote d'Ivoire""]",€1.50m,Wigan Athletic,33,"Nov 11, 1983",Retired
+Centre-Forward,right,,"Aug 28, 2015",Leandro Rodríguez,"1,79m",238988,"['Uruguay', 'Italy']",€1.00m,CA River Plate Montevideo,24,"Nov 19, 1992",Deportivo Villa Española
+Centre-Forward,right,,"Jul 1, 2011",Conor McAleny,"1,78m",121260,['England'],€500k,: Ablöse -,24,"Aug 12, 1992",Salford City

@@ -1,0 +1,36 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Aug 2, 2022",Bernd Leno,"1,90m",72476,['Germany'],€13.00m,,Arsenal FC,32,"Mar 4, 1992",Fulham FC
+Goalkeeper,right,,"Jul 1, 2019",Marek Rodák,"1,94m",186901,['Slovakia'],€3.00m,,Fulham FC U21,27,"Dec 13, 1996",Al-Ettifaq FC
+Goalkeeper,right,,"Aug 30, 2023",Steven Benda,"1,92m",381469,['Germany'],€1.00m,,Swansea City,25,"Oct 1, 1998",Fulham FC
+Centre-Back,right,,"Oct 5, 2020",Tosin Adarabioyo,"1,96m",258878,"['England', 'Nigeria']",€20.00m,,Manchester City U23,26,"Sep 24, 1997",Chelsea FC
+Centre-Back,right,,"Aug 10, 2022",Issa Diop,"1,94m",272622,"['France', 'Senegal']",€20.00m,,West Ham United,27,"Jan 9, 1997",Fulham FC
+Centre-Back,left,,"Jul 28, 2023",Calvin Bassey,"1,85m",461883,"['Nigeria', 'England']",€16.00m,,Ajax Amsterdam,24,"Dec 31, 1999",Fulham FC
+Centre-Back,left,,"Aug 20, 2015",Tim Ream,"1,86m",145466,['United States'],€800k,,Bolton Wanderers,36,"Oct 5, 1987",Charlotte FC
+Centre-Back,right,,,Luc De Fougerolles,"1,83m",921995,"['Canada', 'England']",€300k,,,18,"Oct 12, 2005",Fulham FC U21
+Left-Back,left,,"Aug 20, 2020",Antonee Robinson,"1,83m",349701,"['United States', 'England']",€25.00m,,Wigan Athletic,26,"Aug 8, 1997",Fulham FC
+Left-Back,left,,"Sep 1, 2023",Fodé Ballo-Touré,"1,82m",296422,"['Senegal', 'France']",€3.00m,,AC Milan,27,"Jan 3, 1997",Milan Futuro
+Right-Back,right,,"Aug 29, 2023",Timothy Castagne,"1,85m",262226,['Belgium'],€17.00m,,Leicester City,28,"Dec 5, 1995",Fulham FC
+Right-Back,right,,"Sep 10, 2020",Kenny Tete,"1,80m",206746,"['Netherlands', 'Mozambique']",€15.00m,,: Ablöse €3.20m,28,"Oct 9, 1995",Fulham FC
+Right-Back,right,,"Jul 27, 2022",Kevin Mbabu,"1,84m",183321,"['Switzerland', 'DR Congo']",€4.00m,"Returned after loan spell with FC Augsburg; date: Jun 30, 2024; fee: End of loan",VfL Wolfsburg,29,"Apr 19, 1995",FC Midtjylland
+Right-Back,right,,,Devan Tanton,"1,75m",745452,"['Colombia', 'United States']",€250k,,,20,"Jan 3, 2004",Chesterfield FC
+Defensive Midfield,right,,"Jul 4, 2022",João Palhinha,"1,90m",257455,['Portugal'],€55.00m,,Sporting CP,28,"Jul 9, 1995",Bayern Munich
+Central Midfield,right,,"Aug 30, 2020",Harrison Reed,"1,81m",226973,['England'],€15.00m,,Southampton FC,29,"Jan 27, 1995",Fulham FC
+Central Midfield,right,Shoulder injury - Return unknown,"Jan 31, 2023",Saša Lukić,"1,82m",245056,['Serbia'],€10.00m,,Torino FC,27,"Aug 13, 1996",Fulham FC
+Central Midfield,left,Team captain,"Jul 1, 2015",Tom Cairney,"1,85m",123275,"['Scotland', 'England']",€2.00m,,Blackburn Rovers,33,"Jan 20, 1991",Fulham FC
+Central Midfield,left,,"Jul 1, 2021",Tyrese Francois,"1,73m",528888,"['Australia', 'England']",€600k,"Returned after loan spell with Vejle Boldklub; date: Jun 30, 2024; fee: End of loan",Fulham FC U21,23,"Jul 16, 2000",Wigan Athletic
+Central Midfield,right,,,Matt Dibley-Dias,"1,83m",817611,"['New Zealand', 'Brazil']",€500k,,,20,"Oct 29, 2003",Northampton Town
+Central Midfield,,,,Joshua King,,1011131,['England'],€200k,,,17,"Jan 3, 2007",Fulham FC U18
+Attacking Midfield,right,,"Jul 11, 2022",Andreas Pereira,"1,78m",203394,"['Brazil', 'Belgium']",€20.00m,,Manchester United,28,"Jan 1, 1996",Fulham FC
+Attacking Midfield,right,,,Luke Harris,"1,77m",817612,"['Wales', 'Jersey']",€1.00m,,,19,"Mar 4, 2005",Birmingham City
+Attacking Midfield,right,,,Kristian Sekularac,"1,85m",539810,"['Switzerland', 'England']",€200k,,,20,"Dec 7, 2003",Fulham FC U21
+Left Winger,right,,"Sep 1, 2023",Alex Iwobi,"1,83m",242631,"['Nigeria', 'England']",€25.00m,,Everton FC,28,"May 3, 1996",Fulham FC
+Left Winger,right,"Muscle injury - Return expected on Nov 29, 2024","Sep 1, 2022",Willian,"1,75m",52769,['Brazil'],€3.00m,,Sport Club Corinthians Paulista,35,"Aug 9, 1988",Olympiacos Piraeus
+Right Winger,left,,"Jul 24, 2021",Harry Wilson,"1,73m",279455,"['Wales', 'England']",€17.00m,,: Ablöse €14.00m,27,"Mar 22, 1997",Fulham FC
+Right Winger,right,,"Aug 12, 2023",Adama Traoré,"1,78m",204103,"['Spain', 'Mali']",€9.00m,,Wolverhampton Wanderers,28,"Jan 25, 1996",Fulham FC
+Right Winger,right,,"Jan 24, 2020",Bobby De Cordova-Reid,"1,70m",186186,"['Jamaica', 'England']",€5.00m,,Cardiff City,31,"Feb 2, 1993",Leicester City
+Centre-Forward,right,,"Jul 30, 2018",Aleksandar Mitrović,"1,89m",51152,['Serbia'],€28.00m,,Newcastle United,29,"Sep 16, 1994",Al-Hilal SFC
+Centre-Forward,right,Achilles tendon problems - Return unknown,"Feb 1, 2024",Armando Broja,"1,91m",571743,"['Albania', 'England']",€22.00m,,Chelsea FC,22,"Sep 10, 2001",Everton FC
+Centre-Forward,right,,"Aug 20, 2021",Rodrigo Muniz,"1,86m",735571,['Brazil'],€20.00m,,CR Flamengo,23,"May 4, 2001",Fulham FC
+Centre-Forward,right,,"Jul 25, 2023",Raúl Jiménez,"1,87m",206040,['Mexico'],€5.00m,,Wolverhampton Wanderers,33,"May 5, 1991",Fulham FC
+Centre-Forward,left,,"Sep 1, 2022",Carlos Vinícius,"1,90m",525287,['Brazil'],€4.00m,"Returned after loan spell with Galatasaray; date: Jun 30, 2024; fee: End of loan",SL Benfica,29,"Mar 25, 1995",Fulham FC
+Centre-Forward,right,,"Jul 1, 2023",Jay Stansfield,"1,87m",696346,['England'],€3.50m,,Fulham FC U21,21,"Nov 24, 2002",Birmingham City

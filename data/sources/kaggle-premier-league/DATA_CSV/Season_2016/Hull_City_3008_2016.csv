@@ -1,0 +1,43 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Aug 30, 2016",David Marshall,"1,87m",9500,['Scotland'],€3.00m,Cardiff City,32,"Mar 5, 1985",Retired
+Goalkeeper,right,,"Jul 2, 2013",Allan McGregor,"1,83m",9422,['Scotland'],€1.00m,Besiktas JK,35,"Jan 31, 1982",Retired
+Goalkeeper,right,,"Feb 1, 2016",Dusan Kuciak,"1,94m",31886,['Slovakia'],€1.00m,Legia Warszawa,32,"May 21, 1985",Raków Częstochowa
+Goalkeeper,right,,"Jul 9, 2012",Eldin Jakupovic,"1,91m",2857,"['Switzerland', 'Bosnia-Herzegovina']",€1.00m,: Ablöse free transfer,32,"Oct 2, 1984",Retired
+Goalkeeper,right,,"Jul 1, 2017",Will Mannion,"1,91m",456111,['England'],,Hull City U21,19,"May 5, 1998",Charlton Athletic
+Centre-Back,right,,"Jul 29, 2014",Harry Maguire,"1,94m",177907,['England'],€8.00m,Sheffield United,24,"Mar 5, 1993",Manchester United
+Centre-Back,right,,"Jan 31, 2017",Andrea Ranocchia,"1,95m",44327,['Italy'],€5.00m,: Ablöse €1.30m,29,"Feb 16, 1988",Retired
+Centre-Back,right,,"Jan 6, 2017",Markus Henriksen,"1,87m",122011,['Norway'],€5.00m,AZ Alkmaar,24,"Jul 25, 1992",Rosenborg BK
+Centre-Back,right,,"Jul 1, 2013",Curtis Davies,"1,88m",18227,"['Sierra Leone', 'England']",€2.50m,: Ablöse €2.65m,32,"Mar 15, 1985",Retired
+Centre-Back,right,,"Aug 26, 2014",Michael Dawson,"1,89m",9988,['England'],€2.50m,Tottenham Hotspur,33,"Nov 18, 1983",Retired
+Centre-Back,right,,"Jul 30, 2012",Alex Bruce,"1,80m",37957,"['Northern Ireland', 'Ireland']",€750k,Leeds United,32,"Sep 28, 1984",Retired
+Centre-Back,right,,,Harvey Rodgers,"1,89m",459873,['England'],,,20,"Oct 20, 1996",Grimsby Town
+Left-Back,left,,"Jul 29, 2014",Andrew Robertson,"1,78m",234803,['Scotland'],€7.00m,: Ablöse €3.60m,23,"Mar 11, 1994",Liverpool FC
+Left-Back,left,,"Jul 1, 2016",Josh Tymon,"1,80m",419929,['England'],€1.00m,Hull City U18,18,"May 22, 1999",Swansea City
+Right-Back,right,,"Jan 20, 2017",Omar Elabdellaoui,"1,79m",121404,['Norway'],€5.00m,: Ablöse €1.00m,25,"Dec 5, 1991",FK Bodø/Glimt
+Right-Back,right,,"Aug 7, 2015",Moses Odubajo,"1,77m",163738,"['England', 'Nigeria']",€5.00m,: Ablöse €5.00m,23,"Jul 28, 1993",AEK Athens
+Right-Back,right,,"Jul 1, 2013",Ahmed El Mohamady,"1,82m",66333,['Egypt'],€4.00m,Sunderland AFC,29,"Sep 9, 1987",Retired
+Right-Back,right,,"Sep 1, 2014",Brian Lenihan,"1,87m",241916,['Ireland'],€100k,Cork City FC,23,"Jun 8, 1994",Retired
+Right-Back,right,,"Jul 1, 2016",Josh Clackstone,"1,71m",453306,['England'],,Hull City U21,20,"Sep 18, 1996",Alfreton Town
+Defensive Midfield,right,,"Jul 1, 2014",Jake Livermore,"1,80m",61832,['England'],€7.00m,Tottenham Hotspur,27,"Nov 14, 1989",Without Club
+Defensive Midfield,right,,"Jan 31, 2017",Alfred N'Diaye,"1,89m",77737,"['Senegal', 'France']",€5.00m,Villarreal CF,27,"Mar 6, 1990",Without Club
+Defensive Midfield,right,,"Aug 17, 2021",Tom Huddlestone,"1,88m",13465,['England'],€5.00m,Without Club,30,"Dec 28, 1986",Retired
+Central Midfield,right,,"Aug 30, 2016",Ryan Mason,"1,75m",61834,['England'],€8.50m,Tottenham Hotspur,26,"Jun 13, 1991",Retired
+Central Midfield,left,,"Jul 27, 2015",Sam Clucas,"1,78m",122223,['England'],€2.50m,Chesterfield FC,26,"Sep 25, 1990",Oldham Athletic
+Central Midfield,right,,"Jan 8, 2013",David Meyler,"1,89m",68183,['Ireland'],€2.00m,Sunderland AFC,28,"May 29, 1989",Retired
+Central Midfield,right,,"Aug 31, 2016",James Weir,"1,77m",251058,['England'],€500k,Manchester United U23,21,"Aug 4, 1995",Retired
+Central Midfield,right,,"Jul 1, 2017",Daniel Batty,"1,78m",509268,['England'],,Hull City U21,19,"Dec 10, 1997",York City
+Attacking Midfield,right,,"Jan 13, 2017",Evandro,"1,79m",53359,"['Brazil', 'Serbia']",€2.00m,FC Porto,30,"Aug 23, 1986",Retired
+Attacking Midfield,right,,"Aug 27, 2015",Shaun Maloney,"1,71m",9508,"['Scotland', 'England']",€1.00m,: Ablöse €2.00m,34,"Jan 24, 1983",Retired
+Attacking Midfield,right,"Broken leg - Return expected on May 31, 2025","Jul 1, 2016",Greg Olley,"1,77m",257533,['England'],,Hull City U21,21,"Feb 2, 1996",Gateshead FC
+Left Winger,right,,"Jan 31, 2017",Kamil Grosicki,"1,80m",37920,['Poland'],€7.00m,Stade Rennais FC,29,"Jun 8, 1988",Pogon Szczecin
+Left Winger,left,,,Ben Hinchliffe,,457129,['England'],,,19,"Sep 25, 1997",Beverley Town FC
+Right Winger,right,,"Jan 23, 2017",Lazar Markovic,"1,75m",144303,['Serbia'],€10.00m,: Ablöse ?,23,"Mar 2, 1994",FC Baniyas
+Right Winger,left,,"Jul 1, 2014",Robert Snodgrass,"1,82m",22614,['Scotland'],€8.00m,: Ablöse €7.50m,29,"Sep 7, 1987",Retired
+Right Winger,left,,"Jul 1, 2016",Jarrod Bowen,"1,76m",314875,['England'],€250k,Hull City U21,20,"Dec 20, 1996",West Ham United
+Centre-Forward,right,,"Jan 13, 2017",Oumar Niasse,"1,82m",209781,['Senegal'],€9.00m,Everton FC,27,"Apr 18, 1990",Without Club
+Centre-Forward,left,,"Sep 1, 2014",Abel Hernández,"1,85m",76608,['Uruguay'],€8.00m,: Ablöse €12.00m,26,"Aug 8, 1990",Liverpool FC Montevideo
+Centre-Forward,right,,"Aug 31, 2016",Dieumerci Mbokani,"1,85m",44624,['DR Congo'],€5.00m,Dynamo Kyiv,31,"Nov 22, 1985",Without Club
+Centre-Forward,right,,"Aug 30, 2016",Will Keane,"1,88m",118535,"['Ireland', 'England']",€1.50m,Manchester United,24,"Jan 11, 1993",Preston North End
+Centre-Forward,right,,"Sep 1, 2015",Adama Diomande,"1,83m",93145,"['Norway', ""Cote d'Ivoire""]",€1.50m,Stabæk Fotball,27,"Feb 14, 1990",KFUM-Kameratene Oslo
+Centre-Forward,,,"Jan 1, 2015",Greg Luer,"1,80m",356195,['England'],€250k,Burgess Hill Town,22,"Dec 6, 1994",Whitehawk FC
+Centre-Forward,,,"Jul 1, 2014",Johan Ter Horst,,318224,['England'],,Folkestone Invicta FC,22,"Apr 6, 1995",Ashford United

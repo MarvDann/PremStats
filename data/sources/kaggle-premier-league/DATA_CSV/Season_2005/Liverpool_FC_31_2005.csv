@@ -1,0 +1,38 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 4, 2005",Pepe Reina,"1,88m",7825,['Spain'],€11.00m,: Ablöse €9.80m,23,"Aug 31, 1982",Como 1907
+Goalkeeper,left,"Aug 31, 2001",Jerzy Dudek,"1,88m",3209,['Poland'],€3.00m,: Ablöse €7.40m,33,"Mar 23, 1973",Retired
+Goalkeeper,right,"Jan 21, 2005",Scott Carson,"1,88m",14555,['England'],€1.75m,Leeds United,20,"Sep 3, 1985",Manchester City
+Goalkeeper,right,"Jan 12, 2006",David Martin,"1,88m",15930,['England'],€50k,Milton Keynes Dons,20,"Jan 22, 1986",Retired
+Centre-Back,right,"Jul 1, 1996",Jamie Carragher,"1,85m",3597,['England'],€15.75m,: Ablöse -,28,"Jan 28, 1978",Retired
+Centre-Back,left,"Jan 1, 2006",Daniel Agger,"1,91m",22832,['Denmark'],€6.50m,Bröndby IF,21,"Dec 12, 1984",Retired
+Centre-Back,,"Jul 1, 1999",Sami Hyypiä,,3470,['Finland'],€5.00m,: Ablöse €3.90m,32,"Oct 7, 1973",Retired
+Centre-Back,right,"Jul 1, 2004",Josemi,"1,83m",7776,['Spain'],€2.75m,Málaga CF,26,"Nov 15, 1979",Retired
+Centre-Back,left,"Feb 17, 1999",Djimi Traoré,"1,91m",3598,"['Mali', 'France']",€2.50m,: Ablöse €800k,26,"Mar 1, 1980",Retired
+Centre-Back,right,"Jul 1, 2003",Carl Medjani,"1,84m",8060,"['Algeria', 'France']",€1.00m,: Ablöse free transfer,21,"May 15, 1985",Olympique Salaise Rhodia
+Centre-Back,left,"Jul 1, 2005",Zak Whitbread,"1,88m",22230,"['United States', 'England']",€700k,: Ablöse -,22,"Jan 10, 1984",Retired
+Centre-Back,right,"Jul 1, 2005",Miki Roqué,"1,86m",33823,['Spain'],€100k,UE Lleida,17,"Jul 8, 1988",---
+Left-Back,,"Jul 1, 2001",John Arne Riise,,3220,['Norway'],€12.00m,: Ablöse €6.36m,25,"Sep 24, 1980",Avaldsnes IL
+Left-Back,left,"Jul 1, 2000",Stephen Warnock,"1,78m",3308,['England'],€1.80m,: Ablöse -,24,"Dec 12, 1981",Retired
+Right-Back,right,"Jan 1, 2006",Jan Kromkamp,"1,88m",4549,['Netherlands'],€5.00m,: Ablöse free transfer,25,"Aug 17, 1980",Retired
+Right-Back,right,"Jul 1, 2003",Steve Finnan,"1,83m",4038,['Ireland'],€5.00m,Fulham FC,30,"Apr 24, 1976",Retired
+Right-Back,right,"Jul 1, 2005",Antonio Barragán,"1,86m",32522,['Spain'],€250k,Sevilla FC B,19,"Jun 12, 1987",Retired
+Right-Back,right,,David Raven,"1,83m",27980,['England'],€150k,,21,"Mar 10, 1985",Retired
+Defensive Midfield,right,"Aug 20, 2004",Xabi Alonso,"1,83m",7476,['Spain'],€21.50m,Real Sociedad,24,"Nov 25, 1981",Retired
+Defensive Midfield,right,"Jul 14, 2005",Mohamed Sissoko,"1,91m",6119,"['Mali', 'France']",€7.50m,: Ablöse €12.00m,21,"Jan 22, 1985",Retired
+Defensive Midfield,,"Jul 17, 1999",Dietmar Hamann,,919,['Germany'],€4.00m,Newcastle United,32,"Aug 27, 1973",Retired
+Defensive Midfield,right,"Jul 1, 2002",Salif Diao,"1,83m",3600,"['Senegal', 'France']",€2.20m,: Ablöse €7.50m,29,"Feb 10, 1977",Retired
+Central Midfield,right,"Aug 1, 1998",Steven Gerrard,"1,83m",3109,['England'],€34.00m,: Ablöse -,26,"May 30, 1980",Retired
+Central Midfield,both,"Jul 1, 2003",David Mannix,"1,79m",4765,['England'],€250k,: Ablöse -,20,"Aug 24, 1985",Unknown
+Central Midfield,right,"Jul 1, 2003",Darren Potter,"1,85m",22231,"['Ireland', 'England']",€100k,: Ablöse -,21,"Dec 21, 1984",Retired
+Right Midfield,right,,Paul Anderson,"1,75m",37393,['England'],,,17,"Jul 23, 1988",Retired
+Left Winger,left,"Jul 1, 2003",Harry Kewell,"1,80m",3241,"['Australia', 'England']",€7.40m,Leeds United,27,"Sep 22, 1978",Retired
+Left Winger,left,"Jul 4, 2005",Boudewijn Zenden,"1,74m",3173,['Netherlands'],€4.00m,: Ablöse free transfer,29,"Aug 15, 1976",Retired
+Right Winger,both,"Aug 20, 2004",Luis García,"1,77m",7920,['Spain'],€10.00m,FC Barcelona,28,"Jun 24, 1978",Retired
+Second Striker,right,"Jul 1, 2003",Florent Sinama-Pongolle,"1,76m",4216,"['France', 'Réunion']",€2.00m,: Ablöse €400k,21,"Oct 20, 1984",Retired
+Centre-Forward,right,"Jul 1, 2004",Djibril Cissé,"1,82m",3966,"['France', ""Cote d'Ivoire""]",€13.50m,AJ Auxerre,24,"Aug 12, 1981",Retired
+Centre-Forward,right,"Jul 20, 2005",Peter Crouch,"2,01m",4072,"['England', 'Ireland']",€10.50m,Southampton FC,25,"Jan 30, 1981",Retired
+Centre-Forward,right,"Jan 13, 2005",Fernando Morientes,"1,86m",7531,['Spain'],€10.00m,Real Madrid,30,"Apr 5, 1976",Retired
+Centre-Forward,right,"Jan 1, 2002",Milan Baros,"1,83m",3216,['Czech Republic'],€9.00m,FC Banik Ostrava,24,"Oct 28, 1981",FK Vigantice
+Centre-Forward,left,"Jan 27, 2006",Robbie Fowler,"1,80m",3225,['England'],€4.50m,: Ablöse free transfer,31,"Apr 9, 1975",Retired
+Centre-Forward,right,"Jul 1, 2002",Anthony Le Tallec,"1,85m",4217,['France'],€1.60m,: Ablöse €2.50m,21,"Oct 3, 1984",Retired
+Centre-Forward,,"Aug 22, 2005",Besian Idrizaj,,20275,"['Austria', 'Kosovo']",,: Ablöse €275k,18,"Oct 12, 1987",---

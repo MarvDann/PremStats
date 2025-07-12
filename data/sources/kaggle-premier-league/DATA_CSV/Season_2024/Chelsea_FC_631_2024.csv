@@ -1,0 +1,31 @@
+position,foot,status,joinedOn,name,height,id,nationality,contract,marketValue,joined,age,dateOfBirth,signedFrom
+Goalkeeper,right,,"Aug 5, 2023",Robert Sánchez,"1,97m",403151,"['Spain', 'England']","Jun 30, 2030",€20.00m,,26,"Nov 18, 1997",Brighton & Hove Albion
+Goalkeeper,right,,"Jul 30, 2024",Filip Jørgensen,"1,90m",585323,"['Denmark', 'Sweden']","Jun 30, 2031",€20.00m,"Joined from Villarreal CF; date: Jul 30, 2024; fee: €24.50m",22,"Apr 16, 2002",Villarreal CF
+Goalkeeper,right,"No eligibility - until Dec 31, 2024 - UEFA Conference League","Jul 28, 2021",Marcus Bettinelli,"1,93m",116648,"['England', 'Italy']","Jun 30, 2026",€1.00m,,32,"May 24, 1992",Fulham FC
+Goalkeeper,right,,"Jul 1, 2023",Lucas Bergström,"2,05m",490606,['Finland'],"Jun 30, 2025",€700k,"Returned after loan spell with IF Brommapojkarna; date: Jun 18, 2024; fee: End of loan",22,"Sep 5, 2002",Chelsea FC U21
+Centre-Back,left,,"Jul 1, 2022",Levi Colwill,"1,87m",614258,['England'],"Jun 30, 2029",€50.00m,,21,"Feb 26, 2003",Chelsea FC U21
+Centre-Back,right,,"Aug 4, 2023",Axel Disasi,"1,90m",386047,"['France', 'DR Congo']","Jun 30, 2029",€35.00m,,26,"Mar 11, 1998",AS Monaco
+Centre-Back,left,,"Jan 5, 2023",Benoît Badiashile,"1,94m",463603,"['France', 'DR Congo']","Jun 30, 2030",€30.00m,,23,"Mar 26, 2001",AS Monaco
+Centre-Back,right,"No eligibility - until Dec 31, 2024 - UEFA Conference League","Aug 31, 2022",Wesley Fofana,"1,86m",475411,"['France', ""Cote d'Ivoire""]","Jun 30, 2029",€25.00m,,23,"Dec 17, 2000",Leicester City
+Centre-Back,right,,"Jul 1, 2024",Tosin Adarabioyo,"1,96m",258878,"['England', 'Nigeria']","Jun 30, 2028",€20.00m,"Joined from Fulham FC; date: Jul 1, 2024; fee: free transfer",27,"Sep 24, 1997",Fulham FC
+Centre-Back,left,,"Jul 12, 2024",Renato Veiga,"1,90m",805714,['Portugal'],"Jun 30, 2031",€8.00m,"Joined from FC Basel 1893; date: Jul 12, 2024; fee: €14.00m",21,"Jul 29, 2003",FC Basel 1893
+Left-Back,left,,"Aug 5, 2022",Marc Cucurella,"1,73m",284857,['Spain'],"Jun 30, 2028",€30.00m,,26,"Jul 22, 1998",Brighton & Hove Albion
+Left-Back,left,"No eligibility - until Dec 31, 2024 - UEFA Conference League","Aug 26, 2020",Ben Chilwell,"1,80m",316125,"['England', 'New Zealand']","Jun 30, 2027",€22.00m,,27,"Dec 21, 1996",Leicester City
+Right-Back,right,Team captain,"Jul 1, 2019",Reece James,"1,80m",472423,['England'],"Jun 30, 2028",€35.00m,,24,"Dec 8, 1999",Chelsea FC U23
+Right-Back,right,,"Jan 29, 2023",Malo Gusto,"1,78m",620322,"['France', 'Martinique']","Jun 30, 2030",€35.00m,,21,"May 19, 2003",Olympique Lyon
+Defensive Midfield,right,,"Aug 14, 2023",Moisés Caicedo,"1,78m",687626,['Ecuador'],"Jun 30, 2031",€75.00m,,23,"Nov 2, 2001",Brighton & Hove Albion
+Defensive Midfield,right,"No eligibility - until Dec 31, 2024 - UEFA Conference League","Aug 18, 2023",Roméo Lavia,"1,81m",628451,['Belgium'],"Jun 30, 2030",€35.00m,,20,"Jan 6, 2004",Southampton FC
+Central Midfield,right,,"Jan 31, 2023",Enzo Fernández,"1,78m",648195,['Argentina'],"Jun 30, 2032",€75.00m,,23,"Jan 17, 2001",SL Benfica
+Central Midfield,left,,"Jul 2, 2024",Kiernan Dewsbury-Hall,"1,78m",475188,['England'],"Jun 30, 2029",€30.00m,"Joined from Leicester City; date: Jul 2, 2024; fee: €35.40m",26,"Sep 6, 1998",Leicester City
+Central Midfield,right,,"Aug 4, 2022",Carney Chukwuemeka,"1,87m",659459,"['England', 'Nigeria']","Jun 30, 2028",€15.00m,,21,"Oct 20, 2003",: Ablöse €18.00m
+Central Midfield,right,,"Aug 19, 2022",Cesare Casadei,"1,85m",622380,['Italy'],"Jun 30, 2028",€10.00m,,21,"Jan 10, 2003",Inter Milan
+Attacking Midfield,left,"No eligibility - until Dec 31, 2024 - UEFA Conference League","Sep 1, 2023",Cole Palmer,"1,85m",568177,['England'],"Jun 30, 2033",€90.00m,,22,"May 6, 2002",Manchester City
+Attacking Midfield,right,,"Jul 1, 2023",Christopher Nkunku,"1,77m",344381,"['France', 'DR Congo']","Jun 30, 2029",€65.00m,,26,"Nov 14, 1997",RB Leipzig
+Left Winger,right,,"Jan 15, 2023",Mykhaylo Mudryk,"1,75m",537860,['Ukraine'],"Jun 30, 2031",€30.00m,,23,"Jan 5, 2001",Shakhtar Donetsk
+Left Winger,right,,"Aug 30, 2024",Jadon Sancho,"1,80m",401173,"['England', 'Jamaica']","Jun 30, 2025",€30.00m,"On loan from Manchester United until Jun 30, 2025",24,"Mar 25, 2000",Manchester United
+Right Winger,left,,"Aug 11, 2024",Pedro Neto,"1,73m",487465,['Portugal'],"Jun 30, 2031",€55.00m,"Joined from Wolverhampton Wanderers; date: Aug 11, 2024; fee: €60.00m",24,"Mar 9, 2000",Wolverhampton Wanderers
+Right Winger,left,,"Jan 20, 2023",Noni Madueke,"1,82m",503987,"['England', 'Nigeria']","Jun 30, 2030",€35.00m,,22,"Mar 10, 2002",PSV Eindhoven
+Second Striker,right,,"Aug 21, 2024",João Félix,"1,81m",462250,['Portugal'],"Jun 30, 2031",€30.00m,"Joined from Atlético de Madrid; date: Aug 21, 2024; fee: €52.00m",25,"Nov 10, 1999",Atlético de Madrid
+Centre-Forward,right,,"Jul 1, 2023",Nicolas Jackson,"1,87m",776890,"['Senegal', 'The Gambia']","Jun 30, 2033",€40.00m,,23,"Jun 20, 2001",Villarreal CF
+Centre-Forward,right,,"Aug 24, 2023",Deivid Washington,"1,87m",1082850,['Brazil'],"Jun 30, 2030",€9.00m,,19,"Jun 5, 2005",Santos FC
+Centre-Forward,right,,"Jul 1, 2024",Marc Guiu,"1,87m",938158,['Spain'],"Jun 30, 2029",€7.50m,"Joined from FC Barcelona; date: Jul 1, 2024; fee: €6.00m",18,"Jan 4, 2006",FC Barcelona

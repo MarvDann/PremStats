@@ -1,0 +1,26 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Aug 10, 2007",Scott Carson,"1,88m",14555,['England'],€5.25m,: Ablöse free transfer,22,"Sep 3, 1985",Manchester City
+Goalkeeper,right,"Jul 1, 2003",Thomas Sörensen,"1,96m",3473,['Denmark'],€2.50m,Sunderland AFC,32,"Jun 12, 1976",Retired
+Goalkeeper,right,"Jul 1, 2005",Stuart Taylor,"1,98m",3190,['England'],€900k,: Ablöse free transfer,27,"Nov 28, 1980",Retired
+Centre-Back,right,"Jul 18, 2001",Olof Mellberg,"1,87m",3098,['Sweden'],€7.50m,Racing Santander,30,"Sep 3, 1977",Retired
+Centre-Back,right,"Aug 29, 2007",Zat Knight,"1,98m",4012,['England'],€6.50m,Fulham FC,28,"May 2, 1980",Retired
+Centre-Back,left,"Jul 1, 2004",Martin Laursen,"1,90m",3503,['Denmark'],€5.25m,AC Milan,30,"Jul 26, 1977",Retired
+Centre-Back,right,"Jul 1, 2004",Gary Cahill,"1,93m",27511,['England'],€4.50m,: Ablöse -,22,"Dec 19, 1985",Retired
+Centre-Back,right,"Jul 3, 2008",Curtis Davies,"1,88m",18227,"['Sierra Leone', 'England']",€3.50m,West Bromwich Albion,23,"Mar 15, 1985",Retired
+Left-Back,both,"Jul 1, 2021",Ashley Young,"1,75m",14086,"['England', 'Jamaica']",€9.25m,Inter Milan,22,"Jul 9, 1985",Everton FC
+Left-Back,left,"Aug 30, 2005",Wilfred Bouma,"1,81m",4338,"['Netherlands', 'Suriname']",€5.25m,: Ablöse €4.70m,30,"Jun 15, 1978",Retired
+Left-Back,left,"Jul 1, 2006",Stephen O'Halloran,"1,80m",54130,['Ireland'],€200k,: Ablöse -,20,"Nov 29, 1987",Retired
+Defensive Midfield,left,"Jul 1, 1998",Gareth Barry,"1,84m",3291,['England'],€10.50m,: Ablöse -,27,"Feb 23, 1981",Unknown
+Defensive Midfield,right,"Jul 5, 2007",Nigel Reo-Coker,"1,75m",14060,"['England', 'Sierra Leone']",€9.00m,: Ablöse €12.50m,24,"May 14, 1984",Retired
+Central Midfield,right,"Aug 1, 2006",Stiliyan Petrov,"1,80m",3252,['Bulgaria'],€7.25m,Celtic FC,28,"Jul 5, 1979",Retired
+Central Midfield,right,"Jan 1, 2006",Craig Gardner,"1,76m",37171,['England'],€2.25m,: Ablöse -,21,"Nov 25, 1986",Retired
+Central Midfield,right,"Jul 1, 2006",Isaiah Osbourne,"1,88m",45276,"['England', 'Jamaica']",€500k,: Ablöse -,20,"Nov 5, 1987",Barwell FC
+Attacking Midfield,right,"Jan 31, 2007",Shaun Maloney,"1,71m",9508,"['Scotland', 'England']",€4.25m,Celtic FC,25,"Jan 24, 1983",Retired
+Attacking Midfield,,"Jul 1, 2005",Patrik Berger,,3218,['Czech Republic'],€900k,: Ablöse free transfer,34,"Nov 10, 1973",Retired
+Attacking Midfield,right,"Aug 1, 2007",Moustapha Salifou,"1,80m",1778,['Togo'],€500k,FC Wil 1900,25,"Jun 1, 1983",RB Petrolspor München
+Left Winger,right,"Jan 30, 2008",Wayne Routledge,"1,70m",14066,"['England', 'Jamaica']",€1.75m,Tottenham Hotspur,23,"Jan 7, 1985",Retired
+Centre-Forward,right,"Jul 1, 2005",Gabriel Agbonlahor,"1,83m",37148,"['England', 'Nigeria']",€8.75m,: Ablöse -,21,"Oct 13, 1986",Retired
+Centre-Forward,right,"Jan 22, 2007",John Carew,"1,96m",3570,['Norway'],€8.25m,: Ablöse ?,28,"Sep 5, 1979",Retired
+Centre-Forward,,"Jul 1, 2003",Luke Moore,"1,80m",4075,"['England', 'Jamaica']",€3.75m,: Ablöse -,22,"Feb 13, 1986",Retired
+Centre-Forward,right,"Jul 17, 2007",Marlon Harewood,"1,85m",10011,"['England', 'Barbados']",€3.75m,: Ablöse €5.50m,28,"Aug 25, 1979",Retired
+Centre-Forward,right,"Jul 1, 2008",Nathan Delfouneso,"1,86m",62642,"['England', 'Nigeria']",€100k,: Ablöse -,17,"Feb 2, 1991",Without Club

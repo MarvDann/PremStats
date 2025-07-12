@@ -1,0 +1,42 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2011",David de Gea,"1,92m",59377,['Spain'],€17.50m,: Ablöse €25.00m,21,"Nov 7, 1990",ACF Fiorentina
+Goalkeeper,right,,"Jan 6, 2011",Anders Lindegaard,"1,93m",22491,['Denmark'],€5.00m,: Ablöse €5.00m,28,"Apr 13, 1984",Retired
+Goalkeeper,,,"Jul 2, 2007",Tomasz Kuszczak,,1320,"['Poland', 'England']",€1.25m,West Bromwich Albion,30,"Mar 20, 1982",Retired
+Goalkeeper,right,,"Jul 1, 2011",Ben Amos,"1,93m",73472,['England'],€750k,Manchester United Reserves,22,"Apr 10, 1990",Port Vale FC
+Centre-Back,right,,"Jan 5, 2006",Nemanja Vidic‎,"1,90m",19726,['Serbia'],€25.50m,: Ablöse €10.50m,30,"Oct 21, 1981",Retired
+Centre-Back,right,,"Jul 1, 2011",Phil Jones,"1,85m",117996,['England'],€18.00m,Blackburn Rovers,20,"Feb 21, 1992",Retired
+Centre-Back,right,,"Jul 1, 2010",Chris Smalling,"1,94m",103427,"['England', 'Jamaica']",€15.00m,Fulham FC,22,"Nov 22, 1989",Al-Fayha FC
+Centre-Back,both,,"Jul 18, 2023",Jonny Evans,"1,88m",42412,['Northern Ireland'],€9.50m,Leicester City,24,"Jan 3, 1988",Manchester United
+Centre-Back,right,,"Jul 22, 2002",Rio Ferdinand,"1,89m",3235,['England'],€6.00m,Leeds United,33,"Nov 7, 1978",Retired
+Centre-Back,right,,,Michael Keane,"1,88m",118534,"['England', 'Ireland']",€100k,,19,"Jan 11, 1993",Everton FC
+Centre-Back,right,,"Jul 1, 2010",Reece Brown,"1,88m",127996,"['England', 'Jamaica']",,Manchester United U18,20,"Nov 1, 1991",Retired
+Centre-Back,right,,"Jul 1, 2013",Tom Thorpe,"1,88m",128911,['England'],,Manchester United U21,19,"Jan 13, 1993",Without Club
+Left-Back,both,,"Jul 1, 2011",Ashley Young,"1,75m",14086,"['England', 'Jamaica']",€27.00m,: Ablöse €18.00m,26,"Jul 9, 1985",Everton FC
+Left-Back,left,,"Jan 10, 2006",Patrice Evra,"1,74m",5285,"['France', 'Senegal']",€15.50m,: Ablöse €8.00m,31,"May 15, 1981",Retired
+Left-Back,right,,"Jul 1, 2012",Marnick Vermijl,"1,80m",110798,['Belgium'],,Manchester United U18,20,"Jan 13, 1992",KVV Thes Sport
+Left-Back,left,,,Zeki Fryers,"1,85m",141655,['England'],,,19,"Sep 9, 1992",Retired
+Right-Back,right,,"Jul 1, 2009",Antonio Valencia,"1,80m",33544,['Ecuador'],€27.50m,Wigan Athletic,26,"Aug 4, 1985",Retired
+Right-Back,right,Knee injury - Return unknown,"Jan 1, 2008",Rafael,"1,72m",61892,"['Brazil', 'Portugal']",€9.00m,Fluminense Football Club,21,"Jul 9, 1990",Botafogo de Futebol e Regatas
+Right-Back,right,,"Jul 1, 2008",Fábio,"1,72m",61891,"['Brazil', 'Portugal']",€7.50m,Manchester United U18,21,"Jul 9, 1990",Grêmio Foot-Ball Porto Alegrense
+Right-Back,right,,"Jan 8, 2009",Ritchie De Laet,"1,84m",55687,['Belgium'],€1.25m,Stoke City,23,"Nov 28, 1988",Retired
+Defensive Midfield,right,,"Jul 31, 2006",Michael Carrick,"1,89m",3878,['England'],€14.00m,Tottenham Hotspur,30,"Jul 28, 1981",Retired
+Central Midfield,left,,"Jul 2, 2007",Anderson,"1,76m",31645,['Brazil'],€12.00m,FC Porto,24,"Apr 13, 1988",Retired
+Central Midfield,right,,"Jul 1, 2001",Darren Fletcher,"1,84m",3547,['Scotland'],€10.00m,Manchester United U18,28,"Feb 1, 1984",Retired
+Central Midfield,right,,"Jul 1, 2008",Tom Cleverley,"1,75m",73484,['England'],€8.50m,Manchester United U18,22,"Aug 12, 1989",Retired
+Central Midfield,right,,"Jul 1, 2008",Darron Gibson,"1,83m",42413,"['Ireland', 'Northern Ireland']",€3.50m,Manchester United Reserves,24,"Oct 25, 1987",Retired
+Central Midfield,both,"Doping ban - until Mar 10, 2025 - cross-competition","Aug 9, 2016",Paul Pogba,"1,91m",122153,"['France', 'Guinea']",€3.50m,: Ablöse €105.00m,19,"Mar 15, 1993",Juventus FC
+Central Midfield,right,,"Jan 8, 2012",Paul Scholes,"1,68m",3397,['England'],€1.00m,,37,"Nov 16, 1974",Retired
+Right Midfield,right,,,Larnell Cole,"1,68m",141650,['England'],,,19,"Mar 9, 1993",Unknown
+Left Midfield,left,,"Jul 1, 1991",Ryan Giggs,"1,79m",3406,['Wales'],€1.00m,Manchester United U18,38,"Nov 29, 1973",Retired
+Attacking Midfield,both,,"Jul 5, 2005",Ji-sung Park,"1,78m",4592,"['Korea, South']",€6.50m,: Ablöse €7.30m,31,"Feb 25, 1981",Retired
+Attacking Midfield,right,,,Ravel Morrison,"1,75m",128907,"['Jamaica', 'England']",€750k,,19,"Feb 2, 1993",Precision FC
+Attacking Midfield,right,,"Jul 1, 2014",Jesse Lingard,"1,74m",141660,['England'],,Manchester United U21,19,"Dec 15, 1992",FC Seoul
+Left Winger,both,,"Jul 2, 2007",Nani,"1,77m",33706,"['Portugal', 'Cape Verde']",€36.50m,Sporting CP,25,"Nov 17, 1986",CF Estrela Amadora
+Centre-Forward,right,,"Aug 31, 2004",Wayne Rooney,"1,76m",3332,['England'],€65.00m,: Ablöse €37.00m,26,"Oct 24, 1985",Retired
+Centre-Forward,right,,"Jul 1, 2010",Chicharito,"1,75m",50935,['Mexico'],€18.00m,Deportivo Guadalajara,24,"Jun 1, 1988",Deportivo Guadalajara
+Centre-Forward,right,,"Jul 1, 2008",Danny Welbeck,"1,85m",67063,"['England', 'Ghana']",€17.00m,Manchester United U18,21,"Nov 26, 1990",Brighton & Hove Albion
+Centre-Forward,,,"Sep 1, 2008",Dimitar Berbatov,,65,['Bulgaria'],€11.50m,Tottenham Hotspur,31,"Jan 30, 1981",Retired
+Centre-Forward,right,,"Jul 17, 2009",Mame Diouf,"1,85m",62049,['Senegal'],€5.00m,Molde FK,24,"Dec 16, 1987",Ankara Keciörengücü
+Centre-Forward,right,,"Jan 1, 2009",Federico Macheda,"1,85m",61887,['Italy'],€2.50m,Manchester United U18,20,"Aug 22, 1991",Asteras Aktor
+Centre-Forward,both,,"Jul 3, 2009",Michael Owen,"1,73m",1397,['England'],€1.50m,Newcastle United,32,"Dec 14, 1979",Retired
+Centre-Forward,right,,"Jul 1, 2013",Will Keane,"1,88m",118535,"['Ireland', 'England']",,Manchester United U21,19,"Jan 11, 1993",Preston North End

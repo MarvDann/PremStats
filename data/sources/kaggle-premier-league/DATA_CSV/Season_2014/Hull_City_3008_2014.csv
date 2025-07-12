@@ -1,0 +1,36 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 2, 2013",Allan McGregor,"1,83m",9422,['Scotland'],€1.50m,Besiktas JK,33,"Jan 31, 1982",Retired
+Goalkeeper,right,,"Jul 9, 2012",Eldin Jakupovic,"1,91m",2857,"['Switzerland', 'Bosnia-Herzegovina']",€500k,: Ablöse free transfer,30,"Oct 2, 1984",Retired
+Goalkeeper,right,,"Jul 15, 2013",Steve Harper,"1,88m",3562,['England'],€250k,Newcastle United,40,"Mar 14, 1975",Retired
+Goalkeeper,right,,"Aug 1, 2008",Mark Oxley,"1,90m",67232,['England'],€150k,Rotherham United,24,"Sep 28, 1990",Harrogate Town
+Goalkeeper,right,,,Rory Watson,"1,90m",344916,['England'],,,19,"Feb 5, 1996",York City
+Centre-Back,right,,"Aug 26, 2014",Michael Dawson,"1,89m",9988,['England'],€4.00m,Tottenham Hotspur,31,"Nov 18, 1983",Retired
+Centre-Back,right,,"Jul 1, 2013",Curtis Davies,"1,88m",18227,"['Sierra Leone', 'England']",€3.50m,: Ablöse €2.65m,30,"Mar 15, 1985",Retired
+Centre-Back,right,,"Jul 29, 2014",Harry Maguire,"1,94m",177907,['England'],€2.00m,Sheffield United,22,"Mar 5, 1993",Manchester United
+Centre-Back,right,,"Jan 7, 2011",James Chester,"1,77m",73482,"['Wales', 'England']",€2.00m,Manchester United Reserves,26,"Jan 23, 1989",Salford City
+Centre-Back,right,,"Jul 30, 2012",Alex Bruce,"1,80m",37957,"['Northern Ireland', 'Ireland']",€1.00m,Leeds United,30,"Sep 28, 1984",Retired
+Centre-Back,right,,"Aug 31, 2009",Paul McShane,"1,83m",24636,['Ireland'],€1.00m,Sunderland AFC,29,"Jan 6, 1986",Retired
+Left-Back,left,,"Jul 29, 2014",Andrew Robertson,"1,78m",234803,['Scotland'],€5.00m,: Ablöse €3.60m,21,"Mar 11, 1994",Liverpool FC
+Left-Back,left,,"Jul 1, 2013",Maynor Figueroa,"1,82m",62240,['Honduras'],€2.00m,Wigan Athletic,32,"May 2, 1983",Retired
+Left-Back,left,,"Jul 1, 2011",Joe Dudgeon,"1,78m",73492,"['Northern Ireland', 'England']",€500k,Manchester United,24,"Nov 26, 1990",Retired
+Left-Back,left,,"Jul 1, 2011",Conor Townsend,"1,83m",146509,['England'],€200k,Hull City U18,22,"Mar 4, 1993",Ipswich Town
+Right-Back,right,,"Jul 1, 2013",Ahmed El Mohamady,"1,82m",66333,['Egypt'],€4.00m,Sunderland AFC,27,"Sep 9, 1987",Retired
+Right-Back,right,,"Oct 1, 2010",Liam Rosenior,"1,78m",15166,"['England', 'Sierra Leone']",€1.00m,Without Club,30,"Jul 9, 1984",Retired
+Defensive Midfield,right,,"Jul 1, 2014",Jake Livermore,"1,80m",61832,['England'],€7.00m,Tottenham Hotspur,25,"Nov 14, 1989",Without Club
+Defensive Midfield,right,,"Aug 17, 2021",Tom Huddlestone,"1,88m",13465,['England'],€6.00m,Without Club,28,"Dec 28, 1986",Retired
+Central Midfield,left,,"Sep 1, 2014",Gastón Ramírez,"1,83m",123742,['Uruguay'],€6.00m,Southampton FC,24,"Dec 2, 1990",CA Peñarol
+Central Midfield,right,,"Sep 1, 2014",Mohamed Diamé,"1,84m",70950,"['Senegal', 'France']",€6.00m,: Ablöse €4.40m,28,"Jun 14, 1987",Al-Sailiya SC
+Central Midfield,right,,"Jan 8, 2013",David Meyler,"1,89m",68183,['Ireland'],€3.00m,Sunderland AFC,26,"May 29, 1989",Retired
+Central Midfield,left,,"Aug 31, 2012",Stephen Quinn,"1,68m",43266,['Ireland'],€1.50m,Sheffield United,29,"Apr 1, 1986",Mansfield Town
+Left Midfield,left,Injury to the ankle - Return unknown,"Jan 8, 2013",Robbie Brady,"1,76m",128229,['Ireland'],€2.00m,Manchester United U21,23,"Jan 14, 1992",Preston North End
+Attacking Midfield,left,,"Sep 1, 2014",Hatem Ben Arfa,"1,79m",18900,"['France', 'Tunisia']",€6.00m,Newcastle United,28,"Mar 7, 1987",Retired
+Left Winger,left,,"Jul 1, 2013",George Boyd,"1,86m",45623,"['Scotland', 'England']",€3.50m,Peterborough United,29,"Oct 2, 1985",Wythenshawe Town FC
+Right Winger,left,,"Jul 1, 2014",Robert Snodgrass,"1,82m",22614,['Scotland'],€7.00m,: Ablöse €7.50m,27,"Sep 7, 1987",Retired
+Right Winger,left,,"Jul 7, 2014",Tom Ince,"1,78m",157368,"['England', 'Barbados']",€6.50m,Blackpool FC,23,"Jan 30, 1992",Watford FC
+Right Winger,left,,"Jul 25, 2012",Sone Aluko,"1,73m",42198,"['Nigeria', 'England']",€2.50m,: Ablöse free transfer,26,"Feb 19, 1989",Retired
+Right Winger,,,"Jul 1, 2013",Calaum Jahraldo-Martin,"1,75m",264406,"['Antigua and Barbuda', 'England']",,: Ablöse free transfer,22,"Apr 27, 1993",Unknown
+Centre-Forward,both,,"Jan 17, 2014",Shane Long,"1,80m",37304,['Ireland'],€9.00m,West Bromwich Albion,28,"Jan 22, 1987",Retired
+Centre-Forward,left,,"Sep 1, 2014",Abel Hernández,"1,85m",76608,['Uruguay'],€7.50m,: Ablöse €12.00m,24,"Aug 8, 1990",Liverpool FC Montevideo
+Centre-Forward,right,,"Feb 2, 2015",Dame N'Doye,"1,86m",44855,['Senegal'],€7.00m,: Ablöse €3.96m,30,"Feb 21, 1985",Retired
+Centre-Forward,both,,"Jan 15, 2014",Nikica Jelavic,"1,88m",25742,['Croatia'],€6.50m,: Ablöse €7.80m,29,"Aug 27, 1985",Retired
+Centre-Forward,right,,"Jul 26, 2013",Yannick Sagbo,"1,83m",60591,"[""Cote d'Ivoire"", 'France']",€1.50m,: Ablöse €1.80m,27,"Apr 12, 1988",Without Club

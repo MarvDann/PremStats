@@ -1,0 +1,34 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Aug 12, 1994",Alan Miller,"1,91m",3820,['England'],: Ablöse €500k,26,"Mar 29, 1970",---
+Goalkeeper,,"Aug 11, 1995",Gary Walsh,"1,91m",13547,['England'],: Ablöse €700k,28,"Mar 21, 1968",Retired
+Goalkeeper,,"Jul 1, 1992",Ben Roberts,"1,85m",4099,['England'],Middlesbrough FC U18,21,"Jun 22, 1975",Retired
+Centre-Back,right,"Jan 1, 1993",Derek Whyte,"1,83m",11375,['Scotland'],Celtic FC,27,"Aug 31, 1968",Retired
+Centre-Back,right,"Jul 19, 1994",Neil Cox,"1,83m",13784,['England'],: Ablöse €1.40m,24,"Oct 8, 1971",Retired
+Centre-Back,,"Dec 3, 1993",Steve Vickers,"1,85m",3935,['England'],: Ablöse €830k,28,"Oct 13, 1967",Retired
+Centre-Back,,"Jul 1, 1994",Nigel Pearson,"1,85m",222229,['England'],: Ablöse €900k,32,"Aug 21, 1963",Retired
+Centre-Back,,"Mar 21, 1995",Phil Whelan,"1,93m",222239,['England'],: Ablöse €450k,23,"Aug 7, 1972",Retired
+Centre-Back,,"Jul 1, 1994",Craig Liddle,"1,80m",214028,['England'],Blyth Spartans,24,"Oct 21, 1971",Retired
+Centre-Back,right,,Micky Barron,"1,80m",66917,['England'],,21,"Dec 22, 1974",Retired
+Centre-Back,right,,Alan White,"1,84m",34615,['England'],,20,"Mar 22, 1976",Retired
+Left-Back,,"Jul 1, 1994",Clayton Blackmore,"1,75m",176007,['Wales'],: Ablöse free transfer,31,"Sep 23, 1964",Retired
+Left-Back,left,"Feb 1, 1996",Branco,"1,80m",102590,"['Brazil', 'Lebanon']",Sport Club Internacional,32,"Apr 4, 1964",Retired
+Right-Back,right,"Aug 14, 1992",Chris Morris,"1,80m",104108,"['Ireland', 'England']",Celtic FC,32,"Dec 24, 1963",Retired
+Right-Back,,"Aug 16, 1991",Curtis Fleming,"1,78m",11353,"['Ireland', 'England']",St. Patrick's Athletic,27,"Oct 8, 1968",Retired
+Right-Back,right,"Jul 23, 1994",Viv Anderson,"1,84m",117188,['England'],Barnsley FC,39,"Jul 29, 1956",Retired
+Defensive Midfield,right,"Dec 18, 1991",Jamie Pollock,"1,78m",222230,['England'],Middlesbrough FC U18,22,"Feb 16, 1974",Retired
+Central Midfield,right,"Jul 1, 1990",Robbie Mustoe,"1,83m",13419,['England'],: Ablöse €440k,27,"Aug 28, 1968",Retired
+Central Midfield,left,"Jul 1, 1994",Bryan Robson,"1,80m",101382,['England'],: Ablöse free transfer,39,"Jan 11, 1957",Retired
+Central Midfield,,"Jul 1, 1991",Graham Kavanagh,,12712,['Ireland'],Home Farm,22,"Dec 2, 1973",Retired
+Central Midfield,right,"Jul 1, 1993",Phil Stamp,"1,78m",12607,['England'],Middlesbrough FC U18,20,"Dec 12, 1975",Retired
+Central Midfield,,"Jul 1, 1994",Keith O'Halloran,"1,75m",230951,['Ireland'],Middlesbrough FC U18,20,"Nov 10, 1975",Retired
+Central Midfield,right,"Jul 1, 1995",Mark Summerbell,"1,75m",195687,['England'],Middlesbrough FC U18,19,"Oct 30, 1976",Retired
+Left Midfield,,"Jul 1, 1995",Nick Barmby,,3222,['England'],: Ablöse €7.50m,22,"Feb 11, 1974",Retired
+Left Midfield,,"Jul 1, 1991",Alan Moore,"1,75m",10007,['Ireland'],Barnsley FC,21,"Nov 25, 1974",Retired
+Attacking Midfield,right,"Jul 26, 2002",Juninho Paulista,"1,67m",3505,"['Brazil', 'Italy']",: Ablöse €6.90m,23,"Feb 22, 1973",Retired
+Right Winger,,"Jul 5, 1990",John Hendrie,,195175,['Scotland'],: Ablöse €631k,32,"Oct 24, 1963",Retired
+Right Winger,,"Nov 27, 1992",Craig Hignett,,3787,['England'],Crewe Alexandra,26,"Jan 12, 1970",Retired
+Centre-Forward,right,"Jul 1, 1994",Jan Åge Fjørtoft,"1,92m",514,['Norway'],Swindon Town,29,"Jan 10, 1967",Retired
+Centre-Forward,both,"Jul 1, 1994",Jaime Moreno,"1,78m",16739,"['Bolivia', 'United States']",Independiente Santa Fe,22,"Jan 19, 1974",Retired
+Centre-Forward,,"Dec 2, 1994",Chris Freestone,"1,80m",230936,['England'],Arnold Town,24,"Sep 4, 1971",Retired
+Centre-Forward,,"Aug 16, 1991",Paul Wilkinson,,177255,['England'],: Ablöse €697k,31,"Oct 30, 1964",Retired
+Centre-Forward,right,"Jul 1, 1996",Andy Campbell,"1,80m",12689,['England'],Middlesbrough FC U18,17,"Apr 18, 1979",Retired

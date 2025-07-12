@@ -1,0 +1,38 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 18, 2008",Scott Carson,"1,88m",14555,['England'],€3.50m,: Ablöse €4.00m,25,"Sep 3, 1985",Manchester City
+Goalkeeper,right,"Jul 30, 2010",Boaz Myhill,"1,91m",3838,"['Wales', 'United States']",€2.00m,: Ablöse €1.80m,28,"Nov 9, 1982",Retired
+Goalkeeper,left,"Feb 1, 2007",Dean Kiely,"1,85m",3748,"['Ireland', 'England']",€250k,: Ablöse free transfer,40,"Oct 10, 1970",Retired
+Goalkeeper,right,"Jul 1, 2006",Luke Daniels,"1,95m",45921,['England'],€125k,West Bromwich Albion U18,23,"Jan 5, 1988",Retired
+Centre-Back,right,"Jul 1, 2008",Gianni Zuiverloon,"1,78m",27304,"['Netherlands', 'Suriname']",€4.00m,: Ablöse €4.00m,24,"Dec 30, 1986",Retired
+Centre-Back,right,"Aug 1, 2010",Gabriel Tamaș,"1,88m",6893,['Romania'],€4.00m,AJ Auxerre,27,"Nov 9, 1983",Retired
+Centre-Back,right,"Aug 25, 2009",Gonzalo Jara,"1,78m",40429,['Chile'],€3.00m,CSD Colo-Colo,25,"Aug 29, 1985",Retired
+Centre-Back,right,"Jul 26, 2007",Leon Barnett,"1,85m",33484,"['England', 'Jamaica']",€2.50m,: Ablöse €3.75m,25,"Nov 30, 1985",Retired
+Centre-Back,left,"Aug 1, 2008",Jonas Olsson,"1,93m",25248,['Sweden'],€2.50m,NEC Nijmegen,28,"Mar 10, 1983",Retired
+Centre-Back,right,"Jul 1, 2010",Pablo Ibáñez,"1,92m",8116,['Spain'],€2.50m,: Ablöse free transfer,29,"Aug 3, 1981",Retired
+Centre-Back,right,"Aug 10, 2008",Abdoulaye Méïté,"1,85m",5315,"[""Cote d'Ivoire"", 'France']",€2.00m,: Ablöse €2.60m,30,"Oct 6, 1980",Retired
+Centre-Back,right,"Aug 31, 2010",Craig Dawson,"1,88m",121477,['England'],€200k,Rochdale AFC,21,"May 6, 1990",Wolverhampton Wanderers
+Centre-Back,right,,Paul Downing,"1,85m",113034,['England'],€50k,,19,"Oct 26, 1991",Kidderminster Harriers
+Centre-Back,right,,James Hurst,"1,83m",110863,['England'],,,19,"Jan 31, 1992",Career break
+Left-Back,left,"Aug 1, 2010",Nicky Shorey,"1,75m",13426,['England'],€3.00m,: Ablöse €1.80m,30,"Feb 19, 1981",Retired
+Left-Back,left,"Jul 1, 2008",Marek Cech,"1,83m",21354,['Slovakia'],€2.00m,FC Porto,28,"Jan 26, 1983",Retired
+Left-Back,left,"Aug 1, 2009",Joe Mattock,"1,81m",49611,['England'],€1.00m,: Ablöse €1.20m,21,"May 15, 1990",Marine FC
+Right-Back,right,"Jul 1, 2010",Steven Reid,"1,85m",7330,"['Ireland', 'England']",€2.50m,Blackburn Rovers,30,"Mar 10, 1981",Retired
+Defensive Midfield,,"Aug 29, 2010",Paul Scharner,,2953,['Austria'],€4.50m,Wigan Athletic,31,"Mar 11, 1980",Retired
+Defensive Midfield,right,"Jul 10, 2009",Youssouf Mulumbu,"1,77m",45272,"['DR Congo', 'France']",€3.50m,: Ablöse €200k,24,"Jan 25, 1987",Without Club
+Central Midfield,left,"Aug 15, 2007",Chris Brunt,"1,87m",36814,['Northern Ireland'],€6.50m,: Ablöse €3.75m,26,"Dec 14, 1984",Retired
+Central Midfield,right,"Aug 7, 2007",James Morrison,"1,83m",27614,"['Scotland', 'England']",€3.50m,Middlesbrough FC,25,"May 25, 1986",Retired
+Central Midfield,right,"Jul 1, 2008",Graham Dorrans,"1,77m",36608,['Scotland'],€3.00m,Livingston FC,24,"May 5, 1987",Johnstone Burgh FC
+Central Midfield,left,,Sam Mantom,"1,75m",141347,['England'],,,19,"Feb 20, 1992",Rushall Olympic
+Central Midfield,right,"Jul 1, 2011",George Thorne,"1,88m",128910,['England'],,West Bromwich Albion Reserves,18,"Jan 4, 1993",St. Neots Town
+Attacking Midfield,both,"Aug 20, 2010",Somen Tchoyi,"1,90m",37058,['Cameroon'],€3.50m,: Ablöse €3.00m,28,"Mar 29, 1983",Sportfreunde Owingen/Billafingen
+Left Winger,left,"Aug 13, 2009",Jerome Thomas,"1,77m",3560,"['England', 'Guyana']",€2.50m,: Ablöse free transfer,28,"Mar 23, 1983",Retired
+Right Winger,left,"Jan 30, 2011",Carlos Vela,"1,77m",35773,"['Mexico', 'Spain']",€5.00m,: Ablöse ?,22,"Mar 1, 1989",Los Angeles FC
+Centre-Forward,right,"Aug 20, 2010",Peter Odemwingie,"1,81m",12516,"['Nigeria', 'Russia']",€6.50m,: Ablöse €3.00m,29,"Jul 15, 1981",Retired
+Centre-Forward,,"Aug 27, 2010",Marc-Antoine Fortuné,,5652,"['French Guiana', 'France']",€3.50m,Celtic FC,29,"Jul 2, 1981",Retired
+Centre-Forward,left,"Aug 15, 2007",Ishmael Miller,"1,92m",38776,['England'],€3.00m,: Ablöse €1.50m,24,"Mar 5, 1987",Retired
+Centre-Forward,,"Jul 1, 2008",Luke Moore,"1,80m",4075,"['England', 'Jamaica']",€1.50m,: Ablöse €3.75m,25,"Feb 13, 1986",Retired
+Centre-Forward,right,"Jul 1, 2007",Roman Bednar,"1,88m",26898,['Czech Republic'],€1.50m,Heart of Midlothian FC,28,"Mar 26, 1983",SK Hovorcovice
+Centre-Forward,right,"Jan 1, 2010",Giles Barnes,"1,83m",37236,"['Jamaica', 'England']",€1.50m,: Ablöse free transfer,22,"Aug 5, 1988",Retired
+Centre-Forward,left,"Jul 8, 2009",Simon Cox,"1,80m",37150,"['Ireland', 'England']",€1.50m,Swindon Town,24,"Apr 28, 1987",Retired
+Centre-Forward,right,"Jul 1, 2009",Chris Wood,"1,91m",108725,['New Zealand'],€750k,West Bromwich Albion U18,19,"Dec 7, 1991",Nottingham Forest
+Centre-Forward,right,"Jul 1, 2013",Saido Berahino,"1,80m",128897,"['Burundi', 'England']",,West Bromwich Albion U21,17,"Aug 4, 1993",Rajasthan United

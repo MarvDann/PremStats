@@ -1,0 +1,31 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Mar 24, 1994",Paul Heald,"1,88m",13790,['England'],Leyton Orient,25,"Sep 20, 1968",Retired
+Goalkeeper,right,"Sep 25, 1986",Fraser Digby,"1,85m",176626,['England'],: Ablöse €40k,27,"Jan 23, 1967",Retired
+Goalkeeper,,"Jul 1, 1987",Nick Hammond,"1,83m",224241,['England'],: Ablöse free transfer,26,"Sep 7, 1967",Retired
+Goalkeeper,,"Jan 11, 1994",Stewart Kerr,"1,88m",136079,['Scotland'],Celtic FC,19,"Nov 13, 1974",Retired
+Goalkeeper,,"Jan 28, 1994",Jon Sheffield,,225363,['England'],Cambridge United,25,"Feb 1, 1969",Retired
+Centre-Back,,"Jul 1, 1993",Luc Nijholt,,189312,['Netherlands'],Motherwell FC,32,"Jul 29, 1961",Retired
+Centre-Back,,"Jul 1, 1991",Shaun Taylor,,225368,['England'],: Ablöse €250k,31,"Feb 26, 1963",Retired
+Centre-Back,left,"Jul 30, 1993",Adrian Whitbread,"1,85m",225376,['England'],Leyton Orient,22,"Oct 22, 1971",Retired
+Centre-Back,right,"Jul 1, 2003",Adi Viveash,"1,86m",16741,['England'],Reading FC,24,"Sep 30, 1969",Retired
+Centre-Back,right,,Andy Thomson,"1,91m",225370,['England'],,20,"Mar 28, 1974",Retired
+Centre-Back,,"Jul 1, 1993",Terry Fenwick,,117191,['England'],: Ablöse free transfer,34,"Nov 17, 1959",Retired
+Centre-Back,,"Jan 20, 1994",Brian Kilcline,"1,93m",224179,['England'],Newcastle United,32,"May 7, 1962",Retired
+Left-Back,left,"Jan 10, 1992",Paul Bodin,"1,83m",186012,['Wales'],: Ablöse €315k,29,"Sep 13, 1964",Retired
+Defensive Midfield,right,"Jul 1, 1988",Ross MacLaren,,224183,['Scotland'],: Ablöse ?,32,"Apr 14, 1962",Retired
+Defensive Midfield,left,"Jul 1, 1992",Kevin Horlock,"1,83m",3810,"['Northern Ireland', 'England']",: Ablöse ?,21,"Nov 1, 1972",Retired
+Central Midfield,,"Sep 2, 1990",Micky Hazard,"1,70m",176808,['England'],: Ablöse €152k,34,"Feb 5, 1960",Retired
+Central Midfield,,"Mar 2, 1994",Lawrie Sanchez,,222305,"['Northern Ireland', 'England']",: Ablöse free transfer,34,"Oct 25, 1959",Retired
+Right Midfield,left,"Jul 1, 1994",Wayne O'Sullivan,"1,73m",43123,"['Ireland', 'Cyprus']",Swindon Town U18,20,"Feb 25, 1974",Retired
+Right Midfield,right,"Aug 1, 2005",Nicky Summerbee,"1,80m",10378,['England'],Bradford City,22,"Aug 26, 1971",Retired
+Attacking Midfield,right,"Mar 30, 1992",John Moncur,"1,70m",3696,['England'],: Ablöse €100k,27,"Sep 22, 1966",Retired
+Left Winger,,"Mar 28, 1991",Martin Ling,,224182,['England'],Mansfield Town,27,"Jul 15, 1966",Retired
+Left Winger,,"Jul 1, 1992",Austin Berkley,"1,75m",641446,['England'],Gillingham FC,21,"Jan 28, 1973",Retired
+Left Winger,,"Sep 17, 1993",Ty Gooden,,224171,['England'],Wycombe Wanderers,21,"Oct 23, 1972",Retired
+Centre-Forward,right,"Jul 1, 1993",Jan Åge Fjørtoft,"1,92m",514,['Norway'],: Ablöse €700k,27,"Jan 10, 1967",Retired
+Centre-Forward,,"Jul 1, 1992",Craig Maskell,,224246,['England'],Reading FC,26,"Apr 10, 1968",Retired
+Centre-Forward,,"Jul 1, 1986",Steve White,,225377,['England'],Bristol Rovers,35,"Jan 2, 1959",Retired
+Centre-Forward,,"Jul 1, 1992",Chris Hamon,,225320,"['England', 'Jersey']",St. Peter FC,24,"Apr 27, 1970",Retired
+Centre-Forward,,"Aug 16, 1993",Andy Mutch,,224248,['England'],: Ablöse €310k,30,"Dec 28, 1963",Retired
+Centre-Forward,,,Keith Scott,,225361,['England'],,27,"Jun 9, 1967",Retired
+Centre-Forward,,"Feb 1, 1994",Frank McAvennie,"1,78m",116148,['Scotland'],Celtic FC,34,"Nov 22, 1959",Retired

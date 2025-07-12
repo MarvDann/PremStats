@@ -1,0 +1,35 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,"Aug 31, 2001",Jerzy Dudek,"1,88m",3209,['Poland'],: Ablöse €7.40m,31,"Mar 23, 1973",Retired
+Goalkeeper,right,"Jan 9, 2004",Paul Jones,"1,91m",3684,['Wales'],Southampton FC,37,"Apr 18, 1967",Retired
+Goalkeeper,right,"Sep 1, 2001",Chris Kirkland,"1,98m",3219,['England'],Coventry City,23,"May 2, 1981",Retired
+Goalkeeper,right,"Jul 1, 2002",Patrice Luzi,"1,92m",3595,['France'],: Ablöse free transfer,23,"Jul 8, 1980",Retired
+Goalkeeper,,"Jul 1, 2004",Paul Harrison,"1,83m",22229,['England'],: Ablöse -,19,"Dec 18, 1984",Retired
+Centre-Back,right,"Jul 1, 1999",Stéphane Henchoz,"1,85m",3210,"['Switzerland', 'Germany']",Blackburn Rovers,29,"Sep 7, 1974",Retired
+Centre-Back,,"Jul 1, 1999",Sami Hyypiä,,3470,['Finland'],: Ablöse €3.90m,30,"Oct 7, 1973",Retired
+Centre-Back,,"Jul 1, 2000",Markus Babbel,,192,['Germany'],: Ablöse free transfer,31,"Sep 8, 1972",Retired
+Centre-Back,left,"Feb 17, 1999",Djimi Traoré,"1,91m",3598,"['Mali', 'France']",: Ablöse €800k,24,"Mar 1, 1980",Retired
+Centre-Back,right,"Jul 1, 1996",Jamie Carragher,"1,85m",3597,['England'],: Ablöse -,26,"Jan 28, 1978",Retired
+Centre-Back,right,"Jul 1, 2003",Carl Medjani,"1,84m",8060,"['Algeria', 'France']",: Ablöse free transfer,19,"May 15, 1985",Olympique Salaise Rhodia
+Centre-Back,left,"Jul 1, 2005",Zak Whitbread,"1,88m",22230,"['United States', 'England']",: Ablöse -,20,"Jan 10, 1984",Retired
+Left-Back,,"Jul 1, 2001",John Arne Riise,,3220,['Norway'],: Ablöse €6.36m,23,"Sep 24, 1980",Avaldsnes IL
+Right-Back,right,"Jul 1, 2003",Steve Finnan,"1,83m",4038,['Ireland'],Fulham FC,28,"Apr 24, 1976",Retired
+Right-Back,right,"Jul 1, 2002",Jon Otsemobor,"1,78m",3599,['England'],: Ablöse -,21,"Mar 23, 1983",Retired
+Defensive Midfield,right,"Jul 1, 2002",Salif Diao,"1,83m",3600,"['Senegal', 'France']",: Ablöse €7.50m,27,"Feb 10, 1977",Retired
+Defensive Midfield,,"Jul 17, 1999",Dietmar Hamann,,919,['Germany'],Newcastle United,30,"Aug 27, 1973",Retired
+Defensive Midfield,right,"Dec 8, 2000",Igor Biscan,"1,91m",3601,['Croatia'],GNK Dinamo Zagreb,26,"May 4, 1978",Retired
+Central Midfield,right,"Jul 1, 1997",Danny Murphy,"1,77m",3221,['England'],Crewe Alexandra,27,"Mar 18, 1977",Retired
+Central Midfield,right,"Aug 1, 1998",Steven Gerrard,"1,83m",3109,['England'],: Ablöse -,24,"May 30, 1980",Retired
+Central Midfield,left,"Jul 1, 2002",Bruno Cheyrou,"1,85m",3602,['France'],: Ablöse €6.50m,26,"May 10, 1978",Retired
+Central Midfield,right,"Jul 1, 2004",John Welsh,"1,70m",3313,['England'],: Ablöse -,20,"Jan 10, 1984",Retired
+Central Midfield,right,"Jul 1, 2003",Darren Potter,"1,85m",22231,"['Ireland', 'England']",: Ablöse -,19,"Dec 21, 1984",Retired
+Central Midfield,right,"Jul 1, 2002",Michael Foley-Sheridan,"1,77m",3607,['Ireland'],: Ablöse -,21,"Mar 9, 1983",Retired
+Right Midfield,both,"Jul 1, 2001",Richie Partridge,"1,73m",3606,['Ireland'],: Ablöse -,23,"Sep 12, 1980",Retired
+Attacking Midfield,right,"Jul 1, 1999",Vladimir Smicer,"1,80m",3217,['Czech Republic'],: Ablöse €6.80m,31,"May 24, 1973",Retired
+Left Winger,left,"Jul 1, 2003",Harry Kewell,"1,80m",3241,"['Australia', 'England']",Leeds United,25,"Sep 22, 1978",Retired
+Second Striker,right,"Jul 1, 2003",Florent Sinama-Pongolle,"1,76m",4216,"['France', 'Réunion']",: Ablöse €400k,19,"Oct 20, 1984",Retired
+Centre-Forward,right,"Jan 1, 2002",Milan Baros,"1,83m",3216,['Czech Republic'],FC Banik Ostrava,22,"Oct 28, 1981",FK Vigantice
+Centre-Forward,right,"Mar 10, 2000",Emile Heskey,"1,88m",3142,"['England', 'Antigua and Barbuda']",: Ablöse €16.50m,26,"Jan 11, 1978",Retired
+Centre-Forward,right,"Jul 1, 2002",El-Hadji Diouf,"1,80m",3604,"['Senegal', 'France']",: Ablöse €15.00m,23,"Jan 15, 1981",Retired
+Centre-Forward,both,"Jul 1, 1997",Michael Owen,"1,73m",1397,['England'],: Ablöse -,24,"Dec 14, 1979",Retired
+Centre-Forward,right,"Jul 1, 2002",Anthony Le Tallec,"1,85m",4217,['France'],: Ablöse €2.50m,19,"Oct 3, 1984",Retired
+Centre-Forward,right,"Jul 1, 2002",Neil Mellor,"1,84m",3605,['England'],: Ablöse -,21,"Nov 4, 1982",Retired

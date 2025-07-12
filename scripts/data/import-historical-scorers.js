@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-import { FootballDataClient } from '../agents/data/football-data-client.js'
+import { FootballDataClient } from '../../agents/data/football-data-client.js'
 import pg from 'pg'
 import chalk from 'chalk'
 import ora from 'ora'

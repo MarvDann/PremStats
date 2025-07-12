@@ -1,0 +1,29 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Nov 4, 1993",Tim Flowers,"1,90m",4249,['England'],Southampton FC,30,"Feb 3, 1967",Retired
+Goalkeeper,right,"Aug 8, 1994",Shay Given,"1,85m",3146,['Ireland'],Celtic FC,21,"Apr 20, 1976",Retired
+Centre-Back,right,"Dec 21, 1995",Chris Coleman,"1,88m",132125,"['Wales', 'Ireland']",: Ablöse €4.90m,27,"Jun 10, 1970",Retired
+Centre-Back,right,"Nov 8, 1991",Colin Hendry,"1,86m",103642,['Scotland'],: Ablöse €1.05m,31,"Dec 7, 1965",Retired
+Centre-Back,,"Sep 1, 1992",Nicky Marker,"1,86m",173498,['England'],Plymouth Argyle,32,"May 3, 1965",Retired
+Centre-Back,right,"Jul 1, 1993",Paul Warhurst,"1,83m",3307,['England'],: Ablöse €3.75m,27,"Sep 26, 1969",Retired
+Centre-Back,right,"Jul 1, 1993",Ian Pearce,"1,85m",3879,['England'],: Ablöse €450k,23,"May 7, 1974",Retired
+Centre-Back,left,"Jul 1, 1994",Marlon Broomes,"1,83m",13995,['England'],Blackburn Rovers U18,19,"Nov 28, 1977",Retired
+Left-Back,left,"Mar 25, 1993",Graeme Le Saux,"1,78m",3157,"['England', 'Jersey']",: Ablöse €1.05m,28,"Oct 17, 1968",Retired
+Left-Back,right,"Mar 1, 1996",Gary Croft,"1,75m",12692,['England'],Grimsby Town,23,"Feb 17, 1974",Retired
+Right-Back,right,"Mar 1, 1995",Jeff Kenna,"1,80m",3933,['Ireland'],Southampton FC,26,"Aug 27, 1970",Retired
+Right-Back,right,"Jul 1, 2000",Henning Berg,"1,83m",3823,"['Norway', 'Cyprus']",Manchester United,27,"Sep 1, 1969",Retired
+Central Midfield,,"Jul 1, 1992",Tim Sherwood,,4005,['England'],: Ablöse €750k,28,"Feb 6, 1969",Retired
+Central Midfield,right,"Oct 1, 1995",Lars Bohinen,"1,85m",102503,['Norway'],: Ablöse €770k,27,"Sep 8, 1969",Retired
+Central Midfield,right,"Jan 1, 1996",Garry Flitcroft,"1,80m",3706,['England'],: Ablöse €5.25m,24,"Nov 6, 1972",Retired
+Central Midfield,,"Jul 1, 1994",Wayne Gill,"1,78m",107194,['England'],Blackburn Rovers U18,21,"Nov 28, 1975",Retired
+Central Midfield,right,"Jul 1, 1997",Damien Johnson,"1,73m",3940,['Northern Ireland'],Blackburn Rovers U18,18,"Nov 18, 1978",Retired
+Right Midfield,both,"Jul 1, 1992",Stuart Ripley,"1,80m",107223,['England'],: Ablöse €2.00m,29,"Nov 20, 1967",Retired
+Right Midfield,right,"Jan 1, 1996",Billy McKinlay,"1,73m",9212,['Scotland'],: Ablöse free transfer,28,"Apr 22, 1969",Retired
+Right Midfield,left,"Jul 1, 1996",Damien Duff,"1,77m",3259,['Ireland'],Blackburn Rovers U18,18,"Mar 2, 1979",Retired
+Left Midfield,left,"Jul 1, 1989",Jason Wilcox,"1,80m",3320,['England'],Blackburn Rovers U18,25,"Jul 15, 1971",Retired
+Left Winger,,"Mar 1, 1996",Niklas Gudmundsson,"1,79m",173496,['Sweden'],Halmstads BK,25,"Feb 29, 1972",Retired
+Right Winger,right,"Mar 1, 1993",Kevin Gallacher,"1,74m",101134,['Scotland'],Coventry City,30,"Nov 23, 1966",Retired
+Right Winger,right,"Jul 1, 1996",Georgios Donis,"1,84m",107188,['Greece'],: Ablöse free transfer,27,"Oct 22, 1969",Retired
+Centre-Forward,,"Jul 1, 1994",Chris Sutton,,7453,['England'],: Ablöse €7.50m,24,"Mar 10, 1973",Retired
+Centre-Forward,right,"Nov 7, 1995",Graham Fenton,"1,78m",97931,['England'],: Ablöse €1.50m,23,"May 22, 1974",Retired
+Centre-Forward,,"Jan 1, 1997",Per Pedersen,,97263,['Denmark'],Odense Boldklub,28,"Mar 30, 1969",Retired
+Centre-Forward,right,"Jul 1, 1994",James Beattie,"1,85m",3112,['England'],Blackburn Rovers U18,19,"Feb 27, 1978",Retired

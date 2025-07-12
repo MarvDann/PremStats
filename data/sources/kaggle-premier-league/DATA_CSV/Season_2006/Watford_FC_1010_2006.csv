@@ -1,0 +1,44 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,"Jul 5, 2018",Ben Foster,"1,93m",13572,['England'],€3.00m,West Bromwich Albion,24,"Apr 3, 1983",Retired
+Goalkeeper,left,"Jul 1, 2002",Richard Lee,"1,83m",14040,['England'],€545k,Watford FC U18,24,"Oct 5, 1982",Retired
+Goalkeeper,,"Jul 10, 1996",Alec Chamberlain,"1,88m",14000,['England'],€50k,: Ablöse €60k,43,"Jun 20, 1964",Retired
+Goalkeeper,right,"Jul 1, 2006",Scott Loach,"1,85m",58647,['England'],,Watford FC U18,19,"May 27, 1988",Retired
+Centre-Back,right,"Aug 6, 2006",Danny Shittu,"1,91m",13736,['Nigeria'],€2.50m,: Ablöse €2.40m,26,"Sep 2, 1980",Retired
+Centre-Back,right,"Jul 30, 2004",Jay DeMerit,"1,80m",15926,['United States'],€1.20m,Northwood FC,27,"Dec 4, 1979",Retired
+Centre-Back,right,"Jul 1, 2001",Lloyd Doyley,"1,78m",14008,"['Jamaica', 'England']",€695k,Watford FC U18,24,"Dec 1, 1982",Retired
+Centre-Back,right,"Jul 1, 2005",Malky Mackay,"1,85m",11714,['Scotland'],€545k,: Ablöse free transfer,35,"Feb 19, 1972",Retired
+Centre-Back,right,"Jul 1, 2005",Clarke Carlisle,"1,85m",13717,['England'],€500k,Leeds United,27,"Oct 14, 1979",Retired
+Centre-Back,right,"Aug 30, 2016",Adrian Mariappa,"1,79m",38145,"['Jamaica', 'England']",€335k,Crystal Palace,20,"Oct 3, 1986",Wealdstone FC
+Centre-Back,right,"Jan 31, 2007",Cédric Avinel,"1,87m",44421,"['Guadeloupe', 'France']",,: Ablöse free transfer,20,"Sep 11, 1986",Retired
+Centre-Back,,"Jul 1, 2005",Ben Gill,"1,85m",66962,['England'],,Arsenal FC U18,19,"Oct 9, 1987",Retired
+Left-Back,both,"Jul 1, 2003",Ashley Young,"1,75m",14086,"['England', 'Jamaica']",€7.10m,Watford FC U18,21,"Jul 9, 1985",Everton FC
+Left-Back,left,"Jul 1, 2005",Jordan Stewart,"1,83m",9217,['England'],€620k,: Ablöse €150k,25,"Mar 3, 1982",Retired
+Left-Back,left,"Jul 1, 2006",Chris Powell,"1,78m",4100,"['England', 'Jamaica']",€350k,Charlton Athletic,37,"Sep 8, 1969",Retired
+Left-Back,right,"Jul 1, 2005",Junior Osborne,"1,80m",37453,['England'],€75k,Watford FC U18,19,"Feb 12, 1988",Retired
+Right-Back,right,"Aug 1, 2004",James Chambers,"1,78m",3676,['England'],€695k,: Ablöse €375k,26,"Nov 20, 1980",Retired
+Right-Back,,"Jul 1, 2006",Sheku Kamara,,282470,['England'],,Charlton Athletic U18,19,"Nov 15, 1987",Retired
+Defensive Midfield,right,"Jul 1, 2005",Toumani Diagouraga,"1,88m",37010,"['France', 'Mali']",€75k,Paris Saint-Germain U19,20,"Jun 9, 1987",Retired
+Central Midfield,right,"Jul 1, 2006",Damien Francis,"1,83m",11671,"['Jamaica', 'England']",€2.30m,Wigan Athletic,28,"Feb 27, 1979",Retired
+Central Midfield,right,"Jan 31, 2007",Gareth Williams,"1,86m",9997,['Scotland'],€1.00m,: Ablöse €1.25m,25,"Dec 16, 1981",Retired
+Central Midfield,right,"Mar 4, 2002",Gavin Mahon,"1,82m",13798,['England'],€630k,: Ablöse €225k,30,"Jan 2, 1977",Retired
+Central Midfield,right,"Jul 1, 2004",Al Bangura,"1,75m",36791,['Sierra Leone'],€480k,Freetown United FC,19,"Jan 24, 1988",Retired
+Central Midfield,right,"Aug 19, 2005",Matthew Spring,"1,83m",18873,['England'],€300k,Leeds United,27,"Nov 17, 1979",Retired
+Central Midfield,both,"Aug 1, 2007",Douglas Rinaldi,"1,83m",48644,['Brazil'],€300k,Veranópolis EC,27,"Aug 29, 1979",Retired
+Central Midfield,right,"Jul 1, 2004",Dominic Blizzard,"1,88m",15914,['England'],€50k,Watford FC U18,23,"Sep 2, 1983",Retired
+Central Midfield,right,,Jordan Parkes,"1,82m",67320,['England'],,,17,"Jul 26, 1989",Retired
+Central Midfield,right,"Jan 5, 2007",Lee Williamson,"1,78m",46902,"['Jamaica', 'England']",,Rotherham United,25,"Jun 7, 1982",Retired
+Right Midfield,right,"Jan 1, 2002",Anthony McNamee,"1,68m",14049,['England'],€560k,Watford FC U18,22,"Jul 13, 1984",Retired
+Right Midfield,,"Jul 1, 2007",Alex Campana,"1,80m",63471,['England'],,Watford FC U18,18,"Oct 11, 1988",Retired
+Left Midfield,left,"Jul 1, 2006",Albert Jarrett,"1,80m",14030,"['Sierra Leone', 'England']",€100k,: Ablöse free transfer,22,"Oct 23, 1984",Retired
+Attacking Midfield,left,"Jan 31, 2007",Johan Cavalli,"1,70m",44687,['France'],,: Ablöse free transfer,25,"Sep 12, 1981",Retired
+Left Winger,left,"Jul 1, 2006",Stephane Seanla,"1,83m",40325,"[""Cote d'Ivoire""]",€100k,Tottenham Hotspur U18,19,"Jun 2, 1988",Retired
+Right Winger,left,"Jul 1, 2003",Hamer Bouazza,"1,78m",36793,"['Algeria', 'France']",€840k,Watford FC U18,22,"Feb 22, 1985",Retired
+Right Winger,,"Jul 1, 2005",Joel Grant,"1,75m",37012,"['Jamaica', 'England']",€75k,Watford FC U18,19,"Aug 26, 1987",Retired
+Centre-Forward,right,"Jul 1, 2005",Marlon King,"1,85m",14037,"['Jamaica', 'England']",€2.50m,: Ablöse €650k,27,"Apr 26, 1980",Retired
+Centre-Forward,right,"Jul 1, 2006",Tamás Priskin,"1,89m",43716,['Hungary'],€1.50m,: Ablöse €1.50m,20,"Sep 27, 1986",FC Göstling/Ybbs
+Centre-Forward,,"Jul 1, 2005",Darius Henderson,"1,85m",15919,['England'],€1.25m,Gillingham FC,25,"Sep 7, 1981",Retired
+Centre-Forward,right,"Jan 1, 2007",Will Hoskins,"1,78m",15928,['England'],€890k,Rotherham United,21,"May 6, 1986",Without Club
+Centre-Forward,right,"Aug 20, 2006",Tommy Smith,"1,78m",12401,['England'],€870k,: Ablöse €725k,27,"May 22, 1980",Retired
+Centre-Forward,right,"Jan 26, 2007",Steve Kabba,"1,78m",13522,"['England', 'Sierra Leone']",€750k,Sheffield United,26,"Mar 7, 1981",Retired
+Centre-Forward,right,"Jan 1, 2007",Moses Ashikodi,"1,78m",3997,"['Antigua and Barbuda', 'England']",€140k,: Ablöse €100k,20,"Jun 27, 1987",Retired
+Centre-Forward,right,"Jul 1, 2006",Theo Robinson,"1,75m",39514,"['Jamaica', 'England']",€50k,Watford FC U18,18,"Jan 22, 1989",Bromsgrove Sporting

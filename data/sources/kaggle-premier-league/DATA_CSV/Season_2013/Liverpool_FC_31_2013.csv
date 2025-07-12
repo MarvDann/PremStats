@@ -1,0 +1,37 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 2013",Simon Mignolet,"1,93m",50219,['Belgium'],€12.00m,Sunderland AFC,26,"Mar 6, 1988",Club Brugge KV
+Goalkeeper,right,"Jul 4, 2005",Pepe Reina,"1,88m",7825,['Spain'],€10.00m,: Ablöse €9.80m,31,"Aug 31, 1982",Como 1907
+Goalkeeper,left,"Jul 1, 2010",Brad Jones,"1,94m",4042,"['Australia', 'England']",€1.50m,Middlesbrough FC,32,"Mar 19, 1982",Retired
+Goalkeeper,right,"Jan 30, 2012",Danny Ward,"1,91m",203026,['Wales'],,Wrexham AFC,21,"Jun 22, 1993",Leicester City
+Centre-Back,left,"Sep 2, 2013",Mamadou Sakho,"1,87m",47713,"['France', 'Senegal']",€19.00m,: Ablöse €19.00m,24,"Feb 13, 1990",Torpedo Kutaisi
+Centre-Back,left,"Jan 1, 2006",Daniel Agger,"1,91m",22832,['Denmark'],€17.00m,Bröndby IF,29,"Dec 12, 1984",Retired
+Centre-Back,right,"Jan 11, 2008",Martin Skrtel,"1,91m",24180,['Slovakia'],€14.00m,: Ablöse €10.00m,29,"Dec 15, 1984",Hajskala Raztocno
+Centre-Back,left,"Aug 20, 2013",Aly Cissokho,"1,87m",57515,"['France', 'Senegal']",€6.00m,Valencia CF,26,"Sep 15, 1987",Muangthong United
+Centre-Back,right,"Sep 1, 2013",Tiago Ilori,"1,90m",177859,"['Portugal', 'England']",€4.00m,Sporting CP,21,"Feb 26, 1993",Without Club
+Centre-Back,right,"Jul 1, 2013",Kolo Touré,"1,78m",3202,"[""Cote d'Ivoire"", 'England']",€4.00m,: Ablöse free transfer,33,"Mar 19, 1981",Retired
+Centre-Back,right,"Aug 31, 2011",Sebastián Coates,"1,96m",102427,"['Uruguay', 'Spain']",€2.50m,Club Nacional,23,"Oct 7, 1990",Club Nacional
+Centre-Back,right,,Stephen Sama,"1,89m",86204,"['Germany', 'Cameroon']",,,21,"Mar 5, 1993",Without Club
+Left-Back,left,"Aug 11, 2011",José Enrique,"1,84m",35571,['Spain'],€12.00m,Newcastle United,28,"Jan 23, 1986",Retired
+Left-Back,left,"Jan 1, 2016",Brad Smith,"1,77m",175745,"['Australia', 'England']",,: Ablöse -,20,"Apr 9, 1994",Houston Dynamo FC
+Right-Back,both,"Jul 1, 2009",Glen Johnson,"1,82m",3881,['England'],€12.00m,: Ablöse €20.50m,29,"Aug 23, 1984",Retired
+Right-Back,right,"Jul 1, 2008",Martin Kelly,"1,91m",78959,['England'],€5.00m,: Ablöse -,24,"Apr 27, 1990",Without Club
+Right-Back,right,"Jul 1, 2011",Andre Wisdom,"1,86m",128912,"['England', 'Jamaica']",€2.50m,: Ablöse -,21,"May 9, 1993",Derry City
+Right-Back,right,"Jan 1, 2011",Jon Flanagan,"1,81m",145922,"['England', 'Ireland']",€1.00m,: Ablöse -,21,"Jan 1, 1993",Retired
+Defensive Midfield,right,"Jul 1, 2007",Lucas Leiva,"1,79m",41414,"['Brazil', 'Italy']",€17.00m,Grêmio Foot-Ball Porto Alegrense,27,"Jan 9, 1987",Retired
+Defensive Midfield,right,,Jordan Rossiter,"1,78m",258924,['England'],,,17,"Mar 24, 1997",Shrewsbury Town
+Central Midfield,right,"Jul 1, 2011",Jordan Henderson,"1,82m",61651,['England'],€15.00m,Sunderland AFC,24,"Jun 17, 1990",Ajax Amsterdam
+Central Midfield,right,"Aug 10, 2012",Joe Allen,"1,70m",51452,['Wales'],€14.00m,: Ablöse €19.00m,24,"Mar 14, 1990",Swansea City
+Central Midfield,right,"Aug 1, 1998",Steven Gerrard,"1,83m",3109,['England'],€7.50m,: Ablöse -,34,"May 30, 1980",Retired
+Central Midfield,right,,Cameron Brannagan,"1,80m",261357,['England'],,,18,"May 9, 1996",Oxford United
+Attacking Midfield,right,"Jan 30, 2013",Philippe Coutinho,"1,72m",80444,"['Brazil', 'Portugal']",€16.00m,: Ablöse €13.00m,22,"Jun 12, 1992",Clube de Regatas Vasco da Gama
+Attacking Midfield,right,"Jul 1, 2013",Luis Alberto,"1,83m",128220,['Spain'],€6.00m,Sevilla FC,21,"Sep 28, 1992",Al-Duhail SC
+Attacking Midfield,right,"Jul 1, 2013",Krisztián Adorján,"1,84m",143219,['Hungary'],€750k,: Ablöse -,21,"Jan 19, 1993",Retired
+Attacking Midfield,right,,João Carlos Teixeira,"1,77m",132214,['Portugal'],,,21,"Jan 18, 1993",Shanghai Shenhua
+Left Winger,right,"Jul 1, 2012",Raheem Sterling,"1,70m",134425,"['England', 'Jamaica']",€13.00m,: Ablöse -,19,"Dec 8, 1994",Arsenal FC
+Left Winger,right,"Jul 13, 2012",Fabio Borini,"1,80m",96754,['Italy'],€8.50m,: Ablöse €13.30m,23,"Mar 29, 1991",UC Sampdoria
+Right Winger,right,"Sep 2, 2013",Victor Moses,"1,77m",59866,"['Nigeria', 'England']",€11.00m,Chelsea FC,23,"Dec 12, 1990",Luton Town
+Right Winger,left,"Jul 1, 2012",Suso,"1,77m",111961,['Spain'],€5.00m,: Ablöse -,20,"Nov 19, 1993",Sevilla FC
+Right Winger,right,"Jul 1, 2013",Jordon Ibe,"1,76m",195652,"['England', 'Nigeria']",€500k,: Ablöse -,18,"Dec 8, 1995",Hayes & Yeading FC
+Centre-Forward,right,"Jan 31, 2011",Luis Suárez,"1,82m",44352,['Uruguay'],€52.00m,: Ablöse €26.50m,27,"Jan 24, 1987",Inter Miami CF
+Centre-Forward,left,"Jan 2, 2013",Daniel Sturridge,"1,82m",47082,['England'],€20.00m,Chelsea FC,24,"Sep 1, 1989",Retired
+Centre-Forward,left,"Jul 1, 2013",Iago Aspas,"1,76m",72047,['Spain'],€7.00m,Celta de Vigo,26,"Aug 1, 1987",Celta de Vigo

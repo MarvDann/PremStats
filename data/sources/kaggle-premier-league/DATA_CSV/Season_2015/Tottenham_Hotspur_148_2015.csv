@@ -1,0 +1,32 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,,"Aug 31, 2012",Hugo Lloris,"1,88m",17965,['France'],€24.00m,,: Ablöse €12.60m,29,"Dec 26, 1986",Los Angeles FC
+Goalkeeper,right,,"Oct 14, 2019",Michel Vorm,"1,83m",26276,"['Netherlands', 'Suriname']",€5.00m,,Without Club,32,"Oct 20, 1983",Retired
+Goalkeeper,right,,,Luke McGee,"1,93m",183301,['England'],,,,20,"Sep 2, 1995",Tranmere Rovers
+Centre-Back,right,,"Jul 8, 2015",Toby Alderweireld,"1,87m",42710,['Belgium'],€27.00m,,: Ablöse €16.00m,27,"Mar 2, 1989",Royal Antwerp FC
+Centre-Back,left,Achilles tendon problems - Return unknown,"Jul 12, 2012",Jan Vertonghen,"1,89m",43250,['Belgium'],€23.00m,,: Ablöse €12.50m,29,"Apr 24, 1987",RSC Anderlecht
+Centre-Back,right,,"Jul 31, 2014",Eric Dier,"1,91m",175722,"['England', 'Portugal']",€18.00m,"Returned after loan spell with Bayern Munich; date: Jun 30, 2024; fee: End of loan",Sporting CP,22,"Jan 15, 1994",Bayern Munich
+Centre-Back,right,,"Aug 26, 2014",Federico Fazio,"1,95m",45314,"['Argentina', 'Italy']",€8.00m,,Sevilla FC,29,"Mar 17, 1987",Without Club
+Centre-Back,left,,"Jul 23, 2014",Ben Davies,"1,81m",192765,['Wales'],€8.00m,,: Ablöse €12.65m,23,"Apr 24, 1993",Tottenham Hotspur
+Centre-Back,left,,"Jul 1, 2015",Kevin Wimmer,"1,87m",122675,['Austria'],€7.00m,,1.FC Köln,23,"Nov 15, 1992",Slovan Bratislava
+Centre-Back,right,,"Jul 1, 2016",Cameron Carter-Vickers,"1,83m",341049,"['United States', 'England']",,,Tottenham Hotspur U23,18,"Dec 31, 1997",Celtic FC
+Left-Back,left,,"Jul 25, 2007",Danny Rose,"1,73m",50174,"['England', 'Jamaica']",€14.00m,,Leeds United U18,25,"Jul 2, 1990",Retired
+Right-Back,right,,"Jul 22, 2009",Kyle Walker,"1,78m",95424,['England'],€15.00m,,Sheffield United,26,"May 28, 1990",Manchester City
+Right-Back,right,Hamstring injury - Return unknown,"Jul 1, 2015",Kieran Trippier,"1,73m",95810,['England'],€6.00m,,: Ablöse €4.90m,25,"Sep 19, 1990",Newcastle United
+Right-Back,right,,"Aug 13, 2014",DeAndre Yedlin,"1,73m",255916,"['United States', 'Latvia']",€1.50m,,: Ablöse €2.60m,22,"Jul 9, 1993",FC Cincinnati
+Right-Back,right,,"Jul 1, 2017",Kyle Walker-Peters,"1,73m",341051,"['England', 'Jamaica']",,,Tottenham Hotspur U23,19,"Apr 13, 1997",Southampton FC
+Defensive Midfield,left,heart problems - Return unknown,"Jan 1, 2014",Nabil Bentaleb,"1,87m",245537,"['Algeria', 'France']",€10.00m,,Tottenham Hotspur U21,21,"Nov 24, 1994",LOSC Lille
+Defensive Midfield,right,,"Jul 1, 2016",Harry Winks,"1,78m",249126,['England'],,,Tottenham Hotspur U23,20,"Feb 2, 1996",Leicester City
+Central Midfield,right,,"Aug 30, 2013",Christian Eriksen,"1,82m",69633,['Denmark'],€29.00m,,: Ablöse €14.15m,24,"Feb 14, 1992",Manchester United
+Central Midfield,left,,"Aug 29, 2012",Mousa Dembélé,"1,85m",19368,"['Belgium', 'Mali']",€18.00m,,Fulham FC,28,"Jul 16, 1987",Retired
+Central Midfield,right,,"Jul 1, 2009",Ryan Mason,"1,75m",61834,['England'],€7.50m,,Tottenham Hotspur U18,25,"Jun 13, 1991",Retired
+Central Midfield,left,,"Jul 1, 2010",Tom Carroll,"1,77m",121279,['England'],€5.00m,,Tottenham Hotspur U18,24,"May 28, 1992",Milton Keynes Dons
+Central Midfield,right,,"Jul 1, 2015",Josh Onomah,"1,85m",243589,"['England', 'Nigeria']",€1.50m,,Tottenham Hotspur U18,19,"Apr 27, 1997",Blackpool FC
+Right Midfield,right,,,Grant Ward,"1,78m",283655,['England'],€350k,,,21,"Dec 5, 1994",Bristol Rovers
+Attacking Midfield,right,,"Feb 2, 2015",Dele Alli,"1,88m",207929,"['England', 'Nigeria']",€20.00m,,Milton Keynes Dons,20,"Apr 11, 1996",Without Club
+Attacking Midfield,right,Torn thigh muscle - Return unknown,"Jul 1, 2011",Alex Pritchard,"1,68m",200777,['England'],€3.00m,,Tottenham Hotspur U18,23,"May 3, 1993",Sivasspor
+Left Winger,both,Team captain,"Aug 28, 2015",Heung-min Son,"1,84m",91845,"['Korea, South']",€25.00m,,Bayer 04 Leverkusen,23,"Jul 8, 1992",Tottenham Hotspur
+Left Winger,right,,"Jul 26, 2013",Nacer Chadli,"1,87m",59631,"['Belgium', 'Morocco']",€13.00m,,Twente Enschede FC,26,"Aug 2, 1989",Without Club
+Right Winger,left,,"Aug 30, 2013",Erik Lamela,"1,84m",111630,"['Argentina', 'Spain']",€24.00m,,: Ablöse €30.00m,24,"Mar 4, 1992",AEK Athens
+Right Winger,right,,"Aug 15, 2015",Clinton N'Jie,"1,75m",241119,['Cameroon'],€10.00m,,: Ablöse €14.10m,22,"Aug 15, 1993",FC Rapid 1923
+Right Winger,left,,"Jul 1, 2011",Andros Townsend,"1,81m",61842,['England'],€9.00m,,Tottenham Hotspur Reserves,24,"Jul 16, 1991",Antalyaspor
+Centre-Forward,right,,"Jul 1, 2010",Harry Kane,"1,88m",132098,['England'],€40.00m,,Tottenham Hotspur U18,22,"Jul 28, 1993",Bayern Munich

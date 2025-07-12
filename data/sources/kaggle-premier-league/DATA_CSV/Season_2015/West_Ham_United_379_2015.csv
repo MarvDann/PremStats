@@ -1,0 +1,51 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2013",Adrián,"1,90m",71271,['Spain'],€7.00m,Real Betis Balompié,29,"Jan 3, 1987",Real Betis Balompié
+Goalkeeper,right,,"Jan 15, 2020",Darren Randolph,"1,87m",51321,"['Ireland', 'United States']",€1.00m,Middlesbrough FC,29,"May 12, 1987",Retired
+Goalkeeper,right,,"Jul 23, 2012",Raphael Spiegel,"1,97m",111428,['Switzerland'],€500k,: Ablöse €400k,23,"Dec 19, 1992",Without Club
+Goalkeeper,right,,,Sam Howes,"1,90m",258023,['England'],,,18,"Nov 10, 1997",Wealdstone FC
+Centre-Back,right,,"Aug 5, 2010",Winston Reid,"1,91m",37526,"['New Zealand', 'Denmark']",€9.00m,FC Midtjylland,27,"Jul 3, 1988",Retired
+Centre-Back,left,,"Jul 10, 2015",Angelo Ogbonna,"1,91m",48002,"['Italy', 'Nigeria']",€9.00m,: Ablöse €11.00m,28,"May 23, 1988",Watford FC
+Centre-Back,right,,"Jul 1, 2007",James Tomkins,"1,92m",61592,['England'],€6.00m,: Ablöse -,27,"Mar 29, 1989",Without Club
+Centre-Back,right,,"Aug 1, 2012",James Collins,"1,88m",12691,['Wales'],€2.00m,: Ablöse €3.20m,32,"Aug 23, 1983",Retired
+Centre-Back,right,Fitness - Return unknown,"Jul 1, 2015",Reece Oxford,"1,90m",314295,"['England', 'Jamaica']",€1.50m,: Ablöse -,17,"Dec 16, 1998",FC Augsburg
+Centre-Back,right,,"Oct 1, 2014",Reece Burke,"1,89m",264220,['England'],€1.00m,: Ablöse -,19,"Sep 2, 1996",Luton Town
+Centre-Back,right,,"Jan 3, 2015",Doneil Henry,"1,88m",157907,"['Canada', 'Jamaica']",€500k,: Ablöse €1.90m,23,"Apr 20, 1993",Without Club
+Centre-Back,right,,,Leo Chambers,"1,86m",183281,"['England', 'Jamaica']",€250k,,20,"Aug 5, 1995",Retired
+Centre-Back,right,,,Josh Pask,"1,87m",339789,['England'],,,18,"Nov 1, 1997",The New Saints
+Left-Back,left,,"Jul 3, 2014",Aaron Cresswell,"1,70m",92571,['England'],€10.00m,Ipswich Town,26,"Dec 15, 1989",West Ham United
+Left-Back,left,,"Jul 1, 2015",Stephen Hendrie,"1,78m",186269,['Scotland'],€1.00m,Hamilton Academical FC,21,"Jan 8, 1995",Hamilton Academical FC
+Left-Back,left,,,Nathan Mavila,"1,77m",242646,"['England', 'DR Congo']",,,20,"Oct 15, 1995",Without Club
+Left-Back,left,,,Lewis Page,"1,78m",242652,['England'],,,20,"May 20, 1996",Ebbsfleet United
+Right-Back,right,,"Jul 31, 2014",Carl Jenkinson,"1,85m",126321,"['England', 'Finland']",€9.00m,Arsenal FC,24,"Feb 8, 1992",Bromley FC
+Right-Back,right,,"Jan 20, 2016",Sam Byram,"1,83m",236953,['England'],€4.50m,Leeds United,22,"Sep 16, 1993",Leeds United
+Right-Back,right,,"Jul 30, 2011",Joey O'Brien,"1,80m",34672,['Ireland'],€1.50m,: Ablöse free transfer,30,"Feb 17, 1986",Retired
+Right-Back,right,,"Jul 1, 2015",Sam Westley,"1,82m",258311,['England'],€25k,: Ablöse -,22,"Feb 4, 1994",Retired
+Right-Back,right,,,Kyle Knoyle,"1,73m",291171,['England'],,,19,"Sep 24, 1996",Stockport County
+Right-Back,right,,,Alex Pike,"1,80m",345960,['England'],,,19,"Feb 8, 1997",Retired
+Defensive Midfield,right,,"Jul 1, 2014",Cheikhou Kouyaté,"1,89m",66934,"['Senegal', 'Belgium']",€11.00m,: Ablöse €7.50m,26,"Dec 21, 1989",Without Club
+Defensive Midfield,right,,"Aug 31, 2015",Alex Song,"1,85m",27394,"['Cameroon', 'France']",€10.00m,FC Barcelona,28,"Sep 9, 1987",Retired
+Defensive Midfield,right,,,Amos Nasha,"1,78m",242648,['England'],,,20,"Sep 4, 1995",Rayners Lane FC
+Defensive Midfield,right,,,George Dobson,"1,85m",292734,['England'],,,18,"Nov 15, 1997",Wrexham AFC
+Defensive Midfield,right,,"Jul 1, 2015",Josh Cullen,"1,75m",242606,"['Ireland', 'England']",,: Ablöse -,20,"Apr 7, 1996",Burnley FC
+Central Midfield,right,,"Jul 1, 2015",Pedro Obiang,"1,86m",101213,"['Equatorial Guinea', 'Spain']",€8.00m,UC Sampdoria,24,"Mar 27, 1992",US Sassuolo
+Central Midfield,right,,"Jan 1, 2005",Mark Noble,"1,80m",31835,"['England', 'Ireland']",€7.00m,: Ablöse -,29,"May 8, 1987",Retired
+Central Midfield,right,,"Jul 8, 2014",Diego Poyet,"1,80m",183286,"['Uruguay', 'Spain']",€750k,Charlton Athletic,21,"Apr 8, 1995",Retired
+Right Midfield,right,,"Sep 1, 2014",Morgan Amalfitano,"1,78m",39883,['France'],€2.50m,Olympique Marseille,31,"Mar 20, 1985",Retired
+Attacking Midfield,right,muscular problems - Return unknown,"Jul 1, 2015",Dimitri Payet,"1,75m",37647,"['France', 'Réunion']",€23.00m,Olympique Marseille,29,"Mar 29, 1987",Clube de Regatas Vasco da Gama
+Attacking Midfield,right,,"Jul 1, 2016",Manuel Lanzini,"1,70m",135853,"['Argentina', 'Italy']",€9.00m,Al-Jazira Club,23,"Feb 15, 1993",CA River Plate
+Attacking Midfield,right,,"Jul 1, 2011",Kevin Nolan,"1,83m",3950,['England'],€2.00m,Newcastle United,34,"Jun 24, 1982",Retired
+Attacking Midfield,right,,,Marcus Browne,"1,78m",391470,['England'],,,18,"Dec 18, 1997",Without Club
+Attacking Midfield,right,,,Elliot Lee,"1,80m",229826,['England'],,,21,"Dec 16, 1994",Wrexham AFC
+Left Winger,,,"Aug 24, 2012",Matt Jarvis,"1,73m",15921,['England'],€3.00m,Wolverhampton Wanderers,30,"May 22, 1986",Retired
+Left Winger,right,,,Martin Samuelsen,"1,89m",234807,['Norway'],€100k,,19,"Apr 17, 1997",FK Haugesund
+Left Winger,right,,"Jul 1, 2015",Djair Parfitt,"1,72m",345961,"['Bermuda', 'England']",,: Ablöse -,19,"Oct 1, 1996",Glentoran FC
+Right Winger,right,,"Sep 1, 2015",Victor Moses,"1,77m",59866,"['Nigeria', 'England']",€7.50m,Chelsea FC,25,"Dec 12, 1990",Luton Town
+Centre-Forward,right,,"Jul 17, 2014",Enner Valencia,"1,78m",139503,['Ecuador'],€11.00m,: Ablöse €15.00m,26,"Nov 4, 1989",Sport Club Internacional
+Centre-Forward,left,,"Jul 1, 2013",Andy Carroll,"1,94m",48066,['England'],€10.00m,: Ablöse €17.50m,27,"Jan 6, 1989",FC Girondins Bordeaux
+Centre-Forward,right,,"Aug 14, 2014",Diafra Sakho,"1,83m",120610,"['Senegal', 'France']",€10.00m,: Ablöse €5.00m,26,"Dec 24, 1989",Retired
+Centre-Forward,right,,"Jan 31, 2016",Emmanuel Emenike,"1,82m",120630,['Nigeria'],€10.00m,Fenerbahce,29,"May 10, 1987",Retired
+Centre-Forward,right,,"Sep 1, 2015",Michail Antonio,"1,80m",104124,"['Jamaica', 'England']",€7.00m,: Ablöse €9.50m,26,"Mar 28, 1990",West Ham United
+Centre-Forward,right,,"Jul 1, 2014",Mauro Zárate,"1,75m",26456,"['Argentina', 'Chile']",€2.50m,: Ablöse ?,29,"Mar 18, 1987",Without Club
+Centre-Forward,left,,"Jul 18, 2012",Modibo Maïga,"1,85m",46831,['Mali'],€2.00m,: Ablöse €6.00m,28,"Sep 3, 1987",Without Club
+Centre-Forward,both,,"Sep 1, 2015",Nikica Jelavic,"1,88m",25742,['Croatia'],€1.20m,: Ablöse €4.10m,30,"Aug 27, 1985",Retired
+Centre-Forward,right,,,Jordan Brown,"1,85m",242603,"['Barbados', 'England']",,,19,"Nov 10, 1996",Without Club

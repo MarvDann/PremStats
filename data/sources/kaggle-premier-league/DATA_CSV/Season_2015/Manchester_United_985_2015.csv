@@ -1,0 +1,45 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2011",David de Gea,"1,92m",59377,['Spain'],€40.00m,: Ablöse €25.00m,25,"Nov 7, 1990",ACF Fiorentina
+Goalkeeper,right,,"Jul 27, 2015",Sergio Romero,"1,92m",30690,"['Argentina', 'Italy']",€5.00m,UC Sampdoria,29,"Feb 22, 1987",CA Boca Juniors
+Goalkeeper,right,,"Jan 8, 2015",Víctor Valdés,"1,83m",7589,['Spain'],€3.50m,Without Club,34,"Jan 14, 1982",Retired
+Goalkeeper,right,,"Jul 1, 2011",Sam Johnstone,"1,93m",110864,['England'],€250k,Manchester United U18,23,"Mar 25, 1993",Wolverhampton Wanderers
+Goalkeeper,right,,"Jul 1, 2017",Joel Pereira,"1,89m",192611,"['Portugal', 'Switzerland']",,Manchester United U23,20,"Jun 28, 1996",Reading FC
+Goalkeeper,right,,"Aug 1, 2020",Dean Henderson,"1,88m",258919,['England'],,Manchester United U23,19,"Mar 12, 1997",Crystal Palace
+Centre-Back,right,,"Jul 1, 2010",Chris Smalling,"1,94m",103427,"['England', 'Jamaica']",€20.00m,Fulham FC,26,"Nov 22, 1989",Al-Fayha FC
+Centre-Back,left,,"Sep 1, 2014",Daley Blind,"1,80m",12282,"['Netherlands', 'England']",€19.00m,Ajax Amsterdam,26,"Mar 9, 1990",Girona FC
+Centre-Back,left,,"Aug 20, 2014",Marcos Rojo,"1,86m",93176,['Argentina'],€18.00m,Sporting CP,26,"Mar 20, 1990",CA Boca Juniors
+Centre-Back,right,,"Jul 1, 2011",Phil Jones,"1,85m",117996,['England'],€15.00m,Blackburn Rovers,24,"Feb 21, 1992",Retired
+Centre-Back,right,,"Jul 1, 2014",Paddy McNair,"1,89m",167268,['Northern Ireland'],€4.50m,Manchester United U21,21,"Apr 27, 1995",West Bromwich Albion
+Centre-Back,right,,,Ro-Shaun Williams,"1,84m",314388,"['Grenada', 'England']",,,17,"Sep 3, 1998",Without Club
+Centre-Back,right,,,Regan Poole,"1,80m",340194,['Wales'],,,18,"Jun 18, 1998",Portsmouth FC
+Centre-Back,right,Thumb injury - Return unknown,"Jan 1, 2017",Axel Tuanzebe,"1,85m",342046,"['DR Congo', 'England']",,Manchester United U18,18,"Nov 14, 1997",Ipswich Town
+Left-Back,left,,"Jul 1, 2014",Luke Shaw,"1,78m",183288,['England'],€21.00m,Southampton FC,20,"Jul 12, 1995",Manchester United
+Left-Back,both,,"Jul 1, 2011",Ashley Young,"1,75m",14086,"['England', 'Jamaica']",€10.00m,: Ablöse €18.00m,30,"Jul 9, 1985",Everton FC
+Left-Back,left,,"Jul 1, 2018",Cameron Borthwick-Jackson,"1,90m",258879,['England'],€1.50m,Manchester United U23,19,"Feb 2, 1997",Without Club
+Left-Back,left,,"Jul 1, 2014",Tyler Blackett,"1,83m",134414,"['England', 'Barbados']",€1.00m,Manchester United U21,22,"Apr 2, 1994",Without Club
+Right-Back,right,,"Jul 11, 2015",Matteo Darmian,"1,83m",54906,['Italy'],€15.00m,Torino FC,26,"Dec 2, 1989",Inter Milan
+Right-Back,right,,"Jul 1, 2009",Antonio Valencia,"1,80m",33544,['Ecuador'],€8.00m,Wigan Athletic,30,"Aug 4, 1985",Retired
+Right-Back,right,,"Jul 1, 2015",Guillermo Varela,"1,73m",188862,"['Uruguay', 'Italy']",€500k,Manchester United U21,23,"Mar 24, 1993",CR Flamengo
+Right-Back,right,,,Donald Love,"1,78m",179451,"['Scotland', 'England']",,,21,"Dec 2, 1994",Accrington Stanley
+Right-Back,right,,,Joe Riley,"1,76m",387036,['England'],,,19,"Dec 6, 1996",AFC Fylde
+Right-Back,right,,"Jan 1, 2016",Timothy Fosu-Mensah,"1,85m",315131,"['Netherlands', 'Ghana']",,Manchester United U18,18,"Jan 2, 1998",Without Club
+Defensive Midfield,right,,"Jul 13, 2015",Morgan Schneiderlin,"1,86m",56818,['France'],€30.00m,Southampton FC,26,"Nov 8, 1989",Retired
+Defensive Midfield,right,,"Jul 31, 2006",Michael Carrick,"1,89m",3878,['England'],€4.00m,Tottenham Hotspur,34,"Jul 28, 1981",Retired
+Central Midfield,right,,"Jul 1, 2014",Ander Herrera,"1,82m",99343,['Spain'],€28.00m,Athletic Bilbao,26,"Aug 14, 1989",Athletic Bilbao
+Central Midfield,right,,"Sep 2, 2013",Marouane Fellaini,"1,94m",39679,"['Belgium', 'Morocco']",€15.00m,: Ablöse €32.40m,28,"Nov 22, 1987",Retired
+Central Midfield,,,"Jul 13, 2015",Bastian Schweinsteiger,,2514,['Germany'],€12.00m,: Ablöse €9.00m,31,"Aug 1, 1984",Retired
+Central Midfield,right,,,Joe Rothwell,"1,85m",183293,['England'],€100k,,21,"Jan 11, 1995",Leeds United
+Central Midfield,right,,,James Weir,"1,77m",251058,['England'],,,20,"Aug 4, 1995",Retired
+Central Midfield,left,,,Sean Goss,"1,91m",289843,"['Northern Ireland', 'England']",,,20,"Oct 1, 1995",Asteras Aktor
+Attacking Midfield,left,,"Jan 24, 2014",Juan Mata,"1,70m",44068,['Spain'],€34.00m,Chelsea FC,28,"Apr 28, 1988",Western Sydney Wanderers
+Attacking Midfield,right,,"Jul 1, 2014",Jesse Lingard,"1,74m",141660,['England'],€5.00m,Manchester United U21,23,"Dec 15, 1992",FC Seoul
+Attacking Midfield,right,,"Jul 1, 2015",Andreas Pereira,"1,78m",203394,"['Brazil', 'Belgium']",€2.00m,Manchester United U21,20,"Jan 1, 1996",Fulham FC
+Attacking Midfield,both,,"Jul 1, 2012",Nick Powell,"1,83m",134424,['England'],€1.50m,Crewe Alexandra,22,"Mar 23, 1994",Stockport County
+Left Winger,right,,"Jan 1, 2016",Marcus Rashford,"1,85m",258923,"['England', 'St. Kitts & Nevis']",€6.00m,Manchester United U18,18,"Oct 31, 1997",Manchester United
+Right Winger,left,,"Jul 1, 2013",Adnan Januzaj,"1,86m",177847,"['Belgium', 'Kosovo']",€7.00m,Manchester United U21,21,"Feb 5, 1995",UD Las Palmas
+Centre-Forward,right,,"Aug 31, 2004",Wayne Rooney,"1,76m",3332,['England'],€35.00m,: Ablöse €37.00m,30,"Oct 24, 1985",Retired
+Centre-Forward,right,,"Sep 1, 2015",Anthony Martial,"1,81m",182877,"['France', 'Guadeloupe']",€32.00m,: Ablöse €60.00m,20,"Dec 5, 1995",AEK Athens
+Centre-Forward,right,,"Jul 1, 2015",Memphis Depay,"1,78m",167850,"['Netherlands', 'Ghana']",€25.00m,: Ablöse €34.00m,22,"Feb 13, 1994",Sport Club Corinthians Paulista
+Centre-Forward,right,,"Jul 1, 2010",Chicharito,"1,75m",50935,['Mexico'],€18.00m,Deportivo Guadalajara,28,"Jun 1, 1988",Deportivo Guadalajara
+Centre-Forward,left,,"Jul 1, 2014",James Wilson,"1,83m",214104,['England'],€2.00m,Manchester United U18,20,"Dec 1, 1995",Northampton Town
+Centre-Forward,right,,"Jul 1, 2013",Will Keane,"1,88m",118535,"['Ireland', 'England']",€1.00m,Manchester United U21,23,"Jan 11, 1993",Preston North End

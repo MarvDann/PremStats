@@ -1,0 +1,37 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Aug 7, 2011",Michel Vorm,"1,83m",26276,"['Netherlands', 'Suriname']",€7.00m,: Ablöse €1.70m,30,"Oct 20, 1983",Retired
+Goalkeeper,,,"Aug 1, 2011",Gerhard Tremmel,,488,['Germany'],€1.00m,: Ablöse free transfer,35,"Nov 16, 1978",Retired
+Goalkeeper,right,,"Jul 1, 2009",David Cornell,"1,86m",89648,['Wales'],€100k,Swansea City U18,23,"Mar 28, 1991",Preston North End
+Goalkeeper,right,,,Gregor Zabret,"1,87m",183837,['Slovenia'],€75k,,18,"Aug 18, 1995",Widnes FC
+Centre-Back,right,,"Jul 1, 2008",Ashley Williams,"1,83m",67355,"['Wales', 'England']",€8.00m,: Ablöse €500k,29,"Aug 23, 1984",Retired
+Centre-Back,right,,"Jul 10, 2012",Chico Flores,"1,87m",51681,['Spain'],€6.50m,: Ablöse €2.50m,27,"Mar 6, 1987",Retired
+Centre-Back,left,,"Jul 1, 2012",Ben Davies,"1,81m",192765,['Wales'],€5.50m,Swansea City U21,21,"Apr 24, 1993",Tottenham Hotspur
+Centre-Back,right,Ankle injury - Return unknown,"Jul 1, 2013",Jordi Amat,"1,85m",85289,"['Indonesia', 'Spain']",€3.00m,RCD Espanyol Barcelona,22,"Mar 21, 1992",Johor Darul Ta'zim
+Centre-Back,right,,"Aug 17, 2012",Kyle Bartley,"1,94m",67421,"['England', 'Jamaica']",€1.00m,Arsenal FC U21,23,"May 22, 1991",West Bromwich Albion
+Centre-Back,right,,"Feb 6, 2004",Alan Tate,"1,85m",7337,['England'],€1.00m,Manchester United,31,"Sep 2, 1982",Retired
+Centre-Back,right,,"Jul 1, 2004",Garry Monk,"1,83m",4111,['England'],,Barnsley FC,35,"Mar 6, 1979",Retired
+Left-Back,left,,"Jul 1, 2010",Neil Taylor,"1,76m",67416,"['Wales', 'India']",€3.50m,Wrexham AFC,25,"Feb 7, 1989",Retired
+Right-Back,right,,"Jul 1, 2007",Ángel Rangel,"1,88m",66550,['Spain'],€3.00m,Terrassa FC,31,"Nov 28, 1982",Retired
+Right-Back,right,,"Sep 10, 2012",Dwight Tiendalli,"1,76m",29356,"['Netherlands', 'Suriname']",€2.00m,Without Club,28,"Oct 21, 1985",Retired
+Right-Back,right,,"Jul 1, 2009",Jazz Richards,"1,74m",120241,['Wales'],€750k,Swansea City U18,23,"Apr 12, 1991",Retired
+Right-Back,right,,"Jul 1, 2010",Daniel Alfei,"1,80m",130216,['Wales'],,Swansea City U18,22,"Feb 23, 1992",Trefelin Boys & Girls Club
+Defensive Midfield,right,surgery - Return unknown,"Jul 10, 2012",Jonathan de Guzmán,"1,73m",31067,"['Netherlands', 'Canada']",€9.00m,Villarreal CF,26,"Sep 13, 1987",Sparta Rotterdam
+Defensive Midfield,right,,"Aug 24, 2012",Sung-yueng Ki,"1,89m",81796,"['Korea, South']",€6.50m,Celtic FC,25,"Jan 24, 1989",FC Seoul
+Defensive Midfield,right,,"Jul 1, 2013",José Alberto Cañas,"1,78m",69609,['Spain'],€5.00m,Real Betis Balompié,27,"May 27, 1987",Manchester 62 FC
+Central Midfield,right,,"Jul 3, 2013",Jonjo Shelvey,"1,84m",71292,"['England', 'Ireland']",€7.50m,: Ablöse €5.80m,22,"Feb 27, 1992",Eyüpspor
+Central Midfield,right,,"Jan 19, 2011",Leon Britton,"1,67m",40043,['England'],€3.00m,Sheffield United,31,"Sep 16, 1982",Retired
+Central Midfield,right,,"Jan 31, 2014",Jay Fulton,"1,85m",171260,"['Scotland', 'England']",€200k,Falkirk FC,20,"Apr 1, 1994",Swansea City
+Central Midfield,right,,"Jan 28, 2014",Adam King,"1,80m",169566,['Scotland'],€50k,Heart of Midlothian FC,18,"Oct 11, 1995",Without Club
+Central Midfield,right,,"Jul 1, 2010",Lee Lucas,"1,75m",143851,['Wales'],,Swansea City U18,22,"Jun 10, 1992",Merthyr Town FC
+Attacking Midfield,both,,"Jul 2, 2013",Alejandro Pozuelo,"1,72m",188853,['Spain'],€2.00m,Real Betis Balompié,22,"Sep 20, 1991",Al-Fayha FC
+Left Winger,right,,"Aug 4, 2011",Wayne Routledge,"1,70m",14066,"['England', 'Jamaica']",€4.50m,Newcastle United,29,"Jan 7, 1985",Retired
+Left Winger,left,,"Jan 15, 2013",Roland Lamah,"1,80m",35035,"['Belgium', ""Cote d'Ivoire""]",€2.50m,CA Osasuna,26,"Dec 31, 1987",Retired
+Right Winger,right,,"Aug 31, 2012",Pablo Hernández,"1,73m",46220,['Spain'],€8.00m,Valencia CF,29,"Apr 11, 1985",Retired
+Right Winger,right,,"Jan 1, 2009",Nathan Dyer,"1,65m",37011,"['England', 'Jamaica']",€4.50m,Southampton FC,26,"Nov 29, 1987",Retired
+Second Striker,left,,"Jul 20, 2012",Michu,"1,85m",70789,['Spain'],€12.00m,: Ablöse €2.57m,28,"Mar 21, 1986",Retired
+Centre-Forward,right,,"Aug 31, 2017",Wilfried Bony,"1,83m",81808,"[""Cote d'Ivoire"", 'United Kingdom']",€15.00m,Manchester City,25,"Dec 10, 1988",Without Club
+Centre-Forward,right,,"Sep 2, 2013",Álvaro Vázquez,"1,82m",141835,['Spain'],€3.00m,Getafe CF,23,"Apr 27, 1991",CF Badalona
+Centre-Forward,both,,"Jul 2, 2014",Marvin Emnes,"1,80m",37787,"['Netherlands', 'Suriname']",€1.50m,Middlesbrough FC,26,"May 27, 1988",Without Club
+Centre-Forward,right,,"Jan 27, 2014",David N'Gog,"1,90m",41242,"['France', 'Cameroon']",€1.50m,Bolton Wanderers,25,"Apr 1, 1989",Without Club
+Centre-Forward,right,,"Aug 3, 2011",Leroy Lita,"1,76m",20975,"['England', 'DR Congo']",€750k,Middlesbrough FC,29,"Dec 28, 1984",Barwell FC
+Centre-Forward,right,,"Jan 1, 2012",Rory Donnelly,"1,88m",164389,['Northern Ireland'],,Cliftonville FC,22,"Feb 18, 1992",Cliftonville FC

@@ -1,0 +1,36 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Oct 27, 2006",Chris Kirkland,"1,98m",3219,['England'],€4.00m,: Ablöse €3.73m,27,"May 2, 1981",Retired
+Goalkeeper,right,"Jul 1, 2005",Mike Pollitt,"1,93m",32217,['England'],€600k,Rotherham United,36,"Feb 29, 1972",Retired
+Goalkeeper,right,"Feb 1, 2007",Carlo Nash,"1,97m",3804,['England'],€300k,: Ablöse €450k,34,"Sep 13, 1973",Retired
+Goalkeeper,,"Jul 1, 2007",Russell Saunders,"1,88m",57498,['England'],€100k,Wigan Athletic U18,19,"Jan 3, 1989",Prestwich Heys AFC
+Centre-Back,right,"Jul 1, 2006",Fitz Hall,"1,93m",6580,['England'],€4.50m,: Ablöse €4.50m,27,"Dec 20, 1980",Retired
+Centre-Back,right,"Jul 1, 2007",Titus Bramble,"1,92m",3130,"['England', 'Montserrat']",€2.75m,Newcastle United,26,"Jul 31, 1981",Retired
+Centre-Back,right,"Jul 1, 2007",Andreas Granqvist,"1,92m",29213,['Sweden'],€2.00m,Helsingborgs IF,23,"Apr 16, 1985",Retired
+Centre-Back,right,"Jan 1, 2008",Erik Hagen,"1,85m",26409,['Norway'],€1.00m,: Ablöse €250k,32,"Jul 20, 1975",Retired
+Centre-Back,right,"Jul 1, 2007",Peter Moore,,57494,['England'],,Wigan Athletic U18,19,"Sep 13, 1988",Northwich Victoria
+Left-Back,left,"Jan 1, 2008",Erik Edman,"1,79m",4394,['Sweden'],€3.00m,Stade Rennais FC,29,"Nov 11, 1978",Retired
+Left-Back,left,"Oct 21, 2014",Maynor Figueroa,"1,82m",62240,['Honduras'],€500k,: Ablöse free transfer,25,"May 2, 1983",Retired
+Right-Back,right,"Jul 1, 2007",Mario Melchiot,"1,87m",3158,"['Netherlands', 'Suriname']",€3.25m,Stade Rennais FC,31,"Nov 4, 1976",Retired
+Right-Back,right,"Jan 18, 2008",Antonio Valencia,"1,80m",33544,['Ecuador'],€2.50m,: Ablöse €2.00m,22,"Aug 4, 1985",Retired
+Right-Back,right,"Aug 1, 2006",Emmerson Boyce,"1,80m",19641,"['Barbados', 'England']",€1.75m,: Ablöse €1.50m,28,"Sep 24, 1979",Retired
+Right-Back,right,"Jul 1, 2005",Ryan Taylor,"1,79m",33785,['England'],€1.25m,: Ablöse €100k,23,"Aug 19, 1984",Without Club
+Defensive Midfield,,"Jan 31, 2013",Paul Scharner,,2953,['Austria'],€4.75m,: Ablöse €100k,28,"Mar 11, 1980",Retired
+Defensive Midfield,right,"Jan 1, 2008",Wilson Palacios,"1,81m",58361,['Honduras'],€1.00m,CD Olimpia,23,"Jul 29, 1984",Retired
+Defensive Midfield,both,"Jul 1, 2006",Tomasz Cywka,"1,80m",38558,['Poland'],€200k,Gwarek Zabrze,20,"Jun 27, 1988",Retired
+Central Midfield,right,"Jul 1, 2006",Denny Landzaat,"1,78m",4570,['Netherlands'],€3.75m,AZ Alkmaar,32,"May 6, 1976",Retired
+Central Midfield,,"Jul 1, 2007",Michael Brown,,13509,['England'],€2.50m,Fulham FC,31,"Jan 25, 1977",Retired
+Central Midfield,right,"Aug 17, 2005",Josip Skoko,"1,75m",7266,"['Australia', 'Croatia']",€1.75m,Genclerbirligi Ankara,32,"Dec 10, 1975",Retired
+Central Midfield,right,"Jul 1, 2007",Lewis Montrose,"1,83m",57493,"['England', 'Barbados']",€100k,Wigan Athletic U18,19,"Nov 17, 1988",Retired
+Left Midfield,left,"Aug 31, 2006",Kevin Kilbane,"1,83m",4135,"['Ireland', 'England']",€4.00m,: Ablöse €2.50m,31,"Feb 1, 1977",Retired
+Left Midfield,left,"Sep 4, 2007",Salomon Olembé,"1,71m",5326,"['Cameroon', 'France']",€1.25m,Olympique Marseille,27,"Dec 8, 1980",Retired
+Left Midfield,left,"Aug 1, 2007",Rachid Bouaouzan,"1,70m",21567,"['Morocco', 'Netherlands']",€450k,: Ablöse €450k,24,"Feb 20, 1984",Retired
+Attacking Midfield,left,"Jul 10, 2007",Jason Koumas,"1,77m",3661,"['Wales', 'Cyprus']",€5.25m,West Bromwich Albion,28,"Sep 25, 1979",Retired
+Attacking Midfield,right,"Jul 1, 2007",Antoine Sibierski,"1,87m",5489,"['France', 'Poland']",€2.75m,Newcastle United,33,"Aug 5, 1974",Retired
+Right Winger,right,"Aug 1, 2006",David Cotterill,"1,75m",40207,['Wales'],€2.00m,: Ablöse €3.20m,20,"Dec 4, 1987",Retired
+Right Winger,right,"Jul 1, 2006",Tomasz Kupisz,"1,80m",45185,['Poland'],€100k,MKS Piaseczno,18,"Jan 2, 1990",Hutnik Warszawa
+Centre-Forward,right,"Jul 9, 2006",Emile Heskey,"1,88m",3142,"['England', 'Antigua and Barbuda']",€6.50m,: Ablöse €7.50m,30,"Jan 11, 1978",Retired
+Centre-Forward,right,"Aug 1, 2007",Marcus Bent,"1,88m",9958,"['England', 'Jamaica']",€4.25m,Charlton Athletic,30,"May 19, 1978",Cornard United FC
+Centre-Forward,both,"Jul 1, 2005",Henri Camara,"1,78m",3900,"['Senegal', 'France']",€4.00m,Wolverhampton Wanderers,31,"May 10, 1977",Retired
+Centre-Forward,right,"Jan 1, 2008",Marlon King,"1,85m",14037,"['Jamaica', 'England']",€3.50m,Watford FC,28,"Apr 26, 1980",Retired
+Centre-Forward,right,"Jan 1, 2007",Julius Aghahowa,"1,79m",14925,['Nigeria'],€1.50m,: Ablöse free transfer,26,"Feb 12, 1982",Retired
+Centre-Forward,right,"Jan 1, 2007",Caleb Folan,"1,88m",46816,"['Ireland', 'England']",€650k,: Ablöse €750k,25,"Oct 26, 1982",Retired

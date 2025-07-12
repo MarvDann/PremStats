@@ -1,0 +1,40 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jan 31, 2017",Aaron Ramsdale,"1,90m",427568,['England'],€12.50m,Sheffield United,22,"May 14, 1998",Southampton FC
+Goalkeeper,right,,"Jul 1, 2015",Artur Boruc,"1,93m",15220,['Poland'],€400k,Southampton FC,40,"Feb 20, 1980",Retired
+Goalkeeper,right,,"Jul 1, 2020",Mark Travers,"1,91m",357658,['Ireland'],€250k,AFC Bournemouth U21,21,"May 18, 1999",AFC Bournemouth
+Goalkeeper,right,,"Aug 1, 2021",Will Dennis,"1,88m",582078,['England'],,AFC Bournemouth U21,19,"Jul 10, 2000",AFC Bournemouth
+Centre-Back,left,,"Jul 1, 2017",Nathan Aké,"1,80m",177476,"['Netherlands', ""Cote d'Ivoire""]",€28.00m,Chelsea FC,25,"Feb 18, 1995",Manchester City
+Centre-Back,right,,"Jan 3, 2012",Steve Cook,"1,85m",90836,['England'],€9.50m,Brighton & Hove Albion,29,"Apr 19, 1991",Queens Park Rangers
+Centre-Back,left,,"Jul 1, 2019",Lloyd Kelly,"1,90m",480116,['England'],€8.00m,Bristol City,21,"Oct 6, 1998",Newcastle United
+Centre-Back,right,,"Jan 22, 2019",Chris Mepham,"1,90m",480987,"['Wales', 'England']",€8.00m,Brentford FC,22,"Nov 5, 1997",Sunderland AFC
+Centre-Back,left,,"Jan 1, 2018",Jack Simpson,"1,90m",419930,['England'],€1.20m,AFC Bournemouth U21,23,"Dec 18, 1996",Leyton Orient
+Centre-Back,right,,,Corey Jordan,"1,88m",435765,['England'],,,21,"Mar 4, 1999",Weymouth FC
+Left-Back,left,,"Jul 24, 2018",Diego Rico,"1,83m",249513,['Spain'],€8.00m,CD Leganés,27,"Feb 23, 1993",Getafe CF
+Left-Back,left,,"Jan 1, 2012",Charlie Daniels,"1,78m",61819,['England'],€1.60m,Leyton Orient,33,"Sep 7, 1986",Retired
+Right-Back,right,,"Jan 28, 2014",Adam Smith,"1,74m",61841,['England'],€7.00m,Tottenham Hotspur,29,"Apr 29, 1991",AFC Bournemouth
+Right-Back,right,,"Jul 8, 2019",Jack Stacey,"1,80m",249356,['England'],€3.20m,Luton Town,24,"Apr 6, 1996",Norwich City
+Right-Back,right,,"Jan 9, 2012",Simon Francis,"1,91m",13573,['England'],€800k,Charlton Athletic,35,"Feb 16, 1985",Retired
+Right-Back,right,Yellow card suspension -  - National League South - 1 matchday,,Brennan Camp,"1,81m",648699,"['Scotland', 'England']",,,19,"Oct 12, 2000",Dorking Wanderers
+Right-Back,right,,,Brooklyn Genesini,"1,80m",655173,['England'],,,18,"Nov 18, 2001",Weymouth FC
+Defensive Midfield,right,,"Aug 7, 2018",Jefferson Lerma,"1,79m",262980,['Colombia'],€20.00m,Levante UD,25,"Oct 25, 1994",Crystal Palace
+Defensive Midfield,left,,"Jul 1, 2015",Matt Butcher,"1,88m",391132,['England'],€75k,AFC Bournemouth U18,23,"May 14, 1997",Wycombe Wanderers
+Central Midfield,right,,"Jul 8, 2016",Lewis Cook,"1,75m",249089,['England'],€16.00m,Leeds United,23,"Feb 3, 1997",AFC Bournemouth
+Central Midfield,left,,"Jul 29, 2019",Philip Billing,"1,93m",320411,"['Denmark', 'Nigeria']",€14.50m,Huddersfield Town,24,"Jun 11, 1996",AFC Bournemouth
+Central Midfield,right,,"Jul 1, 2014",Dan Gosling,"1,80m",44983,['England'],€2.00m,Newcastle United,30,"Feb 1, 1990",Westfield FC
+Central Midfield,left,,"Sep 1, 2014",Andrew Surman,"1,78m",29975,"['England', 'South Africa']",€1.60m,: Ablöse €630k,33,"Aug 20, 1986",Retired
+Central Midfield,right,,"Jul 1, 2019",Nnamdi Ofoborh,"1,75m",611906,"['Nigeria', 'England']",€150k,AFC Bournemouth U21,20,"Nov 7, 1999",Swindon Town
+Central Midfield,right,,"Aug 1, 2020",Gavin Kilkenny,"1,75m",469064,['Ireland'],,AFC Bournemouth U21,20,"Feb 1, 2000",Swindon Town
+Central Midfield,right,,,Kyle Taylor,"1,67m",562254,"['Switzerland', 'England']",,,20,"Aug 28, 1999",Without Club
+Left Winger,right,,"Jan 18, 2013",Ryan Fraser,"1,63m",146795,['Scotland'],€17.50m,Aberdeen FC,26,"Feb 24, 1994",Southampton FC
+Left Winger,right,,"Jul 1, 2015",Joshua King,"1,80m",91059,['Norway'],€16.00m,Blackburn Rovers,28,"Jan 15, 1992",FC Toulouse
+Left Winger,right,,"Aug 1, 2019",Arnaut Danjuma,"1,78m",355861,"['Netherlands', 'Nigeria']",€9.50m,Club Brugge KV,23,"Jan 31, 1997",Girona FC
+Left Winger,right,,"Jul 1, 2014",Junior Stanislas,"1,83m",87672,"['England', 'St. Lucia']",€2.00m,: Ablöse free transfer,30,"Nov 26, 1989",Retired
+Left Winger,right,,,Alexandru Dobre,"1,85m",365770,['Romania'],€250k,,21,"Aug 30, 1998",FC Rapid 1923
+Right Winger,left,,"Jul 1, 2018",David Brooks,"1,73m",277033,"['Wales', 'England']",€24.00m,Sheffield United,22,"Jul 8, 1997",AFC Bournemouth
+Right Winger,left,,"Aug 6, 2019",Harry Wilson,"1,73m",279455,"['Wales', 'England']",€17.50m,: Ablöse €2.70m,23,"Mar 22, 1997",Fulham FC
+Right Winger,right,,"Jul 14, 2016",Jordon Ibe,"1,76m",195652,"['England', 'Nigeria']",€4.80m,: Ablöse €18.00m,24,"Dec 8, 1995",Hayes & Yeading FC
+Centre-Forward,right,Back injury - Return unknown,"Jul 4, 2014",Callum Wilson,"1,80m",123682,['England'],€24.00m,Coventry City,28,"Feb 27, 1992",Newcastle United
+Centre-Forward,right,,"Jan 4, 2019",Dominic Solanke,"1,86m",258889,"['England', 'Nigeria']",€12.00m,: Ablöse €21.20m,22,"Sep 14, 1997",Tottenham Hotspur
+Centre-Forward,right,,"Jul 1, 2017",Jermain Defoe,"1,71m",3875,"['England', 'St. Lucia']",€1.40m,Sunderland AFC,37,"Oct 7, 1982",Retired
+Centre-Forward,right,,"Jul 1, 2019",Sam Surridge,"1,90m",398402,['England'],€450k,AFC Bournemouth U21,21,"Jul 28, 1998",Nashville SC
+Centre-Forward,right,,"Jul 1, 2021",Christian Saydee,"1,84m",655835,"['England', 'Liberia']",,AFC Bournemouth U21,18,"May 10, 2002",Portsmouth FC

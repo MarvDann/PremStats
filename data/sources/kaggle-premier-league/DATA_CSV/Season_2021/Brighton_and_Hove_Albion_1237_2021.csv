@@ -1,0 +1,44 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2020",Robert Sánchez,"1,97m",403151,"['Spain', 'England']",€16.00m,,Brighton & Hove Albion U23,24,"Nov 18, 1997",Chelsea FC
+Goalkeeper,right,,"Jul 16, 2021",Kjell Scherpen,"2,06m",463527,['Netherlands'],€2.20m,,Ajax Amsterdam,22,"Jan 23, 2000",SK Sturm Graz
+Goalkeeper,left,,"Jul 1, 2014",Christian Walton,"1,95m",208379,['England'],€800k,,Brighton & Hove Albion U18,26,"Nov 9, 1995",Ipswich Town
+Goalkeeper,right,,"Jul 1, 2018",Jason Steele,"1,88m",73564,['England'],€600k,,Sunderland AFC,31,"Aug 18, 1990",Brighton & Hove Albion
+Goalkeeper,right,,"Jul 29, 2022",Tom McGill,"1,85m",406556,"['Canada', 'England']",,,Brighton & Hove Albion U21,22,"Mar 25, 2000",Milton Keynes Dons
+Centre-Back,right,Team captain,"Apr 30, 2010",Lewis Dunk,"1,92m",148153,['England'],€20.00m,,: Ablöse -,30,"Nov 21, 1991",Brighton & Hove Albion
+Centre-Back,right,,"Aug 3, 2019",Adam Webster,"1,90m",212847,['England'],€17.00m,,Bristol City,27,"Jan 4, 1995",Brighton & Hove Albion
+Centre-Back,left,"Yellow card suspension - until Nov 26, 2024 - Premier League - 1 matchday","Aug 9, 2018",Dan Burn,"2,01m",134270,['England'],€12.00m,,Wigan Athletic,30,"May 9, 1992",Newcastle United
+Centre-Back,right,,"Sep 10, 2020",Jan Paul van Hecke,"1,89m",576314,['Netherlands'],€5.00m,,NAC Breda,22,"Jun 8, 2000",Brighton & Hove Albion
+Centre-Back,right,,"Aug 26, 2016",Shane Duffy,"1,93m",119269,"['Ireland', 'Northern Ireland']",€5.00m,,Blackburn Rovers,30,"Jan 1, 1992",Norwich City
+Centre-Back,left,,"Jul 1, 2019",Matt Clarke,"1,85m",307497,['England'],€3.00m,,Portsmouth FC,25,"Sep 22, 1996",Middlesbrough FC
+Centre-Back,right,Cruciate ligament tear - Return unknown,,Antef Tsoungui,"1,85m",503858,"['Belgium', 'Cameroon']",€300k,,,19,"Dec 30, 2002",Oud-Heverlee Leuven
+Centre-Back,left,,,Ed Turns,"1,86m",580809,"['Wales', 'England']",€200k,,,19,"Oct 18, 2002",Brighton & Hove Albion U21
+Left-Back,left,,"Aug 31, 2021",Marc Cucurella,"1,73m",284857,['Spain'],€28.00m,,Getafe CF,23,"Jul 22, 1998",Chelsea FC
+Left-Back,left,,"Jul 1, 2021",Haydon Roberts,"1,84m",533523,['England'],€500k,,Brighton & Hove Albion U23,20,"May 10, 2002",Bristol City
+Left-Back,left,,,James Furlong,"1,78m",580030,['Ireland'],,,,20,"Jun 7, 2002",AFC Wimbledon
+Right-Back,right,,"Jan 31, 2020",Tariq Lamptey,"1,63m",504148,"['Ghana', 'England']",€18.00m,,Chelsea FC U23,21,"Sep 30, 2000",Brighton & Hove Albion
+Right-Back,right,,"Jul 29, 2020",Joël Veltman,"1,84m",111195,['Netherlands'],€10.00m,,Ajax Amsterdam,30,"Jan 15, 1992",Brighton & Hove Albion
+Right-Back,right,,"Jul 1, 2024",Odeluga Offiah,"1,87m",567597,"['England', 'Nigeria']",€200k,,Brighton & Hove Albion U21,19,"Oct 26, 2002",Blackpool FC
+Defensive Midfield,right,,"Jul 17, 2018",Yves Bissouma,"1,82m",410425,"['Mali', ""Cote d'Ivoire""]",€35.00m,,LOSC Lille,25,"Aug 30, 1996",Tottenham Hotspur
+Defensive Midfield,right,,"Feb 1, 2021",Moisés Caicedo,"1,78m",687626,['Ecuador'],€6.00m,,: Ablöse €28.20m,20,"Nov 2, 2001",Chelsea FC
+Defensive Midfield,right,,"Jan 31, 2019",Tudor Băluță,"1,92m",433976,['Romania'],€1.80m,,: Ablöse €2.90m,23,"Mar 27, 1999",Slask Wroclaw
+Central Midfield,right,,"Jul 6, 2021",Enock Mwepu,"1,84m",490307,['Zambia'],€18.00m,,Red Bull Salzburg,24,"Jan 1, 1998",Retired
+Central Midfield,right,,"Jan 24, 2019",Alexis Mac Allister,"1,76m",534033,"['Argentina', 'Italy']",€16.00m,,AA Argentinos Juniors,23,"Dec 24, 1998",Liverpool FC
+Central Midfield,right,,"Oct 4, 2020",Jakub Moder,"1,91m",384461,['Poland'],€12.00m,,Lech Poznan,23,"Apr 7, 1999",Brighton & Hove Albion
+Central Midfield,right,,"Jul 1, 2017",Pascal Groß,"1,81m",82873,['Germany'],€6.00m,,FC Ingolstadt 04,31,"Jun 15, 1991",Borussia Dortmund
+Central Midfield,right,,"Jul 1, 2019",Steven Alzate,"1,80m",476237,"['Colombia', 'England']",€5.00m,"Returned after loan spell with Standard Liège; date: Jun 30, 2024; fee: End of loan",Brighton & Hove Albion U23,23,"Sep 8, 1998",Hull City
+Central Midfield,right,,"Oct 4, 2020",Michal Karbownik,"1,75m",401604,['Poland'],€2.50m,,Legia Warszawa,21,"Mar 13, 2001",Hertha BSC
+Central Midfield,left,,"Jul 1, 2021",Taylor Richards,"1,80m",484551,['England'],€400k,,Brighton & Hove Albion U23,21,"Dec 4, 2000",Cambridge United
+Central Midfield,,,"Jul 1, 2023",Marc Leonard,"1,80m",463751,['Scotland'],€300k,,Brighton & Hove Albion U21,20,"Dec 19, 2001",Birmingham City
+Attacking Midfield,both,,"Jul 27, 2020",Adam Lallana,"1,72m",43530,['England'],€2.00m,,: Ablöse free transfer,34,"May 10, 1988",Southampton FC
+Attacking Midfield,right,,"Jul 1, 2023",Andrew Moran,"1,77m",724537,['Ireland'],€300k,,Brighton & Hove Albion U21,18,"Oct 15, 2003",Stoke City
+Left Winger,right,,"Jul 1, 2019",Leandro Trossard,"1,72m",144028,['Belgium'],€20.00m,,KRC Genk,27,"Dec 4, 1994",Arsenal FC
+Left Winger,right,,"Jul 2, 2021",Jeremy Sarmiento,"1,78m",568005,"['Ecuador', 'England']",€3.00m,,SL Benfica U19,20,"Jun 16, 2002",Burnley FC
+Right Winger,left,Knee injury - Return unknown,"Jul 1, 2013",Solly March,"1,80m",209212,['England'],€9.00m,,Brighton & Hove Albion U18,27,"Jul 20, 1994",Brighton & Hove Albion
+Right Winger,right,,"Aug 31, 2021",Abdallah Sima,"1,88m",776798,['Senegal'],€8.00m,,: Ablöse €8.00m,21,"Jun 17, 2001",Stade Brestois 29
+Centre-Forward,right,,"Aug 5, 2019",Neal Maupay,"1,71m",217115,"['France', 'Argentina']",€18.00m,,Brentford FC,25,"Aug 14, 1996",Olympique Marseille
+Centre-Forward,right,,"Jul 1, 2019",Aaron Connolly,"1,74m",434207,['Ireland'],€6.00m,,Brighton & Hove Albion U23,22,"Jan 28, 2000",Sunderland AFC
+Centre-Forward,right,,"Oct 18, 2020",Danny Welbeck,"1,85m",67063,"['England', 'Ghana']",€4.00m,,Watford FC,31,"Nov 26, 1990",Brighton & Hove Albion
+Centre-Forward,left,,"Oct 1, 2020",Andi Zeqiri,"1,85m",345468,"['Switzerland', 'Kosovo']",€2.30m,,FC Lausanne-Sport,23,"Jun 22, 1999",Standard Liège
+Centre-Forward,right,,"Jan 19, 2018",Jürgen Locadia,"1,93m",166240,"['Curacao', 'Netherlands']",€2.00m,,: Ablöse €17.00m,28,"Nov 7, 1993",CF Intercity
+Centre-Forward,right,,"Jul 1, 2018",Florin Andone,"1,81m",177065,"['Romania', 'Spain']",€1.00m,,Deportivo de La Coruña,29,"Apr 11, 1993",CD Atlético Baleares
+Centre-Forward,right,,"Jul 1, 2022",Evan Ferguson,"1,88m",648046,"['Ireland', 'England']",€600k,,Brighton & Hove Albion U21,17,"Oct 19, 2004",Brighton & Hove Albion

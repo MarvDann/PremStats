@@ -1,0 +1,37 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2008",David Stockdale,"1,90m",67339,['England'],€3.50m,Darlington FC (- 2012),26,"Sep 20, 1985",Retired
+Goalkeeper,,,"Jul 1, 2008",Mark Schwarzer,,3357,"['Australia', 'Germany']",€1.50m,Middlesbrough FC,39,"Oct 6, 1972",Retired
+Goalkeeper,right,,"Jan 1, 2011",Neil Etheridge,"1,88m",61694,"['Philippines', 'England']",€500k,Fulham FC Reserves,22,"Feb 7, 1990",Buriram United
+Goalkeeper,right,,"Jul 1, 2011",Csaba Somogyi,"1,90m",108471,['Hungary'],€250k,Rákospalotai EAC,27,"Apr 7, 1985",Mezőörs KSE
+Centre-Back,right,,"Jan 18, 2008",Brede Hangeland,"1,99m",25553,"['Norway', 'United States']",€8.00m,: Ablöse €3.30m,31,"Jun 20, 1981",Retired
+Centre-Back,right,,"Jul 1, 2010",Philippe Senderos,"1,89m",4277,"['Switzerland', 'Spain']",€3.00m,: Ablöse free transfer,27,"Feb 14, 1985",Retired
+Centre-Back,right,,"Jul 1, 2007",Aaron Hughes,"1,83m",3580,['Northern Ireland'],€2.00m,: Ablöse €1.50m,32,"Nov 8, 1979",Retired
+Centre-Back,left,,"Jul 1, 2011",Matthew Briggs,"1,83m",51318,"['Guyana', 'England']",€1.50m,Fulham FC Reserves,21,"Mar 6, 1991",Retired
+Centre-Back,right,,"Aug 23, 2010",Rafik Halliche,"1,87m",67815,['Algeria'],€750k,SL Benfica,25,"Sep 2, 1986",Retired
+Left-Back,,,"Jul 13, 2011",John Arne Riise,,3220,['Norway'],€4.00m,: Ablöse €2.63m,31,"Sep 24, 1980",Avaldsnes IL
+Right-Back,right,,"Jul 1, 2009",Stephen Kelly,"1,84m",12125,['Ireland'],€2.00m,: Ablöse free transfer,28,"Sep 6, 1983",Retired
+Right-Back,right,,"Aug 31, 2011",Zdenek Grygera,"1,84m",6833,['Czech Republic'],€1.25m,: Ablöse free transfer,32,"May 14, 1980",Retired
+Defensive Midfield,right,,"Mar 26, 2014",Mahamadou Diarra,"1,82m",5352,['Mali'],€2.50m,Without Club,31,"May 18, 1981",Retired
+Defensive Midfield,right,,"Feb 18, 2016",Chris Baird,"1,85m",4115,['Northern Ireland'],€2.00m,Derby County,30,"Feb 25, 1982",Retired
+Defensive Midfield,right,,"Aug 29, 2008",Dickson Etuhu,"1,89m",14011,"['Nigeria', 'England']",€2.00m,Sunderland AFC,30,"Jun 8, 1982",Retired
+Central Midfield,left,,"Aug 18, 2010",Mousa Dembélé,"1,85m",19368,"['Belgium', 'Mali']",€13.00m,AZ Alkmaar,24,"Jul 16, 1987",Retired
+Central Midfield,right,,"Jan 1, 2011",Steve Sidwell,"1,83m",13427,['England'],€2.50m,: Ablöse €600k,29,"Dec 14, 1982",Retired
+Central Midfield,left,,"Jul 25, 2011",Pajtim Kasami,"1,88m",130108,"['Switzerland', 'North Macedonia']",€2.50m,: Ablöse €1.60m,20,"Jun 2, 1992",UC Sampdoria
+Central Midfield,right,,"Aug 31, 2007",Danny Murphy,"1,77m",3221,['England'],€1.00m,Tottenham Hotspur,35,"Mar 18, 1977",Retired
+Central Midfield,right,,"Jul 1, 2011",Marcel Gecov,"1,83m",34534,['Czech Republic'],€500k,: Ablöse €800k,24,"Jan 1, 1988",Retired
+Central Midfield,right,,"Jul 22, 2009",Bjørn Helge Riise,"1,75m",13485,['Norway'],€500k,Lillestrøm SK,29,"Jun 21, 1983",Stabæk Fotball II
+Central Midfield,right,,"Jul 1, 2010",Jonathan Greening,"1,80m",3865,['England'],€250k,West Bromwich Albion,33,"Jan 2, 1979",Retired
+Central Midfield,left,,,Alex Smith,"1,77m",116655,['England'],,,20,"Oct 31, 1991",Without Club
+Central Midfield,right,,,Tom Donegan,"1,78m",121256,['England'],,,19,"Sep 15, 1992",Unknown
+Right Midfield,left,,"Aug 1, 2009",Damien Duff,"1,77m",3259,['Ireland'],€1.50m,Newcastle United,33,"Mar 2, 1979",Retired
+Right Midfield,right,,"Jan 24, 2007",Simon Davies,"1,78m",4056,['Wales'],€1.00m,: Ablöse free transfer,32,"Oct 23, 1979",Retired
+Attacking Midfield,left,,"Aug 31, 2011",Bryan Ruiz,"1,87m",39642,['Costa Rica'],€10.00m,Twente Enschede FC,26,"Aug 18, 1985",Retired
+Left Winger,right,,"Jul 1, 2011",Kerim Frei,"1,71m",146844,"['Türkiye', 'Switzerland']",€3.00m,Fulham FC U18,18,"Nov 19, 1993",Elazigspor
+Right Winger,left,Cruciate ligament injury - Return unknown,"Jan 1, 2012",Alexander Kacaniklic,"1,81m",51040,"['Sweden', 'North Macedonia']",€1.00m,Fulham FC Reserves,20,"Aug 13, 1991",AEL Limassol
+Second Striker,right,,"Jan 1, 2014",Clint Dempsey,"1,85m",27577,['United States'],€15.00m,: Ablöse ?,29,"Mar 9, 1983",Retired
+Centre-Forward,left,,"Jul 1, 2008",Bobby Zamora,"1,84m",4205,"['England', 'Trinidad and Tobago']",€5.00m,: Ablöse €4.10m,31,"Jan 16, 1981",Retired
+Centre-Forward,,,"Jan 31, 2012",Pavel Pogrebnyak,,15074,['Russia'],€4.50m,: Ablöse €500k,28,"Nov 8, 1983",Retired
+Centre-Forward,right,,"Aug 7, 2008",Andy Johnson,"1,72m",14031,['England'],€2.50m,: Ablöse €13.30m,31,"Feb 10, 1981",Retired
+Centre-Forward,right,,"Aug 1, 2011",Orlando Sá,"1,88m",64535,['Portugal'],€1.00m,FC Porto,24,"May 26, 1988",Retired
+Centre-Forward,left,,,Lauri Dalla Valle,"1,80m",91056,"['Finland', 'Italy']",€250k,,20,"Sep 14, 1991",Retired
+Centre-Forward,left,,,Marcello Trotta,"1,88m",129505,['Italy'],€250k,,19,"Sep 29, 1992",SS Turris Calcio

@@ -1,0 +1,31 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Nov 15, 2001",Dave Beasant,"1,93m",10384,['England'],: Ablöse free transfer,43,"Mar 20, 1959",Retired
+Goalkeeper,,"Jun 5, 2000",Neil Sullivan,"1,83m",4045,"['Scotland', 'England']",: Ablöse free transfer,32,"Feb 24, 1970",Retired
+Goalkeeper,,"Aug 15, 2001",Kasey Keller,,3608,['United States'],: Ablöse free transfer,32,"Nov 29, 1969",Retired
+Goalkeeper,,,Gavin Kelly,"1,83m",114044,['England'],,21,"Jun 3, 1981",Retired
+Centre-Back,right,"Jul 1, 2001",Goran Bunjevcevic,"1,90m",3802,['Serbia'],Red Star Belgrade,29,"Feb 17, 1973",---
+Centre-Back,right,"Jul 1, 1999",Chris Perry,"1,75m",4051,['England'],: Ablöse €6.00m,29,"Apr 26, 1973",Retired
+Centre-Back,right,"Mar 1, 2000",Gary Doherty,"1,88m",4052,['Ireland'],: Ablöse €1.50m,22,"Jan 31, 1980",Retired
+Centre-Back,right,"Jul 1, 1998",Ledley King,"1,88m",3360,"['England', 'Antigua and Barbuda']",Tottenham Hotspur U18,21,"Oct 12, 1980",Retired
+Centre-Back,left,"Jan 1, 2000",Anthony Gardner,"1,96m",4053,"['England', 'Jamaica']",: Ablöse €1.50m,21,"Sep 19, 1980",Retired
+Centre-Back,right,"Oct 1, 1998",Alton Thelwell,"1,83m",4054,['England'],Tottenham Hotspur U18,21,"Sep 5, 1980",Retired
+Centre-Back,right,"Jul 1, 2001",Dean Richards,"1,88m",3829,['England'],Southampton FC,28,"Jun 9, 1974",---
+Left-Back,right,"Nov 5, 1998",Mauricio Taricco,"1,75m",4050,"['Argentina', 'Italy']",Ipswich Town,29,"Mar 10, 1973",Retired
+Left-Back,left,"Jul 1, 2000",Ben Thatcher,"1,78m",3304,"['Wales', 'England']",: Ablöse €7.54m,26,"Nov 30, 1975",Retired
+Midfielder,,"Aug 1, 1999",John Piercy,"1,80m",202858,['England'],Tottenham Hotspur Reserves,22,"Sep 18, 1979",Retired
+Defensive Midfield,,"Jan 1, 1999",Steffen Freund,,3990,['Germany'],Borussia Dortmund,32,"Jan 19, 1970",Retired
+Central Midfield,,"Jan 1, 1999",Tim Sherwood,,4005,['England'],Blackburn Rovers,33,"Feb 6, 1969",Retired
+Central Midfield,left,"Jul 1, 2000",Johnnie Jackson,"1,85m",29430,['England'],Tottenham Hotspur U18,19,"Aug 15, 1982",Retired
+Right Midfield,,,Paul Merson,,3250,['England'],,34,"Mar 20, 1968",Retired
+Right Midfield,right,"Jul 1, 1992",Darren Anderton,"1,85m",3277,['England'],: Ablöse €2.70m,30,"Mar 3, 1972",Retired
+Right Midfield,left,"Jul 1, 1997",Stephen Clemence,"1,80m",3641,['England'],Tottenham Hotspur U18,24,"Mar 31, 1978",Retired
+Right Midfield,right,"Dec 31, 1999",Simon Davies,"1,78m",4056,['Wales'],Peterborough United,22,"Oct 23, 1979",Retired
+Left Midfield,left,"Jul 1, 2001",Christian Ziege,"1,86m",916,['Germany'],: Ablöse €6.50m,30,"Feb 1, 1972",Retired
+Left Midfield,left,"Jul 1, 1999",Matthew Etherington,"1,78m",3788,['England'],Peterborough United,20,"Aug 14, 1981",Retired
+Attacking Midfield,right,"Jul 1, 2001",Gustavo Poyet,"1,88m",3361,"['Uruguay', 'Spain']",: Ablöse €3.40m,34,"Nov 15, 1967",Retired
+Attacking Midfield,right,"Jul 1, 1999",Øyvind Leonhardsen,"1,77m",4071,['Norway'],: Ablöse €4.50m,31,"Aug 17, 1970",Retired
+Second Striker,right,"Jul 1, 2000",Sergiy Rebrov,"1,75m",3122,['Ukraine'],: Ablöse €18.00m,28,"Jun 3, 1974",Retired
+Second Striker,right,"Nov 1, 1996",Steffen Iversen,"1,85m",3478,['Norway'],: Ablöse €3.25m,25,"Nov 10, 1976",Retired
+Centre-Forward,right,"Jul 28, 1997",Les Ferdinand,"1,80m",3645,"['England', 'St. Lucia']",Newcastle United,35,"Dec 8, 1966",Retired
+Centre-Forward,,"Jul 1, 2001",Teddy Sheringham,,3392,['England'],Manchester United,36,"Apr 2, 1966",Retired
+Centre-Forward,right,"Jul 1, 1995",Chris Armstrong,"1,84m",3281,['England'],: Ablöse €6.80m,31,"Jun 19, 1971",Retired

@@ -150,9 +150,9 @@ const MatchDetail: Component = () => {
     case 'goal':
       return '⚽'
     case 'own_goal':
-      return '⚽'
+      return '🥅'
     case 'penalty':
-      return '⚽'
+      return '⚽🎯'
     case 'yellow_card':
       return '🟨'
     case 'red_card':
@@ -161,6 +161,25 @@ const MatchDetail: Component = () => {
       return '🔄'
     default:
       return '📝'
+    }
+  }
+
+  const getEventDescription = (event: MatchEvent) => {
+    switch (event.eventType) {
+    case 'goal':
+      return 'Goal'
+    case 'own_goal':
+      return 'Own Goal'
+    case 'penalty':
+      return 'Penalty Goal'
+    case 'yellow_card':
+      return 'Yellow Card'
+    case 'red_card':
+      return 'Red Card'
+    case 'substitution':
+      return 'Substitution'
+    default:
+      return event.eventType
     }
   }
 
@@ -500,23 +519,29 @@ const MatchDetail: Component = () => {
                 ? (
                   <div class="space-y-3">
                     <h3 class="text-lg font-semibold mb-4">Match Events</h3>
-                    <For each={eventsQuery.data.events}>
+                    <For each={eventsQuery.data.events.sort((a, b) => a.minute - b.minute)}>
                       {(event) => {
                         const isHomeTeam = event.teamId === matchQuery.data?.homeTeamId
                         const teamName = isHomeTeam ? matchQuery.data?.homeTeam : matchQuery.data?.awayTeam
 
                         return (
                           <div class={`flex items-center space-x-4 p-3 rounded-lg transition-colors hover:bg-muted/50 ${
-                            event.eventType === 'goal' || event.eventType === 'penalty' ? 'bg-primary/5' : ''
+                            event.eventType === 'goal' || event.eventType === 'penalty' || event.eventType === 'own_goal' ? 'bg-green-50 border border-green-200' : ''
                           }`}>
                             <div class="text-2xl flex-shrink-0">{getEventIcon(event.eventType)}</div>
                             <div class="flex-1">
                               <div class="flex items-center space-x-2">
                                 <p class="font-medium">{event.playerName || 'Unknown Player'}</p>
                                 <span class="text-sm text-muted-foreground">({teamName})</span>
+                                {(event.eventType === 'goal' || event.eventType === 'penalty' || event.eventType === 'own_goal') && (
+                                  <Badge variant="success" class="text-xs">{getEventDescription(event)}</Badge>
+                                )}
                               </div>
                               {event.detail && (
                                 <p class="text-sm text-muted-foreground mt-1">{event.detail}</p>
+                              )}
+                              {(event.eventType === 'goal' || event.eventType === 'penalty' || event.eventType === 'own_goal') && (
+                                <p class="text-xs text-green-700 mt-1 font-medium">⚽ Scored for {teamName}</p>
                               )}
                             </div>
                             <div class="text-sm font-medium tabular-nums">{event.minute}'</div>

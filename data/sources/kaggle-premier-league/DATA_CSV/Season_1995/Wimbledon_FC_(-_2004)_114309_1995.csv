@@ -1,0 +1,48 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 1995",Paul Heald,"1,88m",13790,['England'],Leyton Orient,27,"Sep 20, 1968",Retired
+Goalkeeper,,"Jul 1, 1995",John Cheesewright,"1,83m",663144,['England'],Colchester United,23,"Jan 12, 1973",Retired
+Goalkeeper,,"Jul 1, 1988",Hans Segers,"1,80m",104902,['Netherlands'],: Ablöse €220k,34,"Oct 30, 1961",Retired
+Goalkeeper,,"Jul 1, 1988",Neil Sullivan,"1,83m",4045,"['Scotland', 'England']",: Ablöse -,26,"Feb 24, 1970",Retired
+Goalkeeper,right,"Jul 1, 1994",Brendan Murphy,"1,80m",103857,['Ireland'],Bradford City,20,"Aug 19, 1975",Retired
+Goalkeeper,,"Nov 2, 1995",Simon Tracey,,224428,['England'],Sheffield United,28,"Dec 9, 1967",Retired
+Centre-Back,,"Jul 1, 1995",Iain Laidlaw,"1,88m",663142,['England'],: Ablöse -,19,"Dec 10, 1976",Retired
+Centre-Back,,"Jun 23, 1995",Danny O'Shea,"1,83m",663145,['England'],Northampton Town,33,"Mar 26, 1963",Retired
+Centre-Back,,"Jul 1, 1995",Danny Hodges,"1,83m",833566,['England'],: Ablöse -,19,"Sep 14, 1976",Retired
+Centre-Back,,"Jul 1, 1996",Andy Futcher,,833567,['England'],: Ablöse -,18,"Feb 10, 1978",Retired
+Centre-Back,right,"Nov 1, 1994",Kenny Cunningham,"1,83m",3937,['Ireland'],: Ablöse €900k,25,"Jun 28, 1971",Retired
+Centre-Back,right,"Jul 1, 1988",Dean Blackwell,,109501,['England'],Unknown,26,"Dec 5, 1969",Retired
+Centre-Back,,"Jul 1, 1989",Scott Fitzgerald,"1,83m",222291,"['Ireland', 'England']",: Ablöse -,26,"Aug 13, 1969",Retired
+Centre-Back,,"Jul 1, 1994",Alan Reeves,,222303,['England'],Rochdale AFC,28,"Nov 19, 1967",Retired
+Centre-Back,,"Oct 5, 1994",Andy Thorn,,222309,['England'],: Ablöse free transfer,29,"Nov 12, 1966",Retired
+Centre-Back,right,"Jul 1, 1991",Chris Perry,"1,75m",4051,['England'],: Ablöse -,23,"Apr 26, 1973",Retired
+Centre-Back,,"May 1, 2001",Peter Fear,,109505,['England'],: Ablöse ?,22,"Sep 10, 1973",Retired
+Centre-Back,,"Nov 1, 1995",Andy Pearce,"1,95m",222527,['England'],: Ablöse €730k,30,"Apr 20, 1966",Retired
+Left-Back,left,"Jul 2, 1991",Justin Skinner,"1,70m",884935,['England'],: Ablöse -,23,"Sep 17, 1972",Retired
+Left-Back,,"Jul 27, 1993",Alan Kimble,"1,73m",109508,['England'],Cambridge United,29,"Aug 6, 1966",Retired
+Left-Back,left,"Aug 20, 1990",Gary Elkins,"1,76m",222289,['England'],: Ablöse €25k,30,"May 4, 1966",Retired
+Right-Back,right,,John O'Kane,"1,78m",150458,['England'],,21,"Nov 15, 1974",Retired
+Right-Back,right,"Aug 1, 1989",Brian McAllister,"1,80m",109510,['Scotland'],Napier City Rovers,25,"Nov 30, 1970",Retired
+Right-Back,,"Jul 1, 1988",Roger Joseph,"1,80m",222295,['England'],: Ablöse ?,30,"Dec 24, 1965",Retired
+Defensive Midfield,right,"Sep 10, 1992",Vinnie Jones,"1,85m",136042,"['Wales', 'England']",: Ablöse €830k,31,"Jan 5, 1965",Retired
+Defensive Midfield,right,"Jul 29, 1991",Neal Ardley,"1,75m",13985,['England'],: Ablöse -,23,"Sep 1, 1972",Retired
+Central Midfield,,"Jul 1, 1995",Lenny Piper,"1,73m",322799,['England'],: Ablöse -,18,"Aug 8, 1977",---
+Central Midfield,,"Jan 1, 1992",Steve Talboys,,227871,['England'],: Ablöse ?,29,"Sep 18, 1966",---
+Central Midfield,right,"Jun 19, 1995",Michael Appleton,"1,75m",3279,['England'],: Ablöse free transfer,20,"Dec 4, 1975",Retired
+Central Midfield,right,"Jul 1, 1991",Stewart Castledine,"1,85m",109502,['England'],: Ablöse -,23,"Jan 22, 1973",Retired
+Central Midfield,,"Jul 1, 1991",Gerald Dobbs,,222287,['England'],: Ablöse -,25,"Jan 24, 1971",Retired
+Central Midfield,,"Jul 1, 1995",Mark Thomas,,663156,['England'],: Ablöse -,21,"Nov 22, 1974",Retired
+Central Midfield,,,Justin Skinner,"1,83m",14673,['England'],,27,"Jan 30, 1969",Retired
+Right Midfield,,,Richard O'Connor,,475704,"['Anguilla', 'England']",,17,"Aug 30, 1978",Unknown
+Attacking Midfield,right,"Jan 1, 1995",Øyvind Leonhardsen,"1,77m",4071,['Norway'],: Ablöse €975k,25,"Aug 17, 1970",Retired
+Attacking Midfield,,"Jul 1, 1991",Robbie Earle,"1,75m",109504,"['Jamaica', 'England']",: Ablöse ?,31,"Jan 27, 1965",Retired
+Left Winger,,"Feb 21, 1991",Andy Clarke,"1,78m",109503,['England'],Barnet FC,28,"Jul 22, 1967",Retired
+Second Striker,,"Jul 1, 1995",Jason Euell,"1,80m",3092,"['Jamaica', 'England']",: Ablöse -,19,"Feb 6, 1977",Retired
+Centre-Forward,,,Graeme Tomlinson,"1,75m",150468,['England'],,20,"Dec 10, 1975",Retired
+Centre-Forward,,"Oct 1, 1994",Efan Ekoku,"1,88m",102315,"['Nigeria', 'England']",: Ablöse €750k,29,"Jun 8, 1967",Retired
+Centre-Forward,both,"Jul 24, 2003",Dean Holdsworth,"1,80m",13792,['England'],Rushden & Diamonds (- 2011),27,"Nov 8, 1968",Retired
+Centre-Forward,right,"Mar 1, 1994",Marcus Gayle,"1,88m",3135,"['Jamaica', 'England']",: Ablöse €375k,25,"Sep 27, 1970",Retired
+Centre-Forward,left,"Nov 9, 1994",Jon Goodman,"1,80m",109506,"['Ireland', 'England']",: Ablöse €650k,25,"Jun 2, 1971",Retired
+Centre-Forward,,"Aug 18, 1994",Mick Harford,"1,88m",176806,['England'],Coventry City,37,"Feb 12, 1959",Retired
+Centre-Forward,,"Jul 1, 1993",Gary Blissett,,6778,['England'],: Ablöse free transfer,32,"Jun 29, 1964",Retired
+Centre-Forward,,"Feb 22, 1990",Aidan Newhouse,,237396,['England'],Chester City (- 2010),24,"May 23, 1972",Retired
+Centre-Forward,,,Grant Payne,,663143,['England'],,20,"Dec 25, 1975",Retired

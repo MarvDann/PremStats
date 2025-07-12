@@ -1,0 +1,36 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 19, 2016",Nick Pope,"1,98m",192080,['England'],€15.00m,,Charlton Athletic,30,"Apr 19, 1992",Newcastle United
+Goalkeeper,left,,"Aug 2, 2019",Bailey Peacock-Farrell,"1,94m",410436,"['Northern Ireland', 'England']",€900k,"Returned after loan spell with Aarhus GF; date: Jun 30, 2024; fee: End of loan",Leeds United,25,"Oct 29, 1996",Birmingham City
+Goalkeeper,right,,"Jul 20, 2021",Wayne Hennessey,"1,98m",45494,['Wales'],€500k,,Crystal Palace,35,"Jan 24, 1987",Without Club
+Goalkeeper,left,,"Aug 14, 2020",Will Norris,"1,95m",285033,['England'],€300k,,Wolverhampton Wanderers,28,"Aug 12, 1993",Portsmouth FC
+Goalkeeper,right,,,Lukas Jensen,"1,98m",581890,"['Denmark', 'England']",€50k,,,23,"Mar 18, 1999",Millwall FC
+Goalkeeper,,,,Sam Waller,"1,87m",733430,['England'],,,,18,"Sep 9, 2003",Burnley FC U21
+Centre-Back,right,,"Feb 1, 2016",James Tarkowski,"1,85m",173504,"['England', 'Poland']",€22.00m,,: Ablöse €4.00m,29,"Nov 19, 1992",Everton FC
+Centre-Back,right,,"Jul 1, 2021",Nathan Collins,"1,93m",469050,['Ireland'],€10.00m,,Stoke City,21,"Apr 30, 2001",Brentford FC
+Centre-Back,left,,"Jan 17, 2012",Ben Mee,"1,80m",74810,['England'],€2.50m,,: Ablöse ?,32,"Sep 21, 1989",Brentford FC
+Centre-Back,right,,"Jan 1, 2010",Kevin Long,"1,88m",111114,['Ireland'],€1.00m,,Cork City FC,31,"Aug 18, 1990",Toronto FC
+Centre-Back,left,,"Jul 8, 2019",Erik Pieters,"1,83m",43763,['Netherlands'],€900k,,Stoke City,33,"Aug 7, 1988",Without Club
+Centre-Back,right,,"Jul 1, 2021",Bobby Thomas,"1,86m",788283,['England'],€200k,,: Ablöse -,21,"Jan 30, 2001",Coventry City
+Left-Back,left,,"Jul 6, 2017",Charlie Taylor,"1,83m",195633,['England'],€3.00m,,Leeds United,28,"Sep 18, 1993",Southampton FC
+Left-Back,left,,,Owen Dodgson,"1,78m",686839,['England'],,,,19,"Mar 19, 2003",Burnley FC U21
+Right-Back,right,,"Aug 31, 2021",Connor Roberts,"1,75m",214666,['Wales'],€2.50m,,: Ablöse €2.90m,26,"Sep 23, 1995",Burnley FC
+Right-Back,right,,"Jul 1, 2015",Matthew Lowton,"1,80m",102258,['England'],€1.20m,,: Ablöse €1.40m,33,"Jun 9, 1989",Precision FC
+Right-Back,right,,"Jul 25, 2017",Phil Bardsley,"1,80m",15773,"['Scotland', 'England']",€250k,,Stoke City,37,"Jun 28, 1985",Retired
+Defensive Midfield,right,,"Jan 31, 2017",Ashley Westwood,"1,74m",91317,['England'],€2.00m,,: Ablöse €5.80m,32,"Apr 1, 1990",Charlotte FC
+Defensive Midfield,right,,"Jul 11, 2017",Jack Cork,"1,85m",40613,['England'],€1.80m,,: Ablöse €9.10m,33,"Jun 25, 1989",Burnley FC U21
+Central Midfield,right,Team captain,"Jan 30, 2020",Josh Brownhill,"1,79m",293569,['England'],€7.00m,,Bristol City,26,"Dec 19, 1995",Burnley FC
+Central Midfield,right,,"Sep 24, 2020",Dale Stephens,"1,85m",49755,['England'],€1.00m,,Brighton & Hove Albion,33,"Jun 12, 1989",Retired
+Central Midfield,left,Groin injury - Return unknown,,Anthony Mancini,"1,80m",677311,"['France', 'Spain']",€250k,,,21,"Apr 6, 2001",Hartlepool United
+Central Midfield,right,,,Mark Helm,"1,73m",596217,['England'],,,,20,"Oct 21, 2001",Fleetwood Town
+Attacking Midfield,right,,,Lewis Richardson,"1,78m",657863,['England'],,,,19,"Feb 7, 2003",Burnley FC U21
+Left Winger,left,,"Jul 1, 2018",Dwight McNeil,"1,83m",584769,['England'],€18.00m,,: Ablöse -,22,"Nov 22, 1999",Everton FC
+Left Winger,left,,"Aug 29, 2021",Maxwel Cornet,"1,79m",234781,"[""Cote d'Ivoire"", 'France']",€15.00m,,: Ablöse €15.00m,25,"Sep 27, 1996",Southampton FC
+Left Winger,left,,"Jul 1, 2022",Dara Costelloe,"1,75m",614700,['Ireland'],,,: Ablöse -,19,"Dec 11, 2002",Accrington Stanley
+Right Winger,left,,"Jul 19, 2016",Jóhann Berg Gudmundsson,"1,86m",89231,['Iceland'],€2.00m,,Charlton Athletic,31,"Oct 27, 1990",Al-Orobah FC
+Right Winger,right,,"Aug 25, 2021",Aaron Lennon,"1,65m",14221,"['England', 'Ireland']",€1.00m,,Kayserispor,35,"Apr 16, 1987",Retired
+Centre-Forward,right,,"Jan 31, 2022",Wout Weghorst,"1,97m",228645,['Netherlands'],€14.00m,"Returned after loan spell with TSG 1899 Hoffenheim; date: Jun 30, 2024; fee: End of loan",VfL Wolfsburg,29,"Aug 7, 1992",Ajax Amsterdam
+Centre-Forward,right,,"Aug 21, 2017",Chris Wood,"1,91m",108725,['New Zealand'],€10.00m,,Leeds United,30,"Dec 7, 1991",Nottingham Forest
+Centre-Forward,right,,"Jul 9, 2019",Jay Rodríguez,"1,85m",53360,"['England', 'Spain']",€2.00m,,West Bromwich Albion,32,"Jul 29, 1989",Burnley FC
+Centre-Forward,right,,"Aug 7, 2018",Matej Vydra,"1,80m",101500,['Czech Republic'],€2.00m,,Derby County,30,"May 1, 1992",FC Viktoria Plzen
+Centre-Forward,right,,"Jan 10, 2014",Ashley Barnes,"1,85m",63200,['England'],€1.50m,,Brighton & Hove Albion,32,"Oct 30, 1989",Norwich City
+Centre-Forward,,,,Joe McGlynn,,704801,"['Scotland', 'England']",,,,19,"Sep 27, 2002",Without Club

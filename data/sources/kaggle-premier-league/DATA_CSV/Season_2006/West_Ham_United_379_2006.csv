@@ -1,0 +1,36 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Aug 16, 2006",Rob Green,"1,91m",11680,['England'],€4.30m,: Ablöse €3.00m,27,"Jan 18, 1980",Retired
+Goalkeeper,right,"Jul 1, 2005",Roy Carroll,"1,89m",3534,['Northern Ireland'],€2.40m,Manchester United,29,"Sep 30, 1977",Retired
+Goalkeeper,,"Jul 1, 2004",Jimmy Walker,"1,80m",46746,['England'],€150k,: Ablöse free transfer,33,"Jul 9, 1973",Retired
+Centre-Back,left,"Jan 18, 2007",Matthew Upson,"1,85m",3273,['England'],€5.75m,: Ablöse €12.60m,28,"Apr 18, 1979",Retired
+Centre-Back,right,"Jul 1, 2003",Anton Ferdinand,"1,85m",3698,"['England', 'St. Lucia']",€3.80m,: Ablöse -,22,"Feb 18, 1985",Retired
+Centre-Back,right,"Jan 22, 2007",Lucas Neill,"1,85m",3826,"['Australia', 'Northern Ireland']",€3.60m,Blackburn Rovers,29,"Mar 9, 1978",Retired
+Centre-Back,right,"Jul 1, 2006",Jonathan Spector,"1,83m",24637,"['United States', 'Germany']",€1.75m,Manchester United,21,"Mar 1, 1986",Retired
+Centre-Back,right,"Jan 1, 2007",Calum Davenport,"1,93m",4221,['England'],€1.50m,Tottenham Hotspur,24,"Jan 1, 1983",Tavistock FC
+Centre-Back,right,"Jan 30, 2001",Christian Dailly,"1,83m",3799,['Scotland'],€1.40m,Blackburn Rovers,33,"Oct 23, 1973",Retired
+Centre-Back,right,"Jul 5, 2005",Danny Gabbidon,"1,78m",12709,"['Wales', 'Jamaica']",€1.40m,: Ablöse €2.00m,27,"Aug 8, 1979",Retired
+Centre-Back,right,"Aug 1, 2012",James Collins,"1,88m",12691,['Wales'],€500k,: Ablöse €3.20m,23,"Aug 23, 1983",Retired
+Left-Back,left,"Jul 5, 2005",Paul Konchesky,"1,78m",3296,['England'],€3.70m,Charlton Athletic,26,"May 15, 1981",Retired
+Left-Back,left,"Jul 1, 2012",George McCartney,"1,83m",3775,['Northern Ireland'],€1.60m,Sunderland AFC,26,"Apr 29, 1981",Retired
+Right-Back,right,"Jul 1, 2006",John Paintsil,"1,78m",35235,['Ghana'],€1.60m,: Ablöse €1.50m,26,"Jun 15, 1981",Retired
+Right-Back,right,"Jul 1, 2006",Tyrone Mears,"1,81m",14050,"['England', 'Sierra Leone']",€1.50m,: Ablöse €1.50m,24,"Feb 18, 1983",Retired
+Defensive Midfield,right,"Aug 31, 2006",Javier Mascherano,"1,74m",19981,"['Argentina', 'Italy']",€11.80m,Sport Club Corinthians Paulista,23,"Jun 8, 1984",Retired
+Defensive Midfield,right,"Jan 22, 2004",Nigel Reo-Coker,"1,75m",14060,"['England', 'Sierra Leone']",€4.30m,: Ablöse €750k,23,"May 14, 1984",Retired
+Defensive Midfield,right,"Jul 1, 2003",Hayden Mullins,"1,82m",14052,['England'],€1.10m,: Ablöse free transfer,28,"Mar 27, 1979",Retired
+Central Midfield,right,"Jul 1, 2006",Lee Bowyer,"1,75m",3877,['England'],€2.50m,Newcastle United,30,"Jan 3, 1977",Retired
+Central Midfield,left,"Jan 1, 2007",Nigel Quashie,"1,75m",4139,"['Scotland', 'England']",€2.00m,West Bromwich Albion,28,"Jul 20, 1978",Retired
+Central Midfield,right,"Jan 1, 2005",Mark Noble,"1,80m",31835,"['England', 'Ireland']",€800k,: Ablöse -,20,"May 8, 1987",Retired
+Right Midfield,right,"Jan 1, 2007",Shaun Newton,"1,74m",9171,['England'],€500k,Disqualification,31,"Aug 20, 1975",Retired
+Left Midfield,left,"Jan 1, 2007",Luís Boa Morte,"1,78m",3422,"['Portugal', 'Sao Tome and Principe']",€3.80m,Fulham FC,29,"Aug 4, 1977",Retired
+Left Midfield,left,"Aug 1, 2003",Matthew Etherington,"1,78m",3788,['England'],€2.90m,: Ablöse ?,25,"Aug 14, 1981",Retired
+Left Midfield,left,,Hogan Ephraim,"1,75m",31883,['England'],€100k,,19,"Mar 31, 1988",Retired
+Left Winger,left,"Jul 1, 2005",Kyel Reid,"1,78m",39709,"['England', 'Jamaica']",€50k,: Ablöse -,19,"Nov 26, 1987",Rayners Lane FC
+Right Winger,right,"Aug 31, 2012",Yossi Benayoun,"1,75m",7858,['Israel'],€4.50m,Chelsea FC,27,"May 5, 1980",Retired
+Centre-Forward,right,"Aug 31, 2006",Carlos Tevez,"1,71m",4276,['Argentina'],€12.00m,Sport Club Corinthians Paulista,23,"Feb 5, 1984",Retired
+Centre-Forward,right,"Jan 1, 2006",Dean Ashton,"1,85m",14168,['England'],€8.90m,: Ablöse €10.89m,23,"Nov 24, 1983",Retired
+Centre-Forward,right,"Nov 25, 2003",Marlon Harewood,"1,85m",10011,"['England', 'Barbados']",€4.50m,: Ablöse €725k,27,"Aug 25, 1979",Retired
+Centre-Forward,right,"Jan 1, 2007",Kepa Blanco,"1,86m",34494,['Spain'],€4.50m,Sevilla FC,23,"Jan 13, 1984",Retired
+Centre-Forward,left,"Jan 1, 2004",Bobby Zamora,"1,84m",4205,"['England', 'Trinidad and Tobago']",€3.40m,: Ablöse free transfer,26,"Jan 16, 1981",Retired
+Centre-Forward,right,"Oct 14, 2013",Carlton Cole,"1,91m",3179,"['England', 'Sierra Leone']",€2.30m,Without Club,23,"Oct 12, 1983",Retired
+Centre-Forward,,"Jul 14, 2004",Teddy Sheringham,,3392,['England'],€500k,: Ablöse free transfer,41,"Apr 2, 1966",Retired
+Centre-Forward,right,"Jul 1, 2005",Tony Stokes,"1,86m",39034,['England'],€50k,: Ablöse -,20,"Jan 7, 1987",Hullbridge Sports FC

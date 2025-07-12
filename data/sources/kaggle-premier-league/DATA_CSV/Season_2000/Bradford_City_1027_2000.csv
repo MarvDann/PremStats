@@ -1,0 +1,43 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jan 1, 1998",Gary Walsh,"1,91m",13547,['England'],: Ablöse €700k,33,"Mar 21, 1968",Retired
+Goalkeeper,,"Feb 1, 2000",Neville Southall,,135910,['Wales'],: Ablöse ?,42,"Sep 16, 1958",Retired
+Goalkeeper,,,Jon Worsnop,"1,83m",169409,['England'],,18,"Jan 13, 1983",Retired
+Goalkeeper,right,"Jul 1, 1999",Matt Clarke,"1,91m",13781,['England'],: Ablöse free transfer,27,"Nov 3, 1973",Retired
+Goalkeeper,right,"Jan 1, 2000",Aidan Davison,"1,85m",42041,"['Northern Ireland', 'England']",Sheffield United,33,"May 11, 1968",Retired
+Centre-Back,right,,Matt Lawrence,"1,85m",13590,['England'],,27,"Jun 19, 1974",Retired
+Centre-Back,right,"Jul 1, 1999",David Wetherall,"1,91m",13615,['England'],: Ablöse €2.10m,30,"Mar 14, 1971",Retired
+Centre-Back,right,"Jul 1, 1998",Ashley Westwood,"1,83m",50009,['England'],Crewe Alexandra,24,"Aug 31, 1976",Retired
+Centre-Back,right,"Jan 1, 2001",Robert Molenaar,"1,92m",6249,['Netherlands'],: Ablöse €680k,32,"Feb 27, 1969",Retired
+Centre-Back,right,"Jul 1, 1994",Andrew O'Brien,"1,91m",3228,"['Ireland', 'England']",Bradford City U18,22,"Jun 29, 1979",Retired
+Centre-Back,right,"Jul 1, 2000",Peter Atherton,"1,78m",13552,['England'],: Ablöse free transfer,31,"Apr 6, 1970",Retired
+Centre-Back,right,"Jul 1, 1994",Wayne Jacobs,"1,75m",13587,['England'],Rotherham United,32,"Feb 3, 1969",Retired
+Centre-Back,right,"Jul 1, 1997",Mark Bower,"1,78m",13554,['England'],Bradford City U18,21,"Jan 23, 1980",Retired
+Left-Back,left,"Jul 1, 1999",Andy Myers,"1,77m",15058,['England'],: Ablöse free transfer,27,"Nov 3, 1973",Retired
+Left-Back,left,"Jul 1, 2001",Lewis Emanuel,"1,73m",13568,"['England', 'Ireland']",Bradford City U18,17,"Oct 4, 1983",Retired
+Left-Back,,"Aug 1, 1998",Lee Todd,"1,65m",109498,['England'],Southampton FC,29,"Mar 7, 1972",Retired
+Left-Back,both,"Jul 1, 2000",Ian Nolan,"1,83m",107097,"['Northern Ireland', 'England']",: Ablöse free transfer,30,"Jul 9, 1970",Retired
+Right-Back,right,"Jul 1, 1999",Gunnar Halle,"1,83m",102506,['Norway'],: Ablöse ?,35,"Aug 11, 1965",Retired
+Right-Back,right,"Aug 2, 2000",Dan Petrescu,"1,77m",102023,"['Romania', 'England']",: Ablöse ?,33,"Dec 22, 1967",Retired
+Midfielder,,,Andy Lee,,106468,['England'],,18,"Aug 18, 1982",Retired
+Midfielder,,,Adam Hardy,,322711,['South Africa'],,18,"Feb 22, 1983",Unknown
+Midfielder,,,Craig Fishlock,,1070358,['England'],,18,"Feb 23, 1983",Retired
+Defensive Midfield,right,"Jan 1, 2002",Gary Locke,"1,78m",12717,['Scotland'],Heart of Midlothian FC,26,"Jun 16, 1975",Retired
+Central Midfield,right,"Jul 1, 1998",Stuart McCall,"1,68m",13529,"['Scotland', 'England']",: Ablöse free transfer,37,"Jun 10, 1964",Retired
+Central Midfield,right,"Jul 1, 1998",Gareth Whalley,"1,78m",12726,['England'],Crewe Alexandra,27,"Dec 19, 1973",Retired
+Central Midfield,,"Jul 1, 1999",Scott Kerr,"1,75m",67388,['England'],Bradford City U18,19,"Dec 11, 1981",Retired
+Right Midfield,right,"Jul 1, 2000",Billy McKinlay,"1,73m",9212,['Scotland'],Blackburn Rovers,32,"Apr 22, 1969",Retired
+Right Midfield,,"Jul 7, 2000",David Hopkin,,107198,['Scotland'],: Ablöse €3.75m,30,"Aug 21, 1970",Retired
+Left Midfield,left,"Jul 1, 1999",Lee Sharpe,"1,83m",107229,['England'],: Ablöse €300k,30,"May 27, 1971",Retired
+Left Winger,left,"May 1, 2001",Peter Beagrie,,138385,['England'],Wigan Athletic,35,"Nov 28, 1965",Retired
+Right Winger,right,"Jul 1, 1997",Jamie Lawrence,"1,76m",14039,"['Jamaica', 'England']",: Ablöse ?,31,"Mar 8, 1970",Retired
+Second Striker,,"Mar 1, 1997",Robbie Blake,"1,75m",3490,['England'],Darlington FC (- 2012),25,"Mar 4, 1976",Retired
+Second Striker,right,"Jul 1, 2000",Benny Carbone,"1,68m",3389,['Italy'],: Ablöse ?,29,"Aug 14, 1971",Retired
+Second Striker,right,"Jul 1, 2001",Eoin Jess,"1,78m",10009,['Scotland'],Aberdeen FC,30,"Dec 13, 1970",Retired
+Centre-Forward,right,"Jul 1, 2000",Ashley Ward,"1,85m",13548,['England'],Blackburn Rovers,30,"Nov 24, 1970",Retired
+Centre-Forward,right,"Aug 1, 1998",Lee Mills,"1,85m",211264,['England'],: Ablöse €1.25m,30,"Jul 10, 1970",Retired
+Centre-Forward,,,Ben Jones,,1187295,['England'],,18,"Oct 2, 1982",Retired
+Centre-Forward,right,"Jul 1, 2003",Dean Windass,"1,78m",3328,['England'],Sheffield United,32,"Apr 1, 1969",Retired
+Centre-Forward,right,"Jul 1, 1998",Isaiah Rankin,"1,78m",16495,['England'],Arsenal FC U18,23,"May 22, 1978",Retired
+Centre-Forward,,"Aug 5, 1999",Dean Saunders,,92213,['Wales'],SL Benfica,37,"Jun 21, 1964",Retired
+Striker,,,Gareth Grant,"1,88m",105052,['England'],,20,"Sep 6, 1980",Retired
+Centre-Forward,right,"Oct 26, 2000",Stan Collymore,"1,88m",106811,['England'],: Ablöse free transfer,30,"Jan 22, 1971",Retired

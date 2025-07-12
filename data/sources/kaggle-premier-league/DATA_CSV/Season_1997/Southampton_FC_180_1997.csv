@@ -1,0 +1,41 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 28, 1997",Paul Jones,"1,91m",3684,['Wales'],: Ablöse €1.35m,31,"Apr 18, 1967",Retired
+Goalkeeper,right,"Dec 31, 1996",Maik Taylor,"1,93m",3723,"['Northern Ireland', 'Germany']",Barnet FC,26,"Sep 4, 1971",Retired
+Goalkeeper,,"Dec 1, 1995",Neil Moss,"1,88m",48075,['England'],: Ablöse €40k,23,"May 10, 1975",Retired
+Goalkeeper,right,,Darryl Flahavan,"1,80m",39699,['England'],,19,"Nov 28, 1978",Retired
+Defender,,"Jul 1, 1996",Andy Williams,"1,78m",222265,"['Wales', 'England']",Southampton FC Reserves,20,"Oct 8, 1977",Retired
+Centre-Back,right,"Jul 1, 1996",Garry Monk,"1,83m",4111,['England'],: Ablöse free transfer,19,"Mar 6, 1979",Retired
+Centre-Back,,"Aug 21, 1992",Ken Monkou,"1,91m",109494,"['Netherlands', 'Suriname']",: Ablöse €844k,33,"Nov 29, 1964",Retired
+Centre-Back,right,"Jul 1, 1996",Claus Lundekvam,"1,91m",3687,['Norway'],SK Brann,25,"Feb 22, 1973",Retired
+Centre-Back,right,"Jan 1, 2001",Richard Dryden,"1,83m",109489,['England'],Swindon Town,29,"Jun 14, 1969",Retired
+Centre-Back,right,"Jul 1, 1995",Alan Neilson,"1,85m",175987,"['Wales', 'Germany']",Newcastle United,25,"Sep 26, 1972",Retired
+Left-Back,right,"Jul 1, 1993",Simon Charlton,"1,73m",19846,['England'],: Ablöse €350k,26,"Oct 25, 1971",Retired
+Left-Back,,"Jul 1, 1997",Lee Todd,"1,65m",109498,['England'],: Ablöse €1.10m,26,"Mar 7, 1972",Retired
+Left-Back,left,"Feb 5, 1998",John Beresford,"1,68m",109487,['England'],Newcastle United,31,"Sep 4, 1966",Retired
+Left-Back,left,"Jan 1, 1987",Francis Benali,"1,78m",3298,['England'],Southampton FC U18,29,"Dec 30, 1968",Retired
+Left-Back,left,"Jan 1, 1998",Wayne Bridge,"1,78m",3682,['England'],Southampton FC U18,17,"Aug 5, 1980",Retired
+Left-Back,left,"Jul 1, 1993",Matthew Robinson,"1,83m",13677,['England'],Southampton FC U18,23,"Dec 23, 1974",Retired
+Right-Back,right,"Oct 25, 1995",Barry Venison,"1,78m",176215,['England'],Galatasaray,33,"Aug 16, 1964",Retired
+Right-Back,,"Mar 1, 1989",Jason Dodd,,3685,['England'],Bath City,27,"Nov 2, 1970",Retired
+Right-Back,right,"Oct 18, 1996",Ulrich van Gobbel,"1,82m",92229,"['Netherlands', 'Suriname']",Galatasaray,27,"Jan 16, 1971",Retired
+Right-Back,right,"Jul 1, 1997",Phil Warner,"1,75m",66508,['England'],Southampton FC U18,19,"Feb 2, 1979",Without Club
+Defensive Midfield,right,"Jul 1, 1998",David Howells,"1,80m",109492,['England'],: Ablöse ?,30,"Dec 15, 1967",Retired
+Defensive Midfield,,"Sep 1, 1997",Carlton Palmer,,101325,['England'],: Ablöse €1.20m,32,"Dec 5, 1965",Retired
+Defensive Midfield,right,"Jul 1, 1995",Matt Oakley,"1,77m",3784,['England'],Southampton FC U18,20,"Aug 17, 1977",Retired
+Defensive Midfield,right,"Jul 1, 1997",Duncan Spedding,"1,85m",109497,['England'],Southampton FC Reserves,20,"Sep 7, 1977",Retired
+Central Midfield,,"Jul 1, 1996",Robbie Slater,"1,80m",133804,"['Australia', 'England']",: Ablöse ?,33,"Nov 22, 1964",Retired
+Central Midfield,,"Apr 14, 1988",Neil Maddison,,195000,['England'],Southampton FC U18,28,"Oct 2, 1969",Retired
+Central Midfield,,"Sep 9, 1997",Kevin Richardson,"1,75m",109495,['England'],Coventry City,35,"Dec 4, 1962",Retired
+Central Midfield,right,"Jul 1, 1997",Kevin Gibbens,"1,80m",109490,['England'],Southampton FC U18,18,"Nov 4, 1979",Retired
+Right Midfield,right,"Feb 11, 1994",Jim Magilton,"1,83m",3481,['Northern Ireland'],: Ablöse €800k,29,"May 6, 1969",Retired
+Left Midfield,right,"Sep 15, 1994",Ronnie Ekelund,"1,79m",168498,['Denmark'],: Ablöse ?,25,"Aug 21, 1972",Retired
+Attacking Midfield,right,"Jul 1, 1986",Matt Le Tissier,"1,85m",43705,"['England', 'Guernsey']",Southampton FC U18,29,"Oct 14, 1968",Retired
+Attacking Midfield,right,"Jul 1, 1991",David Hughes,"1,80m",195176,"['Wales', 'England']",Weymouth FC,25,"Dec 30, 1972",Retired
+Centre-Forward,right,"Sep 2, 1997",Jason Bowen,"1,70m",12686,['Wales'],: Ablöse free transfer,25,"Aug 24, 1972",Retired
+Centre-Forward,,"Jul 1, 1998",Cosimo Sarli,"1,8m",168250,['Italy'],: Ablöse ?,19,"Mar 13, 1979",Retired
+Centre-Forward,,"Jan 1, 1997",Mickey Evans,"1,83m",222258,['Ireland'],Plymouth Argyle,25,"Jan 1, 1973",Retired
+Centre-Forward,left,"Oct 3, 1996",Egil Østenstad,"1,83m",3705,['Norway'],Viking FK,26,"Jan 2, 1972",Retired
+Centre-Forward,right,"Aug 17, 1999",Kevin Davies,"1,83m",4114,['England'],Blackburn Rovers,21,"Mar 26, 1977",Retired
+Centre-Forward,right,"Jul 1, 1996",Steve Basham,"1,78m",13663,['England'],Southampton FC U18,20,"Dec 2, 1977",Retired
+Centre-Forward,right,"Jul 1, 1997",Stig Johansen,"1,78m",24083,['Norway'],FK Bodø/Glimt,26,"Jun 13, 1972",Retired
+Centre-Forward,,"Oct 1, 1997",David Hirst,,109491,"['England', 'Scotland']",: Ablöse €2.50m,30,"Dec 7, 1967",Retired

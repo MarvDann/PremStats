@@ -1,0 +1,37 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2014",Lukasz Fabianski,"1,90m",29692,['Poland'],€5.00m,Arsenal FC,33,"Apr 18, 1985",West Ham United
+Goalkeeper,right,,"Jul 1, 2017",Erwin Mulder,"1,93m",56631,['Netherlands'],€2.00m,: Ablöse free transfer,29,"Mar 3, 1989",Without Club
+Goalkeeper,right,,"Jul 1, 2015",Kristoffer Nordfeldt,"1,90m",75890,['Sweden'],€1.50m,: Ablöse €850k,29,"Jun 23, 1989",AIK
+Centre-Back,right,,"Aug 30, 2016",Alfie Mawson,"1,89m",287431,['England'],€15.00m,Barnsley FC,24,"Jan 19, 1994",Retired
+Centre-Back,right,,"Aug 20, 2014",Federico Fernández,"1,89m",85475,"['Argentina', 'Italy']",€8.00m,: Ablöse €10.00m,29,"Feb 21, 1989",Club Estudiantes de La Plata
+Centre-Back,right,,"Aug 17, 2012",Kyle Bartley,"1,94m",67421,"['England', 'Jamaica']",€3.50m,Arsenal FC U21,27,"May 22, 1991",West Bromwich Albion
+Centre-Back,right,,"Jul 6, 2016",Mike van der Hoorn,"1,90m",187105,['Netherlands'],€2.50m,Ajax Amsterdam,25,"Oct 15, 1992",FC Utrecht
+Centre-Back,right,,"Jul 1, 2018",Joe Rodon,"1,93m",297212,['Wales'],,: Ablöse -,20,"Oct 22, 1997",Leeds United
+Left-Back,left,,"Jan 17, 2017",Martin Olsson,"1,78m",38073,['Sweden'],€5.00m,: Ablöse €4.60m,30,"May 17, 1988",Malmö FF
+Right-Back,right,,"Jan 22, 2015",Kyle Naughton,"1,81m",66219,"['England', 'Ireland']",€5.00m,Tottenham Hotspur,29,"Nov 17, 1988",Swansea City
+Right-Back,right,,"Jul 1, 2007",Ángel Rangel,"1,88m",66550,['Spain'],€1.00m,Terrassa FC,35,"Nov 28, 1982",Retired
+Right-Back,right,,"Jul 1, 2017",Connor Roberts,"1,75m",214666,['Wales'],€1.00m,: Ablöse -,22,"Sep 23, 1995",Burnley FC
+Defensive Midfield,right,,"Jul 5, 2016",Leroy Fer,"1,88m",63342,"['Netherlands', 'Curacao']",€8.00m,Queens Park Rangers,28,"Jan 5, 1990",Al-Nasr SC (UAE)
+Defensive Midfield,right,,"Aug 24, 2012",Sung-yueng Ki,"1,89m",81796,"['Korea, South']",€7.00m,Celtic FC,29,"Jan 24, 1989",FC Seoul
+Defensive Midfield,left,Team captain,"Jan 3, 2015",Matt Grimes,"1,78m",265471,['England'],€1.00m,: Ablöse €2.24m,22,"Jul 15, 1995",Swansea City
+Defensive Midfield,,,,Adnan Maric,"1,81m",256652,"['Sweden', 'Bosnia-Herzegovina']",€40k,,21,"Feb 17, 1997",Without Club
+Central Midfield,right,,"Aug 31, 2017",Renato Sanches,"1,76m",258027,"['Portugal', 'Sao Tome and Principe']",€20.00m,: Ablöse €8.50m,20,"Aug 18, 1997",SL Benfica
+Central Midfield,left,,"Aug 23, 2017",Sam Clucas,"1,78m",122223,['England'],€8.00m,: Ablöse €16.30m,27,"Sep 25, 1990",Oldham Athletic
+Central Midfield,right,,"Jul 6, 2017",Roque Mesa,"1,72m",202984,['Spain'],€7.00m,UD Las Palmas,29,"Jun 7, 1989",Without Club
+Central Midfield,left,,"Jan 17, 2017",Tom Carroll,"1,77m",121279,['England'],€7.00m,Tottenham Hotspur,26,"May 28, 1992",Milton Keynes Dons
+Central Midfield,right,,"Jan 31, 2018",Andy King,"1,84m",56872,"['Wales', 'England']",€3.00m,Leicester City,29,"Oct 29, 1988",Retired
+Central Midfield,right,,"Jan 19, 2011",Leon Britton,"1,67m",40043,['England'],€1.00m,Sheffield United,35,"Sep 16, 1982",Retired
+Central Midfield,right,,"Jan 31, 2014",Jay Fulton,"1,85m",171260,"['Scotland', 'England']",€500k,Falkirk FC,24,"Apr 1, 1994",Swansea City
+Central Midfield,right,,"Jan 28, 2014",Adam King,"1,80m",169566,['Scotland'],€150k,Heart of Midlothian FC,22,"Oct 11, 1995",Without Club
+Central Midfield,right,,"Jul 1, 2018",George Byers,"1,80m",240083,"['Scotland', 'England']",€50k,: Ablöse -,22,"May 29, 1996",Port Vale FC
+Left Winger,left,,"Jan 31, 2018",André Ayew,"1,75m",45403,"['Ghana', 'France']",€15.00m,West Ham United,28,"Dec 17, 1989",Le Havre AC
+Left Winger,right,,"Aug 4, 2011",Wayne Routledge,"1,70m",14066,"['England', 'Jamaica']",€1.50m,Newcastle United,33,"Jan 7, 1985",Retired
+Left Winger,right,,"Jul 1, 2013",Kenji Gorré,"1,78m",374889,"['Curacao', 'Netherlands']",€250k,Without Club,23,"Sep 29, 1994",Umm Salal SC
+Right Winger,right,,"Jan 12, 2017",Luciano Narsingh,"1,75m",72462,"['Netherlands', 'Suriname']",€5.00m,: Ablöse €4.60m,27,"Sep 13, 1990",Nea Salamina Famagusta
+Right Winger,right,,"Jan 1, 2009",Nathan Dyer,"1,65m",37011,"['England', 'Jamaica']",€2.50m,Southampton FC,30,"Nov 29, 1987",Retired
+Right Winger,right,,"Jul 1, 2018",Daniel James,"1,71m",319301,"['Wales', 'England']",,: Ablöse -,20,"Nov 10, 1997",Leeds United
+Centre-Forward,right,,"Jul 4, 2017",Tammy Abraham,"1,94m",331726,"['England', 'Nigeria']",€10.00m,Chelsea FC,20,"Oct 2, 1997",AC Milan
+Centre-Forward,right,,"Aug 31, 2017",Wilfried Bony,"1,83m",81808,"[""Cote d'Ivoire"", 'United Kingdom']",€10.00m,Manchester City,29,"Dec 10, 1988",Without Club
+Centre-Forward,right,,"Jan 31, 2017",Jordan Ayew,"1,82m",108354,"['Ghana', 'France']",€8.00m,: Ablöse €5.80m,26,"Sep 11, 1991",Leicester City
+Centre-Forward,right,,"Jul 13, 2015",Oli McBurnie,"1,88m",298477,"['Scotland', 'England']",€1.00m,Bradford City,22,"Jun 4, 1996",UD Las Palmas
+Centre-Forward,right,,"Aug 14, 2017",Courtney Baker-Richardson,"1,85m",298231,['England'],,Leamington FC,22,"Dec 5, 1995",Newport County

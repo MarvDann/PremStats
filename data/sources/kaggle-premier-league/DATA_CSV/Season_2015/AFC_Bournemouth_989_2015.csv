@@ -1,0 +1,50 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2015",Artur Boruc,"1,93m",15220,['Poland'],€1.00m,Southampton FC,36,"Feb 20, 1980",Retired
+Goalkeeper,right,,"Jul 1, 2015",Adam Federici,"1,88m",4233,"['Australia', 'Italy']",€1.00m,Reading FC,31,"Jan 31, 1985",Retired
+Goalkeeper,right,,"Jan 18, 2013",Ryan Allsop,"1,89m",111073,['England'],€250k,Leyton Orient,24,"Jun 17, 1992",Birmingham City
+Goalkeeper,right,,"Jan 28, 2016",Marius Adamonis,"1,91m",300137,['Lithuania'],€50k,: Ablöse free transfer,19,"May 13, 1997",Catania FC
+Goalkeeper,right,,,Jordan Holmes,"1,88m",399158,['Australia'],,,19,"May 8, 1997",Western Sydney Wanderers
+Centre-Back,left,Cruciate ligament tear - Return unknown,"Jul 1, 2015",Tyrone Mings,"1,96m",253677,['England'],€6.00m,Ipswich Town,23,"Mar 13, 1993",Aston Villa
+Centre-Back,right,,"Jan 3, 2012",Steve Cook,"1,85m",90836,['England'],€3.00m,Brighton & Hove Albion,25,"Apr 19, 1991",Queens Park Rangers
+Centre-Back,right,,"Aug 11, 2012",Tommy Elphick,"1,88m",37152,['England'],€1.50m,Brighton & Hove Albion,28,"Sep 7, 1987",Retired
+Centre-Back,left,,"Jul 1, 2015",Sylvain Distin,"1,92m",3356,"['France', 'Guadeloupe']",€750k,Everton FC,38,"Dec 16, 1977",Retired
+Centre-Back,right,,"Jul 1, 2013",Elliott Ward,"1,85m",15838,['England'],€500k,: Ablöse free transfer,31,"Jan 19, 1985",Retired
+Centre-Back,right,,"Sep 22, 2011",Stéphane Zubar,"1,87m",56829,"['Guadeloupe', 'France']",€250k,Without Club,29,"Oct 9, 1986",SC Baie-Mahault
+Centre-Back,left,,"Jul 1, 2014",Baily Cargill,"1,89m",293450,['England'],€250k,AFC Bournemouth U21,20,"Jul 5, 1995",Mansfield Town
+Centre-Back,left,,"Jan 1, 2018",Jack Simpson,"1,90m",419930,['England'],,AFC Bournemouth U21,19,"Dec 18, 1996",Leyton Orient
+Centre-Back,right,,,Corey Jordan,"1,88m",435765,['England'],,,17,"Mar 4, 1999",Weymouth FC
+Left-Back,left,,"Jan 1, 2012",Charlie Daniels,"1,78m",61819,['England'],€2.00m,Leyton Orient,29,"Sep 7, 1986",Retired
+Left-Back,left,,"Sep 1, 2015",Joe Bennett,"1,78m",90964,['England'],€1.50m,: Ablöse ?,26,"Mar 28, 1990",Oxford United
+Left-Back,left,,"Feb 1, 2016",Rhoys Wiggins,"1,73m",42298,"['Wales', 'England']",€750k,: Ablöse €260k,28,"Nov 4, 1987",Retired
+Left-Back,left,"Suspension through sports court - until Nov 29, 2024 - Coppa Italia Serie C - 1 matchday",,Filippo Costa,"1,75m",197743,['Italy'],€250k,,21,"May 21, 1995",LR Vicenza
+Left-Back,left,,,Callum Buckley,"1,75m",398398,['England'],,,20,"Jan 12, 1996",Without Club
+Right-Back,right,,"Jan 9, 2012",Simon Francis,"1,91m",13573,['England'],€2.00m,Charlton Athletic,31,"Feb 16, 1985",Retired
+Right-Back,right,,"Jan 28, 2014",Adam Smith,"1,74m",61841,['England'],€1.50m,Tottenham Hotspur,25,"Apr 29, 1991",AFC Bournemouth
+Right-Back,right,,,Jordan Lee,"1,78m",416621,['England'],,,19,"Dec 31, 1996",Wimborne Town FC
+Defensive Midfield,left,,"Jul 1, 2015",Matt Butcher,"1,88m",391132,['England'],,AFC Bournemouth U18,19,"May 14, 1997",Wycombe Wanderers
+Central Midfield,right,,"Jul 1, 2014",Dan Gosling,"1,80m",44983,['England'],€2.00m,Newcastle United,26,"Feb 1, 1990",Westfield FC
+Central Midfield,left,,"Sep 1, 2014",Andrew Surman,"1,78m",29975,"['England', 'South Africa']",€1.50m,: Ablöse €630k,29,"Aug 20, 1986",Retired
+Central Midfield,left,,"Jul 1, 2010",Harry Arter,"1,77m",55742,"['Ireland', 'England']",€1.50m,Woking FC,26,"Dec 28, 1989",Precision FC
+Central Midfield,right,,"Jul 26, 2012",Eunan O'Kane,"1,68m",61583,"['Ireland', 'Northern Ireland']",€1.50m,: Ablöse free transfer,25,"Jul 10, 1990",Retired
+Central Midfield,right,,"Aug 25, 2011",Shaun MacDonald,"1,83m",10375,['Wales'],€500k,: Ablöse €170k,28,"Jun 17, 1988",Trefelin Boys & Girls Club
+Central Midfield,right,,"Jul 1, 2012",Josh Wakefield,"1,80m",225166,['England'],€100k,: Ablöse -,22,"Nov 6, 1993",FC Salisbury
+Right Midfield,left,,"Jan 30, 2013",Matt Ritchie,"1,73m",92469,"['Scotland', 'England']",€6.00m,Swindon Town,26,"Sep 10, 1989",Portsmouth FC
+Left Winger,right,,"Aug 4, 2015",Max Gradel,"1,75m",28140,"[""Cote d'Ivoire"", 'France']",€8.00m,: Ablöse €10.00m,28,"Nov 30, 1987",Amed SK
+Left Winger,right,,"Jul 1, 2014",Junior Stanislas,"1,83m",87672,"['England', 'St. Lucia']",€4.00m,: Ablöse free transfer,26,"Nov 26, 1989",Retired
+Left Winger,left,,"Jul 1, 2015",Christian Atsu,"1,65m",186997,['Ghana'],€3.50m,Chelsea FC,24,"Jan 10, 1992",---
+Left Winger,right,,"Jul 1, 2010",Marc Pugh,"1,80m",36939,['England'],€2.00m,Hereford United (- 2014),29,"Apr 2, 1987",Retired
+Left Winger,right,,"Jul 1, 2015",Joshua King,"1,80m",91059,['Norway'],€2.00m,Blackburn Rovers,24,"Jan 15, 1992",FC Toulouse
+Left Winger,right,,"Jan 18, 2013",Ryan Fraser,"1,63m",146795,['Scotland'],€500k,Aberdeen FC,22,"Feb 24, 1994",Southampton FC
+Right Winger,left,,"Jan 1, 2016",Juan Iturbe,"1,73m",81455,"['Paraguay', 'Argentina']",€15.00m,: Ablöse €1.20m,23,"Jun 4, 1993",Club Cerro Porteño
+Right Winger,right,,"Jul 22, 2015",Jordan Green,"1,68m",416622,['England'],,: Ablöse free transfer,21,"Feb 22, 1995",Ramsgate FC
+Second Striker,right,,"Aug 4, 2015",Lee Tomlin,"1,80m",104586,['England'],€3.50m,Middlesbrough FC,27,"Jan 12, 1989",Without Club
+Centre-Forward,right,,"Jan 10, 2016",Benik Afobe,"1,83m",110858,"['DR Congo', 'England']",€9.00m,Wolverhampton Wanderers,23,"Feb 12, 1993",Al-Mesaimeer SC
+Centre-Forward,right,Back injury - Return unknown,"Jul 4, 2014",Callum Wilson,"1,80m",123682,['England'],€7.00m,Coventry City,24,"Feb 27, 1992",Newcastle United
+Centre-Forward,right,,"Sep 1, 2015",Glenn Murray,"1,86m",45693,['England'],€4.00m,Crystal Palace,32,"Sep 25, 1983",Retired
+Centre-Forward,right,,"Jan 11, 2016",Lewis Grabban,"1,83m",35413,"['Jamaica', 'England']",€4.00m,: Ablöse €9.35m,28,"Jan 12, 1988",Without Club
+Centre-Forward,right,,"Aug 28, 2013",Tokelo Rantie,"1,72m",198495,['South Africa'],€1.00m,Malmö FF,25,"Sep 8, 1990",Without Club
+Centre-Forward,right,,"Jan 31, 2014",Yann Kermorgant,"1,84m",57410,['France'],€500k,Charlton Athletic,34,"Nov 8, 1981",Retired
+Centre-Forward,right,,"Oct 6, 2009",Jayden Stockley,"1,88m",134293,['England'],€250k,: Ablöse -,22,"Sep 15, 1993",Port Vale FC
+Centre-Forward,right,,"Jan 8, 2013",Harry Cornick,"1,80m",255703,['England'],,Christchurch FC,21,"Apr 9, 1995",Bristol City
+Centre-Forward,,,,Joe Quigley,"1,91m",386148,"['Ireland', 'England']",,,19,"Dec 10, 1996",Forest Green Rovers
+Centre-Forward,right,,"Jul 1, 2019",Sam Surridge,"1,90m",398402,['England'],,AFC Bournemouth U21,17,"Jul 28, 1998",Nashville SC

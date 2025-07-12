@@ -1,0 +1,35 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,,"Jul 1, 2008",Mark Schwarzer,,3357,"['Australia', 'Germany']",€3.50m,Middlesbrough FC,38,"Oct 6, 1972",Retired
+Goalkeeper,right,,"Jul 1, 2008",David Stockdale,"1,90m",67339,['England'],€1.50m,Darlington FC (- 2012),25,"Sep 20, 1985",Retired
+Goalkeeper,right,,"Jan 1, 2011",Neil Etheridge,"1,88m",61694,"['Philippines', 'England']",€250k,Fulham FC Reserves,21,"Feb 7, 1990",Buriram United
+Goalkeeper,right,,"Aug 7, 2008",Pascal Zuberbühler,"1,97m",95,['Switzerland'],,: Ablöse free transfer,40,"Jan 8, 1971",Retired
+Centre-Back,right,,"Jan 18, 2008",Brede Hangeland,"1,99m",25553,"['Norway', 'United States']",€10.00m,: Ablöse €3.30m,30,"Jun 20, 1981",Retired
+Centre-Back,right,,"Jul 1, 2007",Aaron Hughes,"1,83m",3580,['Northern Ireland'],€5.50m,: Ablöse €1.50m,31,"Nov 8, 1979",Retired
+Centre-Back,right,,"Aug 27, 2010",Carlos Salcido,"1,78m",31434,['Mexico'],€4.50m,: Ablöse €1.95m,31,"Apr 2, 1980",Retired
+Centre-Back,right,,"Jul 1, 2010",Philippe Senderos,"1,89m",4277,"['Switzerland', 'Spain']",€3.00m,: Ablöse free transfer,26,"Feb 14, 1985",Retired
+Centre-Back,right,,"Aug 23, 2010",Rafik Halliche,"1,87m",67815,['Algeria'],€1.50m,SL Benfica,24,"Sep 2, 1986",Retired
+Centre-Back,left,,"Jul 1, 2011",Matthew Briggs,"1,83m",51318,"['Guyana', 'England']",€1.00m,Fulham FC Reserves,20,"Mar 6, 1991",Retired
+Left-Back,left,,"Jul 13, 2007",Paul Konchesky,"1,78m",3296,['England'],€4.00m,: Ablöse €4.00m,30,"May 15, 1981",Retired
+Right-Back,right,,"Jul 1, 2008",John Paintsil,"1,78m",35235,['Ghana'],€4.00m,: Ablöse €3.80m,30,"Jun 15, 1981",Retired
+Right-Back,right,,"Jul 1, 2009",Stephen Kelly,"1,84m",12125,['Ireland'],€1.50m,: Ablöse free transfer,27,"Sep 6, 1983",Retired
+Right-Back,right,,"Jul 1, 2008",Fredrik Stoor Siekkinen,"1,84m",24057,['Sweden'],€750k,: Ablöse €3.00m,27,"Feb 28, 1984",Retired
+Defensive Midfield,right,,"Feb 18, 2016",Chris Baird,"1,85m",4115,['Northern Ireland'],€3.50m,Derby County,29,"Feb 25, 1982",Retired
+Defensive Midfield,right,,"Aug 29, 2008",Dickson Etuhu,"1,89m",14011,"['Nigeria', 'England']",€3.50m,Sunderland AFC,29,"Jun 8, 1982",Retired
+Central Midfield,left,,"Aug 18, 2010",Mousa Dembélé,"1,85m",19368,"['Belgium', 'Mali']",€7.50m,AZ Alkmaar,23,"Jul 16, 1987",Retired
+Central Midfield,right,,"Jan 1, 2011",Steve Sidwell,"1,83m",13427,['England'],€3.00m,: Ablöse €600k,28,"Dec 14, 1982",Retired
+Central Midfield,right,,"Aug 31, 2007",Danny Murphy,"1,77m",3221,['England'],€3.00m,Tottenham Hotspur,34,"Mar 18, 1977",Retired
+Central Midfield,right,,"Jul 1, 2010",Jonathan Greening,"1,80m",3865,['England'],€2.50m,West Bromwich Albion,32,"Jan 2, 1979",Retired
+Central Midfield,right,,"Jul 22, 2009",Bjørn Helge Riise,"1,75m",13485,['Norway'],€1.00m,Lillestrøm SK,28,"Jun 21, 1983",Stabæk Fotball II
+Central Midfield,right,,"Jul 29, 2009",Kagisho Dikgacoi,"1,83m",63285,['South Africa'],€1.00m,Lamontville Golden Arrows,26,"Nov 24, 1984",Retired
+Right Midfield,left,,"Aug 1, 2009",Damien Duff,"1,77m",3259,['Ireland'],€4.50m,Newcastle United,32,"Mar 2, 1979",Retired
+Right Midfield,right,,"Jan 24, 2007",Simon Davies,"1,78m",4056,['Wales'],€4.00m,: Ablöse free transfer,31,"Oct 23, 1979",Retired
+Attacking Midfield,right,,"Jul 1, 2008",Zoltán Gera,"1,83m",18324,['Hungary'],€4.00m,West Bromwich Albion,32,"Apr 22, 1979",Retired
+Attacking Midfield,left,unknown injury - Return unknown,"Jan 25, 2011",Gaël Kakuta,"1,73m",74297,"['DR Congo', 'France']",€3.00m,Chelsea FC,20,"Jun 21, 1991",Esteghlal FC
+Right Winger,both,,"Jul 1, 2007",Diomansy Kamara,"1,84m",6053,"['Senegal', 'France']",€2.00m,West Bromwich Albion,30,"Nov 8, 1980",Retired
+Second Striker,right,,"Jan 1, 2014",Clint Dempsey,"1,85m",27577,['United States'],€9.00m,: Ablöse ?,28,"Mar 9, 1983",Retired
+Centre-Forward,left,,"Jul 1, 2008",Bobby Zamora,"1,84m",4205,"['England', 'Trinidad and Tobago']",€7.00m,: Ablöse €4.10m,30,"Jan 16, 1981",Retired
+Centre-Forward,right,,"Aug 7, 2008",Andy Johnson,"1,72m",14031,['England'],€6.00m,: Ablöse €13.30m,30,"Feb 10, 1981",Retired
+Centre-Forward,right,,"Jan 31, 2011",Eidur Gudjohnsen,"1,85m",3176,['Iceland'],€2.00m,Stoke City,32,"Sep 15, 1978",Retired
+Centre-Forward,right,,"Jan 23, 2008",Eddie Johnson,"1,83m",38773,['United States'],€1.00m,: Ablöse €2.50m,27,"Mar 31, 1984",Retired
+Centre-Forward,right,,"Sep 1, 2009",David Elm,"1,91m",36392,['Sweden'],€1.00m,Kalmar FF,28,"Jan 10, 1983",Retired
+Centre-Forward,right,,,Danny Hoesen,"1,86m",81163,"['Netherlands', 'Morocco']",€50k,,20,"Jan 15, 1991",Retired

@@ -1,0 +1,30 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Aug 11, 1994",Bruce Grobbelaar,,145786,"['Zimbabwe', 'South Africa']",: Ablöse free transfer,38,"Oct 6, 1957",Retired
+Goalkeeper,,"Nov 4, 1993",Dave Beasant,"1,93m",10384,['England'],: Ablöse €380k,37,"Mar 20, 1959",Retired
+Goalkeeper,right,,Darryl Flahavan,"1,80m",39699,['England'],,17,"Nov 28, 1978",Retired
+Centre-Back,,"Jan 1, 1991",Richard Hall,"1,85m",222259,['England'],Scunthorpe United,24,"Mar 14, 1972",Retired
+Centre-Back,,"Aug 21, 1992",Ken Monkou,"1,91m",109494,"['Netherlands', 'Suriname']",: Ablöse €844k,31,"Nov 29, 1964",Retired
+Centre-Back,right,"Jul 1, 1995",Alan Neilson,"1,85m",175987,"['Wales', 'Germany']",Newcastle United,23,"Sep 26, 1972",Retired
+Centre-Back,,"Aug 10, 1994",Peter Whiston,"1,85m",227620,['England'],: Ablöse €38k,28,"Jan 4, 1968",Retired
+Left-Back,left,"Jan 1, 1987",Francis Benali,"1,78m",3298,['England'],Southampton FC U18,27,"Dec 30, 1968",Retired
+Left-Back,right,"Jul 1, 1993",Simon Charlton,"1,73m",19846,['England'],: Ablöse €350k,24,"Oct 25, 1971",Retired
+Left-Back,,"Jun 8, 1993",Paul McDonald,,227862,['Scotland'],Hamilton Academical FC,28,"Apr 20, 1968",Retired
+Left-Back,left,"Jul 1, 1993",Matthew Robinson,"1,83m",13677,['England'],Southampton FC U18,21,"Dec 23, 1974",Retired
+Right-Back,,"Mar 1, 1989",Jason Dodd,,3685,['England'],Bath City,25,"Nov 2, 1970",Retired
+Right-Back,right,"Oct 25, 1995",Barry Venison,"1,78m",176215,['England'],Galatasaray,31,"Aug 16, 1964",Retired
+Defensive Midfield,right,"Jul 1, 1995",Matt Oakley,"1,77m",3784,['England'],Southampton FC U18,18,"Aug 17, 1977",Retired
+Central Midfield,,"Apr 14, 1988",Neil Maddison,,195000,['England'],Southampton FC U18,26,"Oct 2, 1969",Retired
+Central Midfield,,"May 10, 1990",Tommy Widdrington,"1,78m",70283,['England'],Southampton FC U18,24,"Oct 1, 1971",Retired
+Central Midfield,right,"Jul 1, 1991",Paul Tisdale,"1,75m",77580,"['Malta', 'England']",Southampton FC U18,23,"Jan 14, 1973",Retired
+Central Midfield,,"Mar 31, 1995",Christer Warren,,230348,['England'],Cheltenham Town,21,"Oct 10, 1974",Retired
+Right Midfield,right,"Feb 11, 1994",Jim Magilton,"1,83m",3481,['Northern Ireland'],: Ablöse €800k,27,"May 6, 1969",Retired
+Right Midfield,,"Jul 1, 1993",Paul Allen,"1,70m",222253,['England'],: Ablöse €660k,33,"Aug 28, 1962",Retired
+Left Midfield,left,"Jan 18, 1996",Mark Walters,"1,78m",180242,['England'],: Ablöse free transfer,32,"Jun 2, 1964",Retired
+Left Midfield,left,"Jul 1, 1992",Paul Sheerin,"1,78m",12790,['Scotland'],Alloa Athletic FC,21,"Aug 28, 1974",Retired
+Attacking Midfield,right,"Jul 1, 1986",Matt Le Tissier,"1,85m",43705,"['England', 'Guernsey']",Southampton FC U18,27,"Oct 14, 1968",Retired
+Attacking Midfield,right,"Jul 1, 1991",David Hughes,"1,80m",195176,"['Wales', 'England']",Weymouth FC,23,"Dec 30, 1972",Retired
+Left Winger,right,"Mar 22, 1994",Neil Heaney,"1,75m",21265,['England'],: Ablöse €380k,24,"Nov 3, 1971",Retired
+Centre-Forward,,"Jan 1, 1995",Gordon Watson,"1,78m",222264,['England'],: Ablöse €1.45m,25,"Mar 20, 1971",Retired
+Centre-Forward,right,"Jan 1, 1995",Neil Shipperley,"1,85m",13801,['England'],: Ablöse €1.75m,21,"Oct 30, 1974",Retired
+Centre-Forward,,"Feb 1, 1994",Craig Maskell,,224246,['England'],Swindon Town,28,"Apr 10, 1968",Retired
+Centre-Forward,,"Feb 24, 1993",Frankie Bennett,"1,70m",226612,['England'],Halesowen Town,27,"Jan 3, 1969",Retired

@@ -1,0 +1,33 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Mar 28, 1996",Carl Muggleton,"1,88m",44487,['England'],: Ablöse ?,25,"Sep 13, 1968",Retired
+Goalkeeper,right,"Jul 1, 1992",Alan Kelly,"1,89m",3819,"['Ireland', 'England']",: Ablöse €210k,25,"Aug 11, 1968",Retired
+Goalkeeper,,"Oct 19, 1988",Simon Tracey,,224428,['England'],: Ablöse €10k,26,"Dec 9, 1967",Retired
+Goalkeeper,,"Aug 18, 1993",Sal Bibbo,,1035023,"['England', 'Italy']",Crawley Town,19,"Aug 24, 1974",Retired
+Centre-Back,,"Sep 17, 1991",Brian Gayle,,177110,['England'],: Ablöse €1.00m,29,"Mar 6, 1965",Retired
+Centre-Back,,"Aug 1, 1993",Dave Tuttle,"1,88m",195615,['England'],: Ablöse €490k,22,"Feb 6, 1972",Retired
+Centre-Back,left,"Jul 10, 1990",Paul Beesley,"1,85m",223222,['England'],Leyton Orient,28,"Jul 21, 1965",Retired
+Centre-Back,,"Jul 27, 1990",John Pemberton,,223245,['England'],: Ablöse €375k,29,"Nov 18, 1964",Retired
+Centre-Back,left,"Jul 1, 1993",Jonas Wirmola,"1,91m",185897,['Sweden'],Spårvägens FF,24,"Jul 17, 1969",Retired
+Centre-Back,,"Nov 2, 1993",Roger Nilsen,,102509,['Norway'],Viking FK,24,"Aug 8, 1969",Retired
+Left-Back,left,"Jul 1, 1991",Tom Cowan,"1,74m",12825,['Scotland'],: Ablöse ?,24,"Aug 28, 1969",Retired
+Left-Back,,"Jul 11, 1989",David Barnes,,226549,['England'],: Ablöse €63k,32,"Nov 16, 1961",Retired
+Right-Back,,"Nov 15, 1991",Kevin Gage,"1,78m",222639,['England'],: Ablöse €188k,30,"Apr 21, 1964",Retired
+Right-Back,right,"Sep 7, 1989",Carl Bradshaw,"1,78m",177104,['England'],: Ablöse €58k,25,"Oct 2, 1968",Retired
+Defensive Midfield,,"Jul 1, 1993",Chris Kamara,,232934,['England'],: Ablöse free transfer,36,"Dec 25, 1957",Retired
+Central Midfield,,"Aug 1, 1989",John Gannon,"1,73m",226563,"['England', 'Ireland']",: Ablöse free transfer,27,"Dec 18, 1966",Retired
+Central Midfield,,"Jan 29, 1992",Paul Rogers,,228611,['England'],Sutton United,29,"Mar 21, 1965",Retired
+Central Midfield,both,"Jul 1, 1989",Mitch Ward,,199621,['England'],Sheffield United U18,23,"Jun 19, 1971",Retired
+Central Midfield,,"Aug 1, 1991",Charlie Hartfield,"1,83m",226569,['England'],Arsenal FC Reserves,22,"Sep 4, 1971",Retired
+Central Midfield,,"Aug 24, 1988",Ian Bryson,"1,80m",226554,['Scotland'],: Ablöse €60k,31,"Nov 26, 1962",Retired
+Central Midfield,right,"Jul 4, 1990",Jamie Hoyland,"1,83m",232476,['England'],Bury FC,28,"Jan 23, 1966",Retired
+Right Midfield,left,"Jan 17, 1991",Glyn Hodges,"1,85m",221987,"['Wales', 'England']",: Ablöse ?,31,"Apr 30, 1963",Retired
+Left Midfield,,"Jul 1, 1989",Dane Whitehouse,,228617,['England'],Sheffield United U18,23,"Oct 14, 1970",Retired
+Right Winger,,"Jan 12, 1993",Franz Carr,"1,70m",222286,['England'],Newcastle United,27,"Sep 24, 1966",Retired
+Right Winger,right,"Jul 1, 1993",Jostein Flo,"1,92m",102505,['Norway'],Sogndal IL,29,"Oct 3, 1964",Retired
+Centre-Forward,right,"Jan 1, 1994",Nathan Blake,"1,82m",4229,['Wales'],: Ablöse €420k,22,"Jan 27, 1972",Retired
+Centre-Forward,,"Oct 23, 2001",Adrian Littlejohn,,227031,['England'],Bury FC,23,"Sep 26, 1970",Retired
+Centre-Forward,,"Aug 1, 1993",Willie Falconer,,220507,['Scotland'],: Ablöse €600k,28,"Apr 5, 1966",Retired
+Centre-Forward,,"Mar 9, 1992",Alan Cork,"1,83m",226560,['England'],: Ablöse free transfer,35,"Mar 4, 1959",Retired
+Centre-Forward,right,"Jul 1, 1992",Andy Scott,"1,85m",13678,['England'],Sutton United,21,"Aug 2, 1972",Retired
+Centre-Forward,,,John Reed,"1,78m",427806,['England'],,21,"Aug 27, 1972",Retired
+Centre-Forward,,"Nov 4, 1993",Bobby Davison,,235737,['England'],: Ablöse free transfer,34,"Jul 17, 1959",Retired

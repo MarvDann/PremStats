@@ -1,0 +1,37 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Aug 16, 2006",Rob Green,"1,91m",11680,['England'],€6.50m,: Ablöse €3.00m,28,"Jan 18, 1980",Retired
+Goalkeeper,right,"Jul 1, 2007",Richard Wright,"1,90m",3120,['England'],€800k,: Ablöse free transfer,30,"Nov 5, 1977",Retired
+Goalkeeper,,"Jul 1, 2004",Jimmy Walker,"1,80m",46746,['England'],€150k,: Ablöse free transfer,34,"Jul 9, 1973",Retired
+Centre-Back,left,"Jan 18, 2007",Matthew Upson,"1,85m",3273,['England'],€6.00m,: Ablöse €12.60m,29,"Apr 18, 1979",Retired
+Centre-Back,right,"Jan 22, 2007",Lucas Neill,"1,85m",3826,"['Australia', 'Northern Ireland']",€5.00m,Blackburn Rovers,30,"Mar 9, 1978",Retired
+Centre-Back,right,"Jul 1, 2003",Anton Ferdinand,"1,85m",3698,"['England', 'St. Lucia']",€4.00m,: Ablöse -,23,"Feb 18, 1985",Retired
+Centre-Back,right,"Jul 5, 2005",Danny Gabbidon,"1,78m",12709,"['Wales', 'Jamaica']",€2.00m,: Ablöse €2.00m,28,"Aug 8, 1979",Retired
+Centre-Back,right,"Jul 1, 2006",Jonathan Spector,"1,83m",24637,"['United States', 'Germany']",€2.00m,Manchester United,22,"Mar 1, 1986",Retired
+Centre-Back,right,"Aug 1, 2012",James Collins,"1,88m",12691,['Wales'],€1.00m,: Ablöse €3.20m,24,"Aug 23, 1983",Retired
+Centre-Back,right,"Jan 1, 2007",Calum Davenport,"1,93m",4221,['England'],€1.00m,Tottenham Hotspur,25,"Jan 1, 1983",Tavistock FC
+Centre-Back,right,"Jan 30, 2001",Christian Dailly,"1,83m",3799,['Scotland'],€800k,Blackburn Rovers,34,"Oct 23, 1973",Retired
+Centre-Back,right,"Jul 1, 2007",James Tomkins,"1,92m",61592,['England'],€150k,: Ablöse -,19,"Mar 29, 1989",Without Club
+Left-Back,left,"Jul 1, 2012",George McCartney,"1,83m",3775,['Northern Ireland'],€3.00m,Sunderland AFC,27,"Apr 29, 1981",Retired
+Right-Back,right,"Aug 1, 2007",Julien Faubert,"1,80m",18093,"['Martinique', 'France']",€9.00m,: Ablöse €9.15m,24,"Aug 1, 1983",Retired
+Right-Back,right,"Jul 1, 2006",John Paintsil,"1,78m",35235,['Ghana'],€1.50m,: Ablöse €1.50m,27,"Jun 15, 1981",Retired
+Defensive Midfield,right,"Jul 1, 2003",Hayden Mullins,"1,82m",14052,['England'],€3.50m,: Ablöse free transfer,29,"Mar 27, 1979",Retired
+Central Midfield,right,"Jul 1, 2007",Scott Parker,"1,80m",3785,['England'],€9.50m,Newcastle United,27,"Oct 13, 1980",Retired
+Central Midfield,right,"Jan 1, 2005",Mark Noble,"1,80m",31835,"['England', 'Ireland']",€4.00m,: Ablöse -,21,"May 8, 1987",Retired
+Central Midfield,right,"Jul 1, 2006",Lee Bowyer,"1,75m",3877,['England'],€3.00m,Newcastle United,31,"Jan 3, 1977",Retired
+Central Midfield,left,"Jan 1, 2007",Nigel Quashie,"1,75m",4139,"['Scotland', 'England']",€1.00m,West Bromwich Albion,29,"Jul 20, 1978",Retired
+Central Midfield,right,"Jul 1, 2007",Jack Collison,"1,83m",61568,"['Wales', 'England']",€150k,: Ablöse -,19,"Oct 2, 1988",Retired
+Right Midfield,right,"Aug 16, 2007",Kieron Dyer,"1,70m",3118,"['England', 'Antigua and Barbuda']",€7.50m,Newcastle United,29,"Dec 29, 1978",Retired
+Right Midfield,,"Jul 1, 2007",Freddie Ljungberg,,3134,['Sweden'],€6.00m,: Ablöse €4.50m,31,"Apr 16, 1977",Retired
+Right Midfield,right,"Aug 1, 2007",Nolberto Solano,"1,76m",3460,['Peru'],€4.00m,Newcastle United,33,"Dec 12, 1974",Retired
+Left Midfield,left,"Aug 1, 2003",Matthew Etherington,"1,78m",3788,['England'],€4.50m,: Ablöse ?,26,"Aug 14, 1981",Retired
+Left Midfield,left,"Jan 1, 2007",Luís Boa Morte,"1,78m",3422,"['Portugal', 'Sao Tome and Principe']",€4.00m,Fulham FC,30,"Aug 4, 1977",Retired
+Left Midfield,left,,Hogan Ephraim,"1,75m",31883,['England'],€600k,,20,"Mar 31, 1988",Retired
+Left Winger,right,"Jul 10, 2007",Craig Bellamy,"1,73m",3297,['Wales'],€9.50m,: Ablöse €11.25m,28,"Jul 13, 1979",Retired
+Left Winger,left,"Jul 1, 2005",Kyel Reid,"1,78m",39709,"['England', 'Jamaica']",€500k,: Ablöse -,20,"Nov 26, 1987",Rayners Lane FC
+Right Winger,right,"May 31, 2008",Zavon Hines,"1,78m",67081,"['Jamaica', 'England']",,Coventry City,19,"Dec 27, 1988",Retired
+Second Striker,right,"Jan 1, 2008",Freddie Sears,"1,70m",70714,['England'],€250k,: Ablöse -,18,"Nov 27, 1989",Chatham Town
+Centre-Forward,right,"Jan 1, 2006",Dean Ashton,"1,85m",14168,['England'],€8.00m,: Ablöse €10.89m,24,"Nov 24, 1983",Retired
+Centre-Forward,both,"Jul 1, 2007",Henri Camara,"1,78m",3900,"['Senegal', 'France']",€4.00m,Wigan Athletic,31,"May 10, 1977",Retired
+Centre-Forward,right,"Oct 14, 2013",Carlton Cole,"1,91m",3179,"['England', 'Sierra Leone']",€4.00m,Without Club,24,"Oct 12, 1983",Retired
+Centre-Forward,left,"Jan 1, 2004",Bobby Zamora,"1,84m",4205,"['England', 'Trinidad and Tobago']",€3.00m,: Ablöse free transfer,27,"Jan 16, 1981",Retired
+Centre-Forward,right,"Jul 1, 2005",Tony Stokes,"1,86m",39034,['England'],€100k,: Ablöse -,21,"Jan 7, 1987",Hullbridge Sports FC

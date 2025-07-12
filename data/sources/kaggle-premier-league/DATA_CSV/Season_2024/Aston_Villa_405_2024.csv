@@ -1,0 +1,26 @@
+position,foot,status,joinedOn,name,height,id,nationality,contract,marketValue,joined,age,dateOfBirth,signedFrom
+Goalkeeper,right,,"Sep 16, 2020",Emiliano Martínez,"1,95m",111873,"['Argentina', 'Spain']","Jun 30, 2029",€28.00m,,32,"Sep 2, 1992",Arsenal FC
+Goalkeeper,right,,"Feb 1, 2024",Joe Gauci,"1,94m",591844,"['Australia', 'New Zealand']","Jun 30, 2028",€1.50m,,24,"Jul 4, 2000",Adelaide United
+Goalkeeper,right,,"Jul 1, 2022",Robin Olsen,"1,96m",75458,"['Sweden', 'Denmark']","Jun 30, 2025",€1.50m,,34,"Jan 8, 1990",AS Roma
+Centre-Back,left,,"Jul 12, 2023",Pau Torres,"1,92m",399776,['Spain'],"Jun 30, 2028",€45.00m,,27,"Jan 16, 1997",Villarreal CF
+Centre-Back,right,,"Jul 11, 2019",Ezri Konsa,"1,83m",413403,"['England', 'DR Congo']","Jun 30, 2028",€35.00m,,27,"Oct 23, 1997",Brentford FC
+Centre-Back,right,,"Jul 1, 2022",Diego Carlos,"1,85m",329145,"['Brazil', 'Spain']","Jun 30, 2026",€12.00m,,31,"Mar 15, 1993",Sevilla FC
+Centre-Back,left,Cruciate ligament tear - Return unknown,"Jul 8, 2019",Tyrone Mings,"1,96m",253677,['England'],"Jun 30, 2026",€10.00m,,31,"Mar 13, 1993",AFC Bournemouth
+Centre-Back,left,"No eligibility - until Jan 31, 2025 - UEFA Champions League; Knee surgery - Return unknown","Jul 1, 2019",Kortney Hause,"1,91m",233124,"['England', 'Bermuda']","Jun 30, 2025",€2.00m,,29,"Jul 16, 1995",Wolverhampton Wanderers
+Centre-Back,right,,"Jul 1, 2024",Lamare Bogarde,"1,85m",645686,"['Netherlands', 'Suriname']",,€450k,"Internal transfer: Aston Villa U21; date: Jul 1, 2024",20,"Jan 5, 2004",Aston Villa U21
+Left-Back,left,,"Jul 1, 2024",Ian Maatsen,"1,78m",485585,"['Netherlands', 'Suriname']","Jun 30, 2030",€40.00m,"Joined from Chelsea FC; date: Jul 1, 2024; fee: €44.50m",22,"Mar 10, 2002",Chelsea FC
+Left-Back,left,,"Jan 13, 2022",Lucas Digne,"1,78m",126664,['France'],"Jun 30, 2026",€12.00m,,31,"Jul 20, 1993",Everton FC
+Right-Back,right,,"Sep 3, 2020",Matty Cash,"1,85m",425334,"['Poland', 'England']","Jun 30, 2027",€28.00m,,27,"Aug 7, 1997",Nottingham Forest
+Right-Back,right,,"Jan 22, 2024",Kosta Nedeljkovic,"1,84m",848682,['Serbia'],"Jun 30, 2029",€8.00m,"Returned after loan spell with Red Star Belgrade; date: Jun 30, 2024; fee: End of loan",18,"Dec 16, 2005",Red Star Belgrade
+Defensive Midfield,right,,"Jul 22, 2024",Amadou Onana,"1,95m",485706,"['Belgium', 'Senegal']","Jun 30, 2029",€55.00m,"Joined from Everton FC; date: Jul 22, 2024; fee: €59.35m",23,"Aug 16, 2001",Everton FC
+Defensive Midfield,right,Knee injury - Return unknown,"Jul 1, 2022",Boubacar Kamara,"1,84m",394327,"['France', 'Senegal']","Jun 30, 2027",€38.00m,,24,"Nov 23, 1999",Olympique Marseille
+Central Midfield,left,Team captain,"Aug 8, 2018",John McGinn,"1,78m",193116,['Scotland'],"Jun 30, 2027",€30.00m,,30,"Oct 18, 1994",Hibernian FC
+Central Midfield,right,,"Jul 1, 2023",Youri Tielemans,"1,77m",249565,"['Belgium', 'DR Congo']","Jun 30, 2027",€30.00m,,27,"May 7, 1997",Leicester City
+Central Midfield,right,,"Jul 1, 2024",Ross Barkley,"1,89m",131978,['England'],,€8.00m,"Joined from Luton Town; date: Jul 1, 2024; fee: €5.90m",30,"Dec 5, 1993",Luton Town
+Attacking Midfield,right,,"Jul 1, 2020",Jacob Ramsey,"1,80m",503749,['England'],"Jun 30, 2027",€32.00m,,23,"May 28, 2001",: Ablöse -
+Attacking Midfield,right,,"Feb 1, 2024",Morgan Rogers,"1,87m",503743,['England'],"Jun 30, 2029",€22.00m,,22,"Jul 26, 2002",Middlesbrough FC
+Attacking Midfield,right,,"Jul 1, 2021",Emiliano Buendía,"1,72m",321247,"['Argentina', 'Spain']","Jun 30, 2026",€20.00m,,27,"Dec 25, 1996",: Ablöse €38.40m
+Left Winger,right,,"Jul 19, 2024",Jaden Philogene,"1,81m",665390,"['England', 'Dominica']","Jun 30, 2029",€15.00m,"Joined from Hull City; date: Jul 19, 2024; fee: €16.00m",22,"Feb 8, 2002",Hull City
+Right Winger,left,,"Aug 4, 2021",Leon Bailey,"1,78m",387626,['Jamaica'],"Jun 30, 2027",€42.00m,,27,"Aug 9, 1997",Bayer 04 Leverkusen
+Centre-Forward,right,,"Sep 9, 2020",Ollie Watkins,"1,80m",324358,['England'],"Jun 30, 2028",€65.00m,,28,"Dec 30, 1995",Brentford FC
+Centre-Forward,left,,"Jan 23, 2023",Jhon Durán,"1,85m",649317,['Colombia'],"Jun 30, 2030",€35.00m,,20,"Dec 13, 2003",Chicago Fire FC

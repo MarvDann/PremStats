@@ -1,0 +1,32 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Feb 23, 2006",Sander Westerveld,"1,93m",3427,['Netherlands'],€1.90m,: Ablöse free transfer,31,"Oct 23, 1974",Retired
+Goalkeeper,right,"Jul 1, 2002",Richard Wright,"1,90m",3120,['England'],€1.25m,: Ablöse €5.50m,28,"Nov 5, 1977",Retired
+Goalkeeper,right,"Sep 1, 2003",Nigel Martyn,"1,88m",3629,['England'],€500k,Leeds United,39,"Aug 11, 1966",Retired
+Goalkeeper,right,"Jul 1, 2005",John Ruddy,"1,92m",29712,['England'],€350k,Cambridge United,19,"Oct 24, 1986",Newcastle United
+Goalkeeper,right,"Jul 1, 2003",Iain Turner,"1,93m",3582,['Scotland'],€120k,Stirling Albion FC,22,"Jan 26, 1984",Retired
+Centre-Back,right,"Jul 1, 2005",Per Kröldrup,"1,94m",12112,['Denmark'],€6.00m,: Ablöse €6.80m,26,"Jul 31, 1979",Retired
+Centre-Back,right,"Jul 1, 2003",Joseph Yobo,"1,88m",3270,"['Nigeria', 'England']",€5.20m,: Ablöse €6.00m,25,"Sep 6, 1980",Retired
+Centre-Back,right,"Jul 1, 2005",Matteo Ferrari,"1,83m",5860,"['Italy', 'Guinea']",€4.00m,: Ablöse €200k,26,"Dec 5, 1979",Retired
+Centre-Back,,"Jan 1, 2006",Alan Stubbs,,3472,['England'],€1.15m,Sunderland AFC,34,"Oct 6, 1971",Retired
+Centre-Back,right,"Feb 1, 1999",David Weir,"1,91m",3312,['Scotland'],€1.00m,Heart of Midlothian FC,36,"May 10, 1970",Retired
+Centre-Back,right,,Mark Hughes,"1,90m",38121,['England'],€100k,,19,"Dec 9, 1986",Clitheroe FC
+Left-Back,left,"Jul 1, 2005",Nuno Valente,"1,82m",9831,['Portugal'],€3.75m,FC Porto,31,"Sep 12, 1974",Retired
+Left-Back,both,"Jul 1, 2000",Alessandro Pistone,"1,80m",3588,['Italy'],€3.25m,Newcastle United,30,"Jul 27, 1975",Retired
+Left-Back,left,"Oct 1, 2000",Gary Naysmith,"1,78m",3589,['Scotland'],€1.40m,Heart of Midlothian FC,27,"Nov 16, 1978",Retired
+Left-Back,left,,Laurence Wilson,"1,78m",78815,['England'],,,19,"Oct 10, 1986",Retired
+Right-Back,right,"Jul 1, 2005",Phil Neville,"1,80m",3404,['England'],€4.50m,Manchester United,29,"Jan 21, 1977",Retired
+Right-Back,right,"Jul 1, 2000",Tony Hibbert,"1,73m",3614,['England'],€4.25m,: Ablöse -,25,"Feb 20, 1981",Retired
+Defensive Midfield,right,"Jan 1, 2003",Lee Carsley,"1,78m",3618,"['Ireland', 'England']",€2.25m,Coventry City,32,"Feb 28, 1974",Retired
+Defensive Midfield,right,"Jul 19, 2002",Tie Li,"1,83m",3590,['China'],€1.00m,: Ablöse free transfer,29,"May 18, 1977",Retired
+Central Midfield,right,"Jul 1, 2005",Mikel Arteta,"1,77m",7451,['Spain'],€6.75m,Real Sociedad,24,"Mar 26, 1982",Retired
+Central Midfield,right,"Jul 1, 2002",Leon Osman,"1,73m",3620,['England'],€3.00m,Everton FC Reserves,25,"May 17, 1981",Retired
+Right Midfield,right,"Jul 1, 2005",Simon Davies,"1,78m",4056,['Wales'],€3.70m,: Ablöse €5.25m,26,"Oct 23, 1979",Retired
+Left Midfield,left,"Jul 1, 2003",Kevin Kilbane,"1,83m",4135,"['Ireland', 'England']",€4.50m,Sunderland AFC,29,"Feb 1, 1977",Retired
+Attacking Midfield,right,"Jul 1, 2004",Tim Cahill,"1,78m",13556,"['Australia', 'Samoa']",€8.50m,: Ablöse €2.20m,26,"Dec 6, 1979",Retired
+Right Winger,right,"Jul 1, 2005",Andy van der Meyde,"1,78m",3772,['Netherlands'],€8.00m,: Ablöse €9.00m,26,"Sep 30, 1979",Retired
+Second Striker,left,"Oct 17, 2011",James McFadden,"1,78m",9956,['Scotland'],€3.25m,Without Club,23,"Apr 14, 1983",Retired
+Centre-Forward,right,"Jan 4, 2005",James Beattie,"1,85m",3112,['England'],€7.85m,Southampton FC,28,"Feb 27, 1978",Retired
+Centre-Forward,right,"Jul 1, 2004",Marcus Bent,"1,88m",9958,"['England', 'Jamaica']",€3.75m,Ipswich Town,28,"May 19, 1978",Cornard United FC
+Centre-Forward,left,"Jul 1, 2000",Duncan Ferguson,"1,93m",3239,['Scotland'],€1.30m,Newcastle United,34,"Dec 27, 1971",Retired
+Centre-Forward,right,"Jul 1, 2006",James Vaughan,"1,81m",30471,"['England', 'Jamaica']",€300k,: Ablöse -,17,"Jul 14, 1988",Retired
+Centre-Forward,right,"Jul 1, 2006",Victor Anichebe,"1,90m",39532,"['Nigeria', 'England']",€50k,: Ablöse -,18,"Apr 23, 1988",Retired

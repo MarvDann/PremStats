@@ -1,0 +1,39 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Mar 22, 2004",Maik Taylor,"1,93m",3723,"['Northern Ireland', 'Germany']",€2.00m,Fulham FC,33,"Sep 4, 1971",Retired
+Goalkeeper,,"Jul 1, 2001",Nico Vaesen,"1,91m",3737,['Belgium'],€1.25m,: Ablöse free transfer,35,"Sep 28, 1969",Retired
+Goalkeeper,,"Dec 1, 1993",Ian Bennett,"1,83m",3299,['England'],€1.00m,Peterborough United,33,"Oct 10, 1971",Retired
+Goalkeeper,right,"Jul 1, 2003",Colin Doyle,"1,96m",28728,['Ireland'],€50k,Birmingham City U18,20,"Jun 12, 1985",Bradford City
+Centre-Back,left,"Jan 22, 2003",Matthew Upson,"1,85m",3273,['England'],€5.00m,: Ablöse €1.40m,26,"Apr 18, 1979",Retired
+Centre-Back,right,"Jul 1, 2002",Kenny Cunningham,"1,83m",3937,['Ireland'],€3.00m,: Ablöse free transfer,34,"Jun 28, 1971",Retired
+Centre-Back,right,"Mar 22, 2002",Olivier Tébily,"1,83m",3931,"[""Cote d'Ivoire"", 'France']",€1.45m,Celtic FC,29,"Dec 19, 1975",Retired
+Centre-Back,right,"Jan 1, 2004",Martin Taylor,"1,95m",3822,['England'],€1.25m,Blackburn Rovers,25,"Nov 9, 1979",Retired
+Centre-Back,left,"Jan 1, 2006",Mat Sadler,"1,80m",3930,['England'],€100k,Birmingham City U21,20,"Feb 26, 1985",Retired
+Centre-Back,right,"Jul 1, 2004",Sam Alsop,"1,80m",28727,['England'],,Birmingham City U18,20,"Jun 4, 1985",Without Club
+Centre-Back,left,"Jul 1, 2004",Sam Oji,"1,85m",36590,"['England', 'Nigeria']",,Arsenal FC U18,19,"Oct 9, 1985",---
+Centre-Back,right,"Jul 1, 2004",Alex Bruce,"1,80m",37957,"['Northern Ireland', 'Ireland']",,Birmingham City U18,20,"Sep 28, 1984",Retired
+Left-Back,left,"Jan 1, 2003",Jamie Clapham,"1,75m",3938,['England'],€2.25m,Ipswich Town,29,"Dec 7, 1975",Retired
+Right-Back,right,"Jul 9, 2004",Mario Melchiot,"1,87m",3158,"['Netherlands', 'Suriname']",€4.25m,: Ablöse free transfer,28,"Nov 4, 1976",Retired
+Defensive Midfield,right,"Jan 1, 2005",Salif Diao,"1,83m",3600,"['Senegal', 'France']",€5.00m,: Ablöse free transfer,28,"Feb 10, 1977",Retired
+Defensive Midfield,both,"Jul 1, 2002",Robbie Savage,"1,83m",3797,['Wales'],€4.75m,: Ablöse €1.88m,30,"Oct 18, 1974",Retired
+Defensive Midfield,left,"Jul 1, 2005",Mehdi Nafti,"1,79m",7862,"['Tunisia', 'France']",€2.00m,Racing Santander,26,"Nov 28, 1978",Retired
+Midfielder,,"Jul 1, 2003",Carl Motteram,"1,73m",36589,['England'],,Birmingham City U18,20,"Sep 3, 1984",Without Club
+Central Midfield,right,"Jul 1, 2004",Muzzy Izzet,"1,77m",3123,"['Türkiye', 'England']",€3.00m,: Ablöse free transfer,30,"Oct 31, 1974",Retired
+Central Midfield,left,"Jul 1, 2001",Darren Carter,"1,88m",3929,['England'],€2.25m,Birmingham City U18,21,"Dec 18, 1983",Retired
+Central Midfield,right,"Mar 8, 2002",Damien Johnson,"1,73m",3940,['Northern Ireland'],€1.50m,Blackburn Rovers,26,"Nov 18, 1978",Retired
+Right Midfield,right,"Jul 1, 2004",Darren Anderton,"1,85m",3277,['England'],€3.50m,: Ablöse free transfer,33,"Mar 3, 1972",Retired
+Right Midfield,left,"Jan 1, 2003",Stephen Clemence,"1,80m",3641,['England'],€1.75m,: Ablöse €1.35m,27,"Mar 31, 1978",Retired
+Right Midfield,right,"Jul 1, 2004",Peter Till,"1,80m",38097,['England'],,Birmingham City U18,19,"Sep 7, 1985",Retired
+Left Midfield,left,"Jul 1, 1999",Stan Lazaridis,"1,75m",3747,"['Australia', 'Greece']",€3.25m,: Ablöse €2.25m,32,"Aug 16, 1972",Retired
+Attacking Midfield,right,"Jul 7, 2003",David Dunn,"1,78m",4243,['England'],€8.50m,Blackburn Rovers,25,"Dec 27, 1979",Retired
+Left Winger,,"Jul 12, 2004",Jesper Grønkjaer,,3137,['Denmark'],€6.50m,: Ablöse €3.30m,27,"Aug 12, 1977",Retired
+Right Winger,right,"Jul 1, 2005",Jermaine Pennant,"1,73m",3195,"['England', 'Jamaica']",€4.00m,: Ablöse €750k,22,"Jan 15, 1983",Retired
+Second Striker,,"Jan 4, 2005",Robbie Blake,"1,75m",3490,['England'],€2.50m,: Ablöse €2.25m,29,"Mar 4, 1976",Retired
+Centre-Forward,right,"Jul 1, 2005",Walter Pandiani,"1,83m",7691,"['Uruguay', 'Italy']",€10.00m,Deportivo de La Coruña,29,"Apr 27, 1976",Retired
+Centre-Forward,right,"Jul 1, 2004",Emile Heskey,"1,88m",3142,"['England', 'Antigua and Barbuda']",€7.25m,: Ablöse €9.32m,27,"Jan 11, 1978",Retired
+Centre-Forward,right,"Jul 1, 2005",Mikael Forssell,"1,84m",3127,"['Finland', 'Germany']",€7.00m,Chelsea FC,24,"Mar 15, 1981",Retired
+Centre-Forward,right,"Jul 1, 2002",Clinton Morrison,"1,78m",3145,"['Ireland', 'England']",€7.00m,: Ablöse €6.38m,26,"May 14, 1979",Retired
+Centre-Forward,,"Aug 1, 2004",Dwight Yorke,"1,78m",3223,"['Trinidad and Tobago', 'England']",€2.75m,Blackburn Rovers,33,"Nov 3, 1971",Retired
+Centre-Forward,right,"Feb 8, 2002",Stern John,"1,85m",3793,['Trinidad and Tobago'],€1.25m,: Ablöse €200k,28,"Oct 30, 1976",Retired
+Centre-Forward,left,"Jul 1, 2004",Julian Gray,"1,85m",8735,"['England', 'Jamaica']",€900k,: Ablöse free transfer,25,"Sep 21, 1979",Retired
+Centre-Forward,,"Jan 1, 2005",Njazi Kuqi,,25368,"['Finland', 'Kosovo']",€600k,: Ablöse €500k,22,"Mar 25, 1983",Retired
+Centre-Forward,right,"Jul 1, 2003",Andy Barrowman,"1,83m",15163,['Scotland'],€75k,Birmingham City U18,20,"Nov 27, 1984",Retired

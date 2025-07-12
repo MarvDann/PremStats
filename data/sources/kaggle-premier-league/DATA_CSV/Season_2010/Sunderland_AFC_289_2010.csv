@@ -1,0 +1,40 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,,"Aug 8, 2007",Craig Gordon,"1,93m",12589,['Scotland'],€6.50m,Heart of Midlothian FC,28,"Dec 31, 1982",Heart of Midlothian FC
+Goalkeeper,right,,"Jul 1, 2010",Simon Mignolet,"1,93m",50219,['Belgium'],€4.00m,: Ablöse €2.50m,23,"Mar 6, 1988",Club Brugge KV
+Goalkeeper,right,,"Jul 1, 2006",Trevor Carson,"1,85m",41131,['Northern Ireland'],€250k,Sunderland AFC U18,23,"Mar 5, 1988",Dundee FC
+Centre-Back,right,,"Aug 31, 2009",Michael Turner,"1,93m",12127,['England'],€6.00m,: Ablöse €4.50m,27,"Nov 9, 1983",Retired
+Centre-Back,right,,"Aug 1, 2010",Nedum Onuoha,"1,83m",28810,"['England', 'Nigeria']",€6.00m,: Ablöse free transfer,24,"Nov 12, 1986",Retired
+Centre-Back,right,,"Jul 23, 2010",Titus Bramble,"1,92m",3130,"['England', 'Montserrat']",€4.50m,Wigan Athletic,29,"Jul 31, 1981",Retired
+Centre-Back,right,,"Aug 27, 2008",Anton Ferdinand,"1,85m",3698,"['England', 'St. Lucia']",€4.50m,: Ablöse €10.00m,26,"Feb 18, 1985",Retired
+Centre-Back,right,,"Aug 17, 2009",John Mensah,"1,80m",5917,['Ghana'],€4.00m,: Ablöse €1.50m,28,"Nov 29, 1982",Retired
+Centre-Back,right,,"Jul 1, 2005",Nyron Nosworthy,"1,85m",14054,"['Jamaica', 'England']",€2.50m,Gillingham FC,30,"Oct 11, 1980",Retired
+Centre-Back,right,,"Jul 1, 2009",Paulo da Silva,"1,84m",38800,['Paraguay'],€2.00m,: Ablöse free transfer,31,"Feb 1, 1980",Retired
+Centre-Back,,,"Jan 21, 2010",Matthew Kilgallon,"1,85m",4095,['England'],€1.50m,Sheffield United,27,"Jan 8, 1984",Retired
+Centre-Back,right,,"Jan 15, 2008",Jean-Yves M'voto,"1,94m",55381,"['France', 'Cameroon']",€275k,: Ablöse €400k,22,"Sep 6, 1988",Retired
+Centre-Back,right,,"Jul 1, 2011",Louis Laing,"1,88m",110865,['England'],,Sunderland AFC U18,18,"Mar 6, 1993",Without Club
+Left-Back,left,,"Jul 16, 2007",Kieran Richardson,"1,77m",3548,['England'],€5.00m,Manchester United,26,"Oct 21, 1984",Retired
+Left-Back,left,,"Sep 1, 2008",George McCartney,"1,83m",3775,['Northern Ireland'],€3.00m,: Ablöse €5.50m,30,"Apr 29, 1981",Retired
+Left-Back,left,,,Blair Adams,"1,78m",121312,['England'],€50k,,19,"Sep 8, 1991",Without Club
+Right-Back,right,,"Jan 22, 2008",Phil Bardsley,"1,80m",15773,"['Scotland', 'England']",€4.00m,Manchester United,26,"Jun 28, 1985",Retired
+Right-Back,right,,"Jul 1, 2011",Ahmed El Mohamady,"1,82m",66333,['Egypt'],€4.00m,: Ablöse €2.50m,23,"Sep 9, 1987",Retired
+Right-Back,right,,"Jul 24, 2010",Marcos Angeleri,"1,83m",27448,"['Argentina', 'Italy']",€2.50m,: Ablöse €1.80m,28,"Apr 7, 1983",Retired
+Defensive Midfield,right,,"Aug 12, 2009",Lee Cattermole,"1,78m",37363,['England'],€6.00m,Wigan Athletic,23,"Mar 21, 1988",Retired
+Defensive Midfield,right,,"Jul 1, 2010",Cristian Riveros,"1,79m",37713,['Paraguay'],€3.00m,CD Cruz Azul,28,"Oct 16, 1982",Club Libertad Asunción
+Defensive Midfield,left,,"Jul 1, 2009",Jack Colback,"1,77m",61644,['England'],€1.25m,Sunderland AFC Reserves,21,"Oct 24, 1989",Queens Park Rangers
+Defensive Midfield,right,,"Jul 1, 2009",Adam Reed,"1,78m",61667,"['Philippines', 'England']",,Sunderland AFC U18,20,"May 8, 1991",Without Club
+Central Midfield,right,,"Jul 1, 2008",Jordan Henderson,"1,82m",61651,['England'],€8.50m,Sunderland AFC U18,21,"Jun 17, 1990",Ajax Amsterdam
+Central Midfield,left,,"Jan 29, 2011",Sulley Muntari,"1,79m",17129,['Ghana'],€8.00m,: Ablöse free transfer,26,"Aug 27, 1984",Retired
+Central Midfield,right,,"Jul 30, 2008",Steed Malbranque,"1,71m",3569,"['France', 'Belgium']",€6.00m,Tottenham Hotspur,31,"Jan 6, 1980",Retired
+Central Midfield,right,,"Jul 30, 2008",David Meyler,"1,89m",68183,['Ireland'],€1.00m,Cork City FC,22,"May 29, 1989",Retired
+Central Midfield,left,,"Jul 1, 2010",Billy Knott,"1,73m",133392,['England'],,Chelsea FC U18,18,"Nov 28, 1992",Concord Rangers
+Left Midfield,left,Groin injury - Return unknown,"Jan 1, 2008",Andy Reid,"1,70m",10008,['Ireland'],€5.00m,Charlton Athletic,28,"Jul 29, 1982",Retired
+Attacking Midfield,right,,"Jan 28, 2011",Stéphane Sessègnon,"1,72m",37157,['Benin'],€8.50m,: Ablöse €7.00m,27,"Jun 1, 1984",Retired
+Left Winger,left,,"Oct 10, 2009",Boudewijn Zenden,"1,74m",3173,['Netherlands'],€1.00m,Without Club,34,"Aug 15, 1976",Retired
+Left Winger,,,"Jul 1, 2012",Craig Lynch,"1,83m",121334,['England'],,Sunderland AFC U21,19,"Mar 25, 1992",Retired
+Centre-Forward,right,,"Aug 5, 2009",Darren Bent,"1,80m",13239,"['England', 'Jamaica']",€18.00m,Tottenham Hotspur,27,"Feb 6, 1984",Retired
+Centre-Forward,right,,"Aug 31, 2010",Asamoah Gyan,"1,80m",26802,['Ghana'],€12.00m,Stade Rennais FC,25,"Nov 22, 1985",Retired
+Centre-Forward,right,,"Aug 12, 2010",Danny Welbeck,"1,85m",67063,"['England', 'Ghana']",€6.00m,Manchester United,20,"Nov 26, 1990",Brighton & Hove Albion
+Centre-Forward,right,,"Jul 11, 2009",Fraizer Campbell,"1,72m",42411,"['England', 'Jamaica']",€3.50m,Manchester United,23,"Sep 13, 1987",Retired
+Centre-Forward,left,,"Jul 1, 2008",Martyn Waghorn,"1,77m",61674,['England'],€900k,Sunderland AFC U18,21,"Jan 23, 1990",Northampton Town
+Centre-Forward,right,,"Jul 1, 2008",Jordan Cook,"1,74m",61646,['England'],€50k,Sunderland AFC U18,21,"Mar 20, 1990",Shildon AFC
+Centre-Forward,right,,"Jul 1, 2009",Ryan Noble,"1,82m",121340,['England'],€50k,Sunderland AFC U18,20,"Jun 11, 1991",Without Club

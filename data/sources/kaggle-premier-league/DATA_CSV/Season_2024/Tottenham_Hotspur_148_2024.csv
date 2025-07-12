@@ -1,0 +1,27 @@
+position,foot,status,joinedOn,name,height,id,nationality,contract,marketValue,joined,age,dateOfBirth,signedFrom
+Goalkeeper,right,,"Jul 1, 2023",Guglielmo Vicario,"1,94m",286047,['Italy'],"Jun 30, 2028",€35.00m,,28,"Oct 7, 1996",FC Empoli
+Goalkeeper,right,,"Jul 1, 2022",Fraser Forster,"2,01m",52570,['England'],"Jun 30, 2025",€1.20m,,36,"Mar 17, 1988",Southampton FC
+Goalkeeper,right,,"Aug 1, 2021",Brandon Austin,"1,88m",428016,"['England', 'United States']","Jun 30, 2029",€600k,,25,"Jan 8, 1999",Tottenham Hotspur U23
+Goalkeeper,right,,"Jul 1, 2019",Alfie Whiteman,"1,88m",282823,['England'],"Jun 30, 2025",€500k,,26,"Oct 2, 1998",Tottenham Hotspur U23
+Centre-Back,right,,"Aug 30, 2022",Cristian Romero,"1,85m",355915,['Argentina'],"Jun 30, 2027",€65.00m,,26,"Apr 27, 1998",Atalanta BC
+Centre-Back,left,Hamstring injury - Return unknown,"Aug 8, 2023",Micky van de Ven,"1,93m",557459,['Netherlands'],"Jun 30, 2029",€55.00m,,23,"Apr 19, 2001",VfL Wolfsburg
+Centre-Back,right,,"Jan 11, 2024",Radu Drăgușin,"1,91m",568559,['Romania'],"Jun 30, 2030",€25.00m,,22,"Feb 3, 2002",Genoa CFC
+Centre-Back,left,,"Jul 23, 2014",Ben Davies,"1,81m",192765,['Wales'],"Jun 30, 2025",€10.00m,,31,"Apr 24, 1993",: Ablöse €12.65m
+Left-Back,left,,"Aug 16, 2022",Destiny Udogie,"1,88m",556385,"['Italy', 'Nigeria']","Jun 30, 2030",€45.00m,,21,"Nov 28, 2002",Udinese Calcio
+Left-Back,left,,"Sep 19, 2020",Sergio Reguilón,"1,78m",282429,['Spain'],"Jun 30, 2025",€12.00m,,27,"Dec 16, 1996",Real Madrid
+Right-Back,right,,"Jul 1, 2023",Pedro Porro,"1,73m",553875,['Spain'],"Jun 30, 2028",€45.00m,,25,"Sep 13, 1999",Sporting CP
+Right-Back,right,,"Jul 2, 2024",Archie Gray,"1,87m",922693,"['England', 'Scotland']","Jun 30, 2030",€25.00m,"Joined from Leeds United; date: Jul 2, 2024; fee: €41.25m",18,"Mar 12, 2006",Leeds United
+Right-Back,right,,"Jul 19, 2022",Djed Spence,"1,84m",483348,"['England', 'Jamaica']","Jun 30, 2028",€8.00m,"Returned after loan spell with Genoa CFC; date: Jun 30, 2024; fee: End of loan",24,"Aug 9, 2000",Middlesbrough FC
+Defensive Midfield,right,,"Jul 1, 2022",Yves Bissouma,"1,82m",410425,"['Mali', ""Cote d'Ivoire""]","Jun 30, 2026",€35.00m,,28,"Aug 30, 1996",Brighton & Hove Albion
+Defensive Midfield,right,,"Jan 31, 2022",Rodrigo Bentancur,"1,87m",354362,['Uruguay'],"Jun 30, 2026",€35.00m,,27,"Jun 25, 1997",Juventus FC
+Central Midfield,right,,"Aug 27, 2021",Pape Matar Sarr,"1,84m",568693,['Senegal'],"Jun 30, 2030",€45.00m,,22,"Sep 14, 2002",FC Metz
+Central Midfield,right,,"Jul 1, 2024",Lucas Bergvall,"1,87m",866246,['Sweden'],"Jun 30, 2029",€12.00m,"Joined from Djurgårdens IF; date: Jul 1, 2024; fee: €10.00m",18,"Feb 2, 2006",Djurgårdens IF
+Attacking Midfield,right,,"Jul 1, 2023",James Maddison,"1,75m",294057,['England'],"Jun 30, 2028",€70.00m,,27,"Nov 23, 1996",Leicester City
+Attacking Midfield,left,,"Jul 1, 2023",Dejan Kulusevski,"1,86m",431755,"['Sweden', 'North Macedonia']","Jun 30, 2028",€55.00m,,24,"Apr 25, 2000",Juventus FC
+Left Winger,both,Team captain,"Aug 28, 2015",Heung-min Son,"1,84m",91845,"['Korea, South']","Jun 30, 2025",€45.00m,,32,"Jul 8, 1992",Bayer 04 Leverkusen
+Left Winger,right,,"Jan 9, 2024",Timo Werner,"1,80m",170527,['Germany'],"Jun 30, 2025",€17.00m,On loan from RB Leipzig until 30.06.2025,28,"Mar 6, 1996",RB Leipzig
+Left Winger,right,Ill - Return unknown,"Jul 1, 2024",Mikey Moore,"1,80m",1011147,['England'],"Jun 30, 2027",€1.00m,"Internal transfer: Tottenham Hotspur U18; date: Jul 1, 2024",17,"Aug 11, 2007",Tottenham Hotspur U18
+Right Winger,right,,"Sep 1, 2023",Brennan Johnson,"1,86m",470607,"['Wales', 'England']","Jun 30, 2028",€48.00m,,23,"May 23, 2001",Nottingham Forest
+Right Winger,right,Thigh problems - Return unknown,"Aug 16, 2024",Wilson Odobert,"1,82m",743498,"['France', 'Martinique']","Jun 30, 2029",€18.00m,"Joined from Burnley FC; date: Aug 16, 2024; fee: €29.30m",19,"Nov 28, 2004",Burnley FC
+Centre-Forward,right,,"Aug 10, 2024",Dominic Solanke,"1,86m",258889,"['England', 'Nigeria']","Jun 30, 2030",€45.00m,"Joined from AFC Bournemouth; date: Aug 10, 2024; fee: €64.30m",27,"Sep 14, 1997",AFC Bournemouth
+Centre-Forward,right,unknown injury - Return unknown,"Jul 1, 2022",Richarlison,"1,84m",378710,['Brazil'],"Jun 30, 2027",€35.00m,,27,"May 10, 1997",Everton FC

@@ -1,0 +1,37 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Oct 27, 2006",Chris Kirkland,"1,98m",3219,['England'],€5.50m,: Ablöse €3.73m,29,"May 2, 1981",Retired
+Goalkeeper,right,,"Jan 1, 2010",Vladimir Stojkovic,"1,96m",34400,['Serbia'],€1.00m,Sporting CP,26,"Jul 28, 1983",Without Club
+Goalkeeper,right,,"Jul 1, 2008",Richard Kingson,"1,83m",7125,"['Ghana', 'Türkiye']",€500k,: Ablöse free transfer,32,"Jun 13, 1978",Retired
+Goalkeeper,right,,"Jul 1, 2005",Mike Pollitt,"1,93m",32217,['England'],€250k,Rotherham United,38,"Feb 29, 1972",Retired
+Goalkeeper,right,,"Jul 1, 2010",Lee Nicholls,"1,91m",126258,['England'],,Wigan Athletic U18,17,"Oct 5, 1992",Huddersfield Town
+Centre-Back,right,,"Jan 13, 2010",Gary Caldwell,"1,85m",3791,['Scotland'],€4.00m,Celtic FC,28,"Apr 12, 1982",Retired
+Centre-Back,right,,"Jul 1, 2007",Titus Bramble,"1,92m",3130,"['England', 'Montserrat']",€4.00m,Newcastle United,28,"Jul 31, 1981",Retired
+Centre-Back,,,"Jan 1, 2010",Steve Gohouri,,19857,"[""Cote d'Ivoire"", 'France']",€750k,Borussia Mönchengladbach,29,"Feb 8, 1981",---
+Centre-Back,right,,"Aug 1, 2009",Antonio Amaya,"1,92m",71904,['Spain'],€750k,: Ablöse €800k,27,"May 31, 1983",Retired
+Left-Back,left,,"Oct 21, 2014",Maynor Figueroa,"1,82m",62240,['Honduras'],€5.00m,: Ablöse free transfer,27,"May 2, 1983",Retired
+Left-Back,left,,"Jan 1, 2008",Erik Edman,"1,79m",4394,['Sweden'],€1.00m,Stade Rennais FC,31,"Nov 11, 1978",Retired
+Left-Back,left,,"Jul 1, 2009",Jordan Mustoe,"1,79m",61715,['England'],,Wigan Athletic U18,19,"Jan 28, 1991",Without Club
+Right-Back,right,,"Jul 1, 2007",Mario Melchiot,"1,87m",3158,"['Netherlands', 'Suriname']",€3.50m,Stade Rennais FC,33,"Nov 4, 1976",Retired
+Right-Back,right,,"Aug 1, 2006",Emmerson Boyce,"1,80m",19641,"['Barbados', 'England']",€3.00m,: Ablöse €1.50m,30,"Sep 24, 1979",Retired
+Defensive Midfield,,,"Jan 31, 2013",Paul Scharner,,2953,['Austria'],€4.50m,: Ablöse €100k,30,"Mar 11, 1980",Retired
+Defensive Midfield,right,,"Jul 1, 2009",Hendry Thomas,"1,80m",62275,['Honduras'],€2.50m,CD Olimpia,25,"Feb 23, 1985",Retired
+Defensive Midfield,right,,"Mar 1, 2009",Won-hee Cho,"1,77m",35185,"['Korea, South']",€1.50m,Suwon Samsung Bluewings,27,"Apr 17, 1983",Retired
+Defensive Midfield,both,,"Jul 1, 2006",Tomasz Cywka,"1,80m",38558,['Poland'],€250k,Gwarek Zabrze,22,"Jun 27, 1988",Retired
+Central Midfield,right,,"Aug 22, 2009",Mohamed Diamé,"1,84m",70950,"['Senegal', 'France']",€3.00m,: Ablöse €3.00m,23,"Jun 14, 1987",Al-Sailiya SC
+Central Midfield,,,"Jul 1, 2007",Michael Brown,,13509,['England'],€2.50m,Fulham FC,33,"Jan 25, 1977",Retired
+Central Midfield,right,,"Jan 26, 2009",Ben Watson,"1,78m",14081,['England'],€2.00m,: Ablöse €2.10m,24,"Jul 9, 1985",Retired
+Central Midfield,left,,"Aug 17, 2016",Jordi Gómez,"1,78m",39010,['Spain'],€2.00m,Sunderland AFC,25,"May 24, 1985",Retired
+Central Midfield,right,,"Jul 16, 2009",James McCarthy,"1,80m",45333,"['Ireland', 'Scotland']",€1.50m,Hamilton Academical FC,19,"Nov 12, 1990",Celtic FC
+Left Midfield,left,,"Aug 1, 2007",Rachid Bouaouzan,"1,70m",21567,"['Morocco', 'Netherlands']",€500k,: Ablöse €450k,26,"Feb 20, 1984",Retired
+Attacking Midfield,left,,"Jul 10, 2007",Jason Koumas,"1,77m",3661,"['Wales', 'Cyprus']",€2.00m,West Bromwich Albion,30,"Sep 25, 1979",Retired
+Attacking Midfield,left,,"Jul 16, 2008",Olivier Kapo,"1,84m",5438,"['France', ""Cote d'Ivoire""]",€1.80m,: Ablöse €4.40m,29,"Sep 27, 1980",Retired
+Left Winger,right,,"Aug 6, 2009",Scott Sinclair,"1,77m",31552,"['England', 'Jamaica']",€1.50m,Chelsea FC,21,"Mar 25, 1989",Bristol Rovers
+Left Winger,right,,"Jul 1, 2008",Daniël de Ridder,"1,80m",15894,"['Netherlands', 'Israel']",€1.25m,: Ablöse free transfer,26,"Mar 6, 1984",Retired
+Right Winger,left,heart problems - Return unknown,"Feb 2, 2009",Charles N'Zogbia,"1,71m",22165,"['France', 'DR Congo']",€6.50m,Newcastle United,24,"May 28, 1986",Retired
+Right Winger,right,,"Jan 31, 2010",Victor Moses,"1,77m",59866,"['Nigeria', 'England']",€1.25m,: Ablöse €3.00m,19,"Dec 12, 1990",Luton Town
+Right Winger,right,,"Jul 1, 2006",Tomasz Kupisz,"1,80m",45185,['Poland'],€250k,MKS Piaseczno,20,"Jan 2, 1990",Hutnik Warszawa
+Right Winger,right,"Muscle injury - Return expected on Nov 24, 2024","Jul 1, 2023",Callum McManaman,"1,74m",61711,"['England', 'Ireland']",€50k,Without Club,19,"Apr 25, 1991",Wigan Athletic
+Centre-Forward,right,,"Jan 26, 2009",Hugo Rodallega,"1,81m",37934,['Colombia'],€6.50m,Club Necaxa,24,"Jul 25, 1985",Independiente Santa Fe
+Centre-Forward,both,,"Feb 1, 2010",Marcelo Moreno,"1,83m",54162,"['Bolivia', 'Brazil']",€3.50m,Shakhtar Donetsk,23,"Jun 18, 1987",Retired
+Centre-Forward,,,"Jul 18, 2009",Jason Scotland,"1,75m",12807,['Trinidad and Tobago'],€2.00m,: Ablöse €2.30m,31,"Feb 18, 1979",Retired
+Centre-Forward,right,,"Jan 1, 2008",Marlon King,"1,85m",14037,"['Jamaica', 'England']",€1.50m,Watford FC,30,"Apr 26, 1980",Retired

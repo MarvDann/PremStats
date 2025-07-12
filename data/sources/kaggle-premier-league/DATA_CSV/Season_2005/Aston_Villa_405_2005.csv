@@ -1,0 +1,31 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 2003",Thomas Sörensen,"1,96m",3473,['Denmark'],€6.20m,Sunderland AFC,30,"Jun 12, 1976",Retired
+Goalkeeper,right,"Jul 1, 2005",Stuart Taylor,"1,98m",3190,['England'],€950k,: Ablöse free transfer,25,"Nov 28, 1980",Retired
+Goalkeeper,,"Jul 1, 2005",Bobby Olejnik,"1,88m",6170,"['Austria', 'Poland']",€100k,: Ablöse -,19,"Nov 26, 1986",Retired
+Centre-Back,right,"Jul 18, 2001",Olof Mellberg,"1,87m",3098,['Sweden'],€7.25m,Racing Santander,28,"Sep 3, 1977",Retired
+Centre-Back,left,"Jul 1, 2004",Martin Laursen,"1,90m",3503,['Denmark'],€4.40m,AC Milan,28,"Jul 26, 1977",Retired
+Centre-Back,right,"Jul 1, 2005",Aaron Hughes,"1,83m",3580,['Northern Ireland'],€2.75m,Newcastle United,26,"Nov 8, 1979",Retired
+Centre-Back,both,"Jan 1, 2003",Liam Ridgewell,"1,88m",4070,['England'],€2.20m,: Ablöse -,21,"Jul 21, 1984",Retired
+Centre-Back,right,"Jul 1, 2004",Gary Cahill,"1,93m",27511,['England'],€350k,: Ablöse -,20,"Dec 19, 1985",Retired
+Left-Back,left,"Aug 30, 2005",Wilfred Bouma,"1,81m",4338,"['Netherlands', 'Suriname']",€4.80m,: Ablöse €4.70m,28,"Jun 15, 1978",Retired
+Right-Back,right,"Mar 9, 1999",Mark Delaney,"1,85m",3841,['Wales'],€1.70m,: Ablöse €375k,30,"May 13, 1976",Retired
+Right-Back,right,"Jul 27, 2002",Ulises de la Cruz,"1,80m",3842,"['Ecuador', 'England']",€1.50m,Hibernian FC,32,"Feb 8, 1974",Retired
+Defensive Midfield,left,"Jul 1, 1998",Gareth Barry,"1,84m",3291,['England'],€4.25m,: Ablöse -,25,"Feb 23, 1981",Unknown
+Defensive Midfield,left,"Jul 1, 1998",Jlloyd Samuel,"1,80m",4067,"['Trinidad and Tobago', 'England']",€3.00m,: Ablöse -,25,"Mar 29, 1981",---
+Defensive Midfield,right,"Jan 31, 2005",Eric Djemba Djemba,"1,77m",5509,"['Cameroon', 'France']",€2.00m,Manchester United,25,"May 4, 1981",Retired
+Central Midfield,right,"Aug 29, 2008",James Milner,"1,75m",3333,['England'],€4.70m,Newcastle United,20,"Jan 4, 1986",Brighton & Hove Albion
+Central Midfield,left,"Jul 1, 2003",Gavin McCann,"1,80m",4136,['England'],€3.50m,Sunderland AFC,28,"Jan 10, 1978",Retired
+Central Midfield,right,"Jul 1, 2004",Steven Davis,"1,72m",28973,['Northern Ireland'],€3.50m,: Ablöse -,21,"Jan 1, 1985",Retired
+Central Midfield,right,"Aug 1, 2005",Eirik Bakke,"1,88m",3284,['Norway'],€3.00m,Leeds United,28,"Sep 13, 1977",Retired
+Central Midfield,right,"Jul 1, 1994",Lee Hendrie,"1,68m",4069,['England'],€2.20m,: Ablöse -,29,"May 18, 1977",Retired
+Central Midfield,left,"Jul 1, 2002",Peter Whittingham,"1,77m",3762,['England'],€850k,: Ablöse -,21,"Sep 8, 1984",---
+Central Midfield,right,"Jan 1, 2006",Craig Gardner,"1,76m",37171,['England'],€100k,: Ablöse -,19,"Nov 25, 1986",Retired
+Right Midfield,right,"Jan 1, 2004",Nolberto Solano,"1,76m",3460,['Peru'],€5.60m,Newcastle United,31,"Dec 12, 1974",Retired
+Attacking Midfield,,"Jul 1, 2005",Patrik Berger,,3218,['Czech Republic'],€3.00m,: Ablöse free transfer,32,"Nov 10, 1973",Retired
+Left Winger,right,,Jamie Ward,"1,65m",48692,"['Northern Ireland', 'England']",,,20,"May 12, 1986",Precision FC
+Centre-Forward,right,"Aug 23, 2005",Milan Baros,"1,83m",3216,['Czech Republic'],€9.00m,: Ablöse €8.84m,24,"Oct 28, 1981",FK Vigantice
+Centre-Forward,both,"Jan 1, 2001",Juan Pablo Ángel,"1,85m",3278,['Colombia'],€6.50m,: Ablöse €14.40m,30,"Oct 24, 1975",Retired
+Centre-Forward,right,"Jul 1, 2005",Kevin Phillips,"1,70m",3131,['England'],€3.50m,Southampton FC,32,"Jul 25, 1973",Retired
+Centre-Forward,,"Jul 1, 2003",Luke Moore,"1,80m",4075,"['England', 'Jamaica']",€2.00m,: Ablöse -,20,"Feb 13, 1986",Retired
+Centre-Forward,right,"Jul 1, 2005",Gabriel Agbonlahor,"1,83m",37148,"['England', 'Nigeria']",€100k,: Ablöse -,19,"Oct 13, 1986",Retired
+Centre-Forward,right,"Jul 1, 2005",Sam Williams,"1,88m",45554,['England'],,: Ablöse -,19,"Jun 9, 1987",Retired

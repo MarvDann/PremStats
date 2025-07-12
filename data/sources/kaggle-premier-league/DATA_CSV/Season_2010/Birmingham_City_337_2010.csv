@@ -1,0 +1,35 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,,"Jul 1, 2010",Ben Foster,"1,93m",13572,['England'],€5.00m,Manchester United,28,"Apr 3, 1983",Retired
+Goalkeeper,right,,"Jul 1, 2003",Colin Doyle,"1,96m",28728,['Ireland'],€250k,Birmingham City U18,26,"Jun 12, 1985",Bradford City
+Goalkeeper,right,,"Mar 22, 2004",Maik Taylor,"1,93m",3723,"['Northern Ireland', 'Germany']",,Fulham FC,39,"Sep 4, 1971",Retired
+Centre-Back,right,,"Jul 1, 2009",Roger Johnson,"1,91m",42751,['England'],€5.00m,: Ablöse €5.90m,28,"Apr 28, 1983",Retired
+Centre-Back,both,,"Aug 3, 2007",Liam Ridgewell,"1,88m",4070,['England'],€4.50m,: Ablöse €3.00m,26,"Jul 21, 1984",Retired
+Centre-Back,right,,"Jul 1, 2009",Scott Dann,"1,94m",62688,['England'],€4.50m,Coventry City,24,"Feb 14, 1987",Without Club
+Centre-Back,right,,"Jan 28, 2011",Curtis Davies,"1,88m",18227,"['Sierra Leone', 'England']",€4.50m,: Ablöse €4.00m,26,"Mar 15, 1985",Retired
+Centre-Back,right,,"Aug 30, 2010",Martin Jiranek,"1,90m",6065,['Czech Republic'],€2.00m,: Ablöse €600k,32,"May 25, 1979",Retired
+Centre-Back,right,,,Alpaslan Öztürk,"1,86m",138736,"['Türkiye', 'Belgium']",,,17,"Jul 16, 1993",Pendikspor
+Centre-Back,right,,,Fraser Kerr,"1,91m",120967,['Scotland'],,,18,"Jan 17, 1993",AFC Telford United
+Left-Back,left,,"Aug 30, 2010",Jean Beausejour,"1,78m",18871,"['Chile', 'Haiti']",€2.50m,CF América,27,"Jun 1, 1984",Retired
+Left-Back,left,,"Jan 1, 2008",David Murphy,"1,85m",3868,['England'],€750k,Hibernian FC,27,"Mar 1, 1984",Retired
+Right-Back,right,,"Jan 1, 2009",Stephen Carr,"1,75m",4046,['Ireland'],€1.50m,,34,"Aug 29, 1976",Retired
+Right-Back,right,,"Jul 1, 2007",Stuart Parnaby,"1,78m",3866,['England'],€1.00m,Middlesbrough FC,28,"Jul 19, 1982",Retired
+Defensive Midfield,right,,"Jul 17, 2009",Barry Ferguson,"1,78m",10251,['Scotland'],€4.50m,: Ablöse €1.20m,33,"Feb 2, 1978",Retired
+Central Midfield,right,,"Jan 31, 2007",Sebastian Larsson,"1,78m",31720,['Sweden'],€6.00m,: Ablöse €1.50m,26,"Jun 6, 1985",Retired
+Central Midfield,right,,"Jul 1, 2017",Craig Gardner,"1,76m",37171,['England'],€4.00m,West Bromwich Albion,24,"Nov 25, 1986",Retired
+Central Midfield,right,,"Jul 8, 2009",Lee Bowyer,"1,75m",3877,['England'],€2.50m,: Ablöse free transfer,34,"Jan 3, 1977",Retired
+Central Midfield,right,,"Jan 11, 2010",Míchel Madera,"1,83m",57818,['Spain'],€2.50m,Sporting Gijón,25,"Nov 8, 1985",Retired
+Central Midfield,right,,"Jan 1, 2009",Keith Fahey,"1,79m",29878,['Ireland'],€2.50m,St. Patrick's Athletic,28,"Jan 15, 1983",Retired
+Central Midfield,right,,"Jul 1, 2009",Jordon Mutch,"1,84m",57207,['England'],€500k,Birmingham City U18,19,"Dec 2, 1991",Gold Coast Knights
+Central Midfield,right,,"Jul 1, 2010",Enric Vallès,"1,90m",65305,['Spain'],€75k,: Ablöse free transfer,21,"Mar 1, 1990",Unknown
+Right Midfield,right,,"Jan 12, 2011",David Bentley,"1,78m",3205,['England'],€7.00m,Tottenham Hotspur,26,"Aug 27, 1984",Retired
+Attacking Midfield,,,"Aug 31, 2010",Aleksandr Hleb,,597,['Belarus'],€5.00m,FC Barcelona,30,"May 1, 1981",Retired
+Right Winger,right,Hamstring injury - Return unknown,"Jul 1, 2011",Nathan Redmond,"1,73m",129078,"['England', 'Jamaica']",€50k,Birmingham City U18,17,"Mar 6, 1994",Burnley FC
+Second Striker,left,,"Jan 18, 2008",James McFadden,"1,78m",9956,['Scotland'],€4.00m,: Ablöse €7.50m,28,"Apr 14, 1983",Retired
+Centre-Forward,,,"Jan 31, 2011",Obafemi Martins,,5794,"['Nigeria', 'Italy']",€7.00m,: Ablöse €400k,26,"Oct 28, 1984",Retired
+Centre-Forward,right,,"Dec 5, 2014",Nikola Zigic,"2,02m",19729,['Serbia'],€6.00m,Without Club,30,"Sep 25, 1980",Retired
+Centre-Forward,right,,"Jul 1, 2006",Cameron Jerome,"1,85m",35855,"['Grenada', 'England']",€5.50m,: Ablöse €4.45m,24,"Aug 14, 1986",Without Club
+Centre-Forward,right,,"Aug 16, 2010",Matt Derbyshire,"1,80m",15175,['England'],€3.50m,: Ablöse €600k,25,"Apr 14, 1986",Retired
+Centre-Forward,right,,"Jul 1, 2007",Garry O'Connor,"1,86m",15708,['Scotland'],€1.50m,: Ablöse €4.00m,28,"May 7, 1983",Retired
+Centre-Forward,right,,"Jul 1, 2008",Marcus Bent,"1,88m",9958,"['England', 'Jamaica']",€1.00m,Charlton Athletic,33,"May 19, 1978",Cornard United FC
+Centre-Forward,right,,"Jul 9, 2008",Kevin Phillips,"1,70m",3131,['England'],€750k,West Bromwich Albion,37,"Jul 25, 1973",Retired
+Centre-Forward,right,,"Jul 1, 2011",Akwasi Asante,"1,83m",129552,"['Netherlands', 'Ghana']",,Birmingham City U18,18,"Sep 6, 1992",Without Club

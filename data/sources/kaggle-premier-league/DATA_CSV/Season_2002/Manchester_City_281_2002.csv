@@ -1,0 +1,45 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 2002",Peter Schmeichel,"1,96m",3465,"['Denmark', 'Poland']",: Ablöse free transfer,39,"Nov 18, 1963",Retired
+Goalkeeper,right,"Jul 1, 1997",Nicky Weaver,"1,91m",3310,['England'],Mansfield Town,24,"Mar 2, 1979",Retired
+Goalkeeper,right,"Jan 12, 2001",Carlo Nash,"1,97m",3804,['England'],: Ablöse €125k,29,"Sep 13, 1973",Retired
+Goalkeeper,right,"Jan 1, 2002",Kevin Stuhr-Ellegaard,"1,96m",3466,['Denmark'],Farum Boldklub,20,"May 23, 1983",Retired
+Goalkeeper,,"Aug 16, 2002",Tim Flowers,"1,90m",4249,['England'],: Ablöse ?,36,"Feb 3, 1967",Retired
+Goalkeeper,right,,Brian Murphy,"1,85m",4190,['Ireland'],,20,"May 7, 1983",Retired
+Centre-Back,right,"Jul 1, 2002",David Sommeil,"1,79m",3803,"['Guadeloupe', 'France']",: Ablöse €4.50m,28,"Aug 10, 1974",Retired
+Centre-Back,right,"Jul 1, 1997",Gerard Wiekens,"1,81m",3319,['Netherlands'],: Ablöse €454k,30,"Feb 25, 1973",Retired
+Centre-Back,left,"Jul 1, 2002",Sylvain Distin,"1,92m",3356,"['France', 'Guadeloupe']",: Ablöse €6.00m,25,"Dec 16, 1977",Retired
+Centre-Back,,"Jul 1, 2001",Paul Ritchie,,3805,['Scotland'],: Ablöse €750k,27,"Aug 21, 1975",Retired
+Centre-Back,right,"Jan 1, 2002",Jihai Sun,"1,83m",3806,['China'],Dalian Shide,25,"Sep 30, 1977",Retired
+Centre-Back,right,"Oct 18, 2000",Richard Dunne,"1,88m",3807,['Ireland'],: Ablöse €4.50m,23,"Sep 21, 1979",Retired
+Centre-Back,right,"Jul 1, 1999",Steve Howey,"1,86m",3138,['England'],Newcastle United,31,"Oct 26, 1971",Retired
+Centre-Back,,"Jan 1, 2002",Lucién Mettomo,,3808,"['Cameroon', 'France']",: Ablöse €2.25m,26,"Apr 19, 1977",Retired
+Centre-Back,right,"Jul 1, 2002",Mikkel Bischoff,"1,93m",3302,"['Denmark', 'Kenya']",Akademisk Boldklub,21,"Feb 3, 1982",Retired
+Centre-Back,right,,Patrick McCarthy,"1,85m",29974,['Ireland'],,20,"May 31, 1983",Retired
+Centre-Back,left,"Jul 1, 2003",Stephen Jordan,"1,83m",4082,['England'],: Ablöse -,21,"Mar 6, 1982",Retired
+Centre-Back,right,"Jul 1, 1999",Rhys Day,"1,85m",3355,['Wales'],: Ablöse -,20,"Aug 31, 1982",Retired
+Left-Back,,"Jan 1, 2002",Niclas Jensen,,3809,['Denmark'],: Ablöse €1.00m,28,"Aug 17, 1974",Retired
+Left-Back,left,"Jul 1, 1998",Danny Tiatto,"1,73m",3227,"['Australia', 'Italy']",FC Baden 1897,30,"May 22, 1973",Retired
+Right-Back,right,"Jul 1, 2002",Tyrone Loran,"1,87m",10379,"['Curacao', 'Netherlands']",: Ablöse ?,22,"Jun 29, 1981",Retired
+Right-Back,right,"Oct 24, 2000",Laurent Charvet,"1,87m",107083,['France'],Newcastle United,30,"May 8, 1973",Retired
+Defensive Midfield,right,"Jul 1, 2002",Marc-Vivien Foé,"1,88m",3889,"['Cameroon', 'France']",: Ablöse €700k,28,"May 1, 1975",---
+Defensive Midfield,left,"Jul 1, 1997",Kevin Horlock,"1,83m",3810,"['Northern Ireland', 'England']",Swindon Town,30,"Nov 1, 1972",Retired
+Defensive Midfield,right,"Nov 13, 2001",Christian Negouai,"1,94m",3811,"['Martinique', 'France']",: Ablöse €2.25m,25,"Jan 20, 1978",Retired
+Defensive Midfield,right,"Jul 1, 2000",Alf-Inge Haaland,"1,86m",107179,['Norway'],: Ablöse €3.75m,30,"Nov 23, 1972",Retired
+Defensive Midfield,right,"Jul 1, 1995",Jeff Whitley,"1,75m",3317,"['Northern Ireland', 'England']",: Ablöse -,24,"Jan 28, 1979",Retired
+Defensive Midfield,right,,Glenn Whelan,"1,80m",12124,['Ireland'],,19,"Jan 13, 1984",Retired
+Central Midfield,both,"Jul 1, 2000",Terry Dunfield,"1,79m",54757,"['Canada', 'England']",: Ablöse -,21,"Feb 20, 1982",Retired
+Central Midfield,right,"Jan 1, 2003",Joey Barton,"1,80m",3292,['England'],: Ablöse -,20,"Sep 2, 1982",Retired
+Right Midfield,right,"Jan 1, 2003",Djamel Belmadi,"1,72m",3639,"['Algeria', 'France']",: Ablöse free transfer,27,"Mar 25, 1976",Retired
+Right Midfield,right,"Jul 1, 2000",Chris Shuker,"1,65m",7932,['England'],: Ablöse -,21,"May 9, 1982",Retired
+Attacking Midfield,right,"Sep 14, 2001",Ali Benarbia,"1,71m",3300,"['Algeria', 'France']",: Ablöse free transfer,34,"Oct 8, 1968",Retired
+Attacking Midfield,right,"Jul 1, 2001",Eyal Berkovic,"1,70m",3231,['Israel'],Celtic FC,31,"Apr 2, 1972",Retired
+Attacking Midfield,right,"Jul 1, 2002",Karim Kerkar,"1,74m",22754,"['Algeria', 'France']",: Ablöse free transfer,26,"Jan 3, 1977",Retired
+Right Winger,right,"Jan 26, 2001",Darren Huckerby,"1,78m",3136,['England'],: Ablöse €4.00m,27,"Apr 23, 1976",Retired
+Right Winger,right,"Aug 1, 2008",Shaun Wright-Phillips,"1,66m",3467,"['England', 'Grenada']",Chelsea FC,21,"Oct 25, 1981",Retired
+Centre-Forward,right,"Jul 1, 2000",Paulo Wanchope,"1,93m",3230,"['Costa Rica', 'England']",: Ablöse €5.60m,26,"Jul 31, 1976",Retired
+Centre-Forward,both,"Mar 26, 1998",Shaun Goater,"1,82m",3353,"['Bermuda', 'England']",: Ablöse €400k,33,"Feb 25, 1970",Retired
+Centre-Forward,right,"Feb 5, 2002",Jon Macken,"1,78m",4080,"['Ireland', 'England']",: Ablöse €7.50m,25,"Sep 7, 1977",Retired
+Centre-Forward,right,"Jul 1, 2002",Matías Vuoso,"1,75m",3812,"['Mexico', 'Argentina']",CA Independiente,21,"Nov 3, 1981",Retired
+Centre-Forward,left,"Jan 16, 2003",Robbie Fowler,"1,80m",3225,['England'],Leeds United,28,"Apr 9, 1975",Retired
+Centre-Forward,both,"Jul 1, 1999",Chris Killen,"1,83m",37766,['New Zealand'],: Ablöse -,21,"Oct 8, 1981",Retired
+Centre-Forward,right,"Jul 1, 2002",Nicolas Anelka,"1,86m",3226,"['France', 'Martinique']",: Ablöse €15.00m,24,"Mar 14, 1979",Retired

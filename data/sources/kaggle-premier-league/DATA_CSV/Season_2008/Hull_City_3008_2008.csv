@@ -1,0 +1,36 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jan 1, 2004",Boaz Myhill,"1,91m",3838,"['Wales', 'United States']",€3.30m,: Ablöse €75k,26,"Nov 9, 1982",Retired
+Goalkeeper,right,"Jul 1, 2004",Matt Duke,"1,95m",36885,['England'],€600k,Burton Albion,31,"Jul 16, 1977",Retired
+Goalkeeper,right,"Jul 1, 2008",Tony Warner,"1,93m",10259,"['Trinidad and Tobago', 'England']",€300k,Fulham FC,35,"May 11, 1974",Retired
+Centre-Back,right,"Jul 6, 2006",Michael Turner,"1,93m",12127,['England'],€4.00m,: Ablöse €475k,25,"Nov 9, 1983",Retired
+Centre-Back,right,"Aug 31, 2009",Paul McShane,"1,83m",24636,['Ireland'],€3.00m,Sunderland AFC,23,"Jan 6, 1986",Retired
+Centre-Back,right,"Jan 23, 2009",Kamil Zayatte,"1,87m",33820,"['Guinea', 'France']",€3.00m,BSC Young Boys,24,"Mar 7, 1985",Retired
+Centre-Back,left,"Jul 1, 2007",Wayne Brown,"1,83m",13996,['England'],€1.00m,Colchester United,31,"Aug 20, 1977",Retired
+Centre-Back,left,"Aug 1, 2008",Anthony Gardner,"1,96m",4053,"['England', 'Jamaica']",€800k,Tottenham Hotspur,28,"Sep 19, 1980",Retired
+Centre-Back,right,"Jul 1, 2006",Matty Plummer,"1,91m",44378,['England'],€50k,Hull City U18,20,"Jan 18, 1989",Beverley Town FC
+Centre-Back,left,"Jul 1, 2009",Liam Cooper,"1,86m",75067,"['Scotland', 'England']",€50k,Hull City U18,17,"Aug 30, 1991",CSKA-Sofia
+Left-Back,left,"Jul 1, 2003",Andy Dawson,"1,75m",36860,['England'],€2.00m,Scunthorpe United,30,"Oct 20, 1978",Retired
+Right-Back,,"Jul 1, 2006",Sam Ricketts,,30434,"['Wales', 'England']",€2.70m,: Ablöse €450k,27,"Oct 11, 1981",Retired
+Right-Back,right,"Jul 11, 2008",Bernard Mendy,"1,80m",3707,"['France', 'Senegal']",€2.60m,: Ablöse free transfer,27,"Aug 20, 1981",Retired
+Defensive Midfield,right,"Jul 1, 2002",Ian Ashbee,"1,85m",36857,['England'],€3.00m,Cambridge United,32,"Sep 6, 1976",Retired
+Defensive Midfield,right,"Jul 1, 2008",George Boateng,"1,76m",3358,"['Netherlands', 'Ghana']",€2.40m,Middlesbrough FC,33,"Sep 5, 1975",Retired
+Defensive Midfield,right,"Feb 1, 2007",Nathan Doyle,"1,80m",13452,['England'],€300k,: Ablöse €225k,22,"Jan 12, 1987",Retired
+Central Midfield,right,"Jan 1, 2009",Jimmy Bullard,"1,78m",13510,"['England', 'Germany']",€5.00m,Fulham FC,30,"Oct 23, 1978",Retired
+Central Midfield,right,"Jul 14, 2006",Dean Marney,"1,83m",4055,['England'],€3.00m,Tottenham Hotspur,25,"Jan 31, 1984",Retired
+Central Midfield,right,"Jul 1, 2005",John Welsh,"1,70m",3313,['England'],€250k,: Ablöse €2.25m,25,"Jan 10, 1984",Retired
+Central Midfield,right,"Jul 1, 2006",Nicky Featherstone,"1,70m",45607,['England'],€150k,Hull City U18,20,"Sep 22, 1988",Hartlepool United
+Central Midfield,right,"Jul 1, 2006",Will Atkinson,"1,78m",61427,['England'],€50k,Hull City U18,20,"Oct 14, 1988",Mickleover FC
+Left Midfield,left,"Jan 15, 2009",Kevin Kilbane,"1,83m",4135,"['Ireland', 'England']",€3.00m,Wigan Athletic,32,"Feb 1, 1977",Retired
+Left Midfield,left,"Jul 1, 2008",Péter Halmosi,"1,82m",5001,['Hungary'],€1.60m,Plymouth Argyle,29,"Sep 25, 1979",Király SE
+Left Midfield,,"Jul 1, 2004",Nick Barmby,,3222,['England'],€600k,Leeds United,35,"Feb 11, 1974",Retired
+Attacking Midfield,right,"Jul 1, 2008",Geovanni,"1,70m",7609,['Brazil'],€4.50m,: Ablöse free transfer,29,"Jan 11, 1980",Retired
+Attacking Midfield,right,"Jul 1, 2007",Bryan Hughes,"1,78m",3939,['England'],€800k,Charlton Athletic,33,"Jun 19, 1976",Retired
+Right Winger,right,"Jul 1, 2008",Stelios Giannakopoulos,"1,72m",4254,['Greece'],€1.75m,: Ablöse free transfer,34,"Jul 12, 1974",Retired
+Right Winger,right,"Sep 26, 2003",Ryan France,"1,80m",36864,['England'],€400k,Alfreton Town,28,"Dec 13, 1980",Retired
+Second Striker,right,"Jul 1, 2007",Richard García,"1,80m",3695,"['Australia', 'Uruguay']",€1.80m,Colchester United,27,"Sep 4, 1981",Retired
+Centre-Forward,right,"Aug 1, 2008",Marlon King,"1,85m",14037,"['Jamaica', 'England']",€3.50m,Wigan Athletic,29,"Apr 26, 1980",Retired
+Centre-Forward,,"Sep 1, 2008",Daniel Cousin,,6261,"['Gabon', 'France']",€3.20m,: Ablöse €1.90m,32,"Feb 7, 1977",Retired
+Centre-Forward,left,"Jan 1, 2009",Manucho,"1,90m",64484,"['Angola', 'Portugal']",€2.30m,Manchester United,26,"Mar 7, 1983",Racing Madrid City FC
+Centre-Forward,right,"Mar 7, 2008",Craig Fagan,"1,80m",3928,"['England', 'Jamaica']",€1.80m,: Ablöse €1.03m,26,"Dec 11, 1982",Retired
+Centre-Forward,right,"Aug 1, 2007",Caleb Folan,"1,88m",46816,"['Ireland', 'England']",€1.30m,Wigan Athletic,26,"Oct 26, 1982",Retired
+Centre-Forward,right,"Jan 1, 2007",Dean Windass,"1,78m",3328,['England'],€600k,Bradford City,40,"Apr 1, 1969",Retired

@@ -1,0 +1,28 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jul 6, 1992",David James,,3646,"['England', 'Jamaica']",: Ablöse €1.40m,26,"Aug 1, 1970",Retired
+Goalkeeper,right,"Jul 1, 1993",Tony Warner,"1,93m",10259,"['Trinidad and Tobago', 'England']",: Ablöse -,23,"May 11, 1974",Retired
+Goalkeeper,right,"Jul 1, 1994",Michael Stensgaard,"1,91m",211168,['Denmark'],Hvidovre IF,22,"Sep 1, 1974",Retired
+Centre-Back,left,"Sep 1, 1994",Phil Babb,"1,82m",3283,"['Ireland', 'England']",Coventry City,26,"Nov 30, 1970",Retired
+Centre-Back,right,"Jul 1, 1996",Bjørn Tore Kvarme,"1,85m",7463,['Norway'],: Ablöse free transfer,25,"Jun 17, 1972",Retired
+Centre-Back,right,"Sep 2, 1994",John Scales,"1,88m",104899,['England'],: Ablöse €4.10m,30,"Jul 4, 1966",Retired
+Centre-Back,right,"Jul 15, 1991",Mark Wright,"1,91m",101386,['England'],: Ablöse €2.85m,33,"Aug 1, 1963",Retired
+Centre-Back,left,"Jul 21, 1993",Neil Ruddock,"1,88m",3487,['England'],: Ablöse €3.00m,29,"May 9, 1968",Retired
+Centre-Back,right,"Jul 1, 1996",Jamie Carragher,"1,85m",3597,['England'],: Ablöse -,19,"Jan 28, 1978",Retired
+Left-Back,left,,Gareth Roberts,"1,73m",30433,['Wales'],,19,"Feb 6, 1978",Retired
+Left-Back,left,"Jul 17, 1989",Steve Harkness,"1,79m",107196,['England'],Carlisle United,25,"Aug 27, 1971",Retired
+Left-Back,left,"Mar 1, 1995",Mark Kennedy,"1,80m",3488,"['Ireland', 'England']",: Ablöse €2.05m,21,"May 15, 1976",Retired
+Left-Back,left,"Dec 18, 1992",Stig Inge Bjørnebye,"1,79m",102510,['Norway'],: Ablöse ?,27,"Dec 11, 1969",Retired
+Left-Back,left,"Jul 1, 1992",Dominic Matteo,"1,86m",3765,"['Scotland', 'England']",: Ablöse -,23,"Apr 28, 1974",Retired
+Right-Back,right,"Oct 1, 1991",Rob Jones,"1,73m",107200,"['England', 'Wales']",Crewe Alexandra,25,"Nov 5, 1971",Retired
+Midfielder,,"Jul 1, 1994",Jamie Cassidy,"1,75m",145723,['England'],: Ablöse -,19,"Nov 21, 1977",Retired
+Central Midfield,right,"Jan 15, 1991",Jamie Redknapp,"1,83m",3424,['England'],: Ablöse €750k,24,"Jun 25, 1973",Retired
+Right Midfield,right,"Sep 7, 1995",Jason McAteer,"1,75m",3710,"['Ireland', 'England']",: Ablöse €6.25m,26,"Jun 18, 1971",Retired
+Right Midfield,right,"Dec 13, 1991",Michael Thomas,"1,79m",107235,['England'],: Ablöse €225k,29,"Aug 24, 1967",Retired
+Right Midfield,right,"Jul 1, 1996",David Thompson,"1,70m",4127,['England'],: Ablöse -,19,"Sep 12, 1977",Retired
+Left Midfield,,"Jul 1, 1987",John Barnes,,87436,"['England', 'Jamaica']",: Ablöse €1.30m,33,"Nov 7, 1963",Retired
+Attacking Midfield,right,"Jul 1, 1990",Steve McManaman,"1,85m",3980,['England'],: Ablöse -,25,"Feb 11, 1972",Retired
+Attacking Midfield,,"Jul 1, 1996",Patrik Berger,,3218,['Czech Republic'],Borussia Dortmund,23,"Nov 10, 1973",Retired
+Centre-Forward,right,"Jul 1, 1995",Stan Collymore,"1,88m",106811,['England'],: Ablöse €13.00m,26,"Jan 22, 1971",Retired
+Centre-Forward,left,"Jan 27, 2006",Robbie Fowler,"1,80m",3225,['England'],: Ablöse free transfer,22,"Apr 9, 1975",Retired
+Centre-Forward,both,"Jul 1, 1997",Michael Owen,"1,73m",1397,['England'],: Ablöse -,17,"Dec 14, 1979",Retired
+Centre-Forward,,"Mar 12, 1992",Lee Jones,"1,73m",222092,['Wales'],Wrexham AFC,24,"May 29, 1973",Retired

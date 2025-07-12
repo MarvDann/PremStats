@@ -1,0 +1,42 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2017",Mathew Ryan,"1,84m",128969,"['Australia', 'Scotland']",€10.00m,Valencia CF,27,"Apr 8, 1992",AS Roma
+Goalkeeper,right,,"Jul 16, 2018",David Button,"1,91m",61814,['England'],€1.50m,Fulham FC,30,"Feb 27, 1989",Reading FC
+Goalkeeper,left,,"Jul 1, 2014",Christian Walton,"1,95m",208379,['England'],€1.00m,Brighton & Hove Albion U18,23,"Nov 9, 1995",Ipswich Town
+Goalkeeper,right,,"Jul 1, 2018",Jason Steele,"1,88m",73564,['England'],€750k,Sunderland AFC,28,"Aug 18, 1990",Brighton & Hove Albion
+Goalkeeper,right,,"Jul 1, 2020",Robert Sánchez,"1,97m",403151,"['Spain', 'England']",,Brighton & Hove Albion U23,21,"Nov 18, 1997",Chelsea FC
+Centre-Back,right,,"Aug 26, 2016",Shane Duffy,"1,93m",119269,"['Ireland', 'Northern Ireland']",€12.00m,Blackburn Rovers,27,"Jan 1, 1992",Norwich City
+Centre-Back,right,Team captain,"Apr 30, 2010",Lewis Dunk,"1,92m",148153,['England'],€12.00m,: Ablöse -,27,"Nov 21, 1991",Brighton & Hove Albion
+Centre-Back,left,"Yellow card suspension - until Nov 26, 2024 - Premier League - 1 matchday","Aug 9, 2018",Dan Burn,"2,01m",134270,['England'],€3.00m,Wigan Athletic,27,"May 9, 1992",Newcastle United
+Centre-Back,right,,"Jul 1, 2018",Leon Balogun,"1,90m",56100,"['Nigeria', 'Germany']",€2.00m,: Ablöse free transfer,31,"Jun 28, 1988",Rangers FC
+Centre-Back,right,,"Aug 8, 2018",Leo Østigård,"1,83m",367284,['Norway'],€150k,Molde FK,19,"Nov 28, 1999",Stade Rennais FC
+Centre-Back,right,,,Ben Barclay,"1,87m",335593,['England'],,,22,"Oct 7, 1996",Carlisle United
+Left-Back,left,Knee injury - Return unknown,"Jul 5, 2018",Bernardo,"1,86m",364258,['Brazil'],€9.00m,: Ablöse €10.00m,24,"May 14, 1995",VfL Bochum
+Left-Back,left,,"Jul 2, 2015",Gaëtan Bong,"1,83m",36291,"['Cameroon', 'France']",€2.00m,Wigan Athletic,31,"Apr 25, 1988",Retired
+Left-Back,left,,"Jul 13, 2017",Markus Suttner,"1,79m",31514,['Austria'],€1.50m,FC Ingolstadt 04,32,"Apr 16, 1987",ASV 13
+Right-Back,right,,"Aug 9, 2018",Martín Montoya,"1,75m",68645,['Spain'],€8.00m,Valencia CF,28,"Apr 14, 1991",Aris Thessaloniki
+Right-Back,right,,"Jul 1, 2012",Bruno Saltor,"1,80m",51528,['Spain'],€750k,Valencia CF,38,"Oct 1, 1980",Retired
+Right-Back,right,,"Jul 1, 2018",Ben White,"1,86m",335721,['England'],,Brighton & Hove Albion U23,21,"Oct 8, 1997",Arsenal FC
+Defensive Midfield,right,,"Jul 17, 2018",Yves Bissouma,"1,82m",410425,"['Mali', ""Cote d'Ivoire""]",€15.00m,LOSC Lille,22,"Aug 30, 1996",Tottenham Hotspur
+Defensive Midfield,right,,"Jan 31, 2019",Tudor Băluță,"1,92m",433976,['Romania'],€4.50m,: Ablöse €2.90m,20,"Mar 27, 1999",Slask Wroclaw
+Central Midfield,right,,"Aug 7, 2017",Davy Pröpper,"1,85m",79027,['Netherlands'],€15.00m,: Ablöse €13.00m,27,"Sep 2, 1991",Retired
+Central Midfield,right,,"Jul 1, 2017",Pascal Groß,"1,81m",82873,['Germany'],€10.00m,FC Ingolstadt 04,28,"Jun 15, 1991",Borussia Dortmund
+Central Midfield,right,,"Jan 30, 2014",Dale Stephens,"1,85m",49755,['England'],€6.00m,Charlton Athletic,30,"Jun 12, 1989",Retired
+Central Midfield,right,,"Jan 24, 2019",Alexis Mac Allister,"1,76m",534033,"['Argentina', 'Italy']",€5.00m,AA Argentinos Juniors,20,"Dec 24, 1998",Liverpool FC
+Central Midfield,right,Tibia and fibula fracture - Return unknown,"Jan 29, 2015",Beram Kayal,"1,78m",44741,['Israel'],€1.50m,Celtic FC,31,"May 2, 1988",Ihud Bnei Sakhnin
+Central Midfield,right,,"Jan 3, 2016",Richie Towell,"1,79m",114116,['Ireland'],€200k,Dundalk FC,27,"Jul 17, 1991",Shamrock Rovers
+Central Midfield,right,,,Max Sanders,"1,75m",411495,['England'],,,20,"Jan 4, 1999",Crewe Alexandra
+Central Midfield,right,,,Jayson Molumby,"1,76m",357656,['Ireland'],,,19,"Aug 6, 1999",West Bromwich Albion
+Central Midfield,right,unknown injury - Return unknown,,Will Collar,"1,78m",335598,['England'],,,22,"Feb 3, 1997",Stockport County
+Right Midfield,right,,"Aug 31, 2017",Ezequiel Schelotto,"1,87m",119164,"['Italy', 'Argentina']",€3.00m,Sporting CP,30,"May 23, 1989",FC Paradiso
+Left Winger,right,,"Aug 20, 2017",José Izquierdo,"1,71m",147094,['Colombia'],€10.00m,Club Brugge KV,26,"Jul 7, 1992",Retired
+Left Winger,right,,"Jan 31, 2019",Jan Mlakar,"1,83m",309180,['Slovenia'],€2.00m,NK Maribor,20,"Oct 23, 1998",Pisa Sporting Club
+Right Winger,right,,"Jul 25, 2018",Alireza Jahanbakhsh,"1,81m",213268,"['Iran', 'Netherlands']",€15.00m,AZ Alkmaar,25,"Aug 11, 1993",SC Heerenveen
+Right Winger,left,,"Jan 7, 2016",Anthony Knockaert,"1,72m",149237,"['France', 'Belgium']",€8.00m,: Ablöse €3.50m,27,"Nov 20, 1991",Stade Mouscronnois
+Right Winger,left,Knee injury - Return unknown,"Jul 1, 2013",Solly March,"1,80m",209212,['England'],€8.00m,Brighton & Hove Albion U18,24,"Jul 20, 1994",Brighton & Hove Albion
+Right Winger,left,,"Jul 20, 2018",Percy Tau,"1,75m",312239,['South Africa'],€3.50m,Mamelodi Sundowns FC,25,"May 13, 1994",Al Ahly FC
+Centre-Forward,right,,"Jan 19, 2018",Jürgen Locadia,"1,93m",166240,"['Curacao', 'Netherlands']",€12.00m,: Ablöse €17.00m,25,"Nov 7, 1993",CF Intercity
+Centre-Forward,right,,"Jul 1, 2018",Florin Andone,"1,81m",177065,"['Romania', 'Spain']",€6.00m,Deportivo de La Coruña,26,"Apr 11, 1993",CD Atlético Baleares
+Centre-Forward,right,,"Jan 31, 2017",Glenn Murray,"1,86m",45693,['England'],€3.00m,AFC Bournemouth,35,"Sep 25, 1983",Retired
+Centre-Forward,right,,"Jul 1, 2015",Tomer Hemed,"1,82m",112668,"['Israel', 'Poland']",€2.50m,UD Almería,32,"May 2, 1987",Retired
+Centre-Forward,right,,"Jan 1, 2018",Viktor Gyökeres,"1,87m",325443,"['Sweden', 'Hungary']",€500k,IF Brommapojkarna,21,"Jun 4, 1998",Sporting CP
+Centre-Forward,right,,"Jul 1, 2019",Aaron Connolly,"1,74m",434207,['Ireland'],,Brighton & Hove Albion U23,19,"Jan 28, 2000",Sunderland AFC

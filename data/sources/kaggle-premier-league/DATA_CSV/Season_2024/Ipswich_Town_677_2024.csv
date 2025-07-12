@@ -1,0 +1,28 @@
+position,foot,status,joinedOn,name,height,id,nationality,contract,joined,marketValue,age,dateOfBirth,signedFrom
+Goalkeeper,right,,"Jul 17, 2024",Arijanet Muric,"1,98m",371021,"['Kosovo', 'Montenegro']","Jun 30, 2028","Joined from Burnley FC; date: Jul 17, 2024; fee: €9.55m",€7.00m,26,"Nov 7, 1998",Burnley FC
+Goalkeeper,left,,"Jan 19, 2022",Christian Walton,"1,95m",208379,['England'],"Jun 30, 2026",,€900k,29,"Nov 9, 1995",Brighton & Hove Albion
+Goalkeeper,,,"Jul 8, 2023",Cieran Slicker,,621997,"['Scotland', 'England']","Jun 30, 2028",,€300k,22,"Sep 15, 2002",Manchester City U21
+Centre-Back,left,Muscle injury - Return unknown,"Jul 12, 2024",Jacob Greaves,"1,93m",693095,['England'],"Jun 30, 2029","Joined from Hull City; date: Jul 12, 2024; fee: €21.50m",€20.00m,24,"Sep 12, 2000",Hull City
+Centre-Back,right,,"Aug 25, 2024",Dara O'Shea,"1,89m",401320,['Ireland'],"Jun 30, 2029","Joined from Burnley FC; date: Aug 25, 2024; fee: €14.20m",€10.00m,25,"Mar 4, 1999",Burnley FC
+Centre-Back,right,Thumb injury - Return unknown,"Sep 8, 2023",Axel Tuanzebe,"1,85m",342046,"['DR Congo', 'England']","Jun 30, 2025",,€3.00m,26,"Nov 14, 1997",Without Club
+Centre-Back,right,,"Jul 1, 2017",Luke Woolfenden,"1,93m",527425,['England'],"Jun 30, 2025",,€2.00m,26,"Oct 21, 1998",Ipswich Town U18
+Centre-Back,left,,"Aug 15, 2021",Cameron Burgess,"1,94m",255788,"['Australia', 'Scotland']","Jun 30, 2025",,€1.50m,29,"Oct 21, 1995",Accrington Stanley
+Left-Back,left,,"Jul 25, 2022",Leif Davis,"1,82m",596446,['England'],"Jun 30, 2028",,€15.00m,24,"Dec 31, 1999",Leeds United
+Left-Back,left,,"Aug 1, 2024",Conor Townsend,"1,83m",146509,['England'],"Jun 30, 2026","Joined from West Bromwich Albion; date: Aug 1, 2024; fee: €590k",€1.50m,31,"Mar 4, 1993",West Bromwich Albion
+Right-Back,right,,"Jul 1, 2024",Ben Johnson,"1,84m",468002,['England'],"Jun 30, 2028","Joined from West Ham United; date: Jul 1, 2024; fee: free transfer",€8.00m,24,"Jan 24, 2000",West Ham United
+Right-Back,right,,"Jan 19, 2023",Harry Clarke,"1,80m",528892,['England'],"Jun 30, 2026",,€5.00m,23,"Mar 2, 2001",Arsenal FC U21
+Defensive Midfield,right,,"Aug 16, 2024",Kalvin Phillips,"1,79m",351749,"['England', 'Jamaica']","Jun 30, 2025","On loan from Manchester City until Jun 30, 2025",€22.00m,28,"Dec 2, 1995",Manchester City
+Defensive Midfield,right,,"Aug 19, 2024",Jens Cajuste,"1,88m",468066,"['Sweden', 'United States']","Jun 30, 2025","On loan from SSC Napoli until Jun 30, 2025",€10.00m,25,"Aug 10, 1999",SSC Napoli
+Central Midfield,right,Hamstring injury - Return unknown,"Jul 1, 2023",Jack Taylor,"1,85m",458178,"['Ireland', 'England']","Jun 30, 2026",,€1.80m,26,"Jun 23, 1998",Peterborough United
+Central Midfield,right,Team captain,"Aug 31, 2021",Sam Morsy,"1,75m",123551,"['Egypt', 'England']","Jun 30, 2026",,€900k,33,"Sep 10, 1991",Middlesbrough FC
+Central Midfield,right,,"Jan 5, 2023",Massimo Luongo,"1,76m",181687,"['Australia', 'Italy']","Jun 30, 2025",,€500k,32,"Sep 25, 1992",Middlesbrough FC
+Attacking Midfield,right,,"Aug 16, 2024",Sammie Szmodics,"1,68m",292139,"['Ireland', 'Hungary']","Jun 30, 2028","Joined from Blackburn Rovers; date: Aug 16, 2024; fee: €10.60m",€10.00m,29,"Sep 24, 1995",Blackburn Rovers
+Left Winger,right,,"Aug 24, 2024",Jack Clarke,"1,81m",559794,['England'],"Jun 30, 2029","Joined from Sunderland AFC; date: Aug 24, 2024; fee: €17.70m",€15.00m,23,"Nov 23, 2000",Sunderland AFC
+Left Winger,right,,"Jan 9, 2023",Nathan Broadhead,"1,78m",344009,['Wales'],"Jun 30, 2026",,€5.00m,26,"Apr 5, 1998",Everton FC U21
+Right Winger,left,,"Jul 1, 2024",Omari Hutchinson,"1,74m",741238,"['England', 'Jamaica']","Jun 30, 2029","Joined from Chelsea FC; date: Jul 1, 2024; fee: €23.50m",€18.00m,21,"Oct 30, 2003",Chelsea FC
+Right Winger,right,Achilles tendon rupture - Return unknown,"Aug 28, 2024",Chiedozie Ogbene,"1,81m",392591,"['Ireland', 'Nigeria']","Jun 30, 2028","Joined from Luton Town; date: Aug 28, 2024; fee: €9.50m",€8.00m,27,"May 1, 1997",Luton Town
+Right Winger,right,,"Jul 1, 2021",Wes Burns,"1,73m",255731,['Wales'],"Jun 30, 2026",,€2.00m,29,"Nov 23, 1994",Fleetwood Town
+Second Striker,left,,"Jul 27, 2021",Conor Chaplin,"1,68m",349503,['England'],"Jun 30, 2026",,€7.00m,27,"Feb 16, 1997",Barnsley FC
+Centre-Forward,right,,"Jul 13, 2024",Liam Delap,"1,86m",610849,"['England', 'Ireland']","Jun 30, 2029","Joined from Manchester City U21; date: Jul 13, 2024; fee: €17.85m",€15.00m,21,"Feb 8, 2003",Manchester City U21
+Centre-Forward,right,,"Jul 13, 2023",George Hirst,"1,91m",420808,"['England', 'Scotland']","Jun 30, 2027",,€4.00m,25,"Feb 15, 1999",Leicester City
+Centre-Forward,right,,"Jan 29, 2024",Ali Al-Hamadi,"1,87m",610581,"['Iraq', 'England']","Jun 30, 2028",,€2.00m,22,"Mar 1, 2002",AFC Wimbledon

@@ -1,0 +1,35 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2014",Freddie Woodman,"1,88m",226049,['England'],€9.00m,Newcastle United U18,25,"Mar 4, 1997",Preston North End
+Goalkeeper,right,,"Jul 1, 2018",Martin Dúbravka,"1,91m",74960,['Slovakia'],€4.00m,: Ablöse €4.00m,33,"Jan 15, 1989",Newcastle United
+Goalkeeper,right,,"Aug 9, 2014",Karl Darlow,"1,90m",99397,"['Wales', 'England']",€2.50m,: Ablöse €5.00m,31,"Oct 8, 1990",Leeds United
+Goalkeeper,right,,"Jul 3, 2020",Mark Gillespie,"1,91m",142389,['England'],€300k,Motherwell FC,30,"Mar 27, 1992",Newcastle United
+Centre-Back,left,"Yellow card suspension - until Nov 26, 2024 - Premier League - 1 matchday","Jan 31, 2022",Dan Burn,"2,01m",134270,['England'],€12.00m,Brighton & Hove Albion,30,"May 9, 1992",Newcastle United
+Centre-Back,right,Team captain,"Aug 9, 2014",Jamaal Lascelles,"1,88m",183318,"['England', 'Barbados']",€10.00m,: Ablöse €5.00m,28,"Nov 11, 1993",Newcastle United
+Centre-Back,right,,"Jul 26, 2018",Fabian Schär,"1,86m",135343,['Switzerland'],€7.00m,Deportivo de La Coruña,30,"Dec 20, 1991",Newcastle United
+Centre-Back,left,,"Aug 3, 2016",Ciaran Clark,"1,85m",98240,"['Ireland', 'England']",€1.80m,: Ablöse €6.00m,32,"Sep 26, 1989",Without Club
+Centre-Back,left,,"Jul 1, 2012",Paul Dummett,"1,83m",170321,"['Wales', 'England']",€1.50m,Newcastle United U21,30,"Sep 26, 1991",Wigan Athletic
+Centre-Back,right,,"Aug 9, 2018",Federico Fernández,"1,89m",85475,"['Argentina', 'Italy']",€1.50m,: Ablöse €6.70m,33,"Feb 21, 1989",Club Estudiantes de La Plata
+Left-Back,left,,"Jul 1, 2022",Matt Targett,"1,83m",250478,"['England', 'Scotland']",€17.00m,: Ablöse €17.50m,26,"Sep 18, 1995",Newcastle United
+Left-Back,left,,"Sep 8, 2020",Jamal Lewis,"1,78m",346018,"['Northern Ireland', 'England']",€10.00m,: Ablöse €16.50m,24,"Jan 25, 1998",São Paulo Futebol Clube
+Right-Back,right,Hamstring injury - Return unknown,"Jan 7, 2022",Kieran Trippier,"1,73m",95810,['England'],€15.00m,: Ablöse €14.00m,31,"Sep 19, 1990",Newcastle United
+Right-Back,right,unknown injury - Return unknown,"Aug 8, 2019",Emil Krafth,"1,84m",184528,['Sweden'],€5.00m,: Ablöse €5.40m,27,"Aug 2, 1994",Newcastle United
+Right-Back,right,,"Jul 21, 2017",Javier Manquillo,"1,78m",162029,['Spain'],€3.00m,: Ablöse €5.00m,28,"May 5, 1994",Celta de Vigo
+Defensive Midfield,right,,"Jan 30, 2022",Bruno Guimarães,"1,82m",520624,"['Brazil', 'Spain']",€40.00m,: Ablöse €42.10m,24,"Nov 16, 1997",Newcastle United
+Defensive Midfield,right,,"Jul 11, 2016",Isaac Hayden,"1,87m",206225,"['England', 'Jamaica']",€8.00m,Arsenal FC U23,27,"Mar 22, 1995",Newcastle United
+Central Midfield,right,,"Aug 13, 2021",Joe Willock,"1,86m",340329,"['England', 'Montserrat']",€22.00m,Arsenal FC,22,"Aug 20, 1999",Newcastle United
+Central Midfield,right,,"Jul 23, 2019",Joelinton,"1,86m",333241,['Brazil'],€20.00m,TSG 1899 Hoffenheim,25,"Aug 14, 1996",Newcastle United
+Central Midfield,right,,"Jan 1, 2019",Sean Longstaff,"1,87m",346707,['England'],€13.00m,Newcastle United U23,24,"Oct 30, 1997",Newcastle United
+Central Midfield,right,,"Jan 12, 2016",Jonjo Shelvey,"1,84m",71292,"['England', 'Ireland']",€10.00m,: Ablöse €16.00m,30,"Feb 27, 1992",Eyüpspor
+Central Midfield,right,,"Aug 24, 2020",Jeff Hendrick,"1,85m",148262,['Ireland'],€5.00m,: Ablöse free transfer,30,"Jan 31, 1992",Without Club
+Central Midfield,right,,"Jul 1, 2019",Matty Longstaff,"1,71m",484387,['England'],€1.80m,Newcastle United U23,22,"Mar 21, 2000",Toronto FC
+Central Midfield,right,,"Jul 1, 2022",Elliot Anderson,"1,79m",567576,"['England', 'Scotland']",€200k,Newcastle United U21,19,"Nov 6, 2002",Nottingham Forest
+Central Midfield,right,,,Lucas De Bolle,,626291,"['Scotland', 'Belgium']",,,19,"Oct 22, 2002",South Shields FC
+Right Midfield,left,,"Jul 1, 2016",Matt Ritchie,"1,73m",92469,"['Scotland', 'England']",€1.80m,AFC Bournemouth,32,"Sep 10, 1989",Portsmouth FC
+Attacking Midfield,left,,"Jul 1, 2023",Joe White,"1,86m",614811,['England'],,Newcastle United U21,19,"Oct 1, 2002",Milton Keynes Dons
+Left Winger,right,,"Aug 2, 2019",Allan Saint-Maximin,"1,73m",272642,"['France', 'Guadeloupe']",€32.00m,OGC Nice,25,"Mar 12, 1997",Fenerbahce
+Left Winger,right,,"Sep 7, 2020",Ryan Fraser,"1,63m",146795,['Scotland'],€10.00m,AFC Bournemouth,28,"Feb 24, 1994",Southampton FC
+Right Winger,left,,"Jan 31, 2019",Miguel Almirón,"1,74m",272999,['Paraguay'],€16.00m,Atlanta United FC,28,"Feb 10, 1994",Newcastle United
+Right Winger,right,,"Jul 19, 2017",Jacob Murphy,"1,79m",199527,"['England', 'Ireland']",€5.00m,: Ablöse €11.30m,27,"Feb 24, 1995",Newcastle United
+Centre-Forward,right,Back injury - Return unknown,"Sep 7, 2020",Callum Wilson,"1,80m",123682,['England'],€18.00m,AFC Bournemouth,30,"Feb 27, 1992",Newcastle United
+Centre-Forward,right,,"Jan 13, 2022",Chris Wood,"1,91m",108725,['New Zealand'],€10.00m,: Ablöse €30.00m,30,"Dec 7, 1991",Nottingham Forest
+Centre-Forward,right,,"Jul 1, 2016",Dwight Gayle,"1,74m",196522,"['England', 'Jamaica']",€1.50m,Crystal Palace,32,"Oct 17, 1989",Hibernian FC

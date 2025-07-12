@@ -1,0 +1,37 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2013",Tom Heaton,"1,88m",34130,['England'],€4.00m,: Ablöse free transfer,31,"Apr 15, 1986",Manchester United
+Goalkeeper,right,,"Jul 19, 2016",Nick Pope,"1,98m",192080,['England'],€750k,Charlton Athletic,25,"Apr 19, 1992",Newcastle United
+Goalkeeper,right,,"Jan 26, 2016",Paul Robinson,"1,93m",3630,['England'],€250k,Without Club,37,"Oct 15, 1979",Retired
+Centre-Back,right,,"Jan 12, 2015",Michael Keane,"1,88m",118534,"['England', 'Ireland']",€18.00m,Manchester United U21,24,"Jan 11, 1993",Everton FC
+Centre-Back,left,,"Jan 17, 2012",Ben Mee,"1,80m",74810,['England'],€6.00m,: Ablöse ?,27,"Sep 21, 1989",Brentford FC
+Centre-Back,right,,"Feb 1, 2016",James Tarkowski,"1,85m",173504,"['England', 'Poland']",€2.00m,: Ablöse €4.00m,24,"Nov 19, 1992",Everton FC
+Centre-Back,right,,"Jan 1, 2010",Kevin Long,"1,88m",111114,['Ireland'],€500k,Cork City FC,26,"Aug 18, 1990",Toronto FC
+Centre-Back,right,,"Jul 1, 2012",Tom Anderson,"1,93m",128828,['England'],€250k,: Ablöse -,23,"Sep 2, 1993",Doncaster Rovers
+Left-Back,left,,"Aug 15, 2014",Stephen Ward,"1,84m",34691,['Ireland'],€1.50m,Wolverhampton Wanderers,31,"Aug 20, 1985",Retired
+Left-Back,left,,"Jan 30, 2012",Danny Lafferty,"1,82m",85928,['Northern Ireland'],€500k,Derry City,28,"May 18, 1989",Ballymena United FC
+Right-Back,right,,"Aug 5, 2016",Jon Flanagan,"1,81m",145922,"['England', 'Ireland']",€3.50m,: Ablöse ?,24,"Jan 1, 1993",Retired
+Right-Back,right,,"Jul 1, 2015",Matthew Lowton,"1,80m",102258,['England'],€2.50m,: Ablöse €1.40m,28,"Jun 9, 1989",Precision FC
+Right-Back,right,,"Jul 30, 2015",Tendayi Darikwa,"1,88m",158700,"['Zimbabwe', 'England']",€500k,Chesterfield FC,25,"Dec 13, 1991",Lincoln City
+Right-Back,right,,,Brad Jackson,"1,75m",385920,['England'],,,20,"Oct 20, 1996",Radcliffe FC
+Defensive Midfield,right,,"Aug 16, 2016",Steven Defour,"1,75m",33866,['Belgium'],€6.00m,: Ablöse €8.60m,29,"Apr 15, 1988",Retired
+Defensive Midfield,right,,"Jan 31, 2017",Ashley Westwood,"1,74m",91317,['England'],€4.00m,: Ablöse €5.80m,27,"Apr 1, 1990",Charlotte FC
+Defensive Midfield,right,,"Mar 10, 2015",Fredrik Ulvestad,"1,83m",158022,['Norway'],€750k,Without Club,25,"Jun 17, 1992",Pogon Szczecin
+Defensive Midfield,right,,"Jul 1, 2016",Aiden O'Neill,"1,78m",385918,"['Australia', 'Northern Ireland']",€100k,: Ablöse -,18,"Jul 4, 1998",Standard Liège
+Central Midfield,right,,"Aug 31, 2016",Jeff Hendrick,"1,85m",148262,['Ireland'],€6.00m,Derby County,25,"Jan 31, 1992",Without Club
+Central Midfield,right,,"Jul 19, 2013",Scott Arfield,"1,78m",55291,"['Canada', 'Scotland']",€3.00m,: Ablöse free transfer,28,"Nov 1, 1988",Bolton Wanderers
+Central Midfield,left,,"Aug 1, 2013",David Jones,"1,83m",24634,"['England', 'Wales']",€1.50m,Wigan Athletic,32,"Nov 4, 1984",Retired
+Central Midfield,right,,"Jul 1, 2010",Dean Marney,"1,83m",4055,['England'],€1.00m,: Ablöse €600k,33,"Jan 31, 1984",Retired
+Central Midfield,right,,"Jan 2, 2017",Joey Barton,"1,80m",3292,['England'],€1.00m,Without Club,34,"Sep 2, 1982",Retired
+Left Midfield,left,Injury to the ankle - Return unknown,"Jan 31, 2017",Robbie Brady,"1,76m",128229,['Ireland'],€10.00m,: Ablöse €15.10m,25,"Jan 14, 1992",Preston North End
+Left Winger,left,,"Sep 1, 2014",George Boyd,"1,86m",45623,"['Scotland', 'England']",€4.00m,: Ablöse €3.80m,31,"Oct 2, 1985",Wythenshawe Town FC
+Left Winger,right,,"Jul 1, 2014",Michael Kightly,"1,73m",25366,['England'],€1.00m,Stoke City,31,"Jan 24, 1986",Without Club
+Right Winger,left,,"Jul 19, 2016",Jóhann Berg Gudmundsson,"1,86m",89231,['Iceland'],€2.50m,Charlton Athletic,26,"Oct 27, 1990",Al-Orobah FC
+Centre-Forward,right,,"Aug 21, 2015",Andre Gray,"1,78m",120565,"['Jamaica', 'England']",€10.00m,: Ablöse €12.40m,26,"Jun 26, 1991",Plymouth Argyle
+Centre-Forward,left,,"Aug 30, 2016",Patrick Bamford,"1,85m",183334,"['England', 'Ireland']",€5.00m,Chelsea FC,23,"Sep 5, 1993",Leeds United
+Centre-Forward,right,,"Jul 31, 2012",Sam Vokes,"1,86m",48078,"['Wales', 'England']",€4.50m,Wolverhampton Wanderers,27,"Oct 21, 1989",Wycombe Wanderers
+Centre-Forward,right,,"Jan 10, 2014",Ashley Barnes,"1,85m",63200,['England'],€2.50m,Brighton & Hove Albion,27,"Oct 30, 1989",Norwich City
+Centre-Forward,left,,"Aug 14, 2015",Rouwen Hennings,"1,80m",16311,['Germany'],€1.50m,Karlsruher SC,29,"Aug 28, 1987",Without Club
+Centre-Forward,left,,"Jul 15, 2014",Lukas Jutkiewicz,"1,85m",33507,['England'],€1.50m,Middlesbrough FC,28,"Mar 28, 1989",Birmingham City
+Centre-Forward,right,,"Jul 28, 2015",Chris Long,"1,79m",183298,['England'],€1.00m,Everton FC U21,22,"Feb 25, 1995",Crewe Alexandra
+Centre-Forward,left,,,Dan Agyei,"1,83m",367195,"['England', 'Ghana']",€75k,,20,"Jun 1, 1997",Leyton Orient
+Centre-Forward,right,,"Jul 1, 2016",Ntumba Massanka,"1,91m",385922,"['England', 'DR Congo']",,: Ablöse -,20,"Nov 30, 1996",Warrington Rylands

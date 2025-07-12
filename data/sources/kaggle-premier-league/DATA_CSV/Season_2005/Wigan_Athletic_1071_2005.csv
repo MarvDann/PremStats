@@ -1,0 +1,31 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jul 1, 2001",John Filan,"1,88m",13516,['Australia'],€700k,Blackburn Rovers,36,"Feb 8, 1970",Retired
+Goalkeeper,right,"Jul 1, 2005",Mike Pollitt,"1,93m",32217,['England'],€650k,Rotherham United,34,"Feb 29, 1972",Retired
+Goalkeeper,,"Jul 1, 2003",Gary Walsh,"1,91m",13547,['England'],,: Ablöse free transfer,38,"Mar 21, 1968",Retired
+Defender,,,Joey Waterhouse,,775965,['England'],,,18,"Sep 5, 1987",Retired
+Centre-Back,right,"Jul 27, 2005",Stéphane Henchoz,"1,85m",3210,"['Switzerland', 'Germany']",€3.40m,Celtic FC,31,"Sep 7, 1974",Retired
+Centre-Back,right,"Jul 1, 2005",Arjan de Zeeuw,"1,92m",5909,['Netherlands'],€1.60m,: Ablöse free transfer,36,"Apr 16, 1970",Retired
+Centre-Back,left,"Jan 23, 2006",Reto Ziegler,"1,83m",9915,['Switzerland'],€1.45m,: Ablöse ?,20,"Jan 16, 1986",FC Sion
+Centre-Back,both,"Aug 5, 2004",Émerson Thome,"1,88m",3643,"['Brazil', 'Portugal']",€750k,: Ablöse free transfer,34,"Mar 30, 1972",Retired
+Centre-Back,right,"Jul 1, 2001",Lee McCulloch,"1,85m",11360,['Scotland'],€550k,Motherwell FC,28,"May 14, 1978",Retired
+Centre-Back,right,"Oct 1, 2001",Matt Jackson,"1,85m",13519,['England'],€400k,: Ablöse free transfer,34,"Oct 19, 1971",Retired
+Left-Back,left,"Jul 1, 2002",Leighton Baines,"1,70m",13507,['England'],€2.00m,Wigan Athletic U18,21,"Dec 11, 1984",Retired
+Left-Back,left,"Jul 1, 2002",Steve McMillan,"1,78m",13530,['Scotland'],€670k,Motherwell FC,30,"Jan 19, 1976",Retired
+Right-Back,right,"Jul 8, 2005",Pascal Chimbonda,"1,82m",18875,"['Guadeloupe', 'France']",€4.00m,: Ablöse free transfer,27,"Feb 21, 1979",Skelmersdale United
+Right-Back,right,"Jul 1, 2005",Ryan Taylor,"1,79m",33785,['England'],€850k,: Ablöse €100k,21,"Aug 19, 1984",Without Club
+Right-Back,right,"Jul 1, 2004",Kevin Lee,"1,83m",33787,['England'],€50k,Wigan Athletic U18,20,"Nov 4, 1985",Retired
+Defensive Midfield,,"Jan 31, 2013",Paul Scharner,,2953,['Austria'],€3.50m,: Ablöse €100k,26,"Mar 11, 1980",Retired
+Defensive Midfield,right,"Jul 1, 2004",David Wright,"1,80m",14165,['England'],€600k,Crewe Alexandra,26,"May 1, 1980",Retired
+Defensive Midfield,right,"Jul 1, 2003",Luke Joyce,"1,75m",33786,['England'],€50k,Wigan Athletic U18,18,"Jul 9, 1987",Retired
+Central Midfield,right,"Jan 1, 2003",Jimmy Bullard,"1,78m",13510,"['England', 'Germany']",€4.50m,Peterborough United,27,"Oct 23, 1978",Retired
+Central Midfield,right,"Aug 17, 2005",Josip Skoko,"1,75m",7266,"['Australia', 'Croatia']",€2.60m,Genclerbirligi Ankara,30,"Dec 10, 1975",Retired
+Central Midfield,right,"Jul 1, 2005",Damien Francis,"1,83m",11671,"['Jamaica', 'England']",€2.25m,: Ablöse €2.25m,27,"Feb 27, 1979",Retired
+Central Midfield,,"Mar 1, 2005",Graham Kavanagh,,12712,['Ireland'],€1.75m,: Ablöse free transfer,32,"Dec 2, 1973",Retired
+Central Midfield,left,"Jan 1, 2005",Andreas Johansson,"1,81m",15209,['Sweden'],€850k,Djurgårdens IF,27,"Jul 5, 1978",Retired
+Right Midfield,right,"Jan 19, 2006",David Thompson,"1,70m",4127,['England'],€2.75m,Blackburn Rovers,28,"Sep 12, 1977",Retired
+Left Midfield,left,"Feb 1, 2004",Alan Mahon,"1,70m",3483,['Ireland'],€1.85m,Blackburn Rovers,28,"Apr 4, 1978",Retired
+Right Winger,,"Dec 1, 2001",Gary Teale,,13543,['Scotland'],€500k,: Ablöse €300k,27,"Jul 21, 1978",Retired
+Centre-Forward,both,"Jul 1, 2005",Henri Camara,"1,78m",3900,"['Senegal', 'France']",€6.30m,Wolverhampton Wanderers,29,"May 10, 1977",Retired
+Centre-Forward,right,"Jan 13, 2004",Jason Roberts,"1,85m",3666,"['Grenada', 'England']",€3.85m,: Ablöse €2.10m,28,"Jan 25, 1978",Retired
+Centre-Forward,right,"Aug 1, 2005",David Connolly,"1,75m",9051,['Ireland'],€2.00m,: Ablöse €3.00m,29,"Jun 6, 1977",Retired
+Centre-Forward,right,"Jan 1, 2006",Neil Mellor,"1,84m",3605,['England'],€1.50m,: Ablöse free transfer,23,"Nov 4, 1982",Retired

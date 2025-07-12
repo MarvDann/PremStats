@@ -1,0 +1,33 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,,Paul Gibson,"1,88m",176014,['England'],,20,"Nov 1, 1976",Retired
+Goalkeeper,right,"Jul 1, 1991",Peter Schmeichel,"1,96m",3465,"['Denmark', 'Poland']",Bröndby IF,33,"Nov 18, 1963",Retired
+Goalkeeper,,"Jul 1, 1996",Raimond van der Gouw,"1,91m",3644,['Netherlands'],Vitesse Arnhem,34,"Mar 24, 1963",Retired
+Goalkeeper,,"Jul 1, 1992",Kevin Pilkington,"1,85m",77354,['England'],Manchester United U18,23,"Mar 8, 1974",Retired
+Centre-Back,right,"Jul 1, 1994",David May,"1,84m",3538,['England'],Blackburn Rovers,27,"Jun 24, 1970",Retired
+Centre-Back,right,"Jul 1, 1989",Gary Pallister,"1,93m",106917,['England'],: Ablöse €2.60m,32,"Jun 30, 1965",Retired
+Centre-Back,right,"Jul 1, 1996",Ronny Johnsen,"1,90m",3578,['Norway'],: Ablöse €2.23m,28,"Jun 10, 1969",Retired
+Centre-Back,right,"Jul 1, 1992",Chris Casper,"1,83m",150434,['England'],Manchester United U18,22,"Apr 28, 1975",Retired
+Left-Back,right,"Jul 1, 1990",Denis Irwin,"1,73m",4280,['Ireland'],: Ablöse €700k,31,"Oct 31, 1965",Retired
+Right-Back,right,"Jul 1, 1992",Gary Neville,"1,80m",3403,['England'],Manchester United U18,22,"Feb 18, 1975",Retired
+Right-Back,right,"Jul 1, 1994",Phil Neville,"1,80m",3404,['England'],Manchester United U18,20,"Jan 21, 1977",Retired
+Right-Back,right,"Jul 1, 1992",John O'Kane,"1,78m",150458,['England'],Manchester United U18,22,"Nov 15, 1974",Retired
+Right-Back,right,"Jul 1, 1997",John Curtis,"1,78m",7913,['England'],Manchester United U18,18,"Sep 3, 1978",Retired
+Right-Back,right,"Jul 1, 1995",Mike Clegg,"1,73m",106894,['England'],Manchester United U18,19,"Jul 3, 1977",Retired
+Defensive Midfield,,"Mar 1, 1995",Grant Brebner,,12687,"['Scotland', 'Australia']",Manchester United U18,19,"Dec 6, 1977",Retired
+Defensive Midfield,right,"Jul 1, 1992",Nicky Butt,"1,78m",3543,['England'],Manchester United U18,22,"Jan 21, 1975",Retired
+Central Midfield,,"Jul 1, 1992",Simon Davies,"1,83m",176012,"['Wales', 'England']",Manchester United U18,23,"Apr 23, 1974",Retired
+Central Midfield,right,"Jul 1, 1992",David Beckham,"1,82m",3139,['England'],Manchester United U18,22,"May 2, 1975",Retired
+Central Midfield,,"Jul 1, 1993",Roy Keane,,3396,['Ireland'],: Ablöse €4.40m,25,"Aug 10, 1971",Retired
+Central Midfield,right,"Jan 8, 2012",Paul Scholes,"1,68m",3397,['England'],,22,"Nov 16, 1974",Retired
+Central Midfield,right,,Phil Mulryne,"1,75m",11720,['Northern Ireland'],,19,"Jan 1, 1978",Retired
+Central Midfield,right,"Jul 1, 1994",Michael Appleton,"1,75m",3279,['England'],Manchester United U18,21,"Dec 4, 1975",Retired
+Right Midfield,right,"Jul 1, 1994",Terry Cooke,"1,70m",13404,['England'],Manchester United U18,20,"Aug 5, 1976",Retired
+Left Midfield,left,"Jul 1, 1991",Ryan Giggs,"1,79m",3406,['Wales'],Manchester United U18,23,"Nov 29, 1973",Retired
+Attacking Midfield,right,"Jul 1, 1996",Jordi Cruyff,"1,84m",7436,"['Netherlands', 'Spain']",: Ablöse €2.50m,23,"Feb 9, 1974",Retired
+Left Winger,left,"Jan 1, 1993",Ben Thornley,"1,72m",16727,['England'],Manchester United Reserves,22,"Apr 21, 1975",Retired
+Right Winger,right,"Jul 24, 1996",Karel Poborský,"1,75m",3420,['Czech Republic'],: Ablöse €4.00m,25,"Mar 30, 1972",Retired
+Second Striker,right,"Nov 26, 1992",Éric Cantona,"1,87m",12000,['France'],: Ablöse €1.80m,31,"May 24, 1966",Retired
+Second Striker,right,"Jul 30, 1987",Brian McClair,"1,78m",101130,['Scotland'],Celtic FC,33,"Dec 8, 1963",Retired
+Centre-Forward,right,"Jul 1, 1996",Jon Macken,"1,78m",4080,"['Ireland', 'England']",Manchester United U18,19,"Sep 7, 1977",Retired
+Centre-Forward,right,"Jan 12, 1995",Andy Cole,"1,75m",3238,"['England', 'Jamaica']",Newcastle United,25,"Oct 15, 1971",Retired
+Centre-Forward,both,"Jul 29, 1996",Ole Gunnar Solskjær,"1,79m",3394,['Norway'],Molde FK,24,"Feb 26, 1973",Retired

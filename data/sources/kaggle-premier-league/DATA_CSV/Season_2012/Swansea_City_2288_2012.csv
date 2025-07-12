@@ -1,0 +1,34 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Aug 7, 2011",Michel Vorm,"1,83m",26276,"['Netherlands', 'Suriname']",€8.50m,: Ablöse €1.70m,29,"Oct 20, 1983",Retired
+Goalkeeper,,,"Aug 1, 2011",Gerhard Tremmel,,488,['Germany'],€750k,: Ablöse free transfer,34,"Nov 16, 1978",Retired
+Goalkeeper,right,,"Jul 1, 2009",David Cornell,"1,86m",89648,['Wales'],,Swansea City U18,22,"Mar 28, 1991",Preston North End
+Centre-Back,right,,"Jul 1, 2008",Ashley Williams,"1,83m",67355,"['Wales', 'England']",€6.00m,: Ablöse €500k,28,"Aug 23, 1984",Retired
+Centre-Back,right,,"Jul 10, 2012",Chico Flores,"1,87m",51681,['Spain'],€5.00m,: Ablöse €2.50m,26,"Mar 6, 1987",Retired
+Centre-Back,left,,"Jul 1, 2012",Ben Davies,"1,81m",192765,['Wales'],€1.50m,Swansea City U21,20,"Apr 24, 1993",Tottenham Hotspur
+Centre-Back,right,,"Aug 17, 2012",Kyle Bartley,"1,94m",67421,"['England', 'Jamaica']",€1.00m,Arsenal FC U21,22,"May 22, 1991",West Bromwich Albion
+Centre-Back,right,,"Feb 6, 2004",Alan Tate,"1,85m",7337,['England'],€500k,Manchester United,30,"Sep 2, 1982",Retired
+Centre-Back,right,,"Jul 1, 2004",Garry Monk,"1,83m",4111,['England'],€500k,Barnsley FC,34,"Mar 6, 1979",Retired
+Centre-Back,right,,"Aug 31, 2011",Darnel Situ,"1,87m",111059,"['France', 'DR Congo']",€250k,: Ablöse €285k,21,"Mar 18, 1992",Retired
+Left-Back,left,,"Jul 1, 2010",Neil Taylor,"1,76m",67416,"['Wales', 'India']",€3.00m,Wrexham AFC,24,"Feb 7, 1989",Retired
+Right-Back,right,,"Jul 1, 2007",Ángel Rangel,"1,88m",66550,['Spain'],€3.00m,Terrassa FC,30,"Nov 28, 1982",Retired
+Right-Back,right,,"Sep 10, 2012",Dwight Tiendalli,"1,76m",29356,"['Netherlands', 'Suriname']",€1.00m,Without Club,27,"Oct 21, 1985",Retired
+Right-Back,right,,"Jul 1, 2009",Jazz Richards,"1,74m",120241,['Wales'],€750k,Swansea City U18,22,"Apr 12, 1991",Retired
+Right-Back,right,,"Jul 1, 2010",Daniel Alfei,"1,80m",130216,['Wales'],,Swansea City U18,21,"Feb 23, 1992",Trefelin Boys & Girls Club
+Defensive Midfield,right,surgery - Return unknown,"Jul 10, 2012",Jonathan de Guzmán,"1,73m",31067,"['Netherlands', 'Canada']",€8.00m,Villarreal CF,25,"Sep 13, 1987",Sparta Rotterdam
+Defensive Midfield,right,,"Aug 24, 2012",Sung-yueng Ki,"1,89m",81796,"['Korea, South']",€7.00m,Celtic FC,24,"Jan 24, 1989",FC Seoul
+Central Midfield,right,,"Jan 19, 2011",Leon Britton,"1,67m",40043,['England'],€4.50m,Sheffield United,30,"Sep 16, 1982",Retired
+Central Midfield,right,,"Oct 9, 2010",Kemy Agustien,"1,78m",24862,"['Curacao', 'Netherlands']",€1.50m,Without Club,26,"Aug 20, 1986",Without Club
+Central Midfield,both,,"Jul 1, 2008",Mark Gower,"1,80m",39700,['England'],€500k,Southend United,34,"Oct 5, 1978",Retired
+Central Midfield,right,,"Jul 1, 2010",Lee Lucas,"1,75m",143851,['Wales'],,Swansea City U18,21,"Jun 10, 1992",Merthyr Town FC
+Left Winger,right,,"Aug 9, 2010",Scott Sinclair,"1,77m",31552,"['England', 'Jamaica']",€7.50m,Chelsea FC,24,"Mar 25, 1989",Bristol Rovers
+Left Winger,right,,"Aug 4, 2011",Wayne Routledge,"1,70m",14066,"['England', 'Jamaica']",€4.50m,Newcastle United,28,"Jan 7, 1985",Retired
+Left Winger,left,,"Jan 15, 2013",Roland Lamah,"1,80m",35035,"['Belgium', ""Cote d'Ivoire""]",€2.50m,CA Osasuna,25,"Dec 31, 1987",Retired
+Right Winger,right,,"Aug 31, 2012",Pablo Hernández,"1,73m",46220,['Spain'],€8.00m,Valencia CF,28,"Apr 11, 1985",Retired
+Right Winger,right,,"Jan 1, 2009",Nathan Dyer,"1,65m",37011,"['England', 'Jamaica']",€4.50m,Southampton FC,25,"Nov 29, 1987",Retired
+Second Striker,left,,"Jul 20, 2012",Michu,"1,85m",70789,['Spain'],€13.00m,: Ablöse €2.57m,27,"Mar 21, 1986",Retired
+Centre-Forward,right,,"Jul 1, 2011",Danny Graham,"1,83m",29152,['England'],€4.00m,Watford FC,27,"Aug 12, 1985",Retired
+Centre-Forward,both,,"Aug 15, 2012",Itay Shechter,"1,78m",44760,"['Israel', 'Romania']",€1.50m,1.FC Kaiserslautern,26,"Feb 22, 1987",Retired
+Centre-Forward,right,,"Aug 3, 2011",Leroy Lita,"1,76m",20975,"['England', 'DR Congo']",€1.50m,Middlesbrough FC,28,"Dec 28, 1984",Barwell FC
+Centre-Forward,right,,"Jul 1, 2009",Stephen Dobbie,"1,78m",12693,['Scotland'],€1.00m,Queen of the South FC,30,"Dec 5, 1982",Retired
+Centre-Forward,,,"Jan 7, 2011",Luke Moore,"1,80m",4075,"['England', 'Jamaica']",€1.00m,West Bromwich Albion,27,"Feb 13, 1986",Retired
+Centre-Forward,right,,"Jan 1, 2012",Rory Donnelly,"1,88m",164389,['Northern Ireland'],,Cliftonville FC,21,"Feb 18, 1992",Cliftonville FC

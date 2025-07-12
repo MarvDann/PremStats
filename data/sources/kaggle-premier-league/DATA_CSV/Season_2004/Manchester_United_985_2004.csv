@@ -1,0 +1,38 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 2003",Tim Howard,"1,91m",4267,"['United States', 'Hungary']",€3.00m,: Ablöse €3.20m,26,"Mar 6, 1979",Retired
+Goalkeeper,right,"Jul 27, 2001",Roy Carroll,"1,89m",3534,['Northern Ireland'],€2.50m,Wigan Athletic,27,"Sep 30, 1977",Retired
+Goalkeeper,right,"Sep 1, 2001",Luke Steele,"1,88m",3539,['England'],€1.50m,Peterborough United,20,"Sep 24, 1984",Peterborough Sports
+Goalkeeper,left,"Jul 1, 2002",Ricardo,"1,87m",3535,['Spain'],€1.00m,: Ablöse €2.23m,33,"Dec 30, 1971",Retired
+Centre-Back,right,"Jul 22, 2002",Rio Ferdinand,"1,89m",3235,['England'],€29.50m,Leeds United,26,"Nov 7, 1978",Retired
+Centre-Back,left,"Jul 1, 2004",Gabriel Heinze,"1,79m",5555,"['Argentina', 'Italy']",€14.50m,: Ablöse €10.00m,27,"Apr 19, 1978",Retired
+Centre-Back,right,"Jul 1, 2001",John O'Shea,"1,92m",3540,['Ireland'],€5.00m,Manchester United Reserves,24,"Apr 30, 1981",Retired
+Centre-Back,right,"Jul 1, 1996",Wes Brown,"1,85m",3405,['England'],€4.50m,Manchester United U18,25,"Oct 13, 1979",Retired
+Centre-Back,right,"Jul 1, 2004",Gerard Piqué,"1,94m",18944,['Spain'],€2.30m,FC Barcelona U19,18,"Feb 2, 1987",Retired
+Centre-Back,right,"Jul 1, 2004",Jonathan Spector,"1,83m",24637,"['United States', 'Germany']",€1.25m,Manchester United U18,19,"Mar 1, 1986",Retired
+Centre-Back,right,,Paul McShane,"1,83m",24636,['Ireland'],€100k,,19,"Jan 6, 1986",Retired
+Left-Back,,"Sep 10, 1999",Mikaël Silvestre,,3393,"['France', 'Guadeloupe']",€7.50m,: Ablöse €5.70m,27,"Aug 9, 1977",Retired
+Left-Back,left,"Jan 1, 2000",Quinton Fortune,"1,82m",3541,"['South Africa', 'England']",€3.00m,: Ablöse €2.25m,28,"May 21, 1977",Retired
+Left-Back,left,"Jul 1, 2001",Kieran Richardson,"1,77m",3548,['England'],€500k,: Ablöse free transfer,20,"Oct 21, 1984",Retired
+Right-Back,right,"Jul 1, 1992",Gary Neville,"1,80m",3403,['England'],€7.25m,Manchester United U18,30,"Feb 18, 1975",Retired
+Right-Back,right,"Jul 1, 1994",Phil Neville,"1,80m",3404,['England'],€5.00m,Manchester United U18,28,"Jan 21, 1977",Retired
+Right-Back,right,"Jul 1, 2003",Phil Bardsley,"1,80m",15773,"['Scotland', 'England']",€75k,Manchester United U18,20,"Jun 28, 1985",Retired
+Defensive Midfield,right,"Jul 1, 2003",Eric Djemba Djemba,"1,77m",5509,"['Cameroon', 'France']",€4.50m,: Ablöse €4.50m,24,"May 4, 1981",Retired
+Defensive Midfield,right,,Floribert N'Galula,"1,87m",4218,"['Belgium', 'DR Congo']",€250k,,18,"Mar 7, 1987",Retired
+Central Midfield,right,"Jan 8, 2012",Paul Scholes,"1,68m",3397,['England'],€21.50m,,30,"Nov 16, 1974",Retired
+Central Midfield,,"Jul 1, 1993",Roy Keane,,3396,['Ireland'],€14.00m,: Ablöse €4.40m,33,"Aug 10, 1971",Retired
+Central Midfield,,"Jul 1, 2004",Alan Smith,,3768,['England'],€10.50m,Leeds United,24,"Oct 28, 1980",Retired
+Central Midfield,right,"Jul 1, 2003",Kléberson,"1,75m",3365,['Brazil'],€5.50m,: Ablöse €8.60m,26,"Jun 19, 1979",Retired
+Central Midfield,right,"Jul 1, 2001",Darren Fletcher,"1,84m",3547,['Scotland'],€5.50m,Manchester United U18,21,"Feb 1, 1984",Retired
+Central Midfield,right,"Jul 1, 2004",Liam Miller,"1,73m",9505,['Ireland'],€1.75m,Celtic FC,24,"Feb 13, 1981",---
+Central Midfield,left,"Jul 1, 2004",David Jones,"1,83m",24634,"['England', 'Wales']",€400k,Manchester United Reserves,20,"Nov 4, 1984",Retired
+Left Midfield,left,"Jul 1, 1991",Ryan Giggs,"1,79m",3406,['Wales'],€19.50m,Manchester United U18,31,"Nov 29, 1973",Retired
+Right Winger,right,"Jul 25, 2003",Chris Eagles,"1,83m",24635,['England'],€500k,Manchester United U18,19,"Nov 19, 1985",Retired
+Centre-Forward,right,"Jul 1, 2001",Ruud van Nistelrooy,"1,89m",3407,['Netherlands'],€40.00m,: Ablöse €28.50m,28,"Jul 1, 1976",Retired
+Centre-Forward,right,"Aug 31, 2004",Wayne Rooney,"1,76m",3332,['England'],€31.00m,: Ablöse €37.00m,19,"Oct 24, 1985",Retired
+Centre-Forward,right,"Aug 31, 2021",Cristiano Ronaldo,"1,88m",8198,['Portugal'],€22.80m,Juventus FC,20,"Feb 5, 1985",Al-Nassr FC
+Centre-Forward,left,"Jan 23, 2004",Louis Saha,"1,82m",4015,"['France', 'Guadeloupe']",€15.50m,Fulham FC,26,"Aug 8, 1978",Retired
+Centre-Forward,,"Jan 20, 2002",Diego Forlán,,3408,"['Uruguay', 'Spain']",€5.50m,CA Independiente,26,"May 19, 1979",Retired
+Centre-Forward,both,"Jul 29, 1996",Ole Gunnar Solskjær,"1,79m",3394,['Norway'],€2.75m,Molde FK,32,"Feb 26, 1973",Retired
+Centre-Forward,right,"Jul 1, 2003",David Bellion,"1,81m",3115,"['France', 'Senegal']",€2.25m,Sunderland AFC,22,"Nov 27, 1982",Retired
+Centre-Forward,left,"Jan 1, 2005",Giuseppe Rossi,"1,73m",19104,"['Italy', 'United States']",€750k,Manchester United U18,18,"Feb 1, 1987",Retired
+Centre-Forward,right,,Sylvan Ebanks-Blake,"1,73m",27621,"['England', 'Jamaica']",€300k,,19,"Mar 29, 1986",Retired

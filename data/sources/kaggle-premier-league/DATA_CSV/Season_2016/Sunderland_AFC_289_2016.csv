@@ -1,0 +1,43 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,"Jul 1, 2013",Jordan Pickford,"1,85m",130164,['England'],€15.00m,Sunderland AFC U21,23,"Mar 7, 1994",Everton FC
+Goalkeeper,right,"Jul 3, 2013",Vito Mannone,"1,88m",33781,['Italy'],€2.50m,Arsenal FC,29,"Mar 2, 1988",LOSC Lille
+Goalkeeper,left,"Sep 7, 2016",Mika,"1,95m",138285,"['Portugal', 'Switzerland']",€2.00m,Boavista FC,26,"Mar 8, 1991",Moreirense FC
+Goalkeeper,right,"Jul 1, 2018",Maksymilian Stryjek,"1,88m",240457,"['Poland', 'England']",,Sunderland AFC U23,20,"Jul 18, 1996",Jagiellonia Bialystok
+Centre-Back,right,"Jan 27, 2016",Lamine Koné,"1,88m",57420,"[""Cote d'Ivoire"", 'France']",€7.00m,FC Lorient,28,"Feb 1, 1989",Without Club
+Centre-Back,left,"Aug 5, 2016",Papy Djilobodji,"1,93m",136610,['Senegal'],€5.00m,Chelsea FC,28,"Dec 1, 1988",Fatih Karagümrük
+Centre-Back,right,"Aug 5, 2014",Jack Rodwell,"1,88m",57079,['England'],€5.00m,: Ablöse €12.50m,26,"Mar 11, 1991",Without Club
+Centre-Back,right,"Aug 31, 2016",Jason Denayer,"1,84m",277114,"['Belgium', 'DR Congo']",€4.00m,Manchester City,22,"Jun 28, 1995",Al-Fateh SC
+Centre-Back,right,"Aug 11, 2016",Paddy McNair,"1,89m",167268,['Northern Ireland'],€4.00m,Manchester United,22,"Apr 27, 1995",West Bromwich Albion
+Centre-Back,right,"Jul 16, 2015",Younès Kaboul,"1,92m",27114,"['France', 'Morocco']",€2.50m,Tottenham Hotspur,31,"Jan 4, 1986",Retired
+Centre-Back,left,"Jan 24, 2017",Joleon Lescott,"1,91m",4241,['England'],€1.00m,Without Club,34,"Aug 16, 1982",Retired
+Centre-Back,right,"Jul 7, 2011",John O'Shea,"1,92m",3540,['Ireland'],€1.00m,Manchester United,36,"Apr 30, 1981",Retired
+Centre-Back,right,,Michael Ledger,"1,86m",320228,['England'],,,19,"Aug 15, 1997",Spennymoor Town
+Left-Back,left,"Jul 25, 2014",Patrick van Aanholt,"1,76m",52119,"['Netherlands', 'Curacao']",€9.00m,Chelsea FC,26,"Aug 29, 1990",Without Club
+Left-Back,left,"Jan 30, 2017",Bryan Oviedo,"1,72m",124983,['Costa Rica'],€2.50m,Everton FC,27,"Feb 18, 1990",LD Alajuelense
+Left-Back,left,"Jul 1, 2016",Tommy Robson,"1,81m",257968,['England'],,Sunderland AFC U23,21,"Sep 11, 1995",Clyde FC
+Right-Back,right,"Aug 25, 2016",Javier Manquillo,"1,78m",162029,['Spain'],€4.00m,: Ablöse ?,23,"May 5, 1994",Celta de Vigo
+Right-Back,right,"Jul 4, 2015",Adam Matthews,"1,78m",108878,['Wales'],€1.50m,Celtic FC,25,"Jan 13, 1992",Without Club
+Right-Back,right,"Jul 1, 2014",Billy Jones,"1,82m",36866,['England'],€1.50m,West Bromwich Albion,30,"Mar 24, 1987",Retired
+Right-Back,right,"Aug 11, 2016",Donald Love,"1,78m",179451,"['Scotland', 'England']",€1.00m,Manchester United U23,22,"Dec 2, 1994",Accrington Stanley
+Right-Back,right,,Josh Robson,"1,80m",357958,['England'],,,19,"Feb 3, 1998",Morpeth Town AFC
+Defensive Midfield,right,"Aug 12, 2009",Lee Cattermole,"1,78m",37363,['England'],€3.00m,Wigan Athletic,29,"Mar 21, 1988",Retired
+Defensive Midfield,right,"Jan 7, 2016",Jan Kirchhoff,"1,95m",49734,['Germany'],€3.00m,: Ablöse €1.00m,26,"Oct 1, 1990",Retired
+Central Midfield,right,"Aug 31, 2016",Didier Ndong,"1,79m",210081,['Gabon'],€10.00m,FC Lorient,23,"Jun 17, 1994",Esteghlal FC
+Central Midfield,right,"Jul 1, 2011",Sebastian Larsson,"1,78m",31720,['Sweden'],€2.50m,: Ablöse free transfer,32,"Jun 6, 1985",Retired
+Central Midfield,right,"Jan 30, 2017",Darron Gibson,"1,83m",42413,"['Ireland', 'Northern Ireland']",€1.50m,Everton FC,29,"Oct 25, 1987",Retired
+Central Midfield,left,"Jul 1, 2017",Ethan Robson,"1,78m",258199,['England'],,Sunderland AFC U23,20,"Oct 25, 1996",Carlisle United
+Left Midfield,,"Aug 19, 2016",Steven Pienaar,,4321,['South Africa'],€1.00m,Everton FC,35,"Mar 17, 1982",Retired
+Attacking Midfield,right,"Jul 1, 2015",George Honeyman,"1,73m",218140,['England'],€250k,Sunderland AFC U21,22,"Sep 8, 1994",Millwall FC
+Attacking Midfield,right,,Rees Greenwood,"1,76m",320213,['England'],,,20,"Dec 10, 1996",Without Club
+Attacking Midfield,right,"Jul 1, 2018",Elliot Embleton,"1,73m",364828,['England'],,Sunderland AFC U23,18,"Apr 2, 1999",Blackpool FC
+Left Winger,right,"Jan 30, 2016",Wahbi Khazri,"1,76m",103565,"['Tunisia', 'France']",€7.00m,: Ablöse €11.80m,26,"Feb 8, 1991",Montpellier HSC
+Left Winger,right,"Aug 31, 2015",Fabio Borini,"1,80m",96754,['Italy'],€5.00m,: Ablöse €10.70m,26,"Mar 29, 1991",UC Sampdoria
+Left Winger,right,"Jul 1, 2016",Lynden Gooch,"1,73m",307781,"['United States', 'Ireland']",€750k,Sunderland AFC U23,21,"Dec 24, 1995",Stoke City
+Right Winger,right,"Jul 15, 2015",Jeremain Lens,"1,78m",38497,"['Netherlands', 'Suriname']",€11.00m,Dynamo Kyiv,29,"Nov 24, 1987",Real Sranang
+Right Winger,left,"Aug 12, 2016",Adnan Januzaj,"1,86m",177847,"['Belgium', 'Kosovo']",€7.00m,Manchester United,22,"Feb 5, 1995",UD Las Palmas
+Right Winger,right,"Jul 1, 2015",Duncan Watmore,"1,75m",248045,['England'],€3.00m,Sunderland AFC U21,23,"Mar 8, 1994",Millwall FC
+Right Winger,,"Aug 14, 2014",Will Buckley,"1,83m",77329,"['England', 'Ireland']",€2.00m,Brighton & Hove Albion,27,"Nov 21, 1989",Retired
+Right Winger,right,"Jul 1, 2016",Joel Asoro,"1,76m",375391,"['Sweden', 'Nigeria']",,Sunderland AFC U18,18,"Apr 27, 1999",FC Metz
+Centre-Forward,right,"Jan 31, 2022",Jermain Defoe,"1,71m",3875,"['England', 'St. Lucia']",€5.00m,: Ablöse free transfer,34,"Oct 7, 1982",Retired
+Centre-Forward,right,"Sep 2, 2016",Victor Anichebe,"1,90m",39532,"['Nigeria', 'England']",€1.50m,Without Club,29,"Apr 23, 1988",Retired
+Centre-Forward,right,"Jan 1, 2018",Josh Maja,"1,81m",453824,"['Nigeria', 'England']",,Sunderland AFC U23,18,"Dec 27, 1998",West Bromwich Albion

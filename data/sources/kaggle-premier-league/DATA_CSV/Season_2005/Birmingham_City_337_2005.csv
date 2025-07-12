@@ -1,0 +1,34 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Mar 22, 2004",Maik Taylor,"1,93m",3723,"['Northern Ireland', 'Germany']",€2.00m,Fulham FC,34,"Sep 4, 1971",Retired
+Goalkeeper,,"Jul 1, 2001",Nico Vaesen,"1,91m",3737,['Belgium'],€1.00m,: Ablöse free transfer,36,"Sep 28, 1969",Retired
+Goalkeeper,right,"Jul 1, 2003",Colin Doyle,"1,96m",28728,['Ireland'],€75k,Birmingham City U18,21,"Jun 12, 1985",Bradford City
+Centre-Back,right,"Aug 1, 2005",Jiri Jarosik,"1,96m",15581,['Czech Republic'],€6.50m,Chelsea FC,28,"Oct 27, 1977",Retired
+Centre-Back,left,"Jan 22, 2003",Matthew Upson,"1,85m",3273,['England'],€5.75m,: Ablöse €1.40m,27,"Apr 18, 1979",Retired
+Centre-Back,right,"Jul 1, 2002",Kenny Cunningham,"1,83m",3937,['Ireland'],€3.00m,: Ablöse free transfer,35,"Jun 28, 1971",Retired
+Centre-Back,right,"Jan 1, 2006",Martin Latka,"1,93m",21060,['Czech Republic'],€2.70m,: Ablöse €600k,21,"Sep 28, 1984",Retired
+Centre-Back,right,"Mar 22, 2002",Olivier Tébily,"1,83m",3931,"[""Cote d'Ivoire"", 'France']",€1.45m,Celtic FC,30,"Dec 19, 1975",Retired
+Centre-Back,right,"Jan 1, 2004",Martin Taylor,"1,95m",3822,['England'],€1.25m,Blackburn Rovers,26,"Nov 9, 1979",Retired
+Centre-Back,right,"Jul 1, 2004",Alex Bruce,"1,80m",37957,"['Northern Ireland', 'Ireland']",€125k,Birmingham City U18,21,"Sep 28, 1984",Retired
+Centre-Back,left,"Jan 1, 2006",Mat Sadler,"1,80m",3930,['England'],€100k,Birmingham City U21,21,"Feb 26, 1985",Retired
+Centre-Back,left,"Jul 1, 2004",Sam Oji,"1,85m",36590,"['England', 'Nigeria']",€75k,Arsenal FC U18,20,"Oct 9, 1985",---
+Left-Back,left,"Jan 1, 2003",Jamie Clapham,"1,75m",3938,['England'],€2.25m,Ipswich Town,30,"Dec 7, 1975",Retired
+Left-Back,left,"Jul 1, 2005",Marcos Painter,"1,83m",36591,"['Ireland', 'England']",€100k,Birmingham City U18,19,"Aug 17, 1986",Retired
+Right-Back,right,"Jul 9, 2004",Mario Melchiot,"1,87m",3158,"['Netherlands', 'Suriname']",€3.83m,: Ablöse free transfer,29,"Nov 4, 1976",Retired
+Defensive Midfield,right,"Aug 3, 2005",Nicky Butt,"1,78m",3543,['England'],€3.40m,Newcastle United,31,"Jan 21, 1975",Retired
+Defensive Midfield,left,"Jul 1, 2005",Mehdi Nafti,"1,79m",7862,"['Tunisia', 'France']",€2.00m,Racing Santander,27,"Nov 28, 1978",Retired
+Defensive Midfield,right,"Jan 1, 2004",Neil Kilkenny,"1,73m",2997,"['Australia', 'England']",€500k,Arsenal FC U18,20,"Dec 19, 1985",Sorrento FC
+Central Midfield,right,"Jul 1, 2004",Muzzy Izzet,"1,77m",3123,"['Türkiye', 'England']",€2.65m,: Ablöse free transfer,31,"Oct 31, 1974",Retired
+Central Midfield,right,"Mar 8, 2002",Damien Johnson,"1,73m",3940,['Northern Ireland'],€1.50m,Blackburn Rovers,27,"Nov 18, 1978",Retired
+Right Midfield,left,"Jan 1, 2003",Stephen Clemence,"1,80m",3641,['England'],€1.75m,: Ablöse €1.35m,28,"Mar 31, 1978",Retired
+Right Midfield,right,"Jul 1, 2004",Peter Till,"1,80m",38097,['England'],€75k,Birmingham City U18,20,"Sep 7, 1985",Retired
+Right Midfield,right,"Jul 1, 2005",Mathew Birley,"1,78m",37356,['England'],€50k,Birmingham City U18,19,"Jul 26, 1986",Retired
+Left Midfield,left,"Jul 1, 1999",Stan Lazaridis,"1,75m",3747,"['Australia', 'Greece']",€2.75m,: Ablöse €2.25m,33,"Aug 16, 1972",Retired
+Attacking Midfield,right,"Jul 7, 2003",David Dunn,"1,78m",4243,['England'],€5.50m,Blackburn Rovers,26,"Dec 27, 1979",Retired
+Right Winger,right,"Jul 1, 2005",Jermaine Pennant,"1,73m",3195,"['England', 'Jamaica']",€5.50m,: Ablöse €750k,23,"Jan 15, 1983",Retired
+Centre-Forward,right,"Jul 1, 2005",Walter Pandiani,"1,83m",7691,"['Uruguay', 'Italy']",€7.50m,Deportivo de La Coruña,30,"Apr 27, 1976",Retired
+Centre-Forward,right,"Jul 1, 2004",Emile Heskey,"1,88m",3142,"['England', 'Antigua and Barbuda']",€5.50m,: Ablöse €9.32m,28,"Jan 11, 1978",Retired
+Centre-Forward,right,"Jul 1, 2005",Mikael Forssell,"1,84m",3127,"['Finland', 'Germany']",€5.00m,Chelsea FC,25,"Mar 15, 1981",Retired
+Centre-Forward,,"Jan 5, 2006",Chris Sutton,,7453,['England'],€3.30m,Celtic FC,33,"Mar 10, 1973",Retired
+Centre-Forward,right,"Jul 1, 2002",Clinton Morrison,"1,78m",3145,"['Ireland', 'England']",€3.00m,: Ablöse €6.38m,27,"May 14, 1979",Retired
+Centre-Forward,left,"Jul 1, 2004",Julian Gray,"1,85m",8735,"['England', 'Jamaica']",€900k,: Ablöse free transfer,26,"Sep 21, 1979",Retired
+Centre-Forward,right,"Jan 1, 2006",DJ Campbell,"1,78m",37896,['England'],€750k,: Ablöse €750k,24,"Nov 12, 1981",Retired

@@ -1,0 +1,35 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Nov 4, 1993",Tim Flowers,"1,90m",4249,['England'],Southampton FC,29,"Feb 3, 1967",Retired
+Goalkeeper,,"Dec 22, 1990",Bobby Mimms,"1,91m",177128,['England'],: Ablöse €290k,32,"Oct 12, 1963",Retired
+Goalkeeper,right,"Aug 8, 1994",Shay Given,"1,85m",3146,['Ireland'],Celtic FC,20,"Apr 20, 1976",Retired
+Centre-Back,right,"Dec 21, 1995",Chris Coleman,"1,88m",132125,"['Wales', 'Ireland']",: Ablöse €4.90m,26,"Jun 10, 1970",Retired
+Centre-Back,right,"Nov 8, 1991",Colin Hendry,"1,86m",103642,['Scotland'],: Ablöse €1.05m,30,"Dec 7, 1965",Retired
+Centre-Back,,"Sep 1, 1992",Nicky Marker,"1,86m",173498,['England'],Plymouth Argyle,31,"May 3, 1965",Retired
+Centre-Back,,"Aug 1, 1995",Adam Reed,,1155108,['England'],Darlington FC (- 2012),21,"Feb 18, 1975",Retired
+Centre-Back,right,"Jul 1, 1993",Paul Warhurst,"1,83m",3307,['England'],: Ablöse €3.75m,26,"Sep 26, 1969",Retired
+Centre-Back,right,"Jul 1, 1993",Ian Pearce,"1,85m",3879,['England'],: Ablöse €450k,22,"May 7, 1974",Retired
+Centre-Back,,"Jul 1, 1995",Anthony Whealing,"1,75m",1213303,['England'],Blackburn Rovers U18,19,"Sep 3, 1976",Retired
+Centre-Back,,"Jul 1, 1995",Steve Hitchen,"1,71m",967840,['England'],Blackburn Rovers U18,19,"Nov 28, 1976",Retired
+Centre-Back,left,"Jul 1, 1994",Marlon Broomes,"1,83m",13995,['England'],Blackburn Rovers U18,18,"Nov 28, 1977",Retired
+Left-Back,left,"Mar 25, 1993",Graeme Le Saux,"1,78m",3157,"['England', 'Jersey']",: Ablöse €1.05m,27,"Oct 17, 1968",Retired
+Left-Back,right,"Mar 1, 1996",Gary Croft,"1,75m",12692,['England'],Grimsby Town,22,"Feb 17, 1974",Retired
+Right-Back,right,"Mar 1, 1995",Jeff Kenna,"1,80m",3933,['Ireland'],Southampton FC,25,"Aug 27, 1970",Retired
+Right-Back,right,"Jul 1, 2000",Henning Berg,"1,83m",3823,"['Norway', 'Cyprus']",Manchester United,26,"Sep 1, 1969",Retired
+Defensive Midfield,,"Jun 1, 1988",Mark Atkins,"1,83m",173495,['England'],: Ablöse ?,27,"Aug 14, 1968",Retired
+Defensive Midfield,right,"Jan 1, 1994",David Batty,"1,70m",3295,['England'],: Ablöse €3.78m,27,"Dec 2, 1968",Retired
+Central Midfield,,"Jul 1, 1992",Tim Sherwood,,4005,['England'],: Ablöse €750k,27,"Feb 6, 1969",Retired
+Central Midfield,,"Jul 1, 1992",Lee Makel,,13331,['England'],Newcastle United,23,"Jan 11, 1973",Retired
+Central Midfield,right,"Oct 1, 1995",Lars Bohinen,"1,85m",102503,['Norway'],: Ablöse €770k,26,"Sep 8, 1969",Retired
+Central Midfield,right,"Jan 1, 1996",Garry Flitcroft,"1,80m",3706,['England'],: Ablöse €5.25m,23,"Nov 6, 1972",Retired
+Central Midfield,,,Gary Tallon,"1,80m",1151526,['Ireland'],,22,"Sep 5, 1973",Retired
+Central Midfield,,"Jul 1, 1994",Wayne Gill,"1,78m",107194,['England'],Blackburn Rovers U18,20,"Nov 28, 1975",Retired
+Right Midfield,both,"Jul 1, 1992",Stuart Ripley,"1,80m",107223,['England'],: Ablöse €2.00m,28,"Nov 20, 1967",Retired
+Right Midfield,right,"Jan 1, 1996",Billy McKinlay,"1,73m",9212,['Scotland'],: Ablöse free transfer,27,"Apr 22, 1969",Retired
+Left Midfield,left,"Jul 1, 1989",Jason Wilcox,"1,80m",3320,['England'],Blackburn Rovers U18,24,"Jul 15, 1971",Retired
+Left Midfield,left,"Aug 15, 1995",Matty Holmes,"1,70m",173497,['England'],: Ablöse €1.50m,26,"Aug 1, 1969",Retired
+Left Winger,,"Mar 1, 1996",Niklas Gudmundsson,"1,79m",173496,['Sweden'],Halmstads BK,24,"Feb 29, 1972",Retired
+Right Winger,right,"Mar 1, 1993",Kevin Gallacher,"1,74m",101134,['Scotland'],Coventry City,29,"Nov 23, 1966",Retired
+Centre-Forward,right,"Jul 1, 1992",Alan Shearer,"1,83m",3110,['England'],Southampton FC,25,"Aug 13, 1970",Retired
+Centre-Forward,,"Nov 1, 1991",Mike Newell,,170398,['England'],: Ablöse €1.30m,31,"Jan 27, 1965",Retired
+Centre-Forward,right,"Nov 7, 1995",Graham Fenton,"1,78m",97931,['England'],: Ablöse €1.50m,22,"May 22, 1974",Retired
+Centre-Forward,,"Jul 1, 1994",Chris Sutton,,7453,['England'],: Ablöse €7.50m,23,"Mar 10, 1973",Retired

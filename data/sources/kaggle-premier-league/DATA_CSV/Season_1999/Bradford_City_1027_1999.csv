@@ -1,0 +1,30 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jan 1, 1998",Gary Walsh,"1,91m",13547,['England'],: Ablöse €700k,32,"Mar 21, 1968",Retired
+Goalkeeper,right,"Jul 1, 1999",Matt Clarke,"1,91m",13781,['England'],: Ablöse free transfer,26,"Nov 3, 1973",Retired
+Goalkeeper,right,"Jan 1, 2000",Aidan Davison,"1,85m",42041,"['Northern Ireland', 'England']",Sheffield United,32,"May 11, 1968",Retired
+Goalkeeper,,"Feb 1, 2000",Neville Southall,,135910,['Wales'],: Ablöse ?,41,"Sep 16, 1958",Retired
+Centre-Back,right,"Jul 1, 2006",Matthew Clarke,"1,90m",48306,['England'],Darlington FC (- 2012),19,"Dec 18, 1980",Retired
+Centre-Back,right,"Jul 1, 1999",David Wetherall,"1,91m",13615,['England'],: Ablöse €2.10m,29,"Mar 14, 1971",Retired
+Centre-Back,right,"Jul 1, 1998",Ashley Westwood,"1,83m",50009,['England'],Crewe Alexandra,23,"Aug 31, 1976",Retired
+Centre-Back,right,"Jul 1, 1994",Andrew O'Brien,"1,91m",3228,"['Ireland', 'England']",Bradford City U18,21,"Jun 29, 1979",Retired
+Centre-Back,left,"Nov 6, 1996",John Dreyer,"1,85m",211259,['England'],: Ablöse ?,37,"Jun 11, 1963",Retired
+Centre-Back,right,"Jul 1, 1997",Darren Moore,"1,88m",3243,"['Jamaica', 'England']",Doncaster Rovers,26,"Apr 22, 1974",Retired
+Centre-Back,right,"Jul 1, 1994",Wayne Jacobs,"1,75m",13587,['England'],Rotherham United,31,"Feb 3, 1969",Retired
+Left-Back,left,"Jul 1, 1999",Andy Myers,"1,77m",15058,['England'],: Ablöse free transfer,26,"Nov 3, 1973",Retired
+Left-Back,,"Aug 1, 1998",Lee Todd,"1,65m",109498,['England'],Southampton FC,28,"Mar 7, 1972",Retired
+Right-Back,right,"Jul 1, 1998",Stephen Wright,"1,78m",165976,['Scotland'],: Ablöse ?,28,"Aug 27, 1971",Retired
+Right-Back,right,"Jul 1, 1999",Gunnar Halle,"1,83m",102506,['Norway'],: Ablöse ?,34,"Aug 11, 1965",Retired
+Central Midfield,right,"Jul 1, 1998",Stuart McCall,"1,68m",13529,"['Scotland', 'England']",: Ablöse free transfer,36,"Jun 10, 1964",Retired
+Central Midfield,right,"Jul 1, 1998",Gareth Whalley,"1,78m",12726,['England'],Crewe Alexandra,26,"Dec 19, 1973",Retired
+Central Midfield,both,"Jul 1, 1999",Neil Redfearn,"1,75m",195179,['England'],Charlton Athletic,35,"Jun 20, 1965",Retired
+Left Midfield,left,"Jul 1, 1999",Lee Sharpe,"1,83m",107229,['England'],: Ablöse €300k,29,"May 27, 1971",Retired
+Left Winger,left,"May 1, 2001",Peter Beagrie,,138385,['England'],Wigan Athletic,34,"Nov 28, 1965",Retired
+Right Winger,right,"Jul 1, 1997",Jamie Lawrence,"1,76m",14039,"['Jamaica', 'England']",: Ablöse ?,30,"Mar 8, 1970",Retired
+Second Striker,,"Mar 1, 1997",Robbie Blake,"1,75m",3490,['England'],Darlington FC (- 2012),24,"Mar 4, 1976",Retired
+Centre-Forward,right,"Jan 1, 2000",Jorge Cadete,"1,80m",25356,"['Portugal', 'Mozambique']",SL Benfica,31,"Aug 27, 1968",Retired
+Centre-Forward,right,"Aug 1, 1998",Lee Mills,"1,85m",211264,['England'],: Ablöse €1.25m,29,"Jul 10, 1970",Retired
+Centre-Forward,right,"Jul 1, 2003",Dean Windass,"1,78m",3328,['England'],Sheffield United,31,"Apr 1, 1969",Retired
+Centre-Forward,right,"Jul 1, 1998",Isaiah Rankin,"1,78m",16495,['England'],Arsenal FC U18,22,"May 22, 1978",Retired
+Striker,,,Gareth Grant,"1,88m",105052,['England'],,19,"Sep 6, 1980",Retired
+Centre-Forward,,"Aug 5, 1999",Dean Saunders,,92213,['Wales'],SL Benfica,36,"Jun 21, 1964",Retired
+Centre-Forward,,"Sep 9, 1999",Bruno Rodriguez,"1,80m",5742,['France'],: Ablöse free transfer,27,"Nov 25, 1972",Retired

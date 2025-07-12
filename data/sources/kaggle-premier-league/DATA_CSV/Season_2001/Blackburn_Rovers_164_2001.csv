@@ -1,0 +1,36 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Feb 15, 2000",Alan Miller,"1,91m",3820,['England'],: Ablöse ?,32,"Mar 29, 1970",---
+Goalkeeper,,"Jul 1, 2002",Ryan Robinson,"1,88m",3749,['England'],Blackburn Rovers U18,19,"Oct 13, 1982",Northwich Victoria
+Goalkeeper,right,"Nov 3, 2000",Brad Friedel,"1,91m",3476,"['United States', 'England']",: Ablöse free transfer,31,"May 18, 1971",Retired
+Goalkeeper,,"Jul 1, 1997",John Filan,"1,88m",13516,['Australia'],Coventry City,32,"Feb 8, 1970",Retired
+Goalkeeper,right,"Jul 1, 1999",Alan Kelly,"1,89m",3819,"['Ireland', 'England']",Sheffield United,33,"Aug 11, 1968",Retired
+Centre-Back,both,"Jul 1, 1999",Craig Short,"1,85m",3821,['England'],: Ablöse €2.55m,34,"Jun 25, 1968",Retired
+Centre-Back,right,"Sep 7, 2001",Lucas Neill,"1,85m",3826,"['Australia', 'Northern Ireland']",: Ablöse €1.50m,24,"Mar 9, 1978",Retired
+Centre-Back,right,"Jul 1, 1998",Martin Taylor,"1,95m",3822,['England'],Blackburn Rovers U18,22,"Nov 9, 1979",Retired
+Centre-Back,left,"Jul 1, 1994",Marlon Broomes,"1,83m",13995,['England'],Blackburn Rovers U18,24,"Nov 28, 1977",Retired
+Centre-Back,right,"Aug 2, 2016",Gordon Greer,"1,92m",3824,['Scotland'],Brighton & Hove Albion,21,"Dec 14, 1980",Retired
+Left-Back,left,"Jul 1, 2000",Stig Inge Bjørnebye,"1,79m",102510,['Norway'],: Ablöse €400k,32,"Dec 11, 1969",Retired
+Left-Back,left,"Oct 1, 2001",Nils-Eric Johansson,"1,87m",205,['Sweden'],: Ablöse €3.00m,22,"Jan 13, 1980",Retired
+Left-Back,left,"Feb 20, 2002",Hakan Ünsal,"1,78m",8050,['Türkiye'],Galatasaray,29,"May 14, 1973",Retired
+Right-Back,right,"Jul 1, 2000",John Curtis,"1,78m",7913,['England'],Manchester United,23,"Sep 3, 1978",Retired
+Right-Back,right,"Jul 1, 2000",Henning Berg,"1,83m",3823,"['Norway', 'Cyprus']",Manchester United,32,"Sep 1, 1969",Retired
+Right-Back,right,"Mar 1, 1995",Jeff Kenna,"1,80m",3933,['Ireland'],Southampton FC,31,"Aug 27, 1970",Retired
+Defensive Midfield,right,"Jul 1, 2001",Tugay Kerimoğlu,"1,76m",3703,['Türkiye'],: Ablöse €1.95m,31,"Aug 24, 1970",Retired
+Midfielder,,,Darren Dunning,,10377,['England'],,21,"Jan 8, 1981",Retired
+Central Midfield,right,"Jan 1, 1996",Garry Flitcroft,"1,80m",3706,['England'],: Ablöse €5.25m,29,"Nov 6, 1972",Retired
+Central Midfield,right,"Jul 1, 1997",Damien Johnson,"1,73m",3940,['Northern Ireland'],Blackburn Rovers U18,23,"Nov 18, 1978",Retired
+Central Midfield,right,"Jul 1, 2000",Jonathan Douglas,"1,80m",7435,['Ireland'],Blackburn Rovers U18,20,"Nov 22, 1981",Retired
+Right Midfield,left,"Jul 1, 1996",Damien Duff,"1,77m",3259,['Ireland'],Blackburn Rovers U18,23,"Mar 2, 1979",Retired
+Right Midfield,right,"Jan 27, 1999",Jason McAteer,"1,75m",3710,"['Ireland', 'England']",: Ablöse €5.55m,31,"Jun 18, 1971",Retired
+Right Midfield,right,"Dec 1, 1998",Keith Gillespie,"1,77m",3827,['Northern Ireland'],Newcastle United,27,"Feb 18, 1975",FC Mindwell
+Left Midfield,left,"Dec 1, 2000",Alan Mahon,"1,70m",3483,['Ireland'],: Ablöse €2.30m,24,"Apr 4, 1978",Retired
+Attacking Midfield,right,"Jan 17, 2007",David Dunn,"1,78m",4243,['England'],: Ablöse €3.20m,22,"Dec 27, 1979",Retired
+Right Winger,,"Jul 10, 2000",Craig Hignett,,3787,['England'],Barnsley FC,32,"Jan 12, 1970",Retired
+Second Striker,right,"Oct 24, 2000",Mark Hughes,"1,78m",8022,['Wales'],: Ablöse free transfer,38,"Nov 1, 1963",Retired
+Centre-Forward,right,"Jan 1, 1999",Nathan Blake,"1,82m",4229,['Wales'],: Ablöse €5.95m,30,"Jan 27, 1972",Retired
+Centre-Forward,right,"Jan 1, 2002",Andy Cole,"1,75m",3238,"['England', 'Jamaica']",Manchester United,30,"Oct 15, 1971",Retired
+Centre-Forward,right,"Nov 1, 2000",Marcus Bent,"1,88m",9958,"['England', 'Jamaica']",Sheffield United,24,"May 19, 1978",Cornard United FC
+Centre-Forward,right,"Jan 1, 1999",Matt Jansen,"1,80m",10502,['England'],: Ablöse €6.00m,24,"Oct 20, 1977",Retired
+Centre-Forward,right,"Jul 1, 2001",Yordi,"1,85m",7979,['Spain'],: Ablöse free transfer,27,"Sep 14, 1974",Retired
+Centre-Forward,left,"Jul 1, 1999",Egil Østenstad,"1,83m",3705,['Norway'],Southampton FC,30,"Jan 2, 1972",Retired
+Centre-Forward,right,"Jul 1, 2001",Corrado Grabbi,"1,81m",3704,['Italy'],: Ablöse €11.36m,26,"Jul 29, 1975",Retired

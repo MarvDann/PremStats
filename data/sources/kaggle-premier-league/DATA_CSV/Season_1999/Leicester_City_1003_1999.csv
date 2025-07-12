@@ -1,0 +1,40 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jul 1, 1998",John Hodges,"1,83m",775807,['England'],Unknown,20,"Jan 22, 1980",Retired
+Goalkeeper,,"Jul 30, 1999",Tim Flowers,"1,90m",4249,['England'],Blackburn Rovers,33,"Feb 3, 1967",Retired
+Goalkeeper,,"Aug 22, 1997",Pegguy Arphexad,"1,90m",3282,"['France', 'Guadeloupe']",: Ablöse free transfer,27,"May 18, 1973",Retired
+Goalkeeper,,"Jul 1, 1999",Matthew Nurse,"1,85m",775810,['England'],Unknown,18,"Oct 6, 1981",Retired
+Goalkeeper,,"Aug 1, 2001",Michael Price,,277347,['England'],Leicester City U18,17,"Mar 4, 1983",Retired
+Goalkeeper,right,,Alan Fettis,"1,85m",4222,['Northern Ireland'],,29,"Feb 1, 1971",Retired
+Centre-Back,right,"Jul 1, 1998",Gerry Taggart,"1,88m",4264,['Northern Ireland'],: Ablöse free transfer,29,"Oct 18, 1970",Retired
+Centre-Back,left,"Aug 13, 1998",Frank Sinclair,"1,78m",8056,"['Jamaica', 'England']",: Ablöse €3.00m,28,"Dec 3, 1971",Retired
+Centre-Back,,"Jul 1, 1986",Steve Walsh,"1,91m",107799,['England'],Wigan Athletic,35,"Nov 3, 1964",Retired
+Centre-Back,right,"Jul 1, 1997",Guy Branston,"1,88m",15933,['England'],Leicester City U18,21,"Jan 9, 1979",Retired
+Centre-Back,left,"Aug 10, 1999",Phil Gilchrist,"1,83m",3656,['England'],: Ablöse ?,26,"Aug 25, 1973",Retired
+Centre-Back,,"Jan 1, 1997",Matt Elliott,,107793,"['Scotland', 'England']",: Ablöse €2.40m,31,"Nov 1, 1968",Retired
+Centre-Back,,"Aug 1, 1996",Ian Marshall,"1,86m",107794,['England'],Ipswich Town,34,"Mar 20, 1966",Retired
+Centre-Back,,,Tommy Goodwin,"1,83m",226922,['England'],,20,"Nov 8, 1979",Retired
+Left-Back,left,"Feb 17, 1997",Robert Ullathorne,"1,73m",107798,['England'],CA Osasuna,28,"Oct 11, 1971",Retired
+Left-Back,left,,Danny Thomas,"1,69m",34614,['England'],,19,"May 1, 1981",Retired
+Left-Back,,"Jul 1, 1998",Tim McCann,,449067,['Northern Ireland'],Leicester City U18,20,"Mar 22, 1980",Retired
+Left-Back,left,"Jan 1, 2000",Jordan Stewart,"1,83m",9217,['England'],Leicester City U18,18,"Mar 3, 1982",Retired
+Right-Back,right,"Jan 1, 1999",Andy Impey,"1,73m",4250,['England'],: Ablöse €3.10m,28,"Sep 30, 1971",Retired
+Right-Back,,"Jul 1, 1999",Carl Bacon,"1,80m",775809,['England'],Unknown,19,"Dec 15, 1980",Retired
+Defensive Midfield,both,"Jul 1, 1997",Robbie Savage,"1,83m",3797,['Wales'],Crewe Alexandra,25,"Oct 18, 1974",Retired
+Defensive Midfield,,"Jul 1, 1996",Stuart Campbell,,49699,['Scotland'],Leicester City U18,22,"Dec 9, 1977",Retired
+Midfielder,,"Jul 1, 1999",Alex Mortimer,"1,78m",775811,['England'],Unknown,17,"Nov 28, 1982",Retired
+Central Midfield,right,"Jul 1, 1996",Muzzy Izzet,"1,77m",3123,"['Türkiye', 'England']",: Ablöse €1.20m,25,"Oct 31, 1974",Retired
+Central Midfield,right,"Feb 23, 1996",Neil Lennon,"1,77m",9498,['Northern Ireland'],Crewe Alexandra,29,"Jun 25, 1971",Retired
+Central Midfield,right,"Jul 1, 1998",Stefan Oakes,"1,80m",10418,['England'],Leicester City U18,21,"Sep 6, 1978",Retired
+Central Midfield,right,"Jul 1, 1997",Theodoros Zagorakis,"1,78m",9867,['Greece'],: Ablöse €1.20m,28,"Oct 27, 1971",Retired
+Right Midfield,right,"Jul 1, 1995",Scott Taylor,"1,78m",107797,['England'],Reading FC,29,"Nov 23, 1970",Retired
+Right Midfield,right,"Jul 1, 2000",Matt Piper,"1,85m",4134,['England'],Leicester City U18,18,"Sep 29, 1981",Retired
+Left Midfield,left,"Jan 1, 2000",Darren Eadie,"1,74m",4256,['England'],: Ablöse €4.50m,25,"Jun 10, 1975",Retired
+Attacking Midfield,right,"Jul 1, 1996",Stuart Wilson,"1,73m",107800,['England'],Leicester City U18,22,"Sep 16, 1977",Retired
+Left Winger,left,"Jan 1, 2004",Steve Guppy,"1,81m",9497,['England'],Celtic FC,31,"Mar 29, 1969",Retired
+Right Winger,right,"Jan 1, 1999",Arnar Gunnlaugsson,"1,78m",17955,['Iceland'],: Ablöse €2.80m,27,"Mar 6, 1973",Retired
+Centre-Forward,right,"Feb 10, 2000",Stan Collymore,"1,88m",106811,['England'],: Ablöse free transfer,29,"Jan 22, 1971",Retired
+Centre-Forward,right,"Jul 1, 1995",Emile Heskey,"1,88m",3142,"['England', 'Antigua and Barbuda']",Leicester City U18,22,"Jan 11, 1978",Retired
+Centre-Forward,,"Jul 1, 2000",Fernando Pasquinelli,"1,84m",13346,"['Argentina', 'Italy']",CA Boca Juniors,20,"Mar 13, 1980",Retired
+Centre-Forward,right,"Aug 1, 1997",Graham Fenton,"1,78m",97931,['England'],Blackburn Rovers,26,"May 22, 1974",Retired
+Centre-Forward,,"Aug 12, 1997",Tony Cottee,"1,70m",107792,['England'],Selangor FC,34,"Jul 11, 1965",Retired
+Centre-Forward,right,"Mar 1, 2001",Lawrie Dudfield,"1,85m",16204,['England'],: Ablöse ?,20,"May 7, 1980",Retired

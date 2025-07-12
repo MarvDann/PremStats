@@ -1,0 +1,38 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Aug 1, 2001",Edwin van der Sar,"1,99m",3516,['Netherlands'],: Ablöse €10.30m,33,"Oct 29, 1970",Retired
+Goalkeeper,right,"Jul 1, 2003",Mark Crossley,"1,91m",4041,"['Wales', 'England']",: Ablöse €750k,35,"Jun 16, 1969",Retired
+Goalkeeper,right,"Aug 1, 2003",Ross Flitney,"1,91m",9411,['England'],Fulham FC U18,20,"Jun 1, 1984",Wimborne Town FC
+Goalkeeper,,"Aug 1, 2003",Dave Beasant,"1,93m",10384,['England'],: Ablöse free transfer,45,"Mar 20, 1959",Retired
+Centre-Back,right,"Jul 1, 1999",Andy Melville,"1,84m",4004,['Wales'],Sunderland AFC,35,"Nov 29, 1968",Retired
+Centre-Back,right,"Jul 1, 1999",Zat Knight,"1,98m",4012,['England'],Fulham FC U18,24,"May 2, 1980",Retired
+Centre-Back,right,"Jul 14, 2002",Martin Djetou,"1,80m",3725,"['France', ""Cote d'Ivoire""]",: Ablöse free transfer,29,"Dec 15, 1974",Retired
+Centre-Back,right,"Jul 1, 2003",Mark Hudson,"1,87m",3640,['England'],Fulham FC Reserves,22,"Mar 30, 1982",Retired
+Centre-Back,right,"Jul 1, 2003",Dean Leacock,"1,90m",4039,"['England', 'Barbados']",Fulham FC U18,20,"Jun 10, 1984",Retired
+Centre-Back,right,"Apr 1, 2001",Alain Goma,"1,83m",4011,['France'],Newcastle United,31,"Oct 5, 1972",Retired
+Centre-Back,right,"Jul 1, 2003",Zesh Rehman,"1,89m",12122,"['Pakistan', 'England']",Fulham FC U18,20,"Oct 14, 1983",Retired
+Centre-Back,left,"Jan 13, 2003",Carlos Bocanegra,"1,83m",15829,"['United States', 'Mexico']",: Ablöse free transfer,25,"May 25, 1979",Retired
+Centre-Back,right,"Jan 1, 2004",Ian Pearce,"1,85m",3879,['England'],: Ablöse €1.60m,30,"May 7, 1974",Retired
+Left-Back,left,"Jul 1, 2001",Jon Harley,"1,78m",4014,['England'],: Ablöse €5.25m,24,"Sep 26, 1979",Retired
+Left-Back,left,"Aug 2, 2003",Jérôme Bonnissel,"1,74m",3911,['France'],: Ablöse free transfer,31,"Apr 16, 1973",Retired
+Left-Back,left,"Jul 1, 2003",Adam Green,"1,76m",4766,['England'],Fulham FC U18,20,"Jan 12, 1984",Ashford Town Middlesex FC
+Right-Back,,"Jan 1, 2004",Moritz Volz,,4048,['Germany'],: Ablöse €1.00m,21,"Jan 21, 1983",Retired
+Defensive Midfield,right,"Jul 1, 2002",Junichi Inamoto,"1,81m",3568,['Japan'],: Ablöse free transfer,24,"Sep 18, 1979",Nankatsu SC
+Defensive Midfield,right,"Jul 1, 1996",Sean Davis,"1,78m",4036,['England'],Fulham FC U18,24,"Sep 20, 1979",Retired
+Central Midfield,right,,Alex Lawless,"1,80m",97610,['Wales'],,19,"Mar 26, 1985",Retired
+Central Midfield,right,"Jul 1, 2001",Sylvain Legwinski,"1,85m",3815,"['France', 'Poland']",: Ablöse €5.25m,31,"Jun 10, 1973",Retired
+Central Midfield,right,"Aug 2, 2001",Steed Malbranque,"1,71m",3569,"['France', 'Belgium']",: Ablöse €6.60m,24,"Jan 6, 1980",Retired
+Central Midfield,right,"Jul 1, 2003",Darren Pratley,"1,86m",28957,"['England', 'Jamaica']",Fulham FC U18,19,"Apr 22, 1985",Leyton Orient
+Central Midfield,,,Tom Davis,"1,77m",353045,['England'],,20,"Feb 17, 1984",Without Club
+Right Midfield,right,"Jul 1, 2003",Malik Buari,"1,81m",4268,"['Ghana', 'England']",Fulham FC U18,20,"Jan 24, 1984",Retired
+Left Midfield,,"Aug 31, 2003",Mark Pembridge,,3615,['Wales'],: Ablöse €750k,33,"Nov 29, 1970",Retired
+Left Midfield,left,"Jul 1, 2001",Luís Boa Morte,"1,78m",3422,"['Portugal', 'Sao Tome and Principe']",Southampton FC,26,"Aug 4, 1977",Retired
+Left Midfield,left,"Jan 1, 2004",Bobby Petta,"1,70m",3335,['Netherlands'],Celtic FC,29,"Aug 6, 1974",Retired
+Attacking Midfield,,"Jan 1, 2001",Andrejs Stolcers,,3724,['Latvia'],: Ablöse €3.00m,29,"Jul 8, 1974",Retired
+Right Winger,right,"Jul 1, 1999",Lee Clark,"1,73m",3477,['England'],Sunderland AFC,31,"Oct 27, 1972",Retired
+Centre-Forward,both,"Sep 3, 2001",Steve Marlet,"1,80m",3240,"['France', 'Martinique']",: Ablöse €17.60m,30,"Jan 10, 1974",Retired
+Centre-Forward,right,"Jan 20, 2004",Brian McBride,"1,83m",3469,['United States'],: Ablöse €800k,32,"Jun 19, 1972",Retired
+Centre-Forward,left,"Jul 1, 2000",Louis Saha,"1,82m",4015,"['France', 'Guadeloupe']",: Ablöse €3.15m,25,"Aug 8, 1978",Retired
+Centre-Forward,left,"Jul 1, 2002",Facundo Sava,"1,84m",3709,"['Argentina', 'Italy']",Club de Gimnasia y Esgrima La Plata,30,"Mar 7, 1974",Retired
+Centre-Forward,,"Nov 17, 1998",Barry Hayles,"1,75m",4035,"['Jamaica', 'England']",Bristol Rovers,32,"May 17, 1972",FC Windsor
+Centre-Forward,right,"Jul 1, 2000",Elvis Hammond,"1,75m",3722,"['Ghana', 'England']",Fulham FC U18,23,"Oct 6, 1980",Retired
+Centre-Forward,right,"Jan 1, 2004",Collins John,"1,85m",4694,"['Netherlands', 'Liberia']",: Ablöse €3.50m,18,"Oct 17, 1985",Retired

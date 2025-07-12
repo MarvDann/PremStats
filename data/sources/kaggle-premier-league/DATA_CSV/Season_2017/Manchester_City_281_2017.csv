@@ -1,0 +1,33 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,,"Jul 1, 2017",Ederson,"1,88m",238223,"['Brazil', 'Portugal']",€50.00m,,SL Benfica,24,"Aug 17, 1993",Manchester City
+Goalkeeper,right,,"Jul 1, 2006",Joe Hart,"1,96m",40204,['England'],€10.00m,,: Ablöse €900k,31,"Apr 19, 1987",Retired
+Goalkeeper,right,,"Aug 25, 2016",Claudio Bravo,"1,84m",40423,"['Chile', 'Spain']",€3.50m,,FC Barcelona,35,"Apr 13, 1983",Retired
+Goalkeeper,right,,"Jul 1, 2016",Angus Gunn,"1,96m",201574,"['Scotland', 'England']",€2.00m,,Manchester City U23,22,"Jan 22, 1996",Norwich City
+Centre-Back,right,,"Aug 9, 2016",John Stones,"1,88m",186590,['England'],€50.00m,,Everton FC,24,"May 28, 1994",Manchester City
+Centre-Back,left,,"Jan 30, 2018",Aymeric Laporte,"1,91m",176553,"['Spain', 'France']",€50.00m,,Athletic Bilbao,24,"May 27, 1994",Al-Nassr FC
+Centre-Back,right,,"Aug 20, 2015",Nicolás Otamendi,"1,83m",54781,['Argentina'],€35.00m,,Valencia CF,30,"Feb 12, 1988",SL Benfica
+Centre-Back,right,,"Jul 23, 2017",Danilo,"1,84m",145707,['Brazil'],€20.00m,,Real Madrid,26,"Jul 15, 1991",Juventus FC
+Centre-Back,left,,"Aug 11, 2014",Eliaquim Mangala,"1,87m",90681,"['France', 'Belgium']",€15.00m,,FC Porto,27,"Feb 13, 1991",Estoril Praia
+Centre-Back,right,,"Aug 22, 2008",Vincent Kompany,"1,90m",9594,"['Belgium', 'DR Congo']",€10.00m,,: Ablöse €8.50m,32,"Apr 10, 1986",Retired
+Centre-Back,right,,,Tosin Adarabioyo,"1,96m",258878,"['England', 'Nigeria']",€1.00m,,,20,"Sep 24, 1997",Chelsea FC
+Left-Back,left,,"Jul 24, 2017",Benjamin Mendy,"1,85m",157495,"['France', 'Senegal']",€40.00m,,: Ablöse €57.50m,23,"Jul 17, 1994",FC Lorient
+Left-Back,left,,"Jul 4, 2016",Oleksandr Zinchenko,"1,75m",203853,['Ukraine'],€7.00m,,: Ablöse €2.25m,21,"Dec 15, 1996",Arsenal FC
+Right-Back,right,Team captain,"Jul 14, 2017",Kyle Walker,"1,78m",95424,['England'],€50.00m,,Tottenham Hotspur,28,"May 28, 1990",Manchester City
+Right-Back,right,No eligibility -  - 1.Lig,,Demeaco Duhaney,"1,80m",380913,"['England', 'Jamaica']",,,,19,"Oct 13, 1998",Istanbulspor
+Defensive Midfield,right,Knock - Return unknown,"Jul 1, 2013",Fernandinho,"1,79m",26267,['Brazil'],€15.00m,,Shakhtar Donetsk,33,"May 4, 1985",Club Athletico Paranaense
+Central Midfield,right,,"Aug 23, 2024",İlkay Gündoğan,"1,80m",53622,['Germany'],€40.00m,"Joined from FC Barcelona; date: Aug 23, 2024; fee: free transfer",FC Barcelona,27,"Oct 24, 1990",Manchester City
+Central Midfield,left,,"Jul 17, 2015",Fabian Delph,"1,74m",50362,"['England', 'Guyana']",€15.00m,,: Ablöse €11.50m,28,"Nov 21, 1989",Retired
+Central Midfield,right,,"Jul 2, 2010",Yaya Touré,"1,88m",13091,"[""Cote d'Ivoire"", 'England']",€2.50m,,FC Barcelona,35,"May 13, 1983",Retired
+Central Midfield,right,,,Tom Dele-Bashiru,"1,78m",346472,"['Nigeria', 'England']",,,,18,"Sep 17, 1999",Watford FC
+Attacking Midfield,right,,"Aug 30, 2015",Kevin De Bruyne,"1,81m",88755,['Belgium'],€150.00m,,VfL Wolfsburg,27,"Jun 28, 1991",Manchester City
+Attacking Midfield,left,,"Jul 1, 2017",Bernardo Silva,"1,73m",241641,['Portugal'],€50.00m,,: Ablöse €50.00m,23,"Aug 10, 1994",Manchester City
+Attacking Midfield,left,,"Jul 14, 2010",David Silva,"1,70m",35518,['Spain'],€30.00m,,: Ablöse €28.75m,32,"Jan 8, 1986",Retired
+Attacking Midfield,both,,"Jan 1, 2018",Brahim Díaz,"1,70m",314678,"['Morocco', 'Spain']",€5.00m,,Manchester City U23,18,"Aug 3, 1999",Real Madrid
+Left Winger,right,,"Jul 14, 2015",Raheem Sterling,"1,70m",134425,"['England', 'Jamaica']",€90.00m,,: Ablöse €63.70m,23,"Dec 8, 1994",Arsenal FC
+Right Winger,left,,"Aug 2, 2016",Leroy Sané,"1,83m",192565,"['Germany', 'France']",€90.00m,,FC Schalke 04,22,"Jan 11, 1996",Bayern Munich
+Right Winger,left,,"Jul 19, 2015",Patrick Roberts,"1,67m",225452,['England'],€7.50m,,Fulham FC,21,"Feb 5, 1997",Sunderland AFC
+Right Winger,left,,"Jul 1, 2017",Phil Foden,"1,71m",406635,['England'],€7.00m,,Manchester City U18,18,"May 28, 2000",Manchester City
+Right Winger,left,,"Jan 30, 2018",Jack Harrison,"1,75m",417346,['England'],€3.50m,,: Ablöse €4.00m,21,"Nov 20, 1996",Everton FC
+Centre-Forward,right,,"Jul 28, 2011",Sergio Agüero,"1,73m",26399,"['Argentina', 'Spain']",€80.00m,,: Ablöse €40.00m,30,"Jun 2, 1988",Retired
+Centre-Forward,right,,"Jan 1, 2017",Gabriel Jesus,"1,75m",363205,['Brazil'],€80.00m,,Sociedade Esportiva Palmeiras,21,"Apr 3, 1997",Arsenal FC
+Centre-Forward,right,,"Jul 1, 2019",Lukas Nmecha,"1,85m",314288,"['Germany', 'England']",,,Manchester City U23,19,"Dec 14, 1998",VfL Wolfsburg

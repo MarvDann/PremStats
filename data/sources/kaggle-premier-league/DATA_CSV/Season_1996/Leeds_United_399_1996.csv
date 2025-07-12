@@ -1,0 +1,34 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 1996",Nigel Martyn,"1,88m",3629,['England'],: Ablöse €3.35m,30,"Aug 11, 1966",Retired
+Goalkeeper,right,"Apr 22, 1993",Mark Beeney,"1,93m",107177,['England'],: Ablöse €350k,29,"Dec 30, 1967",Retired
+Goalkeeper,,"Jul 1, 1995",Paul Evans,"1,90m",103459,"['South Africa', 'Australia']",: Ablöse €70k,23,"Dec 28, 1973",Retired
+Centre-Back,left,"Aug 2, 1995",Paul Beesley,"1,85m",223222,['England'],Sheffield United,31,"Jul 21, 1965",Retired
+Centre-Back,right,"Jul 1, 1994",Lucas Radebe,"1,86m",3088,['South Africa'],Kaizer Chiefs,28,"Apr 12, 1969",Retired
+Centre-Back,right,"Jul 1, 1991",David Wetherall,"1,91m",13615,['England'],: Ablöse €180k,26,"Mar 14, 1971",Retired
+Centre-Back,right,"Oct 26, 1995",Richard Jobson,"1,85m",175897,['England'],: Ablöse €1.15m,34,"May 9, 1963",Retired
+Centre-Back,right,"Jul 1, 1995",Mark Jackson,"1,83m",48257,['England'],Leeds United U18,19,"Sep 30, 1977",Retired
+Centre-Back,right,"Jan 1, 1997",Robert Molenaar,"1,92m",6249,['Netherlands'],: Ablöse €1.40m,28,"Feb 27, 1969",Retired
+Left-Back,left,"Jul 1, 1991",Tony Dorigo,"1,75m",101324,"['England', 'Australia']",: Ablöse €1.48m,31,"Dec 31, 1965",Retired
+Left-Back,left,"Jul 1, 1995",Ian Harte,"1,75m",3634,['Ireland'],Leeds United U18,19,"Aug 31, 1977",Retired
+Right-Back,right,"Jul 1, 1991",Gary Kelly,"1,73m",3631,['Ireland'],Leeds United U18,22,"Jul 9, 1974",Retired
+Right-Back,right,"Jul 1, 1996",Gunnar Halle,"1,83m",102506,['Norway'],: Ablöse €575k,31,"Aug 11, 1965",Retired
+Right-Back,right,"Jul 1, 1995",Alan Maybury,"1,80m",12597,['Ireland'],Leeds United U18,18,"Aug 8, 1978",Retired
+Defensive Midfield,,"Jul 1, 1994",Carlton Palmer,,101325,['England'],: Ablöse €3.15m,31,"Dec 5, 1965",Retired
+Midfielder,,,Martin Foster,"1,68m",105594,['England'],,19,"Oct 29, 1977",Retired
+Midfielder,,"Jul 1, 1997",Wesley Boyle,"1,83m",107186,['Northern Ireland'],Leeds United U18,18,"Mar 30, 1979",Retired
+Central Midfield,right,"Jul 1, 1992",Mark Tinkler,"1,88m",55427,['England'],Leeds United U18,22,"Oct 24, 1974",Retired
+Central Midfield,right,"Jan 1, 1995",Jason Blunt,"1,73m",225922,['England'],Leeds United U18,19,"Aug 16, 1977",Retired
+Central Midfield,right,"Jul 1, 1996",Lee Bowyer,"1,75m",3877,['England'],Charlton Athletic,20,"Jan 3, 1977",Retired
+Central Midfield,right,"Jul 1, 1992",Mark Ford,,176013,['England'],Leeds United U18,21,"Oct 10, 1975",Retired
+Central Midfield,right,"Mar 5, 1993",Andy Couzens,"1,75m",176011,['England'],Leeds United U18,22,"Jun 4, 1975",Retired
+Left Midfield,left,"Aug 14, 1996",Lee Sharpe,"1,83m",107229,['England'],: Ablöse €6.75m,26,"May 27, 1971",Retired
+Left Winger,left,"Dec 23, 1995",Harry Kewell,"1,80m",3241,"['Australia', 'England']",Marconi Stallions FC,18,"Sep 22, 1978",Retired
+Centre-Forward,right,"Aug 20, 1996",Mark Hateley,"1,90m",117192,['England'],: Ablöse ?,35,"Nov 7, 1961",Retired
+Centre-Forward,right,"Jul 1, 1995",Paul Shepherd,"1,83m",228811,['England'],Leeds United U18,19,"Nov 17, 1977",Retired
+Centre-Forward,right,"Jul 1, 1991",Rod Wallace,"1,70m",13803,['England'],Southampton FC,27,"Oct 2, 1969",Retired
+Centre-Forward,right,"Jul 1, 1996",Ian Rush,"1,83m",145743,['Wales'],: Ablöse free transfer,35,"Oct 20, 1961",Retired
+Centre-Forward,,"Jul 21, 2004",Brian Deane,,8058,"['England', 'St. Kitts & Nevis']",: Ablöse free transfer,29,"Feb 7, 1968",Retired
+Centre-Forward,right,"Jul 24, 2012",Andy Gray,"1,83m",13575,"['Scotland', 'England']",Barnsley FC,19,"Nov 15, 1977",Retired
+Centre-Forward,right,"Jul 1, 1996",Derek Lilley,"1,80m",13327,['Scotland'],Greenock Morton FC,23,"Feb 9, 1974",Retired
+Centre-Forward,both,"Jul 1, 1995",Anthony Yeboah,"1,80m",328,['Ghana'],: Ablöse €3.25m,31,"Jun 6, 1966",Retired
+Centre-Forward,,"Mar 26, 1997",Pierre Laurent,"1,76m",5629,['France'],: Ablöse free transfer,26,"Dec 13, 1970",Retired

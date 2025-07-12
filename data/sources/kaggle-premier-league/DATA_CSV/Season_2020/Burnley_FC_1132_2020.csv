@@ -1,0 +1,33 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 19, 2016",Nick Pope,"1,98m",192080,['England'],€15.00m,,Charlton Athletic,29,"Apr 19, 1992",Newcastle United
+Goalkeeper,left,,"Aug 2, 2019",Bailey Peacock-Farrell,"1,94m",410436,"['Northern Ireland', 'England']",€1.00m,"Returned after loan spell with Aarhus GF; date: Jun 30, 2024; fee: End of loan",Leeds United,24,"Oct 29, 1996",Birmingham City
+Goalkeeper,left,,"Aug 14, 2020",Will Norris,"1,95m",285033,['England'],€400k,,Wolverhampton Wanderers,27,"Aug 12, 1993",Portsmouth FC
+Centre-Back,right,,"Feb 1, 2016",James Tarkowski,"1,85m",173504,"['England', 'Poland']",€25.00m,,: Ablöse €4.00m,28,"Nov 19, 1992",Everton FC
+Centre-Back,left,,"Aug 5, 2018",Ben Gibson,"1,85m",128904,['England'],€7.00m,,Middlesbrough FC,28,"Jan 15, 1993",Stoke City
+Centre-Back,left,,"Jan 17, 2012",Ben Mee,"1,80m",74810,['England'],€6.00m,,: Ablöse ?,31,"Sep 21, 1989",Brentford FC
+Centre-Back,left,,"Jul 8, 2019",Erik Pieters,"1,83m",43763,['Netherlands'],€1.50m,,Stoke City,32,"Aug 7, 1988",Without Club
+Centre-Back,right,,"Jan 1, 2010",Kevin Long,"1,88m",111114,['Ireland'],€1.00m,,Cork City FC,30,"Aug 18, 1990",Toronto FC
+Centre-Back,right,,"Jul 1, 2020",Jimmy Dunne,"1,91m",396174,"['Ireland', 'Northern Ireland']",€600k,,: Ablöse -,23,"Oct 19, 1997",Queens Park Rangers
+Centre-Back,right,,,Richard Nartey,"1,83m",396861,"['England', 'Ghana']",€200k,,,22,"Sep 6, 1998",Barnet FC
+Centre-Back,right,,"Jul 1, 2021",Bobby Thomas,"1,86m",788283,['England'],€200k,,: Ablöse -,20,"Jan 30, 2001",Coventry City
+Left-Back,left,,"Jul 6, 2017",Charlie Taylor,"1,83m",195633,['England'],€4.00m,,Leeds United,27,"Sep 18, 1993",Southampton FC
+Left-Back,left,,,Anthony Driscoll-Glennon,"1,81m",503683,['England'],€250k,,,21,"Nov 26, 1999",Newport County
+Right-Back,right,,"Jul 1, 2015",Matthew Lowton,"1,80m",102258,['England'],€2.50m,,: Ablöse €1.40m,32,"Jun 9, 1989",Precision FC
+Right-Back,right,,"Jul 25, 2017",Phil Bardsley,"1,80m",15773,"['Scotland', 'England']",€300k,,Stoke City,36,"Jun 28, 1985",Retired
+Defensive Midfield,right,,"Jul 11, 2017",Jack Cork,"1,85m",40613,['England'],€5.00m,,: Ablöse €9.10m,32,"Jun 25, 1989",Burnley FC U21
+Defensive Midfield,right,,"Jan 31, 2017",Ashley Westwood,"1,74m",91317,['England'],€5.00m,,: Ablöse €5.80m,31,"Apr 1, 1990",Charlotte FC
+Central Midfield,right,Team captain,"Jan 30, 2020",Josh Brownhill,"1,79m",293569,['England'],€7.00m,,Bristol City,25,"Dec 19, 1995",Burnley FC
+Central Midfield,right,,"Sep 24, 2020",Dale Stephens,"1,85m",49755,['England'],€2.50m,,Brighton & Hove Albion,32,"Jun 12, 1989",Retired
+Central Midfield,right,,"Aug 1, 2020",Josh Benson,"1,75m",397102,['England'],€400k,,: Ablöse -,21,"Dec 5, 1999",Barnsley FC
+Central Midfield,left,Groin injury - Return unknown,,Anthony Mancini,"1,80m",677311,"['France', 'Spain']",€250k,,,20,"Apr 6, 2001",Hartlepool United
+Central Midfield,right,,,Mace Goodridge,"1,80m",382552,['England'],€200k,,,21,"Sep 13, 1999",Retired
+Left Midfield,left,Injury to the ankle - Return unknown,"Jan 31, 2017",Robbie Brady,"1,76m",128229,['Ireland'],€3.00m,,: Ablöse €15.10m,29,"Jan 14, 1992",Preston North End
+Attacking Midfield,right,,,Lewis Richardson,"1,78m",657863,['England'],€200k,,,18,"Feb 7, 2003",Burnley FC U21
+Left Winger,left,,"Jul 1, 2018",Dwight McNeil,"1,83m",584769,['England'],€22.00m,,: Ablöse -,21,"Nov 22, 1999",Everton FC
+Right Winger,left,,"Jul 19, 2016",Jóhann Berg Gudmundsson,"1,86m",89231,['Iceland'],€3.00m,,Charlton Athletic,30,"Oct 27, 1990",Al-Orobah FC
+Right Winger,right,,,Max Thompson,"1,82m",598958,['England'],,,,19,"Feb 9, 2002",Queen's Park FC
+Centre-Forward,right,,"Aug 21, 2017",Chris Wood,"1,91m",108725,['New Zealand'],€8.00m,,Leeds United,29,"Dec 7, 1991",Nottingham Forest
+Centre-Forward,right,,"Jul 9, 2019",Jay Rodríguez,"1,85m",53360,"['England', 'Spain']",€4.00m,,West Bromwich Albion,31,"Jul 29, 1989",Burnley FC
+Centre-Forward,right,,"Jan 10, 2014",Ashley Barnes,"1,85m",63200,['England'],€3.50m,,Brighton & Hove Albion,31,"Oct 30, 1989",Norwich City
+Centre-Forward,right,,"Aug 7, 2018",Matej Vydra,"1,80m",101500,['Czech Republic'],€3.00m,,Derby County,29,"May 1, 1992",FC Viktoria Plzen
+Centre-Forward,right,,,Joel Mumbongo,"1,88m",381156,"['Sweden', 'DR Congo']",€300k,,,22,"Jan 9, 1999",Dumbarton FC

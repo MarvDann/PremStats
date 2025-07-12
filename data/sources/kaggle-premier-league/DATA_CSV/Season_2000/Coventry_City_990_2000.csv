@@ -1,0 +1,39 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Oct 20, 2000",Alan Miller,"1,91m",3820,['England'],Blackburn Rovers,31,"Mar 29, 1970",---
+Goalkeeper,,"Jul 1, 1999",Gary Montgomery,"1,88m",13659,['England'],Coventry City U18,18,"Oct 8, 1982",Retired
+Goalkeeper,right,"Jul 1, 1997",Magnus Hedman,"1,92m",3438,['Sweden'],AIK,28,"Mar 19, 1973",Retired
+Goalkeeper,right,"Jul 1, 1999",Chris Kirkland,"1,98m",3219,['England'],Coventry City U18,20,"May 2, 1981",Retired
+Goalkeeper,,"Jul 1, 2004",Morten Hyldgaard,"1,98m",6818,['Denmark'],: Ablöse free transfer,23,"Jan 26, 1978",Retired
+Centre-Back,,"Jul 1, 1995",Paul Williams,"1,83m",3323,['England'],: Ablöse €1.14m,30,"Mar 26, 1971",Retired
+Centre-Back,right,"Feb 24, 2000",Colin Hendry,"1,86m",103642,['Scotland'],: Ablöse €1.15m,35,"Dec 7, 1965",Retired
+Centre-Back,right,"Nov 1, 1995",Richard Shaw,"1,75m",10034,['England'],: Ablöse €1.50m,32,"Sep 11, 1968",Retired
+Centre-Back,right,"Jan 1, 1997",Gary Breen,"1,85m",3874,"['Ireland', 'England']",: Ablöse €3.75m,27,"Dec 12, 1973",Retired
+Centre-Back,right,"Jan 1, 1999",Muhamed Konjic,"1,91m",10022,['Bosnia-Herzegovina'],: Ablöse ?,31,"May 14, 1970",Retired
+Centre-Back,right,"Jul 1, 2000",Calum Davenport,"1,93m",4221,['England'],Coventry City U18,18,"Jan 1, 1983",Tavistock FC
+Left-Back,left,"Aug 1, 1999",Runar Normann,"1,81m",34759,['Norway'],Lillestrøm SK,23,"Mar 1, 1978",Harstad IL II
+Left-Back,left,"Oct 1, 2000",Iván Guerrero,"1,74m",35357,['Honduras'],: Ablöse ?,23,"Nov 30, 1977",Retired
+Left-Back,left,"Feb 21, 2005",Marcus Hall,"1,85m",13578,['England'],Stoke City,25,"Mar 24, 1976",Retired
+Right-Back,both,"Jan 1, 2000",Tomas Antonelius,"1,79m",3433,['Sweden'],AIK,28,"May 7, 1973",Retired
+Right-Back,right,"Jul 1, 1998",Marc Edworthy,"1,80m",4235,['England'],: Ablöse €1.80m,28,"Dec 24, 1972",Retired
+Right-Back,right,"Aug 1, 1995",Paul Telfer,"1,75m",3362,['Scotland'],: Ablöse €1.65m,29,"Oct 21, 1971",Retired
+Right-Back,right,"Jul 1, 1998",Barry Quinn,"1,83m",10028,['Ireland'],Coventry City U18,22,"May 9, 1979",Retired
+Midfielder,,"Jul 1, 2001",Robert Betts,"1,78m",225643,['England'],Coventry City U21,19,"Dec 21, 1981",Retired
+Defensive Midfield,,"Sep 1, 1999",Carlton Palmer,,101325,['England'],: Ablöse €600k,35,"Dec 5, 1965",Retired
+Defensive Midfield,right,"Jul 1, 1998",John Eustace,"1,83m",13569,['England'],Coventry City U18,21,"Nov 3, 1979",Retired
+Defensive Midfield,right,"Jul 1, 1997",Gavin Strachan,"1,78m",41027,['Scotland'],Coventry City U18,22,"Dec 23, 1978",Retired
+Defensive Midfield,right,"Jul 1, 2010",Lee Carsley,"1,78m",3618,"['Ireland', 'England']",: Ablöse free transfer,27,"Feb 28, 1974",Retired
+Central Midfield,left,"Jul 1, 1999",Youssef Chippo,"1,84m",37742,['Morocco'],: Ablöse ?,28,"May 10, 1973",Retired
+Central Midfield,right,"Jul 1, 1999",Lee Fowler,"1,70m",97598,['Wales'],Coventry City U18,18,"Jun 10, 1983",Retired
+Right Midfield,right,,Craig Pead,"1,75m",10037,['England'],,19,"Sep 15, 1981",Retired
+Right Midfield,right,"Aug 3, 2000",David Thompson,"1,70m",4127,['England'],: Ablöse €4.50m,23,"Sep 12, 1977",Retired
+Attacking Midfield,,"Jan 1, 2000",Mustapha Hadji,,3840,"['Morocco', 'France']",Deportivo de La Coruña,29,"Nov 16, 1971",Retired
+Left Winger,left,"Oct 1, 1998",Steve Froggatt,"1,78m",222292,['England'],: Ablöse €2.30m,28,"Mar 9, 1973",Retired
+Left Winger,right,"Aug 17, 2000",Craig Bellamy,"1,73m",3297,['Wales'],: Ablöse €9.25m,21,"Jul 13, 1979",Retired
+Left Winger,left,"Jul 1, 2010",Gary McSheffrey,"1,73m",25383,['England'],: Ablöse free transfer,18,"Aug 13, 1982",Retired
+Right Winger,right,"Dec 1, 1998",Laurent Delorge,"1,79m",13114,['Belgium'],: Ablöse €1.75m,21,"Jul 21, 1979",Retired
+Centre-Forward,,"Jul 1, 2000",Jairo Martínez,"1,74m",62251,['Honduras'],: Ablöse ?,23,"May 14, 1978",Retired
+Centre-Forward,right,"Feb 8, 2001",John Hartson,"1,85m",3094,['Wales'],: Ablöse free transfer,26,"Apr 5, 1975",Retired
+Centre-Forward,right,"Jan 20, 2000",Cédric Roussel,"1,90m",10431,['Belgium'],: Ablöse €1.68m,23,"Jan 6, 1978",---
+Centre-Forward,left,"Feb 25, 2000",Ysrael Zúñiga,"1,71m",4143,['Peru'],FBC Melgar,24,"Aug 27, 1976",Retired
+Centre-Forward,left,"Jul 1, 1998",John Aloisi,"1,83m",7741,"['Australia', 'Italy']",: Ablöse €975k,25,"Feb 5, 1976",Retired
+Centre-Forward,left,"Jul 1, 2000",Jay Bothroyd,"1,90m",8188,"['England', 'Guyana']",Arsenal FC U18,19,"May 7, 1982",Retired

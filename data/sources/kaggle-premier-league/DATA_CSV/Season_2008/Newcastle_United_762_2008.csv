@@ -1,0 +1,39 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 1997",Shay Given,"1,85m",3146,['Ireland'],€8.50m,Blackburn Rovers,33,"Apr 20, 1976",Retired
+Goalkeeper,right,,"Jul 1, 1993",Steve Harper,"1,88m",3562,['England'],€2.20m,Seaham Red Star,34,"Mar 14, 1975",Retired
+Goalkeeper,left,,"Jul 1, 2008",Tim Krul,"1,93m",33027,['Netherlands'],€800k,Newcastle United Reserves,21,"Apr 3, 1988",Luton Town
+Goalkeeper,right,,"Jul 1, 2007",Fraser Forster,"2,01m",52570,['England'],€400k,Newcastle United U18,21,"Mar 17, 1988",Tottenham Hotspur
+Centre-Back,right,,"Aug 15, 2008",Fabricio Coloccini,"1,84m",6150,"['Argentina', 'Italy']",€6.20m,Deportivo de La Coruña,27,"Jan 22, 1982",Retired
+Centre-Back,right,,"Jul 1, 2003",Steven Taylor,"1,86m",17273,['England'],€6.00m,Newcastle United U18,23,"Jan 23, 1986",Retired
+Centre-Back,left,,"Jul 1, 2008",Sébastien Bassong,"1,87m",33951,"['Cameroon', 'France']",€5.20m,: Ablöse €1.80m,22,"Jul 9, 1986",Retired
+Centre-Back,both,,"Jul 1, 2006",David Edgar,"1,91m",44910,"['Canada', 'England']",€800k,Newcastle United U18,22,"May 19, 1987",Retired
+Centre-Back,right,,"Aug 1, 2007",Cláudio Caçapa,"1,80m",5340,"['Brazil', 'France']",€750k,: Ablöse free transfer,33,"May 29, 1976",Retired
+Centre-Back,right,,"Jan 1, 2008",Ben Tozer,"1,85m",65927,['England'],€400k,Swindon Town,19,"Mar 1, 1990",Forest Green Rovers
+Centre-Back,left,,"Jan 1, 2008",Tamás Kádár,"1,88m",64313,['Hungary'],€400k,: Ablöse €1.35m,19,"Mar 14, 1990",MTK Budapest
+Left-Back,left,,"Aug 1, 2007",José Enrique,"1,84m",35571,['Spain'],€4.90m,: Ablöse €8.70m,23,"Jan 23, 1986",Retired
+Right-Back,right,,"Aug 1, 2007",Habib Bèye,"1,82m",3923,"['Senegal', 'France']",€4.60m,Olympique Marseille,31,"Oct 19, 1977",Retired
+Right-Back,right,,"Jan 1, 2009",Ryan Taylor,"1,79m",33785,['England'],€2.00m,Wigan Athletic,24,"Aug 19, 1984",Without Club
+Defensive Midfield,right,,"Jul 29, 2004",Nicky Butt,"1,78m",3543,['England'],€2.20m,Manchester United,34,"Jan 21, 1975",Retired
+Central Midfield,right,,"Jul 2, 2004",James Milner,"1,75m",3333,['England'],€13.00m,Leeds United,23,"Jan 4, 1986",Brighton & Hove Albion
+Central Midfield,right,,"Jul 11, 2008",Danny Guthrie,"1,76m",16716,['England'],€4.50m,: Ablöse €4.30m,22,"Apr 18, 1987",Retired
+Central Midfield,,,"Aug 3, 2007",Alan Smith,,3768,['England'],€3.90m,Manchester United,28,"Oct 28, 1980",Retired
+Central Midfield,right,,"Jul 1, 2007",Joey Barton,"1,80m",3292,['England'],€3.00m,: Ablöse €8.60m,26,"Sep 2, 1982",Retired
+Central Midfield,right,,,Mark Doninger,"1,76m",62050,['England'],,,19,"Oct 19, 1989",Without Club
+Right Midfield,left,,"Jul 1, 2006",Damien Duff,"1,77m",3259,['Ireland'],€5.70m,Chelsea FC,30,"Mar 2, 1979",Retired
+Right Midfield,right,,"Jul 1, 2007",Njitap Geremi,"1,80m",3374,['Cameroon'],€2.50m,Chelsea FC,30,"Dec 20, 1978",Retired
+Left Midfield,right,,"Jul 2, 2008",Jonás Gutiérrez,"1,84m",26443,"['Argentina', 'Italy']",€8.00m,RCD Mallorca,25,"Jul 5, 1983",Retired
+Attacking Midfield,right,,"Jan 30, 2009",Kevin Nolan,"1,83m",3950,['England'],€6.30m,: Ablöse €4.50m,27,"Jun 24, 1982",Retired
+Attacking Midfield,right,,"Sep 2, 2008",Ignacio González,"1,78m",67648,"['Uruguay', 'Italy']",€700k,: Ablöse free transfer,27,"May 14, 1982",Retired
+Attacking Midfield,right,,,Brad Inman,"1,76m",100349,['Australia'],,,17,"Dec 10, 1991",Gold Coast Knights
+Left Winger,right,,"Jan 1, 2009",Kazenga LuaLua,"1,80m",52576,"['DR Congo', 'England']",€400k,Newcastle United U18,18,"Dec 10, 1990",Without Club
+Right Winger,left,heart problems - Return unknown,"Aug 3, 2004",Charles N'Zogbia,"1,71m",22165,"['France', 'DR Congo']",€5.50m,: Ablöse €1.00m,23,"May 28, 1986",Retired
+Right Winger,right,,"Jul 1, 2008",Ryan Donaldson,"1,93m",61569,['England'],,Newcastle United U18,18,"May 1, 1991",Blyth Spartans
+Centre-Forward,,,"Aug 24, 2006",Obafemi Martins,,5794,"['Nigeria', 'Italy']",€12.50m,: Ablöse €16.00m,24,"Oct 28, 1984",Retired
+Centre-Forward,both,,"Aug 31, 2005",Michael Owen,"1,73m",1397,['England'],€12.20m,Real Madrid,29,"Dec 14, 1979",Retired
+Centre-Forward,right,,"Sep 1, 2008",Xisco,"1,88m",34564,['Spain'],€3.30m,Deportivo de La Coruña,23,"Jun 26, 1986",Retired
+Centre-Forward,right,,"Jul 1, 2000",Shola Ameobi,"1,91m",3276,"['Nigeria', 'England']",€2.50m,Newcastle United U18,27,"Oct 12, 1981",Retired
+Centre-Forward,left,,"Jan 1, 2009",Peter Løvenkrands,"1,79m",9620,['Denmark'],€2.30m,FC Schalke 04,29,"Jan 29, 1980",Retired
+Centre-Forward,both,,"Jul 1, 2007",Mark Viduka,"1,88m",3242,"['Australia', 'Croatia']",€1.80m,Middlesbrough FC,33,"Oct 9, 1975",Retired
+Centre-Forward,left,,"Aug 8, 2019",Andy Carroll,"1,94m",48066,['England'],€800k,West Ham United,20,"Jan 6, 1989",FC Girondins Bordeaux
+Centre-Forward,right,,"Jul 1, 2009",Nile Ranger,"1,88m",88750,"['England', 'Jamaica']",€250k,Newcastle United U18,18,"Apr 11, 1991",Kettering Town
+Centre-Forward,right,,,Frank Wiafe,"1,85m",62097,"['Netherlands', 'Ghana']",€50k,,19,"Oct 4, 1989",Unknown

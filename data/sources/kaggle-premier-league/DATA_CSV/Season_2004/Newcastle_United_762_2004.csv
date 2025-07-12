@@ -1,0 +1,33 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 1997",Shay Given,"1,85m",3146,['Ireland'],€7.50m,Blackburn Rovers,29,"Apr 20, 1976",Retired
+Goalkeeper,right,,"Jul 1, 1993",Steve Harper,"1,88m",3562,['England'],€2.00m,Seaham Red Star,30,"Mar 14, 1975",Retired
+Goalkeeper,,,"Jan 31, 2003",Tony Caig,"1,83m",3563,['England'],€500k,Hibernian FC,31,"Apr 11, 1974",Retired
+Centre-Back,right,,"Jan 1, 2005",Jean-Alain Boumsong,"1,90m",5418,"['France', 'Cameroon']",€10.00m,: Ablöse €11.30m,25,"Dec 14, 1979",Retired
+Centre-Back,right,,"Jul 12, 2002",Titus Bramble,"1,92m",3130,"['England', 'Montserrat']",€5.00m,Ipswich Town,23,"Jul 31, 1981",Retired
+Centre-Back,right,,"Mar 1, 2001",Andrew O'Brien,"1,91m",3228,"['Ireland', 'England']",€3.50m,Bradford City,26,"Jun 29, 1979",Retired
+Centre-Back,right,,"Jul 1, 1997",Aaron Hughes,"1,83m",3580,['Northern Ireland'],€3.50m,Newcastle United U18,25,"Nov 8, 1979",Retired
+Centre-Back,right,,"Jul 1, 2003",Steven Taylor,"1,86m",17273,['England'],€1.00m,Newcastle United U18,19,"Jan 23, 1986",Retired
+Centre-Back,right,,"Jul 1, 2004",Ronny Johnsen,"1,90m",3578,['Norway'],€350k,: Ablöse free transfer,36,"Jun 10, 1969",Retired
+Centre-Back,right,,"Jan 1, 2005",Peter Ramage,"1,85m",28801,"['England', 'Scotland']",€50k,Newcastle United Reserves,21,"Nov 22, 1983",Retired
+Left-Back,left,,"Jan 1, 2005",Celestine Babayaro,"1,75m",3153,"['Nigeria', 'England']",€3.50m,: Ablöse free transfer,26,"Aug 29, 1978",Retired
+Left-Back,left,,"Aug 1, 2006",Olivier Bernard,"1,75m",3301,['France'],€3.25m,: Ablöse free transfer,25,"Oct 14, 1979",Retired
+Left-Back,left,,"Jul 1, 2001",Robbie Elliott,"1,79m",3577,['England'],€1.50m,: Ablöse free transfer,31,"Dec 25, 1973",Retired
+Right-Back,right,,"Jul 1, 2004",Stephen Carr,"1,75m",4046,['Ireland'],€4.50m,: Ablöse €3.00m,28,"Aug 29, 1976",Retired
+Defensive Midfield,right,,"Jul 29, 2004",Nicky Butt,"1,78m",3543,['England'],€6.00m,Manchester United,30,"Jan 21, 1975",Retired
+Defensive Midfield,right,,"Jan 1, 2005",Amdy Faye,"1,84m",5428,"['Senegal', 'France']",€3.50m,: Ablöse €3.00m,28,"Mar 12, 1977",Retired
+Central Midfield,right,,"Jan 31, 2002",Jermaine Jenas,"1,81m",3461,['England'],€9.00m,: Ablöse €7.50m,22,"Feb 18, 1983",Retired
+Central Midfield,right,,"Jul 2, 2004",James Milner,"1,75m",3333,['England'],€5.50m,Leeds United,19,"Jan 4, 1986",Brighton & Hove Albion
+Central Midfield,right,,"Jul 1, 2003",Lee Bowyer,"1,75m",3877,['England'],€4.00m,: Ablöse free transfer,28,"Jan 3, 1977",Retired
+Central Midfield,right,,"Jul 1, 1997",Jamie McClen,"1,70m",3565,['England'],€500k,Newcastle United U18,26,"May 13, 1979",Retired
+Right Midfield,right,,"Jul 1, 1999",Kieron Dyer,"1,70m",3118,"['England', 'Antigua and Barbuda']",€14.00m,Ipswich Town,26,"Dec 29, 1978",Retired
+Right Midfield,right,,"Mar 25, 2003",Darren Ambrose,"1,83m",4086,['England'],€1.75m,Ipswich Town,21,"Feb 29, 1984",Retired
+Right Midfield,right,,"Jul 1, 2003",Martin Brittain,"1,73m",22221,['England'],€50k,Newcastle United U18,20,"Dec 29, 1984",Retired
+Left Midfield,left,,"Jul 1, 2004",Alan O'Brien,"1,78m",37543,['Ireland'],,Newcastle United U18,20,"Feb 20, 1985",Retired
+Left Winger,right,,"Jul 1, 2001",Craig Bellamy,"1,73m",3297,['Wales'],€9.00m,Coventry City,25,"Jul 13, 1979",Retired
+Left Winger,both,,"Aug 1, 2001",Laurent Robert,"1,76m",3316,['France'],€8.00m,: Ablöse €14.33m,30,"May 21, 1975",Retired
+Right Winger,left,heart problems - Return unknown,"Aug 3, 2004",Charles N'Zogbia,"1,71m",22165,"['France', 'DR Congo']",€350k,: Ablöse €1.00m,19,"May 28, 1986",Retired
+Centre-Forward,right,,"Jul 21, 2004",Patrick Kluivert,"1,91m",4385,"['Netherlands', 'Suriname']",€7.50m,FC Barcelona,28,"Jul 1, 1976",Retired
+Centre-Forward,right,,"Jul 1, 2000",Shola Ameobi,"1,91m",3276,"['Nigeria', 'England']",€6.00m,Newcastle United U18,23,"Oct 12, 1981",Retired
+Centre-Forward,right,,"Jul 30, 1996",Alan Shearer,"1,83m",3110,['England'],€3.00m,Blackburn Rovers,34,"Aug 13, 1970",Retired
+Centre-Forward,right,,"Jul 1, 2001",Michael Chopra,"1,75m",3463,"['England', 'India']",€1.50m,Newcastle United U18,21,"Dec 23, 1983",Without Club
+Centre-Forward,right,,,Lewis Guy,"1,75m",28800,['England'],€100k,,19,"Aug 22, 1985",Retired

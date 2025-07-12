@@ -1,0 +1,33 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2010",John Ruddy,"1,92m",29712,['England'],€4.50m,: Ablöse €600k,27,"Oct 24, 1986",Newcastle United
+Goalkeeper,right,,"Aug 29, 2012",Mark Bunn,"1,83m",49319,"['England', 'Ireland']",€1.50m,Blackburn Rovers,29,"Nov 16, 1984",Retired
+Goalkeeper,right,,"Jul 10, 2013",Carlo Nash,"1,97m",3804,['England'],€250k,Stoke City,40,"Sep 13, 1973",Retired
+Centre-Back,left,,"Aug 21, 2012",Sébastien Bassong,"1,87m",33951,"['Cameroon', 'France']",€4.50m,Tottenham Hotspur,27,"Jul 9, 1986",Retired
+Centre-Back,right,,"Jan 4, 2010",Russell Martin,"1,83m",67303,"['Scotland', 'England']",€3.00m,Peterborough United,28,"Jan 4, 1986",Retired
+Centre-Back,right,,"Jul 27, 2012",Michael Turner,"1,93m",12127,['England'],€3.00m,Sunderland AFC,30,"Nov 9, 1983",Retired
+Centre-Back,right,,"Jan 1, 2012",Ryan Bennett,"1,88m",67252,['England'],€2.50m,Peterborough United,24,"Mar 6, 1990",Retired
+Centre-Back,right,,"Jan 30, 2014",Joseph Yobo,"1,88m",3270,"['Nigeria', 'England']",€2.00m,Fenerbahce,33,"Sep 6, 1980",Retired
+Centre-Back,right,,"Jul 1, 2012",Adel Gafaiti,"1,92m",193080,"['Algeria', 'France']",,Rangers FC U20,19,"Jul 16, 1994",Maejo United
+Left-Back,left,,"Jul 10, 2013",Martin Olsson,"1,78m",38073,['Sweden'],€4.00m,Blackburn Rovers,26,"May 17, 1988",Malmö FF
+Left-Back,left,,"Jul 1, 2013",Javier Garrido,"1,79m",23218,['Spain'],€2.00m,: Ablöse €1.50m,29,"Mar 15, 1985",Retired
+Right-Back,right,,"Jul 1, 2012",Steven Whittaker,"1,85m",12704,['Scotland'],€2.00m,: Ablöse free transfer,30,"Jun 16, 1984",Retired
+Defensive Midfield,right,,"Jul 13, 2013",Leroy Fer,"1,88m",63342,"['Netherlands', 'Curacao']",€8.50m,Twente Enschede FC,24,"Jan 5, 1990",Al-Nasr SC (UAE)
+Defensive Midfield,right,,"Aug 24, 2012",Alexander Tettey,"1,81m",12384,['Norway'],€3.50m,Stade Rennais FC,28,"Apr 4, 1986",Retired
+Central Midfield,right,,"Jan 24, 2012",Jonathan Howson,"1,80m",45395,['England'],€3.50m,Leeds United,26,"May 21, 1988",Middlesbrough FC
+Central Midfield,left,,"Jul 1, 2011",Bradley Johnson,"1,83m",49327,['England'],€3.00m,Leeds United,27,"Apr 28, 1987",Retired
+Central Midfield,right,,"Jul 3, 2012",Jacob Butterfield,"1,80m",39827,['England'],€1.20m,Barnsley FC,24,"Jun 10, 1990",Gateshead FC
+Central Midfield,right,,"Jul 1, 2010",David Fox,"1,75m",4219,['England'],€750k,Colchester United,30,"Dec 13, 1983",Retired
+Right Midfield,right,,"Jul 1, 2011",Elliott Bennett,"1,79m",43193,"['Jamaica', 'England']",€1.50m,Brighton & Hove Albion,25,"Dec 18, 1988",Shifnal Town
+Right Midfield,right,,,Reece Hall-Johnson,"1,73m",199526,"['England', 'Jamaica']",,,19,"May 9, 1995",Barnet FC
+Left Midfield,right,,"Jan 13, 2014",Jonás Gutiérrez,"1,84m",26443,"['Argentina', 'Italy']",€3.00m,Newcastle United,30,"Jul 5, 1983",Retired
+Attacking Midfield,left,,"Jul 1, 2008",Wes Hoolahan,"1,68m",24589,['Ireland'],€2.00m,Blackpool FC,32,"May 20, 1982",Doncaster City
+Left Winger,both,,"Jul 6, 2011",Anthony Pilkington,"1,81m",67322,"['Ireland', 'England']",€4.50m,: Ablöse €2.25m,26,"Jun 6, 1988",Retired
+Left Winger,right,,"Jul 1, 2013",Josh Murphy,"1,73m",199528,"['England', 'Ireland']",€1.00m,Norwich City U18,19,"Feb 24, 1995",Portsmouth FC
+Right Winger,left,,"Jul 26, 2012",Robert Snodgrass,"1,82m",22614,['Scotland'],€5.50m,Leeds United,26,"Sep 7, 1987",Retired
+Right Winger,right,Hamstring injury - Return unknown,"Jul 4, 2013",Nathan Redmond,"1,73m",129078,"['England', 'Jamaica']",€3.50m,: Ablöse €2.30m,20,"Mar 6, 1994",Burnley FC
+Right Winger,right,,"Jan 4, 2013",Jacob Murphy,"1,79m",199527,"['England', 'Ireland']",€100k,Norwich City U18,19,"Feb 24, 1995",Newcastle United
+Centre-Forward,right,,"Jul 1, 2013",Ricky van Wolfswinkel,"1,86m",41355,['Netherlands'],€7.50m,Sporting CP,25,"Jan 27, 1989",Twente Enschede FC
+Centre-Forward,right,,"Jul 26, 2013",Gary Hooper,"1,77m",42513,['England'],€7.00m,Celtic FC,26,"Jan 26, 1988",Kettering Town
+Centre-Forward,right,,"Aug 21, 2013",Johan Elmander,"1,88m",4383,['Sweden'],€2.50m,Galatasaray,33,"May 27, 1981",Holmalunds IF
+Centre-Forward,left,,"Jan 31, 2013",Luciano Becchio,"1,87m",71020,"['Argentina', 'Italy']",€1.50m,Leeds United,30,"Dec 28, 1983",Retired
+Centre-Forward,,,"Jul 1, 2014",Jamar Loza,"1,78m",203464,"['Jamaica', 'England']",,Norwich City U21,20,"May 10, 1994",Leiston FC

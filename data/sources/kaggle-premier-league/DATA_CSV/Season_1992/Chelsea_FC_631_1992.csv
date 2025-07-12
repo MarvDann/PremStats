@@ -1,0 +1,36 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jul 1, 1987",Kevin Hitchcock,"1,85m",26168,['England'],Mansfield Town,30,"Oct 5, 1962",Retired
+Goalkeeper,,"Jan 14, 1989",Dave Beasant,"1,93m",10384,['England'],Newcastle United,34,"Mar 20, 1959",Retired
+Goalkeeper,,"Jul 1, 1992",Nick Colgan,"1,85m",12690,['Ireland'],Drogheda United FC,19,"Sep 19, 1973",Retired
+Goalkeeper,,"Sep 18, 1992",Alec Chamberlain,"1,88m",14000,['England'],: Ablöse free transfer,29,"Jun 20, 1964",Retired
+Goalkeeper,right,"Jan 1, 1993",Dmitriy Kharin,"1,88m",67109,['Russia'],: Ablöse €400k,24,"Aug 16, 1968",Retired
+Goalkeeper,,"Jan 26, 1993",Gerry Peyton,"1,88m",104115,"['Ireland', 'England']",: Ablöse ?,37,"May 20, 1956",Retired
+Centre-Back,right,"Jul 1, 1990",Ian Pearce,"1,85m",3879,['England'],: Ablöse -,19,"May 7, 1974",Retired
+Centre-Back,left,"Jul 1, 1990",Frank Sinclair,"1,78m",8056,"['Jamaica', 'England']",: Ablöse -,21,"Dec 3, 1971",Retired
+Centre-Back,right,"Dec 6, 1989",Erland Johnsen,"1,83m",95371,['Norway'],: Ablöse €335k,26,"Apr 5, 1967",Retired
+Centre-Back,right,"Jul 1, 1988",David Lee,"1,91m",107092,['England'],: Ablöse -,23,"Nov 26, 1969",Retired
+Centre-Back,,"Mar 2, 1989",Ken Monkou,"1,91m",109494,"['Netherlands', 'Suriname']",: Ablöse €113k,28,"Nov 29, 1964",Retired
+Centre-Back,,"Jul 1, 1991",Paul Elliott,"1,90m",222499,['England'],Celtic FC,29,"Mar 18, 1964",Retired
+Left-Back,left,"Jul 1, 1991",Andy Myers,"1,77m",15058,['England'],: Ablöse -,19,"Nov 3, 1973",Retired
+Left-Back,left,"Aug 8, 1997",Graeme Le Saux,"1,78m",3157,"['England', 'Jersey']",Blackburn Rovers,24,"Oct 17, 1968",Retired
+Left-Back,,"Sep 1, 1992",Anthony Barness,"1,78m",3288,['England'],Charlton Athletic,20,"Feb 25, 1973",Retired
+Left-Back,,"Jul 1, 1992",Mal Donaghy,,117755,['Northern Ireland'],: Ablöse €200k,35,"Sep 13, 1957",Retired
+Left-Back,left,"Jul 1, 1990",Darren Barnard,"1,78m",175578,"['Wales', 'England']",: Ablöse €120k,21,"Nov 30, 1971",Retired
+Right-Back,right,"Jan 19, 1987",Steve Clarke,"1,78m",107084,['Scotland'],St. Mirren FC,29,"Aug 29, 1963",Retired
+Right-Back,,"Apr 1, 1986",Gareth Hall,"1,73m",175580,"['Wales', 'England']",: Ablöse -,24,"Mar 20, 1969",Retired
+Defensive Midfield,right,"Jul 3, 1990",Dennis Wise,"1,68m",4006,['England'],: Ablöse €2.40m,26,"Dec 16, 1966",Retired
+Defensive Midfield,right,"Aug 30, 1991",Vinnie Jones,"1,85m",136042,"['Wales', 'England']",Sheffield United,28,"Jan 5, 1965",Retired
+Defensive Midfield,,"Sep 8, 1992",Nigel Spackman,,175584,['England'],: Ablöse €600k,32,"Dec 2, 1960",Retired
+Central Midfield,right,"Jul 1, 1990",Andy Townsend,"1,80m",102498,"['Ireland', 'England']",: Ablöse €1.38m,29,"Jul 23, 1963",Retired
+Central Midfield,right,"Jul 1, 1990",Eddie Newton,"1,80m",107094,['England'],: Ablöse -,21,"Dec 13, 1971",Retired
+Central Midfield,right,"Jun 13, 1989",Damian Matthew,"1,80m",222518,['England'],: Ablöse -,22,"Sep 23, 1970",Retired
+Right Midfield,,"Sep 25, 1992",David Hopkin,,107198,['Scotland'],Greenock Morton FC,22,"Aug 21, 1970",Retired
+Attacking Midfield,right,"Jul 1, 1989",Craig Burley,"1,85m",11319,['Scotland'],: Ablöse -,21,"Sep 24, 1971",Retired
+Right Winger,right,"Jul 1, 1989",Graham Stuart,"1,73m",3334,['England'],: Ablöse -,22,"Oct 24, 1970",Retired
+Centre-Forward,right,"Jul 1, 1992",Neil Shipperley,"1,85m",13801,['England'],: Ablöse -,18,"Oct 30, 1974",Retired
+Centre-Forward,right,"Feb 1, 1992",Tony Cascarino,"1,90m",15447,"['Ireland', 'England']",Celtic FC,30,"Sep 1, 1962",Retired
+Centre-Forward,,"Jul 1, 1992",John Spencer,,27004,['Scotland'],: Ablöse free transfer,22,"Sep 11, 1970",Retired
+Centre-Forward,,"Jul 1, 1992",Robert Fleck,"1,78m",175579,['Scotland'],: Ablöse ?,27,"Aug 11, 1965",Retired
+Centre-Forward,,"Aug 14, 1991",Joe Allon,"1,80m",176776,['England'],: Ablöse €287k,26,"Nov 12, 1966",Retired
+Centre-Forward,,"Aug 13, 1992",Mick Harford,"1,88m",176806,['England'],: Ablöse €350k,34,"Feb 12, 1959",Retired
+Centre-Forward,,"Mar 23, 1993",Steve Livingstone,"1,85m",176815,['England'],Blackburn Rovers,23,"Sep 8, 1969",Retired

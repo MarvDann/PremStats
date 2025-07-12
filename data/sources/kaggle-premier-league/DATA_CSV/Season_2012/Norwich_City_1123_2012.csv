@@ -1,0 +1,37 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 2010",John Ruddy,"1,92m",29712,['England'],€5.00m,: Ablöse €600k,26,"Oct 24, 1986",Newcastle United
+Goalkeeper,right,"Aug 29, 2012",Mark Bunn,"1,83m",49319,"['England', 'Ireland']",€1.50m,Blackburn Rovers,28,"Nov 16, 1984",Retired
+Goalkeeper,right,"Jan 23, 2013",Lee Camp,"1,83m",13443,"['Northern Ireland', 'England']",€1.25m,: Ablöse free transfer,28,"Aug 22, 1984",Retired
+Goalkeeper,right,"Jul 1, 2009",Declan Rudd,"1,91m",74088,['England'],€500k,Norwich City U18,22,"Jan 16, 1991",Retired
+Goalkeeper,left,"Jul 1, 2010",Jed Steer,"1,83m",110867,"['England', 'Scotland']",,Norwich City U18,20,"Sep 23, 1992",Peterborough United
+Centre-Back,left,"Aug 21, 2012",Sébastien Bassong,"1,87m",33951,"['Cameroon', 'France']",€4.50m,Tottenham Hotspur,26,"Jul 9, 1986",Retired
+Centre-Back,right,"Jan 1, 2012",Ryan Bennett,"1,88m",67252,['England'],€3.50m,Peterborough United,23,"Mar 6, 1990",Retired
+Centre-Back,right,"Jan 4, 2010",Russell Martin,"1,83m",67303,"['Scotland', 'England']",€3.00m,Peterborough United,27,"Jan 4, 1986",Retired
+Centre-Back,right,"Jul 27, 2012",Michael Turner,"1,93m",12127,['England'],€3.00m,Sunderland AFC,29,"Nov 9, 1983",Retired
+Centre-Back,right,"Jul 1, 2010",Elliott Ward,"1,85m",15838,['England'],€2.00m,Coventry City,28,"Jan 19, 1985",Retired
+Centre-Back,right,"Jan 1, 2011",Leon Barnett,"1,85m",33484,"['England', 'Jamaica']",€2.00m,West Bromwich Albion,27,"Nov 30, 1985",Retired
+Left-Back,left,"Jul 1, 2013",Javier Garrido,"1,79m",23218,['Spain'],€2.00m,: Ablöse €1.50m,28,"Mar 15, 1985",Retired
+Left-Back,left,"Jan 1, 2011",Marc Tierney,"1,83m",67346,"['England', 'Ireland']",€1.00m,Colchester United,27,"Aug 23, 1985",Retired
+Right-Back,right,"Jul 1, 2012",Steven Whittaker,"1,85m",12704,['Scotland'],€2.00m,: Ablöse free transfer,29,"Jun 16, 1984",Retired
+Right-Back,right,,George Francomb,"1,80m",130755,['England'],,,21,"Sep 8, 1991",Dorking Wanderers
+Defensive Midfield,right,"Aug 24, 2012",Alexander Tettey,"1,81m",12384,['Norway'],€3.50m,Stade Rennais FC,27,"Apr 4, 1986",Retired
+Central Midfield,right,"Jan 24, 2012",Jonathan Howson,"1,80m",45395,['England'],€3.00m,Leeds United,25,"May 21, 1988",Middlesbrough FC
+Central Midfield,left,"Jul 1, 2011",Bradley Johnson,"1,83m",49327,['England'],€2.50m,Leeds United,26,"Apr 28, 1987",Retired
+Central Midfield,left,"Jul 1, 2010",Andrew Surman,"1,78m",29975,"['England', 'South Africa']",€2.00m,Wolverhampton Wanderers,26,"Aug 20, 1986",Retired
+Central Midfield,left,"Jan 31, 2007",Simon Lappin,"1,80m",14792,['Scotland'],€1.00m,St. Mirren FC,30,"Jan 25, 1983",Retired
+Central Midfield,right,"Jul 1, 2009",Korey Smith,"1,83m",80435,"['England', 'Jamaica']",€1.00m,Norwich City U18,22,"Jan 31, 1991",Cambridge United
+Central Midfield,right,"Jul 1, 2010",David Fox,"1,75m",4219,['England'],€1.00m,Colchester United,29,"Dec 13, 1983",Retired
+Central Midfield,right,"Jul 3, 2012",Jacob Butterfield,"1,80m",39827,['England'],€1.00m,Barnsley FC,23,"Jun 10, 1990",Gateshead FC
+Right Midfield,right,"Jul 1, 2011",Elliott Bennett,"1,79m",43193,"['Jamaica', 'England']",€2.00m,Brighton & Hove Albion,24,"Dec 18, 1988",Shifnal Town
+Attacking Midfield,left,"Jul 1, 2008",Wes Hoolahan,"1,68m",24589,['Ireland'],€2.00m,Blackpool FC,31,"May 20, 1982",Doncaster City
+Left Winger,both,"Jul 6, 2011",Anthony Pilkington,"1,81m",67322,"['Ireland', 'England']",€4.50m,: Ablöse €2.25m,25,"Jun 6, 1988",Retired
+Left Winger,right,"Jul 1, 2013",Josh Murphy,"1,73m",199528,"['England', 'Ireland']",,Norwich City U18,18,"Feb 24, 1995",Portsmouth FC
+Right Winger,left,"Jul 26, 2012",Robert Snodgrass,"1,82m",22614,['Scotland'],€6.00m,Leeds United,25,"Sep 7, 1987",Retired
+Centre-Forward,right,"Jul 24, 2009",Grant Holt,"1,83m",13412,['England'],€4.00m,: Ablöse €475k,32,"Apr 12, 1981",Retired
+Centre-Forward,left,"Jan 31, 2013",Luciano Becchio,"1,87m",71020,"['Argentina', 'Italy']",€2.50m,Leeds United,29,"Dec 28, 1983",Retired
+Centre-Forward,right,"Jul 1, 2011",James Vaughan,"1,81m",30471,"['England', 'Jamaica']",€1.50m,: Ablöse €2.30m,24,"Jul 14, 1988",Retired
+Centre-Forward,right,"Jul 1, 2011",Steve Morison,"1,88m",104725,"['Wales', 'England']",€1.50m,: Ablöse €3.15m,29,"Aug 29, 1983",Retired
+Centre-Forward,right,"Jul 17, 2010",Simeon Jackson,"1,72m",44913,"['Canada', 'Jamaica']",€1.50m,Gillingham FC,26,"Mar 28, 1987",Retired
+Centre-Forward,right,"Jan 30, 2013",Kei Kamara,"1,88m",39049,"['Sierra Leone', 'United States']",€500k,Sporting Kansas City,28,"Sep 1, 1984",Los Angeles FC
+Centre-Forward,right,"Jul 1, 2006",Chris Martin,"1,84m",46154,"['Scotland', 'England']",€500k,Norwich City U18,24,"Nov 4, 1988",Bristol Rovers
+Centre-Forward,right,"Aug 31, 2012",Harry Kane,"1,88m",132098,['England'],€500k,Tottenham Hotspur,19,"Jul 28, 1993",Bayern Munich

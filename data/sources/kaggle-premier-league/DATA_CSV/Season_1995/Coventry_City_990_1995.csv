@@ -1,0 +1,39 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jul 1, 1984",Steve Ogrizovic,,109480,"['England', 'Serbia']",: Ablöse €108k,38,"Sep 12, 1957",Retired
+Goalkeeper,,"Mar 2, 1995",John Filan,"1,88m",13516,['Australia'],Cambridge United,26,"Feb 8, 1970",Retired
+Goalkeeper,,"Jul 1, 1992",Jonathan Gould,"1,85m",13788,"['Scotland', 'England']",: Ablöse free transfer,27,"Jul 18, 1968",Retired
+Goalkeeper,,"Jul 1, 1995",Peter Shilton,,101383,['England'],: Ablöse free transfer,46,"Sep 18, 1949",Retired
+Centre-Back,,"Jul 1, 1995",Paul Williams,"1,83m",3323,['England'],: Ablöse €1.14m,25,"Mar 26, 1971",Retired
+Centre-Back,,"Mar 1, 1993",David Rennie,"1,83m",222532,['Scotland'],: Ablöse €120k,31,"Aug 29, 1964",Retired
+Centre-Back,,"Aug 1, 1992",David Busst,"1,85m",222492,['England'],Moor Green FC (- 2007),29,"Jun 30, 1967",Retired
+Centre-Back,right,"Nov 1, 1995",Richard Shaw,"1,75m",10034,['England'],: Ablöse €1.50m,27,"Sep 11, 1968",Retired
+Centre-Back,,"Aug 28, 1994",Gary Gillespie,"1,88m",145817,['Scotland'],Celtic FC,35,"Jul 5, 1960",Retired
+Centre-Back,,"Jan 1, 1996",Liam Daish,"1,88m",222496,"['Ireland', 'England']",: Ablöse €1.80m,27,"Oct 23, 1968",Retired
+Centre-Back,,"Dec 8, 1995",Chris Whyte,"1,86m",175891,['England'],: Ablöse ?,34,"Sep 2, 1961",Retired
+Centre-Back,,,Adam Willis,,322198,['England'],,19,"Sep 21, 1976",Retired
+Left-Back,left,"Mar 2, 1995",David Burrows,"1,78m",109481,['England'],: Ablöse €1.65m,27,"Oct 25, 1968",Retired
+Left-Back,left,"Feb 21, 2005",Marcus Hall,"1,85m",13578,['England'],Stoke City,20,"Mar 24, 1976",Retired
+Left-Back,,"Jul 1, 1993",Steve Morgan,"1,80m",222522,['England'],Plymouth Argyle,27,"Sep 19, 1968",Retired
+Left-Back,,"Oct 31, 1995",Sam Shilton,"1,78m",16168,['England'],Plymouth Argyle,17,"Jul 21, 1978",Retired
+Right-Back,right,"Mar 1, 1985",Brian Borrows,"1,78m",177179,['England'],: Ablöse ?,35,"Dec 20, 1960",Retired
+Right-Back,right,"Aug 1, 1995",Paul Telfer,"1,75m",3362,['Scotland'],: Ablöse €1.65m,24,"Oct 21, 1971",Retired
+Right-Back,,"Oct 1, 1993",Ally Pickering,,222528,['England'],Rotherham United,29,"Jun 22, 1967",Retired
+Defensive Midfield,right,"Jul 1, 1992",Willie Boland,"1,75m",12684,['Ireland'],Coventry City U18,20,"Aug 6, 1975",Retired
+Central Midfield,left,"Jul 1, 1994",Paul Cook,"1,82m",39322,['England'],: Ablöse ?,29,"Feb 22, 1967",Retired
+Central Midfield,,"Feb 16, 1995",Kevin Richardson,"1,75m",109495,['England'],: Ablöse €380k,33,"Dec 4, 1962",Retired
+Central Midfield,,"Oct 1, 1993",Julian Darby,"1,83m",222497,['England'],: Ablöse €180k,28,"Oct 3, 1967",Retired
+Central Midfield,,"Aug 1, 1995",Lorcan Costello,"1,75m",229872,['Ireland'],Coventry City U18,19,"Nov 11, 1976",Retired
+Right Midfield,right,"Mar 22, 1995",Gordon Strachan,"1,68m",116156,['Scotland'],: Ablöse free transfer,39,"Feb 9, 1957",Retired
+Left Midfield,left,"Jul 1, 1995",John Salako,"1,75m",13423,"['England', 'Nigeria']",: Ablöse free transfer,27,"Feb 11, 1969",Retired
+Left Midfield,right,"Mar 1, 1996",Ronnie Ekelund,"1,79m",168498,['Denmark'],: Ablöse ?,23,"Aug 21, 1972",Retired
+Attacking Midfield,both,"Jul 1, 1995",Nii Lamptey,"1,75m",853,['Ghana'],: Ablöse free transfer,21,"Dec 30, 1974",Retired
+Left Winger,right,"Jul 1, 1995",Isaías,"1,78m",176034,"['Brazil', 'Portugal']",: Ablöse €565k,32,"Nov 17, 1963",Retired
+Left Winger,right,"Mar 12, 1993",Leigh Jenkinson,"1,83m",157677,"['England', 'Wales']",: Ablöse €450k,26,"Jul 9, 1969",Retired
+Right Winger,,"Jul 1, 1992",John Williams,,222545,['England'],: Ablöse €300k,28,"May 11, 1968",Retired
+Right Winger,right,"Jul 1, 1994",Andrew Ducros,"1,68m",109483,['England'],Coventry City U18,18,"Sep 16, 1977",Retired
+Second Striker,right,"Jul 1, 1996",Eoin Jess,"1,78m",10009,['Scotland'],Aberdeen FC,25,"Dec 13, 1970",Retired
+Centre-Forward,right,"Aug 16, 1991",Peter Ndlovu,"1,73m",13534,['Zimbabwe'],The Highlanders,23,"Feb 25, 1973",Retired
+Centre-Forward,right,"Sep 9, 1994",Dion Dublin,"1,88m",3763,['England'],: Ablöse €3.00m,27,"Apr 22, 1969",Retired
+Centre-Forward,right,"Dec 16, 1995",Noel Whelan,"1,88m",3315,['England'],: Ablöse €3.00m,21,"Dec 30, 1974",Retired
+Centre-Forward,right,"Jul 1, 1995",Iyseden Christie,"1,83m",98157,['England'],Coventry City U18,19,"Nov 14, 1976",Retired
+Centre-Forward,,,Jamie Barnwell-Edinboro,,230314,['England'],,20,"Dec 26, 1975",Hall Road Rangers

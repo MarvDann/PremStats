@@ -1,0 +1,35 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Nov 1, 1997",Jussi Jääskeläinen,"1,91m",3692,['Finland'],€5.45m,: Ablöse €150k,32,"Apr 19, 1975",Retired
+Goalkeeper,right,"Jul 1, 2005",Ian Walker,"1,85m",4137,['England'],€1.15m,: Ablöse free transfer,35,"Oct 31, 1971",Retired
+Goalkeeper,right,"Jul 1, 2006",Ali Al-Habsi,"1,94m",26633,['Oman'],€380k,Bolton Wanderers U23,25,"Dec 30, 1981",Retired
+Goalkeeper,,"Jul 1, 2004",Chris Howarth,"1,86m",34659,['England'],€150k,Bolton Wanderers U18,21,"May 23, 1986",Unknown
+Goalkeeper,right,"Jul 1, 2006",Przemyslaw Kazimierczak,"1,91m",42576,['Poland'],€50k,Bolton Wanderers U18,19,"May 5, 1988",Zawisza Rzgow
+Goalkeeper,,,Sam Ashton,"1,80m",94599,['England'],,,20,"Oct 9, 1986",Bury FC
+Centre-Back,right,"Jul 29, 2004",Tal Ben Haim,"1,83m",20714,['Israel'],€4.70m,: Ablöse €225k,25,"Mar 31, 1982",Retired
+Centre-Back,right,"Jul 14, 2006",Abdoulaye Méïté,"1,85m",5315,"[""Cote d'Ivoire"", 'France']",€4.60m,Olympique Marseille,26,"Oct 6, 1980",Retired
+Centre-Back,right,"Jul 1, 2006",Abdoulaye Faye,"1,87m",6107,"['Senegal', 'France']",€3.00m,: Ablöse €3.00m,29,"Feb 26, 1978",Retired
+Centre-Back,right,"Jan 1, 2007",César Martín,"1,85m",7487,['Spain'],€1.75m,: Ablöse free transfer,30,"Apr 3, 1977",Retired
+Centre-Back,right,"Jan 1, 2007",Lubomir Michalik,"1,93m",46591,['Slovakia'],€300k,FC Senec (1990 - 2008),23,"Aug 13, 1983",OFC Matuskovo
+Centre-Back,right,"Jul 1, 2004",Jaroslaw Fojut,"1,88m",34652,['Poland'],€200k,MSP Szamotuly,19,"Oct 17, 1987",Retired
+Centre-Back,both,"Jul 1, 2006",Blazej Augustyn,"1,91m",42029,['Poland'],€75k,Bolton Wanderers U18,19,"Jan 26, 1988",Zenit Międzybórz
+Left-Back,left,"Jul 1, 2006",Quinton Fortune,"1,82m",3541,"['South Africa', 'England']",€2.10m,Manchester United,30,"May 21, 1977",Retired
+Left-Back,,"Jul 1, 1998",Ricardo Gardner,,6264,['Jamaica'],€2.00m,Harbour View FC,28,"Sep 25, 1978",Retired
+Left-Back,left,"Jul 1, 2004",Johann Smith,"1,80m",16887,['United States'],€100k,Oakwood SC U19,20,"Apr 25, 1987",Retired
+Left-Back,left,,Scott Jamieson,"1,78m",52498,"['Australia', 'Scotland']",,,18,"Oct 13, 1988",Retired
+Right-Back,right,"Aug 1, 2003",Nicky Hunt,"1,91m",16835,['England'],€2.00m,Bolton Wanderers U23,23,"Sep 3, 1983",Retired
+Right-Back,right,"Jul 1, 2005",Joey O'Brien,"1,80m",34672,['Ireland'],€1.45m,Bolton Wanderers U18,21,"Feb 17, 1986",Retired
+Right-Back,right,"Jul 1, 2006",James Sinclair,"1,80m",50350,"['England', 'Northern Ireland']",€50k,Bolton Wanderers U18,19,"Oct 22, 1987",Retired
+Defensive Midfield,right,"Jul 1, 2003",Iván Campo,"1,85m",3274,['Spain'],€2.70m,Real Madrid,33,"Feb 21, 1974",Retired
+Defensive Midfield,,"Jul 1, 2006",Idan Tal,,24485,['Israel'],€925k,: Ablöse free transfer,31,"Sep 13, 1975",Retired
+Central Midfield,,"Jul 1, 2004",Gary Speed,,3459,['Wales'],€900k,Newcastle United,37,"Sep 8, 1969",---
+Central Midfield,right,"Aug 1, 2006",Andranik Teymourian,"1,80m",39938,['Iran'],€600k,FC Aboomoslem,24,"Mar 6, 1983",Retired
+Right Midfield,right,"Jan 31, 2007",David Thompson,"1,70m",4127,['England'],€2.75m,: Ablöse free transfer,29,"Sep 12, 1977",Retired
+Attacking Midfield,right,"Jul 1, 1999",Kevin Nolan,"1,83m",3950,['England'],€6.70m,Bolton Wanderers U18,25,"Jun 24, 1982",Retired
+Right Winger,right,"Jul 1, 2003",Stelios Giannakopoulos,"1,72m",4254,['Greece'],€3.25m,: Ablöse free transfer,32,"Jul 12, 1974",Retired
+Right Winger,right,"Jul 1, 2004",Ricardo Vaz Tê,"1,88m",9413,"['Portugal', 'Guinea-Bissau']",€1.40m,Bolton Wanderers U18,20,"Oct 1, 1986",Retired
+Centre-Forward,right,"Aug 25, 2006",Nicolas Anelka,"1,86m",3226,"['France', 'Martinique']",€12.50m,Fenerbahce,28,"Mar 14, 1979",Retired
+Centre-Forward,right,"Jul 1, 2005",El-Hadji Diouf,"1,80m",3604,"['Senegal', 'France']",€5.75m,: Ablöse €4.80m,26,"Jan 15, 1981",Retired
+Centre-Forward,right,"Jul 23, 2003",Kevin Davies,"1,83m",4114,['England'],€3.80m,Southampton FC,30,"Mar 26, 1977",Retired
+Centre-Forward,right,"Jul 1, 2001",Henrik Pedersen,"1,85m",3947,['Denmark'],€1.50m,Silkeborg IF,32,"Jun 10, 1975",Retired
+Centre-Forward,,"Jul 1, 2005",Bédi Buval,,39932,"['Martinique', 'France']",€50k,Bolton Wanderers U18,21,"Jun 16, 1986",Retired
+Centre-Forward,right,,Zoltán Harsányi,"1,93m",50590,"['Slovakia', 'Hungary']",€50k,,20,"Jun 1, 1987",Rapid Ohrady

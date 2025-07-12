@@ -1,0 +1,42 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Aug 29, 2014",Alex McCarthy,"1,93m",95976,['England'],€2.50m,Reading FC,25,"Dec 3, 1989",Southampton FC
+Goalkeeper,right,"Jul 1, 2012",Rob Green,"1,91m",11680,['England'],€1.00m,: Ablöse free transfer,35,"Jan 18, 1980",Retired
+Goalkeeper,right,"Jul 1, 2011",Brian Murphy,"1,85m",4190,['Ireland'],€500k,Ipswich Town,32,"May 7, 1983",Retired
+Centre-Back,right,"Jul 22, 2014",Steven Caulker,"1,91m",121280,"['Sierra Leone', 'England']",€7.50m,: Ablöse €10.75m,23,"Dec 29, 1991",Ankara Keciörengücü
+Centre-Back,right,"Jan 1, 2012",Nedum Onuoha,"1,83m",28810,"['England', 'Nigeria']",€2.00m,: Ablöse €4.70m,28,"Nov 12, 1986",Retired
+Centre-Back,left,"Aug 28, 2014",Jack Robinson,"1,80m",128909,['England'],€1.00m,: Ablöse €1.25m,21,"Sep 1, 1993",Sheffield United
+Centre-Back,right,"Jul 17, 2014",Rio Ferdinand,"1,89m",3235,['England'],€1.00m,Manchester United,36,"Nov 7, 1978",Retired
+Centre-Back,left,"Jul 1, 2010",Clint Hill,"1,83m",13583,['England'],€500k,: Ablöse free transfer,36,"Oct 19, 1978",Retired
+Centre-Back,right,"Jul 15, 2013",Richard Dunne,"1,88m",3807,['Ireland'],€500k,: Ablöse free transfer,35,"Sep 21, 1979",Retired
+Centre-Back,right,"Jul 1, 2011",Michael Harriman,"1,71m",155233,"['Ireland', 'England']",€100k,Queens Park Rangers U18,22,"Oct 23, 1992",AFC Rushden & Diamonds
+Centre-Back,right,"Jul 1, 2009",Max Ehmer,"1,88m",158718,['Germany'],€100k,Queens Park Rangers U18,23,"Feb 3, 1992",Gillingham FC
+Centre-Back,left,"Jul 1, 2014",Cole Kpekawa,"1,91m",347895,"['England', 'Ghana']",,Queens Park Rangers U18,19,"May 20, 1996",Oxford City
+Left-Back,left,"Aug 1, 2011",Armand Traoré,"1,84m",33783,"['Senegal', 'France']",€2.00m,: Ablöse €1.35m,25,"Oct 8, 1989",Retired
+Left-Back,left,"Jan 30, 2013",Seok-yeong Yun,"1,83m",126643,"['Korea, South']",€1.50m,: Ablöse ?,25,"Feb 13, 1990",Gangwon FC
+Right-Back,right,"Aug 6, 2014",Mauricio Isla,"1,76m",43722,['Chile'],€9.00m,: Ablöse €1.20m,27,"Jun 12, 1988",CSD Colo-Colo
+Right-Back,right,"Jul 1, 2013",Danny Simpson,"1,76m",37442,"['England', 'Jamaica']",€2.00m,Newcastle United,28,"Jan 4, 1987",Retired
+Right-Back,right,"Jan 1, 2015",Darnell Furlong,"1,83m",351755,"['England', 'Montserrat']",,Queens Park Rangers U21,19,"Oct 31, 1995",West Bromwich Albion
+Defensive Midfield,right,"Aug 20, 2014",Leroy Fer,"1,88m",63342,"['Netherlands', 'Curacao']",€8.50m,: Ablöse €10.00m,25,"Jan 5, 1990",Al-Nasr SC (UAE)
+Defensive Midfield,right,"Jul 1, 2012",Samba Diakité,"1,86m",136589,"['Mali', 'France']",€2.50m,: Ablöse €4.00m,26,"Jan 24, 1989",Retired
+Defensive Midfield,right,"Jul 23, 2013",Karl Henry,"1,84m",13582,"['England', 'Jamaica']",€1.50m,Wolverhampton Wanderers,32,"Nov 26, 1982",Retired
+Defensive Midfield,right,"Mar 28, 2014",Brandon Comley,"1,80m",362809,"['Montserrat', 'England']",,Queens Park Rangers U18,19,"Nov 18, 1995",Walsall FC
+Central Midfield,right,"Sep 1, 2014",Sandro,"1,88m",74590,"['Brazil', 'Portugal']",€9.00m,Tottenham Hotspur,26,"Mar 15, 1989",Harborough Town
+Central Midfield,right,"Aug 5, 2014",Jordon Mutch,"1,84m",57207,['England'],€6.00m,: Ablöse €7.57m,23,"Dec 2, 1991",Gold Coast Knights
+Central Midfield,right,"Aug 5, 2010",Adel Taarabt,"1,85m",45287,"['Morocco', 'France']",€6.00m,Tottenham Hotspur,26,"May 24, 1989",Al-Nasr SC (UAE)
+Central Midfield,right,"Aug 26, 2011",Joey Barton,"1,80m",3292,['England'],€2.50m,Newcastle United,32,"Sep 2, 1982",Retired
+Central Midfield,left,"Jul 1, 2009",Alejandro Faurlín,"1,85m",88067,"['Argentina', 'Italy']",€2.50m,Instituto ACC,28,"Aug 9, 1986",Retired
+Central Midfield,left,"Jul 1, 2010",Michael Doughty,"1,85m",173832,"['Wales', 'England']",€50k,Queens Park Rangers U18,22,"Nov 20, 1992",Retired
+Central Midfield,,,Aaron Mitchell,,369085,['England'],,,19,"Apr 14, 1996",Without Club
+Right Midfield,,"Jul 1, 2012",Frankie Sutherland,"1,77m",148911,"['Ireland', 'England']",,Queens Park Rangers U18,21,"Dec 6, 1993",Retired
+Right Midfield,right,"Jul 1, 2013",Michael Petrasso,"1,68m",189039,"['Canada', 'Italy']",,Queens Park Rangers U18,19,"Jul 9, 1995",Without Club
+Right Midfield,right,"Jul 1, 2015",Reece Grego-Cox,"1,78m",264199,"['Ireland', 'England']",,Queens Park Rangers U18,18,"Nov 12, 1996",Dagenham & Redbridge FC
+Left Midfield,right,"Jul 1, 2011",Bruno Andrade,"1,75m",169633,"['Portugal', 'Cape Verde']",,Queens Park Rangers U18,21,"Oct 2, 1993",Kettering Town
+Attacking Midfield,both,"Sep 1, 2014",Niko Kranjcar,"1,86m",16746,['Croatia'],€2.50m,Dynamo Kyiv,30,"Aug 13, 1984",Retired
+Left Winger,right,"Jul 27, 2012",Junior Hoilett,"1,74m",58993,"['Canada', 'Jamaica']",€5.00m,Blackburn Rovers,25,"Jun 5, 1990",Hibernian FC
+Right Winger,right,"Aug 23, 2013",Matt Phillips,"1,83m",77274,"['Scotland', 'England']",€3.00m,Blackpool FC,24,"Mar 13, 1991",Oxford United
+Right Winger,right,"Aug 1, 2011",Shaun Wright-Phillips,"1,66m",3467,"['England', 'Grenada']",€500k,: Ablöse €4.50m,33,"Oct 25, 1981",Retired
+Centre-Forward,right,"Jan 16, 2013",Loïc Rémy,"1,85m",45121,"['France', 'Martinique']",€12.00m,Olympique Marseille,28,"Jan 2, 1987",Retired
+Centre-Forward,right,"Jul 1, 2021",Charlie Austin,"1,88m",129627,['England'],€9.00m,West Bromwich Albion,25,"Jul 5, 1989",AFC Totton
+Centre-Forward,right,"Aug 21, 2014",Eduardo Vargas,"1,74m",89718,['Chile'],€6.00m,: Ablöse €1.40m,25,"Nov 20, 1989",Clube Atlético Mineiro
+Centre-Forward,right,"Jan 6, 2015",Mauro Zárate,"1,75m",26456,"['Argentina', 'Chile']",€3.50m,: Ablöse free transfer,28,"Mar 18, 1987",Without Club
+Centre-Forward,left,"Jan 31, 2012",Bobby Zamora,"1,84m",4205,"['England', 'Trinidad and Tobago']",€1.00m,Fulham FC,34,"Jan 16, 1981",Retired

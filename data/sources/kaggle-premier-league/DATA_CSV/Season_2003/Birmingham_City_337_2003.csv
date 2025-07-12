@@ -1,0 +1,31 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Dec 1, 1993",Ian Bennett,"1,83m",3299,['England'],Peterborough United,32,"Oct 10, 1971",Retired
+Goalkeeper,right,"Mar 22, 2004",Maik Taylor,"1,93m",3723,"['Northern Ireland', 'Germany']",Fulham FC,32,"Sep 4, 1971",Retired
+Goalkeeper,right,"Jul 1, 2003",Colin Doyle,"1,96m",28728,['Ireland'],Birmingham City U18,19,"Jun 12, 1985",Bradford City
+Goalkeeper,,"Jul 1, 2001",Nico Vaesen,"1,91m",3737,['Belgium'],: Ablöse free transfer,34,"Sep 28, 1969",Retired
+Centre-Back,right,"Jul 1, 2002",Kenny Cunningham,"1,83m",3937,['Ireland'],: Ablöse free transfer,33,"Jun 28, 1971",Retired
+Centre-Back,right,"Feb 16, 1998",Darren Purse,"1,88m",3106,['England'],: Ablöse €850k,27,"Feb 14, 1977",Retired
+Centre-Back,right,"Jan 1, 2004",Martin Taylor,"1,95m",3822,['England'],Blackburn Rovers,24,"Nov 9, 1979",Retired
+Centre-Back,left,"Jan 22, 2003",Matthew Upson,"1,85m",3273,['England'],: Ablöse €1.40m,25,"Apr 18, 1979",Retired
+Centre-Back,right,"Mar 22, 2002",Olivier Tébily,"1,83m",3931,"[""Cote d'Ivoire"", 'France']",Celtic FC,28,"Dec 19, 1975",Retired
+Left-Back,left,"Jul 1, 1996",Martin Grainger,"1,78m",3934,['England'],: Ablöse €600k,31,"Aug 23, 1972",Retired
+Left-Back,left,"Jan 1, 2003",Jamie Clapham,"1,75m",3938,['England'],Ipswich Town,28,"Dec 7, 1975",Retired
+Right-Back,right,"Jan 1, 2002",Jeff Kenna,"1,80m",3933,['Ireland'],Blackburn Rovers,33,"Aug 27, 1970",Retired
+Defensive Midfield,right,"Jul 1, 2002",Aliou Cissé,"1,80m",3796,"['Senegal', 'France']",: Ablöse €2.25m,28,"Mar 24, 1976",Retired
+Defensive Midfield,both,"Jul 1, 2002",Robbie Savage,"1,83m",3797,['Wales'],: Ablöse €1.88m,29,"Oct 18, 1974",Retired
+Midfielder,,"Jul 1, 2003",Carl Motteram,"1,73m",36589,['England'],Birmingham City U18,19,"Sep 3, 1984",Without Club
+Central Midfield,right,"Mar 8, 2002",Damien Johnson,"1,73m",3940,['Northern Ireland'],Blackburn Rovers,25,"Nov 18, 1978",Retired
+Central Midfield,left,"Jul 1, 2001",Darren Carter,"1,88m",3929,['England'],Birmingham City U18,20,"Dec 18, 1983",Retired
+Right Midfield,left,"Jan 1, 2003",Stephen Clemence,"1,80m",3641,['England'],: Ablöse €1.35m,26,"Mar 31, 1978",Retired
+Left Midfield,left,"Jul 1, 1999",Stan Lazaridis,"1,75m",3747,"['Australia', 'Greece']",: Ablöse €2.25m,31,"Aug 16, 1972",Retired
+Attacking Midfield,right,"Jul 1, 1996",Paul Devlin,"1,73m",3716,"['Scotland', 'England']",: Ablöse ?,32,"Apr 14, 1972",Retired
+Attacking Midfield,right,"Jul 1, 1996",Bryan Hughes,"1,78m",3939,['England'],Wrexham AFC,28,"Jun 19, 1976",Retired
+Attacking Midfield,right,"Jul 7, 2003",David Dunn,"1,78m",4243,['England'],Blackburn Rovers,24,"Dec 27, 1979",Retired
+Right Winger,right,"Jul 1, 2002",Jovan Kirovski,"1,80m",3474,"['United States', 'North Macedonia']",: Ablöse free transfer,28,"Mar 18, 1976",Retired
+Centre-Forward,right,"Jul 1, 2005",Mikael Forssell,"1,84m",3127,"['Finland', 'Germany']",Chelsea FC,23,"Mar 15, 1981",Retired
+Centre-Forward,right,"Jul 1, 2000",Geoff Horsfield,"1,83m",3792,['England'],: Ablöse €3.38m,30,"Nov 1, 1973",Retired
+Centre-Forward,right,"Feb 8, 2002",Stern John,"1,85m",3793,['Trinidad and Tobago'],: Ablöse €200k,27,"Oct 30, 1976",Retired
+Centre-Forward,right,"Jul 1, 2002",Clinton Morrison,"1,78m",3145,"['Ireland', 'England']",: Ablöse €6.38m,25,"May 14, 1979",Retired
+Centre-Forward,right,"Jan 2, 2003",Christophe Dugarry,"1,88m",3237,['France'],: Ablöse free transfer,32,"Mar 24, 1972",Retired
+Centre-Forward,right,"Jul 1, 2003",Andy Barrowman,"1,83m",15163,['Scotland'],Birmingham City U18,19,"Nov 27, 1984",Retired
+Centre-Forward,,"Jul 23, 2003",Luciano Figueroa,,7133,"['Argentina', 'Italy']",CA Rosario Central,23,"May 19, 1981",Retired

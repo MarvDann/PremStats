@@ -1,0 +1,35 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,,"Jul 1, 2004",Petr Cech,"1,96m",5658,['Czech Republic'],€25.00m,,Stade Rennais FC,31,"May 20, 1982",Retired
+Goalkeeper,right,,"Jul 2, 2009",Ross Turnbull,"1,93m",29159,['England'],€1.50m,,Middlesbrough FC,28,"Jan 4, 1985",Retired
+Goalkeeper,right,,"Jul 1, 2006",Hilário,"1,89m",13886,['Portugal'],€500k,,CD Nacional,37,"Oct 21, 1975",Retired
+Centre-Back,right,,"Aug 31, 2016",David Luiz,"1,89m",46741,"['Brazil', 'Portugal']",€25.00m,,: Ablöse €35.00m,26,"Apr 22, 1987",CR Flamengo
+Centre-Back,right,,"Jan 16, 2012",Gary Cahill,"1,93m",27511,['England'],€19.00m,,: Ablöse €8.40m,27,"Dec 19, 1985",Retired
+Centre-Back,right,,"Aug 24, 2012",César Azpilicueta,"1,78m",57500,['Spain'],€14.00m,,Olympique Marseille,23,"Aug 28, 1989",Atlético de Madrid
+Centre-Back,right,,"Jan 1, 2000",John Terry,"1,87m",3160,['England'],€12.00m,,: Ablöse -,32,"Dec 7, 1980",Retired
+Centre-Back,left,,"Jan 1, 2013",Nathan Aké,"1,80m",177476,"['Netherlands', ""Cote d'Ivoire""]",,,Chelsea FC U18,18,"Feb 18, 1995",Manchester City
+Centre-Back,right,"Achilles tendon irritation - Return expected on Jan 1, 2025","Jul 1, 2015",Andreas Christensen,"1,87m",196948,['Denmark'],,,Chelsea FC U21,17,"Apr 10, 1996",FC Barcelona
+Left-Back,left,,"Aug 31, 2006",Ashley Cole,"1,76m",3182,"['England', 'Barbados']",€8.00m,,: Ablöse €7.40m,32,"Dec 20, 1980",Retired
+Left-Back,left,Knee surgery - Return unknown,"Jul 1, 2007",Ryan Bertrand,"1,79m",40611,['England'],€5.00m,,Chelsea FC U18,23,"Aug 5, 1989",Retired
+Right-Back,right,,"Jan 15, 2008",Branislav Ivanovic,"1,85m",36827,['Serbia'],€24.00m,,: Ablöse €12.00m,29,"Feb 22, 1984",Retired
+Right-Back,right,,"Jul 1, 2004",Paulo Ferreira,"1,83m",9832,['Portugal'],€750k,,: Ablöse €20.00m,34,"Jan 18, 1979",Retired
+Defensive Midfield,right,,"Jul 19, 2006",John Obi Mikel,"1,88m",30739,"['Nigeria', 'England']",€23.00m,,Lyn 1896 FK,26,"Apr 22, 1987",Retired
+Defensive Midfield,right,,"Aug 19, 2005",Michael Essien,"1,78m",5588,"['Ghana', 'France']",€10.00m,,: Ablöse €38.00m,30,"Dec 3, 1982",Retired
+Defensive Midfield,right,,"Aug 4, 2011",Oriol Romeu,"1,83m",66100,['Spain'],€7.50m,,FC Barcelona B,21,"Sep 24, 1991",Girona FC
+Defensive Midfield,right,,"Jul 1, 2012",Nathaniel Chalobah,"1,85m",128900,"['England', 'Sierra Leone']",€2.00m,,Chelsea FC U18,18,"Dec 12, 1994",Sheffield Wednesday
+Central Midfield,right,,"Aug 13, 2010",Ramires,"1,79m",54170,['Brazil'],€27.00m,,SL Benfica,26,"Mar 24, 1987",Retired
+Central Midfield,both,,"Aug 31, 2011",Raúl Meireles,"1,79m",13168,['Portugal'],€12.00m,,: Ablöse €13.50m,30,"Mar 17, 1983",Retired
+Central Midfield,left,,"Jul 1, 2010",Josh McEachran,"1,78m",128905,"['England', 'Scotland']",€4.50m,,Chelsea FC Reserves,20,"Mar 1, 1993",Oxford United
+Central Midfield,right,,"Jul 1, 2001",Frank Lampard,"1,84m",3163,['England'],€4.00m,,: Ablöse €16.00m,35,"Jun 20, 1978",Retired
+Central Midfield,left,,,George Saville,"1,76m",141573,"['Northern Ireland', 'England']",,,,20,"Jun 1, 1993",Millwall FC
+Attacking Midfield,left,,"Aug 24, 2011",Juan Mata,"1,70m",44068,['Spain'],€42.00m,,: Ablöse €26.70m,25,"Apr 28, 1988",Western Sydney Wanderers
+Attacking Midfield,right,,"Jul 25, 2012",Oscar,"1,80m",85314,"['Brazil', 'Italy']",€32.00m,,Sport Club Internacional,21,"Sep 9, 1991",Shanghai Port
+Attacking Midfield,right,,"Jul 1, 2012",Marko Marin,"1,70m",35251,"['Germany', 'Serbia']",€7.00m,,SV Werder Bremen,24,"Mar 13, 1989",Retired
+Attacking Midfield,right,,"Jan 20, 2012",Lucas Piazón,"1,82m",176485,"['Brazil', 'Italy']",€5.00m,,São Paulo Futebol Clube,19,"Jan 20, 1994",Avs Futebol
+Left Winger,right,,"Jul 1, 2012",Eden Hazard,"1,75m",50202,['Belgium'],€40.00m,,: Ablöse €35.00m,22,"Jan 7, 1991",Retired
+Left Winger,left,,"Jul 9, 2007",Florent Malouda,"1,77m",5461,"['France', 'French Guiana']",€2.00m,,: Ablöse €19.00m,33,"Jun 13, 1980",Retired
+Right Winger,right,,"Aug 24, 2012",Victor Moses,"1,77m",59866,"['Nigeria', 'England']",€15.00m,,Wigan Athletic,22,"Dec 12, 1990",Luton Town
+Right Winger,right,,"Jul 2, 2010",Yossi Benayoun,"1,75m",7858,['Israel'],€2.50m,,: Ablöse €7.00m,33,"May 5, 1980",Retired
+Centre-Forward,right,,"Jan 31, 2011",Fernando Torres,"1,86m",7767,['Spain'],€28.00m,,: Ablöse €58.50m,29,"Mar 20, 1984",Retired
+Centre-Forward,right,,"Jan 4, 2013",Demba Ba,"1,89m",40205,"['Senegal', 'France']",€22.00m,,Newcastle United,28,"May 25, 1985",Retired
+Centre-Forward,left,,"Aug 12, 2021",Romelu Lukaku,"1,91m",96341,"['Belgium', 'DR Congo']",€19.00m,"Returned after loan spell with AS Roma; date: Jun 30, 2024; fee: End of loan",Inter Milan,20,"May 13, 1993",SSC Napoli
+Centre-Forward,left,,"Jul 3, 2009",Daniel Sturridge,"1,82m",47082,['England'],€15.00m,,: Ablöse €7.25m,23,"Sep 1, 1989",Retired

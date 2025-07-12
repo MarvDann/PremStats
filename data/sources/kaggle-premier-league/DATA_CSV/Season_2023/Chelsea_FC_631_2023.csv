@@ -1,0 +1,57 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Aug 5, 2023",Robert Sánchez,"1,97m",403151,"['Spain', 'England']",€20.00m,,Brighton & Hove Albion,26,"Nov 18, 1997",Chelsea FC
+Goalkeeper,right,,"Aug 26, 2023",Djordje Petrovic,"1,94m",465555,['Serbia'],€20.00m,,New England Revolution,24,"Oct 8, 1999",RC Strasbourg Alsace
+Goalkeeper,right,"No eligibility - until Dec 31, 2024 - UEFA Conference League","Jul 28, 2021",Marcus Bettinelli,"1,93m",116648,"['England', 'Italy']",€1.00m,,Fulham FC,32,"May 24, 1992",Chelsea FC
+Goalkeeper,right,,"Jul 1, 2023",Lucas Bergström,"2,05m",490606,['Finland'],€700k,"Returned after loan spell with IF Brommapojkarna; date: Jun 18, 2024; fee: End of loan",Chelsea FC U21,21,"Sep 5, 2002",Chelsea FC
+Goalkeeper,right,,,Teddy Sharman-Lowe,"1,89m",731466,['England'],€300k,,,21,"Mar 30, 2003",Doncaster Rovers
+Goalkeeper,,unknown injury - Return unknown,"Jul 1, 2024",Eddie Beach,"1,96m",732120,"['Wales', 'England']",€250k,,Chelsea FC U21,20,"Oct 9, 2003",Crawley Town
+Goalkeeper,right,,,Ted Curd,"1,90m",857792,['England'],€150k,,,18,"Feb 14, 2006",Hampton & Richmond Borough
+Goalkeeper,,,,Max Merrick,,827435,['England'],€100k,,,18,"Nov 10, 2005",Chelsea FC U21
+Centre-Back,left,,"Jul 1, 2022",Levi Colwill,"1,87m",614258,['England'],€50.00m,,Chelsea FC U21,21,"Feb 26, 2003",Chelsea FC
+Centre-Back,right,,"Aug 4, 2023",Axel Disasi,"1,90m",386047,"['France', 'DR Congo']",€40.00m,,AS Monaco,26,"Mar 11, 1998",Chelsea FC
+Centre-Back,left,,"Jan 5, 2023",Benoît Badiashile,"1,94m",463603,"['France', 'DR Congo']",€30.00m,,AS Monaco,23,"Mar 26, 2001",Chelsea FC
+Centre-Back,right,"No eligibility - until Dec 31, 2024 - UEFA Conference League","Aug 31, 2022",Wesley Fofana,"1,86m",475411,"['France', ""Cote d'Ivoire""]",€25.00m,,Leicester City,23,"Dec 17, 2000",Chelsea FC
+Centre-Back,right,,"Jul 1, 2021",Trevoh Chalobah,"1,92m",346314,"['England', 'Sierra Leone']",€13.00m,,Chelsea FC U23,24,"Jul 5, 1999",Crystal Palace
+Centre-Back,right,,"Jul 1, 2023",Alfie Gilchrist,"1,83m",790992,['England'],€5.00m,,Chelsea FC U21,20,"Nov 28, 2003",Sheffield United
+Centre-Back,left,,"Jul 1, 2024",Bashir Humphreys,"1,86m",612517,"['England', 'Uganda']",€4.80m,,Chelsea FC U21,21,"Mar 15, 2003",Burnley FC
+Centre-Back,left,,"Aug 27, 2020",Malang Sarr,"1,83m",344596,"['France', 'Senegal']",€4.00m,,OGC Nice,25,"Jan 23, 1999",RC Lens
+Centre-Back,right,,"Aug 28, 2020",Thiago Silva,"1,81m",29241,"['Brazil', 'France']",€1.00m,,: Ablöse free transfer,39,"Sep 22, 1984",Fluminense Football Club
+Centre-Back,right,,,Josh Brooking,,566832,"['England', 'South Africa']",€500k,,,21,"Sep 1, 2002",Dorking Wanderers
+Centre-Back,right,,,Billy Gee,,796299,['England'],€250k,,,18,"Jul 30, 2005",Norwich City U21
+Centre-Back,,,,Harrison Murray-Campbell,"1,84m",985691,['England'],€250k,,,17,"Aug 4, 2006",Chelsea FC U21
+Left-Back,left,,"Jul 1, 2023",Ian Maatsen,"1,78m",485585,"['Netherlands', 'Suriname']",€40.00m,"Returned after loan spell with Borussia Dortmund; date: Jun 30, 2024; fee: End of loan",Chelsea FC U21,22,"Mar 10, 2002",Aston Villa
+Left-Back,left,"No eligibility - until Dec 31, 2024 - UEFA Conference League","Aug 26, 2020",Ben Chilwell,"1,80m",316125,"['England', 'New Zealand']",€28.00m,,Leicester City,27,"Dec 21, 1996",Chelsea FC
+Left-Back,left,,"Aug 5, 2022",Marc Cucurella,"1,73m",284857,['Spain'],€25.00m,,Brighton & Hove Albion,25,"Jul 22, 1998",Chelsea FC
+Left-Back,left,,,Ishé Samuels-Smith,"1,86m",922698,"['England', 'Jamaica']",€500k,,,18,"Jun 5, 2006",Chelsea FC U21
+Left-Back,left,,,Zak Sturge,,801472,"['England', 'Guyana']",€250k,,,20,"Jun 15, 2004",Chelsea FC U21
+Left-Back,left,,,Dylan Williams,"1,77m",732117,['England'],€200k,,,20,"Sep 13, 2003",Burton Albion
+Right-Back,right,Team captain,"Jul 1, 2019",Reece James,"1,80m",472423,['England'],€40.00m,,Chelsea FC U23,24,"Dec 8, 1999",Chelsea FC
+Right-Back,right,,"Jan 29, 2023",Malo Gusto,"1,78m",620322,"['France', 'Martinique']",€35.00m,,Olympique Lyon,21,"May 19, 2003",Chelsea FC
+Right-Back,right,,,Josh Acheampong,"1,85m",1004708,"['England', 'Ghana']",€300k,,,18,"May 5, 2006",Chelsea FC U21
+Defensive Midfield,right,,"Aug 14, 2023",Moisés Caicedo,"1,78m",687626,['Ecuador'],€75.00m,,Brighton & Hove Albion,22,"Nov 2, 2001",Chelsea FC
+Defensive Midfield,right,"No eligibility - until Dec 31, 2024 - UEFA Conference League","Aug 18, 2023",Roméo Lavia,"1,81m",628451,['Belgium'],€35.00m,,Southampton FC,20,"Jan 6, 2004",Chelsea FC
+Defensive Midfield,right,,"Aug 1, 2023",Lesley Ugochukwu,"1,90m",711999,"['France', 'Nigeria']",€25.00m,,Stade Rennais FC,20,"Mar 26, 2004",Southampton FC
+Defensive Midfield,,,,Ollie Harrison,,1071819,['England'],€300k,,,16,"Aug 7, 2007",Chelsea FC U21
+Central Midfield,right,,"Jan 31, 2023",Enzo Fernández,"1,78m",648195,['Argentina'],€75.00m,,SL Benfica,23,"Jan 17, 2001",Chelsea FC
+Central Midfield,right,,"Jul 1, 2022",Conor Gallagher,"1,82m",488362,"['England', 'Ireland']",€50.00m,,Chelsea FC U21,24,"Feb 6, 2000",Atlético de Madrid
+Central Midfield,right,,"Jan 1, 2023",Andrey Santos,"1,80m",743600,['Brazil'],€15.00m,,Clube de Regatas Vasco da Gama,20,"May 3, 2004",RC Strasbourg Alsace
+Central Midfield,right,,"Aug 4, 2022",Carney Chukwuemeka,"1,87m",659459,"['England', 'Nigeria']",€15.00m,,: Ablöse €18.00m,20,"Oct 20, 2003",Chelsea FC
+Central Midfield,right,,"Aug 19, 2022",Cesare Casadei,"1,85m",622380,['Italy'],€10.00m,,Inter Milan,21,"Jan 10, 2003",Chelsea FC
+Central Midfield,right,,,Alex Matos,"1,75m",670850,"['England', 'Ghana']",€1.20m,,,19,"Oct 3, 2004",Chelsea FC U21
+Central Midfield,right,,,Michael Golding,"1,80m",936842,"['England', 'Ireland']",€300k,,,18,"May 23, 2006",Leicester City
+Central Midfield,left,,,Jimi Tauriainen,"1,88m",681615,['Finland'],€200k,,,20,"Mar 8, 2004",Chelsea FC U21
+Central Midfield,,,,Kiano Dyer,,954125,"['England', 'Montserrat']",,,,17,"Nov 21, 2006",Chelsea FC U21
+Attacking Midfield,left,"No eligibility - until Dec 31, 2024 - UEFA Conference League","Sep 1, 2023",Cole Palmer,"1,85m",568177,['England'],€80.00m,,Manchester City,22,"May 6, 2002",Chelsea FC
+Attacking Midfield,right,,"Jul 1, 2023",Christopher Nkunku,"1,77m",344381,"['France', 'DR Congo']",€65.00m,,RB Leipzig,26,"Nov 14, 1997",Chelsea FC
+Attacking Midfield,right,,,Leo Castledine,"1,75m",796303,['England'],€900k,,,18,"Aug 20, 2005",Shrewsbury Town
+Left Winger,right,,"Jul 13, 2022",Raheem Sterling,"1,70m",134425,"['England', 'Jamaica']",€35.00m,,Manchester City,29,"Dec 8, 1994",Arsenal FC
+Left Winger,right,,"Jan 15, 2023",Mykhaylo Mudryk,"1,75m",537860,['Ukraine'],€35.00m,,Shakhtar Donetsk,23,"Jan 5, 2001",Chelsea FC
+Left Winger,left,,"Jul 1, 2023",Diego Moreira,"1,79m",655006,"['Portugal', 'Belgium']",€3.00m,,SL Benfica B,19,"Aug 6, 2004",RC Strasbourg Alsace
+Left Winger,,,,Tyrique George,,936874,"['England', 'Nigeria']",,,,18,"Feb 4, 2006",Chelsea FC U21
+Right Winger,left,,"Jan 20, 2023",Noni Madueke,"1,82m",503987,"['England', 'Nigeria']",€28.00m,,PSV Eindhoven,22,"Mar 10, 2002",Chelsea FC
+Centre-Forward,right,,"Jul 1, 2023",Nicolas Jackson,"1,87m",776890,"['Senegal', 'The Gambia']",€35.00m,,Villarreal CF,23,"Jun 20, 2001",Chelsea FC
+Centre-Forward,right,Achilles tendon problems - Return unknown,"Jul 1, 2022",Armando Broja,"1,91m",571743,"['Albania', 'England']",€22.00m,,Chelsea FC U21,22,"Sep 10, 2001",Everton FC
+Centre-Forward,right,,"Jan 1, 2023",David Datro Fofana,"1,80m",787232,"[""Cote d'Ivoire""]",€12.00m,,Molde FK,21,"Dec 22, 2002",Göztepe
+Centre-Forward,right,,"Aug 24, 2023",Deivid Washington,"1,87m",1082850,['Brazil'],€9.00m,,Santos FC,19,"Jun 5, 2005",Chelsea FC
+Centre-Forward,right,,,Mason Burstow,"1,87m",874080,"['England', 'Jamaica']",€1.80m,,,20,"Aug 4, 2003",Hull City
+Centre-Forward,,,,Ronnie Stutter,,825024,['England'],€200k,,,19,"Jan 6, 2005",Burton Albion

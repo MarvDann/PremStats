@@ -1,0 +1,43 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2012",Emiliano Martínez,"1,95m",111873,"['Argentina', 'Spain']",€30.00m,,Arsenal FC U21,28,"Sep 2, 1992",Aston Villa
+Goalkeeper,right,,"Jul 1, 2018",Bernd Leno,"1,90m",72476,['Germany'],€22.00m,,Bayer 04 Leverkusen,29,"Mar 4, 1992",Fulham FC
+Goalkeeper,right,,"Jan 22, 2021",Mathew Ryan,"1,84m",128969,"['Australia', 'Scotland']",€6.00m,,Brighton & Hove Albion,29,"Apr 8, 1992",AS Roma
+Goalkeeper,right,,"Sep 21, 2020",Rúnar Alex Rúnarsson,"1,86m",205657,['Iceland'],€1.50m,,Dijon FCO,26,"Feb 18, 1995",FC Copenhagen
+Goalkeeper,right,,"Jul 1, 2022",Karl Hein,"1,93m",493513,['Estonia'],€450k,,Arsenal FC U21,19,"Apr 13, 2002",Real Valladolid CF
+Goalkeeper,right,,"Jul 1, 2015",Matt Macey,"2,01m",220491,['England'],€300k,,Arsenal FC U21,26,"Sep 9, 1994",Colchester United
+Goalkeeper,right,muscular problems - Return unknown,"Jul 1, 2018",Dejan Iliev,"1,95m",205757,"['North Macedonia', 'England']",€300k,,Arsenal FC U23,26,"Feb 25, 1995",UTA Arad
+Goalkeeper,left,,,James Hillson,"1,84m",503765,['England'],,,,20,"Jan 14, 2001",FC Salisbury
+Goalkeeper,right,,"Jul 1, 2021",Arthur Okonkwo,"1,98m",503769,"['England', 'Nigeria']",,,Arsenal FC U23,19,"Sep 9, 2001",Wrexham AFC
+Centre-Back,left,,"Sep 1, 2020",Gabriel Magalhães,"1,90m",435338,['Brazil'],€25.00m,,LOSC Lille,23,"Dec 19, 1997",Arsenal FC
+Centre-Back,right,,"Jul 25, 2019",William Saliba,"1,92m",495666,"['France', 'Cameroon']",€18.00m,,: Ablöse €30.00m,20,"Mar 24, 2001",Arsenal FC
+Centre-Back,right,,"Jul 22, 2016",Rob Holding,"1,89m",253341,['England'],€18.00m,,Bolton Wanderers,25,"Sep 20, 1995",Crystal Palace
+Centre-Back,right,,"Jul 28, 2014",Calum Chambers,"1,82m",215118,['England'],€12.00m,,Southampton FC,26,"Jan 20, 1995",Cardiff City
+Centre-Back,left,,"Jul 1, 2020",Pablo Marí,"1,93m",210178,['Spain'],€7.00m,,CR Flamengo,27,"Aug 31, 1993",AC Monza
+Centre-Back,left,"Muscle injury - Return expected on Nov 18, 2024","Jul 1, 2017",Sead Kolasinac,"1,83m",94005,"['Bosnia-Herzegovina', 'Germany']",€6.50m,,FC Schalke 04,28,"Jun 20, 1993",Atalanta BC
+Centre-Back,right,,"Aug 9, 2019",David Luiz,"1,89m",46741,"['Brazil', 'Portugal']",€4.00m,,Chelsea FC,34,"Apr 22, 1987",CR Flamengo
+Centre-Back,right,,"Aug 30, 2016",Shkodran Mustafi,"1,84m",88590,"['Germany', 'Albania']",€2.50m,,Valencia CF,29,"Apr 17, 1992",Retired
+Left-Back,left,Hamstring injury - Return unknown,"Aug 8, 2019",Kieran Tierney,"1,80m",300716,"['Scotland', 'Isle of Man']",€32.00m,"Returned after loan spell with Real Sociedad; date: Jun 30, 2024; fee: End of loan",Celtic FC,24,"Jun 5, 1997",Arsenal FC
+Left-Back,left,"Cruciate ligament tear - Return expected on Dec 8, 2024",,Joel López,"1,80m",586736,['Spain'],,,,19,"Mar 31, 2002",RC Celta Fortuna
+Right-Back,right,,"Jul 1, 2014",Héctor Bellerín,"1,78m",191217,['Spain'],€25.00m,,Arsenal FC U21,26,"Mar 19, 1995",Real Betis Balompié
+Right-Back,right,,"Jul 1, 2017",Ainsley Maitland-Niles,"1,80m",285845,"['England', 'Jamaica']",€16.00m,,Arsenal FC U23,23,"Aug 29, 1997",Olympique Lyon
+Right-Back,right,,"Jul 1, 2020",Cédric Soares,"1,71m",112988,"['Portugal', 'Germany']",€6.00m,,Southampton FC,29,"Aug 31, 1991",Without Club
+Defensive Midfield,right,,"Oct 5, 2020",Thomas Partey,"1,85m",230784,['Ghana'],€40.00m,,: Ablöse €50.00m,28,"Jun 13, 1993",Arsenal FC
+Defensive Midfield,left,,"Jul 1, 2016",Granit Xhaka,"1,86m",111455,['Switzerland'],€22.00m,,Borussia Mönchengladbach,28,"Sep 27, 1992",Bayer 04 Leverkusen
+Defensive Midfield,right,,"Jan 14, 2016",Mohamed Elneny,"1,79m",160438,['Egypt'],€10.00m,,: Ablöse €12.50m,28,"Jul 11, 1992",Al-Jazira Club
+Central Midfield,right,,"Jul 25, 2019",Dani Ceballos,"1,79m",319745,['Spain'],€27.00m,,Real Madrid,24,"Aug 7, 1996",Real Madrid
+Central Midfield,right,,"Jul 1, 2019",Joe Willock,"1,86m",340329,"['England', 'Montserrat']",€16.00m,,Arsenal FC U23,21,"Aug 20, 1999",Newcastle United
+Central Midfield,right,,,Miguel Azeez,"1,80m",547533,"['England', 'Nigeria']",€500k,,,18,"Sep 20, 2002",PAS Giannina
+Central Midfield,left,,,Ben Cottrell,"1,71m",470597,['England'],€200k,,,19,"Oct 31, 2001",Hemel Hempstead Town
+Central Midfield,right,,,James Olayinka,"1,75m",506965,"['England', 'Nigeria']",,,,20,"Oct 5, 2000",Without Club
+Attacking Midfield,left,Team captain; Ankle sprain - Return unknown,"Aug 20, 2021",Martin Ødegaard,"1,78m",316264,['Norway'],€40.00m,,Real Madrid,22,"Dec 17, 1998",Arsenal FC
+Attacking Midfield,right,,"Aug 1, 2020",Emile Smith Rowe,"1,82m",392765,['England'],€18.00m,,Arsenal FC U23,20,"Jul 28, 2000",Fulham FC
+Left Winger,right,,"Jul 2, 2019",Gabriel Martinelli,"1,78m",655488,"['Brazil', 'Italy']",€22.00m,,Ituano Futebol Clube (SP),20,"Jun 18, 2001",Arsenal FC
+Left Winger,right,"Muscle injury - Return expected on Nov 29, 2024","Aug 14, 2020",Willian,"1,75m",52769,['Brazil'],€9.00m,,Chelsea FC,32,"Aug 9, 1988",Olympiacos Piraeus
+Right Winger,left,"Leg injury - Return expected on Nov 18, 2024","Jul 1, 2019",Bukayo Saka,"1,78m",433177,"['England', 'Nigeria']",€65.00m,,Arsenal FC U23,19,"Sep 5, 2001",Arsenal FC
+Right Winger,left,,"Aug 1, 2019",Nicolas Pépé,"1,83m",343052,"[""Cote d'Ivoire"", 'France']",€35.00m,,LOSC Lille,26,"May 29, 1995",Villarreal CF
+Right Winger,right,,"Jul 1, 2019",Reiss Nelson,"1,75m",340325,"['England', 'Jamaica']",€9.00m,,Arsenal FC U23,21,"Dec 10, 1999",Fulham FC
+Centre-Forward,right,,"Jul 5, 2017",Alexandre Lacazette,"1,75m",93720,"['France', 'Guadeloupe']",€28.00m,,: Ablöse €53.00m,30,"May 28, 1991",Olympique Lyon
+Centre-Forward,right,,"Jan 31, 2018",Pierre-Emerick Aubameyang,"1,87m",58864,"['Gabon', 'France']",€25.00m,,Borussia Dortmund,32,"Jun 18, 1989",Al-Qadsiah FC
+Centre-Forward,right,,"Jan 1, 2019",Eddie Nketiah,"1,75m",340324,"['England', 'Ghana']",€16.00m,,Arsenal FC U23,22,"May 30, 1999",Crystal Palace
+Centre-Forward,right,Shoulder injury - Return unknown,"Jul 1, 2022",Folarin Balogun,"1,78m",503770,"['United States', 'England']",€4.00m,,Arsenal FC U21,19,"Jul 3, 2001",AS Monaco
+Centre-Forward,right,,,Tyreece John-Jules,"1,83m",503768,"['England', 'Dominica']",,,,20,"Feb 14, 2001",Crawley Town

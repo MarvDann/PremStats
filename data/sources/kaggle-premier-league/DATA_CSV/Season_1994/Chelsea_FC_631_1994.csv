@@ -1,0 +1,32 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jul 1, 1987",Kevin Hitchcock,"1,85m",26168,['England'],Mansfield Town,32,"Oct 5, 1962",Retired
+Goalkeeper,right,"Jan 1, 1993",Dmitriy Kharin,"1,88m",67109,['Russia'],: Ablöse €400k,26,"Aug 16, 1968",Retired
+Goalkeeper,,"Jul 1, 1992",Nick Colgan,"1,85m",12690,['Ireland'],Drogheda United FC,21,"Sep 19, 1973",Retired
+Goalkeeper,right,"Aug 1, 1994",Alan Judge,"1,80m",175599,['England'],Hereford United (- 2014),35,"May 14, 1960",Retired
+Centre-Back,,"Aug 1, 1993",Jakob Kjeldbjerg,"1,88m",175581,['Denmark'],Silkeborg IF,25,"Oct 21, 1969",Retired
+Centre-Back,right,"Dec 6, 1989",Erland Johnsen,"1,83m",95371,['Norway'],: Ablöse €335k,28,"Apr 5, 1967",Retired
+Centre-Back,left,"Jul 1, 1990",Frank Sinclair,"1,78m",8056,"['Jamaica', 'England']",: Ablöse -,23,"Dec 3, 1971",Retired
+Centre-Back,right,"Jul 1, 1988",David Lee,"1,91m",107092,['England'],: Ablöse -,25,"Nov 26, 1969",Retired
+Centre-Back,left,"Jul 1, 1993",Andy Dow,"1,75m",170389,['Scotland'],Dundee FC,22,"Feb 7, 1973",Retired
+Centre-Back,both,"Jul 1, 1993",Michael Duberry,"1,85m",3633,"['England', 'Montserrat']",: Ablöse -,19,"Oct 14, 1975",Retired
+Left-Back,left,"Jul 1, 1991",Andy Myers,"1,77m",15058,['England'],: Ablöse -,21,"Nov 3, 1973",Retired
+Left-Back,left,"Jul 1, 1994",Scott Minto,"1,78m",3884,['England'],Charlton Athletic,23,"Aug 6, 1971",Retired
+Left-Back,left,"Jul 1, 1990",Darren Barnard,"1,78m",175578,"['Wales', 'England']",: Ablöse €120k,23,"Nov 30, 1971",Retired
+Left-Back,,"Sep 1, 1992",Anthony Barness,"1,78m",3288,['England'],Charlton Athletic,22,"Feb 25, 1973",Retired
+Right-Back,right,"Jan 19, 1987",Steve Clarke,"1,78m",107084,['Scotland'],St. Mirren FC,31,"Aug 29, 1963",Retired
+Right-Back,,"Apr 1, 1986",Gareth Hall,"1,73m",175580,"['Wales', 'England']",: Ablöse -,26,"Mar 20, 1969",Retired
+Defensive Midfield,right,"Jul 3, 1990",Dennis Wise,"1,68m",4006,['England'],: Ablöse €2.40m,28,"Dec 16, 1966",Retired
+Defensive Midfield,,"Sep 8, 1992",Nigel Spackman,,175584,['England'],: Ablöse €600k,34,"Dec 2, 1960",Retired
+Central Midfield,right,"Aug 12, 1993",Gavin Peacock,"1,73m",175582,['England'],Newcastle United,27,"Nov 18, 1967",Retired
+Central Midfield,right,"Jul 1, 1990",Eddie Newton,"1,80m",107094,['England'],: Ablöse -,23,"Dec 13, 1971",Retired
+Central Midfield,right,"Jul 1, 1993",Muzzy Izzet,"1,77m",3123,"['Türkiye', 'England']",: Ablöse -,20,"Oct 31, 1974",Retired
+Right Midfield,,"Sep 25, 1992",David Hopkin,,107198,['Scotland'],Greenock Morton FC,24,"Aug 21, 1970",Retired
+Left Midfield,left,"Jul 1, 1994",Graham Rix,"1,78m",130306,['England'],Without Club,37,"Oct 23, 1957",Retired
+Attacking Midfield,right,"Jul 1, 1989",Craig Burley,"1,85m",11319,['Scotland'],: Ablöse -,23,"Sep 24, 1971",Retired
+Attacking Midfield,,"Jul 1, 1993",Glenn Hoddle,,117193,['England'],Swindon Town,37,"Oct 27, 1957",Retired
+Attacking Midfield,,"Aug 1, 1994",David Rocastle,"1,75m",175583,['England'],: Ablöse €1.48m,28,"May 2, 1967",---
+Centre-Forward,,"Jul 1, 1992",John Spencer,,27004,['Scotland'],: Ablöse free transfer,24,"Sep 11, 1970",Retired
+Centre-Forward,right,"Jul 1, 1994",Paul Furlong,"1,83m",13726,"['England', 'Montserrat']",: Ablöse €3.50m,26,"Oct 1, 1968",Retired
+Centre-Forward,,"Oct 28, 1993",Mark Stein,"1,67m",107104,"['England', 'South Africa']",: Ablöse €1.66m,29,"Jan 29, 1966",Retired
+Centre-Forward,right,"Jul 1, 1992",Neil Shipperley,"1,85m",13801,['England'],: Ablöse -,20,"Oct 30, 1974",Retired
+Centre-Forward,,"Jul 1, 1992",Robert Fleck,"1,78m",175579,['Scotland'],: Ablöse ?,29,"Aug 11, 1965",Retired

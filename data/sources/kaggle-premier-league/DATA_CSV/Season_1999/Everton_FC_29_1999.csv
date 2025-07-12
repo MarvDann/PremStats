@@ -1,0 +1,40 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jul 1, 1997",Dean Delany,"1,83m",24584,['Ireland'],: Ablöse -,19,"Sep 15, 1980",Retired
+Goalkeeper,left,"Nov 1, 1997",Thomas Myhre,"1,88m",3566,['Norway'],Viking FK,26,"Oct 16, 1973",Retired
+Goalkeeper,left,"Jul 1, 1996",Paul Gerrard,"1,88m",3584,['England'],: Ablöse €1.50m,27,"Jan 22, 1973",Retired
+Goalkeeper,right,"Jul 1, 1998",Steve Simonsen,"1,87m",3583,"['England', 'Denmark']",: Ablöse €4.95m,21,"Apr 3, 1979",Retired
+Centre-Back,,"Jul 1, 1999",Richard Gough,,101124,['Scotland'],: Ablöse ?,38,"Apr 5, 1962",Retired
+Centre-Back,,"Aug 22, 1986",Dave Watson,,135911,['England'],: Ablöse €1.85m,38,"Nov 20, 1961",Retired
+Centre-Back,right,"Feb 1, 1999",David Weir,"1,91m",3312,['Scotland'],Heart of Midlothian FC,30,"May 10, 1970",Retired
+Centre-Back,right,"Jul 1, 1996",Richard Dunne,"1,88m",3807,['Ireland'],: Ablöse -,20,"Sep 21, 1979",Retired
+Centre-Back,right,"Jan 1, 2002",Peter Clarke,"1,88m",25201,['England'],Everton FC Reserves,18,"Jan 3, 1982",Warrington Town
+Centre-Back,right,"Jul 1, 1998",Adam Farley,,107733,['England'],: Ablöse -,20,"Jan 12, 1980",Retired
+Left-Back,left,"Jul 1, 1997",Michael Ball,"1,78m",9423,['England'],: Ablöse -,20,"Oct 2, 1979",Retired
+Left-Back,left,"Aug 1, 1998",David Unsworth,"1,87m",3272,['England'],: Ablöse €4.60m,26,"Oct 16, 1973",Retired
+Left-Back,left,"Dec 1, 1996",Terry Phelan,"1,72m",102495,"['Ireland', 'England']",: Ablöse ?,33,"Mar 16, 1967",Retired
+Right-Back,right,"Jul 1, 1998",Alec Cleland,"1,75m",173069,['Scotland'],: Ablöse ?,29,"Dec 10, 1970",Retired
+Right-Back,,"Aug 1, 1999",Abel Xavier,,3211,"['Portugal', 'Mozambique']",: Ablöse €2.10m,27,"Nov 30, 1972",Retired
+Right-Back,right,"Jul 1, 2000",Tony Hibbert,"1,73m",3614,['England'],: Ablöse -,19,"Feb 20, 1981",Retired
+Right-Back,right,"Jan 1, 1998",John O'Kane,"1,78m",150458,['England'],: Ablöse €400k,25,"Nov 15, 1974",Retired
+Right-Back,right,"Jul 1, 1997",Carl Regan,"1,83m",16001,['England'],: Ablöse -,19,"Sep 9, 1980",Retired
+Defensive Midfield,left,"Jul 1, 2000",Stephen Hughes,"1,83m",10400,['England'],: Ablöse €3.50m,23,"Sep 18, 1976",Retired
+Defensive Midfield,right,"Jul 1, 1993",Tony Grant,"1,77m",9976,['England'],: Ablöse -,25,"Nov 14, 1974",Retired
+Central Midfield,right,"Mar 25, 1999",Scot Gemmill,"1,81m",3617,['Scotland'],: Ablöse €300k,29,"Jan 2, 1971",Retired
+Central Midfield,both,"Nov 28, 1997",Mitch Ward,,199621,['England'],Sheffield United,29,"Jun 19, 1971",Retired
+Central Midfield,left,,Matt McKay,"1,71m",43168,['Australia'],,17,"Jan 11, 1983",Capalaba Bulldogs
+Right Midfield,right,"Feb 19, 1999",Peter Degn,"1,78m",22461,['Denmark'],Aarhus GF,23,"Apr 6, 1977",Retired
+Left Midfield,,"Jul 1, 1997",Gareth Farrelly,,9878,['Ireland'],: Ablöse €1.05m,24,"Aug 28, 1975",Retired
+Left Midfield,,"Jul 1, 1998",John Collins,,3663,['Scotland'],: Ablöse €3.75m,32,"Jan 31, 1968",Retired
+Left Midfield,,"Oct 1, 1996",Nick Barmby,,3222,['England'],: Ablöse €8.00m,26,"Feb 11, 1974",Retired
+Left Midfield,,"Aug 5, 1999",Mark Pembridge,,3615,['Wales'],SL Benfica,29,"Nov 29, 1970",Retired
+Left Midfield,left,"Jul 1, 2000",Kevin McLeod,"1,80m",3619,"['England', 'Scotland']",: Ablöse -,19,"Sep 12, 1980",Retired
+Attacking Midfield,right,"Feb 26, 1998",Don Hutchison,"1,85m",3880,"['Scotland', 'England']",Sheffield United,29,"May 9, 1971",Retired
+Attacking Midfield,right,"Aug 15, 1997",Danny Williamson,"1,78m",197252,['England'],: Ablöse ?,26,"Dec 5, 1973",Retired
+Attacking Midfield,right,"Jul 1, 1998",Jamie Milligan,"1,70m",105200,['England'],: Ablöse -,20,"Jan 3, 1980",Retired
+Right Winger,right,"Jul 1, 1996",Danny Cadamarteri,"1,75m",4220,"['England', 'Jamaica']",: Ablöse -,20,"Oct 12, 1979",Retired
+Second Striker,right,"Mar 14, 2000",Mark Hughes,"1,78m",8022,['Wales'],Southampton FC,36,"Nov 1, 1963",Retired
+Centre-Forward,right,"Jul 23, 1999",Kevin Campbell,"1,83m",3468,"['England', 'Jamaica']",Trabzonspor,30,"Feb 4, 1970",---
+Centre-Forward,right,"Sep 1, 2003",Francis Jeffers,"1,78m",3186,['England'],: Ablöse free transfer,19,"Jan 25, 1981",Retired
+Centre-Forward,right,"Jul 1, 1996",Phil Jevons,"1,78m",47982,['England'],: Ablöse -,20,"Aug 1, 1979",Retired
+Centre-Forward,,"Nov 11, 1999",Joe-Max Moore,,1529,['United States'],: Ablöse free transfer,29,"Feb 23, 1971",Retired
+Centre-Forward,both,"Sep 1, 1999",Tommy Johnson,"1,78m",13794,['England'],Celtic FC,29,"Jan 15, 1971",Retired

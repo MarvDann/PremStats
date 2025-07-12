@@ -1,0 +1,34 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jul 1, 1997",Jörgen Nielsen,"1,86m",23085,['Denmark'],Hvidovre IF,27,"May 6, 1971",Retired
+Goalkeeper,,"Jul 6, 1992",David James,,3646,"['England', 'Jamaica']",: Ablöse €1.40m,27,"Aug 1, 1970",Retired
+Goalkeeper,right,"Jul 1, 1993",Tony Warner,"1,93m",10259,"['Trinidad and Tobago', 'England']",: Ablöse -,24,"May 11, 1974",Retired
+Goalkeeper,right,"Dec 23, 1997",Brad Friedel,"1,91m",3476,"['United States', 'England']",: Ablöse €1.50m,27,"May 18, 1971",Retired
+Centre-Back,left,"Sep 1, 1994",Phil Babb,"1,82m",3283,"['Ireland', 'England']",Coventry City,27,"Nov 30, 1970",Retired
+Centre-Back,right,"Jul 1, 1996",Bjørn Tore Kvarme,"1,85m",7463,['Norway'],: Ablöse free transfer,26,"Jun 17, 1972",Retired
+Centre-Back,right,"Jul 15, 1991",Mark Wright,"1,91m",101386,['England'],: Ablöse €2.85m,34,"Aug 1, 1963",Retired
+Centre-Back,left,"Jul 21, 1993",Neil Ruddock,"1,88m",3487,['England'],: Ablöse €3.00m,30,"May 9, 1968",Retired
+Centre-Back,right,"Jul 1, 1996",Jamie Carragher,"1,85m",3597,['England'],: Ablöse -,20,"Jan 28, 1978",Retired
+Left-Back,left,"Jul 17, 1989",Steve Harkness,"1,79m",107196,['England'],Carlisle United,26,"Aug 27, 1971",Retired
+Left-Back,left,"Mar 1, 1995",Mark Kennedy,"1,80m",3488,"['Ireland', 'England']",: Ablöse €2.05m,22,"May 15, 1976",Retired
+Left-Back,left,"Dec 18, 1992",Stig Inge Bjørnebye,"1,79m",102510,['Norway'],: Ablöse ?,28,"Dec 11, 1969",Retired
+Left-Back,left,"Jul 1, 1992",Dominic Matteo,"1,86m",3765,"['Scotland', 'England']",: Ablöse -,24,"Apr 28, 1974",Retired
+Left-Back,left,,Gareth Roberts,"1,73m",30433,['Wales'],,20,"Feb 6, 1978",Retired
+Right-Back,right,"Oct 1, 1991",Rob Jones,"1,73m",107200,"['England', 'Wales']",Crewe Alexandra,26,"Nov 5, 1971",Retired
+Central Midfield,right,"Aug 1, 1998",Steven Gerrard,"1,83m",3109,['England'],: Ablöse -,18,"May 30, 1980",Retired
+Central Midfield,right,"Jan 15, 1991",Jamie Redknapp,"1,83m",3424,['England'],: Ablöse €750k,25,"Jun 25, 1973",Retired
+Central Midfield,right,"Jul 10, 1997",Paul Ince,"1,78m",3248,"['England', 'Barbados']",: Ablöse €6.30m,30,"Oct 21, 1967",Retired
+Central Midfield,right,"Jul 1, 1997",Danny Murphy,"1,77m",3221,['England'],Crewe Alexandra,21,"Mar 18, 1977",Retired
+Central Midfield,,,Danny Williams,"1,86m",67406,['Wales'],,18,"Jul 12, 1979",Rhos Aelwyd
+Right Midfield,right,"Sep 7, 1995",Jason McAteer,"1,75m",3710,"['Ireland', 'England']",: Ablöse €6.25m,27,"Jun 18, 1971",Retired
+Right Midfield,right,"Dec 13, 1991",Michael Thomas,"1,79m",107235,['England'],: Ablöse €225k,30,"Aug 24, 1967",Retired
+Right Midfield,right,"Jul 1, 1996",David Thompson,"1,70m",4127,['England'],: Ablöse -,20,"Sep 12, 1977",Retired
+Left Midfield,,"Jul 1, 1987",John Barnes,,87436,"['England', 'Jamaica']",: Ablöse €1.30m,34,"Nov 7, 1963",Retired
+Left Midfield,left,,Nicky Rizzo,"1,74m",45695,"['Australia', 'Italy']",,19,"Jun 9, 1979",Retired
+Attacking Midfield,right,"Jul 1, 1990",Steve McManaman,"1,85m",3980,['England'],: Ablöse -,26,"Feb 11, 1972",Retired
+Attacking Midfield,right,"Jul 1, 1997",Øyvind Leonhardsen,"1,77m",4071,['Norway'],: Ablöse €5.25m,27,"Aug 17, 1970",Retired
+Attacking Midfield,,"Jul 1, 1996",Patrik Berger,,3218,['Czech Republic'],Borussia Dortmund,24,"Nov 10, 1973",Retired
+Striker,,,Sean Friars,,107192,['Northern Ireland'],,19,"May 15, 1979",Retired
+Centre-Forward,left,"Jan 27, 2006",Robbie Fowler,"1,80m",3225,['England'],: Ablöse free transfer,23,"Apr 9, 1975",Retired
+Centre-Forward,right,"Jul 31, 1997",Karl-Heinz Riedle,"1,79m",13806,['Germany'],Borussia Dortmund,32,"Sep 16, 1965",Retired
+Centre-Forward,both,"Jul 1, 1997",Michael Owen,"1,73m",1397,['England'],: Ablöse -,18,"Dec 14, 1979",Retired
+Centre-Forward,,"Oct 17, 1997",Haukur Ingi Gudnason,,79238,['Iceland'],Keflavík ÍF,19,"Sep 8, 1978",Retired

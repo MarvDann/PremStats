@@ -1,0 +1,36 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2017",Neil Etheridge,"1,88m",61694,"['Philippines', 'England']",€8.00m,Walsall FC,29,"Feb 7, 1990",Buriram United
+Goalkeeper,right,,"Jul 1, 2018",Alex Smithies,"1,89m",33754,['England'],€3.50m,Queens Park Rangers,29,"Mar 5, 1990",Retired
+Goalkeeper,right,,"Sep 2, 2016",Brian Murphy,"1,85m",4190,['Ireland'],€250k,Without Club,36,"May 7, 1983",Retired
+Centre-Back,right,,"Aug 15, 2014",Sean Morrison,"1,94m",79723,"['England', 'Ireland']",€5.00m,Reading FC,28,"Jan 8, 1991",Without Club
+Centre-Back,right,,"Sep 1, 2014",Bruno Ecuele Manga,"1,86m",60990,"['Gabon', 'France']",€3.00m,FC Lorient,30,"Jul 16, 1988",Without Club
+Centre-Back,left,,"Jul 1, 2018",Greg Cunningham,"1,83m",114093,['Ireland'],€3.00m,Preston North End,28,"Jan 31, 1991",Galway United FC
+Centre-Back,right,,"Oct 11, 2016",Sol Bamba,"1,90m",28984,"[""Cote d'Ivoire"", 'France']",€1.00m,Without Club,34,"Jan 13, 1985",---
+Centre-Back,right,,"Aug 22, 2012",Matthew Connolly,"1,88m",34559,['England'],€750k,: Ablöse €635k,31,"Sep 24, 1987",Retired
+Centre-Back,left,,"Jan 1, 2018",Ciaron Brown,"1,85m",611845,"['Northern Ireland', 'England']",,Wealdstone FC,21,"Jan 14, 1998",Oxford United
+Left-Back,left,,"Aug 27, 2016",Joe Bennett,"1,78m",90964,['England'],€3.00m,: Ablöse free transfer,29,"Mar 28, 1990",Oxford United
+Right-Back,right,,"Jan 31, 2019",Leandro Bacuna,"1,80m",126014,"['Curacao', 'Netherlands']",€3.00m,Reading FC,27,"Aug 21, 1991",FC Groningen
+Right-Back,right,,"Jan 24, 2015",Lee Peltier,"1,78m",38094,"['England', 'Antigua and Barbuda']",€1.50m,: Ablöse ?,32,"Dec 11, 1986",Without Club
+Right-Back,right,,"Jul 19, 2016",Jazz Richards,"1,74m",120241,['Wales'],€750k,Fulham FC,28,"Apr 12, 1991",Retired
+Right-Back,right,,,Cameron Coxe,"1,85m",344004,['Wales'],,,20,"Dec 18, 1998",Boreham Wood FC
+Defensive Midfield,right,"No eligibility - until Dec 31, 2024 - Qatar Stars League","Jul 1, 2011",Aron Gunnarsson,"1,77m",63821,['Iceland'],€2.50m,Coventry City,30,"Apr 22, 1989",Al-Gharafa SC
+Central Midfield,right,,"Aug 9, 2018",Víctor Camarasa,"1,83m",263856,['Spain'],€10.00m,Real Betis Balompié,25,"May 28, 1994",CD Eldense
+Central Midfield,left,,"Aug 9, 2018",Harry Arter,"1,77m",55742,"['Ireland', 'England']",€7.00m,AFC Bournemouth,29,"Dec 28, 1989",Precision FC
+Central Midfield,left,Team captain,"Jul 1, 2011",Joe Ralls,"1,78m",195680,['England'],€5.00m,Cardiff City U18,25,"Oct 12, 1993",Cardiff City
+Central Midfield,right,,"Jul 6, 2017",Loïc Damour,"1,78m",81190,"['France', 'Réunion']",€750k,Football Bourg-en-Bresse Péronnas 01,28,"Jan 8, 1991",Without Club
+Central Midfield,right,,"Jan 28, 2015",Stuart O'Keefe,"1,73m",93626,['England'],€500k,Crystal Palace,28,"Mar 4, 1991",Chatham Town
+Central Midfield,right,,,Lloyd Humphries,"1,76m",407487,['Wales'],,,21,"Oct 3, 1997",Eastleigh FC
+Left Winger,right,,"Jul 1, 2018",Josh Murphy,"1,73m",199528,"['England', 'Ireland']",€10.00m,: Ablöse €11.40m,24,"Feb 24, 1995",Portsmouth FC
+Left Winger,right,,"Oct 10, 2016",Junior Hoilett,"1,74m",58993,"['Canada', 'Jamaica']",€4.50m,Without Club,29,"Jun 5, 1990",Hibernian FC
+Right Winger,right,,"Jul 1, 2018",Bobby De Cordova-Reid,"1,70m",186186,"['Jamaica', 'England']",€10.00m,: Ablöse €11.35m,26,"Feb 2, 1993",Leicester City
+Right Winger,right,,"Jul 1, 2017",Nathaniel Méndez-Laing,"1,78m",125409,"['Guatemala', 'England']",€3.00m,Rochdale AFC,27,"Apr 15, 1992",Derby County
+Right Winger,right,,"Jan 30, 2012",Kadeem Harris,"1,74m",136501,['England'],€750k,Wycombe Wanderers,26,"Jun 8, 1993",Carlisle United
+Second Striker,right,,"Jul 13, 2017",Lee Tomlin,"1,80m",104586,['England'],€2.00m,: Ablöse €3.30m,30,"Jan 12, 1989",Without Club
+Centre-Forward,left,,"Jul 6, 2016",Kenneth Zohore,"1,90m",135213,"['Denmark', ""Cote d'Ivoire""]",€7.00m,KV Kortrijk,25,"Jan 31, 1994",Without Club
+Centre-Forward,right,,"Jan 18, 2019",Oumar Niasse,"1,82m",209781,['Senegal'],€6.00m,Everton FC,29,"Apr 18, 1990",Without Club
+Centre-Forward,right,,"Jul 1, 2017",Callum Paterson,"1,83m",169555,"['Scotland', 'England']",€5.00m,Heart of Midlothian FC,24,"Oct 13, 1994",Sheffield Wednesday
+Centre-Forward,right,,"Jan 31, 2018",Gary Madine,"1,91m",66994,['England'],€4.00m,Bolton Wanderers,28,"Aug 24, 1990",Hartlepool United
+Centre-Forward,left,,"Jul 1, 2017",Danny Ward,"1,80m",124172,['England'],€1.50m,Rotherham United,28,"Dec 9, 1990",Huddersfield Town
+Centre-Forward,left,,"Aug 17, 2017",Omar Bogle,"1,87m",134657,"['England', 'Ghana']",€500k,Wigan Athletic,25,"Jul 26, 1993",Crewe Alexandra
+Centre-Forward,right,,"Jan 24, 2013",Rhys Healey,"1,80m",238185,['England'],€250k,: Ablöse ?,24,"Dec 6, 1994",Huddersfield Town
+Centre-Forward,right,,"Jan 22, 2018",Jack McKay,"1,90m",347439,"['Scotland', 'England']",,Leeds United,22,"Nov 19, 1996",Doncaster City

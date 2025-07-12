@@ -1,0 +1,34 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Feb 1, 2010",Asmir Begovic,"1,99m",33873,"['Bosnia-Herzegovina', 'Canada']",€10.00m,: Ablöse €3.75m,27,"Jun 20, 1987",Everton FC
+Goalkeeper,right,"Jan 31, 2013",Jack Butland,"1,96m",128899,['England'],€5.00m,: Ablöse €3.80m,21,"Mar 10, 1993",Rangers FC
+Goalkeeper,right,"Jul 30, 2008",Thomas Sörensen,"1,96m",3473,['Denmark'],€1.00m,: Ablöse free transfer,38,"Jun 12, 1976",Retired
+Goalkeeper,right,,Daniel Bachmann,"1,91m",120186,['Austria'],,,19,"Jul 9, 1994",Watford FC
+Centre-Back,right,"Jan 18, 2008",Ryan Shawcross,"1,91m",45861,"['England', 'Wales']",€9.00m,Manchester United Reserves,26,"Oct 4, 1987",Retired
+Centre-Back,right,"Aug 1, 2009",Robert Huth,"1,91m",2998,['Germany'],€7.00m,Middlesbrough FC,29,"Aug 18, 1984",Retired
+Centre-Back,right,"Aug 8, 2012",Geoff Cameron,"1,90m",31642,['United States'],€4.50m,: Ablöse €2.15m,28,"Jul 11, 1985",Retired
+Centre-Back,both,"Aug 31, 2010",Marc Wilson,"1,88m",30456,"['Ireland', 'Northern Ireland']",€4.00m,: Ablöse €3.60m,26,"Aug 17, 1987",Retired
+Centre-Back,left,"Jul 1, 2013",Erik Pieters,"1,83m",43763,['Netherlands'],€3.50m,: Ablöse €3.60m,25,"Aug 7, 1988",Without Club
+Centre-Back,left,"Jul 2, 2013",Marc Muniesa,"1,80m",74228,['Spain'],€2.00m,FC Barcelona B,22,"Mar 27, 1992",Al-Shahania SC
+Centre-Back,right,"Jul 1, 2007",Ryan Shotton,"1,89m",92109,['England'],€1.50m,Stoke City U18,25,"Sep 30, 1988",Hanley Town
+Right-Back,right,"Jul 1, 2003",Andy Wilkinson,"1,80m",13616,['England'],€2.00m,Stoke City U18,29,"Aug 6, 1984",Retired
+Defensive Midfield,right,"Aug 31, 2012",Steven Nzonzi,"1,96m",73734,"['France', 'DR Congo']",€6.00m,Blackburn Rovers,25,"Dec 15, 1988",Sepahan FC
+Defensive Midfield,right,"Jan 30, 2008",Glenn Whelan,"1,80m",12124,['Ireland'],€3.50m,: Ablöse €670k,30,"Jan 13, 1984",Retired
+Defensive Midfield,right,"Jul 1, 2011",Wilson Palacios,"1,81m",58361,['Honduras'],€1.50m,Tottenham Hotspur,29,"Jul 29, 1984",Retired
+Central Midfield,left,"Aug 31, 2012",Charlie Adam,"1,85m",28990,['Scotland'],€5.00m,: Ablöse €6.20m,28,"Dec 10, 1985",Retired
+Central Midfield,left,"Jul 3, 2012",Jamie Ness,"1,78m",61012,['Scotland'],€500k,: Ablöse free transfer,23,"Mar 2, 1991",Retired
+Central Midfield,,,Charlie Ward,"1,73m",259892,['England'],,,19,"Feb 19, 1995",Without Club
+Central Midfield,right,,Lucas Dawson,"1,86m",145484,['England'],,,20,"Nov 12, 1993",Without Club
+Left Midfield,left,"Jan 31, 2013",Brek Shea,"1,90m",71107,"['United States', 'Norway']",€1.50m,FC Dallas,24,"Feb 28, 1990",Retired
+Left Midfield,left,"Jan 1, 2009",Matthew Etherington,"1,78m",3788,['England'],€1.50m,: Ablöse €3.00m,32,"Aug 14, 1981",Retired
+Attacking Midfield,right,"Jan 14, 2014",Stephen Ireland,"1,73m",34838,['Ireland'],€3.00m,: Ablöse free transfer,27,"Aug 22, 1986",Retired
+Left Winger,right,"Aug 27, 2013",Oussama Assaidi,"1,75m",57275,"['Morocco', 'Netherlands']",€4.50m,: Ablöse ?,25,"Aug 15, 1988",Retired
+Left Winger,right,"Aug 8, 2012",Michael Kightly,"1,73m",25366,['England'],€2.70m,Wolverhampton Wanderers,28,"Jan 24, 1986",Without Club
+Right Winger,right,"Aug 18, 2010",Jonathan Walters,"1,83m",3306,"['Ireland', 'England']",€4.00m,Ipswich Town,30,"Sep 20, 1983",Retired
+Right Winger,right,"Jan 1, 2011",Jermaine Pennant,"1,73m",3195,"['England', 'Jamaica']",€1.50m,Real Zaragoza,31,"Jan 15, 1983",Retired
+Centre-Forward,both,"Sep 2, 2013",Marko Arnautovic,"1,90m",41384,"['Austria', 'Serbia']",€4.50m,SV Werder Bremen,25,"Apr 19, 1989",Inter Milan
+Centre-Forward,right,"Jan 14, 2014",John Guidetti,"1,85m",98596,['Sweden'],€4.50m,: Ablöse ?,22,"Apr 15, 1992",AIK
+Centre-Forward,right,"Aug 1, 2010",Kenwyne Jones,"1,87m",28245,['Trinidad and Tobago'],€3.00m,Sunderland AFC,29,"Oct 5, 1984",Retired
+Centre-Forward,right,"Jan 28, 2014",Peter Odemwingie,"1,81m",12516,"['Nigeria', 'Russia']",€2.50m,: Ablöse free transfer,32,"Jul 15, 1981",Retired
+Centre-Forward,right,"Aug 31, 2011",Peter Crouch,"2,01m",4072,"['England', 'Ireland']",€2.50m,Tottenham Hotspur,33,"Jan 30, 1981",Retired
+Centre-Forward,right,"Aug 31, 2011",Cameron Jerome,"1,85m",35855,"['Grenada', 'England']",€2.00m,: Ablöse €4.50m,27,"Aug 14, 1986",Without Club
+Centre-Forward,both,"Jan 1, 2014",Juan Agudelo,"1,85m",131171,"['United States', 'Colombia']",€1.00m,: Ablöse free transfer,21,"Nov 23, 1992",San Antonio FC

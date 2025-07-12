@@ -1,0 +1,30 @@
+position,foot,status,joinedOn,name,height,id,nationality,contract,marketValue,joined,age,dateOfBirth,signedFrom
+Goalkeeper,right,,"Jul 15, 2021",José Sá,"1,92m",249994,['Portugal'],"Jun 30, 2027",€10.00m,,31,"Jan 17, 1993",: Ablöse €8.00m
+Goalkeeper,right,,"Aug 30, 2024",Sam Johnstone,"1,93m",110864,['England'],"Jun 30, 2028",€10.00m,"Joined from Crystal Palace; date: Aug 30, 2024; fee: €11.90m",31,"Mar 25, 1993",Crystal Palace
+Goalkeeper,,,"Jan 25, 2023",Daniel Bentley,"1,93m",136401,['England'],"Jun 30, 2027",€2.00m,,31,"Jul 13, 1993",Bristol City
+Goalkeeper,right,,"Jul 3, 2023",Tom King,"1,94m",215810,"['Wales', 'England']","Jun 30, 2027",€200k,,29,"Mar 9, 1995",Northampton Town
+Centre-Back,left,,"Sep 2, 2020",Toti,"1,87m",606718,"['Portugal', 'Guinea-Bissau']","Jun 30, 2029",€20.00m,,25,"Jan 16, 1999",Estoril Praia
+Centre-Back,right,,"Aug 31, 2023",Santiago Bueno,"1,90m",438001,"['Uruguay', 'Italy']","Jun 30, 2028",€8.00m,,26,"Nov 9, 1998",Girona FC
+Centre-Back,right,Cruciate ligament injury - Return unknown,"Jul 1, 2021",Yerson Mosquera,"1,88m",716276,['Colombia'],"Jun 30, 2026",€6.00m,"Returned after loan spell with Villarreal CF; date: Jun 30, 2024; fee: End of loan",23,"May 2, 2001",Atlético Nacional
+Centre-Back,left,Meniscus damage - Return unknown,"Aug 29, 2024",Bastien Meupiyou,"1,91m",955253,"['France', 'Cameroon']","Jun 30, 2029",€2.50m,"Joined from FC Nantes; date: Aug 29, 2024; fee: €5.00m",18,"Mar 19, 2006",FC Nantes
+Centre-Back,right,,"Jan 22, 2023",Craig Dawson,"1,88m",121477,['England'],"Jun 30, 2025",€2.00m,,34,"May 6, 1990",West Ham United
+Left-Back,left,,"Jul 9, 2021",Rayan Aït-Nouri,"1,80m",578391,"['Algeria', 'France']","Jun 30, 2026",€35.00m,,23,"Jun 6, 2001",Angers SCO
+Right-Back,right,,"Sep 23, 2020",Nélson Semedo,"1,77m",231572,"['Portugal', 'Cape Verde']","Jun 30, 2025",€12.00m,,30,"Nov 16, 1993",FC Barcelona
+Right-Back,right,,"Jul 1, 2024",Pedro Lima,"1,74m",1193867,['Brazil'],"Jun 30, 2029",€5.00m,"Joined from Sport Club do Recife; date: Jul 1, 2024; fee: €10.00m",18,"Jul 1, 2006",Sport Club do Recife
+Right-Back,right,,"Jul 20, 2023",Matt Doherty,"1,85m",171679,['Ireland'],"Jun 30, 2026",€3.00m,,32,"Jan 16, 1992",: Ablöse free transfer
+Defensive Midfield,right,,"Aug 30, 2024",André,"1,76m",800176,['Brazil'],"Jun 30, 2029",€25.00m,"Joined from Fluminense Football Club; date: Aug 30, 2024; fee: €22.00m",23,"Jul 16, 2001",Fluminense Football Club
+Defensive Midfield,right,,"Jan 13, 2023",Mario Lemina,"1,84m",170934,"['Gabon', 'France']","Jun 30, 2025",€10.00m,,31,"Sep 1, 1993",OGC Nice
+Defensive Midfield,right,Meniscus injury - Return unknown,"Jul 1, 2023",Boubacar Traoré,"1,83m",649020,['Mali'],"Jun 30, 2027",€6.00m,,23,"Aug 20, 2001",FC Metz
+Central Midfield,right,,"Jan 30, 2023",João Gomes,"1,76m",735570,['Brazil'],"Jun 30, 2028",€40.00m,,23,"Feb 12, 2001",CR Flamengo
+Central Midfield,right,,"Sep 1, 2023",Jean-Ricner Bellegarde,"1,72m",450050,"['France', 'Haiti']","Jun 30, 2028",€18.00m,,26,"Jun 27, 1998",RC Strasbourg Alsace
+Central Midfield,right,,"Jul 1, 2024",Tommy Doyle,"1,72m",433183,['England'],"Jun 30, 2028",€10.00m,"Joined from Manchester City; date: Jul 1, 2024; fee: €5.00m",23,"Oct 17, 2001",Manchester City
+Central Midfield,right,,"Jul 1, 2021",Luke Cundle,"1,71m",532541,['England'],"Jun 30, 2026",€5.00m,,22,"Apr 26, 2002",Wolverhampton Wanderers U21
+Right Midfield,right,,"Jul 1, 2024",Rodrigo Gomes,"1,75m",667121,['Portugal'],"Jun 30, 2029",€15.00m,"Joined from SC Braga; date: Jul 1, 2024; fee: €15.00m",21,"Jul 7, 2003",SC Braga
+Left Winger,right,,"Aug 8, 2022",Gonçalo Guedes,"1,79m",225122,['Portugal'],"Jun 30, 2027",€15.00m,"Returned after loan spell with Villarreal CF; date: Jun 30, 2024; fee: End of loan",27,"Nov 29, 1996",Valencia CF
+Left Winger,left,,"Aug 30, 2024",Carlos Forbs,"1,69m",742451,"['Portugal', 'Guinea-Bissau']","Jun 30, 2025",€8.00m,"On loan from Ajax Amsterdam until Jun 30, 2025",20,"Mar 19, 2004",Ajax Amsterdam
+Left Winger,left,Cruciate ligament tear - Return unknown,"Aug 31, 2023",Enso González,"1,69m",1060740,['Paraguay'],"Jun 30, 2029",€4.00m,,19,"Jan 20, 2005",Club Libertad Asunción
+Right Winger,left,,"Jan 17, 2023",Pablo Sarabia,"1,74m",74230,['Spain'],"Jun 30, 2025",€8.00m,,32,"May 11, 1992",: Ablöse €5.00m
+Centre-Forward,right,,"Jul 1, 2023",Matheus Cunha,"1,83m",517894,['Brazil'],"Jun 30, 2027",€45.00m,,25,"May 27, 1999",: Ablöse €50.00m
+Centre-Forward,right,,"Jul 2, 2024",Jørgen Strand Larsen,"1,93m",429983,['Norway'],"Jun 30, 2025",€25.00m,"On loan from Celta de Vigo until Jun 30, 2025",24,"Feb 6, 2000",Celta de Vigo
+Centre-Forward,right,"Ankle injury - Return expected on Dec 15, 2024","Jul 1, 2022",Hee-chan Hwang,"1,77m",292246,"['Korea, South']","Jun 30, 2028",€25.00m,,28,"Jan 26, 1996",RB Leipzig
+Centre-Forward,right,Cruciate ligament tear - Return unknown,"Aug 31, 2022",Sasa Kalajdzic,"2,00m",369567,['Austria'],"Jun 30, 2027",€5.00m,"Returned after loan spell with Eintracht Frankfurt; date: Jun 30, 2024; fee: End of loan",27,"Jul 7, 1997",VfB Stuttgart

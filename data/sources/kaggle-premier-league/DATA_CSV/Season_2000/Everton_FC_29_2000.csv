@@ -1,0 +1,36 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,"Jul 1, 1996",Paul Gerrard,"1,88m",3584,['England'],: Ablöse €1.50m,28,"Jan 22, 1973",Retired
+Goalkeeper,right,"Jul 1, 1998",Steve Simonsen,"1,87m",3583,"['England', 'Denmark']",: Ablöse €4.95m,22,"Apr 3, 1979",Retired
+Goalkeeper,left,"Nov 1, 1997",Thomas Myhre,"1,88m",3566,['Norway'],Viking FK,27,"Oct 16, 1973",Retired
+Centre-Back,,"Jul 1, 1999",Richard Gough,,101124,['Scotland'],: Ablöse ?,39,"Apr 5, 1962",Retired
+Centre-Back,right,"Feb 1, 1999",David Weir,"1,91m",3312,['Scotland'],Heart of Midlothian FC,31,"May 10, 1970",Retired
+Centre-Back,right,"Jul 1, 1996",Richard Dunne,"1,88m",3807,['Ireland'],: Ablöse -,21,"Sep 21, 1979",Retired
+Centre-Back,,"Aug 22, 1986",Dave Watson,,135911,['England'],: Ablöse €1.85m,39,"Nov 20, 1961",Retired
+Centre-Back,right,"Jan 1, 2002",Peter Clarke,"1,88m",25201,['England'],Everton FC Reserves,19,"Jan 3, 1982",Warrington Town
+Left-Back,both,"Jul 1, 2000",Alessandro Pistone,"1,80m",3588,['Italy'],Newcastle United,25,"Jul 27, 1975",Retired
+Left-Back,left,"Aug 1, 1998",David Unsworth,"1,87m",3272,['England'],: Ablöse €4.60m,27,"Oct 16, 1973",Retired
+Left-Back,left,"Jul 1, 1997",Michael Ball,"1,78m",9423,['England'],: Ablöse -,21,"Oct 2, 1979",Retired
+Left-Back,left,"Oct 1, 2000",Gary Naysmith,"1,78m",3589,['Scotland'],Heart of Midlothian FC,22,"Nov 16, 1978",Retired
+Right-Back,right,"Jul 4, 2000",Steve Watson,"1,85m",3309,['England'],: Ablöse €3.75m,27,"Apr 1, 1974",Retired
+Right-Back,right,"Jul 1, 1998",Alec Cleland,"1,75m",173069,['Scotland'],: Ablöse ?,30,"Dec 10, 1970",Retired
+Right-Back,,"Aug 1, 1999",Abel Xavier,,3211,"['Portugal', 'Mozambique']",: Ablöse €2.10m,28,"Nov 30, 1972",Retired
+Right-Back,right,"Jul 1, 2000",Tony Hibbert,"1,73m",3614,['England'],: Ablöse -,20,"Feb 20, 1981",Retired
+Defensive Midfield,left,"Jul 1, 2000",Stephen Hughes,"1,83m",10400,['England'],: Ablöse €3.50m,24,"Sep 18, 1976",Retired
+Defensive Midfield,,"Aug 1, 2007",Thomas Gravesen,,301,['Denmark'],Celtic FC,25,"Mar 11, 1976",Retired
+Defensive Midfield,,"Oct 1, 2000",Idan Tal,,24485,['Israel'],Maccabi Petah Tikva,25,"Sep 13, 1975",Retired
+Central Midfield,,"Jul 1, 2000",Alex Nyarko,,3727,"['Ghana', 'Switzerland']",: Ablöse €6.30m,27,"Oct 15, 1973",Retired
+Central Midfield,right,"Mar 25, 1999",Scot Gemmill,"1,81m",3617,['Scotland'],: Ablöse €300k,30,"Jan 2, 1971",Retired
+Central Midfield,right,"Jul 1, 2002",Leon Osman,"1,73m",3620,['England'],Everton FC Reserves,20,"May 17, 1981",Retired
+Right Midfield,right,"Jul 1, 2000",Niclas Alexandersson,"1,81m",3265,['Sweden'],: Ablöse €3.80m,29,"Dec 29, 1971",Retired
+Right Midfield,right,"Feb 19, 1999",Peter Degn,"1,78m",22461,['Denmark'],Aarhus GF,24,"Apr 6, 1977",Retired
+Left Midfield,,"Aug 5, 1999",Mark Pembridge,,3615,['Wales'],SL Benfica,30,"Nov 29, 1970",Retired
+Left Midfield,left,,David Carney,"1,83m",10387,['Australia'],,17,"Nov 30, 1983",Retired
+Left Midfield,left,"Jul 1, 2000",Kevin McLeod,"1,80m",3619,"['England', 'Scotland']",: Ablöse -,20,"Sep 12, 1980",Retired
+Attacking Midfield,right,"Jul 1, 2000",Paul Gascoigne,"1,78m",3830,['England'],: Ablöse free transfer,34,"May 27, 1967",Retired
+Right Winger,right,"Jul 1, 1996",Danny Cadamarteri,"1,75m",4220,"['England', 'Jamaica']",: Ablöse -,21,"Oct 12, 1979",Retired
+Second Striker,right,"Mar 14, 2000",Mark Hughes,"1,78m",8022,['Wales'],Southampton FC,37,"Nov 1, 1963",Retired
+Centre-Forward,right,"Jul 23, 1999",Kevin Campbell,"1,83m",3468,"['England', 'Jamaica']",Trabzonspor,31,"Feb 4, 1970",---
+Centre-Forward,right,"Sep 1, 2003",Francis Jeffers,"1,78m",3186,['England'],: Ablöse free transfer,20,"Jan 25, 1981",Retired
+Centre-Forward,,"Nov 11, 1999",Joe-Max Moore,,1529,['United States'],: Ablöse free transfer,30,"Feb 23, 1971",Retired
+Centre-Forward,left,"Jul 1, 2000",Duncan Ferguson,"1,93m",3239,['Scotland'],Newcastle United,29,"Dec 27, 1971",Retired
+Centre-Forward,right,"Jul 1, 1996",Phil Jevons,"1,78m",47982,['England'],: Ablöse -,21,"Aug 1, 1979",Retired

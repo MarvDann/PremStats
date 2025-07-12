@@ -1,0 +1,24 @@
+position,foot,status,joinedOn,name,height,id,nationality,contract,marketValue,joined,age,dateOfBirth,signedFrom
+Goalkeeper,right,,"Aug 2, 2022",Bernd Leno,"1,90m",72476,['Germany'],"Jun 30, 2027",€13.00m,,32,"Mar 4, 1992",Arsenal FC
+Goalkeeper,right,,"Aug 30, 2023",Steven Benda,"1,92m",381469,['Germany'],"Jun 30, 2026",€1.00m,,26,"Oct 1, 1998",Swansea City
+Centre-Back,right,,"Aug 23, 2024",Joachim Andersen,"1,92m",260827,['Denmark'],"Jun 30, 2029",€35.00m,"Joined from Crystal Palace; date: Aug 23, 2024; fee: €29.50m",28,"May 31, 1996",Crystal Palace
+Centre-Back,right,,"Aug 10, 2022",Issa Diop,"1,94m",272622,"['France', 'Senegal']","Jun 30, 2027",€20.00m,,27,"Jan 9, 1997",West Ham United
+Centre-Back,left,,"Jul 28, 2023",Calvin Bassey,"1,85m",461883,"['Nigeria', 'England']","Jun 30, 2027",€16.00m,,24,"Dec 31, 1999",Ajax Amsterdam
+Centre-Back,left,,"Aug 3, 2024",Jorge Cuenca,"1,90m",494880,['Spain'],"Jun 30, 2028",€6.00m,"Joined from Villarreal CF; date: Aug 3, 2024; fee: €6.70m",24,"Nov 17, 1999",Villarreal CF
+Left-Back,left,,"Aug 20, 2020",Antonee Robinson,"1,83m",349701,"['United States', 'England']","Jun 30, 2028",€25.00m,,27,"Aug 8, 1997",Wigan Athletic
+Left-Back,left,,"Jul 26, 2024",Ryan Sessegnon,"1,78m",392775,['England'],"Jun 30, 2026",€10.00m,"Joined from Tottenham Hotspur; date: Jul 26, 2024; fee: free transfer",24,"May 18, 2000",Tottenham Hotspur
+Right-Back,right,,"Aug 29, 2023",Timothy Castagne,"1,85m",262226,['Belgium'],"Jun 30, 2027",€17.00m,,28,"Dec 5, 1995",Leicester City
+Right-Back,right,,"Sep 10, 2020",Kenny Tete,"1,80m",206746,"['Netherlands', 'Mozambique']","Jun 30, 2025",€15.00m,,29,"Oct 9, 1995",: Ablöse €3.20m
+Defensive Midfield,right,,"Aug 22, 2024",Sander Berge,"1,95m",333014,['Norway'],"Jun 30, 2029",€20.00m,"Joined from Burnley FC; date: Aug 22, 2024; fee: €23.55m",26,"Feb 14, 1998",Burnley FC
+Central Midfield,right,,"Aug 30, 2020",Harrison Reed,"1,81m",226973,['England'],"Jun 30, 2027",€13.00m,,29,"Jan 27, 1995",Southampton FC
+Central Midfield,right,Shoulder injury - Return unknown,"Jan 31, 2023",Saša Lukić,"1,82m",245056,['Serbia'],"Jun 30, 2027",€10.00m,,28,"Aug 13, 1996",Torino FC
+Central Midfield,left,Team captain,"Jul 1, 2015",Tom Cairney,"1,85m",123275,"['Scotland', 'England']","Jun 30, 2025",€2.00m,,33,"Jan 20, 1991",Blackburn Rovers
+Attacking Midfield,right,,"Aug 2, 2024",Emile Smith Rowe,"1,82m",392765,['England'],"Jun 30, 2029",€28.00m,"Joined from Arsenal FC; date: Aug 2, 2024; fee: €31.80m",24,"Jul 28, 2000",Arsenal FC
+Attacking Midfield,right,,"Jul 11, 2022",Andreas Pereira,"1,78m",203394,"['Brazil', 'Belgium']","Jun 30, 2026",€20.00m,,28,"Jan 1, 1996",Manchester United
+Left Winger,right,,"Sep 1, 2023",Alex Iwobi,"1,83m",242631,"['Nigeria', 'England']","Jun 30, 2028",€25.00m,,28,"May 3, 1996",Everton FC
+Right Winger,left,,"Jul 24, 2021",Harry Wilson,"1,73m",279455,"['Wales', 'England']","Jun 30, 2026",€17.00m,,27,"Mar 22, 1997",: Ablöse €14.00m
+Right Winger,right,,"Aug 30, 2024",Reiss Nelson,"1,75m",340325,"['England', 'Jamaica']","Jun 30, 2025",€15.00m,"On loan from Arsenal FC until Jun 30, 2025",24,"Dec 10, 1999",Arsenal FC
+Right Winger,right,,"Aug 12, 2023",Adama Traoré,"1,78m",204103,"['Spain', 'Mali']","Jun 30, 2025",€9.00m,,28,"Jan 25, 1996",Wolverhampton Wanderers
+Centre-Forward,right,,"Aug 20, 2021",Rodrigo Muniz,"1,86m",735571,['Brazil'],"Jun 30, 2026",€20.00m,,23,"May 4, 2001",CR Flamengo
+Centre-Forward,right,,"Jul 25, 2023",Raúl Jiménez,"1,87m",206040,['Mexico'],"Jun 30, 2025",€5.00m,,33,"May 5, 1991",Wolverhampton Wanderers
+Centre-Forward,left,,"Sep 1, 2022",Carlos Vinícius,"1,90m",525287,['Brazil'],"Jun 30, 2025",€4.00m,"Returned after loan spell with Galatasaray; date: Jun 30, 2024; fee: End of loan",29,"Mar 25, 1995",SL Benfica

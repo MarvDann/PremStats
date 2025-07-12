@@ -1,0 +1,27 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 2002",Richard Wright,"1,90m",3120,['England'],€5.75m,: Ablöse €5.50m,27,"Nov 5, 1977",Retired
+Goalkeeper,right,"Sep 1, 2003",Nigel Martyn,"1,88m",3629,['England'],€350k,Leeds United,38,"Aug 11, 1966",Retired
+Goalkeeper,right,"Jul 1, 2003",Iain Turner,"1,93m",3582,['Scotland'],€100k,Stirling Albion FC,21,"Jan 26, 1984",Retired
+Centre-Back,right,"Jul 1, 2003",Joseph Yobo,"1,88m",3270,"['Nigeria', 'England']",€7.00m,: Ablöse €6.00m,24,"Sep 6, 1980",Retired
+Centre-Back,right,"Feb 1, 1999",David Weir,"1,91m",3312,['Scotland'],€2.50m,Heart of Midlothian FC,35,"May 10, 1970",Retired
+Centre-Back,,"Jan 1, 2006",Alan Stubbs,,3472,['England'],€1.50m,Sunderland AFC,33,"Oct 6, 1971",Retired
+Centre-Back,left,"Jul 1, 2004",Eddy Bosnar,"1,91m",3053,"['Australia', 'Croatia']",€250k,: Ablöse free transfer,25,"Apr 29, 1980",Retired
+Left-Back,both,"Jul 1, 2000",Alessandro Pistone,"1,80m",3588,['Italy'],€4.00m,Newcastle United,29,"Jul 27, 1975",Retired
+Left-Back,left,"Oct 1, 2000",Gary Naysmith,"1,78m",3589,['Scotland'],€2.00m,Heart of Midlothian FC,26,"Nov 16, 1978",Retired
+Right-Back,right,"Jul 4, 2000",Steve Watson,"1,85m",3309,['England'],€3.50m,: Ablöse €3.75m,31,"Apr 1, 1974",Retired
+Right-Back,right,"Jul 1, 2000",Tony Hibbert,"1,73m",3614,['England'],€350k,: Ablöse -,24,"Feb 20, 1981",Retired
+Defensive Midfield,,"Aug 1, 2007",Thomas Gravesen,,301,['Denmark'],€6.00m,Celtic FC,29,"Mar 11, 1976",Retired
+Defensive Midfield,right,"Jan 1, 2003",Lee Carsley,"1,78m",3618,"['Ireland', 'England']",€2.75m,Coventry City,31,"Feb 28, 1974",Retired
+Defensive Midfield,right,"Jul 19, 2002",Tie Li,"1,83m",3590,['China'],€1.00m,: Ablöse free transfer,28,"May 18, 1977",Retired
+Defensive Midfield,right,"Jan 1, 2005",Guillaume Plessis,"1,87m",12363,['France'],€300k,: Ablöse free transfer,20,"Jan 16, 1985",Retired
+Central Midfield,right,"Jul 1, 2005",Mikel Arteta,"1,77m",7451,['Spain'],€8.00m,Real Sociedad,23,"Mar 26, 1982",Retired
+Central Midfield,right,"Jul 1, 2002",Leon Osman,"1,73m",3620,['England'],€1.25m,Everton FC Reserves,24,"May 17, 1981",Retired
+Left Midfield,left,"Jul 1, 2003",Kevin Kilbane,"1,83m",4135,"['Ireland', 'England']",€3.25m,Sunderland AFC,28,"Feb 1, 1977",Retired
+Attacking Midfield,right,"Jul 1, 2004",Tim Cahill,"1,78m",13556,"['Australia', 'Samoa']",€3.75m,: Ablöse €2.20m,25,"Dec 6, 1979",Retired
+Second Striker,left,"Oct 17, 2011",James McFadden,"1,78m",9956,['Scotland'],€4.00m,Without Club,22,"Apr 14, 1983",Retired
+Centre-Forward,right,"Jan 4, 2005",James Beattie,"1,85m",3112,['England'],€10.00m,Southampton FC,27,"Feb 27, 1978",Retired
+Centre-Forward,left,"Jul 1, 2000",Duncan Ferguson,"1,93m",3239,['Scotland'],€3.50m,Newcastle United,33,"Dec 27, 1971",Retired
+Centre-Forward,right,"Jul 23, 1999",Kevin Campbell,"1,83m",3468,"['England', 'Jamaica']",€1.50m,Trabzonspor,35,"Feb 4, 1970",---
+Centre-Forward,right,"Jul 1, 2004",Marcus Bent,"1,88m",9958,"['England', 'Jamaica']",€1.25m,Ipswich Town,27,"May 19, 1978",Cornard United FC
+Centre-Forward,right,"Jul 1, 2001",Nick Chadwick,"1,83m",3616,['England'],€300k,: Ablöse -,22,"Oct 26, 1982",Retired
+Centre-Forward,right,"Jul 1, 2006",James Vaughan,"1,81m",30471,"['England', 'Jamaica']",€125k,: Ablöse -,16,"Jul 14, 1988",Retired

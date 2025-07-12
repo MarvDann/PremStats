@@ -1,0 +1,38 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 2008",Paul Robinson,"1,93m",3630,['England'],€2.00m,Tottenham Hotspur,32,"Oct 15, 1979",Retired
+Goalkeeper,right,"Aug 1, 2008",Mark Bunn,"1,83m",49319,"['England', 'Ireland']",€750k,: Ablöse €150k,27,"Nov 16, 1984",Retired
+Goalkeeper,right,"Jul 1, 2012",Sebastian Usai,"1,90m",163344,['Australia'],,Blackburn Rovers U21,22,"Feb 28, 1990",Canberra Olympic FC
+Goalkeeper,,"Jul 1, 2010",Jake Kean,"1,93m",121388,['England'],,Blackburn Rovers U18,21,"Feb 4, 1991",Retired
+Centre-Back,,"Jan 25, 2007",Christopher Samba,,29016,"['Congo', 'France']",€12.00m,: Ablöse €500k,28,"Mar 28, 1984",Retired
+Centre-Back,right,"Aug 1, 2011",Scott Dann,"1,94m",62688,['England'],€4.00m,: Ablöse €6.80m,25,"Feb 14, 1987",Without Club
+Centre-Back,right,"Jan 1, 2010",Grant Hanley,"1,88m",121385,['Scotland'],€2.00m,Blackburn Rovers U18,20,"Nov 20, 1991",Norwich City
+Centre-Back,left,"Jul 1, 2009",Gaël Givet,"1,81m",5286,['France'],€1.50m,Olympique Marseille,30,"Oct 9, 1981",Retired
+Centre-Back,right,"Jan 6, 2005",Ryan Nelsen,"1,85m",28878,['New Zealand'],€750k,: Ablöse free transfer,34,"Oct 18, 1977",Retired
+Centre-Back,right,"Oct 1, 2010",Hérold Goulon,"1,95m",41978,['France'],€500k,Without Club,24,"Jun 12, 1988",Without Club
+Centre-Back,left,"Jul 1, 2011",Myles Anderson,"1,83m",173860,['England'],,Aberdeen FC,22,"Jan 9, 1990",Northwood FC
+Left-Back,left,"Jul 1, 2007",Martin Olsson,"1,78m",38073,['Sweden'],€4.50m,Blackburn Rovers U18,24,"May 17, 1988",Malmö FF
+Left-Back,left,"Jan 30, 2012",Marcus Olsson,"1,80m",72264,['Sweden'],€1.50m,Halmstads BK,24,"May 17, 1988",Halmstads BK
+Right-Back,right,"Jan 31, 2012",Bradley Orr,"1,82m",16091,['England'],€1.50m,: Ablöse €1.80m,29,"Nov 1, 1982",Retired
+Right-Back,right,"Jul 1, 2012",Adam Henley,"1,78m",173585,"['Wales', 'United States']",€750k,Blackburn Rovers U18,18,"Jun 14, 1994",Chorley FC
+Right-Back,right,"Aug 1, 2009",Míchel Salgado,"1,74m",7515,['Spain'],€500k,Real Madrid,36,"Oct 22, 1975",Retired
+Defensive Midfield,right,"Jul 1, 2009",Steven Nzonzi,"1,96m",73734,"['France', 'DR Congo']",€4.50m,: Ablöse €580k,23,"Dec 15, 1988",Sepahan FC
+Defensive Midfield,right,"Aug 9, 2011",Radosav Petrovic,"1,93m",75296,['Serbia'],€2.00m,FK Partizan Belgrade,23,"Mar 8, 1989",APOEL Nicosia
+Defensive Midfield,right,"Jul 1, 2010",Jason Lowe,"1,83m",117997,['England'],€1.50m,Blackburn Rovers U18,20,"Sep 2, 1991",Port Vale FC
+Central Midfield,left,"Aug 27, 2004",Morten Gamst Pedersen,"1,83m",22741,['Norway'],€4.50m,Tromsø IL,30,"Sep 8, 1981",Retired
+Central Midfield,both,"Aug 26, 2008",Vincenzo Grella,"1,83m",6021,"['Australia', 'Italy']",€500k,Torino FC,32,"Oct 5, 1979",Retired
+Central Midfield,right,"Jan 28, 2010",Amine Linganzi,"1,86m",88596,"['Congo', 'France']",€250k,: Ablöse free transfer,22,"Nov 16, 1989",Retired
+Right Midfield,right,"Jul 10, 2003",Brett Emerton,"1,85m",4367,['Australia'],€1.50m,: Ablöse €3.00m,33,"Feb 22, 1979",Retired
+Left Midfield,left,"Jul 1, 2010",Josh Morris,"1,80m",121391,['England'],€500k,Blackburn Rovers U18,20,"Sep 30, 1991",Without Club
+Attacking Midfield,right,"Jan 31, 2011",Mauro Formica,"1,79m",55870,"['Argentina', 'Italy']",€3.00m,CA Newell's Old Boys,24,"Apr 4, 1988",Retired
+Attacking Midfield,right,"Jan 17, 2007",David Dunn,"1,78m",4243,['England'],€1.50m,: Ablöse €3.20m,32,"Dec 27, 1979",Retired
+Attacking Midfield,right,"Aug 1, 2011",Bruno Ribeiro,"1,72m",76181,['Brazil'],€250k,Without Club,29,"Apr 1, 1983",Retired
+Attacking Midfield,,,Robbie Cotton,"1,80m",134415,['England'],,,17,"Sep 15, 1994",Goole AFC
+Left Winger,right,"Jul 1, 2009",Junior Hoilett,"1,74m",58993,"['Canada', 'Jamaica']",€9.00m,Blackburn Rovers Reserves,22,"Jun 5, 1990",Hibernian FC
+Right Winger,left,"Aug 23, 2011",Simon Vukcevic,"1,80m",27239,['Montenegro'],€2.50m,Sporting CP,26,"Jan 29, 1986",Retired
+Right Winger,left,"Jan 1, 2011",Rubén Rochina,"1,82m",67548,['Spain'],€1.00m,FC Barcelona B,21,"Mar 23, 1991",Without Club
+Centre-Forward,,"Aug 31, 2011",Yakubu Aiyegbeni,"1,83m",8559,['Nigeria'],€7.50m,: Ablöse €1.70m,29,"Nov 22, 1982",Retired
+Centre-Forward,right,"Jan 20, 2012",Anthony Modeste,"1,88m",50512,"['France', 'Martinique']",€3.50m,: Ablöse ?,24,"Apr 14, 1988",Without Club
+Centre-Forward,right,"Aug 3, 2011",David Goodwillie,"1,75m",37677,['Scotland'],€2.50m,: Ablöse €3.40m,23,"Mar 28, 1989",Glasgow United FC
+Centre-Forward,right,"Sep 1, 2011",Jordan Slew,"1,91m",164785,"['England', 'Jamaica']",€1.00m,Sheffield United,19,"Sep 7, 1992",Morecambe FC
+Centre-Forward,left,"Jan 12, 2009",Nick Blackman,"1,88m",67369,"['Barbados', 'England']",€500k,Macclesfield Town FC,22,"Nov 11, 1989",Without Club
+Centre-Forward,right,"Jul 3, 2006",Jason Roberts,"1,85m",3666,"['Grenada', 'England']",€250k,Wigan Athletic,34,"Jan 25, 1978",Retired

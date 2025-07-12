@@ -1,0 +1,38 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Aug 16, 2006",Scott Carson,"1,88m",14555,['England'],€2.50m,: Ablöse free transfer,21,"Sep 3, 1985",Manchester City
+Goalkeeper,left,,"Jul 1, 2005",Thomas Myhre,"1,88m",3566,['Norway'],€1.40m,Sunderland AFC,33,"Oct 16, 1973",Retired
+Goalkeeper,right,,"Jul 1, 2004",Stephan Andersen,"1,88m",17880,['Denmark'],€1.00m,Akademisk Boldklub,25,"Nov 26, 1981",Vaerebro BK
+Goalkeeper,right,,"Jul 1, 2005",Darren Randolph,"1,87m",51321,"['Ireland', 'United States']",€150k,Charlton Athletic U18,20,"May 12, 1987",Retired
+Goalkeeper,left,,"Jul 1, 2004",Rob Elliot,"1,90m",39037,"['Ireland', 'England']",€75k,Charlton Athletic U18,21,"Apr 30, 1986",Retired
+Centre-Back,right,,"Aug 30, 2006",Souleymane Diawara,"1,87m",12503,"['Senegal', 'France']",€3.30m,: Ablöse €5.40m,28,"Dec 24, 1978",Retired
+Centre-Back,left,,"Aug 8, 2006",Djimi Traoré,"1,91m",3598,"['Mali', 'France']",€3.20m,: Ablöse €2.80m,27,"Mar 1, 1980",Retired
+Centre-Back,right,,"Jul 1, 2004",Talal El Karkouri,"1,86m",4130,"['Morocco', 'France']",€2.20m,: Ablöse €1.50m,30,"Jul 8, 1976",Retired
+Centre-Back,left,,"Jul 14, 2005",Gonzalo Sorondo,"1,90m",13488,"['Uruguay', 'Brazil']",€2.00m,: Ablöse free transfer,27,"Oct 9, 1979",Retired
+Centre-Back,,,"Jul 1, 2006",Cory Gibbs,,1186,"['United States', 'Jamaica']",€1.60m,: Ablöse free transfer,27,"Jan 14, 1980",Retired
+Centre-Back,right,,"Aug 31, 2010",Jonathan Fortune,"1,88m",4103,['England'],€1.00m,Sheffield United,26,"Aug 23, 1980",Retired
+Centre-Back,right,,"Jan 28, 2007",Madjid Bougherra,"1,90m",38074,"['Algeria', 'France']",€900k,: Ablöse €3.79m,24,"Oct 7, 1982",Retired
+Left-Back,left,,"Mar 27, 2003",Hermann Hreidarsson,"1,85m",3860,['Iceland'],€3.00m,Ipswich Town,32,"Jul 11, 1974",Retired
+Left-Back,left,,"Jan 1, 2007",Ben Thatcher,"1,78m",3304,"['Wales', 'England']",€2.30m,: Ablöse €750k,31,"Nov 30, 1975",Retired
+Left-Back,left,,"Jul 1, 2005",Nathan Ashton,"1,75m",34065,['England'],,Charlton Athletic U18,20,"Jan 30, 1987",Without Club
+Right-Back,right,,"Jul 1, 2001",Luke Young,"1,83m",3271,['England'],€4.50m,: Ablöse €6.00m,27,"Jul 19, 1979",Retired
+Right-Back,right,,"Jul 1, 2005",Osei Sankofa,"1,83m",4105,"['England', 'Jamaica']",€300k,Charlton Athletic U21,22,"Mar 19, 1985",Retired
+Defensive Midfield,right,,"Jan 30, 2007",Alex Song,"1,85m",27394,"['Cameroon', 'France']",€2.90m,: Ablöse €275k,19,"Sep 9, 1987",Retired
+Defensive Midfield,right,,"Aug 1, 2006",Amdy Faye,"1,84m",5428,"['Senegal', 'France']",€2.40m,Newcastle United,30,"Mar 12, 1977",Retired
+Defensive Midfield,right,,"Jul 1, 2000",Radostin Kishishev,"1,80m",3001,['Bulgaria'],€2.10m,: Ablöse €4.50m,32,"Jul 30, 1974",Retired
+Defensive Midfield,right,,"Aug 9, 2007",Zhi Zheng,"1,80m",21556,['China'],€1.20m,Shandong Luneng Taishan,26,"Aug 20, 1980",Retired
+Midfielder,,,"Jun 1, 2006",Alistair John,,254544,['England'],,Unknown,19,"Nov 28, 1987",Unknown
+Central Midfield,right,,"Jul 1, 2003",Matt Holland,"1,75m",3102,"['Ireland', 'England']",€3.10m,Ipswich Town,33,"Apr 11, 1974",Retired
+Central Midfield,right,,"Jul 7, 2006",Simon Walton,"1,85m",24797,['England'],€525k,Leeds United,19,"Sep 13, 1987",Retired
+Central Midfield,right,,"Aug 1, 2006",Omar Pouso,"1,83m",44450,['Uruguay'],€400k,CA Peñarol,27,"Feb 28, 1980",Retired
+Right Midfield,right,,"Jul 8, 2005",Darren Ambrose,"1,83m",4086,['England'],€2.00m,Newcastle United,23,"Feb 29, 1984",Retired
+Right Midfield,,,"Aug 31, 2005",Rúrik Gíslason,,15961,['Iceland'],€70k,HK Kópavogs,19,"Feb 25, 1988",Retired
+Left Midfield,left,Groin injury - Return unknown,"Jul 1, 2006",Andy Reid,"1,70m",10008,['Ireland'],€4.75m,Tottenham Hotspur,24,"Jul 29, 1982",Retired
+Attacking Midfield,right,,"Jul 1, 2004",Bryan Hughes,"1,78m",3939,['England'],€1.80m,: Ablöse free transfer,31,"Jun 19, 1976",Retired
+Left Winger,left,,"Feb 2, 2004",Jerome Thomas,"1,77m",3560,"['England', 'Guyana']",€750k,Arsenal FC Reserves,24,"Mar 23, 1983",Retired
+Right Winger,right,,"Jul 1, 2004",Dennis Rommedahl,"1,79m",4361,['Denmark'],€3.00m,: Ablöse €3.50m,28,"Jul 22, 1978",Retired
+Right Winger,right,,"Jul 1, 2003",Lloyd Sam,"1,73m",12131,"['Ghana', 'England']",€300k,Charlton Athletic U18,22,"Sep 27, 1984",Retired
+Centre-Forward,right,,"Jul 1, 2005",Darren Bent,"1,80m",13239,"['England', 'Jamaica']",€7.50m,Ipswich Town,23,"Feb 6, 1984",Retired
+Centre-Forward,right,,"Jan 1, 2006",Marcus Bent,"1,88m",9958,"['England', 'Jamaica']",€3.75m,: Ablöse €3.00m,29,"May 19, 1978",Cornard United FC
+Centre-Forward,right,,"Jul 1, 2006",Jimmy Floyd Hasselbaink,"1,78m",3175,"['Netherlands', 'Suriname']",€3.50m,: Ablöse free transfer,35,"Mar 27, 1972",Retired
+Centre-Forward,right,,"Jul 1, 1996",Kevin Lisbie,"1,78m",4097,"['Jamaica', 'England']",€2.00m,Charlton Athletic U18,28,"Oct 17, 1978",Retired
+Centre-Forward,right,,"Jul 1, 2005",James Walker,"1,80m",39038,"['Antigua and Barbuda', 'England']",,Charlton Athletic U18,19,"Nov 25, 1987",Retired

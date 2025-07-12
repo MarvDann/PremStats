@@ -1,0 +1,37 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,,"Aug 1, 2008",Brad Guzan,"1,93m",39471,"['United States', 'Poland']",€5.00m,CD Chivas USA,29,"Sep 9, 1984",Atlanta United FC
+Goalkeeper,left,,"Jul 1, 2013",Jed Steer,"1,83m",110867,"['England', 'Scotland']",€1.00m,: Ablöse €540k,21,"Sep 23, 1992",Peterborough United
+Goalkeeper,right,,"Jul 19, 2011",Shay Given,"1,85m",3146,['Ireland'],€1.00m,: Ablöse €3.75m,38,"Apr 20, 1976",Retired
+Centre-Back,right,,"Aug 1, 2012",Ron Vlaar,"1,89m",30697,['Netherlands'],€5.00m,: Ablöse €3.80m,29,"Feb 16, 1985",Retired
+Centre-Back,right,,"Jul 1, 2013",Jores Okore,"1,83m",129085,"['Denmark', ""Cote d'Ivoire""]",€4.50m,: Ablöse €4.70m,21,"Aug 11, 1992",Boldklubben af 1893
+Centre-Back,left,,"Jul 1, 2010",Ciaran Clark,"1,85m",98240,"['Ireland', 'England']",€4.00m,: Ablöse -,24,"Sep 26, 1989",Without Club
+Centre-Back,left,,"Jul 1, 2011",Nathan Baker,"1,89m",62638,['England'],€2.50m,: Ablöse -,23,"Apr 23, 1991",Retired
+Centre-Back,right,,"Jul 1, 2014",Philippe Senderos,"1,89m",4277,"['Switzerland', 'Spain']",€2.50m,Valencia CF,29,"Feb 14, 1985",Retired
+Left-Back,left,Knee surgery - Return unknown,"Jan 17, 2014",Ryan Bertrand,"1,79m",40611,['England'],€6.00m,Chelsea FC,24,"Aug 5, 1989",Retired
+Left-Back,left,,"Jul 1, 2013",Antonio Luna,"1,78m",126516,['Spain'],€2.00m,Sevilla FC,23,"Mar 17, 1991",FC Dinamo 1948
+Left-Back,left,,"Aug 29, 2012",Joe Bennett,"1,78m",90964,['England'],€1.50m,Middlesbrough FC,24,"Mar 28, 1990",Oxford United
+Left-Back,left,,"Jan 1, 2012",Enda Stevens,"1,83m",85706,['Ireland'],€500k,Shamrock Rovers,23,"Jul 9, 1990",Stoke City
+Right-Back,right,,"Jul 6, 2012",Matthew Lowton,"1,80m",102258,['England'],€3.00m,Sheffield United,25,"Jun 9, 1989",Precision FC
+Right-Back,right,,"Jul 1, 2013",Leandro Bacuna,"1,80m",126014,"['Curacao', 'Netherlands']",€2.50m,: Ablöse €1.40m,22,"Aug 21, 1991",FC Groningen
+Right-Back,right,Knee injury - Return unknown,"Aug 31, 2011",Alan Hutton,"1,85m",9619,['Scotland'],€1.50m,Tottenham Hotspur,29,"Nov 30, 1984",Retired
+Right-Back,right,Groin injury - Return unknown,"Jan 1, 2014",Janoi Donacien,"1,83m",197791,"['St. Lucia', 'England']",,: Ablöse -,20,"Nov 3, 1993",Unknown
+Defensive Midfield,right,,"Aug 31, 2012",Ashley Westwood,"1,74m",91317,['England'],€3.50m,Crewe Alexandra,24,"Apr 1, 1990",Charlotte FC
+Defensive Midfield,right,,"Jul 2, 2012",Karim El Ahmadi,"1,79m",25523,"['Morocco', 'Netherlands']",€2.50m,: Ablöse €2.80m,29,"Jan 27, 1985",Retired
+Defensive Midfield,right,,"Jan 31, 2013",Yacouba Sylla,"1,84m",160080,"['Mali', 'France']",€2.00m,Clermont Foot Auvergne 63,23,"Nov 29, 1990",Without Club
+Defensive Midfield,right,,"Jul 1, 2010",Chris Herd,"1,88m",61572,"['Australia', 'Scotland']",€1.50m,: Ablöse -,25,"Apr 4, 1989",Retired
+Central Midfield,left,,"Aug 4, 2009",Fabian Delph,"1,74m",50362,"['England', 'Guyana']",€5.00m,Leeds United,24,"Nov 21, 1989",Retired
+Central Midfield,right,,"Jul 1, 2011",Gary Gardner,"1,86m",110861,['England'],€1.50m,: Ablöse -,22,"Jun 29, 1992",Cambridge United
+Right Midfield,right,,"Jul 1, 2009",Marc Albrighton,"1,75m",61560,['England'],€2.50m,: Ablöse -,24,"Nov 18, 1989",Retired
+Attacking Midfield,right,,"Jul 1, 2011",Andreas Weimann,"1,79m",49693,['Austria'],€4.00m,: Ablöse -,22,"Aug 5, 1991",Blackburn Rovers
+Attacking Midfield,left,,"Jul 1, 2011",Daniel Johnson,"1,74m",169092,"['Jamaica', 'England']",,: Ablöse -,21,"Oct 8, 1992",Fatih Karagümrük
+Left Winger,both,,"Jul 1, 2013",Aleksandar Tonev,"1,78m",87282,['Bulgaria'],€2.00m,Lech Poznan,24,"Feb 3, 1990",Retired
+Left Winger,right,,"Jul 1, 2013",Jack Grealish,"1,80m",203460,"['England', 'Ireland']",€250k,: Ablöse -,18,"Sep 10, 1995",Manchester City
+Right Winger,left,heart problems - Return unknown,"Jul 30, 2011",Charles N'Zogbia,"1,71m",22165,"['France', 'DR Congo']",€3.00m,Wigan Athletic,28,"May 28, 1986",Retired
+Centre-Forward,right,,"Aug 31, 2012",Christian Benteke,"1,90m",50201,"['Belgium', 'DR Congo']",€18.00m,: Ablöse €8.80m,23,"Dec 3, 1990",D.C. United
+Centre-Forward,right,,"Jul 1, 2005",Gabriel Agbonlahor,"1,83m",37148,"['England', 'Nigeria']",€6.50m,: Ablöse -,27,"Oct 13, 1986",Retired
+Centre-Forward,right,,"Sep 2, 2013",Libor Kozák,"1,93m",63824,['Czech Republic'],€5.00m,: Ablöse €6.50m,25,"May 30, 1989",Slezsky FC Opava
+Centre-Forward,right,,"Jan 18, 2011",Darren Bent,"1,80m",13239,"['England', 'Jamaica']",€5.00m,Sunderland AFC,30,"Feb 6, 1984",Retired
+Centre-Forward,right,,"Jan 14, 2014",Grant Holt,"1,83m",13412,['England'],€2.00m,Wigan Athletic,33,"Apr 12, 1981",Retired
+Centre-Forward,right,,"Jul 1, 2013",Nicklas Helenius,"1,96m",102132,['Denmark'],€1.50m,Aalborg BK,23,"May 8, 1991",Aalborg BK
+Centre-Forward,right,,"Aug 31, 2012",Jordan Bowery,"1,85m",94655,['England'],€1.00m,Chesterfield FC,22,"Jul 2, 1991",Mansfield Town
+Centre-Forward,right,,"Jul 1, 2014",Callum Robinson,"1,78m",183299,"['Ireland', 'England']",€250k,: Ablöse -,19,"Feb 2, 1995",Cardiff City

@@ -1,0 +1,39 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2013",Simon Mignolet,"1,93m",50219,['Belgium'],€12.00m,Sunderland AFC,29,"Mar 6, 1988",Club Brugge KV
+Goalkeeper,right,,"Jul 1, 2016",Loris Karius,"1,91m",85864,['Germany'],€8.00m,: Ablöse €6.20m,24,"Jun 22, 1993",Without Club
+Goalkeeper,right,,"Jan 30, 2012",Danny Ward,"1,91m",203026,['Wales'],€2.50m,Wrexham AFC,24,"Jun 22, 1993",Leicester City
+Goalkeeper,right,,"Jul 1, 2015",Ádám Bogdán,"1,94m",55247,['Hungary'],€1.00m,Bolton Wanderers,29,"Sep 27, 1987",Retired
+Goalkeeper,,,"Jul 22, 2016",Alexander Manninger,,5278,['Austria'],€200k,FC Augsburg,40,"Jun 4, 1977",Retired
+Centre-Back,right,,"Jul 1, 2016",Joel Matip,"1,95m",82105,"['Cameroon', 'Germany']",€25.00m,FC Schalke 04,25,"Aug 8, 1991",Retired
+Centre-Back,right,"No eligibility - until Jun 30, 2025 - UEFA Europa League","Jul 27, 2014",Dejan Lovren,"1,88m",37838,['Croatia'],€17.00m,Southampton FC,27,"Jul 5, 1989",PAOK Thessaloniki
+Centre-Back,left,,"Sep 2, 2013",Mamadou Sakho,"1,87m",47713,"['France', 'Senegal']",€15.00m,: Ablöse €19.00m,27,"Feb 13, 1990",Torpedo Kutaisi
+Centre-Back,right,,"Jul 1, 2015",Joe Gomez,"1,88m",256178,"['England', 'The Gambia']",€4.00m,Charlton Athletic,20,"May 23, 1997",Liverpool FC
+Centre-Back,left,,"Jul 20, 2016",Ragnar Klavan,"1,87m",26669,['Estonia'],€3.50m,FC Augsburg,31,"Oct 30, 1985",Kalev Tallinn
+Left-Back,left,,"Aug 13, 2014",Alberto Moreno,"1,71m",207917,['Spain'],€10.00m,Sevilla FC,24,"Jul 5, 1992",Como 1907
+Right-Back,right,,"Jul 1, 2015",Nathaniel Clyne,"1,75m",85177,"['England', 'Grenada']",€21.00m,Southampton FC,26,"Apr 5, 1991",Crystal Palace
+Right-Back,right,,"Jan 1, 2011",Jon Flanagan,"1,81m",145922,"['England', 'Ireland']",€3.50m,: Ablöse -,24,"Jan 1, 1993",Retired
+Right-Back,right,,"Jul 1, 2011",Andre Wisdom,"1,86m",128912,"['England', 'Jamaica']",€2.75m,: Ablöse -,24,"May 9, 1993",Derry City
+Right-Back,right,,"Jul 1, 2016",Trent Alexander-Arnold,"1,75m",314353,['England'],€1.50m,: Ablöse -,18,"Oct 7, 1998",Liverpool FC
+Right-Back,right,,"Jul 1, 2015",Connor Randall,"1,80m",262545,['England'],€500k,: Ablöse -,21,"Oct 21, 1995",Ross County FC
+Defensive Midfield,right,"Red card suspension - until Dec 1, 2024 - Bundesliga - 2 matchdays","Jul 1, 2014",Emre Can,"1,86m",119296,"['Germany', 'Türkiye']",€15.00m,Bayer 04 Leverkusen,23,"Jan 12, 1994",Borussia Dortmund
+Defensive Midfield,right,,"Jul 1, 2007",Lucas Leiva,"1,79m",41414,"['Brazil', 'Italy']",€7.00m,Grêmio Foot-Ball Porto Alegrense,30,"Jan 9, 1987",Retired
+Defensive Midfield,right,Heel injury - Return unknown,"Jan 6, 2016",Marko Grujić,"1,91m",222813,['Serbia'],€5.00m,Red Star Belgrade,21,"Apr 13, 1996",FC Porto
+Defensive Midfield,,,"Jul 7, 2014",Kevin Stewart,"1,82m",200782,"['Jamaica', 'England']",€1.00m,Tottenham Hotspur U21,23,"Sep 7, 1993",Retired
+Defensive Midfield,right,,,MJ Williams,"1,87m",279454,['Wales'],€100k,,21,"Nov 6, 1995",Milton Keynes Dons
+Defensive Midfield,right,,,Paulinho,"1,76m",372670,['Portugal'],,,19,"Dec 25, 1997",Leixões SC
+Central Midfield,right,,"Jul 22, 2016",Georginio Wijnaldum,"1,75m",49499,"['Netherlands', 'Suriname']",€28.00m,Newcastle United,26,"Nov 11, 1990",Al-Ettifaq FC
+Central Midfield,right,,"Jul 1, 2011",Jordan Henderson,"1,82m",61651,['England'],€28.00m,Sunderland AFC,27,"Jun 17, 1990",Ajax Amsterdam
+Central Midfield,right,,"Jul 1, 2015",James Milner,"1,75m",3333,['England'],€12.00m,: Ablöse free transfer,31,"Jan 4, 1986",Brighton & Hove Albion
+Left Midfield,right,,"Jul 1, 2016",Ovie Ejaria,"1,88m",337284,"['England', 'Nigeria']",€500k,: Ablöse -,19,"Nov 18, 1997",Without Club
+Attacking Midfield,right,,"Jan 30, 2013",Philippe Coutinho,"1,72m",80444,"['Brazil', 'Portugal']",€45.00m,: Ablöse €13.00m,25,"Jun 12, 1992",Clube de Regatas Vasco da Gama
+Attacking Midfield,both,,"Jul 1, 2014",Adam Lallana,"1,72m",43530,['England'],€25.00m,Southampton FC,29,"May 10, 1988",Southampton FC
+Attacking Midfield,right,,"Jan 1, 2017",Ben Woodburn,"1,74m",344015,"['Wales', 'England']",€1.50m,: Ablöse -,17,"Oct 15, 1999",Salford City
+Left Winger,right,,"Jul 1, 2016",Sadio Mané,"1,74m",200512,['Senegal'],€40.00m,Southampton FC,25,"Apr 10, 1992",Al-Nassr FC
+Right Winger,right,,"Jul 15, 2014",Lazar Markovic,"1,75m",144303,['Serbia'],€10.00m,SL Benfica,23,"Mar 2, 1994",FC Baniyas
+Right Winger,left,,"Jul 7, 2015",Sheyi Ojo,"1,79m",236510,"['England', 'Nigeria']",€2.00m,: Ablöse -,20,"Jun 19, 1997",NK Maribor
+Right Winger,left,,"Jul 1, 2018",Harry Wilson,"1,73m",279455,"['Wales', 'England']",€100k,: Ablöse -,20,"Mar 22, 1997",Fulham FC
+Centre-Forward,right,,"Jul 1, 2015",Roberto Firmino,"1,81m",131789,['Brazil'],€38.00m,TSG 1899 Hoffenheim,25,"Oct 2, 1991",Al-Ahli SFC
+Centre-Forward,left,,"Jan 2, 2013",Daniel Sturridge,"1,82m",47082,['England'],€20.00m,Chelsea FC,27,"Sep 1, 1989",Retired
+Centre-Forward,right,,"Jul 29, 2014",Divock Origi,"1,89m",148368,"['Belgium', 'Kenya']",€12.00m,: Ablöse €12.63m,22,"Apr 18, 1995",Milan Futuro
+Centre-Forward,right,,"Jul 1, 2015",Danny Ings,"1,77m",134294,['England'],€8.00m,: Ablöse €8.30m,24,"Jul 23, 1992",West Ham United
+Centre-Forward,right,,,Rhian Brewster,"1,80m",406560,"['England', 'Barbados']",,,17,"Apr 1, 2000",Sheffield United

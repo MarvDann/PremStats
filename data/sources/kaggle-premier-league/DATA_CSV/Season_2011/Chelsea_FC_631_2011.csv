@@ -1,0 +1,33 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,,"Jul 1, 2004",Petr Cech,"1,96m",5658,['Czech Republic'],€25.00m,,Stade Rennais FC,30,"May 20, 1982",Retired
+Goalkeeper,right,,"Jul 2, 2009",Ross Turnbull,"1,93m",29159,['England'],€1.50m,,Middlesbrough FC,27,"Jan 4, 1985",Retired
+Goalkeeper,right,,"Jul 1, 2006",Hilário,"1,89m",13886,['Portugal'],€500k,,CD Nacional,36,"Oct 21, 1975",Retired
+Goalkeeper,right,,"Jul 1, 2014",Jamal Blackman,"1,99m",128898,"['England', 'Barbados']",,,Chelsea FC U21,18,"Oct 27, 1993",Without Club
+Centre-Back,right,,"Aug 31, 2016",David Luiz,"1,89m",46741,"['Brazil', 'Portugal']",€23.00m,,: Ablöse €35.00m,25,"Apr 22, 1987",CR Flamengo
+Centre-Back,right,,"Jan 1, 2000",John Terry,"1,87m",3160,['England'],€17.50m,,: Ablöse -,31,"Dec 7, 1980",Retired
+Centre-Back,right,,"Jan 16, 2012",Gary Cahill,"1,93m",27511,['England'],€16.50m,,: Ablöse €8.40m,26,"Dec 19, 1985",Retired
+Centre-Back,right,,"Jul 1, 2004",Alex,"1,88m",15420,['Brazil'],€8.50m,,Santos FC,30,"Jun 17, 1982",Retired
+Left-Back,left,,"Aug 31, 2006",Ashley Cole,"1,76m",3182,"['England', 'Barbados']",€12.50m,,: Ablöse €7.40m,31,"Dec 20, 1980",Retired
+Left-Back,left,Knee surgery - Return unknown,"Jul 1, 2007",Ryan Bertrand,"1,79m",40611,['England'],€2.50m,,Chelsea FC U18,22,"Aug 5, 1989",Retired
+Right-Back,right,,"Jan 15, 2008",Branislav Ivanovic,"1,85m",36827,['Serbia'],€21.00m,,: Ablöse €12.00m,28,"Feb 22, 1984",Retired
+Right-Back,right,,"Jul 16, 2008",Bosingwa,"1,83m",9813,"['Portugal', 'DR Congo']",€5.00m,,FC Porto,29,"Aug 24, 1982",Retired
+Right-Back,right,,"Jul 1, 2004",Paulo Ferreira,"1,83m",9832,['Portugal'],€1.00m,,: Ablöse €20.00m,33,"Jan 18, 1979",Retired
+Defensive Midfield,right,,"Aug 19, 2005",Michael Essien,"1,78m",5588,"['Ghana', 'France']",€24.00m,,: Ablöse €38.00m,29,"Dec 3, 1982",Retired
+Defensive Midfield,right,,"Jul 19, 2006",John Obi Mikel,"1,88m",30739,"['Nigeria', 'England']",€19.00m,,Lyn 1896 FK,25,"Apr 22, 1987",Retired
+Defensive Midfield,right,,"Aug 4, 2011",Oriol Romeu,"1,83m",66100,['Spain'],€8.00m,,FC Barcelona B,20,"Sep 24, 1991",Girona FC
+Defensive Midfield,right,Knee injury - Return unknown,"Dec 1, 2011",Sam Hutchinson,"1,82m",40617,['England'],,,,22,"Aug 3, 1989",Without Club
+Defensive Midfield,right,,"Jul 1, 2012",Nathaniel Chalobah,"1,85m",128900,"['England', 'Sierra Leone']",,,Chelsea FC U18,17,"Dec 12, 1994",Sheffield Wednesday
+Central Midfield,right,,"Aug 13, 2010",Ramires,"1,79m",54170,['Brazil'],€30.00m,,SL Benfica,25,"Mar 24, 1987",Retired
+Central Midfield,both,,"Aug 31, 2011",Raúl Meireles,"1,79m",13168,['Portugal'],€15.00m,,: Ablöse €13.50m,29,"Mar 17, 1983",Retired
+Central Midfield,right,,"Jul 1, 2001",Frank Lampard,"1,84m",3163,['England'],€5.50m,,: Ablöse €16.00m,34,"Jun 20, 1978",Retired
+Central Midfield,left,,"Jul 1, 2010",Josh McEachran,"1,78m",128905,"['England', 'Scotland']",€4.50m,,Chelsea FC Reserves,19,"Mar 1, 1993",Oxford United
+Attacking Midfield,left,,"Aug 24, 2011",Juan Mata,"1,70m",44068,['Spain'],€38.00m,,: Ablöse €26.70m,24,"Apr 28, 1988",Western Sydney Wanderers
+Attacking Midfield,right,,"Jan 20, 2012",Lucas Piazón,"1,82m",176485,"['Brazil', 'Italy']",€7.50m,,São Paulo Futebol Clube,18,"Jan 20, 1994",Avs Futebol
+Left Winger,right,,"Jul 1, 2006",Salomon Kalou,"1,84m",7971,"[""Cote d'Ivoire""]",€6.00m,,: Ablöse €4.00m,26,"Aug 5, 1985",Retired
+Left Winger,left,,"Jul 9, 2007",Florent Malouda,"1,77m",5461,"['France', 'French Guiana']",€5.50m,,: Ablöse €19.00m,32,"Jun 13, 1980",Retired
+Right Winger,right,,"Jul 2, 2010",Yossi Benayoun,"1,75m",7858,['Israel'],€4.50m,,: Ablöse €7.00m,32,"May 5, 1980",Retired
+Centre-Forward,right,,"Jan 31, 2011",Fernando Torres,"1,86m",7767,['Spain'],€35.00m,,: Ablöse €58.50m,28,"Mar 20, 1984",Retired
+Centre-Forward,left,,"Jul 3, 2009",Daniel Sturridge,"1,82m",47082,['England'],€16.00m,,: Ablöse €7.25m,22,"Sep 1, 1989",Retired
+Centre-Forward,left,,"Aug 12, 2021",Romelu Lukaku,"1,91m",96341,"['Belgium', 'DR Congo']",€14.00m,"Returned after loan spell with AS Roma; date: Jun 30, 2024; fee: End of loan",Inter Milan,19,"May 13, 1993",SSC Napoli
+Centre-Forward,both,,"Jul 25, 2014",Didier Drogba,"1,89m",3924,"[""Cote d'Ivoire"", 'France']",€5.50m,,Galatasaray,34,"Mar 11, 1978",Retired
+Centre-Forward,right,,"Jan 11, 2008",Nicolas Anelka,"1,86m",3226,"['France', 'Martinique']",€3.00m,,: Ablöse €18.00m,33,"Mar 14, 1979",Retired

@@ -1,0 +1,46 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 14, 2004",Manuel Almunia,"1,91m",16621,['Spain'],€7.50m,Celta de Vigo,33,"May 19, 1977",Retired
+Goalkeeper,right,,"Jul 1, 2007",Lukasz Fabianski,"1,90m",29692,['Poland'],€2.50m,: Ablöse €4.35m,25,"Apr 18, 1985",West Ham United
+Goalkeeper,right,,"Jul 4, 2005",Vito Mannone,"1,88m",33781,['Italy'],€1.00m,Atalanta Primavera,22,"Mar 2, 1988",LOSC Lille
+Goalkeeper,right,,"Jul 1, 2008",Wojciech Szczęsny,"1,95m",44058,['Poland'],€475k,Arsenal FC U18,20,"Apr 18, 1990",FC Barcelona
+Goalkeeper,,,"Jul 1, 2012",James Shea,"1,85m",91340,"['England', 'Ireland']",,Arsenal FC U21,19,"Jun 16, 1991",Luton Town
+Centre-Back,left,,"Jul 1, 2009",Thomas Vermaelen,"1,83m",15904,['Belgium'],€17.00m,: Ablöse €12.00m,24,"Nov 14, 1985",Retired
+Centre-Back,right,,"Aug 31, 2006",William Gallas,"1,82m",3156,"['France', 'Guadeloupe']",€16.00m,Chelsea FC,32,"Aug 17, 1977",Retired
+Centre-Back,,,"Jul 1, 2004",Johan Djourou,,34561,"['Switzerland', ""Cote d'Ivoire""]",€4.50m,Arsenal FC U18,23,"Jan 18, 1987",Retired
+Centre-Back,right,,"Jul 1, 2003",Philippe Senderos,"1,89m",4277,"['Switzerland', 'Spain']",€3.00m,: Ablöse €3.55m,25,"Feb 14, 1985",Retired
+Centre-Back,,,"Jan 1, 2010",Sol Campbell,,3198,"['England', 'Jamaica']",€1.50m,Without Club,35,"Sep 18, 1974",Retired
+Centre-Back,right,,,Kyle Bartley,"1,94m",67421,"['England', 'Jamaica']",€175k,,19,"May 22, 1991",West Bromwich Albion
+Left-Back,left,,"Aug 4, 2003",Gaël Clichy,"1,76m",7449,"['France', 'Martinique']",€15.00m,: Ablöse €375k,24,"Jul 26, 1985",Retired
+Left-Back,left,,"Jul 1, 2007",Kieran Gibbs,"1,81m",44792,['England'],€3.00m,Arsenal FC U18,20,"Sep 26, 1989",Retired
+Left-Back,left,,"Jul 1, 2007",Armand Traoré,"1,84m",33783,"['Senegal', 'France']",€3.00m,Arsenal FC U18,20,"Oct 8, 1989",Retired
+Left-Back,,,"Aug 20, 2008",Mikaël Silvestre,,3393,"['France', 'Guadeloupe']",€2.50m,Manchester United,32,"Aug 9, 1977",Retired
+Left-Back,left,,,Thomas Cruise,"1,83m",67425,['England'],€200k,,19,"Mar 9, 1991",Retired
+Right-Back,right,,"Jul 12, 2007",Bacary Sagna,"1,76m",26764,"['France', 'Senegal']",€14.50m,AJ Auxerre,27,"Feb 14, 1983",Retired
+Right-Back,right,,"Jan 7, 2005",Emmanuel Eboué,"1,78m",13058,"[""Cote d'Ivoire"", 'Belgium']",€7.00m,KSK Beveren (- 2010),27,"Jun 4, 1983",Retired
+Right-Back,right,,"Jul 1, 2005",Kerrea Gilbert,"1,75m",34562,['England'],€300k,Arsenal FC U18,23,"Feb 28, 1987",Retired
+Right-Back,right,,,Luke Ayling,"1,83m",67420,['England'],€300k,,18,"Aug 25, 1991",Middlesbrough FC
+Defensive Midfield,right,,"Aug 11, 2005",Alex Song,"1,85m",27394,"['Cameroon', 'France']",€13.00m,: Ablöse €4.00m,22,"Sep 9, 1987",Retired
+Defensive Midfield,right,,"Aug 31, 2006",Denílson,"1,78m",42352,['Brazil'],€9.00m,São Paulo Futebol Clube,22,"Feb 16, 1988",Retired
+Defensive Midfield,right,,"Jul 1, 2011",Emmanuel Frimpong,"1,75m",93056,"['Ghana', 'England']",€200k,Arsenal FC Reserves,18,"Jan 10, 1992",Retired
+Defensive Midfield,right,,"Jul 1, 2011",Francis Coquelin,"1,77m",74869,"['France', 'Réunion']",€100k,Arsenal FC Reserves,19,"May 13, 1991",Without Club
+Central Midfield,right,,"Jul 1, 2004",Cesc Fàbregas,"1,79m",8806,['Spain'],€55.00m,Arsenal FC U18,23,"May 4, 1987",Retired
+Central Midfield,right,,"Jan 13, 2006",Abou Diaby,"1,91m",26763,"['France', ""Cote d'Ivoire""]",€7.50m,AJ Auxerre,24,"May 11, 1986",Retired
+Central Midfield,right,Hamstring injury - Return unknown,"Jul 1, 2008",Aaron Ramsey,"1,78m",50057,['Wales'],€6.00m,: Ablöse €6.40m,19,"Dec 26, 1990",Cardiff City
+Central Midfield,left,,"Jul 1, 2008",Jack Wilshere,"1,72m",74223,['England'],€3.00m,Arsenal FC U18,18,"Jan 1, 1992",Retired
+Central Midfield,left,,"Jul 1, 2007",Fran Mérida,"1,73m",42920,['Spain'],€2.00m,Arsenal FC U18,20,"Mar 4, 1990",Retired
+Central Midfield,right,,"Jul 1, 2008",Henri Lansbury,"1,83m",44794,['England'],€600k,Arsenal FC U18,19,"Oct 12, 1990",Retired
+Central Midfield,right,,"Jan 1, 2010",Craig Eastmond,"1,82m",67426,"['England', 'Jamaica']",€500k,Arsenal FC U18,19,"Dec 9, 1990",Wealdstone FC
+Central Midfield,right,,"Jul 1, 2007",Mark Randall,"1,83m",44799,['England'],€250k,Arsenal FC U18,20,"Sep 28, 1989",Larne FC
+Central Midfield,left,,,Conor Henderson,"1,83m",91330,"['Ireland', 'England']",,,18,"Sep 8, 1991",Without Club
+Attacking Midfield,right,,"Jul 11, 2008",Samir Nasri,"1,77m",18935,"['France', 'Algeria']",€18.00m,Olympique Marseille,23,"Jun 26, 1987",Retired
+Attacking Midfield,both,,"Jul 1, 2006",Tomas Rosicky,"1,79m",132,['Czech Republic'],€11.00m,Borussia Dortmund,29,"Oct 4, 1980",Retired
+Attacking Midfield,right,,"Jul 1, 2008",Nacer Barazite,"1,88m",44787,"['Netherlands', 'Morocco']",€750k,Arsenal FC U18,20,"May 27, 1990",Retired
+Attacking Midfield,left,,"Jul 1, 2009",Jay Emmanuel-Thomas,"1,91m",27969,"['England', 'St. Lucia']",€300k,Arsenal FC U18,19,"Dec 27, 1990",Without Club
+Left Winger,both,,"Jan 31, 2009",Andrey Arshavin,"1,72m",15378,['Russia'],€26.00m,: Ablöse €16.50m,29,"May 29, 1981",Retired
+Left Winger,left,,,Sanchez Watt,"1,80m",67430,"['England', 'Jamaica']",€150k,,19,"Feb 14, 1991",Retired
+Right Winger,both,,"Jan 20, 2006",Theo Walcott,"1,75m",33713,['England'],€13.00m,Southampton FC,21,"Mar 16, 1989",Retired
+Right Winger,left,,"Jan 1, 2006",Carlos Vela,"1,77m",35773,"['Mexico', 'Spain']",€5.00m,Deportivo Guadalajara U20,21,"Mar 1, 1989",Los Angeles FC
+Right Winger,right,,,Gilles Sunu,"1,83m",54933,"['Togo', 'France']",,,19,"Mar 30, 1991",Without Club
+Centre-Forward,left,,"Jul 1, 2004",Robin van Persie,"1,83m",4380,['Netherlands'],€25.00m,: Ablöse €4.50m,26,"Aug 6, 1983",Retired
+Centre-Forward,left,,"Jul 1, 2007",Eduardo,"1,77m",24633,"['Croatia', 'Brazil']",€10.50m,GNK Dinamo Zagreb,27,"Feb 25, 1983",Retired
+Centre-Forward,,,"Jul 1, 2007",Nicklas Bendtner,,34557,['Denmark'],€8.00m,Arsenal FC Reserves,22,"Jan 16, 1988",Retired

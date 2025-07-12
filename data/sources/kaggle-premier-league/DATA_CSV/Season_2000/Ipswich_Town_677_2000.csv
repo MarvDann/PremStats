@@ -1,0 +1,31 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Nov 1, 2011",Richard Wright,"1,90m",3120,['England'],Without Club,23,"Nov 5, 1977",Retired
+Goalkeeper,right,"Jul 1, 1999",Mike Salmon,"1,88m",591026,['England'],Charlton Athletic,36,"Jul 14, 1964",Retired
+Goalkeeper,,"Mar 1, 2000",Keith Branagan,"1,83m",195173,"['Ireland', 'England']",: Ablöse free transfer,34,"Jul 10, 1966",Retired
+Goalkeeper,,,James Pullen,"1,87m",13255,['England'],,19,"Mar 18, 1982",Retired
+Defender,,"Jul 1, 1995",Tony Mowbray,"1,85m",135509,['England'],Celtic FC,37,"Nov 22, 1963",Retired
+Centre-Back,right,"Aug 5, 1999",John McGreal,"1,80m",13250,['England'],: Ablöse €950k,29,"Jun 2, 1972",Retired
+Centre-Back,left,"Aug 1, 1997",Mark Venus,"1,82m",13259,['England'],: Ablöse €230k,34,"Apr 6, 1967",Retired
+Centre-Back,right,"Jul 1, 1996",Richard Naylor,"1,85m",13252,['England'],Ipswich Town U18,24,"Feb 28, 1977",Retired
+Centre-Back,right,"Jul 5, 2000",John Scales,"1,88m",104899,['England'],: Ablöse free transfer,34,"Jul 4, 1966",Retired
+Centre-Back,left,"Jul 1, 1996",Wayne Brown,"1,83m",13996,['England'],Ipswich Town U18,23,"Aug 20, 1977",Retired
+Centre-Back,,"Sep 1, 1998",Jean-Manuel Thétis,"1,87m",173718,['France'],Sevilla FC,29,"Nov 5, 1971",Retired
+Centre-Back,right,"Jul 1, 1998",Titus Bramble,"1,92m",3130,"['England', 'Montserrat']",Ipswich Town U18,19,"Jul 31, 1981",Retired
+Left-Back,left,"Mar 1, 1998",Jamie Clapham,"1,75m",3938,['England'],: Ablöse €450k,25,"Dec 7, 1975",Retired
+Left-Back,right,"Sep 1, 1999",Gary Croft,"1,75m",12692,['England'],Blackburn Rovers,27,"Feb 17, 1974",Retired
+Left-Back,left,"Aug 18, 2000",Hermann Hreidarsson,"1,85m",3860,['Iceland'],: Ablöse €6.75m,26,"Jul 11, 1974",Retired
+Left-Back,left,"Sep 15, 2000",Amir Karic,"1,84m",13321,['Slovenia'],NK Maribor,27,"Dec 31, 1973",Retired
+Left-Back,right,"Mar 7, 2001",Chris Makin,"1,80m",13248,['England'],Sunderland AFC,28,"May 8, 1973",Retired
+Right-Back,right,"Jan 5, 1999",Fabian Wilnis,"1,73m",13260,"['Netherlands', 'Suriname']",: Ablöse €300k,30,"Aug 23, 1970",Retired
+Midfielder,,"Jul 1, 2000",Nabil Abidallah,"1,70m",13236,"['Netherlands', 'Morocco']",: Ablöse free transfer,18,"Aug 5, 1982",Retired
+Central Midfield,right,"Jul 1, 1997",Matt Holland,"1,75m",3102,"['Ireland', 'England']",: Ablöse €1.00m,27,"Apr 11, 1974",Retired
+Central Midfield,left,"Jul 23, 1999",Jermaine Wright,"1,75m",13261,['England'],Crewe Alexandra,25,"Oct 21, 1975",Retired
+Right Midfield,right,"Jan 15, 1999",Jim Magilton,"1,83m",3481,['Northern Ireland'],: Ablöse €900k,32,"May 6, 1969",Retired
+Attacking Midfield,left,"Jan 1, 2000",Martijn Reuser,"1,78m",13356,['Netherlands'],: Ablöse €1.00m,26,"Feb 1, 1975",Retired
+Left Winger,both,"Nov 14, 1997",David Johnson,"1,68m",9979,"['Jamaica', 'England']",Bury FC,24,"Aug 15, 1976",Retired
+Right Winger,right,"Feb 14, 2005",James Scowcroft,"1,85m",4265,['England'],: Ablöse free transfer,25,"Nov 15, 1975",Retired
+Centre-Forward,left,"Feb 1, 2000",Marcus Stewart,"1,78m",4119,['England'],: Ablöse €4.13m,28,"Nov 8, 1972",Retired
+Centre-Forward,right,"Jul 1, 1998",Richard Logan,"1,85m",13245,['England'],Ipswich Town U18,19,"Jan 4, 1982",Retired
+Striker,,"Jul 1, 1998",Sean Friars,,107192,['Northern Ireland'],: Ablöse free transfer,22,"May 15, 1979",Retired
+Centre-Forward,right,"Dec 1, 2000",Alun Armstrong,"1,84m",13237,['England'],: Ablöse €750k,26,"Feb 22, 1975",Retired
+Centre-Forward,both,"Feb 20, 2001",Mark Burchill,"1,73m",25204,['Scotland'],Celtic FC,20,"Aug 18, 1980",Retired

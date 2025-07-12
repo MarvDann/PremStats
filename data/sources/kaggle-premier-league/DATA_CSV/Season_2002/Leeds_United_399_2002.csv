@@ -1,0 +1,37 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 1996",Nigel Martyn,"1,88m",3629,['England'],: Ablöse €3.35m,36,"Aug 11, 1966",Retired
+Goalkeeper,right,"Jul 1, 1998",Paul Robinson,"1,93m",3630,['England'],Leeds United U18,23,"Oct 15, 1979",Retired
+Goalkeeper,right,"Jul 1, 1999",Dejan Milosevic,"1,89m",3770,"['Australia', 'Serbia']",: Ablöse €175k,25,"Jun 26, 1978",Retired
+Centre-Back,right,"Jul 1, 1994",Lucas Radebe,"1,86m",3088,['South Africa'],Kaizer Chiefs,34,"Apr 12, 1969",Retired
+Centre-Back,right,"Jul 1, 1998",Jonathan Woodgate,"1,88m",3224,['England'],Leeds United U18,23,"Jan 22, 1980",Retired
+Centre-Back,left,"Jan 1, 2003",Raúl Bravo,"1,81m",3771,['Spain'],Real Madrid,22,"Apr 14, 1981",Retired
+Centre-Back,,"Jan 1, 2003",Teddy Lucic,,3734,"['Sweden', 'Croatia']",AIK,30,"Apr 15, 1973",Retired
+Centre-Back,both,"Jul 9, 1999",Michael Duberry,"1,85m",3633,"['England', 'Montserrat']",: Ablöse €6.75m,27,"Oct 14, 1975",Retired
+Centre-Back,left,"Jul 1, 2000",Shane Cansdell-Sherriff,"1,82m",3632,['Australia'],New South Wales Institute of Sport,20,"Nov 10, 1982",Retired
+Centre-Back,,"Jul 1, 2002",Matthew Kilgallon,"1,85m",4095,['England'],Leeds United U18,19,"Jan 8, 1984",Retired
+Left-Back,left,"Jul 1, 1995",Ian Harte,"1,75m",3634,['Ireland'],Leeds United U18,25,"Aug 31, 1977",Retired
+Left-Back,left,"Aug 18, 2000",Dominic Matteo,"1,86m",3765,"['Scotland', 'England']",: Ablöse €7.13m,29,"Apr 28, 1974",Retired
+Right-Back,right,"Jul 1, 1991",Gary Kelly,"1,73m",3631,['Ireland'],Leeds United U18,28,"Jul 9, 1974",Retired
+Right-Back,right,"Jul 1, 1999",Danny Mills,"1,80m",3743,['England'],Charlton Athletic,26,"May 18, 1977",Retired
+Right-Back,right,"Jul 1, 2001",Frazer Richardson,"1,80m",4094,['England'],Leeds United U18,20,"Oct 29, 1982",Retired
+Defensive Midfield,both,"Jul 1, 2000",Olivier Dacourt,"1,75m",3572,"['France', 'Guadeloupe']",: Ablöse €10.50m,28,"Sep 25, 1974",Retired
+Defensive Midfield,right,"Jan 1, 1999",David Batty,"1,70m",3295,['England'],Newcastle United,34,"Dec 2, 1968",Retired
+Defensive Midfield,right,"Jul 1, 2002",Paul Okon,"1,81m",4092,"['Australia', 'Belgium']",Watford FC,31,"Apr 5, 1972",Retired
+Defensive Midfield,left,"Jul 1, 2000",Jacob Burns,"1,78m",4096,['Australia'],Parramatta Power,25,"Apr 21, 1978",Retired
+Central Midfield,right,"Jul 1, 1996",Lee Bowyer,"1,75m",3877,['England'],Charlton Athletic,26,"Jan 3, 1977",Retired
+Central Midfield,,"Jul 1, 1998",Alan Smith,,3768,['England'],Leeds United U18,22,"Oct 28, 1980",Retired
+Central Midfield,right,"Jul 1, 1999",Eirik Bakke,"1,88m",3284,['Norway'],Sogndal IL,25,"Sep 13, 1977",Retired
+Central Midfield,left,"Oct 1, 2001",Seth Johnson,"1,79m",3635,['England'],: Ablöse €11.50m,24,"Mar 12, 1979",Retired
+Central Midfield,right,"Jul 1, 2000",Jamie McMaster,"1,78m",3766,"['Australia', 'England']",New South Wales Institute of Sport,20,"Nov 29, 1982",Retired
+Central Midfield,right,"Jan 1, 2003",Paul Keegan,"1,80m",8068,['Ireland'],Home Farm,18,"Jul 5, 1984",Retired
+Central Midfield,right,"Jul 1, 2002",James Milner,"1,75m",3333,['England'],Leeds United U18,17,"Jan 4, 1986",Brighton & Hove Albion
+Left Midfield,,"Aug 9, 2002",Nick Barmby,,3222,['England'],: Ablöse €4.50m,29,"Feb 11, 1974",Retired
+Left Midfield,left,"Jul 1, 1997",Stephen McPhail,"1,77m",3764,"['Ireland', 'England']",Leeds United U18,23,"Dec 9, 1979",Retired
+Left Midfield,left,"Jan 1, 2000",Jason Wilcox,"1,80m",3320,['England'],Blackburn Rovers,31,"Jul 15, 1971",Retired
+Left Midfield,left,"Jul 1, 2000",Harpal Singh,"1,70m",3769,"['India', 'England']",Leeds United U18,21,"Sep 15, 1981",Retired
+Left Winger,left,"Dec 23, 1995",Harry Kewell,"1,80m",3241,"['Australia', 'England']",Marconi Stallions FC,24,"Sep 22, 1978",Retired
+Centre-Forward,right,"Jul 1, 2001",Robbie Keane,"1,75m",3144,['Ireland'],: Ablöse €18.00m,22,"Jul 8, 1980",Retired
+Centre-Forward,right,"Jul 1, 1999",Michael Bridges,"1,85m",3767,['England'],Sunderland AFC,24,"Aug 5, 1978",Retired
+Centre-Forward,both,"Jul 1, 2000",Mark Viduka,"1,88m",3242,"['Australia', 'Croatia']",Celtic FC,27,"Oct 9, 1975",Retired
+Centre-Forward,left,"Dec 1, 2001",Robbie Fowler,"1,80m",3225,['England'],: Ablöse €16.80m,28,"Apr 9, 1975",Retired
+Centre-Forward,right,"Jul 7, 2000",Simon Johnson,"1,75m",4093,['England'],Leeds United U18,20,"Mar 9, 1983",Retired

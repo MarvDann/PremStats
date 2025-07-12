@@ -1,0 +1,36 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 2005",Adam Federici,"1,88m",4233,"['Australia', 'Italy']",€2.00m,FFA Centre of Excellence (- 2017),28,"Jan 31, 1985",Retired
+Goalkeeper,right,"Aug 20, 2012",Stuart Taylor,"1,98m",3190,['England'],€750k,: Ablöse free transfer,32,"Nov 28, 1980",Retired
+Goalkeeper,right,"Jul 1, 2007",Alex McCarthy,"1,93m",95976,['England'],€500k,Reading FC U18,23,"Dec 3, 1989",Southampton FC
+Goalkeeper,right,"Jan 26, 2007",Mikkel Andersen,"1,95m",42694,['Denmark'],€250k,Akademisk Boldklub,24,"Dec 17, 1988",BK Fremad Amager
+Goalkeeper,,"Jul 1, 2013",Jonathan Henly,"1,93m",243610,"['Scotland', 'England']",,Reading FC U18,19,"Mar 15, 1994",Folkestone Invicta FC
+Centre-Back,right,"Jan 1, 2013",Daniel Carriço,"1,83m",37712,['Portugal'],€4.00m,Sporting CP,24,"Aug 4, 1988",Retired
+Centre-Back,right,"Jul 18, 2012",Adrian Mariappa,"1,79m",38145,"['Jamaica', 'England']",€3.00m,Watford FC,26,"Oct 3, 1986",Wealdstone FC
+Centre-Back,right,"Jul 1, 2006",Alex Pearce,"1,88m",47768,"['Ireland', 'Scotland']",€2.00m,Reading FC U18,24,"Nov 9, 1988",Leatherhead FC
+Centre-Back,right,"Jan 18, 2011",Sean Morrison,"1,94m",79723,"['England', 'Ireland']",€1.00m,Swindon Town,22,"Jan 8, 1991",Without Club
+Centre-Back,left,"Aug 24, 2011",Kaspars Gorkss,"1,91m",30379,['Latvia'],€1.00m,: Ablöse €1.00m,31,"Nov 6, 1981",Retired
+Left-Back,left,"Jul 10, 2012",Nicky Shorey,"1,75m",13426,['England'],€2.00m,West Bromwich Albion,32,"Feb 19, 1981",Retired
+Left-Back,left,"Aug 22, 2011",Joseph Mills,"1,75m",81876,['England'],€500k,Southampton FC,23,"Oct 30, 1989",Retired
+Left-Back,left,"Aug 1, 2010",Ian Harte,"1,75m",3634,['Ireland'],€250k,Carlisle United,35,"Aug 31, 1977",Retired
+Left-Back,left,"Jul 1, 2011",Jordan Obita,"1,81m",158816,"['England', 'Uganda']",,Reading FC U18,19,"Dec 8, 1993",Hibernian FC
+Right-Back,right,"Jul 17, 2012",Chris Gunter,"1,80m",43853,['Wales'],€3.00m,: Ablöse €3.00m,23,"Jul 21, 1989",Retired
+Right-Back,right,"Jan 11, 2013",Stephen Kelly,"1,84m",12125,['Ireland'],€1.50m,Fulham FC,29,"Sep 6, 1983",Retired
+Right-Back,right,"Sep 1, 2009",Shaun Cummings,"1,83m",40614,"['Jamaica', 'England']",€1.00m,Chelsea FC Reserves,24,"Feb 25, 1989",Without Club
+Defensive Midfield,both,"Jul 1, 2011",Mikele Leigertwood,"1,88m",14041,"['Antigua and Barbuda', 'England']",€1.25m,: Ablöse free transfer,30,"Nov 12, 1982",Retired
+Defensive Midfield,right,"Jul 1, 2005",Brynjar Gunnarsson,"1,85m",9885,['Iceland'],€250k,Watford FC,37,"Oct 16, 1975",Retired
+Central Midfield,right,"Jul 1, 2012",Danny Guthrie,"1,76m",16716,['England'],€3.00m,Newcastle United,26,"Apr 18, 1987",Retired
+Central Midfield,right,"Jul 1, 2007",Jem Karacan,"1,75m",61447,"['Türkiye', 'England']",€1.00m,Reading FC U18,24,"Feb 21, 1989",Retired
+Central Midfield,right,"Jan 8, 2013",Hope Akpan,"1,85m",61559,"['Nigeria', 'England']",€500k,Crawley Town,21,"Aug 14, 1991",Retired
+Left Midfield,left,"Jan 19, 2009",Jay Tabb,"1,70m",42284,"['Ireland', 'England']",€1.00m,Coventry City,29,"Feb 21, 1984",Retired
+Left Winger,,"Aug 27, 2009",Jobi McAnuff,,14047,"['Jamaica', 'England']",€1.50m,Watford FC,31,"Nov 9, 1981",Retired
+Right Winger,left,"Jan 24, 2008",Jimmy Kébé,"1,87m",33822,"['Mali', 'France']",€2.00m,RC Lens B,29,"Jan 19, 1984",Retired
+Right Winger,right,"Jul 1, 2012",Garath McCleary,"1,87m",69653,"['Jamaica', 'England']",€1.00m,: Ablöse free transfer,26,"May 15, 1987",Wycombe Wanderers
+Centre-Forward,,"Jul 1, 2012",Pavel Pogrebnyak,,15074,['Russia'],€4.50m,Fulham FC,29,"Nov 8, 1983",Retired
+Centre-Forward,right,"Aug 27, 2011",Adam Le Fondre,"1,80m",46106,"['England', 'France']",€2.50m,Rotherham United,26,"Dec 2, 1986",FC United of Manchester
+Centre-Forward,left,"Jul 1, 2007",Hal Robson-Kanu,"1,83m",65976,"['Wales', 'England']",€1.50m,Reading FC U18,24,"May 21, 1989",Retired
+Centre-Forward,left,"Jan 30, 2013",Nick Blackman,"1,88m",67369,"['Barbados', 'England']",€1.50m,Sheffield United,23,"Nov 11, 1989",Without Club
+Centre-Forward,left,"Jul 24, 2008",Noel Hunt,"1,73m",12628,['Ireland'],€1.00m,: Ablöse €900k,30,"Dec 26, 1982",Retired
+Centre-Forward,right,"Jul 1, 2007",Simon Church,"1,83m",66959,"['Wales', 'England']",€750k,Reading FC U18,24,"Dec 10, 1988",Retired
+Centre-Forward,right,"Jan 26, 2012",Jason Roberts,"1,85m",3666,"['Grenada', 'England']",€250k,Blackburn Rovers,35,"Jan 25, 1978",Retired
+Centre-Forward,right,,Gozie Ugwu,"1,88m",192366,"['England', 'Nigeria']",,,20,"Apr 22, 1993",Al-Ain SFC
+Centre-Forward,right,"Jul 1, 2012",Dominic Samuel,"1,88m",203784,"['England', 'Antigua and Barbuda']",,Reading FC U18,19,"Apr 1, 1994",Ebbsfleet United

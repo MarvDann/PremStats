@@ -1,0 +1,43 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2008",Wojciech Szczęsny,"1,95m",44058,['Poland'],€15.00m,Arsenal FC U18,23,"Apr 18, 1990",FC Barcelona
+Goalkeeper,right,,"Jul 1, 2007",Lukasz Fabianski,"1,90m",29692,['Poland'],€1.50m,: Ablöse €4.35m,28,"Apr 18, 1985",West Ham United
+Goalkeeper,right,,"Jul 4, 2005",Vito Mannone,"1,88m",33781,['Italy'],€1.00m,Atalanta Primavera,25,"Mar 2, 1988",LOSC Lille
+Goalkeeper,,,"Jul 1, 2012",James Shea,"1,85m",91340,"['England', 'Ireland']",,Arsenal FC U21,22,"Jun 16, 1991",Luton Town
+Goalkeeper,right,,"Jul 1, 2012",Emiliano Martínez,"1,95m",111873,"['Argentina', 'Spain']",,Arsenal FC U21,20,"Sep 2, 1992",Aston Villa
+Centre-Back,left,,"Jul 1, 2009",Thomas Vermaelen,"1,83m",15904,['Belgium'],€18.00m,: Ablöse €12.00m,27,"Nov 14, 1985",Retired
+Centre-Back,right,,"Aug 31, 2011",Per Mertesacker,"2,00m",6710,['Germany'],€16.00m,SV Werder Bremen,28,"Sep 29, 1984",Retired
+Centre-Back,right,,"Jul 7, 2010",Laurent Koscielny,"1,86m",76277,"['France', 'Poland']",€15.00m,FC Lorient,27,"Sep 10, 1985",Retired
+Centre-Back,,,"Jul 1, 2004",Johan Djourou,,34561,"['Switzerland', ""Cote d'Ivoire""]",€5.00m,Arsenal FC U18,26,"Jan 18, 1987",Retired
+Centre-Back,right,,"Aug 26, 2010",Sébastien Squillaci,"1,85m",5293,"['France', 'Italy']",€1.00m,Sevilla FC,32,"Aug 11, 1980",Retired
+Centre-Back,both,,"Jul 1, 2012",Martin Angha,"1,88m",122695,"['Switzerland', 'DR Congo']",€100k,Arsenal FC U18,19,"Jan 22, 1994",SC Otelul Galati
+Centre-Back,left,,"Jul 1, 2011",Ignasi Miquel,"1,89m",70245,['Spain'],,Arsenal FC Reserves,20,"Sep 28, 1992",Granada CF
+Centre-Back,right,,,Sead Hajrovic,"1,84m",111419,"['Bosnia-Herzegovina', 'Switzerland']",,,20,"Jun 4, 1993",Neuchâtel Xamax FCS
+Centre-Back,right,,"Jul 1, 2011",Elton Monteiro,"1,92m",122722,"['Portugal', 'Switzerland']",,Arsenal FC U18,19,"Feb 22, 1994",Vevey-Sports
+Left-Back,left,,"Jan 31, 2013",Nacho Monreal,"1,79m",43003,['Spain'],€10.00m,Málaga CF,27,"Feb 26, 1986",Retired
+Left-Back,left,,"Jul 1, 2007",Kieran Gibbs,"1,81m",44792,['England'],€8.00m,Arsenal FC U18,23,"Sep 26, 1989",Retired
+Left-Back,left,,"Aug 31, 2011",André Santos,"1,80m",54275,['Brazil'],€2.50m,Fenerbahce,30,"Mar 8, 1983",Retired
+Left-Back,left,,,Jernade Meade,"1,65m",126195,"['Montserrat', 'England']",,,20,"Oct 25, 1992",St. Ives Town FC
+Right-Back,right,,"Jul 12, 2007",Bacary Sagna,"1,76m",26764,"['France', 'Senegal']",€14.50m,AJ Auxerre,30,"Feb 14, 1983",Retired
+Right-Back,right,,"Jul 8, 2011",Carl Jenkinson,"1,85m",126321,"['England', 'Finland']",€4.50m,Charlton Athletic,21,"Feb 8, 1992",Bromley FC
+Right-Back,right,,"Jul 1, 2014",Héctor Bellerín,"1,78m",191217,['Spain'],€300k,Arsenal FC U21,18,"Mar 19, 1995",Real Betis Balompié
+Defensive Midfield,right,,"Jul 1, 2011",Francis Coquelin,"1,77m",74869,"['France', 'Réunion']",€4.00m,Arsenal FC Reserves,22,"May 13, 1991",Without Club
+Defensive Midfield,right,,"Jul 1, 2011",Emmanuel Frimpong,"1,75m",93056,"['Ghana', 'England']",€1.50m,Arsenal FC Reserves,21,"Jan 10, 1992",Retired
+Defensive Midfield,right,,"Jul 1, 2011",Nico Yennaris,"1,71m",122721,"['China', 'England']",,Arsenal FC U18,20,"May 24, 1993",Beijing Guoan
+Central Midfield,left,,"Jul 1, 2008",Jack Wilshere,"1,72m",74223,['England'],€28.00m,Arsenal FC U18,21,"Jan 1, 1992",Retired
+Central Midfield,both,,"Aug 7, 2012",Santi Cazorla,"1,68m",15799,['Spain'],€25.00m,Málaga CF,28,"Dec 13, 1984",Real Oviedo
+Central Midfield,right,"No eligibility - until Jan 31, 2025 - UEFA Europa League - 8 matchdays","Aug 8, 2011",Alex Oxlade-Chamberlain,"1,80m",143424,['England'],€15.00m,Southampton FC,19,"Aug 15, 1993",Besiktas JK
+Central Midfield,right,,"Aug 31, 2011",Mikel Arteta,"1,77m",7451,['Spain'],€11.00m,: Ablöse €12.00m,31,"Mar 26, 1982",Retired
+Central Midfield,right,Hamstring injury - Return unknown,"Jul 1, 2008",Aaron Ramsey,"1,78m",50057,['Wales'],€10.00m,: Ablöse €6.40m,22,"Dec 26, 1990",Cardiff City
+Central Midfield,right,,"Jan 13, 2006",Abou Diaby,"1,91m",26763,"['France', ""Cote d'Ivoire""]",€4.00m,AJ Auxerre,27,"May 11, 1986",Retired
+Central Midfield,right,,"Jan 31, 2012",Thomas Eisfeld,"1,77m",86643,['Germany'],,Borussia Dortmund U19,20,"Jan 18, 1993",Rot-Weiss Essen
+Attacking Midfield,both,,"Jul 1, 2006",Tomas Rosicky,"1,79m",132,['Czech Republic'],€2.00m,Borussia Dortmund,32,"Oct 4, 1980",Retired
+Left Winger,right,,"Jul 12, 2011",Gervinho,"1,79m",33481,"[""Cote d'Ivoire""]",€10.50m,: Ablöse €12.00m,26,"May 27, 1987",Without Club
+Left Winger,both,,"Jan 31, 2009",Andrey Arshavin,"1,72m",15378,['Russia'],€4.50m,: Ablöse €16.50m,32,"May 29, 1981",Retired
+Left Winger,right,,"Jul 1, 2013",Serge Gnabry,"1,76m",159471,"['Germany', ""Cote d'Ivoire""]",,Arsenal FC U18,17,"Jul 14, 1995",Bayern Munich
+Right Winger,both,,"Jan 20, 2006",Theo Walcott,"1,75m",33713,['England'],€25.00m,Southampton FC,24,"Mar 16, 1989",Retired
+Right Winger,right,,"Jan 30, 2011",Ryo Miyaichi,"1,81m",129688,['Japan'],€2.50m,Chukyo High School,20,"Dec 14, 1992",Yokohama F. Marinos
+Centre-Forward,left,,"Jul 1, 2012",Lukas Podolski,"1,82m",15185,"['Germany', 'Poland']",€23.00m,1.FC Köln,28,"Jun 4, 1985",Górnik Zabrze
+Centre-Forward,left,,"Jul 1, 2012",Olivier Giroud,"1,92m",82442,['France'],€15.00m,: Ablöse €12.00m,26,"Sep 30, 1986",Los Angeles FC
+Centre-Forward,right,,"Jul 1, 2010",Marouane Chamakh,"1,88m",19085,"['Morocco', 'France']",€3.50m,: Ablöse free transfer,29,"Jan 10, 1984",Retired
+Centre-Forward,,,,Zak Ansah,"1,79m",122704,"['Ghana', 'England']",,,19,"May 4, 1994",Welling Town FC
+Centre-Forward,right,,"Jul 1, 2015",Chuba Akpom,"1,83m",197642,"['England', 'Nigeria']",,Arsenal FC U21,17,"Oct 9, 1995",Ajax Amsterdam

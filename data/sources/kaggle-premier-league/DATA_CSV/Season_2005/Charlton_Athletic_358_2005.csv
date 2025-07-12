@@ -1,0 +1,37 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,"Jul 1, 2005",Thomas Myhre,"1,88m",3566,['Norway'],€1.75m,Sunderland AFC,32,"Oct 16, 1973",Retired
+Goalkeeper,left,"Jul 1, 1999",Dean Kiely,"1,85m",3748,"['Ireland', 'England']",€1.20m,Bury FC,35,"Oct 10, 1970",Retired
+Goalkeeper,right,"Jul 1, 2004",Stephan Andersen,"1,88m",17880,['Denmark'],€1.00m,Akademisk Boldklub,24,"Nov 26, 1981",Vaerebro BK
+Goalkeeper,right,"Jul 1, 2005",Darren Randolph,"1,87m",51321,"['Ireland', 'United States']",,Charlton Athletic U18,19,"May 12, 1987",Retired
+Centre-Back,right,"Jul 1, 2003",Chris Perry,"1,75m",4051,['England'],€4.40m,: Ablöse €100k,33,"Apr 26, 1973",Retired
+Centre-Back,left,"Jul 14, 2005",Gonzalo Sorondo,"1,90m",13488,"['Uruguay', 'Brazil']",€2.50m,: Ablöse free transfer,26,"Oct 9, 1979",Retired
+Centre-Back,right,"Jul 1, 2004",Talal El Karkouri,"1,86m",4130,"['Morocco', 'France']",€2.00m,: Ablöse €1.50m,29,"Jul 8, 1976",Retired
+Centre-Back,right,"Jul 1, 2005",Jonathan Spector,"1,83m",24637,"['United States', 'Germany']",€1.25m,Manchester United,20,"Mar 1, 1986",Retired
+Centre-Back,right,"Aug 31, 2010",Jonathan Fortune,"1,88m",4103,['England'],€1.00m,Sheffield United,25,"Aug 23, 1980",Retired
+Centre-Back,left,"Jul 1, 2005",Gonçalo Brandão,"1,87m",14195,['Portugal'],€300k,CF Os Belenenses,19,"Oct 9, 1986",Retired
+Left-Back,left,"Mar 27, 2003",Hermann Hreidarsson,"1,85m",3860,['Iceland'],€3.00m,Ipswich Town,31,"Jul 11, 1974",Retired
+Left-Back,left,"Jul 1, 2007",Chris Powell,"1,78m",4100,"['England', 'Jamaica']",€400k,Watford FC,36,"Sep 8, 1969",Retired
+Left-Back,left,"Jul 1, 2005",Kelly Youga,"1,85m",32520,"['Central African Republic', 'France']",€200k,: Ablöse free transfer,20,"Sep 22, 1985",Retired
+Left-Back,left,"Jul 1, 2005",Nathan Ashton,"1,75m",34065,['England'],,Charlton Athletic U18,19,"Jan 30, 1987",Without Club
+Right-Back,right,"Jul 1, 2001",Luke Young,"1,83m",3271,['England'],€4.50m,: Ablöse €6.00m,26,"Jul 19, 1979",Retired
+Right-Back,right,"Jul 1, 2005",Osei Sankofa,"1,83m",4105,"['England', 'Jamaica']",€50k,Charlton Athletic U21,21,"Mar 19, 1985",Retired
+Defensive Midfield,right,"Jul 1, 2005",Aleksey Smertin,"1,74m",5379,['Russia'],€6.50m,Chelsea FC,31,"May 1, 1975",Retired
+Defensive Midfield,right,"Jul 1, 2000",Radostin Kishishev,"1,80m",3001,['Bulgaria'],€2.50m,: Ablöse €4.50m,31,"Jul 30, 1974",Retired
+Central Midfield,right,"Aug 10, 2004",Danny Murphy,"1,77m",3221,['England'],€6.00m,: Ablöse €3.25m,29,"Mar 18, 1977",Retired
+Central Midfield,right,"Jul 1, 2003",Matt Holland,"1,75m",3102,"['Ireland', 'England']",€4.00m,Ipswich Town,32,"Apr 11, 1974",Retired
+Right Midfield,right,"Jul 8, 2005",Darren Ambrose,"1,83m",4086,['England'],€1.75m,Newcastle United,22,"Feb 29, 1984",Retired
+Right Midfield,,"Aug 31, 2005",Rúrik Gíslason,,15961,['Iceland'],€50k,HK Kópavogs,18,"Feb 25, 1988",Retired
+Attacking Midfield,right,"Jul 1, 2004",Bryan Hughes,"1,78m",3939,['England'],€2.00m,: Ablöse free transfer,30,"Jun 19, 1976",Retired
+Left Winger,left,"Feb 2, 2004",Jerome Thomas,"1,77m",3560,"['England', 'Guyana']",€600k,Arsenal FC Reserves,23,"Mar 23, 1983",Retired
+Right Winger,right,"Jul 1, 2004",Dennis Rommedahl,"1,79m",4361,['Denmark'],€4.00m,: Ablöse €3.50m,27,"Jul 22, 1978",Retired
+Right Winger,right,"Jul 1, 2003",Lloyd Sam,"1,73m",12131,"['Ghana', 'England']",€75k,Charlton Athletic U18,21,"Sep 27, 1984",Retired
+Second Striker,,"Jul 1, 2011",Jason Euell,"1,80m",3092,"['Jamaica', 'England']",€8.00m,Blackpool FC,29,"Feb 6, 1977",Retired
+Centre-Forward,right,"Jul 1, 2005",Darren Bent,"1,80m",13239,"['England', 'Jamaica']",€7.50m,Ipswich Town,22,"Feb 6, 1984",Retired
+Centre-Forward,both,"Jul 1, 2000",Jonatan Johansson,"1,84m",3117,"['Finland', 'Sweden']",€3.75m,: Ablöse €4.30m,30,"Aug 16, 1975",Retired
+Centre-Forward,right,"Jan 1, 2006",Marcus Bent,"1,88m",9958,"['England', 'Jamaica']",€3.75m,: Ablöse €3.00m,28,"May 19, 1978",Cornard United FC
+Centre-Forward,right,"Aug 10, 2004",Francis Jeffers,"1,78m",3186,['England'],€2.60m,: Ablöse €3.90m,25,"Jan 25, 1981",Retired
+Centre-Forward,right,"Jul 1, 1996",Kevin Lisbie,"1,78m",4097,"['Jamaica', 'England']",€2.50m,Charlton Athletic U18,27,"Oct 17, 1978",Retired
+Centre-Forward,left,"Jul 1, 2005",Jay Bothroyd,"1,90m",8188,"['England', 'Guyana']",€1.75m,Perugia Calcio,24,"May 7, 1982",Retired
+Centre-Forward,right,"Jan 1, 2001",Shaun Bartlett,"1,88m",3089,['South Africa'],€1.50m,: Ablöse €3.00m,33,"Oct 31, 1972",Retired
+Centre-Forward,both,"Jul 1, 2004",Alex Varney,"1,78m",28942,['England'],€50k,Charlton Athletic U18,21,"Dec 27, 1984",Unknown
+Centre-Forward,right,"Jul 1, 2005",James Walker,"1,80m",39038,"['Antigua and Barbuda', 'England']",,Charlton Athletic U18,18,"Nov 25, 1987",Retired

@@ -1,0 +1,31 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Mar 12, 1981",Bruce Grobbelaar,,145786,"['Zimbabwe', 'South Africa']",: Ablöse €295k,36,"Oct 6, 1957",Retired
+Goalkeeper,,"Jul 6, 1992",David James,,3646,"['England', 'Jamaica']",: Ablöse €1.40m,23,"Aug 1, 1970",Retired
+Goalkeeper,,"Oct 25, 1985",Mike Hooper,"1,88m",175869,['England'],Wrexham AFC,30,"Feb 10, 1964",Retired
+Goalkeeper,,"Feb 25, 1994",Mark Gayle,"1,83m",145767,['England'],Crewe Alexandra,24,"Oct 21, 1969",Retired
+Centre-Back,right,"Jul 15, 1991",Mark Wright,"1,91m",101386,['England'],: Ablöse €2.85m,30,"Aug 1, 1963",Retired
+Centre-Back,,"Sep 16, 1992",Torben Piechnik,"1,82m",101300,['Denmark'],: Ablöse ?,31,"May 21, 1963",Retired
+Centre-Back,left,"Jul 21, 1993",Neil Ruddock,"1,88m",3487,['England'],: Ablöse €3.00m,26,"May 9, 1968",Retired
+Left-Back,,"Sep 17, 1993",Julian Dicks,"1,78m",107806,['England'],: Ablöse €2.25m,25,"Aug 8, 1968",Retired
+Left-Back,left,"Oct 20, 1988",David Burrows,"1,78m",109481,['England'],: Ablöse €825k,25,"Oct 25, 1968",Retired
+Left-Back,left,"Dec 18, 1992",Stig Inge Bjørnebye,"1,79m",102510,['Norway'],: Ablöse ?,24,"Dec 11, 1969",Retired
+Left-Back,left,"Jul 1, 1992",Dominic Matteo,"1,86m",3765,"['Scotland', 'England']",: Ablöse -,20,"Apr 28, 1974",Retired
+Left-Back,left,"Jul 17, 1989",Steve Harkness,"1,79m",107196,['England'],Carlisle United,22,"Aug 27, 1971",Retired
+Right-Back,right,"Oct 1, 1991",Rob Jones,"1,73m",107200,"['England', 'Wales']",Crewe Alexandra,22,"Nov 5, 1971",Retired
+Right-Back,,"Oct 26, 1981",Steve Nicol,,107096,['Scotland'],: Ablöse €500k,32,"Dec 11, 1961",Retired
+Central Midfield,right,"Jul 29, 1992",Paul Stewart,"1,78m",145778,['England'],: Ablöse €2.75m,29,"Oct 7, 1964",Retired
+Central Midfield,,"Aug 24, 1984",Jan Mölby,"1,88m",116136,['Denmark'],: Ablöse €670k,30,"Jul 4, 1963",Retired
+Central Midfield,right,"Jan 15, 1991",Jamie Redknapp,"1,83m",3424,['England'],: Ablöse €750k,21,"Jun 25, 1973",Retired
+Central Midfield,,"Mar 16, 1992",Phil Charnock,"1,80m",145766,['England'],: Ablöse -,19,"Feb 14, 1975",Retired
+Right Midfield,right,"Dec 13, 1991",Michael Thomas,"1,79m",107235,['England'],: Ablöse €225k,26,"Aug 24, 1967",Retired
+Right Midfield,right,"Jul 1, 1987",Mike Marsh,"1,73m",222517,['England'],: Ablöse -,24,"Jul 21, 1969",Retired
+Left Midfield,,"Jul 1, 1987",John Barnes,,87436,"['England', 'Jamaica']",: Ablöse €1.30m,30,"Nov 7, 1963",Retired
+Left Midfield,left,"Aug 13, 1991",Mark Walters,"1,78m",180242,['England'],: Ablöse €1.50m,30,"Jun 2, 1964",Retired
+Left Midfield,,"Sep 21, 1979",Ronnie Whelan,,102501,['Ireland'],Home Farm,32,"Sep 25, 1961",Retired
+Attacking Midfield,right,"Nov 27, 1990",Don Hutchison,"1,85m",3880,"['Scotland', 'England']",: Ablöse €190k,23,"May 9, 1971",Retired
+Attacking Midfield,,"Jul 1, 1993",Nigel Clough,"1,75m",101322,['England'],: Ablöse €2.75m,28,"Mar 19, 1966",Retired
+Attacking Midfield,right,"Jul 1, 1990",Steve McManaman,"1,85m",3980,['England'],: Ablöse -,22,"Feb 11, 1972",Retired
+Left Winger,left,"Jul 1, 1990",Ronny Rosenthal,"1,80m",141047,"['Israel', 'Belgium']",: Ablöse €1.25m,30,"Oct 4, 1963",Retired
+Centre-Forward,right,"Aug 18, 1988",Ian Rush,"1,83m",145743,['Wales'],: Ablöse €3.00m,32,"Oct 20, 1961",Retired
+Centre-Forward,left,"Jan 27, 2006",Robbie Fowler,"1,80m",3225,['England'],: Ablöse free transfer,19,"Apr 9, 1975",Retired
+Centre-Forward,,"Mar 12, 1992",Lee Jones,"1,73m",222092,['Wales'],Wrexham AFC,21,"May 29, 1973",Retired

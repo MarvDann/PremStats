@@ -1,0 +1,31 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Aug 1, 1996",Lionel Perez,"1,83m",223246,['France'],: Ablöse €230k,30,"Apr 24, 1967",Retired
+Goalkeeper,,,Philip Naisbett,"1,88m",228812,['England'],,18,"Jan 2, 1979",Retired
+Goalkeeper,left,"Jul 18, 1996",Tony Coton,"1,88m",176010,['England'],: Ablöse €675k,36,"May 19, 1961",Retired
+Goalkeeper,,"Jul 1, 1994",David Preece,"1,88m",12788,['England'],Sunderland AFC U18,20,"Aug 26, 1976",Retired
+Goalkeeper,right,,Chris Woods,"1,88m",101320,['England'],,37,"Nov 14, 1959",Retired
+Defender,,"Mar 25, 1993",Lee Howey,,223235,['England'],Bishop Auckland FC,28,"Apr 1, 1969",Retired
+Defender,,,Richard Ord,"1,88m",223243,['England'],,27,"Mar 3, 1970",Retired
+Centre-Back,right,"Aug 9, 1993",Andy Melville,"1,84m",4004,['Wales'],: Ablöse ?,28,"Nov 29, 1968",Retired
+Centre-Back,,"Jan 1, 1997",Jan Eriksson,,101092,['Sweden'],Helsingborgs IF,29,"Aug 24, 1967",Retired
+Left-Back,left,"Dec 23, 1994",Martin Scott,"1,78m",223250,['England'],: Ablöse €750k,29,"Jan 7, 1968",Retired
+Left-Back,left,"Jul 1, 1992",Michael Gray,"1,70m",4128,['England'],Sunderland AFC U18,22,"Aug 3, 1974",Retired
+Left-Back,left,"Jul 1, 1996",Paul Heckingbottom,"1,82m",13581,['England'],Sunderland AFC U18,19,"Jul 17, 1977",Retired
+Right-Back,,"Jul 14, 1994",Dariusz Kubicki,,117233,['Poland'],: Ablöse ?,34,"Jun 6, 1963",Retired
+Right-Back,,"Jan 1, 1996",Gareth Hall,"1,73m",175580,"['Wales', 'England']",: Ablöse €360k,28,"Mar 20, 1969",Retired
+Right-Back,right,,Darren Holloway,"1,83m",14024,['England'],,19,"Oct 3, 1977",Retired
+Right-Back,right,"Oct 1, 1996",Darren Williams,"1,72m",3324,['England'],York City,20,"Apr 28, 1977",Retired
+Central Midfield,,"Jan 11, 1995",Steve Agnew,"1,78m",223219,['England'],: Ablöse €375k,31,"Nov 9, 1965",Retired
+Central Midfield,,"Jul 1, 1995",Paul Bracewell,"1,73m",175999,['England'],Newcastle United,34,"Jul 19, 1962",Retired
+Central Midfield,right,"Jul 1, 1990",Kevin Ball,"1,79m",175973,['England'],: Ablöse ?,32,"Nov 12, 1964",Retired
+Central Midfield,right,"Mar 5, 1996",Paul Stewart,"1,78m",145778,['England'],: Ablöse free transfer,32,"Oct 7, 1964",Retired
+Central Midfield,right,"Jul 1, 1996",Alex Rae,"1,77m",4239,['Scotland'],: Ablöse €1.50m,27,"Sep 30, 1969",Retired
+Right Midfield,right,"Apr 1, 1997",Allan Johnston,"1,81m",3649,['Scotland'],: Ablöse ?,23,"Dec 14, 1973",Retired
+Left Midfield,left,"Jul 14, 1995",Sam Aiston,"1,88m",49315,['England'],Newcastle United,20,"Nov 21, 1976",Retired
+Attacking Midfield,,"Mar 17, 1997",Chris Waddle,,101385,['England'],Bradford City,36,"Dec 14, 1960",Retired
+Right Winger,right,"Jul 1, 1995",John Mullin,"1,78m",13653,['England'],: Ablöse €5k,21,"Aug 11, 1975",Retired
+Centre-Forward,right,"Jul 1, 1992",Craig Russell,"1,78m",223249,['England'],Sunderland AFC Reserves,23,"Feb 4, 1974",Retired
+Centre-Forward,,"Sep 19, 1995",David Kelly,"1,80m",102499,"['Ireland', 'England']",: Ablöse €995k,31,"Nov 25, 1965",Retired
+Centre-Forward,,"Aug 17, 1996",Niall Quinn,,104110,['Ireland'],: Ablöse €1.30m,30,"Oct 6, 1966",Retired
+Centre-Forward,left,"Sep 1, 1992",Martin Smith,"1,80m",67336,['England'],Sunderland AFC U18,22,"Nov 13, 1974",Retired
+Centre-Forward,right,"Sep 1, 2004",Michael Bridges,"1,85m",3767,['England'],: Ablöse free transfer,18,"Aug 5, 1978",Retired

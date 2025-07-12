@@ -1,0 +1,33 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jan 14, 2004",David James,,3646,"['England', 'Jamaica']",€3.60m,: Ablöse €2.80m,35,"Aug 1, 1970",Retired
+Goalkeeper,right,"Jul 1, 2004",Geert De Vlieger,"1,86m",3959,['Belgium'],€1.00m,: Ablöse free transfer,34,"Oct 16, 1971",Retired
+Goalkeeper,right,"Jul 1, 1997",Nicky Weaver,"1,91m",3310,['England'],€700k,Mansfield Town,27,"Mar 2, 1979",Retired
+Goalkeeper,right,"Jul 1, 2007",Kasper Schmeichel,"1,89m",16911,['Denmark'],€250k,: Ablöse -,19,"Nov 5, 1986",Celtic FC
+Centre-Back,left,"Jul 1, 2002",Sylvain Distin,"1,92m",3356,"['France', 'Guadeloupe']",€8.00m,: Ablöse €6.00m,28,"Dec 16, 1977",Retired
+Centre-Back,right,"Oct 18, 2000",Richard Dunne,"1,88m",3807,['Ireland'],€5.00m,: Ablöse €4.50m,26,"Sep 21, 1979",Retired
+Centre-Back,right,"Jan 1, 2002",Jihai Sun,"1,83m",3806,['China'],€4.50m,Dalian Shide,28,"Sep 30, 1977",Retired
+Centre-Back,right,"Jul 1, 2002",David Sommeil,"1,79m",3803,"['Guadeloupe', 'France']",€2.50m,: Ablöse €4.50m,31,"Aug 10, 1974",Retired
+Centre-Back,right,"Jul 1, 2004",Nedum Onuoha,"1,83m",28810,"['England', 'Nigeria']",€2.00m,: Ablöse -,19,"Nov 12, 1986",Retired
+Centre-Back,right,"Jul 1, 2002",Mikkel Bischoff,"1,93m",3302,"['Denmark', 'Kenya']",€1.10m,Akademisk Boldklub,24,"Feb 3, 1982",Retired
+Centre-Back,left,"Jul 1, 2003",Stephen Jordan,"1,83m",4082,['England'],€900k,: Ablöse -,24,"Mar 6, 1982",Retired
+Centre-Back,right,"Jan 31, 2006",Matt Mills,"1,91m",25384,['England'],€400k,Southampton FC,19,"Jul 14, 1986",Retired
+Left-Back,left,"Jul 1, 2004",Ben Thatcher,"1,78m",3304,"['Wales', 'England']",€4.25m,: Ablöse €1.50m,30,"Nov 30, 1975",Retired
+Right-Back,right,"Jul 1, 2004",Danny Mills,"1,80m",3743,['England'],€5.70m,Leeds United,29,"May 18, 1977",Retired
+Right-Back,right,"Jan 1, 2006",Micah Richards,"1,80m",32617,"['England', 'St. Kitts & Nevis']",€1.30m,: Ablöse -,18,"Jun 24, 1988",Retired
+Defensive Midfield,right,"Jan 1, 2006",Tuomas Haapala,"1,78m",17335,['Finland'],€400k,Myllykosken Pallo -47,27,"Apr 20, 1979",Retired
+Central Midfield,right,"Jan 1, 2003",Joey Barton,"1,80m",3292,['England'],€6.00m,: Ablöse -,23,"Sep 2, 1982",Retired
+Central Midfield,right,"Jul 1, 2003",Claudio Reyna,"1,75m",3475,"['United States', 'Portugal']",€3.60m,Sunderland AFC,32,"Jul 20, 1973",Retired
+Central Midfield,right,"Jul 1, 2003",Willo Flood,"1,68m",28809,['Ireland'],€125k,: Ablöse -,21,"Apr 10, 1985",Retired
+Right Midfield,right,"Jul 1, 2004",Lee Croft,"1,77m",27510,['England'],€500k,: Ablöse -,21,"Jun 21, 1985",Retired
+Left Midfield,left,"Jan 5, 2006",Albert Riera,"1,88m",7373,"['Spain', 'Russia']",€5.00m,RCD Espanyol Barcelona,24,"Apr 15, 1982",Retired
+Attacking Midfield,right,"Jul 1, 2005",Stephen Ireland,"1,73m",34838,['Ireland'],€2.40m,: Ablöse -,19,"Aug 22, 1986",Retired
+Attacking Midfield,right,"Aug 4, 2003",Antoine Sibierski,"1,87m",5489,"['France', 'Poland']",€2.20m,: Ablöse €1.10m,31,"Aug 5, 1974",Retired
+Attacking Midfield,both,"Aug 10, 2005",Hussein Yasser,"1,70m",13902,"['Qatar', 'Egypt']",€125k,: Ablöse ?,23,"Oct 9, 1982",Retired
+Left Winger,right,"Jan 1, 2006",Georgios Samaras,"1,93m",6855,"['Greece', 'Australia']",€8.00m,: Ablöse €8.50m,21,"Feb 21, 1985",Retired
+Left Winger,right,"Jul 1, 2003",Trevor Sinclair,"1,78m",3253,['England'],€4.50m,: Ablöse €3.75m,33,"Mar 2, 1973",Retired
+Left Winger,left,"Jan 25, 2005",Kiki Musampa,"1,78m",7787,"['Netherlands', 'DR Congo']",€3.50m,: Ablöse free transfer,28,"Jul 20, 1977",Retired
+Centre-Forward,right,"Jul 1, 2005",Darius Vassell,"1,71m",3236,"['England', 'Jamaica']",€4.70m,: Ablöse €3.60m,26,"Jun 13, 1980",Retired
+Centre-Forward,left,"Jan 16, 2003",Robbie Fowler,"1,80m",3225,['England'],€4.50m,Leeds United,31,"Apr 9, 1975",Retired
+Centre-Forward,right,"Feb 7, 2005",Andy Cole,"1,75m",3238,"['England', 'Jamaica']",€4.00m,Fulham FC,34,"Oct 15, 1971",Retired
+Centre-Forward,right,"Jan 1, 2005",Bradley Wright-Phillips,"1,73m",28813,"['England', 'Grenada']",€1.10m,: Ablöse -,21,"Mar 12, 1985",Retired
+Centre-Forward,left,"Jul 1, 2006",Ishmael Miller,"1,92m",38776,['England'],€50k,: Ablöse -,19,"Mar 5, 1987",Retired

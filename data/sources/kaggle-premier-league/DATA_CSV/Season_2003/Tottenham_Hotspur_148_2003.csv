@@ -1,0 +1,35 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,,Gavin Kelly,"1,83m",114044,['England'],,23,"Jun 3, 1981",Retired
+Goalkeeper,,"Jun 5, 2000",Neil Sullivan,"1,83m",4045,"['Scotland', 'England']",: Ablöse free transfer,34,"Feb 24, 1970",Retired
+Goalkeeper,,"Aug 15, 2001",Kasey Keller,,3608,['United States'],: Ablöse free transfer,34,"Nov 29, 1969",Retired
+Goalkeeper,,"Jul 1, 2001",Rob Burch,"1,88m",27814,['England'],Tottenham Hotspur U18,20,"Oct 8, 1983",Retired
+Goalkeeper,,"Jan 1, 2003",Lars Hirschfeld,,3609,"['Canada', 'Germany']",Calgary Storm,25,"Oct 17, 1978",Retired
+Centre-Back,right,"Jul 1, 2001",Goran Bunjevcevic,"1,90m",3802,['Serbia'],Red Star Belgrade,31,"Feb 17, 1973",---
+Centre-Back,right,"Mar 1, 2000",Gary Doherty,"1,88m",4052,['Ireland'],: Ablöse €1.50m,24,"Jan 31, 1980",Retired
+Centre-Back,right,"Jul 1, 2003",Mbulelo Mabizela,"1,78m",8978,['South Africa'],Orlando Pirates,23,"Sep 16, 1980",Retired
+Centre-Back,right,"Jul 1, 1998",Ledley King,"1,88m",3360,"['England', 'Antigua and Barbuda']",Tottenham Hotspur U18,23,"Oct 12, 1980",Retired
+Centre-Back,left,"Jan 1, 2000",Anthony Gardner,"1,96m",4053,"['England', 'Jamaica']",: Ablöse €1.50m,23,"Sep 19, 1980",Retired
+Centre-Back,right,"Jul 1, 2001",Dean Richards,"1,88m",3829,['England'],Southampton FC,30,"Jun 9, 1974",---
+Left-Back,right,"Nov 5, 1998",Mauricio Taricco,"1,75m",4050,"['Argentina', 'Italy']",Ipswich Town,31,"Mar 10, 1973",Retired
+Left-Back,left,"Sep 1, 2003",Paul Konchesky,"1,78m",3296,['England'],Charlton Athletic,23,"May 15, 1981",Retired
+Right-Back,right,"Jul 1, 1993",Stephen Carr,"1,75m",4046,['Ireland'],Tottenham Hotspur U18,27,"Aug 29, 1976",Retired
+Right-Back,right,"Jul 1, 2002",Stephen Kelly,"1,84m",12125,['Ireland'],Tottenham Hotspur U18,20,"Sep 6, 1983",Retired
+Defensive Midfield,left,"Jul 1, 2002",Jonathan Blondel,"1,73m",3354,['Belgium'],Excelsior Mouscron (-2009),20,"Apr 3, 1984",Retired
+Central Midfield,,"Jan 1, 2004",Michael Brown,,13509,['England'],Sheffield United,27,"Jan 25, 1977",Retired
+Central Midfield,right,"Sep 1, 2003",Stéphane Dalmat,"1,80m",7259,"['France', 'Martinique']",: Ablöse ?,25,"Feb 16, 1979",Retired
+Central Midfield,right,"Jul 1, 2002",Jamie Redknapp,"1,83m",3424,['England'],: Ablöse free transfer,31,"Jun 25, 1973",Retired
+Central Midfield,left,"Jul 1, 2000",Johnnie Jackson,"1,85m",29430,['England'],Tottenham Hotspur U18,21,"Aug 15, 1982",Retired
+Central Midfield,right,"Jul 1, 2002",Dean Marney,"1,83m",4055,['England'],Tottenham Hotspur U18,20,"Jan 31, 1984",Retired
+Right Midfield,right,"Jul 1, 1992",Darren Anderton,"1,85m",3277,['England'],: Ablöse €2.70m,32,"Mar 3, 1972",Retired
+Right Midfield,right,"Dec 31, 1999",Simon Davies,"1,78m",4056,['Wales'],Peterborough United,24,"Oct 23, 1979",Retired
+Left Midfield,right,"Jul 1, 2002",Milenko Acimovic,"1,86m",3261,"['Slovenia', 'Serbia']",Red Star Belgrade,27,"Feb 15, 1977",Retired
+Left Midfield,left,"Jul 1, 2001",Christian Ziege,"1,86m",916,['Germany'],: Ablöse €6.50m,32,"Feb 1, 1972",Retired
+Attacking Midfield,right,"Jul 1, 2001",Gustavo Poyet,"1,88m",3361,"['Uruguay', 'Spain']",: Ablöse €3.40m,36,"Nov 15, 1967",Retired
+Attacking Midfield,,"Jul 1, 2002",Rohan Ricketts,,4047,"['England', 'Jamaica']",: Ablöse free transfer,21,"Dec 22, 1982",Retired
+Left Winger,right,"Jul 1, 2003",Mark Yeates,"1,74m",15167,['Ireland'],Tottenham Hotspur U18,19,"Jan 11, 1985",Retired
+Centre-Forward,right,"Jul 1, 2003",Hélder Postiga,"1,82m",5169,['Portugal'],: Ablöse €9.00m,21,"Aug 2, 1982",Retired
+Centre-Forward,right,"Aug 5, 2003",Frédéric Kanouté,"1,92m",3700,"['Mali', 'France']",: Ablöse €5.25m,26,"Sep 2, 1977",Retired
+Centre-Forward,right,"Feb 2, 2009",Robbie Keane,"1,75m",3144,['Ireland'],: Ablöse €16.70m,23,"Jul 8, 1980",Retired
+Centre-Forward,right,"Jan 6, 2009",Jermain Defoe,"1,71m",3875,"['England', 'St. Lucia']",: Ablöse €16.40m,21,"Oct 7, 1982",Retired
+Centre-Forward,right,"Aug 1, 2002",Lee Barnard,"1,78m",4058,['England'],Tottenham Hotspur U18,19,"Jul 18, 1984",Retired
+Centre-Forward,left,"Jul 1, 2003",Bobby Zamora,"1,84m",4205,"['England', 'Trinidad and Tobago']",: Ablöse €2.00m,23,"Jan 16, 1981",Retired

@@ -1,0 +1,35 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Aug 1, 2001",Edwin van der Sar,"1,99m",3516,['Netherlands'],: Ablöse €10.30m,31,"Oct 29, 1970",Retired
+Goalkeeper,right,"Nov 14, 1997",Maik Taylor,"1,93m",3723,"['Northern Ireland', 'Germany']",Southampton FC,30,"Sep 4, 1971",Retired
+Goalkeeper,,"Oct 1, 1999",Glyn Thompson,"1,91m",47907,['England'],: Ablöse €65k,21,"Feb 24, 1981",Retired
+Goalkeeper,right,"Jul 1, 1999",Marcus Hahnemann,"1,87m",4140,"['United States', 'Germany']",: Ablöse €112k,30,"Jun 15, 1972",Retired
+Centre-Back,right,"Jul 1, 1999",Andy Melville,"1,84m",4004,['Wales'],Sunderland AFC,33,"Nov 29, 1968",Retired
+Centre-Back,right,,Tom Hutchinson,"1,84m",12810,['England'],,20,"Feb 23, 1982",Retired
+Centre-Back,right,"Dec 27, 1997",Chris Coleman,"1,88m",132125,"['Wales', 'Ireland']",Blackburn Rovers,32,"Jun 10, 1970",Retired
+Centre-Back,,"Jul 1, 1998",Kit Symons,"1,85m",175935,"['Wales', 'England']",: Ablöse free transfer,31,"Mar 8, 1971",Retired
+Centre-Back,right,"Jul 1, 1999",Zat Knight,"1,98m",4012,['England'],Fulham FC U18,22,"May 2, 1980",Retired
+Centre-Back,right,"Apr 1, 2001",Alain Goma,"1,83m",4011,['France'],Newcastle United,29,"Oct 5, 1972",Retired
+Centre-Back,right,"Aug 1, 2001",Abdeslam Ouaddou,"1,91m",4002,"['France', 'Morocco']",: Ablöse €3.30m,23,"Nov 1, 1978",Retired
+Centre-Back,right,"Jul 1, 2003",Mark Hudson,"1,87m",3640,['England'],Fulham FC Reserves,20,"Mar 30, 1982",Retired
+Centre-Back,right,"Jul 1, 2003",Dean Leacock,"1,90m",4039,"['England', 'Barbados']",Fulham FC U18,18,"Jun 10, 1984",Retired
+Left-Back,left,"Jan 30, 1998",Rufus Brevett,"1,72m",3883,['England'],: Ablöse €525k,32,"Sep 24, 1969",Retired
+Left-Back,left,"Jul 1, 2001",Jon Harley,"1,78m",4014,['England'],: Ablöse €5.25m,22,"Sep 26, 1979",Retired
+Left-Back,left,"Aug 1, 2000",Kieran McAnespie,"1,73m",14631,"['Scotland', 'England']",: Ablöse €120k,22,"Sep 11, 1979",Retired
+Right-Back,right,"Nov 1, 1998",Steve Finnan,"1,83m",4038,['Ireland'],: Ablöse €900k,26,"Apr 24, 1976",Retired
+Defensive Midfield,right,"Jul 1, 1996",Sean Davis,"1,78m",4036,['England'],Fulham FC U18,22,"Sep 20, 1979",Retired
+Central Midfield,right,"Aug 2, 2001",Steed Malbranque,"1,71m",3569,"['France', 'Belgium']",: Ablöse €6.60m,22,"Jan 6, 1980",Retired
+Central Midfield,right,"Jul 1, 2001",Sylvain Legwinski,"1,85m",3815,"['France', 'Poland']",: Ablöse €5.25m,29,"Jun 10, 1973",Retired
+Central Midfield,,"Jan 15, 2000",Bjarne Goldbaek,,3105,['Denmark'],: Ablöse €975k,33,"Oct 6, 1968",Retired
+Left Midfield,,"Jul 1, 2000",John Collins,,3663,['Scotland'],: Ablöse €2.75m,34,"Jan 31, 1968",Retired
+Left Midfield,left,"Jul 1, 2001",Luís Boa Morte,"1,78m",3422,"['Portugal', 'Sao Tome and Principe']",Southampton FC,24,"Aug 4, 1977",Retired
+Left Midfield,left,"Sep 18, 1998",Kevin Betsy,"1,85m",48085,"['Seychelles', 'England']",Woking FC,24,"Mar 20, 1978",Retired
+Left Midfield,left,"Mar 15, 2000",Eddie Lewis,"1,78m",3484,['United States'],: Ablöse €1.80m,28,"May 17, 1974",Retired
+Attacking Midfield,left,"Nov 1, 1997",Paul Trollope,"1,83m",175993,['Wales'],: Ablöse €710k,30,"Jun 3, 1972",Retired
+Attacking Midfield,,"Jan 1, 2001",Andrejs Stolcers,,3724,['Latvia'],: Ablöse €3.00m,27,"Jul 8, 1974",Retired
+Right Winger,right,"Jul 1, 1999",Lee Clark,"1,73m",3477,['England'],Sunderland AFC,29,"Oct 27, 1972",Retired
+Centre-Forward,both,"Sep 3, 2001",Steve Marlet,"1,80m",3240,"['France', 'Martinique']",: Ablöse €17.60m,28,"Jan 10, 1974",Retired
+Centre-Forward,,"Nov 17, 1998",Barry Hayles,"1,75m",4035,"['Jamaica', 'England']",Bristol Rovers,30,"May 17, 1972",FC Windsor
+Centre-Forward,left,"Jul 1, 2000",Louis Saha,"1,82m",4015,"['France', 'Guadeloupe']",: Ablöse €3.15m,23,"Aug 8, 1978",Retired
+Centre-Forward,right,"Jul 1, 2000",Calum Willock,"1,85m",3326,"['St. Kitts & Nevis', 'England']",Fulham FC U18,20,"Oct 29, 1981",Erith & Belvedere FC
+Centre-Forward,right,"Jul 1, 2000",Elvis Hammond,"1,75m",3722,"['Ghana', 'England']",Fulham FC U18,21,"Oct 6, 1980",Retired
+Centre-Forward,right,"Jul 1, 1998",Luke Cornwall,"1,91m",4003,"['England', 'Australia']",Fulham FC U18,21,"Jul 23, 1980",Retired

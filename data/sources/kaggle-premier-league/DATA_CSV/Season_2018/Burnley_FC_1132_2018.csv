@@ -1,0 +1,34 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 19, 2016",Nick Pope,"1,98m",192080,['England'],€10.00m,Charlton Athletic,27,"Apr 19, 1992",Newcastle United
+Goalkeeper,right,,"Aug 7, 2018",Joe Hart,"1,96m",40204,['England'],€6.00m,Manchester City,32,"Apr 19, 1987",Retired
+Goalkeeper,right,,"Jul 1, 2013",Tom Heaton,"1,88m",34130,['England'],€3.00m,: Ablöse free transfer,33,"Apr 15, 1986",Manchester United
+Goalkeeper,right,,"Sep 21, 2017",Anders Lindegaard,"1,93m",22491,['Denmark'],€500k,Without Club,35,"Apr 13, 1984",Retired
+Goalkeeper,,,"Aug 8, 2017",Adam Legzdins,"1,90m",43858,"['England', 'Latvia']",€250k,Birmingham City,32,"Nov 28, 1986",Dundee FC
+Centre-Back,right,,"Feb 1, 2016",James Tarkowski,"1,85m",173504,"['England', 'Poland']",€18.00m,: Ablöse €4.00m,26,"Nov 19, 1992",Everton FC
+Centre-Back,left,,"Jan 17, 2012",Ben Mee,"1,80m",74810,['England'],€10.00m,: Ablöse ?,29,"Sep 21, 1989",Brentford FC
+Centre-Back,left,,"Aug 5, 2018",Ben Gibson,"1,85m",128904,['England'],€10.00m,Middlesbrough FC,26,"Jan 15, 1993",Stoke City
+Centre-Back,right,,"Jan 1, 2010",Kevin Long,"1,88m",111114,['Ireland'],€2.50m,Cork City FC,28,"Aug 18, 1990",Toronto FC
+Left-Back,left,,"Jul 6, 2017",Charlie Taylor,"1,83m",195633,['England'],€7.00m,Leeds United,25,"Sep 18, 1993",Southampton FC
+Left-Back,left,,"Aug 15, 2014",Stephen Ward,"1,84m",34691,['Ireland'],€2.00m,Wolverhampton Wanderers,33,"Aug 20, 1985",Retired
+Left-Back,left,Muscle injury - Return unknown,,Ali Koiki,"1,87m",641441,"['England', 'Nigeria']",,,19,"Aug 22, 1999",Northampton Town
+Left-Back,left,,,Anthony Driscoll-Glennon,"1,81m",503683,['England'],,,19,"Nov 26, 1999",Newport County
+Right-Back,right,,"Jul 1, 2015",Matthew Lowton,"1,80m",102258,['England'],€5.00m,: Ablöse €1.40m,30,"Jun 9, 1989",Precision FC
+Right-Back,right,,"Jul 25, 2017",Phil Bardsley,"1,80m",15773,"['Scotland', 'England']",€1.50m,Stoke City,34,"Jun 28, 1985",Retired
+Defensive Midfield,right,,"Jul 11, 2017",Jack Cork,"1,85m",40613,['England'],€15.00m,: Ablöse €9.10m,30,"Jun 25, 1989",Burnley FC U21
+Defensive Midfield,right,,"Jan 31, 2017",Ashley Westwood,"1,74m",91317,['England'],€7.00m,: Ablöse €5.80m,29,"Apr 1, 1990",Charlotte FC
+Defensive Midfield,right,,"Aug 16, 2016",Steven Defour,"1,75m",33866,['Belgium'],€5.00m,: Ablöse €8.60m,31,"Apr 15, 1988",Retired
+Defensive Midfield,right,,"Jul 1, 2016",Aiden O'Neill,"1,78m",385918,"['Australia', 'Northern Ireland']",€500k,: Ablöse -,20,"Jul 4, 1998",Standard Liège
+Central Midfield,right,,"Aug 31, 2016",Jeff Hendrick,"1,85m",148262,['Ireland'],€10.00m,Derby County,27,"Jan 31, 1992",Without Club
+Central Midfield,right,,"Aug 1, 2020",Josh Benson,"1,75m",397102,['England'],,: Ablöse -,19,"Dec 5, 1999",Barnsley FC
+Left Midfield,left,Injury to the ankle - Return unknown,"Jan 31, 2017",Robbie Brady,"1,76m",128229,['Ireland'],€8.00m,: Ablöse €15.10m,27,"Jan 14, 1992",Preston North End
+Left Winger,left,,"Jul 1, 2018",Dwight McNeil,"1,83m",584769,['England'],€15.00m,: Ablöse -,19,"Nov 22, 1999",Everton FC
+Right Winger,left,,"Jul 19, 2016",Jóhann Berg Gudmundsson,"1,86m",89231,['Iceland'],€10.00m,Charlton Athletic,28,"Oct 27, 1990",Al-Orobah FC
+Right Winger,right,,"Aug 25, 2021",Aaron Lennon,"1,65m",14221,"['England', 'Ireland']",€5.00m,Kayserispor,32,"Apr 16, 1987",Retired
+Right Winger,right,,"Jul 7, 2017",Jonathan Walters,"1,83m",3306,"['Ireland', 'England']",,Stoke City,35,"Sep 20, 1983",Retired
+Centre-Forward,right,,"Aug 21, 2017",Chris Wood,"1,91m",108725,['New Zealand'],€18.00m,Leeds United,27,"Dec 7, 1991",Nottingham Forest
+Centre-Forward,right,,"Jan 10, 2014",Ashley Barnes,"1,85m",63200,['England'],€10.00m,Brighton & Hove Albion,29,"Oct 30, 1989",Norwich City
+Centre-Forward,right,,"Aug 7, 2018",Matej Vydra,"1,80m",101500,['Czech Republic'],€8.00m,Derby County,27,"May 1, 1992",FC Viktoria Plzen
+Centre-Forward,right,,"Jul 31, 2012",Sam Vokes,"1,86m",48078,"['Wales', 'England']",€5.00m,Wolverhampton Wanderers,29,"Oct 21, 1989",Wycombe Wanderers
+Centre-Forward,right,,"Aug 31, 2017",Nahki Wells,"1,70m",173483,['Bermuda'],€4.00m,: Ablöse €5.40m,29,"Jun 1, 1990",Bristol City
+Centre-Forward,right,,"Jan 31, 2019",Peter Crouch,"2,01m",4072,"['England', 'Ireland']",€1.00m,Stoke City,38,"Jan 30, 1981",Retired
+Centre-Forward,right,,"Jul 1, 2016",Ntumba Massanka,"1,91m",385922,"['England', 'DR Congo']",,: Ablöse -,22,"Nov 30, 1996",Warrington Rylands

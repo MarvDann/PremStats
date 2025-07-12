@@ -1,0 +1,36 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,,"Jul 1, 2017",Ederson,"1,88m",238223,"['Brazil', 'Portugal']",€56.00m,,SL Benfica,26,"Aug 17, 1993",Manchester City
+Goalkeeper,right,,"Jul 1, 2018",Arijanet Muric,"1,98m",371021,"['Kosovo', 'Montenegro']",€1.80m,,Manchester City U23,21,"Nov 7, 1998",Ipswich Town
+Goalkeeper,right,,"Aug 25, 2016",Claudio Bravo,"1,84m",40423,"['Chile', 'Spain']",€1.20m,,FC Barcelona,37,"Apr 13, 1983",Retired
+Goalkeeper,right,,"Jul 20, 2021",Scott Carson,"1,88m",14555,['England'],€800k,,Derby County,34,"Sep 3, 1985",Manchester City
+Centre-Back,left,,"Jan 30, 2018",Aymeric Laporte,"1,91m",176553,"['Spain', 'France']",€60.00m,,Athletic Bilbao,26,"May 27, 1994",Al-Nassr FC
+Centre-Back,right,,"Aug 9, 2016",John Stones,"1,88m",186590,['England'],€36.00m,,Everton FC,26,"May 28, 1994",Manchester City
+Centre-Back,right,,"Aug 20, 2015",Nicolás Otamendi,"1,83m",54781,['Argentina'],€14.50m,,Valencia CF,32,"Feb 12, 1988",SL Benfica
+Centre-Back,right,"Pubalgia - Return expected on Nov 15, 2024","Jul 1, 2019",Eric García,"1,82m",466794,['Spain'],€6.30m,,Manchester City U23,19,"Jan 9, 2001",FC Barcelona
+Centre-Back,right,,,Tosin Adarabioyo,"1,96m",258878,"['England', 'Nigeria']",€2.80m,,,22,"Sep 24, 1997",Chelsea FC
+Centre-Back,right,,"Jan 1, 2021",Taylor Harwood-Bellis,"1,88m",503977,['England'],€2.30m,,Manchester City U23,18,"Jan 30, 2002",Southampton FC
+Left-Back,left,,"Jul 24, 2017",Benjamin Mendy,"1,85m",157495,"['France', 'Senegal']",€28.00m,,: Ablöse €57.50m,25,"Jul 17, 1994",FC Lorient
+Left-Back,left,,"Jul 4, 2016",Oleksandr Zinchenko,"1,75m",203853,['Ukraine'],€24.00m,,: Ablöse €2.25m,23,"Dec 15, 1996",Arsenal FC
+Left-Back,left,,"Jul 3, 2019",Angeliño,"1,71m",277179,['Spain'],€17.50m,,: Ablöse €12.00m,23,"Jan 4, 1997",AS Roma
+Right-Back,right,Team captain,"Jul 14, 2017",Kyle Walker,"1,78m",95424,['England'],€40.00m,,Tottenham Hotspur,30,"May 28, 1990",Manchester City
+Right-Back,right,,"Aug 7, 2019",João Cancelo,"1,82m",182712,['Portugal'],€36.00m,"Returned after loan spell with FC Barcelona; date: Jun 30, 2024; fee: End of loan",: Ablöse €65.00m,26,"May 27, 1994",Al-Hilal SFC
+Right-Back,right,,,Alpha Diounkou,"1,84m",554175,"['Senegal', 'Spain']",€250k,,,18,"Oct 10, 2001",Omonia Nicosia
+Defensive Midfield,right,Cruciate ligament tear - Return unknown,"Jul 4, 2019",Rodri,"1,91m",357565,['Spain'],€64.00m,,: Ablöse €70.00m,24,"Jun 22, 1996",Manchester City
+Defensive Midfield,right,Knock - Return unknown,"Jul 1, 2013",Fernandinho,"1,79m",26267,['Brazil'],€8.00m,,Shakhtar Donetsk,35,"May 4, 1985",Club Athletico Paranaense
+Central Midfield,right,,"Aug 23, 2024",İlkay Gündoğan,"1,80m",53622,['Germany'],€40.00m,"Joined from FC Barcelona; date: Aug 23, 2024; fee: free transfer",FC Barcelona,29,"Oct 24, 1990",Manchester City
+Central Midfield,left,"Hamstring injury - Return expected on Jan 25, 2025",,Adrián Bernabé,"1,70m",466802,['Spain'],€2.30m,,,19,"May 26, 2001",Parma Calcio 1913
+Central Midfield,right,,"Jul 1, 2023",Tommy Doyle,"1,72m",433183,['England'],,,Manchester City U21,18,"Oct 17, 2001",Wolverhampton Wanderers
+Attacking Midfield,right,,"Aug 30, 2015",Kevin De Bruyne,"1,81m",88755,['Belgium'],€120.00m,,VfL Wolfsburg,29,"Jun 28, 1991",Manchester City
+Attacking Midfield,left,,"Jul 1, 2017",Bernardo Silva,"1,73m",241641,['Portugal'],€80.00m,,: Ablöse €50.00m,25,"Aug 10, 1994",Manchester City
+Attacking Midfield,left,,"Jul 14, 2010",David Silva,"1,70m",35518,['Spain'],€12.00m,,: Ablöse €28.75m,34,"Jan 8, 1986",Retired
+Attacking Midfield,left,"No eligibility - until Dec 31, 2024 - UEFA Conference League","Jul 1, 2021",Cole Palmer,"1,85m",568177,['England'],,,Manchester City U23,18,"May 6, 2002",Chelsea FC
+Left Winger,right,,"Jul 14, 2015",Raheem Sterling,"1,70m",134425,"['England', 'Jamaica']",€128.00m,,: Ablöse €63.70m,25,"Dec 8, 1994",Arsenal FC
+Left Winger,right,,"Aug 8, 2019",Ryotaro Meshino,"1,71m",426666,['Japan'],€450k,,: Ablöse €1.00m,22,"Jun 18, 1998",Gamba Osaka
+Right Winger,left,,"Aug 2, 2016",Leroy Sané,"1,83m",192565,"['Germany', 'France']",€80.00m,,FC Schalke 04,24,"Jan 11, 1996",Bayern Munich
+Right Winger,left,,"Jul 10, 2018",Riyad Mahrez,"1,79m",171424,"['Algeria', 'France']",€48.00m,,Leicester City,29,"Feb 21, 1991",Al-Ahli SFC
+Right Winger,left,,"Jul 1, 2017",Phil Foden,"1,71m",406635,['England'],€27.00m,,Manchester City U18,20,"May 28, 2000",Manchester City
+Right Winger,left,,"Jul 19, 2015",Patrick Roberts,"1,67m",225452,['England'],€2.80m,,Fulham FC,23,"Feb 5, 1997",Sunderland AFC
+Right Winger,left,,,Ian Poveda,"1,67m",392763,"['Colombia', 'England']",€675k,,,20,"Feb 9, 2000",Sunderland AFC
+Centre-Forward,right,,"Jan 1, 2017",Gabriel Jesus,"1,75m",363205,['Brazil'],€56.00m,,Sociedade Esportiva Palmeiras,23,"Apr 3, 1997",Arsenal FC
+Centre-Forward,right,,"Jul 28, 2011",Sergio Agüero,"1,73m",26399,"['Argentina', 'Spain']",€52.00m,,: Ablöse €40.00m,32,"Jun 2, 1988",Retired
+Centre-Forward,right,,,Nabil Touaizi,"1,83m",487180,"['Morocco', 'Spain']",,,,19,"Feb 1, 2001",Albacete Balompié

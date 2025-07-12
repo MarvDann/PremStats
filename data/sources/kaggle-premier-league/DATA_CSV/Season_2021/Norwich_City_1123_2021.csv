@@ -1,0 +1,46 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2021",Angus Gunn,"1,96m",201574,"['Scotland', 'England']",€3.00m,,Southampton FC,26,"Jan 22, 1996",Norwich City
+Goalkeeper,left,,"Jul 24, 2018",Tim Krul,"1,93m",33027,['Netherlands'],€2.00m,,Brighton & Hove Albion,34,"Apr 3, 1988",Luton Town
+Goalkeeper,right,,"Jul 1, 2020",Daniel Barden,"1,95m",504042,['Wales'],€250k,,Norwich City U21,21,"Jan 2, 2001",Swindon Town
+Goalkeeper,right,,"Jul 19, 2016",Michael McGovern,"1,90m",29391,['Northern Ireland'],€250k,,Hamilton Academical FC,37,"Jul 12, 1984",Retired
+Goalkeeper,right,,"Jul 1, 2018",Aston Oxborough,"1,96m",288948,['England'],€100k,,Norwich City U21,24,"May 9, 1998",Motherwell FC
+Goalkeeper,right,,"Jul 1, 2023",Jon McCracken,"1,90m",403564,['Scotland'],€100k,,Norwich City U21,22,"May 24, 2000",Dundee FC
+Centre-Back,right,"Cruciate ligament tear - Return expected on Dec 31, 2024","Aug 30, 2021",Ozan Kabak,"1,87m",361260,['Türkiye'],€10.00m,,FC Schalke 04,22,"Mar 25, 2000",TSG 1899 Hoffenheim
+Centre-Back,left,,"Jul 1, 2021",Ben Gibson,"1,85m",128904,['England'],€6.00m,,: Ablöse €9.30m,29,"Jan 15, 1993",Stoke City
+Centre-Back,right,Team captain,"Aug 30, 2017",Grant Hanley,"1,88m",121385,['Scotland'],€3.50m,,Newcastle United,30,"Nov 20, 1991",Norwich City
+Centre-Back,right,,"Jan 1, 2021",Andrew Omobamidele,"1,88m",621993,"['Ireland', 'Nigeria']",€1.20m,,Norwich City U21,20,"Jun 23, 2002",Nottingham Forest
+Centre-Back,right,Knee problems - Return unknown,"Jul 1, 2017",Christoph Zimmermann,"1,94m",77812,['Germany'],€1.00m,,Borussia Dortmund II,29,"Jan 12, 1993",SV Darmstadt 98
+Centre-Back,right,,"Jul 8, 2019",Rocky Bushiri,"1,87m",511802,"['DR Congo', 'Belgium']",€500k,,: Ablöse ?,22,"Nov 30, 1999",Hibernian FC
+Centre-Back,left,,"Jan 29, 2019",Akin Famewo,"1,88m",425713,"['England', 'Nigeria']",€250k,,Luton Town,23,"Nov 9, 1998",Sheffield Wednesday
+Centre-Back,right,,"Jul 1, 2023",Jonathan Tomkinson,"1,90m",696762,"['United States', 'England']",,,Norwich City U21,20,"Apr 11, 2002",Norwich City
+Left-Back,right,,"Aug 23, 2021",Brandon Williams,"1,80m",507700,['England'],€12.00m,,Manchester United,21,"Sep 3, 2000",Without Club
+Left-Back,left,,"Jul 1, 2021",Dimitrios Giannoulis,"1,78m",295630,['Greece'],€5.00m,,PAOK Thessaloniki,26,"Oct 17, 1995",FC Augsburg
+Left-Back,left,,"Jan 31, 2020",Sam McCallum,"1,77m",618901,['England'],€3.00m,,Coventry City,21,"Sep 2, 2000",Sheffield United
+Right-Back,right,,"Jul 1, 2018",Max Aarons,"1,77m",471690,"['England', 'Jamaica']",€22.00m,,Norwich City U21,22,"Jan 4, 2000",AFC Bournemouth
+Right-Back,right,,"Jul 16, 2019",Sam Byram,"1,83m",236953,['England'],€2.00m,,West Ham United,28,"Sep 16, 1993",Leeds United
+Right-Back,right,,"Jul 27, 2020",Bali Mumba,"1,68m",433186,"['England', 'DR Congo']",€400k,,Sunderland AFC U23,20,"Oct 8, 2001",Plymouth Argyle
+Defensive Midfield,right,,"Jul 2, 2021",Billy Gilmour,"1,70m",423744,['Scotland'],€12.00m,,Chelsea FC,21,"Jun 11, 2001",SSC Napoli
+Defensive Midfield,right,,"Aug 29, 2021",Mathias Normann,"1,79m",257805,['Norway'],€10.00m,,FC Rostov,26,"May 28, 1996",Al-Raed SFC
+Defensive Midfield,right,,"Jul 13, 2021",Pierre Lees-Melou,"1,85m",377393,['France'],€5.00m,,OGC Nice,29,"May 25, 1993",Stade Brestois 29
+Defensive Midfield,right,Foot injury - Return unknown,"Jul 27, 2020",Jacob Lungi Sørensen,"1,84m",390664,['Denmark'],€1.50m,,: Ablöse €1.10m,24,"Mar 3, 1998",Norwich City
+Central Midfield,left,,"Jan 22, 2018",Kenny McLean,"1,80m",126600,['Scotland'],€2.50m,,Aberdeen FC,30,"Jan 8, 1992",Norwich City
+Central Midfield,right,Calf injury - Return unknown,"Jan 13, 2020",Lukas Rupp,"1,78m",82863,['Germany'],€1.20m,,TSG 1899 Hoffenheim,31,"Jan 8, 1991",KSV Hessen Kassel
+Central Midfield,right,,"Jul 1, 2019",Daniel Adshead,"1,79m",532464,['England'],€250k,,Rochdale AFC,20,"Sep 2, 2001",Without Club
+Central Midfield,,,"Jul 1, 2022",Liam Gibbs,"1,78m",724785,['England'],,,Norwich City U21,19,"Dec 16, 2002",Norwich City
+Attacking Midfield,right,,"Jul 1, 2018",Todd Cantwell,"1,80m",332341,['England'],€18.00m,,Norwich City U21,24,"Feb 27, 1998",Blackburn Rovers
+Attacking Midfield,left,,"Jul 30, 2020",Kieran Dowell,"1,83m",258916,['England'],€2.50m,,Everton FC,24,"Oct 10, 1997",Rangers FC
+Left Winger,right,,"Aug 12, 2021",Christos Tzolis,"1,79m",451677,['Greece'],€8.00m,"Returned after loan spell with Fortuna Düsseldorf; date: Jun 30, 2024; fee: End of loan",PAOK Thessaloniki,20,"Jan 30, 2002",Club Brugge KV
+Left Winger,left,unknown injury - Return unknown,"Jul 27, 2020",Przemyslaw Placheta,"1,78m",383109,['Poland'],€1.80m,,Slask Wroclaw,24,"Mar 23, 1998",Oxford United
+Left Winger,right,,"Jan 25, 2018",Onel Hernández,"1,72m",109751,"['Cuba', 'Germany']",€1.50m,,Eintracht Braunschweig,29,"Feb 1, 1993",Norwich City
+Left Winger,right,,"Aug 1, 2020",Josh Martin,"1,76m",547534,"['England', 'Ireland']",€800k,,Norwich City U18,20,"Sep 9, 2001",Notts County
+Left Winger,right,,"Jan 1, 2022",Jonathan Rowe,"1,73m",672381,['England'],€800k,,Norwich City U21,19,"Apr 30, 2003",Olympique Marseille
+Right Winger,right,,"Jul 1, 2021",Milot Rashica,"1,78m",291739,"['Kosovo', 'Albania']",€7.00m,,SV Werder Bremen,26,"Jun 28, 1996",Besiktas JK
+Right Winger,left,,"Jul 1, 2020",Danel Sinani,"1,85m",346499,"['Luxembourg', 'Serbia']",€1.50m,,F91 Dudelange,25,"Apr 5, 1997",FC St. Pauli
+Right Winger,left,,"Jul 1, 2023",Tony Springett,"1,74m",570864,"['Ireland', 'England']",,,Norwich City U21,19,"Sep 22, 2002",Norwich City
+Right Winger,left,,"Jul 1, 2023",Abu Kamara,"1,83m",696764,"['England', 'Sierra Leone']",,,Norwich City U21,18,"Jul 21, 2003",Hull City
+Centre-Forward,right,,"Aug 9, 2021",Josh Sargent,"1,85m",393325,['United States'],€7.00m,,SV Werder Bremen,22,"Feb 20, 2000",Norwich City
+Centre-Forward,right,,"Jul 1, 2018",Teemu Pukki,"1,80m",46972,['Finland'],€4.00m,,Bröndby IF,32,"Mar 29, 1990",Minnesota United FC
+Centre-Forward,right,,"Jul 1, 2019",Adam Idah,"1,90m",434223,"['Ireland', 'Nigeria']",€3.00m,"Returned after loan spell with Celtic FC; date: Jun 30, 2024; fee: End of loan",Norwich City U21,21,"Feb 11, 2001",Celtic FC
+Centre-Forward,right,,"Aug 24, 2020",Jordan Hugill,"1,83m",291544,['England'],€1.80m,,West Ham United,30,"Jun 4, 1992",Rotherham United
+Centre-Forward,right,Knee injury - Return unknown,"Jul 28, 2020",Sebastian Soto,"1,83m",605498,"['United States', 'Chile']",€400k,,: Ablöse free transfer,21,"Jul 28, 2000",Without Club
+Centre-Forward,right,,,Thomas Dickson-Peters,"1,88m",566888,"['Scotland', 'England']",€100k,,,19,"Sep 16, 2002",Without Club

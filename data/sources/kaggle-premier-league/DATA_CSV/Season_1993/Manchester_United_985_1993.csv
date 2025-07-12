@@ -1,0 +1,33 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jul 1, 1984",Gary Walsh,"1,91m",13547,['England'],Manchester United U18,26,"Mar 21, 1968",Retired
+Goalkeeper,right,"Jul 1, 1991",Peter Schmeichel,"1,96m",3465,"['Denmark', 'Poland']",Bröndby IF,30,"Nov 18, 1963",Retired
+Goalkeeper,,"Jan 1, 1993",Les Sealey,"1,85m",176019,['England'],: Ablöse free transfer,36,"Sep 29, 1957",---
+Centre-Back,right,"Dec 1, 1987",Steve Bruce,"1,83m",104635,['England'],: Ablöse €1.20m,33,"Dec 31, 1960",Retired
+Centre-Back,right,"Jul 1, 1989",Gary Pallister,"1,93m",106917,['England'],: Ablöse €2.60m,29,"Jun 30, 1965",Retired
+Centre-Back,right,"Jul 1, 1992",Chris Casper,"1,83m",150434,['England'],Manchester United U18,19,"Apr 28, 1975",Retired
+Centre-Back,right,"Jul 1, 1990",Neil Whitworth,"1,83m",170379,['England'],Wigan Athletic,22,"Apr 12, 1972",Retired
+Left-Back,right,"Jul 1, 1990",Denis Irwin,"1,73m",4280,['Ireland'],: Ablöse €700k,28,"Oct 31, 1965",Retired
+Left-Back,,"Jul 1, 1982",Clayton Blackmore,"1,75m",176007,['Wales'],Manchester United U18,29,"Sep 23, 1964",Retired
+Left-Back,,"May 14, 1986",Lee Martin,,176025,['England'],Manchester United U18,26,"Feb 5, 1968",Retired
+Right-Back,right,"Jul 1, 1991",Paul Parker,"1,70m",101381,['England'],: Ablöse €2.43m,30,"Apr 4, 1964",Retired
+Right-Back,right,"Jul 1, 1992",Gary Neville,"1,80m",3403,['England'],Manchester United U18,19,"Feb 18, 1975",Retired
+Right-Back,right,"Jul 1, 1992",John O'Kane,"1,78m",150458,['England'],Manchester United U18,19,"Nov 15, 1974",Retired
+Defensive Midfield,right,"Jul 1, 1992",Nicky Butt,"1,78m",3543,['England'],Manchester United U18,19,"Jan 21, 1975",Retired
+Defensive Midfield,right,"Jul 1, 1989",Mike Phelan,"1,80m",176018,"['England', 'Ireland']",: Ablöse €875k,31,"Sep 24, 1962",Retired
+Central Midfield,right,"Jul 11, 1990",Darren Ferguson,"1,78m",36737,['Scotland'],Manchester United U18,22,"Feb 9, 1972",Retired
+Central Midfield,right,"Sep 14, 1989",Paul Ince,"1,78m",3248,"['England', 'Barbados']",: Ablöse €1.50m,26,"Oct 21, 1967",Retired
+Central Midfield,left,"Oct 3, 1981",Bryan Robson,"1,80m",101382,['England'],: Ablöse €1.70m,37,"Jan 11, 1957",Retired
+Central Midfield,,"Jul 1, 1993",Roy Keane,,3396,['Ireland'],: Ablöse €4.40m,22,"Aug 10, 1971",Retired
+Central Midfield,,"Jul 1, 1990",Craig Lawton,"1,70m",176017,['Wales'],Unknown,22,"Jan 5, 1972",Retired
+Central Midfield,right,"Jan 8, 2012",Paul Scholes,"1,68m",3397,['England'],,19,"Nov 16, 1974",Retired
+Central Midfield,right,"Jul 1, 1992",David Beckham,"1,82m",3139,['England'],Manchester United U18,19,"May 2, 1975",Retired
+Right Midfield,right,"Jul 1, 1991",Andrey Kanchelskis,"1,78m",3742,"['Russia', 'England']",: Ablöse €1.00m,25,"Jan 23, 1969",Retired
+Right Midfield,right,"Jul 1, 1992",Keith Gillespie,"1,77m",3827,['Northern Ireland'],Manchester United U18,19,"Feb 18, 1975",FC Mindwell
+Left Midfield,left,"Jul 1, 1988",Lee Sharpe,"1,83m",107229,['England'],: Ablöse €275k,23,"May 27, 1971",Retired
+Left Midfield,left,"Jul 1, 1991",Ryan Giggs,"1,79m",3406,['Wales'],Manchester United U18,20,"Nov 29, 1973",Retired
+Left Winger,left,"Jan 1, 1993",Ben Thornley,"1,72m",16727,['England'],Manchester United Reserves,19,"Apr 21, 1975",Retired
+Second Striker,right,"Nov 26, 1992",Éric Cantona,"1,87m",12000,['France'],: Ablöse €1.80m,28,"May 24, 1966",Retired
+Second Striker,right,"Jul 30, 1987",Brian McClair,"1,78m",101130,['Scotland'],Celtic FC,30,"Dec 8, 1963",Retired
+Second Striker,right,"Jul 20, 1988",Mark Hughes,"1,78m",8022,['Wales'],: Ablöse €2.00m,30,"Nov 1, 1963",Retired
+Centre-Forward,,,Colin McKee,"1,78m",170381,['Scotland'],Manchester United Reserves,20,"Aug 22, 1973",Retired
+Centre-Forward,right,"Aug 7, 1992",Dion Dublin,"1,88m",3763,['England'],Cambridge United,25,"Apr 22, 1969",Retired

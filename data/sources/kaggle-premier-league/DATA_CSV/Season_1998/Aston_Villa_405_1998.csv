@@ -1,0 +1,36 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Oct 13, 1997",Matthew Ghent,,306398,['England'],: Ablöse -,18,"Oct 5, 1980",Retired
+Goalkeeper,left,"Feb 28, 1992",Mark Bosnich,"1,85m",3249,"['Australia', 'Croatia']",Sydney United 58 FC,27,"Jan 13, 1972",Retired
+Goalkeeper,,"Jul 1, 1990",Michael Oakes,"1,88m",4237,['England'],: Ablöse -,25,"Oct 30, 1973",Retired
+Goalkeeper,,"Aug 1, 1996",Adam Rachel,"1,80m",105076,['England'],: Ablöse -,22,"Dec 10, 1976",Retired
+Goalkeeper,right,"Jan 1, 1999",Peter Enckelman,"1,88m",3719,['Finland'],Turun Palloseura,22,"Mar 10, 1977",Retired
+Centre-Back,right,"Jul 1, 1995",Gareth Southgate,"1,83m",3744,['England'],: Ablöse €3.75m,28,"Sep 3, 1970",Retired
+Centre-Back,right,"Jul 12, 1991",Ugo Ehiogu,"1,92m",3247,"['England', 'Nigeria']",: Ablöse €60k,26,"Nov 3, 1972",---
+Centre-Back,right,"Jul 1, 1993",Riccardo Scimeca,"1,85m",5174,['England'],: Ablöse -,24,"Jun 13, 1975",Retired
+Centre-Back,right,"Mar 1, 1999",Colin Calderwood,"1,83m",103641,['Scotland'],: Ablöse €330k,34,"Jan 20, 1965",Retired
+Left-Back,left,"Mar 1, 1995",Alan Wright,"1,63m",3331,['England'],Blackburn Rovers,27,"Sep 28, 1971",Retired
+Left-Back,left,"Jul 1, 1996",David Hughes,"1,93m",106813,['Wales'],: Ablöse -,21,"Feb 1, 1978",Retired
+Left-Back,left,"Jul 1, 1996",Tommy Jaszczun,"1,77m",98148,['England'],: Ablöse -,21,"Sep 16, 1977",Retired
+Left-Back,right,"Jul 1, 1996",Aaron Lescott,"1,68m",22743,['England'],: Ablöse -,20,"Dec 2, 1978",Retired
+Right-Back,right,"Jan 1, 1995",Gary Charles,"1,75m",106810,['England'],: Ablöse €1.45m,29,"Apr 13, 1970",Retired
+Right-Back,right,"Oct 1, 1998",Steve Watson,"1,85m",3309,['England'],Newcastle United,25,"Apr 1, 1974",Retired
+Right-Back,right,"Jul 1, 1997",Simon Grayson,"1,83m",106812,['England'],: Ablöse €1.30m,29,"Dec 16, 1969",Retired
+Right-Back,right,"Mar 9, 1999",Mark Delaney,"1,85m",3841,['Wales'],: Ablöse €375k,23,"May 13, 1976",Retired
+Defensive Midfield,right,"Jan 1, 1995",Ian Taylor,"1,88m",3667,['England'],: Ablöse €1.50m,31,"Jun 4, 1968",Retired
+Defensive Midfield,left,"Jul 1, 1998",Gareth Barry,"1,84m",3291,['England'],: Ablöse -,18,"Feb 23, 1981",Unknown
+Defensive Midfield,left,"Jul 1, 1998",Jlloyd Samuel,"1,80m",4067,"['Trinidad and Tobago', 'England']",: Ablöse -,18,"Mar 29, 1981",---
+Central Midfield,right,"Jul 1, 1995",Mark Draper,"1,77m",3681,['England'],: Ablöse €4.88m,28,"Nov 11, 1970",Retired
+Central Midfield,right,"Jul 1, 1994",Lee Hendrie,"1,68m",4069,['England'],: Ablöse -,22,"May 18, 1977",Retired
+Central Midfield,right,,Fabio Ferraresi,"1,81m",42854,['Italy'],,20,"May 24, 1979",Retired
+Central Midfield,right,"Jul 1, 1998",Michael Standing,"1,78m",13610,['England'],: Ablöse -,18,"Mar 20, 1981",Retired
+Right Midfield,,"Sep 8, 1998",Paul Merson,,3250,['England'],: Ablöse €6.75m,31,"Mar 20, 1968",Retired
+Right Midfield,right,"Mar 1, 1999",Steve Stone,"1,75m",3364,['England'],: Ablöse €8.00m,27,"Aug 20, 1971",Retired
+Left Midfield,left,"Jul 1, 1998",Alan Thompson,"1,83m",3485,['England'],: Ablöse €7.20m,25,"Dec 22, 1973",Retired
+Centre-Forward,right,"Jul 1, 1997",Stan Collymore,"1,88m",106811,['England'],: Ablöse €10.50m,28,"Jan 22, 1971",Retired
+Centre-Forward,,"Jan 1, 1990",Dwight Yorke,"1,78m",3223,"['Trinidad and Tobago', 'England']",Unknown,27,"Nov 3, 1971",Retired
+Centre-Forward,right,"Jul 1, 1996",Julian Joachim,"1,67m",10027,"['England', 'St. Vincent & Grenadinen']",: Ablöse €2.10m,24,"Sep 20, 1974",Retired
+Centre-Forward,right,"Nov 5, 1998",Dion Dublin,"1,88m",3763,['England'],Coventry City,30,"Apr 22, 1969",Retired
+Centre-Forward,right,"Jul 1, 1997",Darren Byfield,"1,80m",13658,"['Jamaica', 'England']",: Ablöse -,22,"Sep 29, 1976",Retired
+Centre-Forward,right,"Jul 1, 1998",Darius Vassell,"1,71m",3236,"['England', 'Jamaica']",: Ablöse -,19,"Jun 13, 1980",Retired
+Centre-Forward,right,"Jul 1, 1995",Alan Lee,"1,88m",12715,['Ireland'],: Ablöse -,20,"Aug 21, 1978",Retired
+Centre-Forward,right,"Jul 1, 1995",Richard Walker,"1,82m",16103,['England'],: Ablöse -,21,"Nov 8, 1977",Retired

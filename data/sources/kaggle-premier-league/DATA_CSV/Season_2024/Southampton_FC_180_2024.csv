@@ -1,0 +1,33 @@
+position,foot,status,joinedOn,name,height,id,nationality,contract,joined,marketValue,age,dateOfBirth,signedFrom
+Goalkeeper,right,,"Aug 30, 2024",Aaron Ramsdale,"1,90m",427568,['England'],"Jun 30, 2028","Joined from Arsenal FC; date: Aug 30, 2024; fee: €21.40m",€22.00m,26,"May 14, 1998",Arsenal FC
+Goalkeeper,right,"Achilles tendon rupture - Return expected on Jan 1, 2025","Jul 1, 2022",Gavin Bazunu,"1,88m",585550,"['Ireland', 'Nigeria']","Jun 30, 2027",,€15.00m,22,"Feb 20, 2002",Manchester City U21
+Goalkeeper,right,,"Aug 7, 2023",Joe Lumley,"1,90m",336367,['England'],"Jun 30, 2025",,€600k,29,"Feb 15, 1995",Middlesbrough FC
+Goalkeeper,right,,"Aug 1, 2016",Alex McCarthy,"1,93m",95976,['England'],"Jun 30, 2026",,€500k,34,"Dec 3, 1989",Crystal Palace
+Centre-Back,right,,"Jul 1, 2024",Taylor Harwood-Bellis,"1,88m",503977,['England'],"Jun 30, 2028","Joined from Manchester City; date: Jul 1, 2024; fee: €23.00m",€22.00m,22,"Jan 30, 2002",Manchester City
+Centre-Back,right,,"Jul 1, 2022",Armel Bella-Kotchap,"1,90m",467563,"['Germany', 'Cameroon']","Jun 30, 2026","Returned after loan spell with PSV Eindhoven; date: Jun 30, 2024; fee: End of loan",€12.00m,22,"Dec 11, 2001",VfL Bochum
+Centre-Back,right,,"Jul 1, 2017",Jan Bednarek,"1,89m",243028,['Poland'],"Jun 30, 2027",,€11.00m,28,"Apr 12, 1996",Lech Poznan
+Centre-Back,right,,"Jul 3, 2024",Ronnie Edwards,"1,85m",732165,['England'],"Jun 30, 2028","Joined from Peterborough United; date: Jul 3, 2024; fee: €3.50m",€3.80m,21,"Mar 28, 2003",Peterborough United
+Centre-Back,right,,"Jul 5, 2024",Nathan Wood,"1,88m",503990,"['England', 'Jamaica']","Jun 30, 2028","Joined from Swansea City; date: Jul 5, 2024; fee: €3.50m",€3.80m,22,"May 31, 2002",Swansea City
+Centre-Back,right,Team captain,"Jul 1, 2013",Jack Stephens,"1,85m",163744,['England'],"Jun 30, 2025",,€2.00m,30,"Jan 27, 1994",Southampton FC U21
+Left-Back,left,,"Sep 1, 2022",Juan Larios,"1,70m",646738,['Spain'],"Jun 30, 2027",,€4.50m,20,"Jan 12, 2004",Manchester City U21
+Left-Back,left,,"Jul 11, 2023",Ryan Manning,"1,73m",262300,['Ireland'],"Jun 30, 2027",,€3.00m,28,"Jun 14, 1996",Swansea City
+Left-Back,left,,"Jul 1, 2024",Charlie Taylor,"1,83m",195633,['England'],"Jun 30, 2026","Joined from Burnley FC; date: Jul 1, 2024; fee: free transfer",€3.00m,31,"Sep 18, 1993",Burnley FC
+Right-Back,right,,"Aug 11, 2020",Kyle Walker-Peters,"1,73m",341051,"['England', 'Jamaica']","Jun 30, 2025",,€20.00m,27,"Apr 13, 1997",Tottenham Hotspur
+Right-Back,right,,"Jul 14, 2024",Yukinari Sugawara,"1,79m",405385,['Japan'],"Jun 30, 2028","Joined from AZ Alkmaar; date: Jul 14, 2024; fee: €7.00m",€12.00m,24,"Jun 28, 2000",AZ Alkmaar
+Right-Back,right,,"Jan 26, 2023",James Bree,,324223,['England'],"Jun 30, 2026",,€2.20m,26,"Dec 11, 1997",Luton Town
+Defensive Midfield,right,,"Aug 16, 2024",Lesley Ugochukwu,"1,90m",711999,"['France', 'Nigeria']","May 31, 2025","On loan from Chelsea FC until May 31, 2025",€25.00m,20,"Mar 26, 2004",Chelsea FC
+Defensive Midfield,right,,"Jul 16, 2024",Flynn Downes,"1,78m",506189,['England'],"Jun 30, 2028","Joined from West Ham United; date: Jul 16, 2024; fee: €17.85m",€13.00m,25,"Jan 20, 1999",West Ham United
+Central Midfield,right,,"Aug 20, 2024",Mateus Fernandes,"1,78m",880245,['Portugal'],"Jun 30, 2029","Joined from Sporting CP; date: Aug 20, 2024; fee: €15.00m",€12.00m,20,"Jul 10, 2004",Sporting CP
+Central Midfield,left,,"Jul 9, 2022",Joe Aribo,"1,83m",468198,"['Nigeria', 'England']","Jun 30, 2026",,€5.00m,28,"Jul 21, 1996",: Ablöse €7.10m
+Central Midfield,right,Knee injury - Return unknown,"Jan 1, 2020",Will Smallbone,"1,83m",444211,"['Ireland', 'England']","Jun 30, 2026",,€5.00m,24,"Feb 21, 2000",Southampton FC U23
+Attacking Midfield,both,,"Jul 1, 2024",Adam Lallana,"1,72m",43530,['England'],"Jun 30, 2025","Joined from Brighton & Hove Albion; date: Jul 1, 2024; fee: free transfer",€1.00m,36,"May 10, 1988",Brighton & Hove Albion
+Left Winger,right,,"Jan 31, 2023",Kamaldeen Sulemana,"1,75m",746695,['Ghana'],"Jun 30, 2027",,€13.00m,22,"Feb 15, 2002",Stade Rennais FC
+Left Winger,left,,"Aug 30, 2024",Maxwel Cornet,"1,79m",234781,"[""Cote d'Ivoire"", 'France']","Jun 30, 2025","On loan from West Ham United until Jun 30, 2025",€9.00m,28,"Sep 27, 1996",West Ham United
+Left Winger,right,,"Aug 30, 2024",Ryan Fraser,"1,63m",146795,['Scotland'],"Jun 30, 2026","Joined from Newcastle United; date: Aug 30, 2024; fee: free transfer",€3.00m,30,"Feb 24, 1994",Newcastle United
+Right Winger,left,,"Jul 1, 2024",Tyler Dibling,"1,78m",866655,['England'],"Jun 30, 2027","Internal transfer: Southampton FC U21; date: Jul 1, 2024",€5.00m,18,"Feb 17, 2006",Southampton FC U21
+Right Winger,left,,"Jul 1, 2023",Samuel Amo-Ameyaw,"1,74m",933900,"['England', 'Ghana']","Jun 30, 2026",,€300k,18,"Jul 18, 2006",Southampton FC U18
+Centre-Forward,right,,"Aug 10, 2021",Adam Armstrong,"1,73m",250426,['England'],"Jun 30, 2027",,€16.00m,27,"Feb 10, 1997",Blackburn Rovers
+Centre-Forward,right,,"Aug 16, 2024",Cameron Archer,"1,75m",533662,"['England', 'Jamaica']","Jun 30, 2028","Joined from Aston Villa; date: Aug 16, 2024; fee: €17.60m",€13.00m,22,"Dec 9, 2001",Aston Villa
+Centre-Forward,right,,"Jan 31, 2023",Paul Onuachu,"2,01m",272855,['Nigeria'],"Jun 30, 2026","Returned after loan spell with Trabzonspor; date: Jun 30, 2024; fee: End of loan",€13.00m,30,"May 28, 1994",KRC Genk
+Centre-Forward,right,,"Jul 30, 2024",Ben Brereton Díaz,"1,85m",426192,"['Chile', 'England']","Jun 30, 2028","Joined from Villarreal CF; date: Jul 30, 2024; fee: €8.30m",€8.00m,25,"Apr 18, 1999",Villarreal CF
+Centre-Forward,right,,"Sep 1, 2023",Ross Stewart,"1,88m",447995,['Scotland'],"Jun 30, 2026",,€4.50m,28,"Jul 11, 1996",Sunderland AFC

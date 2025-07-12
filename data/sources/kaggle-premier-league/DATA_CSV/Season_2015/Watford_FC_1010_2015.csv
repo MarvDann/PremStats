@@ -1,0 +1,40 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jan 19, 2016",Costel Pantilimon,"2,03m",47659,['Romania'],€4.50m,,Sunderland AFC,29,"Feb 1, 1987",Retired
+Goalkeeper,left,,"Jul 1, 2015",Giedrius Arlauskis,"1,91m",69001,['Lithuania'],€1.50m,,Steaua Bucharest,28,"Dec 1, 1987",Retired
+Goalkeeper,right,,"Jul 1, 2014",Heurelho Gomes,"1,91m",19059,['Brazil'],€1.00m,,Tottenham Hotspur,35,"Feb 15, 1981",Retired
+Goalkeeper,,,"Aug 25, 2014",Rene Gilmartin,"1,97m",66518,['Ireland'],€250k,,St. Patrick's Athletic,29,"May 31, 1987",Retired
+Goalkeeper,left,,"Dec 23, 2015",Luke Simpson,"1,90m",223790,['England'],,,Without Club,21,"Sep 23, 1994",Ashton United
+Centre-Back,left,,"Aug 14, 2015",Nathan Aké,"1,80m",177476,"['Netherlands', ""Cote d'Ivoire""]",€4.50m,,Chelsea FC,21,"Feb 18, 1995",Manchester City
+Centre-Back,right,,"Jul 1, 2015",Sebastian Prödl,"1,94m",37981,['Austria'],€4.00m,,SV Werder Bremen,29,"Jun 21, 1987",Retired
+Centre-Back,right,,"Jul 1, 2014",Craig Cathcart,"1,89m",59606,['Northern Ireland'],€4.00m,,Blackpool FC,27,"Feb 6, 1989",Retired
+Centre-Back,left,,"Jul 22, 2015",Miguel Britos,"1,89m",76799,['Uruguay'],€3.50m,,: Ablöse free transfer,30,"Jul 17, 1985",Retired
+Centre-Back,right,,"Jul 19, 2013",Gabriele Angella,"1,93m",86793,['Italy'],€2.00m,,Udinese Calcio,27,"Apr 28, 1989",AC Perugia Calcio
+Centre-Back,left,,"Jul 1, 2014",Essaïd Belkalem,"1,90m",162395,['Algeria'],€1.50m,,Granada CF,27,"Jan 1, 1989",Retired
+Centre-Back,right,,"Jul 24, 2013",Joel Ekstrand,"1,88m",69912,['Sweden'],€1.00m,,Udinese Calcio,27,"Feb 4, 1989",Retired
+Centre-Back,right,,"Jul 1, 2012",Tommie Hoban,"1,88m",183161,"['Ireland', 'England']",€1.00m,,Watford FC U18,22,"Jan 24, 1994",Hornchurch FC
+Left-Back,left,,"Jul 2, 2015",Jose Cholevas,"1,84m",41112,"['Greece', 'Germany']",€2.00m,,: Ablöse €2.50m,32,"Jun 27, 1984",Retired
+Left-Back,left,,"Jul 19, 2013",Daniel Pudil,"1,84m",35583,['Czech Republic'],€1.50m,,: Ablöse free transfer,30,"Sep 27, 1985",Hallam FC
+Right-Back,right,,"Jan 9, 2015",Miguel Layún,"1,80m",58576,"['Mexico', 'Spain']",€7.00m,,Granada CF,28,"Jun 25, 1988",Retired
+Right-Back,right,,"Jul 14, 2015",Allan Nyom,"1,89m",111508,"['Cameroon', 'France']",€4.00m,,Udinese Calcio,28,"May 10, 1988",Getafe CF
+Defensive Midfield,right,,"Jul 6, 2015",Étienne Capoue,"1,89m",63494,"['France', 'Guadeloupe']",€9.00m,,Tottenham Hotspur,27,"Jul 11, 1988",Without Club
+Defensive Midfield,right,,"Jan 30, 2016",Mario Suárez,"1,89m",37337,['Spain'],€8.00m,,: Ablöse €5.30m,29,"Feb 24, 1987",Retired
+Defensive Midfield,right,,"Jul 11, 2015",Valon Behrami,"1,84m",21905,"['Switzerland', 'Kosovo']",€2.50m,,: Ablöse €3.50m,31,"Apr 19, 1985",Retired
+Defensive Midfield,right,,"Jul 16, 2014",Juan Carlos Paredes,"1,78m",100507,['Ecuador'],€2.00m,,Granada CF,28,"Jul 8, 1987",Cumbayá FC
+Defensive Midfield,right,,"Sep 1, 2015",Adlène Guédioura,"1,78m",74768,"['Algeria', 'France']",€1.00m,,Crystal Palace,30,"Nov 12, 1985",Retired
+Central Midfield,right,,"Jul 19, 2013",Almen Abdi,"1,81m",9966,"['Switzerland', 'Kosovo']",€3.50m,,Udinese Calcio,29,"Oct 21, 1986",Retired
+Central Midfield,right,,"Jan 23, 2015",Ben Watson,"1,78m",14081,['England'],€1.50m,,Wigan Athletic,30,"Jul 9, 1985",Retired
+Central Midfield,right,,"Jan 1, 2012",Sean Murray,"1,76m",148907,"['Ireland', 'England']",€750k,,Watford FC U18,22,"Oct 11, 1993",Cork City FC
+Central Midfield,right,,"Jul 1, 2012",Connor Smith,"1,81m",177771,['Ireland'],€250k,,Watford FC U18,23,"Feb 18, 1993",Barnet FC
+Left Midfield,both,,"Jul 22, 2013",Ikechi Anya,"1,66m",107427,"['Scotland', 'Nigeria']",€3.00m,,: Ablöse ?,28,"Jan 3, 1988",Retired
+Left Midfield,left,,"Jul 1, 2014",Lloyd Dyer,"1,73m",3668,"['England', 'Montserrat']",€500k,,Leicester City,33,"Sep 13, 1982",Retired
+Attacking Midfield,,,"Jul 22, 2015",José Manuel Jurado,,28261,['Spain'],€7.00m,,: Ablöse €8.60m,30,"Jun 29, 1986",Retired
+Attacking Midfield,left,,"Aug 17, 2015",Alessandro Diamanti,"1,80m",23197,['Italy'],€1.50m,,Guangzhou Evergrande Taobao,33,"May 2, 1983",Retired
+Right Winger,right,,"Jan 18, 2016",Nordin Amrabat,"1,79m",55619,"['Morocco', 'Netherlands']",€5.00m,,Málaga CF,29,"Mar 31, 1987",AEK Athens
+Right Winger,left,,"Jul 27, 2015",Steven Berghuis,"1,82m",129554,['Netherlands'],€4.00m,,AZ Alkmaar,24,"Dec 19, 1991",Ajax Amsterdam
+Second Striker,right,,"Sep 1, 2015",Víctor Ibarbo,"1,88m",92141,['Colombia'],€8.00m,,: Ablöse €2.00m,26,"May 19, 1990",Internacional de Palmira
+Second Striker,right,"No eligibility - until Dec 31, 2024 - AFC Champions League Elite - 6 matchdays","Jan 14, 2013",Fernando Forestieri,"1,72m",44948,"['Italy', 'Argentina']",€3.50m,Joined from Johor Darul Ta'zim; date: ; fee: ?,Udinese Calcio,26,"Jan 15, 1990",Johor Darul Ta'zim
+Centre-Forward,right,,"Oct 24, 2014",Odion Ighalo,"1,81m",62121,"['Nigeria', 'Italy']",€12.00m,,: Ablöse €8.00m,27,"Jun 16, 1989",Al-Wehda FC
+Centre-Forward,right,,"Sep 22, 2012",Troy Deeney,"1,84m",65477,"['England', 'Jamaica']",€9.00m,,,28,"Jun 29, 1988",Without Club
+Centre-Forward,right,,"Sep 1, 2015",Mamadou Obbi Oulare,"1,96m",314959,"['Belgium', 'Guinea']",€6.00m,,Club Brugge KV,20,"Jan 8, 1996",K Lierse SK
+Centre-Forward,right,,"Jul 1, 2015",Matej Vydra,"1,80m",101500,['Czech Republic'],€5.50m,,Udinese Calcio,24,"May 1, 1992",FC Viktoria Plzen
+Centre-Forward,right,,"Jul 1, 2013",Uche Ikpeazu,"1,90m",245765,"['Uganda', 'England']",€250k,,Reading FC U18,21,"Feb 28, 1995",St. Johnstone FC

@@ -1,0 +1,36 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jul 1, 1990",John Lukic,"1,93m",28241,['England'],: Ablöse €1.38m,35,"Dec 11, 1960",Retired
+Goalkeeper,right,"Apr 22, 1993",Mark Beeney,"1,93m",107177,['England'],: Ablöse €350k,28,"Dec 30, 1967",Retired
+Goalkeeper,right,"Oct 16, 1992",Paul Pettinger,"1,83m",105905,['England'],Leeds United U18,20,"Oct 1, 1975",Retired
+Centre-Back,right,"Jul 1, 1994",Lucas Radebe,"1,86m",3088,['South Africa'],Kaizer Chiefs,27,"Apr 12, 1969",Retired
+Centre-Back,right,"Jul 1, 1991",David Wetherall,"1,91m",13615,['England'],: Ablöse €180k,25,"Mar 14, 1971",Retired
+Centre-Back,,"Nov 12, 1993",John Pemberton,,223245,['England'],Sheffield United,31,"Nov 18, 1964",Retired
+Centre-Back,,"Jul 1, 1993",David O'Leary,,104109,"['Ireland', 'England']",: Ablöse free transfer,38,"May 2, 1958",Retired
+Centre-Back,right,"Oct 26, 1995",Richard Jobson,"1,85m",175897,['England'],: Ablöse €1.15m,33,"May 9, 1963",Retired
+Centre-Back,left,"Aug 2, 1995",Paul Beesley,"1,85m",223222,['England'],Sheffield United,30,"Jul 21, 1965",Retired
+Centre-Back,right,"Jul 1, 1995",Mark Jackson,"1,83m",48257,['England'],Leeds United U18,18,"Sep 30, 1977",Retired
+Left-Back,left,"Jul 1, 1991",Tony Dorigo,"1,75m",101324,"['England', 'Australia']",: Ablöse €1.48m,30,"Dec 31, 1965",Retired
+Left-Back,,"Jul 1, 1994",Nigel Worthington,,117778,['Northern Ireland'],: Ablöse €400k,34,"Nov 4, 1961",Retired
+Left-Back,left,"Oct 20, 1992",Kevin Sharp,"1,75m",45489,"['England', 'Canada']",AJ Auxerre U19,21,"Sep 19, 1974",Retired
+Left-Back,left,"Jul 1, 1995",Ian Harte,"1,75m",3634,['Ireland'],Leeds United U18,18,"Aug 31, 1977",Retired
+Right-Back,right,"Jul 1, 1991",Gary Kelly,"1,73m",3631,['Ireland'],Leeds United U18,21,"Jul 9, 1974",Retired
+Right-Back,,"Jul 1, 1992",Rob Bowman,,176008,['England'],Leeds United U18,20,"Nov 21, 1975",Retired
+Right-Back,right,"Jul 1, 1995",Alan Maybury,"1,80m",12597,['Ireland'],Leeds United U18,17,"Aug 8, 1978",Retired
+Defensive Midfield,,"Jul 1, 1994",Carlton Palmer,,101325,['England'],: Ablöse €3.15m,30,"Dec 5, 1965",Retired
+Central Midfield,both,"Jul 2, 1990",Gary McAllister,"1,86m",10032,['Scotland'],: Ablöse €100k,31,"Dec 25, 1964",Retired
+Central Midfield,,"Jul 1, 1988",Gary Speed,,3459,['Wales'],Leeds United U18,26,"Sep 8, 1969",---
+Central Midfield,right,"Jul 1, 1992",Mark Tinkler,"1,88m",55427,['England'],Leeds United U18,21,"Oct 24, 1974",Retired
+Central Midfield,right,"Jul 1, 1992",Mark Ford,,176013,['England'],Leeds United U18,20,"Oct 10, 1975",Retired
+Central Midfield,right,"Mar 5, 1993",Andy Couzens,"1,75m",176011,['England'],Leeds United U18,21,"Jun 4, 1975",Retired
+Central Midfield,right,"Jan 1, 1995",Jason Blunt,"1,73m",225922,['England'],Leeds United U18,18,"Aug 16, 1977",Retired
+Left Winger,left,"Dec 23, 1995",Harry Kewell,"1,80m",3241,"['Australia', 'England']",Marconi Stallions FC,17,"Sep 22, 1978",Retired
+Right Winger,,"Dec 1, 1993",David White,"1,83m",177060,['England'],: Ablöse €3.00m,28,"Oct 30, 1967",Retired
+Centre-Forward,,"Jul 1, 1994",Philemon Masinga,"1,93m",103464,['South Africa'],Mamelodi Sundowns FC,27,"Jun 28, 1969",---
+Centre-Forward,right,"Oct 20, 1992",Jamie Forrester,"1,72m",67378,['England'],AJ Auxerre B,21,"Nov 1, 1974",Retired
+Centre-Forward,right,"Jul 1, 1991",Rod Wallace,"1,70m",13803,['England'],Southampton FC,26,"Oct 2, 1969",Retired
+Centre-Forward,,"Jul 21, 2004",Brian Deane,,8058,"['England', 'St. Kitts & Nevis']",: Ablöse free transfer,28,"Feb 7, 1968",Retired
+Centre-Forward,right,"Nov 25, 1995",Tomas Brolin,"1,78m",101091,['Sweden'],: Ablöse €5.30m,26,"Nov 29, 1969",Retired
+Centre-Forward,right,"Mar 5, 1993",Noel Whelan,"1,88m",3315,['England'],Leeds United U18,21,"Dec 30, 1974",Retired
+Centre-Forward,both,"Jul 1, 1995",Anthony Yeboah,"1,80m",328,['Ghana'],: Ablöse €3.25m,30,"Jun 6, 1966",Retired
+Centre-Forward,,"Jan 11, 1996",Lee Chapman,"1,88m",175862,['England'],Ipswich Town,36,"Dec 5, 1959",Retired
+Centre-Forward,right,"Jul 24, 2012",Andy Gray,"1,83m",13575,"['Scotland', 'England']",Barnsley FC,18,"Nov 15, 1977",Retired

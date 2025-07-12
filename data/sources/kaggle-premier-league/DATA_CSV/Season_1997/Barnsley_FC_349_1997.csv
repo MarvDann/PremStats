@@ -1,0 +1,29 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jul 1, 1997",Lars Leese,,3128,['Germany'],Bayer 04 Leverkusen,28,"Aug 18, 1969",Retired
+Goalkeeper,,"Jul 1, 1992",Dave Watson,"1,80m",195616,['England'],Barnsley FC U18,24,"Nov 10, 1973",Retired
+Goalkeeper,,"Mar 1, 1997",Tony Bullock,"1,86m",12572,['England'],Leek Town FC,26,"Feb 18, 1972",Retired
+Defender,,,Scott Jones,"1,78m",195177,['England'],,23,"May 1, 1975",Retired
+Centre-Back,,"Jul 1, 1997",Sven Peter Markstedt,,26724,['Sweden'],Västerås SK,26,"Jan 11, 1972",Retired
+Centre-Back,right,,Adie Moses,"1,85m",14162,['England'],,23,"May 4, 1975",Retired
+Centre-Back,right,"Nov 1, 1995",Arjan de Zeeuw,"1,92m",5909,['Netherlands'],: Ablöse €375k,28,"Apr 16, 1970",Retired
+Centre-Back,,"Aug 1, 1995",Peter Shirtliff,"1,83m",195180,['England'],: Ablöse €143k,37,"Apr 6, 1961",Retired
+Centre-Back,,"Jul 1, 1996",Chris Morgan,,13533,['England'],Barnsley FC U18,20,"Nov 9, 1977",Retired
+Left-Back,left,"Aug 1, 1996",Neil Thompson,,195634,['England'],Ipswich Town,34,"Oct 2, 1963",Retired
+Left-Back,left,"Jul 1, 1997",Ales Krizan,"1,82m",113185,['Slovenia'],NK Maribor,26,"Jul 25, 1971",Retired
+Left-Back,left,"Jul 1, 1997",Darren Barnard,"1,78m",175578,"['Wales', 'England']",: Ablöse €900k,26,"Nov 30, 1971",Retired
+Right-Back,right,"Jul 1, 1991",Nicky Eaden,"1,75m",13514,['England'],Barnsley FC U18,25,"Dec 12, 1972",Retired
+Defensive Midfield,right,"Aug 1, 1996",Matty Appleby,"1,78m",195172,['England'],Darlington FC (- 2012),26,"Apr 16, 1972",Retired
+Midfielder,,"Aug 1, 1996",Clint Marcelle,"1,63m",186972,['Trinidad and Tobago'],FC Felgueiras,29,"Nov 9, 1968",Retired
+Defensive Midfield,,"Sep 1, 1993",Martin Bullock,"1,65m",49698,"['England', 'New Zealand']",Unknown,23,"Mar 5, 1975",Retired
+Defensive Midfield,right,"Jul 1, 1997",Eric Tinkler,"1,79m",129635,['South Africa'],: Ablöse €442k,27,"Jul 30, 1970",Retired
+Central Midfield,right,"Jul 1, 1993",Darren Sheridan,"1,67m",22759,['England'],Winsford United,30,"Dec 8, 1967",Retired
+Central Midfield,both,"Sep 1, 1991",Neil Redfearn,"1,75m",195179,['England'],: Ablöse €172k,33,"Jun 20, 1965",Retired
+Attacking Midfield,right,"Jul 1, 1996",Jovan Bosancic,"1,79m",174004,['Serbia'],SC Campomaiorense (-2013),27,"Aug 7, 1970",Retired
+Right Winger,,"Oct 11, 1996",John Hendrie,,195175,['Scotland'],: Ablöse €287k,34,"Oct 24, 1963",Retired
+Right Winger,right,"Jul 1, 1991",Andy Liddell,"1,70m",13527,"['Scotland', 'England']",Barnsley FC U18,25,"Jun 28, 1973",Retired
+Centre-Forward,right,"Sep 1, 1997",Ashley Ward,"1,85m",13548,['England'],: Ablöse €1.82m,27,"Nov 24, 1970",Retired
+Centre-Forward,right,"Jan 1, 1996",Laurens ten Heuvel,"1,85m",14871,['Netherlands'],: Ablöse €100k,22,"Jun 6, 1976",Retired
+Centre-Forward,,"Jul 1, 1996",Paul Wilkinson,,177255,['England'],: Ablöse free transfer,33,"Oct 30, 1964",Retired
+Centre-Forward,,"Jul 1, 1997",Gjorgji Hristov,,4532,['North Macedonia'],FK Partizan Belgrade,22,"Jan 30, 1976",Retired
+Centre-Forward,right,,Luke Beckett,"1,80m",27507,['England'],,21,"Nov 25, 1976",Retired
+Centre-Forward,right,"Jan 1, 1998",Jan Åge Fjørtoft,"1,92m",514,['Norway'],Sheffield United,31,"Jan 10, 1967",Retired

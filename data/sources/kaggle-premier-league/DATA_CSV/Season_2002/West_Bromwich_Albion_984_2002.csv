@@ -1,0 +1,30 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jan 1, 2000",Brian Jensen,"1,85m",3263,['Denmark'],: Ablöse €150k,28,"Jun 8, 1975",Retired
+Goalkeeper,,"Jan 1, 2001",Russell Hoult,"1,93m",3653,['England'],: Ablöse €700k,30,"Nov 22, 1972",Retired
+Goalkeeper,right,"Jul 1, 2002",Joe Murphy,"1,88m",3655,['Ireland'],: Ablöse €250k,21,"Aug 21, 1981",Tranmere Rovers
+Centre-Back,,"Aug 1, 1999",Lárus Orri Sigurdsson,,3657,['Iceland'],: Ablöse €500k,30,"Jun 4, 1973",Retired
+Centre-Back,right,,Tamika Mkandawire,"1,83m",3662,"['England', 'Malawi']",,20,"May 28, 1983",Retired
+Centre-Back,left,"Mar 1, 2000",Neil Clement,"1,83m",3789,['England'],: Ablöse €150k,24,"Oct 3, 1978",Retired
+Centre-Back,right,"Sep 1, 2001",Darren Moore,"1,88m",3243,"['Jamaica', 'England']",: Ablöse €1.10m,29,"Apr 22, 1974",Retired
+Centre-Back,left,"Jul 1, 2000",Phil Gilchrist,"1,83m",3656,['England'],: Ablöse €750k,29,"Aug 25, 1973",Retired
+Centre-Back,right,"Jul 1, 2002",Sean Gregan,"1,88m",3638,['England'],: Ablöse €2.50m,29,"Mar 29, 1974",Retired
+Left-Back,left,"Jan 1, 2003",Ifeanyi Udeze,"1,79m",3654,['Nigeria'],: Ablöse €700k,22,"Jul 21, 1980",Retired
+Right-Back,right,"Jan 1, 2001",Igor Balis,"1,83m",3286,['Slovakia'],Slovan Bratislava,33,"Jan 5, 1970",Retired
+Right-Back,right,"Jul 1, 1999",James Chambers,"1,78m",3676,['England'],West Bromwich Albion U18,22,"Nov 20, 1980",Retired
+Right-Back,right,"Jul 1, 2000",Des Lyttle,"1,75m",3674,['England'],: Ablöse ?,31,"Sep 24, 1971",Retired
+Midfielder,,,Matt Collins,,813533,['England'],,21,"Feb 10, 1982",Retired
+Defensive Midfield,right,"Jul 1, 2000",Derek McInnes,"1,78m",3673,['Scotland'],: Ablöse €675k,31,"Jul 5, 1971",Retired
+Defensive Midfield,right,"Jul 1, 1999",Adam Chambers,"1,78m",3675,['England'],West Bromwich Albion U18,22,"Nov 20, 1980",Retired
+Central Midfield,right,"Jan 19, 2001",Michael Appleton,"1,75m",3279,['England'],: Ablöse €1.15m,27,"Dec 4, 1975",Retired
+Central Midfield,left,"Jul 1, 2002",Ronnie Wallwork,"1,78m",3305,['England'],Manchester United,25,"Sep 10, 1977",Retired
+Central Midfield,right,"Aug 24, 2000",Jordão,"1,90m",3576,"['Portugal', 'Angola']",SC Braga,31,"Aug 30, 1971",Retired
+Central Midfield,,"Jul 1, 2002",Lee Marshall,"1,83m",3671,['England'],: Ablöse €1.05m,24,"Jan 21, 1979",Retired
+Left Midfield,left,"Jul 9, 2001",Lloyd Dyer,"1,73m",3668,"['England', 'Montserrat']",: Ablöse free transfer,20,"Sep 13, 1982",Retired
+Attacking Midfield,right,"Jul 1, 2001",Andy Johnson,"1,83m",3672,"['Wales', 'England']",: Ablöse €300k,29,"May 2, 1974",Retired
+Attacking Midfield,left,"Aug 29, 2002",Jason Koumas,"1,77m",3661,"['Wales', 'Cyprus']",: Ablöse €3.45m,23,"Sep 25, 1979",Retired
+Centre-Forward,right,"Jan 1, 2000",Bob Taylor,"1,80m",3664,['England'],: Ablöse €100k,36,"Feb 3, 1967",Retired
+Striker,,,Matthew Turner,,3870,['England'],,21,"Dec 29, 1981",Retired
+Centre-Forward,right,"Aug 1, 2001",Danny Dichio,"1,91m",3651,"['England', 'Italy']",Sunderland AFC,28,"Oct 19, 1974",Retired
+Centre-Forward,right,"Jul 27, 2000",Jason Roberts,"1,85m",3666,"['Grenada', 'England']",Bristol Rovers,25,"Jan 25, 1978",Retired
+Centre-Forward,right,"Jul 11, 2001",Scott Dobie,"1,85m",3665,['Scotland'],Carlisle United,24,"Oct 10, 1978",Retired
+Centre-Forward,right,"Aug 29, 2002",Lee Hughes,"1,78m",3660,['England'],Coventry City,27,"May 22, 1976",Retired

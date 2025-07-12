@@ -1,0 +1,34 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Aug 1, 2016",Alex McCarthy,"1,93m",95976,['England'],€3.00m,,Crystal Palace,32,"Dec 3, 1989",Southampton FC
+Goalkeeper,right,,"Aug 9, 2014",Fraser Forster,"2,01m",52570,['England'],€2.00m,,Celtic FC,34,"Mar 17, 1988",Tottenham Hotspur
+Goalkeeper,right,,"Dec 6, 2021",Willy Caballero,"1,86m",19948,"['Argentina', 'Spain']",€250k,,Without Club,40,"Sep 28, 1981",Retired
+Goalkeeper,right,,"Jul 1, 2020",Harry Lewis,"1,91m",341043,['England'],€200k,,Southampton FC B,24,"Dec 20, 1997",Carlisle United
+Centre-Back,right,,"Jul 1, 2017",Jan Bednarek,"1,89m",243028,['Poland'],€22.00m,,Lech Poznan,26,"Apr 12, 1996",Southampton FC
+Centre-Back,left,,"Aug 12, 2020",Mohammed Salisu,"1,88m",563963,['Ghana'],€18.00m,,: Ablöse €12.00m,23,"Apr 17, 1999",AS Monaco
+Centre-Back,right,Team captain,"Jul 1, 2013",Jack Stephens,"1,85m",163744,['England'],€7.00m,,Southampton FC U21,28,"Jan 27, 1994",Southampton FC
+Centre-Back,right,,"Aug 25, 2021",Lyanco,"1,87m",379807,"['Brazil', 'Serbia']",€5.00m,"Returned after loan spell with Al-Gharafa SC; date: Jun 30, 2024; fee: End of loan",Torino FC,25,"Feb 1, 1997",Clube Atlético Mineiro
+Centre-Back,right,,,Dynel Simeu,"1,87m",503976,"['England', 'Cameroon']",€1.00m,,,20,"Mar 13, 2002",KF Teuta
+Left-Back,left,,"Jul 2, 2021",Romain Perraud,"1,73m",318523,['France'],€8.00m,"Returned after loan spell with OGC Nice; date: Jun 30, 2024; fee: End of loan",Stade Brestois 29,24,"Sep 22, 1997",Real Betis Balompié
+Left-Back,left,,,Thierry Small,"1,77m",746554,"['England', 'Panama']",€100k,,,17,"Aug 1, 2004",Charlton Athletic
+Right-Back,right,,"Aug 2, 2021",Tino Livramento,"1,82m",503981,"['England', 'Scotland']",€25.00m,,Chelsea FC U23,19,"Nov 12, 2002",Newcastle United
+Right-Back,right,,"Aug 11, 2020",Kyle Walker-Peters,"1,73m",341051,"['England', 'Jamaica']",€22.00m,,Tottenham Hotspur,25,"Apr 13, 1997",Southampton FC
+Right-Back,right,,"Jan 1, 2019",Yan Valery,"1,85m",406008,"['Tunisia', 'France']",€2.50m,,Southampton FC U23,23,"Feb 22, 1999",Sheffield Wednesday
+Defensive Midfield,right,,"Oct 4, 2020",Ibrahima Diallo,"1,79m",413032,"['France', 'Senegal']",€10.00m,,Stade Brestois 29,23,"Mar 8, 1999",Al-Duhail SC
+Defensive Midfield,right,,"Aug 12, 2015",Oriol Romeu,"1,83m",66100,['Spain'],€5.00m,,Chelsea FC,30,"Sep 24, 1991",Girona FC
+Central Midfield,right,,"Jul 1, 2012",James Ward-Prowse,"1,77m",181579,['England'],€32.00m,,Southampton FC U18,27,"Nov 1, 1994",Nottingham Forest
+Central Midfield,right,,"Jul 1, 2018",Stuart Armstrong,"1,83m",130765,['Scotland'],€6.00m,,Celtic FC,30,"Mar 30, 1992",Vancouver Whitecaps FC
+Central Midfield,right,Knee injury - Return unknown,"Jan 1, 2020",Will Smallbone,"1,83m",444211,"['Ireland', 'England']",€2.00m,,Southampton FC U23,22,"Feb 21, 2000",Southampton FC
+Central Midfield,right,,,Kgaogelo Chauke,"1,77m",703577,"['South Africa', 'England']",€150k,,,19,"Jan 8, 2003",Burton Albion
+Right Midfield,right,,"Jul 1, 2020",Nathan Tella,"1,73m",340322,"['Nigeria', 'England']",€1.80m,,Southampton FC B,22,"Jul 5, 1999",Bayer 04 Leverkusen
+Left Winger,right,,"Jul 1, 2018",Mohamed Elyounoussi,"1,78m",186644,['Norway'],€12.00m,,: Ablöse €18.00m,27,"Aug 4, 1994",FC Copenhagen
+Left Winger,right,unknown injury - Return unknown,"Jul 1, 2019",Moussa Djenepo,"1,77m",485424,['Mali'],€10.00m,,: Ablöse €15.70m,24,"Jun 15, 1998",Antalyaspor
+Left Winger,right,,,Kazeem Olaigbe,"1,78m",565406,"['Belgium', 'Nigeria']",,,,19,"Jan 2, 2003",Cercle Brugge
+Right Winger,right,Hamstring injury - Return unknown,"Jul 1, 2016",Nathan Redmond,"1,73m",129078,"['England', 'Jamaica']",€18.00m,,: Ablöse €13.50m,28,"Mar 6, 1994",Burnley FC
+Right Winger,both,,"Jul 1, 2021",Theo Walcott,"1,75m",33713,['England'],€1.80m,,Everton FC,33,"Mar 16, 1989",Retired
+Right Winger,left,,"Jul 1, 2024",Tyler Dibling,"1,78m",866655,['England'],,"Internal transfer: Southampton FC U21; date: Jul 1, 2024",Southampton FC U21,16,"Feb 17, 2006",Southampton FC
+Centre-Forward,right,Achilles tendon problems - Return unknown,"Aug 10, 2021",Armando Broja,"1,91m",571743,"['Albania', 'England']",€22.00m,,Chelsea FC U23,20,"Sep 10, 2001",Everton FC
+Centre-Forward,right,,"Jul 1, 2019",Ché Adams,"1,79m",346779,"['Scotland', 'England']",€18.00m,,Birmingham City,25,"Jul 13, 1996",Torino FC
+Centre-Forward,right,,"Aug 10, 2021",Adam Armstrong,"1,73m",250426,['England'],€15.00m,,Blackburn Rovers,25,"Feb 10, 1997",Southampton FC
+Centre-Forward,right,,"Jan 1, 2019",Michael Obafemi,"1,70m",444208,"['Ireland', 'Nigeria']",€2.50m,,Southampton FC U23,21,"Jul 6, 2000",Plymouth Argyle
+Centre-Forward,right,,"Jul 1, 2020",Dan Nlundulu,"1,85m",346482,"['England', 'DR Congo']",€1.20m,,Southampton FC B,23,"Feb 5, 1999",Cambridge United
+Centre-Forward,both,,"Aug 14, 2014",Shane Long,"1,80m",37304,['Ireland'],€800k,,: Ablöse €14.90m,35,"Jan 22, 1987",Retired

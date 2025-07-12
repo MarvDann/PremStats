@@ -1,0 +1,37 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jul 1, 1987",Kevin Hitchcock,"1,85m",26168,['England'],Mansfield Town,35,"Oct 5, 1962",Retired
+Goalkeeper,right,"Jul 1, 1997",Ed de Goey,"1,98m",3150,['Netherlands'],: Ablöse €3.35m,31,"Dec 20, 1966",Retired
+Goalkeeper,right,"Jan 1, 1993",Dmitriy Kharin,"1,88m",67109,['Russia'],: Ablöse €400k,29,"Aug 16, 1968",Retired
+Goalkeeper,right,"Jul 1, 1996",Frode Grodås,"1,88m",263,['Norway'],Lillestrøm SK,33,"Oct 24, 1964",Retired
+Goalkeeper,,"Jul 1, 1992",Nick Colgan,"1,85m",12690,['Ireland'],Drogheda United FC,24,"Sep 19, 1973",Retired
+Centre-Back,right,"Jul 1, 1996",Frank Leboeuf,"1,83m",5314,['France'],: Ablöse €3.45m,30,"Jan 22, 1968",Retired
+Centre-Back,right,"Jul 1, 1997",Bernard Lambourde,"1,83m",5580,"['France', 'Guadeloupe']",: Ablöse ?,27,"May 11, 1971",Retired
+Centre-Back,right,"Jan 1, 2000",John Terry,"1,87m",3160,['England'],: Ablöse -,17,"Dec 7, 1980",Retired
+Centre-Back,both,"Jul 1, 1993",Michael Duberry,"1,85m",3633,"['England', 'Montserrat']",: Ablöse -,22,"Oct 14, 1975",Retired
+Centre-Back,right,"Jul 1, 1988",David Lee,"1,91m",107092,['England'],: Ablöse -,28,"Nov 26, 1969",Retired
+Centre-Back,left,"Jul 1, 1990",Frank Sinclair,"1,78m",8056,"['Jamaica', 'England']",: Ablöse -,26,"Dec 3, 1971",Retired
+Centre-Back,left,"Jul 1, 1996",Neil Clement,"1,83m",3789,['England'],: Ablöse -,19,"Oct 3, 1978",Retired
+Left-Back,left,"Jul 1, 1991",Andy Myers,"1,77m",15058,['England'],: Ablöse -,24,"Nov 3, 1973",Retired
+Left-Back,left,"Jun 20, 1997",Celestine Babayaro,"1,75m",3153,"['Nigeria', 'England']",: Ablöse €3.50m,19,"Aug 29, 1978",Retired
+Left-Back,left,"Aug 8, 1997",Graeme Le Saux,"1,78m",3157,"['England', 'Jersey']",Blackburn Rovers,29,"Oct 17, 1968",Retired
+Left-Back,left,"Mar 21, 1997",Danny Granville,"1,80m",13789,['England'],Cambridge United,23,"Jan 19, 1975",Retired
+Left-Back,left,"Nov 1, 2000",Jon Harley,"1,78m",4014,['England'],: Ablöse free transfer,18,"Sep 26, 1979",Retired
+Right-Back,right,"Nov 18, 1995",Dan Petrescu,"1,77m",102023,"['Romania', 'England']",: Ablöse €3.50m,30,"Dec 22, 1967",Retired
+Right-Back,right,"Jan 19, 1987",Steve Clarke,"1,78m",107084,['Scotland'],St. Mirren FC,34,"Aug 29, 1963",Retired
+Right-Back,right,"Jan 20, 1998",Laurent Charvet,"1,87m",107083,['France'],: Ablöse ?,25,"May 8, 1973",Retired
+Defensive Midfield,right,"Jul 3, 1990",Dennis Wise,"1,68m",4006,['England'],: Ablöse €2.40m,31,"Dec 16, 1966",Retired
+Central Midfield,right,"Jul 1, 1996",Roberto Di Matteo,"1,80m",103679,"['Italy', 'Switzerland']",SS Lazio,28,"May 29, 1970",Retired
+Central Midfield,right,"Jul 1, 1994",Paul Hughes,"1,83m",33494,['England'],: Ablöse -,22,"Apr 19, 1976",Retired
+Central Midfield,right,"Jul 1, 1990",Eddie Newton,"1,80m",107094,['England'],: Ablöse -,26,"Dec 13, 1971",Retired
+Central Midfield,right,"Jul 1, 1995",Jody Morris,"1,65m",3171,['England'],: Ablöse -,19,"Dec 22, 1978",Retired
+Right Midfield,,"Nov 1, 1998",Nick Crittenden,"1,73m",107085,['England'],Plymouth Argyle,19,"Nov 11, 1978",Retired
+Attacking Midfield,right,"Jul 1, 1997",Gustavo Poyet,"1,88m",3361,"['Uruguay', 'Spain']",: Ablöse free transfer,30,"Nov 15, 1967",Retired
+Attacking Midfield,,"Jul 1, 1995",Ruud Gullit,,101045,"['Netherlands', 'Suriname']",UC Sampdoria,35,"Sep 1, 1962",Retired
+Second Striker,right,"Jul 1, 1995",Mark Hughes,"1,78m",8022,['Wales'],: Ablöse €1.90m,34,"Nov 1, 1963",Retired
+Second Striker,right,"Nov 8, 1996",Gianfranco Zola,"1,68m",3177,['Italy'],: Ablöse €6.20m,31,"Jul 5, 1966",Retired
+Centre-Forward,right,"Jul 1, 1996",Gianluca Vialli,"1,80m",16036,['Italy'],: Ablöse free transfer,33,"Jul 9, 1964",---
+Centre-Forward,,"Oct 28, 1993",Mark Stein,"1,67m",107104,"['England', 'South Africa']",: Ablöse €1.66m,32,"Jan 29, 1966",Retired
+Centre-Forward,right,"Jan 1, 1998",Tore André Flo,"1,93m",3081,['Norway'],SK Brann,25,"Jun 15, 1973",Retired
+Centre-Forward,left,"Jul 1, 1995",Mark Nicholls,"1,78m",107095,['England'],: Ablöse -,21,"May 30, 1977",Retired
+Centre-Forward,right,,Steven Hampshire,"1,80m",12627,['Scotland'],,18,"Oct 17, 1979",Retired
+Striker,,"Jul 1, 1996",Joe Sheerin,,107103,['England'],Unknown,20,"Nov 8, 1977",Retired

@@ -1,0 +1,37 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jul 1, 1984",Gary Walsh,"1,91m",13547,['England'],Manchester United U18,25,"Mar 21, 1968",Retired
+Goalkeeper,,"Jul 1, 1992",Kevin Pilkington,"1,85m",77354,['England'],Manchester United U18,19,"Mar 8, 1974",Retired
+Goalkeeper,right,"Nov 4, 1992",Fraser Digby,"1,85m",176626,['England'],Swindon Town,26,"Jan 23, 1967",Retired
+Goalkeeper,right,"Jul 1, 1991",Peter Schmeichel,"1,96m",3465,"['Denmark', 'Poland']",Bröndby IF,29,"Nov 18, 1963",Retired
+Goalkeeper,,"Jan 1, 1993",Les Sealey,"1,85m",176019,['England'],: Ablöse free transfer,35,"Sep 29, 1957",---
+Centre-Back,right,,Colin Murdock,"1,91m",12697,['Northern Ireland'],,17,"Jul 2, 1975",Retired
+Centre-Back,,"Sep 2, 1989",Brian Carey,,176022,['Ireland'],Cork City FC,25,"May 31, 1968",Retired
+Centre-Back,right,"Dec 1, 1987",Steve Bruce,"1,83m",104635,['England'],: Ablöse €1.20m,32,"Dec 31, 1960",Retired
+Centre-Back,right,"Jul 1, 1989",Gary Pallister,"1,93m",106917,['England'],: Ablöse €2.60m,28,"Jun 30, 1965",Retired
+Centre-Back,,"Aug 1, 1992",Pat McGibbon,,150453,['Northern Ireland'],Portadown FC U21,19,"Sep 6, 1973",Retired
+Left-Back,,"May 14, 1986",Lee Martin,,176025,['England'],Manchester United U18,25,"Feb 5, 1968",Retired
+Left-Back,right,"Jul 1, 1990",Denis Irwin,"1,73m",4280,['Ireland'],: Ablöse €700k,27,"Oct 31, 1965",Retired
+Left-Back,,"Jul 1, 1982",Clayton Blackmore,"1,75m",176007,['Wales'],Manchester United U18,28,"Sep 23, 1964",Retired
+Right-Back,right,"Jul 1, 1991",Paul Parker,"1,70m",101381,['England'],: Ablöse €2.43m,29,"Apr 4, 1964",Retired
+Right-Back,right,"Jul 1, 1992",Gary Neville,"1,80m",3403,['England'],Manchester United U18,18,"Feb 18, 1975",Retired
+Defensive Midfield,right,"Jul 1, 1992",Nicky Butt,"1,78m",3543,['England'],Manchester United U18,18,"Jan 21, 1975",Retired
+Defensive Midfield,right,"Jul 1, 1989",Mike Phelan,"1,80m",176018,"['England', 'Ireland']",: Ablöse €875k,30,"Sep 24, 1962",Retired
+Central Midfield,right,"Jul 11, 1990",Darren Ferguson,"1,78m",36737,['Scotland'],Manchester United U18,21,"Feb 9, 1972",Retired
+Central Midfield,right,"Jul 1, 1989",Neil Webb,"1,83m",101329,['England'],: Ablöse €1.70m,29,"Jul 30, 1963",Retired
+Central Midfield,,"Jul 1, 1990",Craig Lawton,"1,70m",176017,['Wales'],Unknown,21,"Jan 5, 1972",Retired
+Central Midfield,,"Jul 1, 1986",Russell Beardsmore,"1,68m",176624,['England'],Manchester United U18,24,"Sep 28, 1968",Retired
+Central Midfield,right,"Sep 14, 1989",Paul Ince,"1,78m",3248,"['England', 'Barbados']",: Ablöse €1.50m,25,"Oct 21, 1967",Retired
+Central Midfield,left,"Oct 3, 1981",Bryan Robson,"1,80m",101382,['England'],: Ablöse €1.70m,36,"Jan 11, 1957",Retired
+Central Midfield,right,"Jan 8, 2012",Paul Scholes,"1,68m",3397,['England'],,18,"Nov 16, 1974",Retired
+Central Midfield,right,"Jul 1, 1992",David Beckham,"1,82m",3139,['England'],Manchester United U18,18,"May 2, 1975",Retired
+Right Midfield,right,"Jul 1, 1991",Andrey Kanchelskis,"1,78m",3742,"['Russia', 'England']",: Ablöse €1.00m,24,"Jan 23, 1969",Retired
+Right Midfield,right,"Jul 1, 1992",Keith Gillespie,"1,77m",3827,['Northern Ireland'],Manchester United U18,18,"Feb 18, 1975",FC Mindwell
+Left Midfield,left,"Jul 1, 1988",Lee Sharpe,"1,83m",107229,['England'],: Ablöse €275k,22,"May 27, 1971",Retired
+Left Midfield,left,"Jul 1, 1991",Ryan Giggs,"1,79m",3406,['Wales'],Manchester United U18,19,"Nov 29, 1973",Retired
+Left Winger,,"Sep 18, 1989",Danny Wallace,"1,63m",176635,['England'],Southampton FC,29,"Jan 21, 1964",Retired
+Second Striker,right,"Nov 26, 1992",Éric Cantona,"1,87m",12000,['France'],: Ablöse €1.80m,27,"May 24, 1966",Retired
+Second Striker,right,"Jul 30, 1987",Brian McClair,"1,78m",101130,['Scotland'],Celtic FC,29,"Dec 8, 1963",Retired
+Second Striker,right,"Jul 20, 1988",Mark Hughes,"1,78m",8022,['Wales'],: Ablöse €2.00m,29,"Nov 1, 1963",Retired
+Centre-Forward,right,"Jul 1, 1988",Mark Robins,"1,73m",13644,['England'],Manchester United U18,23,"Dec 22, 1969",Retired
+Centre-Forward,,,Colin McKee,"1,78m",170381,['Scotland'],Manchester United Reserves,19,"Aug 22, 1973",Retired
+Centre-Forward,right,"Aug 7, 1992",Dion Dublin,"1,88m",3763,['England'],Cambridge United,24,"Apr 22, 1969",Retired

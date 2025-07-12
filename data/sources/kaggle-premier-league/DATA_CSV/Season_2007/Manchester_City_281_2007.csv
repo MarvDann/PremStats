@@ -1,0 +1,36 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 2006",Joe Hart,"1,96m",40204,['England'],€3.50m,: Ablöse €900k,21,"Apr 19, 1987",Retired
+Goalkeeper,right,"Aug 15, 2006",Andreas Isaksson,"2,00m",6590,['Sweden'],€3.00m,Stade Rennais FC,26,"Oct 3, 1981",Retired
+Goalkeeper,right,"Jul 1, 2007",Kasper Schmeichel,"1,89m",16911,['Denmark'],€1.00m,: Ablöse -,21,"Nov 5, 1986",Celtic FC
+Defender,,,Sam Williamson,"1,73m",61630,['England'],,,20,"Oct 15, 1987",Retired
+Centre-Back,right,"Aug 2, 2007",Vedran Corluka,"1,92m",34393,['Croatia'],€11.00m,GNK Dinamo Zagreb,22,"Feb 5, 1986",Retired
+Centre-Back,right,"Oct 18, 2000",Richard Dunne,"1,88m",3807,['Ireland'],€8.00m,: Ablöse €4.50m,28,"Sep 21, 1979",Retired
+Centre-Back,right,"Jul 1, 2004",Nedum Onuoha,"1,83m",28810,"['England', 'Nigeria']",€3.00m,: Ablöse -,21,"Nov 12, 1986",Retired
+Centre-Back,right,"Jan 1, 2002",Jihai Sun,"1,83m",3806,['China'],€1.50m,Dalian Shide,30,"Sep 30, 1977",Retired
+Centre-Back,right,"Jan 31, 2006",Matt Mills,"1,91m",25384,['England'],€400k,Southampton FC,21,"Jul 14, 1986",Retired
+Left-Back,left,"Jul 1, 2007",Javier Garrido,"1,79m",23218,['Spain'],€4.50m,Real Sociedad,23,"Mar 15, 1985",Retired
+Left-Back,left,"Jan 31, 2007",Michael Ball,"1,78m",9423,['England'],€3.00m,: Ablöse free transfer,28,"Oct 2, 1979",Retired
+Right-Back,right,"Jan 1, 2006",Micah Richards,"1,80m",32617,"['England', 'St. Kitts & Nevis']",€11.00m,: Ablöse -,20,"Jun 24, 1988",Retired
+Right-Back,right,"Jul 1, 2004",Danny Mills,"1,80m",3743,['England'],€900k,Leeds United,31,"May 18, 1977",Retired
+Right-Back,right,"Jul 1, 2007",Shay Logan,"1,73m",58579,['England'],€100k,: Ablöse -,20,"Jan 29, 1988",Retired
+Defensive Midfield,,"Jul 14, 2007",Gelson Fernandes,,20081,"['Switzerland', 'Cape Verde']",€4.50m,: Ablöse €5.50m,21,"Sep 2, 1986",Retired
+Defensive Midfield,right,"Jul 1, 2006",Michael Johnson,"1,83m",45274,['England'],€4.00m,: Ablöse -,20,"Feb 24, 1988",Retired
+Defensive Midfield,,"Jul 12, 2006",Dietmar Hamann,,919,['Germany'],€3.00m,: Ablöse €600k,34,"Aug 27, 1973",Retired
+Defensive Midfield,right,"Jul 1, 2006",Ousmane Dabo,"1,85m",3904,"['France', 'Senegal']",€1.50m,: Ablöse free transfer,31,"Feb 8, 1977",Retired
+Defensive Midfield,right,"Jul 1, 2007",Kelvin Etuhu,"1,79m",45792,"['Nigeria', 'England']",€750k,: Ablöse -,20,"May 30, 1988",Retired
+Attacking Midfield,right,"Jul 1, 2007",Elano,"1,74m",20053,"['Brazil', 'Italy']",€15.00m,Shakhtar Donetsk,27,"Jun 14, 1981",Retired
+Attacking Midfield,right,"Jul 1, 2005",Stephen Ireland,"1,73m",34838,['Ireland'],€6.00m,: Ablöse -,21,"Aug 22, 1986",Retired
+Attacking Midfield,right,"Jul 1, 2007",Geovanni,"1,70m",7609,['Brazil'],€3.50m,Cruzeiro Esporte Clube,28,"Jan 11, 1980",Retired
+Left Winger,,"Jul 1, 2007",Martin Petrov,,670,['Bulgaria'],€11.00m,: Ablöse €7.00m,29,"Jan 15, 1979",Retired
+Left Winger,right,"Jan 1, 2006",Georgios Samaras,"1,93m",6855,"['Greece', 'Australia']",€4.00m,: Ablöse €8.50m,23,"Feb 21, 1985",Retired
+Right Winger,left,"Jan 1, 2008",Nery Castillo,"1,70m",9711,"['Mexico', 'Uruguay']",€7.00m,Shakhtar Donetsk,24,"Jun 13, 1984",Retired
+Second Striker,right,,Ashley Grimes,"1,83m",61623,['England'],€50k,,21,"Dec 9, 1986",Retired
+Centre-Forward,right,"Jan 1, 2008",Benjani,"1,88m",12063,['Zimbabwe'],€9.75m,: Ablöse €5.20m,29,"Aug 13, 1978",Retired
+Centre-Forward,right,"Jul 1, 2007",Rolando Bianchi,"1,88m",20726,['Italy'],€9.00m,: Ablöse €13.00m,25,"Feb 15, 1983",Retired
+Centre-Forward,left,"Aug 1, 2007",Valeri Bozhinov,"1,85m",4176,"['Bulgaria', 'Italy']",€8.25m,: Ablöse €8.00m,22,"Feb 15, 1986",Retired
+Centre-Forward,left,"Jan 31, 2008",Felipe Caicedo,"1,83m",37834,"['Ecuador', 'Spain']",€5.00m,: Ablöse €7.00m,19,"Sep 5, 1988",Without Club
+Centre-Forward,right,"Jul 1, 2005",Darius Vassell,"1,71m",3236,"['England', 'Jamaica']",€3.50m,: Ablöse €3.60m,28,"Jun 13, 1980",Retired
+Centre-Forward,right,"Feb 15, 2007",Emile Mpenza,"1,77m",272,"['Belgium', 'DR Congo']",€2.50m,: Ablöse free transfer,29,"Jul 4, 1978",Retired
+Centre-Forward,left,"Jul 1, 2008",Daniel Sturridge,"1,82m",47082,['England'],€500k,: Ablöse -,18,"Sep 1, 1989",Retired
+Centre-Forward,,"Jul 1, 2006",Paul Dickov,,9221,['Scotland'],€400k,Blackburn Rovers,35,"Nov 1, 1972",Retired
+Centre-Forward,right,"Jul 1, 2007",Ched Evans,"1,83m",61622,['Wales'],,: Ablöse -,19,"Dec 28, 1988",Preston North End

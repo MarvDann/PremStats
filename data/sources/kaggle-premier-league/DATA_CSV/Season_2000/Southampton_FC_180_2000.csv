@@ -1,0 +1,33 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,,Chris Sharpe,"1,88m",42337,['Australia'],,19,"Sep 21, 1981",Retired
+Goalkeeper,right,"Jul 28, 1997",Paul Jones,"1,91m",3684,['Wales'],: Ablöse €1.35m,34,"Apr 18, 1967",Retired
+Goalkeeper,,"Dec 1, 1995",Neil Moss,"1,88m",48075,['England'],: Ablöse €40k,26,"May 10, 1975",Retired
+Goalkeeper,,"Jul 1, 1997",Scott Bevan,"1,98m",4110,['England'],Southampton FC U18,21,"Sep 16, 1979",Retired
+Centre-Back,,,Paul Jones,"1,85m",97920,['England'],,23,"Jun 3, 1978",Unknown
+Centre-Back,right,"Jul 1, 1996",Claus Lundekvam,"1,91m",3687,['Norway'],SK Brann,28,"Feb 22, 1973",Retired
+Centre-Back,right,"Jul 1, 1999",Dean Richards,"1,88m",3829,['England'],: Ablöse free transfer,27,"Jun 9, 1974",---
+Centre-Back,right,"Mar 8, 2000",Tahar El Khalej,"1,91m",3121,['Morocco'],SL Benfica,33,"Jun 16, 1968",Retired
+Centre-Back,right,"Jul 1, 1996",Garry Monk,"1,83m",4111,['England'],: Ablöse free transfer,22,"Mar 6, 1979",Retired
+Left-Back,left,"Feb 5, 1998",John Beresford,"1,68m",109487,['England'],Newcastle United,34,"Sep 4, 1966",Retired
+Left-Back,left,"Jan 1, 1987",Francis Benali,"1,78m",3298,['England'],Southampton FC U18,32,"Dec 30, 1968",Retired
+Left-Back,left,"Jan 1, 1998",Wayne Bridge,"1,78m",3682,['England'],Southampton FC U18,20,"Aug 5, 1980",Retired
+Right-Back,,"Mar 1, 1989",Jason Dodd,,3685,['England'],Bath City,30,"Nov 2, 1970",Retired
+Right-Back,right,"Jan 12, 2001",Dan Petrescu,"1,77m",102023,"['Romania', 'England']",Bradford City,33,"Dec 22, 1967",Retired
+Midfielder,right,"Nov 14, 2001",Cléber Chalá,"1,83m",80023,['Ecuador'],CD El Nacional,30,"Jun 29, 1971",Retired
+Defensive Midfield,right,"Jul 1, 1995",Matt Oakley,"1,77m",3784,['England'],Southampton FC U18,23,"Aug 17, 1977",Retired
+Central Midfield,left,"Feb 1, 1999",Chris Marsden,"1,80m",4117,['England'],: Ablöse €1.20m,32,"Jan 3, 1969",Retired
+Central Midfield,right,"Jul 1, 2001",Mark Draper,"1,77m",3681,['England'],: Ablöse €2.25m,30,"Nov 11, 1970",Retired
+Central Midfield,right,"Jul 1, 1999",Jo Tessem,"1,88m",4109,['Norway'],Molde FK,29,"Feb 28, 1972",Retired
+Central Midfield,left,"Jul 1, 2000",Adrián Cáceres,"1,78m",43137,"['Australia', 'Argentina']",Perth SC,19,"Jan 10, 1982",Retired
+Central Midfield,right,"Jul 1, 1997",Kevin Gibbens,"1,80m",109490,['England'],Southampton FC U18,21,"Nov 4, 1979",Retired
+Right Midfield,both,"Jul 1, 1998",Stuart Ripley,"1,80m",107223,['England'],Blackburn Rovers,33,"Nov 20, 1967",Retired
+Right Midfield,right,"Jul 1, 1999",Imants Bleidelis,"1,78m",15387,['Latvia'],Skonto Riga (- 2016),25,"Aug 16, 1975",Retired
+Left Midfield,right,"Jul 1, 1998",Hassan Kachloul,"1,86m",4066,['Morocco'],: Ablöse €350k,28,"Feb 19, 1973",Retired
+Attacking Midfield,right,"Jul 1, 1986",Matt Le Tissier,"1,85m",43705,"['England', 'Guernsey']",Southampton FC U18,32,"Oct 14, 1968",Retired
+Attacking Midfield,,"Aug 1, 1999",Trond Soltvedt,"1,86m",109482,['Norway'],Coventry City,34,"Feb 15, 1967",Retired
+Left Winger,left,"Jul 1, 1999",Dani Rodrigues,"1,80m",43184,['Portugal'],CD Feirense,21,"Mar 3, 1980",Retired
+Centre-Forward,right,"Aug 1, 2001",Scott McDonald,"1,73m",13799,"['Australia', 'Scotland']",Southampton FC U18,17,"Aug 21, 1983",Retired
+Centre-Forward,right,"Aug 17, 1999",Kevin Davies,"1,83m",4114,['England'],Blackburn Rovers,24,"Mar 26, 1977",Retired
+Centre-Forward,right,"Jul 5, 2000",Uwe Rösler,"1,85m",1440,['Germany'],: Ablöse free transfer,32,"Nov 15, 1968",Retired
+Centre-Forward,right,"Jul 10, 1998",James Beattie,"1,85m",3112,['England'],Blackburn Rovers,23,"Feb 27, 1978",Retired
+Centre-Forward,both,"Feb 16, 1999",Marians Pahars,"1,75m",3689,['Latvia'],Skonto Riga (- 2016),24,"Aug 5, 1976",Retired

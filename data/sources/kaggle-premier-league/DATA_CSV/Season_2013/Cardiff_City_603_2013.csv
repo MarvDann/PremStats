@@ -1,0 +1,43 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2009",David Marshall,"1,87m",9500,['Scotland'],€2.50m,: Ablöse €550k,29,"Mar 5, 1985",Retired
+Goalkeeper,right,,"Jul 1, 2012",Joe Lewis,"1,98m",25834,['England'],€500k,Peterborough United,26,"Oct 6, 1987",Retired
+Goalkeeper,right,,"Jul 29, 2013",Simon Moore,"1,91m",123536,['England'],€250k,: Ablöse €175k,24,"May 19, 1990",Sunderland AFC
+Centre-Back,right,,"Aug 11, 2013",Gary Medel,"1,71m",60889,"['Chile', 'Spain']",€11.00m,Sevilla FC,26,"Aug 3, 1987",CA Boca Juniors
+Centre-Back,right,,"Jul 31, 2013",Steven Caulker,"1,91m",121280,"['Sierra Leone', 'England']",€7.50m,Tottenham Hotspur,22,"Dec 29, 1991",Ankara Keciörengücü
+Centre-Back,right,,"Aug 31, 2013",Kévin Théophile-Catherine,"1,83m",60603,"['Martinique', 'France']",€3.50m,Stade Rennais FC,24,"Oct 28, 1989",GNK Dinamo Zagreb
+Centre-Back,left,,"Aug 31, 2011",Ben Turner,"1,93m",39518,"['England', 'Wales']",€2.00m,Coventry City,25,"Aug 21, 1988",Retired
+Centre-Back,right,,"Aug 22, 2012",Matthew Connolly,"1,88m",34559,['England'],€1.00m,: Ablöse €635k,26,"Sep 24, 1987",Retired
+Centre-Back,right,,"Feb 1, 2014",Juan Cala,"1,86m",67089,['Spain'],€1.00m,Sevilla FC,24,"Nov 26, 1989",Retired
+Centre-Back,right,,"Jul 2, 2009",Mark Hudson,"1,87m",3640,['England'],€500k,Charlton Athletic,32,"Mar 30, 1982",Retired
+Left-Back,left,,"Jul 4, 2011",Andrew Taylor,"1,78m",29158,['England'],€2.00m,Middlesbrough FC,27,"Aug 1, 1986",Retired
+Left-Back,left,,"Jul 1, 2013",Declan John,"1,78m",238585,['Wales'],€500k,Cardiff City U18,19,"Jun 30, 1995",Without Club
+Right-Back,right,,"Jan 31, 2014",Fábio,"1,72m",61891,"['Brazil', 'Portugal']",€4.00m,Manchester United,23,"Jul 9, 1990",Grêmio Foot-Ball Porto Alegrense
+Right-Back,right,,"Jul 26, 2013",John Brayford,"1,73m",91286,['England'],€1.50m,Derby County,26,"Dec 29, 1987",Retired
+Right-Back,right,,"Jul 1, 2006",Kevin McNaughton,"1,78m",11365,['Scotland'],€1.00m,Aberdeen FC,31,"Aug 28, 1982",Retired
+Right-Back,right,,,Tom James,"1,80m",325105,['Wales'],,,18,"Apr 15, 1996",Leyton Orient
+Defensive Midfield,right,"No eligibility - until Dec 31, 2024 - Qatar Stars League","Jul 1, 2011",Aron Gunnarsson,"1,77m",63821,['Iceland'],€3.00m,Coventry City,25,"Apr 22, 1989",Al-Gharafa SC
+Defensive Midfield,both,,"Jul 1, 2012",Filip Kiss,"1,86m",90360,['Slovakia'],€250k,Slovan Bratislava,23,"Oct 13, 1990",Kalba FC
+Central Midfield,right,,"Jul 1, 2012",Jordon Mutch,"1,84m",57207,['England'],€3.00m,: Ablöse €1.25m,22,"Dec 2, 1991",Gold Coast Knights
+Central Midfield,left,,"Jan 11, 2007",Peter Whittingham,"1,77m",3762,['England'],€2.50m,: Ablöse €525k,29,"Sep 8, 1984",---
+Central Midfield,left,,"Jan 29, 2013",Simon Lappin,"1,80m",14792,['Scotland'],€500k,: Ablöse free transfer,31,"Jan 25, 1983",Retired
+Central Midfield,right,,"Jul 1, 2012",Adedeji Oshilaja,"1,81m",195679,"['England', 'Nigeria']",,Cardiff City U18,21,"Mar 2, 1993",Mansfield Town
+Right Midfield,right,,"Jul 1, 2011",Don Cowie,"1,76m",14746,['Scotland'],€1.00m,Watford FC,31,"Feb 15, 1983",Retired
+Attacking Midfield,left,,"Aug 1, 2012",Bo-kyung Kim,"1,78m",128375,"['Korea, South']",€2.00m,Cerezo Osaka,24,"Oct 6, 1989",Suwon Samsung Bluewings
+Attacking Midfield,right,,"Jan 11, 2014",Mats Møller Dæhli,"1,72m",190831,['Norway'],€1.50m,Molde FK,19,"Mar 2, 1995",Molde FK
+Attacking Midfield,right,,"Jul 1, 2011",Craig Conway,"1,71m",14574,['Scotland'],€1.00m,: Ablöse free transfer,29,"May 2, 1985",Retired
+Left Winger,right,,"Jan 31, 2014",Wilfried Zaha,"1,80m",145988,"[""Cote d'Ivoire"", 'England']",€8.00m,Manchester United,21,"Nov 10, 1992",Olympique Lyon
+Left Winger,right,,"Aug 10, 2012",Craig Bellamy,"1,73m",3297,['Wales'],€1.00m,: Ablöse free transfer,34,"Jul 13, 1979",Retired
+Right Winger,left,,"Aug 30, 2012",Craig Noone,"1,73m",81202,['England'],€2.00m,Brighton & Hove Albion,26,"Nov 17, 1987",Retired
+Right Winger,right,,"Jan 30, 2012",Kadeem Harris,"1,74m",136501,['England'],€150k,Wycombe Wanderers,21,"Jun 8, 1993",Carlisle United
+Second Striker,right,unknown injury - Return unknown,"Jan 8, 2014",Magnus Wolff Eikrem,"1,73m",54775,['Norway'],€2.50m,: Ablöse €2.50m,23,"Aug 8, 1990",Molde FK
+Centre-Forward,left,,"Jul 1, 2013",Andreas Cornelius,"1,93m",203412,['Denmark'],€4.50m,: Ablöse €8.70m,21,"Mar 16, 1993",FC Copenhagen
+Centre-Forward,right,,"Jan 21, 2013",Fraizer Campbell,"1,72m",42411,"['England', 'Jamaica']",€4.00m,Sunderland AFC,26,"Sep 13, 1987",Retired
+Centre-Forward,right,,"Jan 28, 2014",Kenwyne Jones,"1,87m",28245,['Trinidad and Tobago'],€3.00m,Stoke City,29,"Oct 5, 1984",Retired
+Centre-Forward,right,,"Sep 2, 2013",Peter Odemwingie,"1,81m",12516,"['Nigeria', 'Russia']",€2.50m,West Bromwich Albion,32,"Jul 15, 1981",Retired
+Centre-Forward,right,,"Aug 31, 2012",Nicky Maynard,"1,80m",39705,['England'],€2.00m,: Ablöse €3.15m,27,"Dec 11, 1986",Winsford United
+Centre-Forward,right,,"Jan 24, 2014",Jo Inge Berget,"1,86m",73323,['Norway'],€2.00m,Molde FK,23,"Sep 11, 1990",Sarpsborg 08 FF
+Centre-Forward,right,,"Jul 26, 2011",Rudy Gestede,"1,93m",39908,"['Benin', 'France']",€1.00m,: Ablöse free transfer,25,"Oct 10, 1988",Retired
+Centre-Forward,right,,"Jul 8, 2011",Joe Mason,"1,78m",120706,"['Ireland', 'England']",€1.00m,Plymouth Argyle,23,"May 13, 1991",Without Club
+Centre-Forward,left,,"Jul 25, 2012",Etien Velikonja,"1,78m",50384,['Slovenia'],€500k,NK Maribor,25,"Dec 26, 1988",NK Kras Repen
+Centre-Forward,right,,"Aug 24, 2012",Tommy Smith,"1,78m",12401,['England'],€250k,: Ablöse €375k,34,"May 22, 1980",Retired
+Centre-Forward,right,,"Jan 24, 2013",Rhys Healey,"1,80m",238185,['England'],,: Ablöse ?,19,"Dec 6, 1994",Huddersfield Town

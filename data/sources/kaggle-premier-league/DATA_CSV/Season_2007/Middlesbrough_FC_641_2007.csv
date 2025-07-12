@@ -1,0 +1,35 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,,"Feb 21, 1997",Mark Schwarzer,,3357,"['Australia', 'Germany']",€3.75m,Bradford City,35,"Oct 6, 1972",Retired
+Goalkeeper,right,,"Jul 1, 2003",Ross Turnbull,"1,93m",29159,['England'],€650k,Middlesbrough FC U18,23,"Jan 4, 1985",Retired
+Goalkeeper,left,,"Jul 1, 2000",Brad Jones,"1,94m",4042,"['Australia', 'England']",€450k,Middlesbrough FC U18,26,"Mar 19, 1982",Retired
+Centre-Back,right,,"Jul 6, 2012",Jonathan Woodgate,"1,88m",3224,['England'],€7.50m,Stoke City,28,"Jan 22, 1980",Retired
+Centre-Back,left,,"Jul 1, 2005",Emanuel Pogatetz,"1,91m",1094,['Austria'],€5.00m,Bayer 04 Leverkusen,25,"Jan 16, 1983",Retired
+Centre-Back,right,,"Aug 1, 2006",Robert Huth,"1,91m",2998,['Germany'],€4.00m,Chelsea FC,23,"Aug 18, 1984",Retired
+Centre-Back,right,,"Jan 1, 2003",Chris Riggott,"1,83m",3782,['England'],€2.75m,: Ablöse €2.23m,27,"Sep 1, 1980",Retired
+Centre-Back,right,,"Jan 1, 2006",David Wheater,"1,96m",29199,['England'],€2.50m,Middlesbrough FC U18,21,"Feb 14, 1987",Retired
+Centre-Back,right,,"Mar 1, 2011",Andrew Davies,"1,90m",3869,['England'],€1.00m,Stoke City,23,"Dec 17, 1984",Retired
+Centre-Back,right,,"Jul 1, 2004",Matthew Bates,"1,78m",29149,['England'],€500k,Middlesbrough FC U18,21,"Dec 10, 1986",Retired
+Centre-Back,right,,"Jul 1, 2006",Seb Hines,"1,88m",47839,"['England', 'United States']",€200k,Middlesbrough FC U18,20,"May 29, 1988",Retired
+Centre-Back,left,,"Jul 1, 2007",Jonathan Grounds,"1,85m",57490,['England'],€200k,Middlesbrough FC U18,20,"Feb 2, 1988",Retired
+Left-Back,left,,"Jul 1, 2005",Andrew Taylor,"1,78m",29158,['England'],€2.00m,Middlesbrough FC U18,21,"Aug 1, 1986",Retired
+Right-Back,right,,"Jul 26, 2007",Luke Young,"1,83m",3271,['England'],€4.75m,Charlton Athletic,28,"Jul 19, 1979",Retired
+Right-Back,right,,"Jul 1, 2004",Tony McMahon,"1,80m",29154,['England'],€250k,Middlesbrough FC U18,22,"Mar 24, 1986",Retired
+Defensive Midfield,right,,"Aug 1, 2002",George Boateng,"1,76m",3358,"['Netherlands', 'Ghana']",€5.25m,: Ablöse €6.90m,32,"Sep 5, 1975",Retired
+Defensive Midfield,right,,"Jan 1, 2006",Lee Cattermole,"1,78m",37363,['England'],€2.00m,Middlesbrough FC U18,20,"Mar 21, 1988",Retired
+Defensive Midfield,both,,"Aug 1, 2007",Mohamed Shawky,"1,81m",38176,['Egypt'],€950k,: Ablöse €950k,26,"Oct 5, 1981",Retired
+Central Midfield,right,,"Aug 31, 2007",Gary O'Neil,"1,74m",3995,['England'],€6.00m,: Ablöse €7.50m,25,"May 18, 1983",Retired
+Central Midfield,right,,"Sep 1, 2005",Fábio Rochemback,"1,81m",7606,['Brazil'],€5.00m,FC Barcelona,26,"Dec 10, 1981",Retired
+Central Midfield,left,,"Jul 26, 2006",Julio Arca,"1,75m",3280,"['Argentina', 'Italy']",€3.00m,Sunderland AFC,27,"Jan 31, 1981",Retired
+Central Midfield,right,,"Jan 1, 2008",Josh Walker,"1,80m",39930,['England'],€50k,Middlesbrough FC U18,19,"Feb 21, 1989",Retired
+Right Midfield,right,,"Jul 1, 2004",Gaizka Mendieta,"1,73m",7603,['Spain'],€400k,: Ablöse free transfer,34,"Mar 27, 1974",Retired
+Left Midfield,left,,"Jul 16, 2015",Stewart Downing,"1,80m",4063,['England'],€9.00m,: Ablöse €7.90m,23,"Jul 22, 1984",Retired
+Left Winger,both,,"Jul 1, 2007",Tuncay Şanlı,"1,82m",6934,['Türkiye'],€9.00m,Fenerbahce,26,"Jan 16, 1982",Retired
+Right Winger,left,Suspended -  - cross-competition,"Jul 1, 2005",Adam Johnson,"1,82m",31579,['England'],€1.50m,Middlesbrough FC U18,20,"Jul 14, 1987",Retired
+Right Winger,both,,"Jul 1, 2007",Graeme Owens,"1,78m",47840,['England'],€100k,Middlesbrough FC U18,20,"May 1, 1988",Retired
+Centre-Forward,,,"Jul 1, 2005",Yakubu Aiyegbeni,"1,83m",8559,['Nigeria'],€18.25m,: Ablöse €9.75m,25,"Nov 22, 1982",Retired
+Centre-Forward,right,,"Jan 1, 2008",Afonso Alves,"1,85m",18758,['Brazil'],€13.00m,: Ablöse €17.00m,27,"Jan 30, 1981",Retired
+Centre-Forward,both,,"Aug 1, 2007",Mido,"1,88m",4329,['Egypt'],€5.75m,Tottenham Hotspur,25,"Feb 23, 1983",Retired
+Centre-Forward,right,,"Jul 1, 2007",Jérémie Aliadière,"1,83m",3266,"['France', 'Algeria']",€3.75m,: Ablöse €3.00m,25,"Mar 30, 1983",Retired
+Centre-Forward,,,"Jan 1, 2007",Dong-gook Lee,,688,"['Korea, South']",€1.50m,Pohang Steelers,29,"Apr 29, 1979",Retired
+Centre-Forward,right,,"Jan 31, 2006",Ben Hutchinson,"1,80m",38072,"['England', 'Jamaica']",€600k,Arnold Town,20,"Nov 27, 1987",Retired
+Centre-Forward,right,,"Jan 1, 2006",Tom Craddock,"1,78m",39926,['England'],€300k,Middlesbrough FC U18,21,"Oct 14, 1986",Retired

@@ -1,0 +1,33 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2007",Tim Howard,"1,91m",4267,"['United States', 'Hungary']",€8.50m,Manchester United,30,"Mar 6, 1979",Retired
+Goalkeeper,right,,"Jul 1, 2003",Iain Turner,"1,93m",3582,['Scotland'],€450k,Stirling Albion FC,25,"Jan 26, 1984",Retired
+Goalkeeper,right,,"Aug 1, 2008",Carlo Nash,"1,97m",3804,['England'],€300k,Wigan Athletic,35,"Sep 13, 1973",Retired
+Centre-Back,left,,"Jul 1, 2006",Joleon Lescott,"1,91m",4241,['England'],€17.00m,Wolverhampton Wanderers,26,"Aug 16, 1982",Retired
+Centre-Back,right,,"Jul 4, 2007",Phil Jagielka,"1,80m",13520,"['England', 'Poland']",€12.00m,Sheffield United,26,"Aug 17, 1982",Retired
+Centre-Back,right,,"Jul 1, 2003",Joseph Yobo,"1,88m",3270,"['Nigeria', 'England']",€11.50m,: Ablöse €6.00m,28,"Sep 6, 1980",Retired
+Centre-Back,right,,"Jul 1, 2008",Jack Rodwell,"1,88m",57079,['England'],€4.50m,: Ablöse -,18,"Mar 11, 1991",Without Club
+Centre-Back,right,,,John Irving,"1,82m",57056,['England'],€50k,,20,"Sep 17, 1988",Retired
+Left-Back,left,,"Aug 7, 2007",Leighton Baines,"1,70m",13507,['England'],€6.50m,Wigan Athletic,24,"Dec 11, 1984",Retired
+Left-Back,left,,"Jul 1, 2005",Nuno Valente,"1,82m",9831,['Portugal'],€900k,FC Porto,34,"Sep 12, 1974",Retired
+Right-Back,right,,"Jul 1, 2005",Phil Neville,"1,80m",3404,['England'],€5.50m,Manchester United,32,"Jan 21, 1977",Retired
+Right-Back,right,,"Jul 1, 2000",Tony Hibbert,"1,73m",3614,['England'],€4.00m,: Ablöse -,28,"Feb 20, 1981",Retired
+Right-Back,both,,"Aug 26, 2008",Lars Jacobsen,"1,81m",1423,['Denmark'],€1.50m,: Ablöse free transfer,29,"Sep 20, 1979",Retired
+Right-Back,right,Team captain,"Jan 1, 2009",Séamus Coleman,"1,77m",68390,['Ireland'],€150k,Sligo Rovers,20,"Oct 11, 1988",Everton FC
+Defensive Midfield,right,,"Aug 28, 2008",Segundo Castillo,"1,79m",38763,['Ecuador'],€2.20m,Red Star Belgrade,27,"May 15, 1982",Retired
+Central Midfield,right,,"Jul 1, 2005",Mikel Arteta,"1,77m",7451,['Spain'],€18.00m,Real Sociedad,27,"Mar 26, 1982",Retired
+Central Midfield,right,,"Sep 2, 2008",Marouane Fellaini,"1,94m",39679,"['Belgium', 'Morocco']",€16.00m,: Ablöse €21.76m,21,"Nov 22, 1987",Retired
+Central Midfield,right,,"Jul 1, 2002",Leon Osman,"1,73m",3620,['England'],€8.00m,Everton FC Reserves,28,"May 17, 1981",Retired
+Central Midfield,right,,"Jan 3, 2008",Dan Gosling,"1,80m",44983,['England'],€3.00m,Plymouth Argyle,19,"Feb 1, 1990",Westfield FC
+Central Midfield,right,,,James Wallace,"1,80m",83495,"['England', 'Ireland']",,,17,"Dec 19, 1991",Retired
+Left Midfield,,,"Jul 31, 2012",Steven Pienaar,,4321,['South Africa'],€8.00m,Tottenham Hotspur,27,"Mar 17, 1982",Retired
+Left Midfield,,,"Jul 1, 2008",John Paul Kissock,"1,68m",57076,['England'],€75k,: Ablöse -,19,"Dec 2, 1989",Retired
+Attacking Midfield,right,,"Jul 1, 2004",Tim Cahill,"1,78m",13556,"['Australia', 'Samoa']",€16.00m,: Ablöse €2.20m,29,"Dec 6, 1979",Retired
+Attacking Midfield,right,,"Jul 1, 2009",Jose Baxter,"1,79m",82734,['England'],€750k,: Ablöse -,17,"Feb 7, 1992",Retired
+Right Winger,right,,"Jul 1, 2005",Andy van der Meyde,"1,78m",3772,['Netherlands'],€300k,: Ablöse €9.00m,29,"Sep 30, 1979",Retired
+Centre-Forward,,,"Aug 30, 2007",Yakubu Aiyegbeni,"1,83m",8559,['Nigeria'],€19.50m,Middlesbrough FC,26,"Nov 22, 1982",Retired
+Centre-Forward,left,,"Feb 2, 2009",Jô,"1,92m",34156,['Brazil'],€12.50m,: Ablöse free transfer,22,"Mar 20, 1987",Itabirito FC
+Centre-Forward,left,,"Sep 1, 2008",Louis Saha,"1,82m",4015,"['France', 'Guadeloupe']",€7.50m,Manchester United,30,"Aug 8, 1978",Retired
+Centre-Forward,right,,"Jul 1, 2006",Victor Anichebe,"1,90m",39532,"['Nigeria', 'England']",€3.60m,: Ablöse -,21,"Apr 23, 1988",Retired
+Centre-Forward,right,,"Jul 1, 2006",James Vaughan,"1,81m",30471,"['England', 'Jamaica']",€1.50m,: Ablöse -,20,"Jul 14, 1988",Retired
+Centre-Forward,left,,"Jul 1, 2007",Lukas Jutkiewicz,"1,85m",33507,['England'],€500k,Swindon Town,20,"Mar 28, 1989",Birmingham City
+Centre-Forward,right,,"Jul 1, 2009",Kieran Agard,"1,78m",57066,"['England', 'Jamaica']",€50k,Everton FC Reserves,19,"Oct 10, 1989",Retired

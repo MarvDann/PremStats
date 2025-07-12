@@ -1,0 +1,40 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Aug 1, 2016",Alex McCarthy,"1,93m",95976,['England'],€5.00m,Crystal Palace,31,"Dec 3, 1989",Southampton FC
+Goalkeeper,right,,"Jul 10, 2018",Angus Gunn,"1,96m",201574,"['Scotland', 'England']",€3.00m,Manchester City,25,"Jan 22, 1996",Norwich City
+Goalkeeper,right,,"Aug 9, 2014",Fraser Forster,"2,01m",52570,['England'],€3.00m,Celtic FC,33,"Mar 17, 1988",Tottenham Hotspur
+Goalkeeper,right,,"Jul 1, 2020",Harry Lewis,"1,91m",341043,['England'],€200k,Southampton FC B,23,"Dec 20, 1997",Carlisle United
+Centre-Back,right,,"Jul 1, 2017",Jan Bednarek,"1,89m",243028,['Poland'],€25.00m,Lech Poznan,25,"Apr 12, 1996",Southampton FC
+Centre-Back,both,Ankle injury - Return unknown,"Jul 13, 2018",Jannik Vestergaard,"1,99m",99331,"['Denmark', 'Germany']",€18.00m,Borussia Mönchengladbach,28,"Aug 3, 1992",Leicester City
+Centre-Back,left,,"Aug 12, 2020",Mohammed Salisu,"1,88m",563963,['Ghana'],€10.00m,: Ablöse €12.00m,22,"Apr 17, 1999",AS Monaco
+Centre-Back,right,Team captain,"Jul 1, 2013",Jack Stephens,"1,85m",163744,['England'],€5.00m,Southampton FC U21,27,"Jan 27, 1994",Southampton FC
+Centre-Back,,,,Allan Tchaptchet,"1,93m",465294,"['France', 'Cameroon']",€150k,,19,"Dec 21, 2001",Grenoble Foot 38
+Left-Back,left,Knee surgery - Return unknown,"Feb 2, 2015",Ryan Bertrand,"1,79m",40611,['England'],€8.00m,Chelsea FC,31,"Aug 5, 1989",Retired
+Left-Back,left,,"Jul 1, 2016",Sam McQueen,"1,81m",226968,['England'],€800k,Southampton FC U23,26,"Feb 6, 1995",Retired
+Left-Back,left,,,Jake Vokins,"1,80m",421424,['England'],€250k,,21,"Mar 17, 2000",Eastleigh FC
+Right-Back,right,,"Aug 11, 2020",Kyle Walker-Peters,"1,73m",341051,"['England', 'Jamaica']",€18.00m,Tottenham Hotspur,24,"Apr 13, 1997",Southampton FC
+Right-Back,right,,"Jan 1, 2019",Yan Valery,"1,85m",406008,"['Tunisia', 'France']",€3.00m,Southampton FC U23,22,"Feb 22, 1999",Sheffield Wednesday
+Right-Back,right,,,Kayne Ramsay,"1,79m",530879,['England'],€250k,,20,"Oct 10, 2000",Charlton Athletic
+Defensive Midfield,right,,"Oct 4, 2020",Ibrahima Diallo,"1,79m",413032,"['France', 'Senegal']",€15.00m,Stade Brestois 29,22,"Mar 8, 1999",Al-Duhail SC
+Defensive Midfield,right,,"Aug 8, 2017",Mario Lemina,"1,84m",170934,"['Gabon', 'France']",€10.00m,: Ablöse €17.25m,27,"Sep 1, 1993",Wolverhampton Wanderers
+Defensive Midfield,right,,"Aug 12, 2015",Oriol Romeu,"1,83m",66100,['Spain'],€6.00m,Chelsea FC,29,"Sep 24, 1991",Girona FC
+Central Midfield,right,,"Jul 1, 2012",James Ward-Prowse,"1,77m",181579,['England'],€30.00m,Southampton FC U18,26,"Nov 1, 1994",Nottingham Forest
+Central Midfield,right,,"Jul 1, 2018",Stuart Armstrong,"1,83m",130765,['Scotland'],€8.00m,Celtic FC,29,"Mar 30, 1992",Vancouver Whitecaps FC
+Central Midfield,right,Knee injury - Return unknown,"Jan 1, 2020",Will Smallbone,"1,83m",444211,"['Ireland', 'England']",€2.00m,Southampton FC U23,21,"Feb 21, 2000",Southampton FC
+Central Midfield,right,Foot injury - Return unknown,,Alexandre Jankewitz,"1,85m",507472,"['Switzerland', 'Cameroon']",€500k,,19,"Dec 25, 2001",FC Winterthur
+Central Midfield,,,,Ryan Finnigan,,807318,['England'],€150k,,17,"Sep 23, 2003",Blackpool FC
+Central Midfield,right,,,Kgaogelo Chauke,"1,77m",703577,"['South Africa', 'England']",€150k,,18,"Jan 8, 2003",Burton Albion
+Right Midfield,right,,"Jul 1, 2020",Nathan Tella,"1,73m",340322,"['Nigeria', 'England']",€2.00m,Southampton FC B,21,"Jul 5, 1999",Bayer 04 Leverkusen
+Left Midfield,left,,,Will Ferry,"1,75m",504856,"['Ireland', 'England']",,,20,"Dec 7, 2000",Dundee United FC
+Attacking Midfield,right,,,Caleb Watts,"1,73m",610665,"['Australia', 'England']",€250k,,19,"Jan 16, 2002",Exeter City
+Attacking Midfield,right,,"Jul 1, 2017",Jake Hesketh,"1,68m",315185,['England'],€200k,Southampton FC U23,25,"Mar 27, 1996",FC Sholing
+Left Winger,right,unknown injury - Return unknown,"Jul 1, 2019",Moussa Djenepo,"1,77m",485424,['Mali'],€13.00m,: Ablöse €15.70m,23,"Jun 15, 1998",Antalyaspor
+Left Winger,right,,"Jul 1, 2018",Mohamed Elyounoussi,"1,78m",186644,['Norway'],€12.00m,: Ablöse €18.00m,26,"Aug 4, 1994",FC Copenhagen
+Left Winger,right,,"Feb 1, 2021",Takumi Minamino,"1,72m",165793,['Japan'],€12.00m,: Ablöse ?,26,"Jan 16, 1995",AS Monaco
+Right Winger,right,Hamstring injury - Return unknown,"Jul 1, 2016",Nathan Redmond,"1,73m",129078,"['England', 'Jamaica']",€18.00m,: Ablöse €13.50m,27,"Mar 6, 1994",Burnley FC
+Right Winger,both,,"Jul 1, 2021",Theo Walcott,"1,75m",33713,['England'],€5.00m,Everton FC,32,"Mar 16, 1989",Retired
+Right Winger,right,,"Jan 1, 2017",Josh Sims,"1,74m",286919,['England'],€1.20m,Southampton FC U23,24,"Mar 28, 1997",Yeovil Town
+Centre-Forward,right,,"Jul 1, 2019",Danny Ings,"1,77m",134294,['England'],€22.00m,: Ablöse €25.10m,28,"Jul 23, 1992",West Ham United
+Centre-Forward,right,,"Jul 1, 2019",Ché Adams,"1,79m",346779,"['Scotland', 'England']",€20.00m,Birmingham City,24,"Jul 13, 1996",Torino FC
+Centre-Forward,right,,"Jan 1, 2019",Michael Obafemi,"1,70m",444208,"['Ireland', 'Nigeria']",€3.00m,Southampton FC U23,20,"Jul 6, 2000",Plymouth Argyle
+Centre-Forward,right,,"Jul 1, 2020",Dan Nlundulu,"1,85m",346482,"['England', 'DR Congo']",€1.50m,Southampton FC B,22,"Feb 5, 1999",Cambridge United
+Centre-Forward,both,,"Aug 14, 2014",Shane Long,"1,80m",37304,['Ireland'],€1.20m,: Ablöse €14.90m,34,"Jan 22, 1987",Retired

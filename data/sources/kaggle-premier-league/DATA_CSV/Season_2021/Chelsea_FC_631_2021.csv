@@ -1,0 +1,45 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Sep 24, 2020",Edouard Mendy,"1,94m",442531,"['Senegal', 'Guinea-Bissau']",€32.00m,,Stade Rennais FC,30,"Mar 1, 1992",Al-Ahli SFC
+Goalkeeper,right,,"Aug 8, 2018",Kepa Arrizabalaga,"1,88m",192279,['Spain'],€10.00m,,Athletic Bilbao,27,"Oct 3, 1994",AFC Bournemouth
+Goalkeeper,right,"No eligibility - until Dec 31, 2024 - UEFA Conference League","Jul 28, 2021",Marcus Bettinelli,"1,93m",116648,"['England', 'Italy']",€2.00m,,Fulham FC,30,"May 24, 1992",Chelsea FC
+Goalkeeper,right,,"Jul 1, 2023",Lucas Bergström,"2,05m",490606,['Finland'],,"Returned after loan spell with IF Brommapojkarna; date: Jun 18, 2024; fee: End of loan",Chelsea FC U21,19,"Sep 5, 2002",Chelsea FC
+Goalkeeper,right,,,Teddy Sharman-Lowe,"1,89m",731466,['England'],,,,19,"Mar 30, 2003",Doncaster Rovers
+Centre-Back,right,,"Jul 9, 2017",Antonio Rüdiger,"1,90m",86202,"['Germany', 'Sierra Leone']",€40.00m,,AS Roma,29,"Mar 3, 1993",Real Madrid
+Centre-Back,right,"Achilles tendon irritation - Return expected on Jan 1, 2025","Jul 1, 2015",Andreas Christensen,"1,87m",196948,['Denmark'],€35.00m,,Chelsea FC U21,26,"Apr 10, 1996",FC Barcelona
+Centre-Back,right,,"Jan 31, 2014",Kurt Zouma,"1,90m",157509,"['France', 'Central African Republic']",€28.00m,,: Ablöse €14.60m,27,"Oct 27, 1994",Al-Orobah FC
+Centre-Back,right,,"Jul 1, 2021",Trevoh Chalobah,"1,92m",346314,"['England', 'Sierra Leone']",€20.00m,,Chelsea FC U23,22,"Jul 5, 1999",Crystal Palace
+Centre-Back,right,,"Aug 24, 2012",César Azpilicueta,"1,78m",57500,['Spain'],€9.00m,,Olympique Marseille,32,"Aug 28, 1989",Atlético de Madrid
+Centre-Back,left,,"Aug 27, 2020",Malang Sarr,"1,83m",344596,"['France', 'Senegal']",€8.00m,,OGC Nice,23,"Jan 23, 1999",RC Lens
+Centre-Back,right,,"Aug 28, 2020",Thiago Silva,"1,81m",29241,"['Brazil', 'France']",€2.50m,,: Ablöse free transfer,37,"Sep 22, 1984",Fluminense Football Club
+Centre-Back,left,,"Jul 1, 2018",Jake Clarke-Salter,"1,88m",316551,"['England', 'Ireland']",€2.00m,,Chelsea FC U23,24,"Sep 22, 1997",Queens Park Rangers
+Centre-Back,right,,,Xavier Mbuyamba,"1,95m",640432,"['Netherlands', 'DR Congo']",€500k,,,20,"Dec 31, 2001",FC Volendam
+Left-Back,left,"No eligibility - until Dec 31, 2024 - UEFA Conference League","Aug 26, 2020",Ben Chilwell,"1,80m",316125,"['England', 'New Zealand']",€38.00m,,Leicester City,25,"Dec 21, 1996",Chelsea FC
+Left-Back,left,,"Jan 30, 2018",Emerson,"1,76m",181778,"['Italy', 'Brazil']",€14.00m,,AS Roma,27,"Aug 3, 1994",West Ham United
+Left-Back,left,,"Aug 31, 2016",Marcos Alonso,"1,88m",112515,['Spain'],€12.00m,,: Ablöse €23.00m,31,"Dec 28, 1990",Celta de Vigo
+Left-Back,left,,"Aug 16, 2015",Abdul Rahman Baba,"1,79m",224884,['Ghana'],€2.20m,,FC Augsburg,27,"Jul 2, 1994",PAOK Thessaloniki
+Left-Back,left,,,Dylan Williams,"1,77m",732117,['England'],€200k,,,18,"Sep 13, 2003",Burton Albion
+Left-Back,left,,"Jul 1, 2023",Lewis Hall,"1,79m",670858,['England'],,"Returned after loan spell with Newcastle United; date: Jun 30, 2024; fee: End of loan",Chelsea FC U21,17,"Sep 8, 2004",Newcastle United
+Right-Back,right,Team captain,"Jul 1, 2019",Reece James,"1,80m",472423,['England'],€60.00m,,Chelsea FC U23,22,"Dec 8, 1999",Chelsea FC
+Defensive Midfield,right,,"Jul 14, 2018",Jorginho,"1,78m",102017,"['Italy', 'Brazil']",€40.00m,,: Ablöse €57.00m,30,"Dec 20, 1991",Arsenal FC
+Defensive Midfield,right,,"Jul 16, 2016",N'Golo Kanté,"1,68m",225083,"['France', 'Mali']",€40.00m,,Leicester City,31,"Mar 29, 1991",Al-Ittihad Club
+Defensive Midfield,right,,"Feb 11, 2020",Billy Gilmour,"1,70m",423744,['Scotland'],€12.00m,,Chelsea FC U23,21,"Jun 11, 2001",SSC Napoli
+Defensive Midfield,right,,,Xavier Simons,"1,80m",599739,['England'],€300k,,,19,"Feb 20, 2003",Hull City
+Central Midfield,right,,"Jul 1, 2019",Mateo Kovacic,"1,77m",51471,['Croatia'],€42.00m,,Real Madrid,28,"May 6, 1994",Manchester City
+Central Midfield,left,"Hip injury - Return expected on Nov 25, 2024","Aug 31, 2021",Saúl Ñíguez,"1,84m",148928,['Spain'],€25.00m,,: Ablöse €5.00m,27,"Nov 21, 1994",Sevilla FC
+Central Midfield,right,,"Jan 1, 2015",Ruben Loftus-Cheek,"1,91m",202886,"['England', 'Guyana']",€20.00m,,Chelsea FC U21,26,"Jan 23, 1996",AC Milan
+Central Midfield,right,,"Jan 5, 2018",Ross Barkley,"1,89m",131978,['England'],€12.00m,,Everton FC,28,"Dec 5, 1993",Aston Villa
+Central Midfield,right,,"Jul 1, 2014",Lewis Baker,"1,82m",198589,"['England', 'Jamaica']",€3.00m,,Chelsea FC U21,27,"Apr 25, 1995",Blackburn Rovers
+Central Midfield,right,,"Aug 31, 2017",Danny Drinkwater,"1,78m",73491,['England'],€1.20m,,Leicester City,32,"Mar 5, 1990",Retired
+Central Midfield,right,,,Charlie Webster,"1,75m",697278,"['England', 'Ireland']",,,,18,"Jan 31, 2004",Burton Albion
+Attacking Midfield,right,,"Jul 1, 2019",Mason Mount,"1,81m",346483,['England'],€75.00m,,Chelsea FC U23,23,"Jan 10, 1999",Manchester United
+Attacking Midfield,left,,,Harvey Vale,"1,81m",581675,['England'],€400k,,,18,"Sep 11, 2003",Chelsea FC U21
+Left Winger,right,,"Jul 1, 2020",Timo Werner,"1,80m",170527,['Germany'],€35.00m,,RB Leipzig,26,"Mar 6, 1996",Tottenham Hotspur
+Left Winger,right,,"Jan 1, 2019",Callum Hudson-Odoi,"1,78m",392768,"['England', 'Ghana']",€25.00m,,Chelsea FC U23,21,"Nov 7, 2000",Nottingham Forest
+Left Winger,left,,"Aug 22, 2015",Kenedy,"1,80m",281404,['Brazil'],€7.00m,,Fluminense Football Club,26,"Feb 8, 1996",Real Valladolid CF
+Left Winger,right,,"Jul 1, 2017",Charly Musonda Jr.,"1,73m",177862,"['Belgium', 'Zambia']",€900k,,Chelsea FC U23,25,"Oct 15, 1996",Without Club
+Right Winger,right,,"Jan 2, 2019",Christian Pulisic,"1,77m",315779,"['United States', 'Croatia']",€42.00m,,Borussia Dortmund,23,"Sep 18, 1998",AC Milan
+Right Winger,left,,"Jul 1, 2020",Hakim Ziyech,"1,80m",217111,"['Morocco', 'Netherlands']",€28.00m,"Returned after loan spell with Galatasaray; date: Jun 30, 2024; fee: End of loan",Ajax Amsterdam,29,"Mar 19, 1993",Galatasaray
+Centre-Forward,left,,"Aug 12, 2021",Romelu Lukaku,"1,91m",96341,"['Belgium', 'DR Congo']",€70.00m,"Returned after loan spell with AS Roma; date: Jun 30, 2024; fee: End of loan",Inter Milan,29,"May 13, 1993",SSC Napoli
+Centre-Forward,left,,"Sep 4, 2020",Kai Havertz,"1,93m",309400,['Germany'],€70.00m,,Bayer 04 Leverkusen,23,"Jun 11, 1999",Arsenal FC
+Centre-Forward,right,,"Jul 1, 2017",Tammy Abraham,"1,94m",331726,"['England', 'Nigeria']",€50.00m,,Chelsea FC U23,24,"Oct 2, 1997",AC Milan
+Centre-Forward,right,,,Jude Soonsup-Bell,"1,82m",670857,"['England', 'Thailand']",€300k,,,18,"Jan 10, 2004",Córdoba CF

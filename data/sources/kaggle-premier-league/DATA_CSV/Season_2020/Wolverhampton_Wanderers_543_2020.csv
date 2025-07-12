@@ -1,0 +1,39 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,,"Jul 1, 2018",Rui Patrício,"1,90m",45026,['Portugal'],€10.00m,,Sporting CP,33,"Feb 15, 1988",Atalanta BC
+Goalkeeper,right,,"Jul 10, 2017",John Ruddy,"1,92m",29712,['England'],€800k,,: Ablöse free transfer,34,"Oct 24, 1986",Newcastle United
+Goalkeeper,right,,,Andreas Søndergaard,"1,88m",462820,['Denmark'],€200k,,,20,"Jan 17, 2001",Hobro IK
+Goalkeeper,right,,"Jul 27, 2020",Matija Sarkic,,293257,"['Montenegro', 'England']",€100k,,: Ablöse free transfer,23,"Jul 23, 1997",---
+Centre-Back,right,,"Jul 3, 2015",Conor Coady,"1,85m",128901,['England'],€25.00m,,: Ablöse €2.80m,28,"Feb 25, 1993",Leicester City
+Centre-Back,right,,"Jul 1, 2018",Willy Boly,"1,95m",142310,"[""Cote d'Ivoire"", 'France']",€14.00m,,FC Porto,30,"Feb 3, 1991",Nottingham Forest
+Centre-Back,left,"No eligibility - until Dec 31, 2024 - Qatar Stars League","Aug 30, 2016",Romain Saïss,"1,88m",204198,"['Morocco', 'France']",€10.00m,,: Ablöse €4.00m,31,"Mar 26, 1990",Al-Sadd SC
+Centre-Back,left,,"Aug 9, 2018",Maximilian Kilman,"1,94m",525247,"['England', 'Ukraine']",€4.50m,,: Ablöse €4.75m,24,"May 23, 1997",West Ham United
+Centre-Back,left,,,Lewis Richards,"1,82m",571827,"['Ireland', 'England']",,,,19,"Oct 15, 2001",Bradford City
+Centre-Back,right,,,Nigel Lonwijk,"1,90m",566043,"['Netherlands', 'Suriname']",,,,18,"Oct 27, 2002",Huddersfield Town
+Centre-Back,right,,,Christian Marques,"1,88m",539807,"['Portugal', 'Switzerland']",,,,18,"Jan 15, 2003",Yverdon Sport FC
+Left-Back,left,,"Jul 9, 2021",Rayan Aït-Nouri,"1,80m",578391,"['Algeria', 'France']",€18.00m,,Angers SCO,20,"Jun 6, 2001",Wolverhampton Wanderers
+Left-Back,left,,"Jul 1, 2018",Rúben Vinagre,"1,74m",357158,['Portugal'],€5.00m,,: Ablöse €2.25m,22,"Apr 9, 1999",Legia Warszawa
+Left-Back,left,,"Sep 1, 2020",Marçal,"1,78m",137745,['Brazil'],€1.80m,,: Ablöse €2.00m,32,"Feb 19, 1989",Botafogo de Futebol e Regatas
+Left-Back,left,,"Jul 1, 2022",Hugo Bueno,"1,80m",698678,['Spain'],,,Wolverhampton Wanderers U21,18,"Sep 18, 2002",Feyenoord Rotterdam
+Right-Back,right,,"Sep 23, 2020",Nélson Semedo,"1,77m",231572,"['Portugal', 'Cape Verde']",€28.00m,,FC Barcelona,27,"Nov 16, 1993",Wolverhampton Wanderers
+Right-Back,both,,"Jan 31, 2019",Jonny Otto,"1,75m",175446,['Spain'],€15.00m,,: Ablöse €21.00m,27,"Mar 3, 1994",PAOK Thessaloniki
+Right-Back,right,,"Sep 19, 2020",Ki-Jana Hoever,"1,83m",485583,"['Netherlands', 'Suriname']",€7.00m,,: Ablöse €9.80m,19,"Jan 18, 2002",AJ Auxerre
+Right-Back,right,,"Jan 1, 2020",Oskar Buur,"1,80m",293283,['Denmark'],€300k,,Wolverhampton Wanderers U21,23,"Mar 31, 1998",Without Club
+Defensive Midfield,right,,"Jul 8, 2017",Rúben Neves,"1,80m",225161,['Portugal'],€45.00m,,FC Porto,24,"Mar 13, 1997",Al-Hilal SFC
+Defensive Midfield,right,Ankle injury - Return unknown,"Jul 1, 2019",Leander Dendoncker,"1,88m",168157,['Belgium'],€30.00m,,: Ablöse €13.80m,26,"Apr 15, 1995",RSC Anderlecht
+Defensive Midfield,right,,"Jan 1, 2021",Owen Otasowie,"1,91m",511815,"['United States', 'England']",€1.50m,,Wolverhampton Wanderers U21,20,"Jan 6, 2001",Without Club
+Central Midfield,right,,"Sep 10, 2020",Vitinha,"1,72m",487469,['Portugal'],€7.00m,,FC Porto,21,"Feb 13, 2000",Paris Saint-Germain
+Central Midfield,right,,"Jul 24, 2018",João Moutinho,"1,70m",29364,['Portugal'],€4.00m,,: Ablöse €5.60m,34,"Sep 8, 1986",SC Braga
+Central Midfield,right,,,Taylor Perry,"1,80m",502073,['England'],,,,19,"Jul 15, 2001",Shrewsbury Town
+Central Midfield,right,,"Jul 1, 2021",Luke Cundle,"1,71m",532541,['England'],,,Wolverhampton Wanderers U21,19,"Apr 26, 2002",Wolverhampton Wanderers
+Attacking Midfield,right,,"Jan 1, 2017",Morgan Gibbs-White,"1,71m",429014,"['England', 'Jamaica']",€7.00m,,Wolverhampton Wanderers U18,21,"Jan 27, 2000",Nottingham Forest
+Attacking Midfield,right,,,Meritan Shabani,"1,85m",379980,"['Germany', 'Albania']",€300k,,,22,"Mar 15, 1999",HNK Gorica
+Right Winger,left,,"Aug 2, 2019",Pedro Neto,"1,73m",487465,['Portugal'],€35.00m,,: Ablöse €17.90m,21,"Mar 9, 2000",Chelsea FC
+Right Winger,right,,"Aug 8, 2018",Adama Traoré,"1,78m",204103,"['Spain', 'Mali']",€30.00m,,Middlesbrough FC,25,"Jan 25, 1996",Fulham FC
+Right Winger,right,,"Jan 30, 2020",Daniel Podence,"1,70m",256977,['Portugal'],€25.00m,"Returned after loan spell with Olympiacos Piraeus; date: Jun 30, 2024; fee: End of loan",: Ablöse €19.60m,25,"Oct 21, 1995",Al-Shabab FC
+Right Winger,left,,,Theo Corbeanu,"1,90m",568535,"['Canada', 'Romania']",€500k,,,19,"May 17, 2002",Granada CF
+Centre-Forward,right,,"Jul 1, 2018",Diogo Jota,"1,78m",340950,['Portugal'],€45.00m,,: Ablöse €14.00m,24,"Dec 4, 1996",Liverpool FC
+Centre-Forward,right,,"Jul 1, 2019",Raúl Jiménez,"1,87m",206040,['Mexico'],€28.00m,,SL Benfica,30,"May 5, 1991",Fulham FC
+Centre-Forward,right,,"Sep 5, 2020",Fábio Silva,"1,85m",505653,['Portugal'],€25.00m,,FC Porto,18,"Jul 19, 2002",UD Las Palmas
+Centre-Forward,right,,"Jan 23, 2021",Willian José,"1,86m",122155,"['Brazil', 'Spain']",€18.00m,,Real Sociedad,29,"Nov 23, 1991",Spartak Moscow
+Centre-Forward,right,,"Jul 30, 2019",Patrick Cutrone,"1,83m",265078,['Italy'],€9.00m,,AC Milan,23,"Jan 3, 1998",Como 1907
+Centre-Forward,right,Inguinal hernia - Return unknown,"Aug 6, 2019",Renat Dadashov,"1,88m",335461,"['Azerbaijan', 'Germany']",€300k,,Estoril Praia,22,"May 17, 1999",MKE Ankaragücü

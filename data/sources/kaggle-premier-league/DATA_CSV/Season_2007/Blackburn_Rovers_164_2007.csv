@@ -1,0 +1,39 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Nov 3, 2000",Brad Friedel,"1,91m",3476,"['United States', 'England']",€3.50m,: Ablöse free transfer,37,"May 18, 1971",Retired
+Goalkeeper,right,"Jan 1, 2004",Peter Enckelman,"1,88m",3719,['Finland'],€900k,: Ablöse €215k,31,"Mar 10, 1977",Retired
+Goalkeeper,,"Jul 1, 2006",Jason Brown,,15916,['Wales'],€600k,Gillingham FC,26,"May 18, 1982",Retired
+Goalkeeper,right,"Jul 2, 2007",Gunnar Nielsen,"1,91m",23086,['Faroe Islands'],€400k,BK Frem,21,"Oct 7, 1986",Without Club
+Goalkeeper,right,"Jul 1, 2007",Frank Fielding,"1,85m",57070,['England'],€300k,Blackburn Rovers U18,20,"Apr 4, 1988",Stoke City
+Centre-Back,,"Jan 25, 2007",Christopher Samba,,29016,"['Congo', 'France']",€5.00m,: Ablöse €500k,24,"Mar 28, 1984",Retired
+Centre-Back,right,"Jan 6, 2005",Ryan Nelsen,"1,85m",28878,['New Zealand'],€3.50m,: Ablöse free transfer,30,"Oct 18, 1977",Retired
+Centre-Back,right,"Aug 1, 2006",André Ooijer,"1,87m",4345,['Netherlands'],€3.00m,: Ablöse €3.00m,33,"Jul 11, 1974",Retired
+Centre-Back,right,"Jan 1, 2005",Aaron Mokoena,"1,85m",4756,['South Africa'],€3.00m,: Ablöse €900k,27,"Nov 25, 1980",Retired
+Centre-Back,right,"Jul 1, 2006",Zurab Khizanishvili,"1,86m",9621,['Georgia'],€1.75m,: Ablöse €750k,26,"Oct 6, 1981",Retired
+Centre-Back,right,"Sep 9, 2006",Stéphane Henchoz,"1,85m",3210,"['Switzerland', 'Germany']",€800k,Without Club,33,"Sep 7, 1974",Retired
+Centre-Back,right,"Jul 1, 2007",Rostyn Griffiths,"1,87m",67715,"['Australia', 'England']",€150k,Blackburn Rovers U18,20,"Mar 10, 1988",Balcatta FC
+Centre-Back,right,"Jul 1, 2006",Eddie Nolan,"1,83m",47601,['Ireland'],€100k,Blackburn Rovers U18,19,"Aug 5, 1988",Retired
+Centre-Back,right,,Dean Winnard,"1,75m",71282,['England'],€50k,,18,"Aug 20, 1989",Retired
+Left-Back,left,"Jan 22, 2007",Stephen Warnock,"1,78m",3308,['England'],€4.00m,: Ablöse €2.25m,26,"Dec 12, 1981",Retired
+Left-Back,left,"Jan 1, 2007",Bruno Berner,"1,85m",1589,['Switzerland'],€500k,: Ablöse €500k,30,"Nov 21, 1977",Retired
+Left-Back,left,"Jul 1, 2007",Martin Olsson,"1,78m",38073,['Sweden'],€300k,Blackburn Rovers U18,20,"May 17, 1988",Malmö FF
+Right-Back,right,"Jul 1, 2003",Steven Reid,"1,85m",7330,"['Ireland', 'England']",€3.50m,: Ablöse €3.60m,27,"Mar 10, 1981",Retired
+Right-Back,both,"Jul 1, 2006",Tony Kane,"1,83m",46762,['Northern Ireland'],€300k,Blackburn Rovers U18,20,"Aug 29, 1987",Retired
+Defensive Midfield,both,"Jan 1, 2005",Robbie Savage,"1,83m",3797,['Wales'],€2.25m,: Ablöse €4.50m,33,"Oct 18, 1974",Retired
+Defensive Midfield,both,"Mar 1, 2008",Johann Vogel,"1,77m",4352,['Switzerland'],€1.50m,Without Club,31,"Mar 8, 1977",Retired
+Defensive Midfield,right,"Jul 1, 2001",Tugay Kerimoğlu,"1,76m",3703,['Türkiye'],€1.00m,: Ablöse €1.95m,37,"Aug 24, 1970",Retired
+Central Midfield,left,"Aug 27, 2004",Morten Gamst Pedersen,"1,83m",22741,['Norway'],€8.25m,Tromsø IL,26,"Sep 8, 1981",Retired
+Central Midfield,right,"Jul 1, 2003",Paul Gallagher,"1,85m",10501,['Scotland'],€1.25m,Blackburn Rovers U18,23,"Sep 8, 1984",Retired
+Central Midfield,left,"Jul 1, 2006",Bryan Hodge,"1,78m",48106,['Scotland'],€50k,Blackburn Rovers U18,20,"Sep 23, 1987",Retired
+Right Midfield,right,"Feb 15, 2013",David Bentley,"1,78m",3205,['England'],€9.00m,Tottenham Hotspur,23,"Aug 27, 1984",Retired
+Right Midfield,right,"Jul 10, 2003",Brett Emerton,"1,85m",4367,['Australia'],€5.25m,: Ablöse €3.00m,29,"Feb 22, 1979",Retired
+Left Midfield,,"Jul 1, 2005",Sergio Peter,,29341,['Germany'],€700k,Blackburn Rovers Reserves,21,"Oct 12, 1986",Retired
+Left Midfield,left,"Jul 1, 2007",Keith Treacy,"1,83m",57064,['Ireland'],€300k,Blackburn Rovers U18,19,"Sep 13, 1988",Retired
+Attacking Midfield,right,"Jan 17, 2007",David Dunn,"1,78m",4243,['England'],€5.25m,: Ablöse €3.20m,28,"Dec 27, 1979",Retired
+Left Winger,right,,Raffaele De Vita,"1,80m",71226,['Italy'],€50k,,20,"Sep 23, 1987",Città di Anagni Calcio
+Right Winger,right,,Josh O'Keefe,"1,91m",71259,"['Ireland', 'England']",€50k,,19,"Dec 22, 1988",Retired
+Centre-Forward,right,"Jul 1, 2006",Benni McCarthy,"1,84m",3091,['South Africa'],€10.00m,FC Porto,30,"Nov 12, 1977",Retired
+Centre-Forward,right,"Jan 14, 2011",Roque Santa Cruz,"1,93m",215,"['Paraguay', 'Spain']",€8.00m,: Ablöse free transfer,26,"Aug 16, 1981",Club Libertad Asunción
+Centre-Forward,right,"Jul 1, 2006",Matt Derbyshire,"1,80m",15175,['England'],€3.00m,Blackburn Rovers Reserves,22,"Apr 14, 1986",Retired
+Centre-Forward,right,"Jul 3, 2006",Jason Roberts,"1,85m",3666,"['Grenada', 'England']",€2.00m,Wigan Athletic,30,"Jan 25, 1978",Retired
+Centre-Forward,right,"Jul 1, 2007",Maceo Rigters,"1,79m",27701,"['Netherlands', 'Suriname']",€1.25m,: Ablöse €1.20m,24,"Jan 22, 1984",Retired
+Centre-Forward,right,"Jul 1, 2007",Jamie Clarke,"1,78m",71222,['England'],€50k,Blackburn Rovers U18,19,"Sep 11, 1988",Retired

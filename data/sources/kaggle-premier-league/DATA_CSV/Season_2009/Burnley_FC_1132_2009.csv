@@ -1,0 +1,34 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2003",Brian Jensen,"1,85m",3263,['Denmark'],€1.50m,: Ablöse free transfer,35,"Jun 8, 1975",Retired
+Goalkeeper,right,,"Jan 27, 2010",Nicky Weaver,"1,91m",3310,['England'],€750k,: Ablöse free transfer,31,"Mar 2, 1979",Retired
+Goalkeeper,right,,"Jul 1, 2008",Diego Penny,"1,97m",72671,['Peru'],€500k,Coronel Bolognesi,26,"Apr 22, 1984",Deportivo Garcilaso
+Centre-Back,right,,"Jan 31, 2007",Steven Caldwell,"1,83m",3462,['Scotland'],€2.50m,Sunderland AFC,29,"Sep 12, 1980",Retired
+Centre-Back,right,,"Jul 1, 2009",André Bikey,"1,83m",14270,"['Cameroon', 'Spain']",€2.50m,Reading FC,25,"Jan 8, 1985",Retired
+Centre-Back,left,,"Jul 16, 2007",Stephen Jordan,"1,83m",4082,['England'],€2.50m,: Ablöse free transfer,28,"Mar 6, 1982",Retired
+Centre-Back,right,,"Jul 1, 2007",Clarke Carlisle,"1,85m",13717,['England'],€2.00m,Watford FC,30,"Oct 14, 1979",Retired
+Centre-Back,right,,"Jul 1, 2004",Michael Duff,"1,85m",36894,['Northern Ireland'],€1.00m,Cheltenham Town,32,"Jan 11, 1978",Retired
+Centre-Back,right,,"Jan 1, 2010",Leon Cort,"1,91m",36874,"['Guyana', 'England']",€1.00m,Stoke City,30,"Sep 11, 1979",Retired
+Centre-Back,both,,"Jul 1, 2009",David Edgar,"1,91m",44910,"['Canada', 'England']",€750k,Newcastle United,23,"May 19, 1987",Retired
+Left-Back,left,,"Jan 1, 2010",Danny Fox,"1,83m",31553,"['Scotland', 'England']",€2.00m,Celtic FC,24,"May 29, 1986",Winsford United
+Left-Back,left,,"Jul 1, 2008",Christian Kalvenes,"1,83m",26204,['Norway'],€750k,: Ablöse free transfer,33,"Mar 8, 1977",Retired
+Left-Back,left,,"Jul 1, 2009",Brian Easton,"1,83m",45331,['Scotland'],€500k,Hamilton Academical FC,22,"Mar 5, 1988",East Fife FC
+Right-Back,right,,"Jul 1, 2009",Tyrone Mears,"1,81m",14050,"['England', 'Sierra Leone']",€2.50m,: Ablöse €590k,27,"Feb 18, 1983",Retired
+Right-Back,right,,"Aug 31, 2007",Graham Alexander,"1,77m",13983,['Scotland'],€1.50m,: Ablöse €175k,38,"Oct 10, 1971",Retired
+Right-Back,right,,"Jul 1, 2009",Richard Eckersley,"1,83m",73493,['England'],€300k,Manchester United Reserves,21,"Mar 12, 1989",Retired
+Defensive Midfield,right,,"Jul 1, 2008",Kevin McDonald,"1,92m",36529,['Scotland'],€1.50m,Dundee FC,21,"Nov 4, 1988",Without Club
+Defensive Midfield,left,,"Jul 1, 2005",Chris McCann,"1,88m",36896,['Ireland'],€1.50m,: Ablöse -,22,"Jul 21, 1987",1874 Northwich FC
+Defensive Midfield,right,,"Jul 11, 2017",Jack Cork,"1,85m",40613,['England'],€750k,: Ablöse €9.10m,21,"Jun 25, 1989",Burnley FC U21
+Central Midfield,right,,"Jan 1, 2007",Joey Gudjónsson,"1,75m",4065,['Iceland'],€1.00m,AZ Alkmaar,30,"May 25, 1980",Retired
+Central Midfield,right,,"Jul 1, 2009",Chris Anderson,,107640,['England'],€50k,: Ablöse -,19,"Oct 2, 1990",Without Club
+Central Midfield,left,,"Jul 1, 2009",Alex-Ray Harvey,"1,68m",107642,['England'],€50k,: Ablöse -,20,"Apr 4, 1990",Bamber Bridge FC
+Right Midfield,right,"Red card suspension - until Nov 13, 2024 - EFL Trophy - 2 matchdays","Jul 1, 2008",Alex MacDonald,"1,75m",73033,"['Scotland', 'England']",€500k,: Ablöse -,20,"Apr 14, 1990",Rotherham United
+Attacking Midfield,both,,"Jul 1, 2005",Wade Elliott,"1,75m",36863,['England'],€2.50m,: Ablöse free transfer,31,"Dec 14, 1978",Retired
+Left Winger,left,,"Aug 13, 2009",Fernando Guerrero,"1,71m",62943,"['Ecuador', 'Spain']",€1.00m,: Ablöse ?,20,"Jul 31, 1989",Retired
+Right Winger,right,,"Jul 29, 2008",Chris Eagles,"1,83m",24635,['England'],€3.00m,Manchester United,24,"Nov 19, 1985",Retired
+Second Striker,,,"Jul 1, 2007",Robbie Blake,"1,75m",3490,['England'],€1.50m,Leeds United,34,"Mar 4, 1976",Retired
+Centre-Forward,left,Knee problems - Return unknown,"Jul 1, 2009",Steven Fletcher,"1,85m",35099,"['Scotland', 'England']",€4.50m,Hibernian FC,23,"Mar 26, 1987",Wrexham AFC
+Centre-Forward,right,,"Sep 1, 2009",David Nugent,"1,80m",33963,"['England', 'Ireland']",€2.50m,: Ablöse free transfer,25,"May 2, 1985",Retired
+Centre-Forward,right,,"Jul 1, 2008",Martin Paterson,"1,78m",34340,"['Northern Ireland', 'England']",€2.00m,Scunthorpe United,23,"May 10, 1987",Retired
+Centre-Forward,left,,"Jan 22, 2010",Frédéric Nimani,"1,91m",40064,"['Central African Republic', 'France']",€2.00m,: Ablöse free transfer,21,"Oct 8, 1988",FC Aurore Bienne
+Centre-Forward,right,,"Sep 1, 2008",Steven Thompson,"1,88m",9616,['Scotland'],€1.00m,: Ablöse free transfer,31,"Oct 14, 1978",Retired
+Centre-Forward,right,,"Jul 9, 2019",Jay Rodríguez,"1,85m",53360,"['England', 'Spain']",€250k,West Bromwich Albion,20,"Jul 29, 1989",Burnley FC

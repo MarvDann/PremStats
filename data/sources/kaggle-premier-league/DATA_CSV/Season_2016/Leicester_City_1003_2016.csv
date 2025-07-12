@@ -1,0 +1,32 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2011",Kasper Schmeichel,"1,89m",16911,['Denmark'],€10.00m,Leeds United,30,"Nov 5, 1986",Celtic FC
+Goalkeeper,right,,"Jul 1, 2016",Ron-Robert Zieler,"1,88m",21327,['Germany'],€7.00m,: Ablöse €3.50m,28,"Feb 12, 1989",Hannover 96
+Goalkeeper,right,,"Jul 1, 2014",Ben Hamer,"1,93m",67283,['England'],€500k,Charlton Athletic,29,"Nov 20, 1987",Sheffield Wednesday
+Centre-Back,right,,"Jul 1, 2015",Robert Huth,"1,91m",2998,['Germany'],€5.00m,Stoke City,32,"Aug 18, 1984",Retired
+Centre-Back,right,,"Jan 22, 2016",Daniel Amartey,"1,86m",214056,['Ghana'],€5.00m,: Ablöse €6.60m,22,"Dec 21, 1994",Without Club
+Centre-Back,right,,"Jul 1, 2016",Luis Hernández,"1,82m",62945,['Spain'],€3.00m,Sporting Gijón,28,"Apr 14, 1989",Cádiz CF
+Centre-Back,right,,"Jan 30, 2012",Wes Morgan,"1,85m",10003,"['Jamaica', 'England']",€3.00m,: Ablöse €1.13m,33,"Jan 21, 1984",Retired
+Centre-Back,right,,"Jan 31, 2017",Molla Wagué,"1,91m",129893,"['Mali', 'France']",€1.50m,Granada CF,26,"Feb 21, 1991",Isola Capo Rizzuto
+Centre-Back,right,,"Aug 3, 2015",Yohan Benalouane,"1,85m",50477,"['Tunisia', 'France']",€1.00m,Atalanta BC,30,"Mar 28, 1987",Without Club
+Centre-Back,right,,"Sep 17, 2013",Marcin Wasilewski,"1,86m",16947,['Poland'],€50k,: Ablöse free transfer,37,"Jun 9, 1980",Retired
+Centre-Back,right,,,Elliott Moore,"1,96m",341993,['England'],,,20,"Mar 16, 1997",Oxford United
+Left-Back,left,,"Jul 1, 2015",Christian Fuchs,"1,87m",6636,['Austria'],€6.00m,FC Schalke 04,31,"Apr 7, 1986",Retired
+Left-Back,left,"No eligibility - until Dec 31, 2024 - UEFA Conference League","Jul 1, 2015",Ben Chilwell,"1,80m",316125,"['England', 'New Zealand']",€2.50m,Leicester City U21,20,"Dec 21, 1996",Chelsea FC
+Right-Back,right,,"Aug 30, 2014",Danny Simpson,"1,76m",37442,"['England', 'Jamaica']",€5.00m,: Ablöse €2.50m,30,"Jan 4, 1987",Retired
+Defensive Midfield,right,,"Jan 3, 2017",Wilfred Ndidi,"1,83m",274839,"['Nigeria', 'England']",€14.00m,KRC Genk,20,"Dec 16, 1996",Leicester City
+Defensive Midfield,right,,"Jul 3, 2016",Nampalys Mendy,"1,68m",111051,"['Senegal', 'France']",€10.00m,OGC Nice,25,"Jun 23, 1992",RC Lens
+Central Midfield,right,,"Jan 20, 2012",Danny Drinkwater,"1,78m",73491,['England'],€9.00m,Manchester United Reserves,27,"Mar 5, 1990",Retired
+Central Midfield,right,,"Jul 1, 2007",Andy King,"1,84m",56872,"['Wales', 'England']",€3.00m,Leicester City U18,28,"Oct 29, 1988",Retired
+Central Midfield,right,,"Jul 1, 2012",Matty James,"1,81m",73522,['England'],€1.50m,Manchester United U21,25,"Jul 22, 1991",Wrexham AFC
+Right Midfield,right,,"Jul 1, 2014",Marc Albrighton,"1,75m",61560,['England'],€6.00m,: Ablöse free transfer,27,"Nov 18, 1989",Retired
+Left Midfield,left,,"Jul 1, 2010",Jeffrey Schlupp,"1,78m",157506,"['Ghana', 'Germany']",€8.00m,Leicester City U18,24,"Dec 23, 1992",Crystal Palace
+Attacking Midfield,right,,"Aug 3, 2016",Bartosz Kapustka,"1,79m",246579,['Poland'],€6.00m,Cracovia,20,"Dec 23, 1996",Legia Warszawa
+Attacking Midfield,right,,"Sep 1, 2014",Tom Lawrence,"1,75m",229970,['Wales'],€2.50m,Manchester United U21,23,"Jan 13, 1994",Rangers FC
+Left Winger,right,,"Jul 8, 2016",Ahmed Musa,"1,71m",168337,['Nigeria'],€17.00m,CSKA Moscow,24,"Oct 14, 1992",Kano Pillars
+Left Winger,right,,"Jan 4, 2016",Demarai Gray,"1,83m",292417,"['Jamaica', 'England']",€9.00m,: Ablöse €5.10m,21,"Jun 28, 1996",Al-Ettifaq FC
+Left Winger,right,,"Jul 1, 2018",Harvey Barnes,"1,82m",398065,"['England', 'Scotland']",€100k,Leicester City U21,19,"Dec 9, 1997",Newcastle United
+Right Winger,left,,"Jan 11, 2014",Riyad Mahrez,"1,79m",171424,"['Algeria', 'France']",€30.00m,Le Havre AC,26,"Feb 21, 1991",Al-Ahli SFC
+Centre-Forward,right,,"Aug 31, 2016",Islam Slimani,"1,88m",174915,['Algeria'],€25.00m,Sporting CP,29,"Jun 18, 1988",CR Belouizdad
+Centre-Forward,right,Team captain,"Jul 1, 2012",Jamie Vardy,"1,79m",197838,['England'],€15.00m,Fleetwood Town,30,"Jan 11, 1987",Leicester City
+Centre-Forward,right,,"Jul 1, 2015",Shinji Okazaki,"1,75m",79642,['Japan'],€7.00m,: Ablöse €11.00m,31,"Apr 16, 1986",Retired
+Centre-Forward,right,,"Jul 22, 2014",Leonardo Ulloa,"1,88m",54890,"['Argentina', 'Spain']",€6.00m,Brighton & Hove Albion,30,"Jul 26, 1986",Retired

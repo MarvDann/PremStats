@@ -1,0 +1,43 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Nov 1, 1997",Jussi Jääskeläinen,"1,91m",3692,['Finland'],€5.75m,: Ablöse €150k,33,"Apr 19, 1975",Retired
+Goalkeeper,right,"Jul 1, 2006",Ali Al-Habsi,"1,94m",26633,['Oman'],€650k,Bolton Wanderers U23,26,"Dec 30, 1981",Retired
+Goalkeeper,right,"Jul 1, 2005",Ian Walker,"1,85m",4137,['England'],€300k,: Ablöse free transfer,36,"Oct 31, 1971",Retired
+Goalkeeper,right,"Jul 1, 2008",Ádám Bogdán,"1,94m",55247,['Hungary'],,Bolton Wanderers U23,20,"Sep 27, 1987",Retired
+Centre-Back,right,"Jan 30, 2008",Gary Cahill,"1,93m",27511,['England'],€4.50m,: Ablöse €6.00m,22,"Dec 19, 1985",Retired
+Centre-Back,right,"Jul 14, 2006",Abdoulaye Méïté,"1,85m",5315,"[""Cote d'Ivoire"", 'France']",€4.25m,Olympique Marseille,27,"Oct 6, 1980",Retired
+Centre-Back,right,"Jul 1, 2006",Abdoulaye Faye,"1,87m",6107,"['Senegal', 'France']",€3.50m,: Ablöse €3.00m,30,"Feb 26, 1978",Retired
+Centre-Back,right,"Aug 1, 2007",Andrew O'Brien,"1,91m",3228,"['Ireland', 'England']",€3.00m,: Ablöse ?,29,"Jun 29, 1979",Retired
+Centre-Back,left,"Jul 1, 2007",Gérald Cid,"1,88m",19078,['France'],€1.50m,: Ablöse free transfer,25,"Feb 17, 1983",Retired
+Centre-Back,right,"Jan 1, 2007",Lubomir Michalik,"1,93m",46591,['Slovakia'],€800k,FC Senec (1990 - 2008),24,"Aug 13, 1983",OFC Matuskovo
+Centre-Back,right,"Jul 1, 2004",Jaroslaw Fojut,"1,88m",34652,['Poland'],€200k,MSP Szamotuly,20,"Oct 17, 1987",Retired
+Left-Back,,"Jul 1, 1998",Ricardo Gardner,,6264,['Jamaica'],€2.50m,Harbour View FC,29,"Sep 25, 1978",Retired
+Left-Back,left,,Scott Jamieson,"1,78m",52498,"['Australia', 'Scotland']",€50k,,19,"Oct 13, 1988",Retired
+Right-Back,right,"Jan 1, 2008",Grétar Steinsson,"1,89m",30304,['Iceland'],€5.25m,AZ Alkmaar,26,"Jan 9, 1982",Retired
+Right-Back,right,"Aug 1, 2003",Nicky Hunt,"1,91m",16835,['England'],€2.25m,Bolton Wanderers U23,24,"Sep 3, 1983",Retired
+Right-Back,right,"Jul 1, 2005",Joey O'Brien,"1,80m",34672,['Ireland'],€1.50m,Bolton Wanderers U18,22,"Feb 17, 1986",Retired
+Right-Back,right,"Jul 1, 2006",James Sinclair,"1,80m",50350,"['England', 'Northern Ireland']",€200k,Bolton Wanderers U18,20,"Oct 22, 1987",Retired
+Defensive Midfield,right,"Jul 1, 2003",Iván Campo,"1,85m",3274,['Spain'],€2.25m,Real Madrid,34,"Feb 21, 1974",Retired
+Defensive Midfield,left,"Jul 1, 2007",Jlloyd Samuel,"1,80m",4067,"['Trinidad and Tobago', 'England']",€2.00m,: Ablöse free transfer,27,"Mar 29, 1981",---
+Central Midfield,left,"Jul 1, 2007",Gavin McCann,"1,80m",4136,['England'],€2.75m,: Ablöse €1.50m,30,"Jan 10, 1978",Retired
+Central Midfield,right,"Jul 10, 2007",Mikel Alonso,"1,83m",7474,['Spain'],€2.50m,Real Sociedad,28,"May 17, 1980",Retired
+Central Midfield,right,"Jul 6, 2007",Blerim Dzemaili,"1,80m",9967,"['Switzerland', 'Albania']",€2.00m,: Ablöse ?,22,"Apr 12, 1986",Retired
+Central Midfield,right,"Aug 1, 2007",Danny Guthrie,"1,76m",16716,['England'],€1.50m,: Ablöse free transfer,21,"Apr 18, 1987",Retired
+Central Midfield,right,"Jan 1, 2008",Tamir Cohen,"1,82m",24209,"['Israel', 'Italy']",€800k,: Ablöse €800k,24,"Mar 4, 1984",Retired
+Central Midfield,,"Jul 1, 2004",Gary Speed,,3459,['Wales'],€650k,Newcastle United,38,"Sep 8, 1969",---
+Central Midfield,right,"Aug 1, 2006",Andranik Teymourian,"1,80m",39938,['Iran'],€500k,FC Aboomoslem,25,"Mar 6, 1983",Retired
+Central Midfield,,,Robert Sissons,,52500,['England'],€50k,,19,"Sep 29, 1988",Retired
+Right Midfield,,"Jul 1, 2007",Les Thompson,"1,78m",60763,['England'],€100k,Bolton Wanderers U18,20,"May 6, 1988",Retired
+Right Midfield,right,,Matthew Cassidy,"1,83m",52496,['Ireland'],€50k,,19,"Oct 2, 1988",Unknown
+Left Midfield,left,"Jan 17, 2008",Matthew Taylor,"1,77m",9218,['England'],€4.50m,: Ablöse €4.70m,26,"Nov 27, 1981",Retired
+Attacking Midfield,right,"Jul 1, 1999",Kevin Nolan,"1,83m",3950,['England'],€6.75m,Bolton Wanderers U18,26,"Jun 24, 1982",Retired
+Right Winger,right,"Jul 1, 2007",Christian Wilhelmsson,"1,77m",9611,['Sweden'],€3.40m,: Ablöse €500k,28,"Dec 8, 1979",Retired
+Right Winger,right,"Jul 1, 2003",Stelios Giannakopoulos,"1,72m",4254,['Greece'],€2.50m,: Ablöse free transfer,33,"Jul 12, 1974",Retired
+Right Winger,right,"Jul 1, 2004",Ricardo Vaz Tê,"1,88m",9413,"['Portugal', 'Guinea-Bissau']",€1.25m,Bolton Wanderers U18,21,"Oct 1, 1986",Retired
+Right Winger,right,"Aug 3, 2007",Daniel Braaten,"1,84m",26407,['Norway'],€1.00m,: Ablöse €750k,26,"May 25, 1982",Retired
+Right Winger,,,Nathan Woolfe,"1,78m",52501,['England'],,,19,"Oct 6, 1988",Retired
+Centre-Forward,right,"Aug 25, 2006",Nicolas Anelka,"1,86m",3226,"['France', 'Martinique']",€20.00m,Fenerbahce,29,"Mar 14, 1979",Retired
+Centre-Forward,right,"Jul 1, 2005",El-Hadji Diouf,"1,80m",3604,"['Senegal', 'France']",€5.50m,: Ablöse €4.80m,27,"Jan 15, 1981",Retired
+Centre-Forward,right,"Jul 23, 2003",Kevin Davies,"1,83m",4114,['England'],€4.25m,Southampton FC,31,"Mar 26, 1977",Retired
+Centre-Forward,both,"Jul 20, 2007",Heidar Helguson,"1,78m",9886,['Iceland'],€2.00m,Fulham FC,30,"Aug 22, 1977",Retired
+Centre-Forward,right,"Jan 1, 2008",Grzegorz Rasiak,"1,90m",15242,['Poland'],€1.50m,Southampton FC,29,"Jan 12, 1979",Retired
+Centre-Forward,right,,Zoltán Harsányi,"1,93m",50590,"['Slovakia', 'Hungary']",€200k,,21,"Jun 1, 1987",Rapid Ohrady

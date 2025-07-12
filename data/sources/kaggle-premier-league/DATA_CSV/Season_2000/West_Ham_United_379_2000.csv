@@ -1,0 +1,49 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Nov 1, 1996",Les Sealey,"1,85m",176019,['England'],Leyton Orient,43,"Sep 29, 1957",---
+Goalkeeper,right,"Jul 1, 2005",Shaka Hislop,"1,98m",4175,"['Trinidad and Tobago', 'England']",: Ablöse free transfer,32,"Feb 22, 1969",Retired
+Goalkeeper,right,"Jul 1, 1997",Craig Forrest,"1,96m",107807,['Canada'],Ipswich Town,33,"Sep 20, 1967",Retired
+Goalkeeper,right,"Feb 20, 1998",Stephen Bywater,"1,89m",3873,['England'],Rochdale AFC,20,"Jun 7, 1981",Retired
+Goalkeeper,,"Jul 1, 1997",Alex O'Reilly,,379812,"['Ireland', 'England']",: Ablöse -,21,"Sep 15, 1979",Retired
+Centre-Back,right,"Jul 1, 1999",Igor Stimac,"1,88m",103812,['Croatia'],: Ablöse €700k,33,"Sep 6, 1967",Retired
+Centre-Back,,"Jul 1, 2001",Hayden Foxe,,3336,['Australia'],KV Mechelen,24,"Jun 23, 1977",Retired
+Centre-Back,right,"Jan 30, 2001",Christian Dailly,"1,83m",3799,['Scotland'],Blackburn Rovers,27,"Oct 23, 1973",Retired
+Centre-Back,right,"Nov 28, 2000",Rigobert Song,"1,83m",1419,"['Cameroon', 'France']",: Ablöse €4.17m,24,"Jul 1, 1976",Retired
+Centre-Back,right,"Nov 1, 1995",Rio Ferdinand,"1,89m",3235,['England'],: Ablöse -,22,"Nov 7, 1978",Retired
+Centre-Back,right,"Jul 1, 1997",Ian Pearce,"1,85m",3879,['England'],Blackburn Rovers,27,"May 7, 1974",Retired
+Centre-Back,,"Jul 1, 2000",Christian Bassila,,3922,"['France', 'Congo']",: Ablöse free transfer,23,"Oct 5, 1977",Retired
+Centre-Back,both,"Jul 1, 2001",Hannu Tihinen,"1,90m",9608,['Finland'],Viking FK,24,"Jul 1, 1976",Retired
+Centre-Back,right,,Darren Peacock,"1,88m",107099,['England'],,33,"Feb 3, 1968",Retired
+Centre-Back,right,"Jul 1, 1998",Javier Margas,"1,87m",133852,['Chile'],CD Universidad Católica,32,"May 10, 1969",Retired
+Centre-Back,right,"Jul 1, 1999",Terrell Forbes,"1,83m",13725,['England'],: Ablöse -,19,"Aug 17, 1981",Retired
+Centre-Back,left,"Jul 1, 1999",Stevland Angus,"1,83m",47947,"['England', 'Jamaica']",: Ablöse -,20,"Sep 16, 1980",Retired
+Centre-Back,left,"Jan 24, 2001",Ragnvald Soma,"1,89m",3447,['Norway'],Bryne FK,21,"Nov 10, 1979",Frøyland IL
+Centre-Back,right,"Jul 1, 1998",Izzy Iriekpen,"1,85m",3872,"['England', 'Nigeria']",: Ablöse -,19,"May 14, 1982",Retired
+Left-Back,left,"Jul 1, 1999",Stuart Pearce,"1,78m",101317,['England'],Newcastle United,39,"Apr 24, 1962",Retired
+Left-Back,left,"Jul 1, 2000",Nigel Winterburn,"1,73m",3648,['England'],: Ablöse free transfer,37,"Dec 11, 1963",Retired
+Left-Back,left,"Jan 14, 1999",Scott Minto,"1,78m",3884,['England'],: Ablöse €1.50m,29,"Aug 6, 1971",Retired
+Left-Back,left,"Jul 1, 1999",Shaun Byrne,"1,75m",3882,['Ireland'],: Ablöse -,20,"Jan 21, 1981",Unknown
+Right-Back,right,"Oct 5, 1999",Gary Charles,"1,75m",106810,['England'],SL Benfica,31,"Apr 13, 1970",Retired
+Right-Back,right,"Jan 1, 1985",Steve Potts,"1,70m",107819,"['United States', 'England']",: Ablöse -,34,"May 7, 1967",Retired
+Right-Back,right,,Adam Newton,"1,73m",49712,"['St. Kitts & Nevis', 'England']",,20,"Dec 4, 1980",Retired
+Right-Back,right,"Jan 19, 2001",Sébastien Schemmel,"1,77m",3798,['France'],: Ablöse €700k,26,"Jun 2, 1975",Retired
+Defensive Midfield,,,Michael Ferrante,"1,72m",43153,"['Australia', 'Italy']",,20,"Apr 28, 1981",Retired
+Midfielder,,"Jul 1, 2000",Vanni Chiarotto,"1,76m",476914,['Italy'],: Ablöse ?,22,"Jan 30, 1979",Retired
+Defensive Midfield,right,"Jul 1, 1999",Michael Carrick,"1,89m",3878,['England'],: Ablöse -,19,"Jul 28, 1981",Retired
+Central Midfield,,"Mar 1, 1997",Steve Lomas,,3801,"['Northern Ireland', 'Germany']",: Ablöse €2.40m,27,"Jan 18, 1974",Retired
+Central Midfield,right,"Jul 1, 1995",Frank Lampard,"1,84m",3163,['England'],: Ablöse -,23,"Jun 20, 1978",Retired
+Central Midfield,left,"Jul 1, 1998",Grant McCann,"1,78m",44291,['Northern Ireland'],: Ablöse -,21,"Apr 14, 1980",Retired
+Right Midfield,right,"Jul 1, 1998",Marc Keller,"1,81m",131608,['France'],: Ablöse free transfer,33,"Jan 14, 1968",Retired
+Attacking Midfield,right,"Jul 1, 1994",John Moncur,"1,70m",3696,['England'],Swindon Town,34,"Sep 22, 1966",Retired
+Attacking Midfield,right,"Jan 4, 2013",Joe Cole,"1,76m",3876,['England'],: Ablöse free transfer,19,"Nov 8, 1981",Retired
+Left Winger,right,"Jan 1, 1998",Trevor Sinclair,"1,78m",3253,['England'],: Ablöse €3.05m,28,"Mar 2, 1973",Retired
+Second Striker,right,"Jul 1, 1999",Richard García,"1,80m",3695,"['Australia', 'Uruguay']",: Ablöse -,19,"Sep 4, 1981",Retired
+Second Striker,,"Jul 1, 1999",Ömer Riza,"1,75m",10150,"['England', 'Türkiye']",: Ablöse ?,21,"Nov 8, 1979",Retired
+Centre-Forward,,,Marc Keller,,947,['Belgium'],,21,"Apr 11, 1980",Retired
+Centre-Forward,,"Jul 1, 2000",Davor Suker,,1407,['Croatia'],: Ablöse free transfer,33,"Jan 1, 1968",Retired
+Centre-Forward,,"Jan 1, 1999",Paolo Di Canio,,3699,['Italy'],: Ablöse €2.23m,32,"Jul 9, 1968",Retired
+Centre-Forward,,"Feb 1, 1997",Paul Kitson,"1,80m",107813,['England'],Newcastle United,30,"Jan 9, 1971",Retired
+Centre-Forward,right,"Jul 1, 2000",Frédéric Kanouté,"1,92m",3700,"['Mali', 'France']",: Ablöse €5.63m,23,"Sep 2, 1977",Retired
+Centre-Forward,right,"Apr 1, 2001",Kaba Diawara,"1,78m",5571,"['Guinea', 'France']",: Ablöse ?,25,"Dec 16, 1975",Retired
+Centre-Forward,right,"Dec 21, 2000",Titi Camara,"1,84m",106847,['Guinea'],: Ablöse €3.30m,28,"Nov 17, 1972",Retired
+Centre-Forward,right,"Jul 1, 1999",Jermain Defoe,"1,71m",3875,"['England', 'St. Lucia']",Charlton Athletic U18,18,"Oct 7, 1982",Retired
+Centre-Forward,right,"Jan 1, 2001",Svetoslav Todorov,"1,83m",3978,"['Bulgaria', 'England']",: Ablöse €750k,22,"Aug 30, 1978",Retired

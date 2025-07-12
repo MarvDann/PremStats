@@ -1,0 +1,40 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 1997",Shay Given,"1,85m",3146,['Ireland'],Blackburn Rovers,22,"Apr 20, 1976",Retired
+Goalkeeper,right,"Aug 1, 1995",Shaka Hislop,"1,98m",4175,"['Trinidad and Tobago', 'England']",Reading FC,29,"Feb 22, 1969",Retired
+Goalkeeper,,"Jul 1, 2006",Pavel Srnicek,"1,88m",5963,"['Czech Republic', 'France']",SC Beira-Mar,30,"Mar 10, 1968",---
+Centre-Back,left,"Aug 10, 1994",Philippe Albert,"1,90m",27972,['Belgium'],: Ablöse free transfer,30,"Aug 10, 1967",Retired
+Centre-Back,right,"Jan 15, 1998",David Terrier,"1,80m",5735,['France'],: Ablöse ?,24,"Aug 4, 1973",Retired
+Centre-Back,right,"Mar 24, 1994",Darren Peacock,"1,88m",107099,['England'],: Ablöse €5.00m,30,"Feb 3, 1968",Retired
+Centre-Back,right,"Jul 1, 1989",Steve Howey,"1,86m",3138,['England'],Newcastle United U18,26,"Oct 26, 1971",Retired
+Centre-Back,right,"Jul 1, 1997",Aaron Hughes,"1,83m",3580,['Northern Ireland'],Newcastle United U18,18,"Nov 8, 1979",Retired
+Centre-Back,right,"Jan 1, 1998",Nikolaos Dabizas,"1,88m",3581,['Greece'],: Ablöse €2.00m,24,"Aug 3, 1973",Retired
+Left-Back,left,"Jul 1, 1992",John Beresford,"1,68m",109487,['England'],: Ablöse €700k,31,"Sep 4, 1966",Retired
+Left-Back,left,"Jul 1, 1997",Stuart Pearce,"1,78m",101317,['England'],: Ablöse free transfer,36,"Apr 24, 1962",Retired
+Left-Back,both,"Jul 1, 1997",Alessandro Pistone,"1,80m",3588,['Italy'],: Ablöse €6.50m,22,"Jul 27, 1975",Retired
+Right-Back,right,"Jul 1, 1995",Warren Barton,"1,77m",13238,['England'],: Ablöse €4.50m,29,"Mar 19, 1969",Retired
+Right-Back,,"Oct 15, 1997",Ralf Keidel,,371,['Germany'],1.FC Schweinfurt 05,21,"Mar 6, 1977",Retired
+Right-Back,right,"Nov 1, 1990",Steve Watson,"1,85m",3309,['England'],Newcastle United U18,24,"Apr 1, 1974",Retired
+Right-Back,right,"Jan 30, 1998",Andy Griffin,"1,73m",3579,['England'],: Ablöse €2.50m,19,"Mar 17, 1979",Retired
+Midfielder,,"Jul 1, 1997",Paul Barrett,"1,75m",107082,['England'],Unknown,20,"Apr 13, 1978",Retired
+Defensive Midfield,right,"Jan 1, 1996",David Batty,"1,70m",3295,['England'],Blackburn Rovers,29,"Dec 2, 1968",Retired
+Central Midfield,,"Jul 1, 1996",Stuart Elliott,"1,73m",92574,['England'],Newcastle United U18,20,"Aug 27, 1977",Retired
+Central Midfield,right,"Jul 1, 1992",Rob Lee,"1,78m",14183,['England'],Charlton Athletic,32,"Feb 1, 1966",Retired
+Central Midfield,,"Feb 6, 1998",Gary Speed,,3459,['Wales'],: Ablöse €8.25m,28,"Sep 8, 1969",---
+Central Midfield,right,"Jul 1, 1997",Jamie McClen,"1,70m",3565,['England'],Newcastle United U18,19,"May 13, 1979",Retired
+Right Midfield,right,"Mar 1, 1995",Jim Crawford,"1,80m",24551,"['Ireland', 'United States']",Bohemian Football Club,25,"May 1, 1973",Retired
+Right Midfield,right,"Mar 1, 1998",James Coppinger,"1,70m",48959,['England'],Darlington FC (- 2012),17,"Jan 18, 1981",Retired
+Right Midfield,right,"Jan 10, 1995",Keith Gillespie,"1,77m",3827,['Northern Ireland'],: Ablöse €1.50m,23,"Feb 18, 1975",FC Mindwell
+Right Midfield,right,"Jul 11, 1997",Bjarni Gudjónsson,"1,72m",4186,['Iceland'],ÍA Akranes,19,"Feb 26, 1979",Retired
+Right Midfield,right,"Jul 1, 1997",Des Hamilton,"1,80m",107087,['England'],Bradford City,21,"Aug 15, 1976",Retired
+Left Midfield,,"Aug 13, 1997",John Barnes,,87436,"['England', 'Jamaica']",: Ablöse free transfer,34,"Nov 7, 1963",Retired
+Left Winger,left,"Jul 1, 1997",Brian Pinas,"1,77m",4381,"['Netherlands', 'Suriname']",: Ablöse €400k,19,"Dec 29, 1978",Retired
+Right Winger,right,"Jul 1, 1997",Temur Ketsbaia,"1,77m",28978,"['Georgia', 'Cyprus']",: Ablöse free transfer,30,"Mar 18, 1968",Retired
+Second Striker,right,"Jul 16, 1993",Peter Beardsley,"1,73m",102030,['England'],: Ablöse €1.70m,37,"Jan 18, 1961",Retired
+Striker,,"Jul 1, 1997",Paul Knight,"1,80m",107091,['Ireland'],Newcastle United U18,17,"Oct 16, 1980",Retired
+Centre-Forward,right,"Aug 1, 1995",Paul Brayson,"1,63m",224845,['England'],Newcastle United U18,20,"Sep 16, 1977",Without Club
+Centre-Forward,right,"Aug 18, 1997",Ian Rush,"1,83m",145743,['Wales'],: Ablöse free transfer,36,"Oct 20, 1961",Retired
+Centre-Forward,right,"Jul 30, 1996",Alan Shearer,"1,83m",3110,['England'],Blackburn Rovers,27,"Aug 13, 1970",Retired
+Centre-Forward,right,"Jan 1, 1996",Faustino Asprilla,"1,76m",102150,['Colombia'],: Ablöse €7.60m,28,"Nov 10, 1969",Retired
+Centre-Forward,right,"Jul 1, 1997",Jon Dahl Tomasson,"1,82m",4169,['Denmark'],: Ablöse €3.90m,21,"Aug 29, 1976",Retired
+Centre-Forward,,"Mar 1, 1998",Paul Robinson,"1,80m",107101,['England'],Darlington FC (- 2012),19,"Nov 20, 1978",Retired
+Centre-Forward,right,"Jan 27, 1998",Andreas Andersson,"1,86m",15351,['Sweden'],: Ablöse €4.13m,24,"Apr 10, 1974",Retired

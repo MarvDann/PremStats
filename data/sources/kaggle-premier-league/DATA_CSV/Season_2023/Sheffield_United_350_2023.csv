@@ -1,0 +1,46 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jan 26, 2024",Ivo Grbic,"1,95m",226073,['Croatia'],€3.50m,,: Ablöse €2.50m,28,"Jan 18, 1996",Caykur Rizespor
+Goalkeeper,left,,"Jul 27, 2020",Wes Foderingham,"1,85m",61697,['England'],€900k,,: Ablöse free transfer,33,"Jan 14, 1991",West Ham United
+Goalkeeper,right,,"Jan 25, 2022",Adam Davies,"1,85m",121254,"['Wales', 'Germany']",€500k,,Stoke City,31,"Jul 17, 1992",Sheffield United
+Goalkeeper,right,,"Jul 1, 2022",Jordan Amissah,"1,98m",385412,"['Ghana', 'Germany']",€250k,,Sheffield United U21,22,"Aug 2, 2001",Without Club
+Centre-Back,right,,"Jul 6, 2022",Anel Ahmedhodzic,"1,90m",377468,"['Bosnia-Herzegovina', 'Sweden']",€18.00m,,Malmö FF,25,"Mar 26, 1999",Sheffield United
+Centre-Back,left,,"Aug 3, 2023",Auston Trusty,"1,90m",389253,['United States'],€7.00m,,Arsenal FC,25,"Aug 12, 1998",Celtic FC
+Centre-Back,right,,"Feb 1, 2024",Mason Holgate,"1,87m",348623,"['Jamaica', 'England']",€5.00m,,Everton FC,27,"Oct 22, 1996",West Bromwich Albion
+Centre-Back,right,,"Jul 19, 2018",John Egan,"1,85m",121324,['Ireland'],€4.00m,,Brentford FC,31,"Oct 20, 1992",Burnley FC
+Centre-Back,left,Team captain,"Jan 21, 2020",Jack Robinson,"1,80m",128909,['England'],€1.00m,,Nottingham Forest,30,"Sep 1, 1993",Sheffield United
+Centre-Back,right,,"Jul 1, 2014",Chris Basham,"1,90m",52495,['England'],€300k,,Blackpool FC,35,"Jul 20, 1988",Retired
+Centre-Back,both,,,Evan Easton,"1,89m",743553,['Scotland'],€100k,,,19,"Jan 14, 2005",Sheffield United U21
+Centre-Back,right,,,Dovydas Sasnauskas,,1108667,"['Lithuania', 'England']",,,,17,"Feb 16, 2007",Sheffield United U18
+Left-Back,left,,"Aug 31, 2023",Luke Thomas,"1,81m",505194,['England'],€6.00m,,Leicester City,23,"Jun 10, 2001",Leicester City
+Left-Back,left,,"Jul 17, 2023",Yasser Larouci,"1,76m",554251,"['Algeria', 'France']",€3.00m,,ESTAC Troyes,23,"Jan 1, 2001",Watford FC
+Left-Back,left,,"Sep 7, 2020",Max Lowe,"1,75m",258885,['England'],€2.50m,,Derby County,27,"May 11, 1997",Sheffield Wednesday
+Left-Back,left,,"Jul 1, 2019",Rhys Norrington-Davies,"1,81m",543164,"['Wales', 'Saudi Arabia']",€2.50m,,Sheffield United U21,25,"Apr 22, 1999",Sheffield United
+Left-Back,both,,,Jili Buyabu,"1,82m",1072898,"['England', 'DR Congo']",€200k,,,20,"Aug 9, 2003",Rochdale AFC
+Right-Back,right,,"Sep 7, 2020",Jayden Bogle,"1,78m",465717,['England'],€3.80m,,Derby County,23,"Jul 27, 2000",Leeds United
+Right-Back,right,,"Jul 1, 2017",George Baldock,"1,78m",146690,"['Greece', 'England']",€2.50m,,Milton Keynes Dons,31,"Mar 9, 1993",---
+Right-Back,right,,"Jul 1, 2023",Femi Seriki,"1,83m",638649,"['England', 'Nigeria']",€300k,,Sheffield United U21,22,"Apr 28, 2002",Sheffield United
+Right-Back,right,,"Jul 1, 2024",Sam Curtis,"1,85m",741267,['Ireland'],€150k,,Sheffield United U21,18,"Dec 1, 2005",Peterborough United
+Defensive Midfield,right,,"Aug 9, 2023",Vini Souza,"1,87m",663581,['Brazil'],€12.00m,,Lommel SK,25,"Jun 17, 1999",Sheffield United
+Central Midfield,right,,"Aug 12, 2023",Gustavo Hamer,"1,69m",322985,"['Netherlands', 'Brazil']",€15.00m,,Coventry City,27,"Jun 24, 1997",Sheffield United
+Central Midfield,right,,"Aug 16, 2023",Tom Davies,"1,80m",314210,['England'],€5.00m,,Everton FC,26,"Jun 30, 1998",Sheffield United
+Central Midfield,left,,"Jul 1, 2023",Andre Brooks,"1,80m",746739,"['England', 'Jamaica']",€2.50m,,Sheffield United U21,20,"Aug 20, 2003",Sheffield United
+Central Midfield,both,,"Jul 13, 2023",Anis Slimane,"1,88m",546712,"['Tunisia', 'Denmark']",€2.50m,,Bröndby IF,23,"Mar 16, 2001",Norwich City
+Central Midfield,right,,"Jan 4, 2019",Oliver Norwood,"1,75m",73547,"['Northern Ireland', 'England']",€1.00m,,Brighton & Hove Albion,33,"Apr 12, 1991",Stockport County
+Central Midfield,right,,"Sep 8, 2020",Ismaila Coulibaly,"1,83m",490224,['Mali'],€1.00m,"Returned after loan spell with AIK; date: Jul 31, 2024; fee: End of loan",Sarpsborg 08 FF,23,"Dec 25, 2000",Sheffield United
+Central Midfield,left,,"Jul 26, 2019",Ben Osborn,"1,76m",218087,['England'],€1.00m,,Nottingham Forest,29,"Aug 5, 1994",Derby County
+Central Midfield,left,Shin injury - Return unknown,"Jul 8, 2016",John Fleck,"1,69m",54383,['Scotland'],€900k,,Coventry City,32,"Aug 24, 1991",Chesterfield FC
+Central Midfield,right,,"Jul 1, 2023",Oliver Arblaster,"1,80m",874066,['England'],€450k,,Sheffield United U21,20,"Jan 8, 2004",Sheffield United
+Central Midfield,right,,"Jul 1, 2024",Sydie Peck,"1,73m",745851,['England'],€200k,"Internal transfer: Sheffield United U21; date: Jul 1, 2024",Sheffield United U21,19,"Sep 13, 2004",Sheffield United
+Central Midfield,,,,Owen Hampson,,967340,"['Wales', 'England']",,,,19,"Nov 17, 2004",Sheffield United U21
+Attacking Midfield,left,,"Sep 1, 2023",James McAtee,"1,80m",583199,['England'],€12.00m,,Manchester City,21,"Oct 18, 2002",Manchester City
+Left Winger,,,,Billy Blacker,,967318,['England'],€100k,,,18,"May 25, 2006",Sheffield United U21
+Second Striker,right,,"Jul 1, 2024",Louie Marsh,"1,76m",874043,['England'],€100k,"Internal transfer: Sheffield United U21; date: Jul 1, 2024",Sheffield United U21,19,"Jul 2, 2004",Sheffield United
+Centre-Forward,right,,"Aug 27, 2023",Cameron Archer,"1,75m",533662,"['England', 'Jamaica']",€13.00m,,: Ablöse €21.55m,22,"Dec 9, 2001",Southampton FC
+Centre-Forward,right,,"Jan 5, 2024",Ben Brereton Díaz,"1,85m",426192,"['Chile', 'England']",€8.00m,,Villarreal CF,25,"Apr 18, 1999",Southampton FC
+Centre-Forward,right,,"Aug 2, 2019",Oli McBurnie,"1,88m",298477,"['Scotland', 'England']",€4.50m,,: Ablöse €19.10m,28,"Jun 4, 1996",UD Las Palmas
+Centre-Forward,right,,"Jul 18, 2023",Bénie Traoré,"1,72m",852024,"[""Cote d'Ivoire""]",€4.00m,"Returned after loan spell with FC Nantes; date: Jun 30, 2024; fee: End of loan",BK Häcken,21,"Nov 30, 2002",FC Basel 1893
+Centre-Forward,right,,"Oct 2, 2020",Rhian Brewster,"1,80m",406560,"['England', 'Barbados']",€3.00m,,: Ablöse €26.00m,24,"Apr 1, 2000",Sheffield United
+Centre-Forward,right,,"Jul 1, 2022",William Osula,"1,86m",609556,"['Denmark', 'England']",€3.00m,,Sheffield United U21,20,"Aug 4, 2003",Newcastle United
+Centre-Forward,right,,"Jul 1, 2021",Daniel Jebbison,"1,90m",746740,"['Canada', 'England']",€1.00m,,Sheffield United U18,20,"Jul 11, 2003",Watford FC
+Centre-Forward,right,,,Antwoine Hackford,"1,77m",670859,"['England', 'Trinidad and Tobago']",€500k,,,20,"Mar 20, 2004",Port Vale FC
+Centre-Forward,,,,Ryan Oné,,1031293,"['Scotland', 'France']",€200k,,,18,"Jun 26, 2006",Sheffield United U21

@@ -1,0 +1,39 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,"Jul 1, 2000",Fabien Barthez,"1,80m",3289,['France'],: Ablöse €11.70m,31,"Jun 28, 1971",Retired
+Goalkeeper,right,"Jul 27, 2001",Roy Carroll,"1,89m",3534,['Northern Ireland'],Wigan Athletic,24,"Sep 30, 1977",Retired
+Goalkeeper,,"Jul 1, 1996",Raimond van der Gouw,"1,91m",3644,['Netherlands'],Vitesse Arnhem,39,"Mar 24, 1963",Retired
+Centre-Back,right,"Jul 1, 1998",Jaap Stam,"1,91m",3557,['Netherlands'],: Ablöse €17.00m,29,"Jul 17, 1972",Retired
+Centre-Back,right,"Jul 1, 2000",Alan Tate,"1,85m",7337,['England'],Manchester United U18,19,"Sep 2, 1982",Retired
+Centre-Back,right,"Jul 1, 1996",Ronny Johnsen,"1,90m",3578,['Norway'],: Ablöse €2.23m,33,"Jun 10, 1969",Retired
+Centre-Back,right,"Aug 30, 2001",Laurent Blanc,"1,92m",3113,['France'],: Ablöse free transfer,36,"Nov 19, 1965",Retired
+Centre-Back,right,"Jul 1, 1994",David May,"1,84m",3538,['England'],Blackburn Rovers,32,"Jun 24, 1970",Retired
+Centre-Back,right,"Jul 1, 1996",Wes Brown,"1,85m",3405,['England'],Manchester United U18,22,"Oct 13, 1979",Retired
+Centre-Back,right,"Jul 1, 2001",John O'Shea,"1,92m",3540,['Ireland'],Manchester United Reserves,21,"Apr 30, 1981",Retired
+Left-Back,left,"Jul 1, 2000",Paul Tierney,"1,78m",4231,"['Ireland', 'England']",Manchester United U18,19,"Sep 15, 1982",Unknown
+Left-Back,right,"Jul 1, 1990",Denis Irwin,"1,73m",4280,['Ireland'],: Ablöse €700k,36,"Oct 31, 1965",Retired
+Left-Back,left,"Jan 1, 2000",Quinton Fortune,"1,82m",3541,"['South Africa', 'England']",: Ablöse €2.25m,25,"May 21, 1977",Retired
+Left-Back,,"Sep 10, 1999",Mikaël Silvestre,,3393,"['France', 'Guadeloupe']",: Ablöse €5.70m,24,"Aug 9, 1977",Retired
+Right-Back,right,"Jul 1, 2001",Mark Lynch,"1,80m",3537,['England'],Manchester United U18,20,"Sep 2, 1981",Retired
+Right-Back,right,"Jan 1, 2000",Lee Roche,"1,78m",3545,['England'],Manchester United Reserves,21,"Oct 28, 1980",Retired
+Right-Back,right,"Jul 1, 1995",Mike Clegg,"1,73m",106894,['England'],Manchester United U18,24,"Jul 3, 1977",Retired
+Right-Back,right,"Jul 1, 1992",Gary Neville,"1,80m",3403,['England'],Manchester United U18,27,"Feb 18, 1975",Retired
+Right-Back,right,"Jul 1, 1994",Phil Neville,"1,80m",3404,['England'],Manchester United U18,25,"Jan 21, 1977",Retired
+Defensive Midfield,right,"Jul 1, 1992",Nicky Butt,"1,78m",3543,['England'],Manchester United U18,27,"Jan 21, 1975",Retired
+Central Midfield,right,"Jul 13, 2001",Juan Sebastián Verón,"1,82m",3143,"['Argentina', 'Italy']",: Ablöse €42.60m,27,"Mar 9, 1975",Retired
+Central Midfield,right,"Jul 1, 1992",David Beckham,"1,82m",3139,['England'],Manchester United U18,27,"May 2, 1975",Retired
+Central Midfield,,"Jul 1, 1993",Roy Keane,,3396,['Ireland'],: Ablöse €4.40m,30,"Aug 10, 1971",Retired
+Central Midfield,right,"Jan 8, 2012",Paul Scholes,"1,68m",3397,['England'],,27,"Nov 16, 1974",Retired
+Central Midfield,left,"Jul 1, 1994",Ronnie Wallwork,"1,78m",3305,['England'],Manchester United U18,24,"Sep 10, 1977",Retired
+Central Midfield,right,"Jan 1, 2000",Michael Stewart,"1,80m",3246,['Scotland'],Manchester United U18,21,"Feb 26, 1981",Retired
+Central Midfield,right,"Jul 1, 2001",Darren Fletcher,"1,84m",3547,['Scotland'],Manchester United U18,18,"Feb 1, 1984",Retired
+Left Midfield,left,"Jul 1, 1991",Ryan Giggs,"1,79m",3406,['Wales'],Manchester United U18,28,"Nov 29, 1973",Retired
+Attacking Midfield,right,"Jul 1, 1999",Luke Chadwick,"1,80m",3658,['England'],Manchester United Reserves,21,"Nov 18, 1980",Retired
+Left Winger,right,"Jul 1, 2001",Jimmy Davis,,4245,['England'],Royal Antwerp FC,20,"Feb 6, 1982",---
+Left Winger,left,"Feb 16, 1999",Bojan Djordjic,"1,83m",3659,"['Sweden', 'Serbia']",IF Brommapojkarna,20,"Feb 6, 1982",Retired
+Centre-Forward,,,Daniel Nardiello,"1,80m",3536,"['Wales', 'England']",,19,"Oct 22, 1982",Retired
+Centre-Forward,right,"Jul 1, 1999",Danny Webber,"1,78m",3551,['England'],Manchester United U18,20,"Dec 28, 1981",Retired
+Centre-Forward,right,"Jan 12, 1995",Andy Cole,"1,75m",3238,"['England', 'Jamaica']",Newcastle United,30,"Oct 15, 1971",Retired
+Centre-Forward,right,"Jul 1, 2001",Ruud van Nistelrooy,"1,89m",3407,['Netherlands'],: Ablöse €28.50m,25,"Jul 1, 1976",Retired
+Centre-Forward,,"Jul 1, 1998",Dwight Yorke,"1,78m",3223,"['Trinidad and Tobago', 'England']",: Ablöse €19.25m,30,"Nov 3, 1971",Retired
+Centre-Forward,both,"Jul 29, 1996",Ole Gunnar Solskjær,"1,79m",3394,['Norway'],Molde FK,29,"Feb 26, 1973",Retired
+Centre-Forward,,"Jan 20, 2002",Diego Forlán,,3408,"['Uruguay', 'Spain']",CA Independiente,23,"May 19, 1979",Retired

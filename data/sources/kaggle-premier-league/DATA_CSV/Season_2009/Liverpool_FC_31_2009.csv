@@ -1,0 +1,35 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 4, 2005",Pepe Reina,"1,88m",7825,['Spain'],€20.00m,: Ablöse €9.80m,27,"Aug 31, 1982",Como 1907
+Goalkeeper,left,"Jul 1, 2008",Diego Cavalieri,"1,89m",53231,"['Brazil', 'Italy']",€2.00m,Sociedade Esportiva Palmeiras,27,"Dec 1, 1982",Retired
+Goalkeeper,right,"Sep 1, 2008",Péter Gulácsi,"1,90m",57071,['Hungary'],,MTK Budapest U19,20,"May 6, 1990",RB Leipzig
+Centre-Back,right,"Jul 1, 1996",Jamie Carragher,"1,85m",3597,['England'],€17.00m,: Ablöse -,32,"Jan 28, 1978",Retired
+Centre-Back,right,"Jan 11, 2008",Martin Skrtel,"1,91m",24180,['Slovakia'],€13.50m,: Ablöse €10.00m,25,"Dec 15, 1984",Hajskala Raztocno
+Centre-Back,left,"Jan 1, 2006",Daniel Agger,"1,91m",22832,['Denmark'],€11.50m,Bröndby IF,25,"Dec 12, 1984",Retired
+Centre-Back,,"Aug 20, 2009",Sotiris Kyrgiakos,,9706,['Greece'],€5.00m,: Ablöse €3.00m,30,"Jul 23, 1979",Retired
+Centre-Back,right,,Daniel Ayala,"1,90m",78966,['Spain'],€750k,,19,"Nov 7, 1990",Potters Bar Town
+Centre-Back,left,"Jul 1, 2011",Jack Robinson,"1,80m",128909,['England'],,: Ablöse -,16,"Sep 1, 1993",Sheffield United
+Left-Back,left,"Jul 5, 2006",Fábio Aurélio,"1,78m",7570,"['Brazil', 'Italy']",€8.50m,: Ablöse free transfer,30,"Sep 24, 1979",Retired
+Left-Back,left,"Jul 1, 2008",Emiliano Insúa,"1,79m",45599,"['Argentina', 'Spain']",€6.00m,CA Boca Juniors,21,"Jan 7, 1989",Retired
+Left-Back,left,"Jul 1, 2007",Robbie Threlfall,"1,83m",45606,['England'],€100k,: Ablöse -,21,"Nov 28, 1988",Retired
+Right-Back,both,"Jul 1, 2009",Glen Johnson,"1,82m",3881,['England'],€17.00m,: Ablöse €20.50m,25,"Aug 23, 1984",Retired
+Right-Back,,"Jul 1, 2008",Philipp Degen,,2895,['Switzerland'],€1.50m,Borussia Dortmund,27,"Feb 15, 1983",Retired
+Right-Back,right,"Jul 1, 2008",Stephen Darby,"1,74m",29933,['England'],€250k,: Ablöse -,21,"Oct 6, 1988",Retired
+Right-Back,right,"Jul 1, 2008",Martin Kelly,"1,91m",78959,['England'],€50k,: Ablöse -,20,"Apr 27, 1990",Without Club
+Defensive Midfield,right,"Jul 1, 2008",Javier Mascherano,"1,74m",19981,"['Argentina', 'Italy']",€26.00m,: Ablöse €22.50m,26,"Jun 8, 1984",Retired
+Defensive Midfield,right,"Jul 1, 2007",Lucas Leiva,"1,79m",41414,"['Brazil', 'Italy']",€7.00m,Grêmio Foot-Ball Porto Alegrense,23,"Jan 9, 1987",Retired
+Defensive Midfield,left,"Aug 31, 2007",Damien Plessis,"1,93m",58364,"['France', 'Réunion']",€500k,Olympique Lyon B,22,"Mar 5, 1988",Without Club
+Defensive Midfield,right,"Jul 1, 2009",Jay Spearing,"1,68m",52111,['England'],€250k,: Ablöse -,21,"Nov 25, 1988",Liverpool FC U21
+Defensive Midfield,both,"Jul 1, 2009",Dani Pacheco,"1,68m",28285,['Spain'],€100k,: Ablöse -,19,"Jan 5, 1991",Wisla Plock
+Central Midfield,right,"Aug 1, 1998",Steven Gerrard,"1,83m",3109,['England'],€50.00m,: Ablöse -,30,"May 30, 1980",Retired
+Central Midfield,right,"Aug 7, 2009",Alberto Aquilani,"1,86m",5957,['Italy'],€14.00m,: Ablöse €20.00m,25,"Jul 7, 1984",Retired
+Left Midfield,left,"Sep 1, 2008",Albert Riera,"1,88m",7373,"['Spain', 'Russia']",€14.00m,RCD Espanyol Barcelona,28,"Apr 15, 1982",Retired
+Left Midfield,left,"Jul 4, 2008",Andrea Dossena,"1,80m",21863,['Italy'],€4.50m,: Ablöse €9.00m,28,"Sep 11, 1981",Retired
+Left Winger,right,"Jan 13, 2010",Maxi Rodríguez,"1,73m",7895,"['Argentina', 'Spain']",€18.00m,: Ablöse free transfer,29,"Jan 2, 1981",Retired
+Left Winger,right,"Jul 1, 2007",Ryan Babel,"1,85m",16135,"['Netherlands', 'Suriname']",€7.00m,: Ablöse €17.25m,23,"Dec 19, 1986",Without Club
+Right Winger,right,"Aug 18, 2006",Dirk Kuyt,"1,84m",4010,['Netherlands'],€17.00m,: Ablöse €18.00m,29,"Jul 22, 1980",Retired
+Right Winger,right,"Jul 12, 2007",Yossi Benayoun,"1,75m",7858,['Israel'],€10.50m,: Ablöse €7.30m,30,"May 5, 1980",Retired
+Right Winger,both,"Jul 1, 2006",Nabil El Zhar,"1,70m",37917,"['Morocco', 'France']",€500k,: Ablöse free transfer,23,"Aug 27, 1986",Retired
+Second Striker,,"Jul 1, 2007",Andriy Voronin,,1075,"['Ukraine', 'Germany']",€4.50m,Bayer 04 Leverkusen,30,"Jul 21, 1979",Retired
+Centre-Forward,right,"Jul 4, 2007",Fernando Torres,"1,86m",7767,['Spain'],€50.00m,: Ablöse €38.00m,26,"Mar 20, 1984",Retired
+Centre-Forward,right,"Jul 24, 2008",David N'Gog,"1,90m",41242,"['France', 'Cameroon']",€4.50m,: Ablöse €1.50m,21,"Apr 1, 1989",Without Club
+Centre-Forward,right,"Jul 1, 2008",Nathan Eccleston,"1,78m",88983,['England'],€50k,: Ablöse -,19,"Dec 30, 1990",Retired

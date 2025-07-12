@@ -1,0 +1,42 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 1997",Magnus Hedman,"1,92m",3438,['Sweden'],AIK,26,"Mar 19, 1973",Retired
+Goalkeeper,,"Jul 1, 1984",Steve Ogrizovic,,109480,"['England', 'Serbia']",: Ablöse €108k,41,"Sep 12, 1957",Retired
+Goalkeeper,right,"Jul 1, 1999",Chris Kirkland,"1,98m",3219,['England'],Coventry City U18,18,"May 2, 1981",Retired
+Defender,,"Jul 1, 1998",Barry Prenderville,"1,78m",29884,['Ireland'],Coventry City U21,22,"Oct 16, 1976",Retired
+Centre-Back,,"Jul 1, 1998",Jean-Guy Wallemme,"1,86m",155753,"['France', 'Belgium']",: Ablöse ?,31,"Aug 10, 1967",Retired
+Centre-Back,,"Jul 1, 1995",Paul Williams,"1,83m",3323,['England'],: Ablöse €1.14m,28,"Mar 26, 1971",Retired
+Centre-Back,right,"Nov 1, 1995",Richard Shaw,"1,75m",10034,['England'],: Ablöse €1.50m,30,"Sep 11, 1968",Retired
+Centre-Back,right,"Jan 1, 1997",Gary Breen,"1,85m",3874,"['Ireland', 'England']",: Ablöse €3.75m,25,"Dec 12, 1973",Retired
+Centre-Back,right,"Jan 1, 1999",Muhamed Konjic,"1,91m",10022,['Bosnia-Herzegovina'],: Ablöse ?,29,"May 14, 1970",Retired
+Centre-Back,right,"Jul 1, 1998",Philippe Clement,"1,91m",9636,['Belgium'],: Ablöse €875k,25,"Mar 22, 1974",Retired
+Left-Back,left,"Mar 2, 1995",David Burrows,"1,78m",109481,['England'],: Ablöse €1.65m,30,"Oct 25, 1968",Retired
+Left-Back,left,"Feb 21, 2005",Marcus Hall,"1,85m",13578,['England'],Stoke City,23,"Mar 24, 1976",Retired
+Left-Back,,"Oct 31, 1995",Sam Shilton,"1,78m",16168,['England'],Plymouth Argyle,20,"Jul 21, 1978",Retired
+Right-Back,,"Jan 1, 2001",Roland Nilsson,,101101,['Sweden'],Helsingborgs IF,35,"Nov 27, 1963",Retired
+Right-Back,right,"Aug 1, 1995",Paul Telfer,"1,75m",3362,['Scotland'],: Ablöse €1.65m,27,"Oct 21, 1971",Retired
+Right-Back,right,"Jul 1, 1998",Ian Brightwell,"1,78m",67373,['England'],: Ablöse ?,31,"Apr 9, 1968",Retired
+Right-Back,right,"Jul 1, 1998",Marc Edworthy,"1,80m",4235,['England'],: Ablöse €1.80m,26,"Dec 24, 1972",Retired
+Right-Back,right,"Jul 1, 1998",Barry Quinn,"1,83m",10028,['Ireland'],Coventry City U18,20,"May 9, 1979",Retired
+Defensive Midfield,right,"Jan 1, 1998",George Boateng,"1,76m",3358,"['Netherlands', 'Ghana']",: Ablöse €350k,23,"Sep 5, 1975",Retired
+Defensive Midfield,right,"Jul 1, 1997",Gavin Strachan,"1,78m",41027,['Scotland'],Coventry City U18,20,"Dec 23, 1978",Retired
+Defensive Midfield,right,"Jul 1, 1992",Willie Boland,"1,75m",12684,['Ireland'],Coventry City U18,23,"Aug 6, 1975",Retired
+Defensive Midfield,right,"Jul 1, 1998",John Eustace,"1,83m",13569,['England'],Coventry City U18,19,"Nov 3, 1979",Retired
+Central Midfield,both,"Jul 1, 2002",Gary McAllister,"1,86m",10032,['Scotland'],: Ablöse €500k,34,"Dec 25, 1964",Retired
+Right Midfield,both,,Martin Devaney,"1,78m",41727,"['England', 'Ireland']",,19,"Jun 1, 1980",Retired
+Right Midfield,right,,Craig Pead,"1,75m",10037,['England'],,17,"Sep 15, 1981",Retired
+Attacking Midfield,,"Jul 1, 1997",Trond Soltvedt,"1,86m",109482,['Norway'],: Ablöse €750k,32,"Feb 15, 1967",Retired
+Left Winger,left,"Oct 1, 1998",Steve Froggatt,"1,78m",222292,['England'],: Ablöse €2.30m,26,"Mar 9, 1973",Retired
+Left Winger,left,"Jul 1, 2010",Gary McSheffrey,"1,73m",25383,['England'],: Ablöse free transfer,16,"Aug 13, 1982",Retired
+Right Winger,right,"Nov 1, 1996",Darren Huckerby,"1,78m",3136,['England'],Newcastle United,23,"Apr 23, 1976",Retired
+Right Winger,right,"Jul 1, 1994",Andrew Ducros,"1,68m",109483,['England'],Coventry City U18,21,"Sep 16, 1977",Retired
+Right Winger,right,"Dec 1, 1998",Laurent Delorge,"1,79m",13114,['Belgium'],: Ablöse €1.75m,19,"Jul 21, 1979",Retired
+Right Winger,right,"Jul 1, 2000",Stephen McPhee,"1,70m",18240,['Scotland'],Coventry City U18,18,"Jun 5, 1981",Retired
+Second Striker,right,"Jan 1, 1999",Stefano Gioacchini,"1,80m",21982,['Italy'],: Ablöse ?,22,"Nov 25, 1976",Retired
+Centre-Forward,right,"Sep 9, 1994",Dion Dublin,"1,88m",3763,['England'],: Ablöse €3.00m,30,"Apr 22, 1969",Retired
+Striker,,"Aug 1, 1998",Darren Jackson,"1,78m",103643,['Scotland'],Celtic FC,32,"Jul 25, 1966",Retired
+Centre-Forward,right,"May 1, 1997",Simon Haworth,,109484,['Wales'],: Ablöse ?,22,"Mar 30, 1977",Retired
+Centre-Forward,right,"Dec 16, 1995",Noel Whelan,"1,88m",3315,['England'],: Ablöse €3.00m,24,"Dec 30, 1974",Retired
+Centre-Forward,,"Jul 1, 1998",Paul Hall,"1,75m",48670,"['Jamaica', 'England']",: Ablöse ?,26,"Jul 3, 1972",Retired
+Centre-Forward,left,"Jul 1, 1998",John Aloisi,"1,83m",7741,"['Australia', 'Italy']",: Ablöse €975k,23,"Feb 5, 1976",Retired
+Centre-Forward,right,"Jul 1, 1996",Craig Faulconbridge,"1,85m",170409,['England'],Coventry City U18,21,"Apr 20, 1978",Retired
+Centre-Forward,left,"Jul 1, 1999",Chukki Eribenne,"1,78m",69764,"['England', 'Nigeria']",Coventry City U18,18,"Nov 2, 1980",Retired

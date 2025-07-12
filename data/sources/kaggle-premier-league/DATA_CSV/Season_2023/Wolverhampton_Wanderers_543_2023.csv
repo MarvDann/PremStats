@@ -1,0 +1,48 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 15, 2021",José Sá,"1,92m",249994,['Portugal'],€14.00m,,: Ablöse €8.00m,31,"Jan 17, 1993",Wolverhampton Wanderers
+Goalkeeper,,,"Jan 25, 2023",Daniel Bentley,"1,93m",136401,['England'],€2.00m,,Bristol City,30,"Jul 13, 1993",Wolverhampton Wanderers
+Goalkeeper,right,,"Jul 3, 2023",Tom King,"1,94m",215810,"['Wales', 'England']",€200k,,Northampton Town,29,"Mar 9, 1995",Wolverhampton Wanderers
+Goalkeeper,right,,,Louie Moulden,"1,90m",444641,['England'],€175k,,,22,"Jan 6, 2002",Crystal Palace U21
+Centre-Back,left,,"Aug 9, 2018",Maximilian Kilman,"1,94m",525247,"['England', 'Ukraine']",€32.00m,,: Ablöse €4.75m,27,"May 23, 1997",West Ham United
+Centre-Back,left,,"Sep 2, 2020",Toti,"1,87m",606718,"['Portugal', 'Guinea-Bissau']",€20.00m,,Estoril Praia,25,"Jan 16, 1999",Wolverhampton Wanderers
+Centre-Back,right,,"Aug 31, 2023",Santiago Bueno,"1,90m",438001,"['Uruguay', 'Italy']",€8.00m,,Girona FC,25,"Nov 9, 1998",Wolverhampton Wanderers
+Centre-Back,right,Cruciate ligament injury - Return unknown,"Jul 1, 2021",Yerson Mosquera,"1,88m",716276,['Colombia'],€6.00m,"Returned after loan spell with Villarreal CF; date: Jun 30, 2024; fee: End of loan",Atlético Nacional,23,"May 2, 2001",Wolverhampton Wanderers
+Centre-Back,right,,"Jan 22, 2023",Craig Dawson,"1,88m",121477,['England'],€2.00m,,West Ham United,34,"May 6, 1990",Wolverhampton Wanderers
+Centre-Back,left,,,Justin Hubner,"1,87m",678641,"['Indonesia', 'Netherlands']",€350k,,,20,"Sep 14, 2003",Wolverhampton Wanderers U21
+Centre-Back,right,,,Alfie Pond,"1,91m",821522,['England'],€250k,,,20,"Mar 1, 2004",Wolverhampton Wanderers U21
+Left-Back,left,,"Jul 9, 2021",Rayan Aït-Nouri,"1,80m",578391,"['Algeria', 'France']",€35.00m,,Angers SCO,23,"Jun 6, 2001",Wolverhampton Wanderers
+Left-Back,left,,"Jul 1, 2022",Hugo Bueno,"1,80m",698678,['Spain'],€6.00m,,Wolverhampton Wanderers U21,21,"Sep 18, 2002",Feyenoord Rotterdam
+Left-Back,,,,Aaron Keto-Diyawa,,797679,"['England', 'DR Congo']",€200k,,,20,"Sep 11, 2003",Wolverhampton Wanderers U21
+Right-Back,right,,"Sep 23, 2020",Nélson Semedo,"1,77m",231572,"['Portugal', 'Cape Verde']",€12.00m,,FC Barcelona,30,"Nov 16, 1993",Wolverhampton Wanderers
+Right-Back,both,,"Jan 31, 2019",Jonny Otto,"1,75m",175446,['Spain'],€5.00m,,: Ablöse €21.00m,30,"Mar 3, 1994",PAOK Thessaloniki
+Right-Back,right,,"Sep 19, 2020",Ki-Jana Hoever,"1,83m",485583,"['Netherlands', 'Suriname']",€4.50m,,: Ablöse €9.80m,22,"Jan 18, 2002",AJ Auxerre
+Right-Back,right,,"Jul 20, 2023",Matt Doherty,"1,85m",171679,['Ireland'],€3.00m,,: Ablöse free transfer,32,"Jan 16, 1992",Wolverhampton Wanderers
+Right-Back,,,,Wesley Okoduwa,,1115502,"['England', 'Nigeria']",,,,16,"May 12, 2008",Wolverhampton Wanderers U18
+Defensive Midfield,right,,"Jan 13, 2023",Mario Lemina,"1,84m",170934,"['Gabon', 'France']",€10.00m,,OGC Nice,30,"Sep 1, 1993",Wolverhampton Wanderers
+Defensive Midfield,right,Meniscus injury - Return unknown,"Jul 1, 2023",Boubacar Traoré,"1,83m",649020,['Mali'],€6.00m,,FC Metz,22,"Aug 20, 2001",Wolverhampton Wanderers
+Defensive Midfield,right,,"Jul 1, 2022",Joe Hodge,"1,72m",503975,"['Ireland', 'England']",€1.50m,,Wolverhampton Wanderers U21,21,"Sep 14, 2002",Huddersfield Town
+Defensive Midfield,right,,"Aug 2, 2019",Bruno Jordão,"1,80m",415646,['Portugal'],€700k,,: Ablöse €8.90m,25,"Oct 12, 1998",Radomiak Radom
+Defensive Midfield,,,,Harvey Griffiths,"1,90m",670558,['England'],€150k,,,20,"Sep 22, 2003",Wolverhampton Wanderers U21
+Defensive Midfield,right,,,Temple Ojinnaka,"1,91m",813142,"['Italy', 'Nigeria']",,,,19,"Mar 30, 2005",Wolverhampton Wanderers U21
+Central Midfield,right,,"Aug 18, 2022",Matheus Nunes,"1,83m",601883,"['Portugal', 'Brazil']",€50.00m,,Sporting CP,25,"Aug 27, 1998",Manchester City
+Central Midfield,right,,"Jan 30, 2023",João Gomes,"1,76m",735570,['Brazil'],€35.00m,,CR Flamengo,23,"Feb 12, 2001",Wolverhampton Wanderers
+Central Midfield,right,,"Sep 1, 2023",Jean-Ricner Bellegarde,"1,72m",450050,"['France', 'Haiti']",€15.00m,,RC Strasbourg Alsace,26,"Jun 27, 1998",Wolverhampton Wanderers
+Central Midfield,right,,"Jul 1, 2024",Tommy Doyle,"1,72m",433183,['England'],€10.00m,"Joined from Manchester City; date: Jul 1, 2024; fee: €5.00m",Manchester City,22,"Oct 17, 2001",Wolverhampton Wanderers
+Central Midfield,right,,"Jul 1, 2021",Luke Cundle,"1,71m",532541,['England'],€5.00m,,Wolverhampton Wanderers U21,22,"Apr 26, 2002",Wolverhampton Wanderers
+Central Midfield,left,,,Matthew Whittingham,,908798,['England'],€150k,,,19,"Oct 21, 2004",Wolverhampton Wanderers U21
+Attacking Midfield,right,,"Jul 1, 2022",Chem Campbell,"1,80m",614603,"['Wales', 'England']",€900k,,Wolverhampton Wanderers U21,21,"Dec 30, 2002",Reading FC
+Attacking Midfield,right,Torn thigh muscle - Return unknown,"Jul 1, 2024",Tawanda Chirewa,"1,81m",724783,"['Zimbabwe', 'England']",€500k,,Wolverhampton Wanderers U21,20,"Oct 12, 2003",Derby County
+Attacking Midfield,right,,"Jan 31, 2024",Noha Lemina,"1,68m",816124,"['Gabon', 'France']",€500k,,: Ablöse ?,19,"Jun 17, 2005",FC Annecy
+Attacking Midfield,right,,,Owen Hesketh,"1,80m",550995,"['Wales', 'England']",,,,21,"Oct 10, 2002",Without Club
+Left Winger,left,Cruciate ligament tear - Return unknown,"Aug 31, 2023",Enso González,"1,69m",1060740,['Paraguay'],€4.00m,,Club Libertad Asunción,19,"Jan 20, 2005",Wolverhampton Wanderers
+Left Winger,,,,Ty Barnett,,751666,"['England', 'Trinidad and Tobago']",€150k,,,18,"Jul 19, 2005",Wolverhampton Wanderers U21
+Left Winger,both,,,Emilio Ballard-Matthews,,1172645,['England'],,,,15,"Aug 11, 2008",Wolverhampton Wanderers U18
+Right Winger,left,,"Aug 2, 2019",Pedro Neto,"1,73m",487465,['Portugal'],€55.00m,,: Ablöse €17.90m,24,"Mar 9, 2000",Chelsea FC
+Right Winger,left,,"Jan 17, 2023",Pablo Sarabia,"1,74m",74230,['Spain'],€10.00m,,: Ablöse €5.00m,32,"May 11, 1992",Wolverhampton Wanderers
+Centre-Forward,right,,"Jul 1, 2023",Matheus Cunha,"1,83m",517894,['Brazil'],€45.00m,,: Ablöse €50.00m,25,"May 27, 1999",Wolverhampton Wanderers
+Centre-Forward,right,"Ankle injury - Return expected on Dec 15, 2024","Jul 1, 2022",Hee-chan Hwang,"1,77m",292246,"['Korea, South']",€25.00m,,RB Leipzig,28,"Jan 26, 1996",Wolverhampton Wanderers
+Centre-Forward,right,,"Sep 5, 2020",Fábio Silva,"1,85m",505653,['Portugal'],€11.00m,,FC Porto,21,"Jul 19, 2002",UD Las Palmas
+Centre-Forward,right,Cruciate ligament tear - Return unknown,"Aug 31, 2022",Sasa Kalajdzic,"2,00m",369567,['Austria'],€5.00m,"Returned after loan spell with Eintracht Frankfurt; date: Jun 30, 2024; fee: End of loan",VfB Stuttgart,26,"Jul 7, 1997",Wolverhampton Wanderers
+Centre-Forward,right,,"Jan 1, 2024",Nathan Fraser,"1,88m",863741,"['Ireland', 'England']",€1.00m,,Wolverhampton Wanderers U21,19,"Feb 22, 2005",Zulte Waregem
+Centre-Forward,,,,Leon Chiwome,"1,86m",1043634,"['England', 'Zimbabwe']",€1.00m,,,18,"Jan 10, 2006",Wolverhampton Wanderers U21
+Centre-Forward,,,,Fletcher Holman,,1080392,['England'],,,,19,"Oct 12, 2004",Wolverhampton Wanderers U21

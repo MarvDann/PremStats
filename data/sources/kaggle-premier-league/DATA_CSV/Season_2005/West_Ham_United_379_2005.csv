@@ -1,0 +1,34 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 2005",Roy Carroll,"1,89m",3534,['Northern Ireland'],€2.70m,Manchester United,28,"Sep 30, 1977",Retired
+Goalkeeper,right,"Feb 20, 1998",Stephen Bywater,"1,89m",3873,['England'],€1.20m,Rochdale AFC,25,"Jun 7, 1981",Retired
+Goalkeeper,right,"Jul 1, 2005",Shaka Hislop,"1,98m",4175,"['Trinidad and Tobago', 'England']",€950k,: Ablöse free transfer,37,"Feb 22, 1969",Retired
+Goalkeeper,,"Jul 1, 2004",Jimmy Walker,"1,80m",46746,['England'],€600k,: Ablöse free transfer,32,"Jul 9, 1973",Retired
+Goalkeeper,,"Jul 1, 2005",Matthew Reed,"1,83m",39035,['England'],€50k,: Ablöse -,19,"Dec 24, 1986",Without Club
+Centre-Back,right,"Jul 1, 2003",Anton Ferdinand,"1,85m",3698,"['England', 'St. Lucia']",€3.50m,: Ablöse -,21,"Feb 18, 1985",Retired
+Centre-Back,right,"Aug 26, 2001",Tomas Repka,"1,82m",3647,['Czech Republic'],€2.50m,: Ablöse €8.25m,32,"Jan 2, 1974",Retired
+Centre-Back,right,"Jan 30, 2001",Christian Dailly,"1,83m",3799,['Scotland'],€2.00m,Blackburn Rovers,32,"Oct 23, 1973",Retired
+Centre-Back,right,"Jul 1, 2004",Elliott Ward,"1,85m",15838,['England'],€1.25m,: Ablöse -,21,"Jan 19, 1985",Retired
+Centre-Back,right,"Jul 5, 2005",Danny Gabbidon,"1,78m",12709,"['Wales', 'Jamaica']",€1.00m,: Ablöse €2.00m,26,"Aug 8, 1979",Retired
+Centre-Back,right,"Aug 1, 2012",James Collins,"1,88m",12691,['Wales'],€500k,: Ablöse €3.20m,22,"Aug 23, 1983",Retired
+Left-Back,left,"Jul 5, 2005",Paul Konchesky,"1,78m",3296,['England'],€4.00m,Charlton Athletic,25,"May 15, 1981",Retired
+Left-Back,left,"Aug 1, 2005",Clive Clarke,"1,80m",13558,['Ireland'],€400k,Stoke City,26,"Jan 14, 1980",Retired
+Right-Back,right,"Jan 31, 2006",Lionel Scaloni,"1,82m",7499,"['Argentina', 'Italy']",€4.00m,Deportivo de La Coruña,28,"May 16, 1978",Retired
+Defensive Midfield,right,"Jan 22, 2004",Nigel Reo-Coker,"1,75m",14060,"['England', 'Sierra Leone']",€3.50m,: Ablöse €750k,22,"May 14, 1984",Retired
+Defensive Midfield,right,"Aug 31, 2004",Carl Fletcher,"1,75m",23370,"['Wales', 'England']",€750k,: Ablöse €410k,26,"Apr 7, 1980",Retired
+Defensive Midfield,right,"Jul 1, 2003",Hayden Mullins,"1,82m",14052,['England'],€700k,: Ablöse free transfer,27,"Mar 27, 1979",Retired
+Central Midfield,right,"Jan 1, 2005",Mark Noble,"1,80m",31835,"['England', 'Ireland']",€800k,: Ablöse -,19,"May 8, 1987",Retired
+Central Midfield,left,"Jul 1, 2003",Chris Cohen,"1,78m",15835,"['England', 'Israel']",€50k,: Ablöse -,19,"Mar 5, 1987",Retired
+Right Midfield,right,"Jan 1, 2007",Shaun Newton,"1,74m",9171,['England'],€500k,Disqualification,30,"Aug 20, 1975",Retired
+Left Midfield,left,"Aug 1, 2003",Matthew Etherington,"1,78m",3788,['England'],€3.00m,: Ablöse ?,24,"Aug 14, 1981",Retired
+Left Midfield,left,,Hogan Ephraim,"1,75m",31883,['England'],€100k,,18,"Mar 31, 1988",Retired
+Attacking Midfield,right,"Jan 1, 2006",Yaniv Katan,"1,85m",24475,['Israel'],€500k,: Ablöse €145k,25,"Jan 27, 1981",Retired
+Attacking Midfield,right,"Dec 8, 2004",Gavin Williams,"1,78m",27816,['Wales'],€400k,: Ablöse €375k,25,"Jul 20, 1980",Heolgerrig Red Lion Community
+Left Winger,left,"Jul 1, 2005",Kyel Reid,"1,78m",39709,"['England', 'Jamaica']",€50k,: Ablöse -,18,"Nov 26, 1987",Rayners Lane FC
+Right Winger,right,"Aug 31, 2012",Yossi Benayoun,"1,75m",7858,['Israel'],€4.50m,Chelsea FC,26,"May 5, 1980",Retired
+Centre-Forward,right,"Jan 1, 2006",Dean Ashton,"1,85m",14168,['England'],€10.00m,: Ablöse €10.89m,22,"Nov 24, 1983",Retired
+Centre-Forward,right,"Nov 25, 2003",Marlon Harewood,"1,85m",10011,"['England', 'Barbados']",€5.50m,: Ablöse €725k,26,"Aug 25, 1979",Retired
+Centre-Forward,left,"Jan 1, 2004",Bobby Zamora,"1,84m",4205,"['England', 'Trinidad and Tobago']",€3.50m,: Ablöse free transfer,25,"Jan 16, 1981",Retired
+Centre-Forward,right,"Aug 17, 2005",David Bellion,"1,81m",3115,"['France', 'Senegal']",€2.25m,Manchester United,23,"Nov 27, 1982",Retired
+Centre-Forward,right,"Aug 25, 2005",Jérémie Aliadière,"1,83m",3266,"['France', 'Algeria']",€1.25m,: Ablöse free transfer,23,"Mar 30, 1983",Retired
+Centre-Forward,,"Jul 14, 2004",Teddy Sheringham,,3392,['England'],€500k,: Ablöse free transfer,40,"Apr 2, 1966",Retired
+Centre-Forward,right,"Jul 1, 2005",Tony Stokes,"1,86m",39034,['England'],€50k,: Ablöse -,19,"Jan 7, 1987",Hullbridge Sports FC

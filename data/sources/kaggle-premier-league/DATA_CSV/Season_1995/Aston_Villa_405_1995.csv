@@ -1,0 +1,31 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,"Feb 28, 1992",Mark Bosnich,"1,85m",3249,"['Australia', 'Croatia']",Sydney United 58 FC,24,"Jan 13, 1972",Retired
+Goalkeeper,right,"Jan 1, 1977",Nigel Spink,"1,88m",193806,['England'],Chelmsford City,37,"Aug 8, 1958",Retired
+Goalkeeper,,"Jul 1, 1990",Michael Oakes,"1,88m",4237,['England'],: Ablöse -,22,"Oct 30, 1973",Retired
+Goalkeeper,,"Aug 1, 1996",Adam Rachel,"1,80m",105076,['England'],: Ablöse -,19,"Dec 10, 1976",Retired
+Centre-Back,right,"Jul 1, 1995",Gareth Southgate,"1,83m",3744,['England'],: Ablöse €3.75m,25,"Sep 3, 1970",Retired
+Centre-Back,right,"Aug 3, 1989",Paul McGrath,"1,83m",102492,"['Ireland', 'Nigeria']",: Ablöse €500k,36,"Dec 4, 1959",Retired
+Centre-Back,right,"Oct 28, 1995",Carl Tiler,"1,88m",198681,['England'],: Ablöse €937k,26,"Feb 11, 1970",Retired
+Centre-Back,right,"Jul 12, 1991",Ugo Ehiogu,"1,92m",3247,"['England', 'Nigeria']",: Ablöse €60k,23,"Nov 3, 1972",---
+Centre-Back,right,"Jul 1, 1993",Riccardo Scimeca,"1,85m",5174,['England'],: Ablöse -,21,"Jun 13, 1975",Retired
+Centre-Back,right,"Jul 1, 1993",Paul Browne,"1,85m",222559,['Scotland'],: Ablöse -,21,"Feb 17, 1975",Retired
+Left-Back,,"Dec 6, 2000",Steve Staunton,,3839,['Ireland'],: Ablöse free transfer,27,"Jan 19, 1969",Retired
+Left-Back,,"Aug 1, 1994",Phil King,"1,73m",222296,['England'],: Ablöse €240k,28,"Dec 28, 1967",Retired
+Left-Back,left,"Mar 1, 1995",Alan Wright,"1,63m",3331,['England'],Blackburn Rovers,24,"Sep 28, 1971",Retired
+Right-Back,right,"Jan 1, 1995",Gary Charles,"1,75m",106810,['England'],: Ablöse €1.45m,26,"Apr 13, 1970",Retired
+Defensive Midfield,right,"Jan 1, 1995",Ian Taylor,"1,88m",3667,['England'],: Ablöse €1.50m,28,"Jun 4, 1968",Retired
+Central Midfield,right,"Jul 1, 1995",Mark Draper,"1,77m",3681,['England'],: Ablöse €4.88m,25,"Nov 11, 1970",Retired
+Central Midfield,right,"Jul 1, 1993",Andy Townsend,"1,80m",102498,"['Ireland', 'England']",: Ablöse €2.40m,32,"Jul 23, 1963",Retired
+Central Midfield,right,"Jul 1, 1994",Lee Hendrie,"1,68m",4069,['England'],: Ablöse -,19,"May 18, 1977",Retired
+Central Midfield,,"Apr 1, 1992",Trevor Berry,,307248,['England'],: Ablöse €60k,21,"Aug 1, 1974",Retired
+Left Midfield,,"Jul 1, 1992",Gareth Farrelly,,9878,['Ireland'],Home Farm,20,"Aug 28, 1975",Retired
+Left Winger,,"Jan 1, 1992",David Farrell,"1,80m",49585,['England'],Redditch United,24,"Nov 11, 1971",Retired
+Right Winger,,"Feb 10, 1995",Franz Carr,"1,70m",222286,['England'],: Ablöse €300k,29,"Sep 24, 1966",Retired
+Right Winger,right,"Mar 1, 1994",Scott Murray,"1,75m",13417,['Scotland'],Fraserburgh FC,22,"May 26, 1974",Retired
+Centre-Forward,left,"Jul 1, 1995",Savo Milošević,"1,86m",7896,"['Serbia', 'Bosnia-Herzegovina']",FK Partizan Belgrade,22,"Sep 2, 1973",Retired
+Centre-Forward,both,"Jan 1, 1995",Tommy Johnson,"1,78m",13794,['England'],: Ablöse €2.18m,25,"Jan 15, 1971",Retired
+Centre-Forward,right,"Jul 1, 1992",Graham Fenton,"1,78m",97931,['England'],: Ablöse -,22,"May 22, 1974",Retired
+Centre-Forward,,"Jan 1, 1990",Dwight Yorke,"1,78m",3223,"['Trinidad and Tobago', 'England']",Unknown,24,"Nov 3, 1971",Retired
+Centre-Forward,,"Jul 1, 1991",Neil Davis,,230934,['England'],Redditch United,22,"Aug 15, 1973",Retired
+Centre-Forward,,"Jul 1, 1993",Steve Cowe,,967887,['England'],: Ablöse -,21,"Sep 29, 1974",Retired
+Centre-Forward,right,"Jul 1, 1996",Julian Joachim,"1,67m",10027,"['England', 'St. Vincent & Grenadinen']",: Ablöse €2.10m,21,"Sep 20, 1974",Retired

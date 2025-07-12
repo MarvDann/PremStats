@@ -1,0 +1,37 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Aug 12, 2006",David James,,3646,"['England', 'Jamaica']",€3.50m,: Ablöse €1.70m,38,"Aug 1, 1970",Retired
+Goalkeeper,right,"Jul 1, 2004",Jamie Ashdown,"1,90m",13397,['England'],€600k,Reading FC,28,"Nov 30, 1980",Retired
+Goalkeeper,right,"Jul 1, 2005",Asmir Begovic,"1,99m",33873,"['Bosnia-Herzegovina', 'Canada']",€400k,: Ablöse -,22,"Jun 20, 1987",Everton FC
+Centre-Back,left,"Jul 1, 2007",Sylvain Distin,"1,92m",3356,"['France', 'Guadeloupe']",€8.30m,: Ablöse free transfer,31,"Dec 16, 1977",Retired
+Centre-Back,right,"Aug 1, 2008",Younès Kaboul,"1,92m",27114,"['France', 'Morocco']",€5.70m,Tottenham Hotspur,23,"Jan 4, 1986",Retired
+Centre-Back,,"Aug 1, 2006",Sol Campbell,,3198,"['England', 'Jamaica']",€4.40m,: Ablöse free transfer,34,"Sep 18, 1974",Retired
+Centre-Back,right,"Jan 1, 2006",Noé Pamarot,"1,80m",5531,['France'],€3.00m,: Ablöse ?,30,"Apr 14, 1979",Retired
+Centre-Back,left,"Jan 11, 2007",Djimi Traoré,"1,91m",3598,"['Mali', 'France']",€2.00m,Charlton Athletic,29,"Mar 1, 1980",Retired
+Centre-Back,right,"Jul 1, 2007",Martin Cranie,"1,83m",27659,"['England', 'Scotland']",€800k,Southampton FC,22,"Sep 26, 1986",Retired
+Centre-Back,right,"Jul 1, 2000",Linvoy Primus,"1,80m",4266,['England'],€300k,Reading FC,35,"Sep 14, 1973",Retired
+Centre-Back,both,"Jul 1, 2005",Marc Wilson,"1,88m",30456,"['Ireland', 'Northern Ireland']",€300k,: Ablöse -,21,"Aug 17, 1987",Retired
+Left-Back,left,"Jan 1, 2009",Nadir Belhadj,"1,75m",23892,"['Algeria', 'France']",€5.30m,: Ablöse €4.50m,27,"Jun 18, 1982",Retired
+Left-Back,left,"Jul 1, 2007",Hermann Hreidarsson,"1,85m",3860,['Iceland'],€2.70m,Charlton Athletic,34,"Jul 11, 1974",Retired
+Left-Back,left,"Aug 1, 2008",Armand Traoré,"1,84m",33783,"['Senegal', 'France']",€2.50m,: Ablöse ?,19,"Oct 8, 1989",Retired
+Right-Back,both,"Aug 31, 2007",Glen Johnson,"1,82m",3881,['England'],€11.00m,Chelsea FC,24,"Aug 23, 1984",Retired
+Right-Back,both,"Jan 18, 2007",Laurén,"1,82m",3189,"['Cameroon', 'Equatorial Guinea']",€1.00m,: Ablöse €550k,32,"Jan 19, 1977",Retired
+Defensive Midfield,right,"Jan 17, 2008",Lassana Diarra,"1,73m",23914,"['France', 'Mali']",€18.00m,: Ablöse €7.00m,24,"Mar 10, 1985",Retired
+Defensive Midfield,right,"Jan 12, 2006",Sean Davis,"1,78m",4036,['England'],€5.00m,: Ablöse €2.80m,29,"Sep 20, 1979",Retired
+Defensive Midfield,right,"Jan 1, 2009",Hayden Mullins,"1,82m",14052,['England'],€4.20m,: Ablöse €2.30m,30,"Mar 27, 1979",Retired
+Defensive Midfield,both,"Feb 2, 2009",Angelos Basinas,"1,80m",9821,['Greece'],€2.00m,: Ablöse free transfer,33,"Jan 3, 1976",Retired
+Defensive Midfield,left,"Jul 1, 2002",Richard Hughes,"1,75m",9207,['Scotland'],€1.75m,: Ablöse €80k,30,"Jun 25, 1979",Retired
+Defensive Midfield,right,"Jul 5, 2007",Arnold Mvuemba,"1,72m",20622,"['DR Congo', 'France']",€900k,Stade Rennais FC,24,"Jan 28, 1985",Retired
+Central Midfield,both,"Jan 1, 2006",Pedro Mendes,"1,77m",9811,['Portugal'],€6.25m,: Ablöse ?,30,"Feb 26, 1979",Retired
+Central Midfield,right,"Jul 1, 2007",Papa Bouba Diop,"1,94m",5485,['Senegal'],€4.40m,Fulham FC,31,"Jan 28, 1978",---
+Central Midfield,right,"Jan 1, 2009",Pelé,"1,87m",48930,['Portugal'],€4.00m,FC Porto,21,"Sep 14, 1987",Retired
+Right Midfield,right,"Jul 1, 2008",Glen Little,"1,91m",9879,['England'],€800k,Reading FC,33,"Oct 15, 1975",Retired
+Attacking Midfield,both,"Aug 31, 2006",Niko Kranjcar,"1,86m",16746,['Croatia'],€9.25m,HNK Hajduk Split,24,"Aug 13, 1984",Retired
+Left Winger,right,"Jul 11, 2007",John Utaka,"1,82m",5495,['Nigeria'],€5.20m,Stade Rennais FC,27,"Jan 8, 1982",Retired
+Left Winger,left,"Aug 15, 2008",Jerome Thomas,"1,77m",3560,"['England', 'Guyana']",€600k,Charlton Athletic,26,"Mar 23, 1983",Retired
+Right Winger,right,"Jan 20, 2009",Jermaine Pennant,"1,73m",3195,"['England', 'Jamaica']",€5.70m,: Ablöse free transfer,26,"Jan 15, 1983",Retired
+Centre-Forward,right,"Jan 31, 2008",Jermain Defoe,"1,71m",3875,"['England', 'St. Lucia']",€13.50m,Tottenham Hotspur,26,"Oct 7, 1982",Retired
+Centre-Forward,right,"Jul 11, 2008",Peter Crouch,"2,01m",4072,"['England', 'Ireland']",€10.00m,: Ablöse €13.70m,28,"Jan 30, 1981",Retired
+Centre-Forward,right,"Feb 1, 2009",Theofanis Gekas,"1,79m",16402,['Greece'],€3.30m,Bayer 04 Leverkusen,29,"May 23, 1980",Retired
+Centre-Forward,right,"Jul 11, 2007",David Nugent,"1,80m",33963,"['England', 'Ireland']",€3.20m,: Ablöse €9.00m,24,"May 2, 1985",Retired
+Centre-Forward,right,"Jul 1, 2006",Nwankwo Kanu,"1,97m",3133,['Nigeria'],€2.00m,West Bromwich Albion,32,"Aug 1, 1976",Retired
+Centre-Forward,right,"Jul 1, 2008",Ben Sahar,"1,80m",40436,"['Israel', 'Poland']",€750k,Chelsea FC,19,"Aug 10, 1989",Hapoel Tel Aviv

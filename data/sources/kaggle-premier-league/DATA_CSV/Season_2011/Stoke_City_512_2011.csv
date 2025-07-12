@@ -1,0 +1,33 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Feb 1, 2010",Asmir Begovic,"1,99m",33873,"['Bosnia-Herzegovina', 'Canada']",€3.50m,: Ablöse €3.75m,25,"Jun 20, 1987",Everton FC
+Goalkeeper,right,"Jul 30, 2008",Thomas Sörensen,"1,96m",3473,['Denmark'],€1.00m,: Ablöse free transfer,36,"Jun 12, 1976",Retired
+Goalkeeper,right,"Jul 1, 2010",Carlo Nash,"1,97m",3804,['England'],€250k,: Ablöse free transfer,38,"Sep 13, 1973",Retired
+Centre-Back,right,"Aug 1, 2009",Robert Huth,"1,91m",2998,['Germany'],€8.00m,Middlesbrough FC,27,"Aug 18, 1984",Retired
+Centre-Back,right,"Jan 18, 2008",Ryan Shawcross,"1,91m",45861,"['England', 'Wales']",€8.00m,Manchester United Reserves,24,"Oct 4, 1987",Retired
+Centre-Back,both,"Aug 31, 2010",Marc Wilson,"1,88m",30456,"['Ireland', 'Northern Ireland']",€5.00m,: Ablöse €3.60m,24,"Aug 17, 1987",Retired
+Centre-Back,right,"Jul 1, 2007",Ryan Shotton,"1,89m",92109,['England'],€2.50m,Stoke City U18,23,"Sep 30, 1988",Hanley Town
+Centre-Back,right,"Jul 11, 2011",Jonathan Woodgate,"1,88m",3224,['England'],€1.50m,Tottenham Hotspur,32,"Jan 22, 1980",Retired
+Centre-Back,left,"Aug 9, 2011",Matthew Upson,"1,85m",3273,['England'],€1.25m,: Ablöse free transfer,33,"Apr 18, 1979",Retired
+Centre-Back,left,"Sep 1, 2009",Danny Collins,"1,85m",26183,"['Wales', 'England']",€1.00m,Sunderland AFC,31,"Aug 6, 1980",Retired
+Centre-Back,right,"Aug 1, 2008",Andrew Davies,"1,90m",3869,['England'],€750k,Southampton FC,27,"Dec 17, 1984",Retired
+Centre-Back,left,"Sep 2, 2008",Danny Higginbotham,"1,85m",3686,"['Gibraltar', 'England']",€500k,Sunderland AFC,33,"Dec 29, 1978",Retired
+Left-Back,,"Jan 3, 2008",Danny Pugh,,3546,['England'],€500k,: Ablöse €750k,29,"Oct 19, 1982",Retired
+Right-Back,right,"Jul 1, 2003",Andy Wilkinson,"1,80m",13616,['England'],€3.50m,Stoke City U18,27,"Aug 6, 1984",Retired
+Defensive Midfield,right,"Jul 1, 2011",Wilson Palacios,"1,81m",58361,['Honduras'],€5.50m,Tottenham Hotspur,27,"Jul 29, 1984",Retired
+Defensive Midfield,right,"Jan 30, 2008",Glenn Whelan,"1,80m",12124,['Ireland'],€4.00m,: Ablöse €670k,28,"Jan 13, 1984",Retired
+Defensive Midfield,right,"Dec 10, 2007",Salif Diao,"1,83m",3600,"['Senegal', 'France']",€500k,Without Club,35,"Feb 10, 1977",Retired
+Defensive Midfield,right,"Aug 26, 2009",Diego Arismendi,"1,89m",72645,"['Uruguay', 'Italy']",€500k,Club Nacional,24,"Jan 25, 1988",Rampla Juniors FC
+Midfielder,,,Michael Clarkson,,145483,['England'],,,18,"Dec 11, 1993",Unknown
+Central Midfield,right,"Jul 1, 2009",Dean Whitehead,"1,83m",13683,['England'],€3.00m,Sunderland AFC,30,"Jan 12, 1982",Retired
+Central Midfield,left,"Sep 1, 2008",Michael Tonge,"1,83m",13544,['England'],€500k,Sheffield United,29,"Apr 7, 1983",Retired
+Central Midfield,right,"Jan 9, 2007",Rory Delap,"1,83m",4112,"['Ireland', 'England']",€500k,Sunderland AFC,35,"Jul 6, 1976",Retired
+Central Midfield,right,"Sep 1, 2008",Tom Soares,"1,83m",15910,"['England', 'Barbados']",€400k,: Ablöse €1.90m,25,"Jul 10, 1986",Without Club
+Central Midfield,right,,Lucas Dawson,"1,86m",145484,['England'],,,18,"Nov 12, 1993",Without Club
+Left Midfield,left,"Jan 1, 2009",Matthew Etherington,"1,78m",3788,['England'],€4.00m,: Ablöse €3.00m,30,"Aug 14, 1981",Retired
+Right Winger,right,"Aug 18, 2010",Jonathan Walters,"1,83m",3306,"['Ireland', 'England']",€5.00m,Ipswich Town,28,"Sep 20, 1983",Retired
+Right Winger,right,"Jan 1, 2011",Jermaine Pennant,"1,73m",3195,"['England', 'Jamaica']",€3.50m,Real Zaragoza,29,"Jan 15, 1983",Retired
+Centre-Forward,right,"Aug 31, 2011",Peter Crouch,"2,01m",4072,"['England', 'Ireland']",€6.50m,Tottenham Hotspur,31,"Jan 30, 1981",Retired
+Centre-Forward,right,"Aug 1, 2010",Kenwyne Jones,"1,87m",28245,['Trinidad and Tobago'],€5.00m,Sunderland AFC,27,"Oct 5, 1984",Retired
+Centre-Forward,right,"Aug 31, 2011",Cameron Jerome,"1,85m",35855,"['Grenada', 'England']",€4.00m,: Ablöse €4.50m,25,"Aug 14, 1986",Without Club
+Centre-Forward,right,"Aug 30, 2006",Ricardo Fuller,"1,91m",14014,['Jamaica'],€1.00m,Southampton FC,32,"Oct 31, 1979",Retired
+Centre-Forward,right,"Jul 1, 2005",Mamady Sidibé,"1,93m",14069,"['Mali', 'France']",€500k,Gillingham FC,32,"Dec 18, 1979",Retired

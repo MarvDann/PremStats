@@ -1,0 +1,41 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 2001",Ian Walker,"1,85m",4137,['England'],: Ablöse €3.75m,32,"Oct 31, 1971",Retired
+Goalkeeper,,"Jul 1, 2003",Danny Coyne,,8054,['Wales'],Grimsby Town,30,"Aug 27, 1973",Retired
+Goalkeeper,,"Jul 1, 2002",Paul Murphy,"1,85m",8055,['Ireland'],Leeds United,19,"Mar 26, 1985",Retired
+Centre-Back,right,"Jul 1, 1998",Gerry Taggart,"1,88m",4264,['Northern Ireland'],: Ablöse free transfer,33,"Oct 18, 1970",Retired
+Centre-Back,,"Jul 1, 2003",Alan Sheehan,"1,80m",34347,['Ireland'],Belvedere FC,17,"Sep 14, 1986",Retired
+Centre-Back,left,"Aug 13, 1998",Frank Sinclair,"1,78m",8056,"['Jamaica', 'England']",: Ablöse €3.00m,32,"Dec 3, 1971",Retired
+Centre-Back,,"Jan 1, 1997",Matt Elliott,,107793,"['Scotland', 'England']",: Ablöse €2.40m,35,"Nov 1, 1968",Retired
+Centre-Back,right,"Jul 1, 2003",Riccardo Scimeca,"1,85m",5174,['England'],: Ablöse free transfer,29,"Jun 13, 1975",Retired
+Centre-Back,right,"Jul 1, 2003",Steve Howey,"1,86m",3138,['England'],: Ablöse €280k,32,"Oct 26, 1971",Retired
+Centre-Back,right,"Jul 1, 2000",Matt Heath,"1,93m",9214,['England'],Leicester City U18,22,"Nov 1, 1981",Retired
+Centre-Back,right,"Jul 22, 2003",Nicolas Priet,"1,93m",6834,['France'],: Ablöse free transfer,21,"Jan 31, 1983",Without Club
+Centre-Back,right,"Jan 1, 2004",Nikolaos Dabizas,"1,88m",3581,['Greece'],Newcastle United,30,"Aug 3, 1973",Retired
+Left-Back,left,"Jan 1, 2000",Jordan Stewart,"1,83m",9217,['England'],Leicester City U18,22,"Mar 3, 1982",Retired
+Left-Back,left,"Jul 1, 2000",Callum Davidson,"1,78m",4251,['Scotland'],Blackburn Rovers,28,"Jun 25, 1976",Retired
+Left-Back,left,"Nov 16, 2001",Alan Rogers,"1,78m",4263,['England'],: Ablöse €450k,27,"Jan 3, 1977",Retired
+Left-Back,left,"Jul 1, 2003",Ben Thatcher,"1,78m",3304,"['Wales', 'England']",: Ablöse €450k,28,"Nov 30, 1975",Retired
+Right-Back,right,"Mar 16, 1989",Gary Charles,"1,75m",106810,['England'],: Ablöse ?,34,"Apr 13, 1970",Retired
+Right-Back,right,"Jan 1, 1999",Andy Impey,"1,73m",4250,['England'],: Ablöse €3.10m,32,"Sep 30, 1971",Retired
+Right-Back,right,"Jul 1, 2003",John Curtis,"1,78m",7913,['England'],Blackburn Rovers,25,"Sep 3, 1978",Retired
+Defensive Midfield,,"Jan 1, 2004",Steffen Freund,,3990,['Germany'],: Ablöse free transfer,34,"Jan 19, 1970",Retired
+Central Midfield,right,,Tommy Williamson,"1,75m",9219,['England'],,19,"Dec 24, 1984",Unknown
+Central Midfield,right,"Jul 1, 1996",Muzzy Izzet,"1,77m",3123,"['Türkiye', 'England']",: Ablöse €1.20m,29,"Oct 31, 1974",Retired
+Central Midfield,right,"Jul 1, 2003",Lilian Nalis,"1,85m",5923,['France'],Chievo Verona,32,"Sep 29, 1971",Retired
+Central Midfield,right,"Jul 1, 2001",Matt Jones,"1,80m",4252,['Wales'],: Ablöse €4.50m,23,"Sep 1, 1980",Retired
+Central Midfield,right,"Jan 1, 2006",James Wesolowski,"1,72m",34350,"['Australia', 'Poland']",Leicester City U18,16,"Aug 25, 1987",Retired
+Right Midfield,right,"Jul 1, 2003",Keith Gillespie,"1,77m",3827,['Northern Ireland'],Blackburn Rovers,29,"Feb 18, 1975",FC Mindwell
+Right Midfield,right,"Jan 1, 2004",Peter Canero,"1,75m",12730,"['Scotland', 'Spain']",: Ablöse €360k,23,"Jan 18, 1981",Retired
+Right Midfield,right,"Aug 1, 2002",Billy McKinlay,"1,73m",9212,['Scotland'],Clydebank FC,35,"Apr 22, 1969",Retired
+Attacking Midfield,right,"Jul 1, 2003",Paul Brooker,"1,73m",7031,['England'],: Ablöse free transfer,27,"Nov 25, 1976",Retired
+Left Winger,left,"Jan 1, 2004",Steve Guppy,"1,81m",9497,['England'],Celtic FC,35,"Mar 29, 1969",Retired
+Left Winger,left,"Jul 1, 2000",Trevor Benjamin,"1,88m",9206,"['Jamaica', 'England']",Cambridge United,25,"Feb 8, 1979",Retired
+Right Winger,,"Jul 25, 2003",Craig Hignett,,3787,['England'],Blackburn Rovers,34,"Jan 12, 1970",Retired
+Right Winger,right,"Jul 30, 2001",James Scowcroft,"1,85m",4265,['England'],Ipswich Town,28,"Nov 15, 1975",Retired
+Centre-Forward,right,"Jul 11, 2003",Les Ferdinand,"1,80m",3645,"['England', 'St. Lucia']",: Ablöse free transfer,37,"Dec 8, 1966",Retired
+Centre-Forward,,"Aug 1, 2008",Paul Dickov,,9221,['Scotland'],: Ablöse free transfer,31,"Nov 1, 1972",Retired
+Centre-Forward,right,"Jul 1, 2001",Tommy Wright,"1,83m",8057,['England'],Leicester City U18,19,"Sep 28, 1984",Retired
+Centre-Forward,right,"Feb 2, 2004",Lee Morris,"1,78m",13476,['England'],: Ablöse €180k,24,"Apr 30, 1980",Retired
+Centre-Forward,,"Nov 29, 2001",Brian Deane,,8058,"['England', 'St. Kitts & Nevis']",: Ablöse €250k,36,"Feb 7, 1968",Retired
+Centre-Forward,right,"Jul 1, 2004",Chris O'Grady,"1,91m",16836,['England'],Leicester City U18,18,"Jan 25, 1986",Retired
+Centre-Forward,right,"Aug 1, 2003",Marcus Bent,"1,88m",9958,"['England', 'Jamaica']",Ipswich Town,26,"May 19, 1978",Cornard United FC

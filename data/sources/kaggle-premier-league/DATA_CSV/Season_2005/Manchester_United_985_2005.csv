@@ -1,0 +1,35 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 2005",Edwin van der Sar,"1,99m",3516,['Netherlands'],€5.00m,Fulham FC,35,"Oct 29, 1970",Retired
+Goalkeeper,right,"Jul 1, 2003",Tim Howard,"1,91m",4267,"['United States', 'Hungary']",€2.40m,: Ablöse €3.20m,27,"Mar 6, 1979",Retired
+Goalkeeper,right,"Sep 1, 2001",Luke Steele,"1,88m",3539,['England'],€1.30m,Peterborough United,21,"Sep 24, 1984",Peterborough Sports
+Centre-Back,right,"Jul 22, 2002",Rio Ferdinand,"1,89m",3235,['England'],€25.00m,Leeds United,27,"Nov 7, 1978",Retired
+Centre-Back,left,"Jul 1, 2004",Gabriel Heinze,"1,79m",5555,"['Argentina', 'Italy']",€16.25m,: Ablöse €10.00m,28,"Apr 19, 1978",Retired
+Centre-Back,right,"Jan 5, 2006",Nemanja Vidic‎,"1,90m",19726,['Serbia'],€8.50m,: Ablöse €10.50m,24,"Oct 21, 1981",Retired
+Centre-Back,right,"Jul 1, 2001",John O'Shea,"1,92m",3540,['Ireland'],€5.00m,Manchester United Reserves,25,"Apr 30, 1981",Retired
+Centre-Back,right,"Jul 1, 1996",Wes Brown,"1,85m",3405,['England'],€4.80m,Manchester United U18,26,"Oct 13, 1979",Retired
+Centre-Back,right,"Jul 1, 2004",Gerard Piqué,"1,94m",18944,['Spain'],€1.75m,FC Barcelona U19,19,"Feb 2, 1987",Retired
+Left-Back,left,"Jan 10, 2006",Patrice Evra,"1,74m",5285,"['France', 'Senegal']",€7.50m,: Ablöse €8.00m,25,"May 15, 1981",Retired
+Left-Back,,"Sep 10, 1999",Mikaël Silvestre,,3393,"['France', 'Guadeloupe']",€6.75m,: Ablöse €5.70m,28,"Aug 9, 1977",Retired
+Left-Back,left,"Jul 1, 2001",Kieran Richardson,"1,77m",3548,['England'],€5.00m,: Ablöse free transfer,21,"Oct 21, 1984",Retired
+Left-Back,left,"Jan 1, 2000",Quinton Fortune,"1,82m",3541,"['South Africa', 'England']",€2.25m,: Ablöse €2.25m,29,"May 21, 1977",Retired
+Left-Back,left,,Adam Eckersley,"1,80m",37138,['England'],,,20,"Sep 7, 1985",Retired
+Right-Back,right,"Jul 1, 1992",Gary Neville,"1,80m",3403,['England'],€7.00m,Manchester United U18,31,"Feb 18, 1975",Retired
+Right-Back,right,"Jul 1, 2003",Phil Bardsley,"1,80m",15773,"['Scotland', 'England']",€75k,Manchester United U18,21,"Jun 28, 1985",Retired
+Central Midfield,right,"Jan 8, 2012",Paul Scholes,"1,68m",3397,['England'],€11.00m,,31,"Nov 16, 1974",Retired
+Central Midfield,,"Jul 1, 2004",Alan Smith,,3768,['England'],€7.00m,Leeds United,25,"Oct 28, 1980",Retired
+Central Midfield,right,"Jul 1, 2001",Darren Fletcher,"1,84m",3547,['Scotland'],€6.40m,Manchester United U18,22,"Feb 1, 1984",Retired
+Central Midfield,right,"Jul 1, 2004",Liam Miller,"1,73m",9505,['Ireland'],€1.25m,Celtic FC,25,"Feb 13, 1981",---
+Central Midfield,right,"Jul 1, 2005",Ritchie Jones,"1,83m",37140,['England'],€50k,Manchester United U18,19,"Sep 26, 1986",Retired
+Central Midfield,,"Jul 1, 1993",Roy Keane,,3396,['Ireland'],,: Ablöse €4.40m,34,"Aug 10, 1971",Retired
+Central Midfield,right,"Jul 1, 2008",Darron Gibson,"1,83m",42413,"['Ireland', 'Northern Ireland']",,Manchester United Reserves,18,"Oct 25, 1987",Retired
+Left Midfield,left,"Jul 1, 1991",Ryan Giggs,"1,79m",3406,['Wales'],€11.00m,Manchester United U18,32,"Nov 29, 1973",Retired
+Attacking Midfield,both,"Jul 5, 2005",Ji-sung Park,"1,78m",4592,"['Korea, South']",€10.00m,: Ablöse €7.30m,25,"Feb 25, 1981",Retired
+Attacking Midfield,left,"Jul 1, 2005",Lee Martin,"1,80m",15449,['England'],€1.25m,Manchester United U18,19,"Feb 9, 1987",Ramsgate FC
+Centre-Forward,right,"Aug 31, 2004",Wayne Rooney,"1,76m",3332,['England'],€36.00m,: Ablöse €37.00m,20,"Oct 24, 1985",Retired
+Centre-Forward,right,"Jul 1, 2001",Ruud van Nistelrooy,"1,89m",3407,['Netherlands'],€32.00m,: Ablöse €28.50m,29,"Jul 1, 1976",Retired
+Centre-Forward,right,"Aug 31, 2021",Cristiano Ronaldo,"1,88m",8198,['Portugal'],€25.00m,Juventus FC,21,"Feb 5, 1985",Al-Nassr FC
+Centre-Forward,left,"Jan 23, 2004",Louis Saha,"1,82m",4015,"['France', 'Guadeloupe']",€12.00m,Fulham FC,27,"Aug 8, 1978",Retired
+Centre-Forward,left,"Jan 1, 2005",Giuseppe Rossi,"1,73m",19104,"['Italy', 'United States']",€1.85m,Manchester United U18,19,"Feb 1, 1987",Retired
+Centre-Forward,both,"Jul 29, 1996",Ole Gunnar Solskjær,"1,79m",3394,['Norway'],€900k,Molde FK,33,"Feb 26, 1973",Retired
+Centre-Forward,right,,Sylvan Ebanks-Blake,"1,73m",27621,"['England', 'Jamaica']",€300k,,20,"Mar 29, 1986",Retired
+Centre-Forward,right,"Jul 1, 2006",Fraizer Campbell,"1,72m",42411,"['England', 'Jamaica']",,Manchester United U18,18,"Sep 13, 1987",Retired

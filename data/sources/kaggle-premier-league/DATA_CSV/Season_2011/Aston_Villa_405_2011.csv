@@ -1,0 +1,38 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 19, 2011",Shay Given,"1,85m",3146,['Ireland'],€3.00m,: Ablöse €3.75m,36,"Apr 20, 1976",Retired
+Goalkeeper,left,,"Aug 1, 2008",Brad Guzan,"1,93m",39471,"['United States', 'Poland']",€2.00m,CD Chivas USA,27,"Sep 9, 1984",Atlanta United FC
+Goalkeeper,right,,"Aug 12, 2009",Andy Marshall,"1,88m",13249,['England'],€250k,Coventry City,37,"Apr 14, 1975",Retired
+Centre-Back,right,,"Sep 1, 2009",James Collins,"1,88m",12691,['Wales'],€5.00m,: Ablöse €5.70m,28,"Aug 23, 1983",Retired
+Centre-Back,right,,"Aug 12, 2008",Carlos Cuéllar,"1,90m",16576,['Spain'],€4.50m,: Ablöse €10.00m,30,"Aug 23, 1981",Retired
+Centre-Back,right,,"Sep 1, 2009",Richard Dunne,"1,88m",3807,['Ireland'],€3.50m,: Ablöse €6.80m,32,"Sep 21, 1979",Retired
+Centre-Back,left,,"Jul 1, 2010",Ciaran Clark,"1,85m",98240,"['Ireland', 'England']",€3.50m,: Ablöse -,22,"Sep 26, 1989",Without Club
+Centre-Back,left,,"Jul 1, 2011",Nathan Baker,"1,89m",62638,['England'],€750k,: Ablöse -,21,"Apr 23, 1991",Retired
+Centre-Back,left,,"Jul 1, 2009",Shane Lowry,"1,90m",61576,"['Australia', 'Ireland']",€500k,: Ablöse -,23,"Jun 12, 1989",Johor Darul Ta'zim
+Centre-Back,left,,,Derrick Williams,"1,80m",128287,"['Ireland', 'United States']",,,19,"Jan 17, 1993",Atlanta United FC
+Left-Back,left,,"Aug 27, 2009",Stephen Warnock,"1,78m",3308,['England'],€4.50m,Blackburn Rovers,30,"Dec 12, 1981",Retired
+Left-Back,left,,"Jan 1, 2012",Enda Stevens,"1,83m",85706,['Ireland'],€250k,Shamrock Rovers,21,"Jul 9, 1990",Stoke City
+Right-Back,right,Knee injury - Return unknown,"Aug 31, 2011",Alan Hutton,"1,85m",9619,['Scotland'],€6.00m,Tottenham Hotspur,27,"Nov 30, 1984",Retired
+Right-Back,right,,"Aug 8, 2008",Luke Young,"1,83m",3271,['England'],€1.50m,Middlesbrough FC,32,"Jul 19, 1979",Retired
+Right-Back,right,,"Jul 1, 2007",Eric Lichaj,"1,80m",61575,"['United States', 'Poland']",€1.50m,North Carolina Tar Heels (University of NC),23,"Nov 17, 1988",Retired
+Right-Back,right,,"Aug 1, 2009",Habib Bèye,"1,82m",3923,"['Senegal', 'France']",€250k,Newcastle United,34,"Oct 19, 1977",Retired
+Defensive Midfield,right,,"Jan 15, 2011",Jean Makoun,"1,73m",5648,"['Cameroon', 'France']",€6.00m,: Ablöse €6.20m,29,"May 29, 1983",Retired
+Defensive Midfield,right,,"Jul 1, 2010",Chris Herd,"1,88m",61572,"['Australia', 'Scotland']",€2.50m,: Ablöse -,23,"Apr 4, 1989",Retired
+Defensive Midfield,right,,"Jul 1, 2009",Jonathan Hogg,"1,76m",61573,['England'],€500k,: Ablöse -,23,"Dec 6, 1988",Huddersfield Town
+Central Midfield,right,,"Aug 1, 2011",Jermaine Jenas,"1,81m",3461,['England'],€6.50m,Tottenham Hotspur,29,"Feb 18, 1983",Retired
+Central Midfield,left,,"Jul 1, 2010",Barry Bannan,"1,69m",61561,['Scotland'],€5.00m,: Ablöse -,22,"Dec 1, 1989",Sheffield Wednesday
+Central Midfield,left,,"Aug 4, 2009",Fabian Delph,"1,74m",50362,"['England', 'Guyana']",€3.50m,Leeds United,22,"Nov 21, 1989",Retired
+Central Midfield,right,,"Jul 1, 2011",Gary Gardner,"1,86m",110861,['England'],€1.50m,: Ablöse -,20,"Jun 29, 1992",Cambridge United
+Central Midfield,right,,"Aug 1, 2006",Stiliyan Petrov,"1,80m",3252,['Bulgaria'],,Celtic FC,32,"Jul 5, 1979",Retired
+Central Midfield,left,,"Jan 1, 2012",Samir Carruthers,"1,73m",146488,"['Ireland', 'England']",,: Ablöse -,19,"Apr 4, 1993",Dartford FC
+Right Midfield,right,,"Jul 1, 2009",Marc Albrighton,"1,75m",61560,['England'],€5.00m,: Ablöse -,22,"Nov 18, 1989",Retired
+Attacking Midfield,right,,"Aug 18, 2010",Stephen Ireland,"1,73m",34838,['Ireland'],€5.50m,: Ablöse €9.70m,25,"Aug 22, 1986",Retired
+Attacking Midfield,right,,"Jul 1, 2011",Andreas Weimann,"1,79m",49693,['Austria'],€1.50m,: Ablöse -,20,"Aug 5, 1991",Blackburn Rovers
+Attacking Midfield,left,,"Jul 1, 2011",Daniel Johnson,"1,74m",169092,"['Jamaica', 'England']",,: Ablöse -,19,"Oct 8, 1992",Fatih Karagümrük
+Left Winger,right,,"Jul 1, 2013",Jack Grealish,"1,80m",203460,"['England', 'Ireland']",,: Ablöse -,16,"Sep 10, 1995",Manchester City
+Right Winger,left,heart problems - Return unknown,"Jul 30, 2011",Charles N'Zogbia,"1,71m",22165,"['France', 'DR Congo']",€9.00m,Wigan Athletic,26,"May 28, 1986",Retired
+Second Striker,right,,"Jul 1, 2012",Graham Burke,"1,80m",177892,['Ireland'],,: Ablöse -,18,"Sep 21, 1993",Shamrock Rovers
+Centre-Forward,right,,"Jan 18, 2011",Darren Bent,"1,80m",13239,"['England', 'Jamaica']",€20.00m,Sunderland AFC,28,"Feb 6, 1984",Retired
+Centre-Forward,right,,"Jul 1, 2005",Gabriel Agbonlahor,"1,83m",37148,"['England', 'Nigeria']",€12.00m,: Ablöse -,25,"Oct 13, 1986",Retired
+Centre-Forward,right,,"Jan 8, 2012",Robbie Keane,"1,75m",3144,['Ireland'],€4.50m,Los Angeles Galaxy,31,"Jul 8, 1980",Retired
+Centre-Forward,right,,"Jul 1, 2008",Nathan Delfouneso,"1,86m",62642,"['England', 'Nigeria']",€2.50m,: Ablöse -,21,"Feb 2, 1991",Without Club
+Centre-Forward,right,,"Jan 24, 2009",Emile Heskey,"1,88m",3142,"['England', 'Antigua and Barbuda']",€1.00m,Wigan Athletic,34,"Jan 11, 1978",Retired

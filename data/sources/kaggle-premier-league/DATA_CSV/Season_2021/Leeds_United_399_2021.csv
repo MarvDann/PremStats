@@ -1,0 +1,36 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,,"Jul 27, 2020",Illan Meslier,"1,97m",542586,['France'],€20.00m,,FC Lorient,22,"Mar 2, 2000",Leeds United
+Goalkeeper,left,,"Jul 31, 2021",Kristoffer Klaesson,"1,89m",418561,['Norway'],€2.00m,,Vålerenga Fotball Elite,21,"Nov 27, 2000",Aarhus GF
+Centre-Back,right,,"Sep 24, 2020",Diego Llorente,"1,86m",246291,['Spain'],€18.00m,"Returned after loan spell with AS Roma; date: Jun 30, 2024; fee: End of loan",Real Sociedad,28,"Aug 16, 1993",Real Betis Balompié
+Centre-Back,right,,"Aug 29, 2020",Robin Koch,"1,91m",328784,['Germany'],€16.00m,"Returned after loan spell with Eintracht Frankfurt; date: Jun 30, 2024; fee: End of loan",SC Freiburg,25,"Jul 17, 1996",Eintracht Frankfurt
+Centre-Back,left,,"Jan 1, 2020",Pascal Struijk,"1,90m",410708,"['Netherlands', 'Belgium']",€15.00m,,Leeds United U21,22,"Aug 11, 1999",Leeds United
+Centre-Back,left,,"Aug 13, 2014",Liam Cooper,"1,86m",75067,"['Scotland', 'England']",€7.00m,,Chesterfield FC,30,"Aug 30, 1991",CSKA-Sofia
+Centre-Back,right,,"Jul 1, 2021",Charlie Cresswell,"1,90m",597659,['England'],€3.00m,,Leeds United U21,19,"Aug 17, 2002",FC Toulouse
+Centre-Back,right,,,Kris Moore,,746067,['England'],,,,18,"Nov 13, 2003",Leeds United U21
+Left-Back,left,,"Jul 6, 2021",Junior Firpo,"1,84m",374139,"['Dominican Republic', 'Spain']",€12.00m,,FC Barcelona,25,"Aug 22, 1996",Leeds United
+Left-Back,left,,"Jul 4, 2018",Leif Davis,"1,82m",596446,['England'],€800k,,: Ablöse ?,22,"Dec 31, 1999",Ipswich Town
+Left-Back,left,,"Aug 27, 2021",Leo Fuhr Hjelde,"1,90m",661208,"['Norway', 'England']",€800k,,Celtic FC B,18,"Aug 26, 2003",Sunderland AFC
+Left-Back,left,,"Jul 1, 2019",Liam McCarron,"1,75m",614082,"['Scotland', 'England']",€500k,,Carlisle United,21,"Mar 7, 2001",Northampton Town
+Right-Back,right,,"Aug 11, 2016",Luke Ayling,"1,83m",67420,['England'],€4.00m,,: Ablöse €870k,30,"Aug 25, 1991",Middlesbrough FC
+Right-Back,right,,"Jul 1, 2021",Cody Drameh,"1,81m",531957,"['England', 'The Gambia']",€3.00m,,Leeds United U21,20,"Dec 8, 2001",Hull City
+Right-Back,right,,"Jul 1, 2018",Jamie Shackleton,"1,68m",534700,['England'],€2.50m,,Leeds United U21,22,"Oct 8, 1999",Sheffield United
+Right-Back,right,,"Jul 1, 2023",Archie Gray,"1,87m",922693,"['England', 'Scotland']",,,Leeds United U18,16,"Mar 12, 2006",Tottenham Hotspur
+Defensive Midfield,right,,"Jul 1, 2015",Kalvin Phillips,"1,79m",351749,"['England', 'Jamaica']",€50.00m,,Leeds United U21,26,"Dec 2, 1995",Ipswich Town
+Defensive Midfield,right,,,Jack Jenkins,"1,90m",734375,['England'],€150k,,,20,"Mar 23, 2002",FC Halifax Town
+Defensive Midfield,right,,,Nohan Kenneh,"1,90m",581677,"['Liberia', 'England']",,,,19,"Jan 10, 2003",Hibernian FC
+Central Midfield,right,,"Jul 1, 2017",Mateusz Klich,"1,83m",92738,['Poland'],€3.00m,,Twente Enschede FC,32,"Jun 13, 1990",D.C. United
+Central Midfield,right,,"Jan 18, 2018",Adam Forshaw,"1,75m",121257,['England'],€2.00m,,Middlesbrough FC,30,"Oct 8, 1991",Plymouth Argyle
+Central Midfield,left,,,Lewis Bate,"1,70m",587003,['England'],€1.00m,,,19,"Oct 28, 2002",Stockport County
+Left Midfield,right,,"Aug 4, 2015",Stuart Dallas,"1,83m",158764,['Northern Ireland'],€4.00m,,: Ablöse €1.90m,31,"Apr 19, 1991",Retired
+Left Midfield,right,,,Stuart McKinstry,"1,79m",592474,['Scotland'],€200k,,,19,"Sep 18, 2002",Hamilton Academical FC
+Attacking Midfield,right,,"Jan 31, 2018",Tyler Roberts,"1,80m",296986,"['Wales', 'England']",€8.00m,,West Bromwich Albion U21,23,"Jan 12, 1999",Northampton Town
+Attacking Midfield,right,,"Jan 1, 2022",Sam Greenwood,"1,80m",532178,['England'],€2.50m,,Leeds United U21,20,"Jan 26, 2002",Preston North End
+Left Winger,left,,"Oct 5, 2020",Raphinha,"1,76m",411295,"['Brazil', 'Italy']",€45.00m,,Stade Rennais FC,25,"Dec 14, 1996",FC Barcelona
+Left Winger,right,,"Jul 1, 2021",Crysencio Summerville,"1,74m",474701,"['Netherlands', 'Suriname']",€2.00m,,Leeds United U21,20,"Oct 30, 2001",West Ham United
+Right Winger,right,,"Aug 31, 2021",Daniel James,"1,71m",319301,"['Wales', 'England']",€18.00m,,Manchester United,24,"Nov 10, 1997",Leeds United
+Right Winger,left,,"Jul 2, 2021",Jack Harrison,"1,75m",417346,['England'],€18.00m,,Manchester City,25,"Nov 20, 1996",Everton FC
+Right Winger,left,,"Jul 1, 2020",Hélder Costa,"1,79m",173900,"['Angola', 'Portugal']",€5.00m,,Wolverhampton Wanderers,28,"Jan 12, 1994",Estoril Praia
+Right Winger,left,,"Jan 24, 2020",Ian Poveda,"1,67m",392763,"['Colombia', 'England']",€2.00m,,Manchester City U23,22,"Feb 9, 2000",Sunderland AFC
+Centre-Forward,left,,"Jul 31, 2018",Patrick Bamford,"1,85m",183334,"['England', 'Ireland']",€16.00m,,Middlesbrough FC,28,"Sep 5, 1993",Leeds United
+Centre-Forward,left,"Finger injury - Return expected on Dec 17, 2024","Aug 29, 2020",Rodrigo,"1,82m",131505,"['Spain', 'Brazil']",€12.00m,,Valencia CF,31,"Mar 6, 1991",Al-Gharafa SC
+Centre-Forward,left,,"Aug 10, 2020",Joe Gelhardt,"1,79m",503980,['England'],€6.00m,,Wigan Athletic,20,"May 4, 2002",Leeds United

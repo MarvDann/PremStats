@@ -1,0 +1,41 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,,"Jul 1, 2018",Rui Patrício,"1,90m",45026,['Portugal'],€20.00m,Sporting CP,31,"Feb 15, 1988",Atalanta BC
+Goalkeeper,right,,"Jul 10, 2017",John Ruddy,"1,92m",29712,['England'],€3.00m,: Ablöse free transfer,32,"Oct 24, 1986",Newcastle United
+Goalkeeper,left,,"Jul 11, 2017",Will Norris,"1,95m",285033,['England'],€250k,Cambridge United,25,"Aug 12, 1993",Portsmouth FC
+Goalkeeper,right,,"Aug 29, 2016",Jack Ruddy,"1,95m",346175,['Scotland'],€100k,Bury FC,21,"Dec 27, 1997",Without Club
+Goalkeeper,right,,"Jan 1, 2017",Harry Burgoyne,"1,93m",285583,['England'],,Wolverhampton Wanderers U21,22,"Dec 28, 1996",Morecambe FC
+Centre-Back,right,,"Jul 1, 2018",Willy Boly,"1,95m",142310,"[""Cote d'Ivoire"", 'France']",€12.00m,FC Porto,28,"Feb 3, 1991",Nottingham Forest
+Centre-Back,right,,"Jul 3, 2015",Conor Coady,"1,85m",128901,['England'],€10.00m,: Ablöse €2.80m,26,"Feb 25, 1993",Leicester City
+Centre-Back,right,,"Jul 1, 2017",Ryan Bennett,"1,88m",67252,['England'],€7.00m,: Ablöse free transfer,29,"Mar 6, 1990",Retired
+Centre-Back,left,"No eligibility - until Dec 31, 2024 - Qatar Stars League","Aug 30, 2016",Romain Saïss,"1,88m",204198,"['Morocco', 'France']",€5.00m,: Ablöse €4.00m,29,"Mar 26, 1990",Al-Sadd SC
+Centre-Back,right,,"Jul 1, 2017",Roderick Miranda,"1,93m",87856,"['Portugal', 'Brazil']",€1.75m,Rio Ave FC,28,"Mar 30, 1991",Melbourne Victory
+Centre-Back,left,"No eligibility - until Jan 31, 2025 - UEFA Champions League; Knee surgery - Return unknown","Jan 31, 2014",Kortney Hause,"1,91m",233124,"['England', 'Bermuda']",€1.00m,Wycombe Wanderers,23,"Jul 16, 1995",Aston Villa
+Centre-Back,right,,"Jul 1, 2010",Ethan Ebanks-Landell,"1,88m",129067,"['England', 'Jamaica']",€250k,Wolverhampton Wanderers U18,26,"Dec 16, 1992",Rochdale AFC
+Centre-Back,left,,"Jul 1, 2015",Sylvain Deslandes,"1,90m",272621,"['France', 'Cameroon']",€100k,: Ablöse free transfer,22,"Apr 25, 1997",Omonia 29is Maiou
+Centre-Back,left,,,Cameron John,"1,81m",425894,['England'],,,19,"Aug 24, 1999",York City
+Centre-Back,left,,"Aug 9, 2018",Maximilian Kilman,"1,94m",525247,"['England', 'Ukraine']",,: Ablöse €4.75m,22,"May 23, 1997",West Ham United
+Left-Back,left,,"Jul 1, 2018",Rúben Vinagre,"1,74m",357158,['Portugal'],€7.00m,: Ablöse €2.25m,20,"Apr 9, 1999",Legia Warszawa
+Left-Back,left,,"Jul 1, 2018",Ryan Giles,"1,83m",504581,['England'],,Wolverhampton Wanderers U18,19,"Jan 26, 2000",Hull City
+Right-Back,both,,"Jan 31, 2019",Jonny Otto,"1,75m",175446,['Spain'],€20.00m,: Ablöse €21.00m,25,"Mar 3, 1994",PAOK Thessaloniki
+Right-Back,right,,"Jul 20, 2023",Matt Doherty,"1,85m",171679,['Ireland'],€15.00m,: Ablöse free transfer,27,"Jan 16, 1992",Wolverhampton Wanderers
+Right-Back,right,Achilles heel problems - Return unknown,"Jul 1, 2017",Phil Ofosu-Ayeh,"1,83m",133858,"['Ghana', 'Germany']",€300k,Eintracht Braunschweig,27,"Sep 15, 1991",PSS Sleman
+Defensive Midfield,right,,"Jul 8, 2017",Rúben Neves,"1,80m",225161,['Portugal'],€45.00m,FC Porto,22,"Mar 13, 1997",Al-Hilal SFC
+Defensive Midfield,right,Ankle injury - Return unknown,"Jul 1, 2019",Leander Dendoncker,"1,88m",168157,['Belgium'],€18.00m,: Ablöse €13.80m,24,"Apr 15, 1995",RSC Anderlecht
+Defensive Midfield,right,,"Aug 31, 2017",Ming-Yang Yang,"1,75m",184382,"['Switzerland', 'China']",€250k,FC Winterthur,23,"Jul 11, 1995",Nantong Zhiyun
+Defensive Midfield,,,,Elliot Watt,"1,75m",403574,"['Scotland', 'England']",,,19,"Mar 11, 2000",Burton Albion
+Central Midfield,right,,"Jul 24, 2018",João Moutinho,"1,70m",29364,['Portugal'],€10.00m,: Ablöse €5.60m,32,"Sep 8, 1986",SC Braga
+Central Midfield,right,,"Jan 1, 2017",Connor Ronan,"1,71m",337787,"['Ireland', 'England']",€500k,Wolverhampton Wanderers U21,21,"Mar 6, 1998",Colorado Rapids
+Attacking Midfield,right,,"Jan 1, 2017",Morgan Gibbs-White,"1,71m",429014,"['England', 'Jamaica']",€8.00m,Wolverhampton Wanderers U18,19,"Jan 27, 2000",Nottingham Forest
+Left Winger,right,,"Aug 31, 2016",Ivan Cavaleiro,"1,75m",149716,"['Angola', 'Portugal']",€10.00m,: Ablöse €8.00m,25,"Oct 18, 1993",Red Bull Bragantino
+Left Winger,right,,,Pedro Gonçalves,"1,73m",426620,['Portugal'],,,21,"Jun 28, 1998",Sporting CP
+Right Winger,left,,"Jan 30, 2017",Hélder Costa,"1,79m",173900,"['Angola', 'Portugal']",€15.00m,SL Benfica,25,"Jan 12, 1994",Estoril Praia
+Right Winger,right,,"Aug 8, 2018",Adama Traoré,"1,78m",204103,"['Spain', 'Mali']",€15.00m,Middlesbrough FC,23,"Jan 25, 1996",Fulham FC
+Right Winger,right,,"Jan 5, 2015",Jordan Graham,"1,82m",183283,"['England', 'Ireland']",€500k,: Ablöse ?,24,"Mar 5, 1995",Leyton Orient
+Centre-Forward,right,,"Jul 1, 2019",Raúl Jiménez,"1,87m",206040,['Mexico'],€35.00m,SL Benfica,28,"May 5, 1991",Fulham FC
+Centre-Forward,right,,"Jul 1, 2018",Diogo Jota,"1,78m",340950,['Portugal'],€35.00m,: Ablöse €14.00m,22,"Dec 4, 1996",Liverpool FC
+Centre-Forward,right,,"Jul 1, 2018",Léo Bonatini,"1,85m",181781,"['Brazil', 'Italy']",€4.00m,: Ablöse €4.00m,25,"Mar 28, 1994",Atlético de San Luis
+Centre-Forward,right,Hamstring injury - Return unknown,"Jan 3, 2018",Rafa Mir,"1,91m",361254,['Spain'],€3.00m,Valencia Mestalla,22,"Jun 18, 1997",Valencia CF
+Centre-Forward,right,,"Jul 1, 2015",Bright Enobakhare,"1,80m",345772,"['Nigeria', 'England']",€500k,Wolverhampton Wanderers U18,21,"May 18, 1998",Al-Bidda SC
+Centre-Forward,left,,"Jan 2, 2016",Michal Zyro,"1,89m",67431,['Poland'],€250k,Legia Warszawa,26,"Sep 20, 1992",Retired
+Centre-Forward,right,,,Benny Ashley-Seal,"1,85m",322089,['England'],€150k,,20,"Nov 21, 1998",Without Club
+Centre-Forward,right,,,Niall Ennis,"1,78m",369171,"['England', 'Jamaica']",,,20,"May 20, 1999",Stoke City

@@ -1,0 +1,38 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jan 1, 2004",Boaz Myhill,"1,91m",3838,"['Wales', 'United States']",€3.50m,: Ablöse €75k,27,"Nov 9, 1982",Retired
+Goalkeeper,right,"Jul 1, 2004",Matt Duke,"1,95m",36885,['England'],€750k,Burton Albion,32,"Jul 16, 1977",Retired
+Goalkeeper,right,"Jul 1, 2008",Tony Warner,"1,93m",10259,"['Trinidad and Tobago', 'England']",€250k,Fulham FC,36,"May 11, 1974",Retired
+Centre-Back,right,"Jul 6, 2006",Michael Turner,"1,93m",12127,['England'],€5.50m,: Ablöse €475k,26,"Nov 9, 1983",Retired
+Centre-Back,right,"Jan 23, 2009",Kamil Zayatte,"1,87m",33820,"['Guinea', 'France']",€3.50m,BSC Young Boys,25,"Mar 7, 1985",Retired
+Centre-Back,right,"Aug 31, 2009",Paul McShane,"1,83m",24636,['Ireland'],€3.00m,Sunderland AFC,24,"Jan 6, 1986",Retired
+Centre-Back,left,"Aug 1, 2008",Anthony Gardner,"1,96m",4053,"['England', 'Jamaica']",€2.00m,Tottenham Hotspur,29,"Sep 19, 1980",Retired
+Centre-Back,right,"Sep 1, 2009",Ibrahima Sonko,"1,90m",36813,"['Senegal', 'France']",€1.00m,Stoke City,29,"Jan 22, 1981",Retired
+Centre-Back,right,"Jul 1, 2009",Steven Mouyokolo,"1,90m",58188,"['France', 'Congo']",€1.00m,US Boulogne,23,"Jan 24, 1987",Retired
+Centre-Back,left,"Jul 1, 2009",Liam Cooper,"1,86m",75067,"['Scotland', 'England']",€50k,Hull City U18,18,"Aug 30, 1991",CSKA-Sofia
+Left-Back,left,"Jul 1, 2003",Andy Dawson,"1,75m",36860,['England'],€2.50m,Scunthorpe United,31,"Oct 20, 1978",Retired
+Right-Back,right,"Jul 11, 2008",Bernard Mendy,"1,80m",3707,"['France', 'Senegal']",€2.50m,: Ablöse free transfer,28,"Aug 20, 1981",Retired
+Defensive Midfield,right,"Jul 1, 2002",Ian Ashbee,"1,85m",36857,['England'],€2.50m,Cambridge United,33,"Sep 6, 1976",Retired
+Defensive Midfield,right,"Jul 1, 2008",George Boateng,"1,76m",3358,"['Netherlands', 'Ghana']",€2.00m,Middlesbrough FC,34,"Sep 5, 1975",Retired
+Defensive Midfield,right,"Feb 1, 2007",Nathan Doyle,"1,80m",13452,['England'],€300k,: Ablöse €225k,23,"Jan 12, 1987",Retired
+Central Midfield,right,"Jan 1, 2009",Jimmy Bullard,"1,78m",13510,"['England', 'Germany']",€4.50m,Fulham FC,31,"Oct 23, 1978",Retired
+Central Midfield,right,"Jul 14, 2006",Dean Marney,"1,83m",4055,['England'],€3.00m,Tottenham Hotspur,26,"Jan 31, 1984",Retired
+Central Midfield,both,"Aug 6, 2009",Seyi Olofinjana,"1,93m",18719,['Nigeria'],€3.00m,Stoke City,30,"Jun 30, 1980",Retired
+Central Midfield,right,"Jul 1, 2006",Nicky Featherstone,"1,70m",45607,['England'],€150k,Hull City U18,21,"Sep 22, 1988",Hartlepool United
+Central Midfield,right,"Jul 1, 2006",Will Atkinson,"1,78m",61427,['England'],€50k,Hull City U18,21,"Oct 14, 1988",Mickleover FC
+Central Midfield,left,"Jul 1, 2009",Tom Cairney,"1,85m",123275,"['Scotland', 'England']",,Hull City U18,19,"Jan 20, 1991",Fulham FC
+Left Midfield,left,"Aug 13, 2009",Stephen Hunt,"1,74m",36799,['Ireland'],€5.00m,Reading FC,28,"Aug 1, 1981",Retired
+Left Midfield,left,"Jan 15, 2009",Kevin Kilbane,"1,83m",4135,"['Ireland', 'England']",€2.00m,Wigan Athletic,33,"Feb 1, 1977",Retired
+Left Midfield,left,"Jul 1, 2008",Péter Halmosi,"1,82m",5001,['Hungary'],€1.00m,Plymouth Argyle,30,"Sep 25, 1979",Király SE
+Left Midfield,,"Jul 1, 2004",Nick Barmby,,3222,['England'],€500k,Leeds United,36,"Feb 11, 1974",Retired
+Attacking Midfield,right,"Jul 1, 2008",Geovanni,"1,70m",7609,['Brazil'],€4.00m,: Ablöse free transfer,30,"Jan 11, 1980",Retired
+Attacking Midfield,right,"Jul 1, 2008",Jamie Devitt,"1,78m",85662,['Ireland'],€100k,Hull City U18,19,"Jul 6, 1990",Retired
+Second Striker,right,"Jul 1, 2007",Richard García,"1,80m",3695,"['Australia', 'Uruguay']",€2.00m,Colchester United,28,"Sep 4, 1981",Retired
+Second Striker,right,"Aug 13, 2009",Kamel Ghilas,"1,77m",40928,"['Algeria', 'France']",€2.00m,Celta de Vigo,26,"Mar 9, 1984",Retired
+Centre-Forward,both,"Jan 1, 2010",Amr Zaki,"1,86m",38178,['Egypt'],€4.00m,Zamalek SC,27,"Apr 1, 1983",Retired
+Centre-Forward,right,"Aug 1, 2009",Jan Vennegoor of Hesselink,"1,91m",4362,['Netherlands'],€3.50m,Celtic FC,31,"Nov 7, 1978",Retired
+Centre-Forward,right,"Aug 6, 2009",Jozy Altidore,"1,85m",39378,"['United States', 'Haiti']",€3.00m,Villarreal CF,20,"Nov 6, 1989",MLS Pool
+Centre-Forward,,"Sep 1, 2008",Daniel Cousin,,6261,"['Gabon', 'France']",€2.00m,: Ablöse €1.90m,33,"Feb 7, 1977",Retired
+Centre-Forward,right,"Mar 7, 2008",Craig Fagan,"1,80m",3928,"['England', 'Jamaica']",€2.00m,: Ablöse €1.03m,27,"Dec 11, 1982",Retired
+Centre-Forward,right,"Aug 1, 2007",Caleb Folan,"1,88m",46816,"['Ireland', 'England']",€1.00m,Wigan Athletic,27,"Oct 26, 1982",Retired
+Striker,,"Jul 1, 2007",Ryan Kendall,"1,85m",85671,['England'],€50k,Hull City U18,20,"Sep 14, 1989",Unknown
+Centre-Forward,right,"Jul 1, 2010",Mark Cullen,"1,76m",127802,['England'],,Hull City U18,18,"Apr 21, 1992",Bamber Bridge FC

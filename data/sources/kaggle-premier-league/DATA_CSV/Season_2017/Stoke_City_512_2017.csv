@@ -1,0 +1,36 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jan 31, 2013",Jack Butland,"1,96m",128899,['England'],€22.00m,: Ablöse €3.80m,25,"Mar 10, 1993",Rangers FC
+Goalkeeper,right,,"Jan 4, 2017",Lee Grant,"1,93m",13460,['England'],€1.00m,Derby County,35,"Jan 27, 1983",Retired
+Goalkeeper,right,,"Jul 1, 2015",Jakob Haugaard,"1,99m",138335,['Denmark'],€500k,FC Midtjylland,26,"May 1, 1992",Tromsø IL
+Centre-Back,right,,"Jul 21, 2017",Kurt Zouma,"1,90m",157509,"['France', 'Central African Republic']",€15.00m,Chelsea FC,23,"Oct 27, 1994",Al-Orobah FC
+Centre-Back,left,,"Aug 29, 2017",Kevin Wimmer,"1,87m",122675,['Austria'],€10.00m,Tottenham Hotspur,25,"Nov 15, 1992",Slovan Bratislava
+Centre-Back,left,Muscle injury - Return unknown,"Aug 10, 2017",Bruno Martins Indi,"1,85m",112052,"['Netherlands', 'Portugal']",€10.00m,FC Porto,26,"Feb 8, 1992",AZ Alkmaar
+Centre-Back,right,,"Jan 18, 2008",Ryan Shawcross,"1,91m",45861,"['England', 'Wales']",€10.00m,Manchester United Reserves,30,"Oct 4, 1987",Retired
+Centre-Back,left,,"Jul 1, 2013",Erik Pieters,"1,83m",43763,['Netherlands'],€6.00m,: Ablöse €3.60m,29,"Aug 7, 1988",Without Club
+Centre-Back,,,"Jul 1, 2015",Philipp Wollscheid,,53173,['Germany'],€2.50m,Bayer 04 Leverkusen,29,"Mar 6, 1989",Retired
+Centre-Back,right,,"Aug 8, 2012",Geoff Cameron,"1,90m",31642,['United States'],€2.50m,: Ablöse €2.15m,32,"Jul 11, 1985",Retired
+Centre-Back,left,,"Aug 5, 2016",Ryan Sweeney,"1,93m",347666,"['Ireland', 'England']",€250k,: Ablöse €295k,21,"Apr 15, 1997",Burton Albion
+Centre-Back,right,,"Sep 29, 2016",Harry Souttar,"1,98m",298091,"['Australia', 'Scotland']",€200k,: Ablöse €3.62m,19,"Oct 22, 1998",Sheffield United
+Left-Back,left,,"Jan 18, 2018",Konstantinos Stafylidis,"1,78m",148967,['Greece'],€3.50m,FC Augsburg,24,"Dec 2, 1993",Without Club
+Left-Back,left,,"Jul 5, 2017",Josh Tymon,"1,80m",419929,['England'],€2.00m,: Ablöse free transfer,19,"May 22, 1999",Swansea City
+Right-Back,right,,"Jan 9, 2018",Moritz Bauer,"1,81m",159692,"['Austria', 'Switzerland']",€5.00m,: Ablöse €6.20m,26,"Jan 25, 1992",Without Club
+Right-Back,both,,"Jul 12, 2015",Glen Johnson,"1,82m",3881,['England'],€2.50m,: Ablöse free transfer,33,"Aug 23, 1984",Retired
+Right-Back,right,,"Jul 1, 2017",Tom Edwards,"1,76m",430788,['England'],€1.00m,Stoke City U21,19,"Jan 22, 1999",Salford City
+Central Midfield,right,,"Jul 25, 2016",Joe Allen,"1,70m",51452,['Wales'],€18.00m,: Ablöse €15.50m,28,"Mar 14, 1990",Swansea City
+Central Midfield,right,,"Jan 31, 2018",Badou Ndiaye,"1,80m",211325,['Senegal'],€15.00m,Galatasaray,27,"Oct 27, 1990",Gaziantep FK
+Central Midfield,left,,"Aug 31, 2012",Charlie Adam,"1,85m",28990,['Scotland'],€2.50m,: Ablöse €6.20m,32,"Dec 10, 1985",Retired
+Central Midfield,right,,"Jul 1, 2017",Darren Fletcher,"1,84m",3547,['Scotland'],€2.00m,West Bromwich Albion,34,"Feb 1, 1984",Retired
+Right Midfield,right,,"Jul 1, 2020",Lasse Sørensen,"1,85m",357967,['Denmark'],,Stoke City U21,18,"Oct 21, 1999",Huddersfield Town
+Attacking Midfield,left,,"Aug 11, 2015",Xherdan Shaqiri,"1,69m",86792,"['Switzerland', 'Kosovo']",€18.00m,: Ablöse €17.00m,26,"Oct 10, 1991",FC Basel 1893
+Attacking Midfield,right,,"Jul 27, 2015",Ibrahim Afellay,"1,81m",15760,"['Netherlands', 'Morocco']",€1.50m,FC Barcelona,32,"Apr 2, 1986",Retired
+Attacking Midfield,right,,"Jan 14, 2014",Stephen Ireland,"1,73m",34838,['Ireland'],€1.00m,: Ablöse free transfer,31,"Aug 22, 1986",Retired
+Left Winger,right,,"Aug 16, 2017",Jesé,"1,78m",134936,['Spain'],€7.50m,: Ablöse free transfer,25,"Feb 26, 1993",Johor Darul Ta'zim
+Left Winger,right,,"Jul 25, 2016",Ramadan Sobhi,"1,83m",312017,['Egypt'],€7.00m,: Ablöse €5.00m,21,"Jan 23, 1997",Pyramids FC
+Left Winger,right,,"Jul 1, 2018",Thibaud Verlinden,"1,74m",338673,"['Belgium', 'France']",€250k,Stoke City U21,18,"Jul 9, 1999",Beerschot VA
+Second Striker,right,,"Jul 22, 2014",Bojan Krkic,"1,70m",44675,"['Spain', 'Serbia']",€1.50m,FC Barcelona,27,"Aug 28, 1990",Retired
+Centre-Forward,right,,"Jan 20, 2017",Saido Berahino,"1,80m",128897,"['Burundi', 'England']",€8.00m,West Bromwich Albion,24,"Aug 4, 1993",Rajasthan United
+Centre-Forward,right,,"Aug 7, 2017",Eric-Maxim Choupo-Moting,"1,91m",45660,"['Cameroon', 'Germany']",€8.00m,FC Schalke 04,29,"Mar 23, 1989",Without Club
+Centre-Forward,right,,"Jul 1, 2014",Mame Diouf,"1,85m",62049,['Senegal'],€7.00m,: Ablöse free transfer,30,"Dec 16, 1987",Ankara Keciörengücü
+Centre-Forward,right,,"Aug 31, 2011",Peter Crouch,"2,01m",4072,"['England', 'Ireland']",€1.00m,Tottenham Hotspur,37,"Jan 30, 1981",Retired
+Centre-Forward,right,ankle sprain - Return unknown,,Julien Ngoy,"1,85m",286005,"['Belgium', 'DR Congo']",€250k,,20,"Nov 2, 1997",KV Mechelen
+Centre-Forward,left,,"Jul 1, 2018",Tyrese Campbell,"1,85m",382554,"['England', 'Jamaica']",,Stoke City U21,18,"Dec 28, 1999",Sheffield United

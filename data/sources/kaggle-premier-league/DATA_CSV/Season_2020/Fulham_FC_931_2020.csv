@@ -1,0 +1,39 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Sep 9, 2020",Alphonse Areola,"1,95m",120629,"['France', 'Philippines']",€17.00m,,: Ablöse ?,28,"Feb 27, 1993",West Ham United
+Goalkeeper,right,,"Jul 1, 2019",Marek Rodák,"1,94m",186901,['Slovakia'],€5.00m,,Fulham FC U21,24,"Dec 13, 1996",Al-Ettifaq FC
+Goalkeeper,right,"No eligibility - until Dec 31, 2024 - UEFA Conference League","Jul 1, 2012",Marcus Bettinelli,"1,93m",116648,"['England', 'Italy']",€2.50m,,Fulham FC U21,29,"May 24, 1992",Chelsea FC
+Goalkeeper,,,"Jul 24, 2018",Fabri,"1,84m",45882,"['Spain', 'Uruguay']",€600k,,Besiktas JK,33,"Dec 31, 1987",Without Club
+Centre-Back,right,,"Aug 23, 2024",Joachim Andersen,"1,92m",260827,['Denmark'],€22.00m,"Joined from Crystal Palace; date: Aug 23, 2024; fee: €29.50m",Crystal Palace,25,"May 31, 1996",Fulham FC
+Centre-Back,right,,"Oct 5, 2020",Tosin Adarabioyo,"1,96m",258878,"['England', 'Nigeria']",€12.00m,,Manchester City U23,23,"Sep 24, 1997",Chelsea FC
+Centre-Back,right,,"Aug 2, 2018",Alfie Mawson,"1,89m",287431,['England'],€4.00m,,: Ablöse €16.85m,27,"Jan 19, 1994",Retired
+Centre-Back,right,,"Jan 1, 2020",Michael Hector,"1,93m",157490,"['Jamaica', 'England']",€3.50m,,Chelsea FC,28,"Jul 19, 1992",Without Club
+Centre-Back,left,,"Oct 16, 2020",Terence Kongolo,"1,88m",152651,"['Netherlands', 'DR Congo']",€3.50m,"Returned after loan spell with Rapid Vienna; date: Jun 30, 2024; fee: End of loan",Huddersfield Town,27,"Feb 14, 1994",NAC Breda
+Centre-Back,left,,"Jul 12, 2018",Maxime Le Marchand,"1,85m",60558,['France'],€1.50m,,OGC Nice,31,"Oct 11, 1989",Retired
+Centre-Back,left,,"Aug 20, 2015",Tim Ream,"1,86m",145466,['United States'],€600k,,Bolton Wanderers,33,"Oct 5, 1987",Charlotte FC
+Left-Back,left,,"Aug 20, 2020",Antonee Robinson,"1,83m",349701,"['United States', 'England']",€7.00m,,Wigan Athletic,23,"Aug 8, 1997",Fulham FC
+Left-Back,left,,"Aug 9, 2018",Joe Bryan,"1,70m",194460,['England'],€5.00m,,: Ablöse €6.70m,27,"Sep 17, 1993",Millwall FC
+Right-Back,right,,"Sep 11, 2020",Ola Aina,"1,84m",236490,"['Nigeria', 'England']",€6.00m,,Torino FC,24,"Oct 8, 1996",Nottingham Forest
+Right-Back,right,,"Sep 10, 2020",Kenny Tete,"1,80m",206746,"['Netherlands', 'Mozambique']",€5.00m,,: Ablöse €3.20m,25,"Oct 9, 1995",Fulham FC
+Right-Back,right,,"Jul 1, 2019",Steven Sessegnon,"1,75m",406558,['England'],€2.00m,,Fulham FC U21,21,"May 18, 2000",Wigan Athletic
+Right-Back,right,,"Jan 31, 2018",Cyrus Christie,"1,88m",158623,"['Ireland', 'England']",€1.50m,,Middlesbrough FC,28,"Sep 30, 1992",Swansea City
+Right-Back,right,minor knock - Return unknown,"Jul 14, 2016",Denis Odoi,"1,78m",59641,"['Ghana', 'Belgium']",€600k,,KSC Lokeren (-2020),33,"May 27, 1988",Royal Antwerp FC
+Defensive Midfield,right,,"Aug 30, 2020",Mario Lemina,"1,84m",170934,"['Gabon', 'France']",€10.00m,,Southampton FC,27,"Sep 1, 1993",Wolverhampton Wanderers
+Defensive Midfield,right,,"Jul 12, 2018",Jean Michaël Seri,"1,68m",178614,"[""Cote d'Ivoire""]",€4.00m,,OGC Nice,29,"Jul 19, 1991",Al-Orobah FC
+Defensive Midfield,right,,"Jul 22, 2016",Kevin McDonald,"1,92m",36529,['Scotland'],€800k,,Wolverhampton Wanderers,32,"Nov 4, 1988",Without Club
+Central Midfield,right,,"Aug 9, 2018",Frank Anguissa,"1,84m",354361,['Cameroon'],€25.00m,,Olympique Marseille,25,"Nov 16, 1995",SSC Napoli
+Central Midfield,right,,"Oct 5, 2020",Ruben Loftus-Cheek,"1,91m",202886,"['England', 'Guyana']",€18.00m,,Chelsea FC,25,"Jan 23, 1996",AC Milan
+Central Midfield,right,,"Aug 30, 2020",Harrison Reed,"1,81m",226973,['England'],€10.00m,,Southampton FC,26,"Jan 27, 1995",Fulham FC
+Central Midfield,left,Team captain,"Jul 1, 2015",Tom Cairney,"1,85m",123275,"['Scotland', 'England']",€9.00m,,Blackburn Rovers,30,"Jan 20, 1991",Fulham FC
+Central Midfield,right,,"Aug 8, 2019",Josh Onomah,"1,85m",243589,"['England', 'Nigeria']",€6.00m,,Tottenham Hotspur,24,"Apr 27, 1997",Blackpool FC
+Central Midfield,left,,"Aug 26, 2016",Stefan Johansen,"1,82m",62008,['Norway'],€2.00m,,Celtic FC,30,"Jan 8, 1991",Sarpsborg 08 FF
+Central Midfield,left,,"Jul 1, 2021",Tyrese Francois,"1,73m",528888,"['Australia', 'England']",€150k,"Returned after loan spell with Vejle Boldklub; date: Jun 30, 2024; fee: End of loan",Fulham FC U21,20,"Jul 16, 2000",Wigan Athletic
+Attacking Midfield,right,,"Jul 1, 2021",Fábio Carvalho,"1,70m",559263,"['Portugal', 'England']",€250k,,Fulham FC U21,18,"Aug 30, 2002",Brentford FC
+Attacking Midfield,right,,,Sylvester Jasper,"1,80m",502074,"['Bulgaria', 'Nigeria']",€250k,,,19,"Sep 13, 2001",Slask Wroclaw
+Left Winger,right,,"Jan 7, 2020",Ivan Cavaleiro,"1,75m",149716,"['Angola', 'Portugal']",€7.00m,,Wolverhampton Wanderers,27,"Oct 18, 1993",Red Bull Bragantino
+Left Winger,right,,"Aug 26, 2016",Neeskens Kebano,"1,70m",111422,"['DR Congo', 'France']",€1.00m,,KRC Genk,29,"Mar 10, 1992",Al-Jazira Club
+Right Winger,right,,"Jan 24, 2020",Bobby De Cordova-Reid,"1,70m",186186,"['Jamaica', 'England']",€10.00m,,Cardiff City,28,"Feb 2, 1993",Leicester City
+Right Winger,left,,"Jul 27, 2020",Anthony Knockaert,"1,72m",149237,"['France', 'Belgium']",€3.00m,,Brighton & Hove Albion,29,"Nov 20, 1991",Stade Mouscronnois
+Second Striker,right,,"Sep 30, 2020",Ademola Lookman,"1,74m",406040,"['Nigeria', 'England']",€11.00m,,RB Leipzig,23,"Oct 20, 1997",Atalanta BC
+Centre-Forward,right,,"Jul 30, 2018",Aleksandar Mitrović,"1,89m",51152,['Serbia'],€16.00m,,Newcastle United,26,"Sep 16, 1994",Al-Hilal SFC
+Centre-Forward,right,,"Feb 1, 2021",Josh Maja,"1,81m",453824,"['Nigeria', 'England']",€5.00m,,: Ablöse ?,22,"Dec 27, 1998",West Bromwich Albion
+Centre-Forward,right,,"Jul 31, 2017",Aboubakar Kamara,"1,77m",290951,"['Mauritania', 'France']",€2.00m,,: Ablöse €6.00m,26,"Mar 7, 1995",Sepahan FC

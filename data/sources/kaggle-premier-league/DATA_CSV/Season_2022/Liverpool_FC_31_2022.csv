@@ -1,0 +1,40 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 19, 2018",Alisson,"1,93m",105470,['Brazil'],€35.00m,,AS Roma,30,"Oct 2, 1992",Liverpool FC
+Goalkeeper,right,,"Jul 1, 2019",Caoimhín Kelleher,"1,88m",340918,['Ireland'],€12.00m,,: Ablöse -,24,"Nov 23, 1998",Liverpool FC
+Goalkeeper,right,,"Aug 5, 2019",Adrián,"1,90m",71271,['Spain'],€800k,,West Ham United,36,"Jan 3, 1987",Real Betis Balompié
+Goalkeeper,left,,,Harvey Davies,"1,90m",706815,['England'],€300k,,,19,"Sep 3, 2003",Liverpool FC U21
+Centre-Back,right,,"Jul 1, 2021",Ibrahima Konaté,"1,94m",357119,"['France', 'Mali']",€38.00m,,RB Leipzig,24,"May 25, 1999",Liverpool FC
+Centre-Back,right,Team captain,"Jan 1, 2018",Virgil van Dijk,"1,95m",139208,"['Netherlands', 'Suriname']",€35.00m,,Southampton FC,31,"Jul 8, 1991",Liverpool FC
+Centre-Back,right,,"Jul 1, 2015",Joe Gomez,"1,88m",256178,"['England', 'The Gambia']",€22.00m,,Charlton Athletic,26,"May 23, 1997",Liverpool FC
+Centre-Back,right,,"Jul 1, 2016",Joel Matip,"1,95m",82105,"['Cameroon', 'Germany']",€12.00m,,FC Schalke 04,31,"Aug 8, 1991",Retired
+Centre-Back,right,,"Jul 1, 2019",Sepp van den Berg,"1,92m",541231,['Netherlands'],€5.00m,"Returned after loan spell with 1.FSV Mainz 05; date: Jun 30, 2024; fee: End of loan",PEC Zwolle,21,"Dec 20, 2001",Brentford FC
+Centre-Back,right,,"Jul 1, 2019",Nat Phillips,"1,90m",371814,['England'],€4.00m,,: Ablöse -,26,"Mar 21, 1997",Derby County
+Centre-Back,right,,"Jul 1, 2020",Rhys Williams,"1,95m",503679,"['England', 'Jamaica']",€2.00m,,: Ablöse -,22,"Feb 3, 2001",Morecambe FC
+Centre-Back,right,,"Jul 1, 2023",Jarell Quansah,"1,90m",632349,"['England', 'Scotland']",€400k,,: Ablöse -,20,"Jan 29, 2003",Liverpool FC
+Centre-Back,left,Back injury - Return unknown,,Luke Chambers,"1,81m",670861,['England'],€300k,,,19,"Jun 24, 2004",Wigan Athletic
+Left-Back,left,,"Jul 21, 2017",Andrew Robertson,"1,78m",234803,['Scotland'],€40.00m,,: Ablöse €9.00m,29,"Mar 11, 1994",Liverpool FC
+Left-Back,left,,"Aug 10, 2020",Konstantinos Tsimikas,"1,79m",338070,['Greece'],€18.00m,,: Ablöse €13.00m,27,"May 12, 1996",Liverpool FC
+Right-Back,right,,"Jul 1, 2016",Trent Alexander-Arnold,"1,75m",314353,['England'],€65.00m,,: Ablöse -,24,"Oct 7, 1998",Liverpool FC
+Right-Back,right,,"Jul 1, 2022",Calvin Ramsay,"1,77m",633652,['Scotland'],€5.00m,,Aberdeen FC,19,"Jul 31, 2003",Wigan Athletic
+Defensive Midfield,right,,"Jul 1, 2018",Fabinho,"1,88m",225693,['Brazil'],€42.00m,,: Ablöse €45.00m,29,"Oct 23, 1993",Al-Ittihad Club
+Defensive Midfield,right,,"Sep 1, 2022",Arthur Melo,"1,72m",362842,['Brazil'],€15.00m,,Juventus FC,26,"Aug 12, 1996",Juventus FC
+Defensive Midfield,right,,"Jul 1, 2022",Stefan Bajcetic,"1,85m",864799,"['Spain', 'Serbia']",€13.00m,,: Ablöse -,18,"Oct 22, 2004",Red Bull Salzburg
+Central Midfield,left,Broken foot - Return unknown,"Jul 1, 2021",Harvey Elliott,"1,70m",565822,['England'],€35.00m,,: Ablöse -,20,"Apr 4, 2003",Liverpool FC
+Central Midfield,right,,"Jul 1, 2020",Curtis Jones,"1,85m",433188,['England'],€22.00m,,: Ablöse -,22,"Jan 30, 2001",Liverpool FC
+Central Midfield,right,,"Sep 18, 2020",Thiago Alcántara,"1,74m",60444,"['Spain', 'Brazil']",€15.00m,,: Ablöse €22.00m,32,"Apr 11, 1991",Retired
+Central Midfield,right,Suspended -  - cross-competition,"Jul 1, 2018",Naby Keïta,"1,72m",302215,['Guinea'],€12.00m,,: Ablöse €60.00m,28,"Feb 10, 1995",SV Werder Bremen
+Central Midfield,right,,"Jul 1, 2011",Jordan Henderson,"1,82m",61651,['England'],€10.00m,,Sunderland AFC,33,"Jun 17, 1990",Ajax Amsterdam
+Central Midfield,right,"No eligibility - until Jan 31, 2025 - UEFA Europa League - 8 matchdays","Aug 31, 2017",Alex Oxlade-Chamberlain,"1,80m",143424,['England'],€7.00m,,Arsenal FC,29,"Aug 15, 1993",Besiktas JK
+Central Midfield,right,,"Jul 1, 2015",James Milner,"1,75m",3333,['England'],€1.50m,,: Ablöse free transfer,37,"Jan 4, 1986",Brighton & Hove Albion
+Central Midfield,right,,,Bobby Clark,"1,78m",712117,['England'],€350k,,,18,"Feb 7, 2005",Red Bull Salzburg
+Central Midfield,right,,,Jake Cain,"1,76m",565420,['England'],€200k,,,21,"Sep 2, 2001",Swindon Town
+Attacking Midfield,right,,"Jul 1, 2022",Fábio Carvalho,"1,70m",559263,"['Portugal', 'England']",€16.00m,"Returned after loan spell with Hull City; date: Jun 30, 2024; fee: End of loan",Fulham FC,20,"Aug 30, 2002",Brentford FC
+Left Winger,right,,"Jan 30, 2022",Luis Díaz,"1,80m",480692,['Colombia'],€75.00m,,FC Porto,26,"Jan 13, 1997",Liverpool FC
+Left Winger,right,,"Jan 1, 2023",Cody Gakpo,"1,93m",434675,"['Netherlands', 'Togo']",€55.00m,,PSV Eindhoven,24,"May 7, 1999",Liverpool FC
+Right Winger,left,,"Jul 1, 2017",Mohamed Salah,"1,75m",148455,['Egypt'],€65.00m,,AS Roma,31,"Jun 15, 1992",Liverpool FC
+Right Winger,right,,"Jul 1, 2023",Ben Doak,"1,73m",719673,['Scotland'],,,: Ablöse -,17,"Nov 11, 2005",Middlesbrough FC
+Right Winger,right,,,Melkamu Frauendorf,"1,80m",594721,"['Germany', 'Ethiopia']",,,,19,"Jan 12, 2004",Hannover 96 II
+Centre-Forward,right,,"Jul 1, 2022",Darwin Núñez,"1,87m",546543,['Uruguay'],€65.00m,,SL Benfica,24,"Jun 24, 1999",Liverpool FC
+Centre-Forward,right,,"Sep 19, 2020",Diogo Jota,"1,78m",340950,['Portugal'],€50.00m,,Wolverhampton Wanderers,26,"Dec 4, 1996",Liverpool FC
+Centre-Forward,right,,"Jul 1, 2015",Roberto Firmino,"1,81m",131789,['Brazil'],€18.00m,,TSG 1899 Hoffenheim,31,"Oct 2, 1991",Al-Ahli SFC
+Centre-Forward,,,,Layton Stewart,"1,80m",580801,['England'],,,,20,"Sep 3, 2002",Preston North End

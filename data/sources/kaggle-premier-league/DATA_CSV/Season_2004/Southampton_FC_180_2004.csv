@@ -1,0 +1,42 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Aug 23, 2002",Antti Niemi,"1,86m",3101,['Finland'],€4.50m,Heart of Midlothian FC,33,"May 31, 1972",Retired
+Goalkeeper,,"Nov 12, 2004",Kasey Keller,,3608,['United States'],€1.00m,: Ablöse free transfer,35,"Nov 29, 1969",Retired
+Goalkeeper,right,"Jan 28, 2004",Paul Smith,"1,93m",16092,['England'],€500k,: Ablöse €750k,25,"Dec 17, 1979",Retired
+Goalkeeper,,"Jul 1, 2000",Alan Blayney,"1,89m",28806,['Northern Ireland'],€125k,Southampton FC U18,23,"Oct 9, 1981",Retired
+Goalkeeper,,"Jul 1, 2004",Michael Poke,"1,85m",28807,['England'],€50k,Southampton FC U18,19,"Nov 21, 1985",Retired
+Centre-Back,right,"Jul 1, 2002",Michael Svensson,"1,88m",3680,['Sweden'],€3.00m,: Ablöse €3.00m,29,"Nov 25, 1975",Retired
+Centre-Back,left,"Jan 31, 2003",Danny Higginbotham,"1,85m",3686,"['Gibraltar', 'England']",€3.00m,: Ablöse €2.25m,26,"Dec 29, 1978",Retired
+Centre-Back,,"Jul 1, 2004",Jelle Van Damme,,4323,['Belgium'],€2.25m,: Ablöse €3.00m,21,"Oct 10, 1983",Retired
+Centre-Back,right,"Jul 1, 1996",Claus Lundekvam,"1,91m",3687,['Norway'],€2.15m,SK Brann,32,"Feb 22, 1973",Retired
+Centre-Back,,"Jan 1, 2005",Andreas Jakobsson,,254,['Sweden'],€2.00m,Bröndby IF,32,"Oct 6, 1972",Retired
+Centre-Back,right,"Jan 1, 2005",Calum Davenport,"1,93m",4221,['England'],€2.00m,: Ablöse free transfer,22,"Jan 1, 1983",Tavistock FC
+Centre-Back,right,"Aug 24, 2004",Alaeddine Yahia,"1,87m",5451,"['Tunisia', 'France']",€1.40m,: Ablöse €525k,23,"Sep 26, 1981",Retired
+Centre-Back,right,"Jul 1, 2003",Darren Kenton,"1,75m",4181,['England'],€1.00m,: Ablöse free transfer,26,"Sep 13, 1978",Retired
+Centre-Back,right,"Jul 1, 2004",Martin Cranie,"1,83m",27659,"['England', 'Scotland']",€200k,Southampton FC U18,18,"Sep 26, 1986",Retired
+Centre-Back,right,"Jul 1, 2004",Matt Mills,"1,91m",25384,['England'],€50k,Southampton FC U18,18,"Jul 14, 1986",Retired
+Left-Back,left,"Jan 1, 2005",Olivier Bernard,"1,75m",3301,['France'],€3.25m,Newcastle United,25,"Oct 14, 1979",Retired
+Left-Back,left,"Jul 21, 2003",Graeme Le Saux,"1,78m",3157,"['England', 'Jersey']",€650k,: Ablöse ?,36,"Oct 17, 1968",Retired
+Right-Back,right,"Jul 1, 2004",Mikael Nilsson,"1,85m",15353,['Sweden'],€1.75m,Halmstads BK,27,"Jun 24, 1978",Retired
+Right-Back,,"Mar 1, 1989",Jason Dodd,,3685,['England'],€1.25m,Bath City,34,"Nov 2, 1970",Retired
+Right-Back,right,"Jan 1, 2002",Paul Telfer,"1,75m",3362,['Scotland'],€850k,Coventry City,33,"Oct 21, 1971",Retired
+Defensive Midfield,left,"Jul 1, 2001",Anders Svensson,"1,78m",3688,['Sweden'],€4.50m,IF Elfsborg,28,"Jul 17, 1976",Retired
+Defensive Midfield,right,"Jul 1, 1995",Matt Oakley,"1,77m",3784,['England'],€2.25m,Southampton FC U18,27,"Aug 17, 1977",Retired
+Defensive Midfield,right,"Jul 1, 2003",Chris Baird,"1,85m",4115,['Northern Ireland'],€750k,Southampton FC Reserves,23,"Feb 25, 1982",Retired
+Defensive Midfield,right,"Jul 25, 2003",Yoann Folly,"1,75m",7021,"['Togo', 'France']",€400k,: Ablöse €375k,20,"Jun 6, 1985",Retired
+Central Midfield,right,"Jul 10, 2001",Rory Delap,"1,83m",4112,"['Ireland', 'England']",€4.75m,: Ablöse €6.00m,28,"Jul 6, 1976",Retired
+Central Midfield,right,"Jan 31, 2003",David Prutton,"1,85m",3781,['England'],€4.50m,: Ablöse €3.75m,23,"Sep 12, 1981",Retired
+Central Midfield,right,"Jan 4, 2005",Jamie Redknapp,"1,83m",3424,['England'],€3.00m,: Ablöse free transfer,32,"Jun 25, 1973",Retired
+Central Midfield,left,"Jan 1, 2005",Nigel Quashie,"1,75m",4139,"['Scotland', 'England']",€2.50m,: Ablöse €3.15m,26,"Jul 20, 1978",Retired
+Central Midfield,right,"Jul 1, 2003",Léandre Griffit,"1,73m",6240,"['France', 'Martinique']",€125k,: Ablöse free transfer,21,"May 21, 1984",Retired
+Central Midfield,left,"Jul 1, 2004",Andrew Surman,"1,78m",29975,"['England', 'South Africa']",€75k,Southampton FC U18,18,"Aug 20, 1986",Retired
+Left Winger,,"Aug 5, 2003",Neil McCann,,7452,['Scotland'],€2.50m,: Ablöse €2.23m,30,"Aug 11, 1974",Retired
+Left Winger,left,"Jan 1, 2002",Fabrice Fernandes,"1,75m",4116,['France'],€2.50m,: Ablöse €1.65m,25,"Oct 29, 1979",Retired
+Centre-Forward,right,"Jul 10, 1998",James Beattie,"1,85m",3112,['England'],€10.00m,Blackburn Rovers,27,"Feb 27, 1978",Retired
+Centre-Forward,right,"Aug 14, 2003",Kevin Phillips,"1,70m",3131,['England'],€5.00m,Sunderland AFC,31,"Jul 25, 1973",Retired
+Centre-Forward,both,"Feb 1, 2005",Henri Camara,"1,78m",3900,"['Senegal', 'France']",€3.50m,Wolverhampton Wanderers,28,"May 10, 1977",Retired
+Centre-Forward,both,"Feb 16, 1999",Marians Pahars,"1,75m",3689,['Latvia'],€3.00m,Skonto Riga (- 2016),28,"Aug 5, 1976",Retired
+Centre-Forward,right,"Jul 9, 2004",Peter Crouch,"2,01m",4072,"['England', 'Ireland']",€2.85m,: Ablöse €3.00m,24,"Jan 30, 1981",Retired
+Centre-Forward,right,"Dec 5, 2001",Brett Ormerod,"1,80m",4113,['England'],€2.00m,Blackpool FC,28,"Oct 18, 1976",Retired
+Centre-Forward,left,"Sep 1, 2003",Dexter Blackstock,"1,87m",28491,"['Antigua and Barbuda', 'England']",€200k,: Ablöse €400k,19,"May 20, 1986",Retired
+Centre-Forward,right,"Jul 1, 2004",Kenwyne Jones,"1,87m",28245,['Trinidad and Tobago'],€50k,W Connection,20,"Oct 5, 1984",Retired
+Centre-Forward,right,"Jul 1, 2004",Leon Best,"1,87m",28244,"['Ireland', 'England']",€50k,Southampton FC U18,18,"Sep 19, 1986",Retired

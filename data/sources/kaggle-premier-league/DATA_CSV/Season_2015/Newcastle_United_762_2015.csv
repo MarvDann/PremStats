@@ -1,0 +1,43 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,,"Jul 1, 2008",Tim Krul,"1,93m",33027,['Netherlands'],€8.00m,Newcastle United Reserves,28,"Apr 3, 1988",Luton Town
+Goalkeeper,right,,"Aug 9, 2014",Karl Darlow,"1,90m",99397,"['Wales', 'England']",€2.50m,: Ablöse €5.00m,25,"Oct 8, 1990",Leeds United
+Goalkeeper,left,,"Aug 30, 2011",Rob Elliot,"1,90m",39037,"['Ireland', 'England']",€1.50m,Charlton Athletic,30,"Apr 30, 1986",Retired
+Goalkeeper,right,,"Jul 1, 2014",Freddie Woodman,"1,88m",226049,['England'],€250k,Newcastle United U18,19,"Mar 4, 1997",Preston North End
+Centre-Back,right,,"Jul 30, 2015",Chancel Mbemba,"1,82m",203348,['DR Congo'],€10.00m,: Ablöse €12.00m,21,"Aug 8, 1994",Olympique Marseille
+Centre-Back,left,,"Jul 1, 2012",Paul Dummett,"1,83m",170321,"['Wales', 'England']",€3.50m,Newcastle United U21,24,"Sep 26, 1991",Wigan Athletic
+Centre-Back,right,Team captain,"Aug 9, 2014",Jamaal Lascelles,"1,88m",183318,"['England', 'Barbados']",€3.00m,: Ablöse €5.00m,22,"Nov 11, 1993",Newcastle United
+Centre-Back,right,,"Aug 15, 2008",Fabricio Coloccini,"1,84m",6150,"['Argentina', 'Italy']",€2.00m,Deportivo de La Coruña,34,"Jan 22, 1982",Retired
+Centre-Back,right,,"Jan 1, 2010",Mike Williamson,"1,94m",10642,['England'],€1.50m,: Ablöse €1.10m,32,"Nov 8, 1983",Retired
+Centre-Back,right,,"Jul 1, 2003",Steven Taylor,"1,86m",17273,['England'],€1.50m,Newcastle United U18,30,"Jan 23, 1986",Retired
+Centre-Back,left,"No eligibility - until Dec 31, 2024 - Thai League - 15 matchdays","Jul 31, 2012",Curtis Good,"1,95m",179471,"['Australia', 'England']",€500k,: Ablöse €515k,23,"Mar 23, 1993",Buriram United
+Left-Back,left,,"Jan 24, 2013",Massadio Haidara,"1,79m",170929,"['Mali', 'France']",€1.50m,: Ablöse €2.50m,23,"Dec 2, 1992",Stade Brestois 29
+Right-Back,right,,"Jul 17, 2014",Daryl Janmaat,"1,85m",60744,['Netherlands'],€7.50m,: Ablöse €6.00m,26,"Jul 22, 1989",Retired
+Right-Back,right,,"Jan 31, 2013",Kevin Mbabu,"1,84m",183321,"['Switzerland', 'DR Congo']",€250k,Servette FC,21,"Apr 19, 1995",FC Midtjylland
+Right-Back,right,,"Jul 1, 2015",Jamie Sterry,"1,80m",250431,"['England', 'Italy']",,Newcastle United U21,20,"Nov 21, 1995",Doncaster Rovers
+Right-Back,right,,,Callum Williams,"1,80m",312533,['England'],,,19,"Feb 4, 1997",Guisborough Town FC
+Defensive Midfield,left,,"Jul 1, 2014",Jack Colback,"1,77m",61644,['England'],€7.50m,Sunderland AFC,26,"Oct 24, 1989",Queens Park Rangers
+Defensive Midfield,right,,"Aug 26, 2010",Cheik Tioté,"1,80m",33478,"[""Cote d'Ivoire""]",€6.00m,Twente Enschede FC,30,"Jun 21, 1986",---
+Defensive Midfield,right,,"Aug 16, 2012",Vurnon Anita,"1,69m",30670,"['Curacao', 'Netherlands']",€4.00m,: Ablöse €8.50m,27,"Apr 4, 1989",Without Club
+Defensive Midfield,right,,"Jan 1, 2017",Dan Barlaser,"1,84m",256773,"['England', 'Türkiye']",,Newcastle United U23,19,"Jan 18, 1997",Middlesbrough FC
+Defensive Midfield,left,,,Liam Gibson,"1,86m",312553,['England'],,,19,"Apr 25, 1997",Harrogate Town
+Central Midfield,right,,"Jul 11, 2015",Georginio Wijnaldum,"1,75m",49499,"['Netherlands', 'Suriname']",€20.00m,: Ablöse €20.00m,25,"Nov 11, 1990",Al-Ettifaq FC
+Central Midfield,right,,"Jan 21, 2013",Moussa Sissoko,"1,87m",46001,"['France', 'Mali']",€13.00m,: Ablöse €2.00m,26,"Aug 16, 1989",Watford FC
+Central Midfield,right,,"Jan 12, 2016",Jonjo Shelvey,"1,84m",71292,"['England', 'Ireland']",€12.00m,: Ablöse €16.00m,24,"Feb 27, 1992",Eyüpspor
+Central Midfield,right,,"Jul 6, 2012",Gaël Bigirimana,"1,75m",158697,"['Burundi', 'England']",€750k,Coventry City,22,"Oct 22, 1993",Dungannon Swifts FC
+Attacking Midfield,right,,"Jul 1, 2014",Siem de Jong,"1,85m",45509,['Netherlands'],€7.00m,Ajax Amsterdam,27,"Jan 28, 1989",Retired
+Attacking Midfield,right,,"Jan 11, 2016",Henri Saivet,"1,75m",51540,"['Senegal', 'France']",€5.00m,: Ablöse €6.00m,25,"Oct 26, 1990",Clermont Foot 63
+Attacking Midfield,left,,"Jul 1, 2011",Sylvain Marveaux,"1,72m",39909,"['France', 'Martinique']",€1.50m,Stade Rennais FC,30,"Apr 15, 1986",Without Club
+Left Winger,right,,"Jul 1, 2014",Ayoze Pérez,"1,78m",246968,['Spain'],€8.00m,CD Tenerife,22,"Jul 29, 1993",Villarreal CF
+Left Winger,left,,"Jul 1, 2011",Sammy Ameobi,"1,90m",92381,"['England', 'Nigeria']",€5.00m,Newcastle United Reserves,24,"May 1, 1992",Without Club
+Left Winger,right,,"Jan 23, 2013",Yoan Gouffran,"1,75m",23825,"['France', 'Guadeloupe']",€4.00m,: Ablöse €2.00m,30,"May 25, 1986",Unknown
+Left Winger,left,"No eligibility - until Dec 31, 2024 - UEFA Conference League","Jul 1, 2015",Rolando Aarons,"1,78m",258188,"['Jamaica', 'England']",€1.00m,Newcastle United U21,20,"Nov 16, 1995",NK Celje
+Right Winger,left,,"Aug 19, 2015",Florian Thauvin,"1,81m",184892,['France'],€9.00m,Olympique Marseille,23,"Jan 26, 1993",Udinese Calcio
+Right Winger,left,,"Jan 27, 2016",Andros Townsend,"1,81m",61842,['England'],€9.00m,Tottenham Hotspur,24,"Jul 16, 1991",Antalyaspor
+Right Winger,right,,"Aug 9, 2011",Gabriel Obertan,"1,86m",43261,"['France', 'Guadeloupe']",€1.00m,Manchester United,27,"Feb 26, 1989",Charlotte Independence
+Second Striker,left,,"Jan 1, 2009",Haris Vuckic,"1,88m",76560,['Slovenia'],€750k,NK Domzale,23,"Aug 21, 1992",NK Domzale
+Centre-Forward,right,,"Jul 21, 2015",Aleksandar Mitrović,"1,89m",51152,['Serbia'],€14.00m,: Ablöse €18.50m,21,"Sep 16, 1994",Al-Hilal SFC
+Centre-Forward,both,,"Feb 1, 2016",Seydou Doumbia,"1,79m",75287,"[""Cote d'Ivoire""]",€12.00m,: Ablöse €1.00m,28,"Dec 31, 1987",Retired
+Centre-Forward,right,,"Jan 17, 2012",Papiss Demba Cissé,"1,80m",33952,"['Senegal', 'France']",€7.50m,SC Freiburg,31,"Jun 3, 1985",Without Club
+Centre-Forward,right,,"Jul 16, 2014",Emmanuel Rivière,"1,82m",61637,"['Martinique', 'France']",€5.00m,: Ablöse €6.32m,26,"Mar 3, 1990",Retired
+Centre-Forward,right,,"Jan 1, 2014",Adam Armstrong,"1,73m",250426,['England'],€1.00m,Newcastle United U18,19,"Feb 10, 1997",Southampton FC
+Centre-Forward,right,,"Aug 6, 2015",Ivan Toney,"1,85m",251664,"['England', 'Jamaica']",€500k,Northampton Town,20,"Mar 16, 1996",Al-Ahli SFC

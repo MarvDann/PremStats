@@ -1,0 +1,31 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jan 31, 2013",Jack Butland,"1,96m",128899,['England'],€5.00m,: Ablöse €3.80m,20,"Mar 10, 1993",Rangers FC
+Goalkeeper,right,"Feb 1, 2010",Asmir Begovic,"1,99m",33873,"['Bosnia-Herzegovina', 'Canada']",€5.00m,: Ablöse €3.75m,26,"Jun 20, 1987",Everton FC
+Goalkeeper,right,"Jul 30, 2008",Thomas Sörensen,"1,96m",3473,['Denmark'],€1.00m,: Ablöse free transfer,37,"Jun 12, 1976",Retired
+Goalkeeper,right,"Jul 1, 2010",Carlo Nash,"1,97m",3804,['England'],€250k,: Ablöse free transfer,39,"Sep 13, 1973",Retired
+Centre-Back,right,"Jan 18, 2008",Ryan Shawcross,"1,91m",45861,"['England', 'Wales']",€10.00m,Manchester United Reserves,25,"Oct 4, 1987",Retired
+Centre-Back,right,"Aug 1, 2009",Robert Huth,"1,91m",2998,['Germany'],€8.50m,Middlesbrough FC,28,"Aug 18, 1984",Retired
+Centre-Back,right,"Aug 8, 2012",Geoff Cameron,"1,90m",31642,['United States'],€5.00m,: Ablöse €2.15m,27,"Jul 11, 1985",Retired
+Centre-Back,both,"Aug 31, 2010",Marc Wilson,"1,88m",30456,"['Ireland', 'Northern Ireland']",€5.00m,: Ablöse €3.60m,25,"Aug 17, 1987",Retired
+Centre-Back,right,"Jul 1, 2007",Ryan Shotton,"1,89m",92109,['England'],€2.50m,Stoke City U18,24,"Sep 30, 1988",Hanley Town
+Centre-Back,left,"Aug 9, 2011",Matthew Upson,"1,85m",3273,['England'],€750k,: Ablöse free transfer,34,"Apr 18, 1979",Retired
+Right-Back,right,"Jul 1, 2003",Andy Wilkinson,"1,80m",13616,['England'],€3.50m,Stoke City U18,28,"Aug 6, 1984",Retired
+Defensive Midfield,right,"Aug 31, 2012",Steven Nzonzi,"1,96m",73734,"['France', 'DR Congo']",€7.00m,Blackburn Rovers,24,"Dec 15, 1988",Sepahan FC
+Defensive Midfield,right,"Jan 30, 2008",Glenn Whelan,"1,80m",12124,['Ireland'],€5.00m,: Ablöse €670k,29,"Jan 13, 1984",Retired
+Defensive Midfield,right,"Jul 1, 2011",Wilson Palacios,"1,81m",58361,['Honduras'],€3.00m,Tottenham Hotspur,28,"Jul 29, 1984",Retired
+Defensive Midfield,right,"Aug 31, 2012",Maurice Edu,"1,83m",50987,"['United States', 'Nigeria']",€2.30m,: Ablöse €630k,27,"Apr 18, 1986",Retired
+Central Midfield,left,"Aug 31, 2012",Charlie Adam,"1,85m",28990,['Scotland'],€5.00m,: Ablöse €6.20m,27,"Dec 10, 1985",Retired
+Central Midfield,right,"Jul 1, 2009",Dean Whitehead,"1,83m",13683,['England'],€2.50m,Sunderland AFC,31,"Jan 12, 1982",Retired
+Central Midfield,left,"Jul 3, 2012",Jamie Ness,"1,78m",61012,['Scotland'],€500k,: Ablöse free transfer,22,"Mar 2, 1991",Retired
+Central Midfield,right,"Jan 9, 2007",Rory Delap,"1,83m",4112,"['Ireland', 'England']",€250k,Sunderland AFC,36,"Jul 6, 1976",Retired
+Central Midfield,,,Florent Cuvelier,"1,75m",110670,['Belgium'],,,20,"Sep 12, 1992",Retired
+Left Midfield,left,"Jan 31, 2013",Brek Shea,"1,90m",71107,"['United States', 'Norway']",€3.00m,FC Dallas,23,"Feb 28, 1990",Retired
+Left Midfield,left,"Jan 1, 2009",Matthew Etherington,"1,78m",3788,['England'],€2.50m,: Ablöse €3.00m,31,"Aug 14, 1981",Retired
+Left Winger,right,"Aug 8, 2012",Michael Kightly,"1,73m",25366,['England'],€4.50m,Wolverhampton Wanderers,27,"Jan 24, 1986",Without Club
+Right Winger,right,"Aug 18, 2010",Jonathan Walters,"1,83m",3306,"['Ireland', 'England']",€5.50m,Ipswich Town,29,"Sep 20, 1983",Retired
+Right Winger,right,"Jan 1, 2011",Jermaine Pennant,"1,73m",3195,"['England', 'Jamaica']",€2.50m,Real Zaragoza,30,"Jan 15, 1983",Retired
+Centre-Forward,right,"Aug 1, 2010",Kenwyne Jones,"1,87m",28245,['Trinidad and Tobago'],€5.00m,Sunderland AFC,28,"Oct 5, 1984",Retired
+Centre-Forward,right,"Aug 31, 2011",Peter Crouch,"2,01m",4072,"['England', 'Ireland']",€5.00m,Tottenham Hotspur,32,"Jan 30, 1981",Retired
+Centre-Forward,right,"Aug 31, 2011",Cameron Jerome,"1,85m",35855,"['Grenada', 'England']",€2.50m,: Ablöse €4.50m,26,"Aug 14, 1986",Without Club
+Centre-Forward,both,"Sep 4, 2012",Michael Owen,"1,73m",1397,['England'],€1.00m,Without Club,33,"Dec 14, 1979",Retired
+Centre-Forward,right,"Jul 1, 2005",Mamady Sidibé,"1,93m",14069,"['Mali', 'France']",€500k,Gillingham FC,33,"Dec 18, 1979",Retired

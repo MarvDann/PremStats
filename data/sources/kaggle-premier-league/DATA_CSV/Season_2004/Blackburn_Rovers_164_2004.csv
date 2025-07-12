@@ -1,0 +1,34 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Nov 3, 2000",Brad Friedel,"1,91m",3476,"['United States', 'England']",€2.00m,: Ablöse free transfer,34,"May 18, 1971",Retired
+Goalkeeper,right,"Jan 1, 2004",Peter Enckelman,"1,88m",3719,['Finland'],€1.25m,: Ablöse €215k,28,"Mar 10, 1977",Retired
+Goalkeeper,right,"Jul 14, 2003",David Yelldell,"1,94m",4746,"['United States', 'Germany']",€100k,Stuttgarter Kickers II,23,"Oct 1, 1981",Retired
+Centre-Back,right,"Sep 7, 2001",Lucas Neill,"1,85m",3826,"['Australia', 'Northern Ireland']",€3.00m,: Ablöse €1.50m,27,"Mar 9, 1978",Retired
+Centre-Back,right,"Jul 1, 2003",Lorenzo Amoruso,"1,84m",4288,['Italy'],€3.00m,: Ablöse €2.10m,34,"Jun 28, 1971",Retired
+Centre-Back,right,"Jul 1, 2002",Andy Todd,"1,78m",3103,['England'],€2.00m,Charlton Athletic,30,"Sep 21, 1974",Retired
+Centre-Back,right,"Jan 1, 2005",Aaron Mokoena,"1,85m",4756,['South Africa'],€1.50m,: Ablöse €900k,24,"Nov 25, 1980",Retired
+Centre-Back,right,"Jan 6, 2005",Ryan Nelsen,"1,85m",28878,['New Zealand'],€1.50m,: Ablöse free transfer,27,"Oct 18, 1977",Retired
+Centre-Back,both,"Jul 1, 1999",Craig Short,"1,85m",3821,['England'],€650k,: Ablöse €2.55m,37,"Jun 25, 1968",Retired
+Centre-Back,left,"Jul 1, 2002",Jay McEveley,"1,86m",3825,"['Scotland', 'England']",€400k,Blackburn Rovers U18,20,"Feb 11, 1985",Retired
+Left-Back,left,"Jul 7, 2004",Dominic Matteo,"1,86m",3765,"['Scotland', 'England']",€4.50m,Leeds United,31,"Apr 28, 1974",Retired
+Left-Back,left,"Jul 1, 2003",Vratislav Gresko,"1,85m",71,['Slovakia'],€3.00m,: Ablöse €1.80m,27,"Jul 24, 1977",Retired
+Left-Back,left,"Oct 1, 2001",Nils-Eric Johansson,"1,87m",205,['Sweden'],€2.75m,: Ablöse €3.00m,25,"Jan 13, 1980",Retired
+Left-Back,left,"Jan 27, 2004",Michael Gray,"1,70m",4128,['England'],€2.00m,Sunderland AFC,30,"Aug 3, 1974",Retired
+Right-Back,right,"Jul 1, 2003",Steven Reid,"1,85m",7330,"['Ireland', 'England']",€4.25m,: Ablöse €3.60m,24,"Mar 10, 1981",Retired
+Defensive Midfield,right,"Aug 29, 2003",Barry Ferguson,"1,78m",10251,['Scotland'],€7.25m,: Ablöse €9.75m,27,"Feb 2, 1978",Retired
+Defensive Midfield,both,"Jan 1, 2005",Robbie Savage,"1,83m",3797,['Wales'],€4.75m,: Ablöse €4.50m,30,"Oct 18, 1974",Retired
+Defensive Midfield,right,"Jul 1, 2001",Tugay Kerimoğlu,"1,76m",3703,['Türkiye'],€2.00m,: Ablöse €1.95m,34,"Aug 24, 1970",Retired
+Central Midfield,right,"Jan 1, 1996",Garry Flitcroft,"1,80m",3706,['England'],€4.75m,: Ablöse €5.25m,32,"Nov 6, 1972",Retired
+Central Midfield,left,"Aug 27, 2004",Morten Gamst Pedersen,"1,83m",22741,['Norway'],€2.25m,Tromsø IL,23,"Sep 8, 1981",Retired
+Central Midfield,right,"Jul 1, 2003",Paul Gallagher,"1,85m",10501,['Scotland'],€1.25m,Blackburn Rovers U18,20,"Sep 8, 1984",Retired
+Central Midfield,right,"Jul 1, 2000",Jonathan Douglas,"1,80m",7435,['Ireland'],€75k,Blackburn Rovers U18,23,"Nov 22, 1981",Retired
+Right Midfield,right,"Jul 10, 2003",Brett Emerton,"1,85m",4367,['Australia'],€4.50m,: Ablöse €3.00m,26,"Feb 22, 1979",Retired
+Right Midfield,right,"Aug 29, 2002",David Thompson,"1,70m",4127,['England'],€3.85m,Coventry City,27,"Sep 12, 1977",Retired
+Left Midfield,left,"Jul 1, 2004",Javi de Pedro,"1,80m",7348,['Spain'],€250k,Real Sociedad,31,"Aug 4, 1973",Retired
+Attacking Midfield,,"Sep 28, 2004",Youri Djorkaeff,,4,"['France', 'Armenia']",€300k,Without Club,37,"Mar 9, 1968",Retired
+Left Winger,right,"Jul 1, 2004",Jemal Johnson,"1,83m",34851,['United States'],,Blackburn Rovers U18,20,"May 3, 1985",Retired
+Centre-Forward,right,"Feb 2, 2004",Jon Stead,"1,91m",16107,['England'],€3.00m,: Ablöse €1.88m,22,"Apr 7, 1983",Retired
+Centre-Forward,,"Jul 1, 2002",Dwight Yorke,"1,78m",3223,"['Trinidad and Tobago', 'England']",€2.75m,Manchester United,33,"Nov 3, 1971",Retired
+Centre-Forward,left,"Aug 1, 2004",Jay Bothroyd,"1,90m",8188,"['England', 'Guyana']",€1.75m,AC Perugia,23,"May 7, 1982",Retired
+Centre-Forward,,"Jul 1, 2004",Paul Dickov,,9221,['Scotland'],€1.50m,: Ablöse €225k,32,"Nov 1, 1972",Retired
+Centre-Forward,right,"Jan 1, 1999",Matt Jansen,"1,80m",10502,['England'],€1.50m,: Ablöse €6.00m,27,"Oct 20, 1977",Retired
+Centre-Forward,right,"Jul 1, 2006",Matt Derbyshire,"1,80m",15175,['England'],€75k,Blackburn Rovers Reserves,19,"Apr 14, 1986",Retired

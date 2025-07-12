@@ -1,0 +1,40 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 2012",Stephen Henderson,"1,88m",52191,['Ireland'],€1.50m,: Ablöse €745k,25,"May 2, 1988",Retired
+Goalkeeper,right,"Jul 1, 2012",Jussi Jääskeläinen,"1,91m",3692,['Finland'],€1.00m,: Ablöse free transfer,38,"Apr 19, 1975",Retired
+Goalkeeper,right,"Jul 23, 2012",Raphael Spiegel,"1,97m",111428,['Switzerland'],€500k,: Ablöse €400k,20,"Dec 19, 1992",Without Club
+Centre-Back,right,"Aug 5, 2010",Winston Reid,"1,91m",37526,"['New Zealand', 'Denmark']",€6.00m,FC Midtjylland,24,"Jul 3, 1988",Retired
+Centre-Back,right,"Jul 1, 2007",James Tomkins,"1,92m",61592,['England'],€5.50m,: Ablöse -,24,"Mar 29, 1989",Without Club
+Centre-Back,right,"Aug 1, 2012",James Collins,"1,88m",12691,['Wales'],€3.50m,: Ablöse €3.20m,29,"Aug 23, 1983",Retired
+Centre-Back,left,"Jan 28, 2013",Emanuel Pogatetz,"1,91m",1094,['Austria'],€2.50m,VfL Wolfsburg,30,"Jan 16, 1983",Retired
+Centre-Back,left,"Dec 16, 2011",Dan Potts,"1,83m",207037,['England'],€250k,: Ablöse -,19,"Apr 13, 1994",Charlton Athletic
+Centre-Back,right,,Leo Chambers,"1,86m",183281,"['England', 'Jamaica']",,,17,"Aug 5, 1995",Retired
+Left-Back,left,"Jul 1, 2012",George McCartney,"1,83m",3775,['Northern Ireland'],€1.50m,Sunderland AFC,32,"Apr 29, 1981",Retired
+Right-Back,right,"Jul 30, 2011",Joey O'Brien,"1,80m",34672,['Ireland'],€2.50m,: Ablöse free transfer,27,"Feb 17, 1986",Retired
+Right-Back,right,"Aug 31, 2011",Guy Demel,"1,88m",1368,"[""Cote d'Ivoire"", 'France']",€1.00m,: Ablöse free transfer,32,"Jun 13, 1981",Retired
+Right-Back,right,"Jul 1, 2008",Jordan Spence,"1,89m",61588,['England'],€500k,: Ablöse -,23,"May 24, 1990",Retired
+Right-Back,right,,Callum Driver,"1,73m",121232,['England'],,,20,"Oct 23, 1992",Without Club
+Defensive Midfield,right,"Aug 10, 2012",Alou Diarra,"1,89m",1327,"['France', 'Mali']",€1.25m,Olympique Marseille,31,"Jul 15, 1981",Retired
+Central Midfield,right,"Jan 1, 2005",Mark Noble,"1,80m",31835,"['England', 'Ireland']",€8.00m,: Ablöse -,26,"May 8, 1987",Retired
+Central Midfield,right,"Jul 1, 2012",Mohamed Diamé,"1,84m",70950,"['Senegal', 'France']",€7.50m,Wigan Athletic,26,"Jun 14, 1987",Al-Sailiya SC
+Central Midfield,right,"Jul 1, 2007",Jack Collison,"1,83m",61568,"['Wales', 'England']",€3.50m,: Ablöse -,24,"Oct 2, 1988",Retired
+Central Midfield,right,"Jan 25, 2011",Gary O'Neil,"1,74m",3995,['England'],€2.50m,Middlesbrough FC,30,"May 18, 1983",Retired
+Central Midfield,right,,George Moncur,"1,75m",121238,['England'],,,19,"Aug 18, 1993",Southend United
+Central Midfield,right,,Sebastian Lletget,"1,78m",175996,"['United States', 'Argentina']",,,20,"Sep 3, 1992",FC Dallas
+Left Midfield,left,"Jul 23, 2011",Matthew Taylor,"1,77m",9218,['England'],€3.00m,: Ablöse €2.50m,31,"Nov 27, 1981",Retired
+Attacking Midfield,right,"Jul 1, 2011",Kevin Nolan,"1,83m",3950,['England'],€6.00m,Newcastle United,31,"Jun 24, 1982",Retired
+Attacking Midfield,right,"Jan 4, 2013",Joe Cole,"1,76m",3876,['England'],€4.00m,: Ablöse free transfer,31,"Nov 8, 1981",Retired
+Attacking Midfield,right,"Jan 31, 2012",Ravel Morrison,"1,75m",128907,"['Jamaica', 'England']",€750k,Manchester United U18,20,"Feb 2, 1993",Precision FC
+Attacking Midfield,right,,Elliot Lee,"1,80m",229826,['England'],,,18,"Dec 16, 1994",Wrexham AFC
+Left Winger,,"Aug 24, 2012",Matt Jarvis,"1,73m",15921,['England'],€8.00m,Wolverhampton Wanderers,27,"May 22, 1986",Retired
+Right Winger,right,"Jan 31, 2012",Ricardo Vaz Tê,"1,88m",9413,"['Portugal', 'Guinea-Bissau']",€3.00m,Barnsley FC,26,"Oct 1, 1986",Retired
+Right Winger,right,"Aug 31, 2012",Yossi Benayoun,"1,75m",7858,['Israel'],€2.50m,Chelsea FC,33,"May 5, 1980",Retired
+Right Winger,left,"Jul 1, 2011",Rob Hall,"1,73m",121236,['England'],€750k,: Ablöse -,19,"Oct 20, 1993",Bedford Town
+Right Winger,left,,Matthias Fanimo,"1,75m",134416,"['England', 'Nigeria']",,,19,"Jan 28, 1994",Folkestone Invicta FC
+Centre-Forward,left,"Jul 1, 2013",Andy Carroll,"1,94m",48066,['England'],€11.00m,: Ablöse €17.50m,24,"Jan 6, 1989",FC Girondins Bordeaux
+Centre-Forward,left,"Jul 18, 2012",Modibo Maïga,"1,85m",46831,['Mali'],€4.50m,: Ablöse €6.00m,25,"Sep 3, 1987",Without Club
+Centre-Forward,right,"Jan 4, 2013",Marouane Chamakh,"1,88m",19085,"['Morocco', 'France']",€3.50m,Arsenal FC,29,"Jan 10, 1984",Retired
+Centre-Forward,right,"Oct 14, 2013",Carlton Cole,"1,91m",3179,"['England', 'Sierra Leone']",€3.50m,Without Club,29,"Oct 12, 1983",Retired
+Centre-Forward,right,"Jan 31, 2012",Nicky Maynard,"1,80m",39705,['England'],€2.50m,: Ablöse €2.00m,26,"Dec 11, 1986",Winsford United
+Centre-Forward,right,"Jan 11, 2013",Wellington Paulista,"1,80m",51716,"['Brazil', 'Spain']",€1.00m,Cruzeiro Esporte Clube,30,"Apr 22, 1983",Retired
+Centre-Forward,,,Dylan Tombides,"1,80m",183966,"['Australia', 'Greece']",,,20,"Mar 8, 1994",---
+Centre-Forward,right,"Jan 31, 2011",Paul McCallum,"1,91m",214776,['England'],,: Ablöse €75k,19,"Jul 28, 1993",Eastleigh FC

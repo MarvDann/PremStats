@@ -1,0 +1,31 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2013",Tom Heaton,"1,88m",34130,['England'],€2.50m,: Ablöse free transfer,29,"Apr 15, 1986",Manchester United
+Goalkeeper,right,,"Jul 2, 2014",Matt Gilks,"1,85m",48254,"['Scotland', 'England']",€500k,Blackpool FC,33,"Jun 4, 1982",Retired
+Goalkeeper,,,"Jul 1, 2013",Alex Cisak,"1,90m",57915,"['Australia', 'Poland']",€250k,: Ablöse ?,26,"May 19, 1989",Retired
+Centre-Back,left,,"Jul 5, 2012",Jason Shackell,"1,93m",11756,['England'],€2.00m,: Ablöse €1.30m,31,"Sep 27, 1983",Retired
+Centre-Back,left,,"Jan 17, 2012",Ben Mee,"1,80m",74810,['England'],€2.00m,: Ablöse ?,25,"Sep 21, 1989",Brentford FC
+Centre-Back,right,,"Jan 12, 2015",Michael Keane,"1,88m",118534,"['England', 'Ireland']",€2.00m,Manchester United U21,22,"Jan 11, 1993",Everton FC
+Centre-Back,right,,"Jul 1, 2004",Michael Duff,"1,85m",36894,['Northern Ireland'],€500k,Cheltenham Town,37,"Jan 11, 1978",Retired
+Centre-Back,right,,"Jan 1, 2010",Kevin Long,"1,88m",111114,['Ireland'],€500k,Cork City FC,24,"Aug 18, 1990",Toronto FC
+Left-Back,left,,"Aug 15, 2014",Stephen Ward,"1,84m",34691,['Ireland'],€1.00m,Wolverhampton Wanderers,29,"Aug 20, 1985",Retired
+Left-Back,left,,"Jan 30, 2012",Danny Lafferty,"1,82m",85928,['Northern Ireland'],€500k,Derry City,26,"May 18, 1989",Ballymena United FC
+Right-Back,right,Hamstring injury - Return unknown,"Jan 4, 2012",Kieran Trippier,"1,73m",95810,['England'],€3.50m,: Ablöse ?,24,"Sep 19, 1990",Newcastle United
+Right-Back,right,,"Jul 7, 2014",Steven Reid,"1,85m",7330,"['Ireland', 'England']",€500k,West Bromwich Albion,34,"Mar 10, 1981",Retired
+Right-Back,right,,"Jul 1, 2012",Luke O'Neill,"1,83m",93321,['England'],€250k,Mansfield Town,23,"Aug 20, 1991",Ebbsfleet United
+Right-Back,right,,,Cameron Dummigan,"1,80m",248576,['Northern Ireland'],,,19,"Jun 2, 1996",Derry City
+Defensive Midfield,right,,"Sep 1, 2014",Nathaniel Chalobah,"1,85m",128900,"['England', 'Sierra Leone']",€4.00m,Chelsea FC,20,"Dec 12, 1994",Sheffield Wednesday
+Defensive Midfield,right,,"Mar 10, 2015",Fredrik Ulvestad,"1,83m",158022,['Norway'],€1.30m,Without Club,23,"Jun 17, 1992",Pogon Szczecin
+Central Midfield,right,,"Jul 19, 2013",Scott Arfield,"1,78m",55291,"['Canada', 'Scotland']",€2.50m,: Ablöse free transfer,26,"Nov 1, 1988",Bolton Wanderers
+Central Midfield,right,,"Jul 1, 2010",Dean Marney,"1,83m",4055,['England'],€2.00m,: Ablöse €600k,31,"Jan 31, 1984",Retired
+Central Midfield,left,,"Aug 1, 2013",David Jones,"1,83m",24634,"['England', 'Wales']",€2.00m,Wigan Athletic,30,"Nov 4, 1984",Retired
+Central Midfield,,,"Jul 1, 2012",Steven Hewitt,"1,70m",197660,['England'],€250k,: Ablöse -,21,"Dec 5, 1993",Nantwich Town FC
+Right Midfield,left,,"Jul 2, 2010",Ross Wallace,"1,68m",9509,['Scotland'],€1.00m,: Ablöse €2.20m,30,"May 23, 1985",Retired
+Left Midfield,left,,"Jul 4, 2014",Matthew Taylor,"1,77m",9218,['England'],€1.00m,: Ablöse free transfer,33,"Nov 27, 1981",Retired
+Left Winger,left,,"Sep 1, 2014",George Boyd,"1,86m",45623,"['Scotland', 'England']",€3.50m,: Ablöse €3.80m,29,"Oct 2, 1985",Wythenshawe Town FC
+Left Winger,right,,"Jul 1, 2014",Michael Kightly,"1,73m",25366,['England'],€2.00m,Stoke City,29,"Jan 24, 1986",Without Club
+Centre-Forward,right,,"Aug 15, 2011",Danny Ings,"1,77m",134294,['England'],€10.00m,: Ablöse €1.15m,22,"Jul 23, 1992",West Ham United
+Centre-Forward,right,,"Jul 31, 2012",Sam Vokes,"1,86m",48078,"['Wales', 'England']",€2.50m,Wolverhampton Wanderers,25,"Oct 21, 1989",Wycombe Wanderers
+Centre-Forward,right,,"Jan 10, 2014",Ashley Barnes,"1,85m",63200,['England'],€2.50m,Brighton & Hove Albion,25,"Oct 30, 1989",Norwich City
+Centre-Forward,right,,"Jul 4, 2014",Marvin Sordell,"1,79m",120599,['England'],€1.00m,Bolton Wanderers,24,"Feb 17, 1991",Kettering Town
+Centre-Forward,left,,"Jul 15, 2014",Lukas Jutkiewicz,"1,85m",33507,['England'],€1.00m,Middlesbrough FC,26,"Mar 28, 1989",Birmingham City
+Centre-Forward,,,,Jason Gilchrist,"1,78m",320424,['England'],,,20,"Dec 17, 1994",Ashton United

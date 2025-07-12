@@ -1,0 +1,34 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2003",Ross Turnbull,"1,93m",29159,['England'],€1.80m,Middlesbrough FC U18,24,"Jan 4, 1985",Retired
+Goalkeeper,left,,"Jul 1, 2000",Brad Jones,"1,94m",4042,"['Australia', 'England']",€1.50m,Middlesbrough FC U18,27,"Mar 19, 1982",Retired
+Goalkeeper,right,,"Jul 1, 2008",Jason Steele,"1,88m",73564,['England'],€100k,Middlesbrough FC U18,18,"Aug 18, 1990",Brighton & Hove Albion
+Centre-Back,right,,"Jan 1, 2006",David Wheater,"1,96m",29199,['England'],€5.80m,Middlesbrough FC U18,22,"Feb 14, 1987",Retired
+Centre-Back,left,,"Jul 1, 2005",Emanuel Pogatetz,"1,91m",1094,['Austria'],€5.70m,Bayer 04 Leverkusen,26,"Jan 16, 1983",Retired
+Centre-Back,right,,"Aug 1, 2006",Robert Huth,"1,91m",2998,['Germany'],€4.00m,Chelsea FC,24,"Aug 18, 1984",Retired
+Centre-Back,right,,"Jan 1, 2003",Chris Riggott,"1,83m",3782,['England'],€1.90m,: Ablöse €2.23m,28,"Sep 1, 1980",Retired
+Centre-Back,right,,"Jul 1, 2004",Matthew Bates,"1,78m",29149,['England'],€1.00m,Middlesbrough FC U18,22,"Dec 10, 1986",Retired
+Centre-Back,right,Hamstring injury - Return unknown,"Jul 1, 2008",Rhys Williams,"1,87m",82474,"['Australia', 'Wales']",€500k,Middlesbrough FC Reserves,20,"Jul 14, 1988",Retired
+Centre-Back,left,,"Jul 1, 2007",Jonathan Grounds,"1,85m",57490,['England'],€400k,Middlesbrough FC U18,21,"Feb 2, 1988",Retired
+Centre-Back,right,,"Jul 1, 2006",Seb Hines,"1,88m",47839,"['England', 'United States']",€200k,Middlesbrough FC U18,21,"May 29, 1988",Retired
+Centre-Back,right,,"Jul 1, 2008",John Johnson,"1,83m",81615,['England'],€75k,Middlesbrough FC Reserves,20,"Sep 16, 1988",Without Club
+Left-Back,left,,"Jul 1, 2005",Andrew Taylor,"1,78m",29158,['England'],€2.50m,Middlesbrough FC U18,22,"Aug 1, 1986",Retired
+Left-Back,left,,"Jul 1, 2008",Joe Bennett,"1,78m",90964,['England'],€75k,Middlesbrough FC U18,19,"Mar 28, 1990",Oxford United
+Right-Back,right,,"Aug 1, 2008",Justin Hoyte,"1,78m",7335,"['Trinidad and Tobago', 'England']",€2.00m,: Ablöse €3.80m,24,"Nov 20, 1984",Miami Beach CF
+Right-Back,right,,"Jul 1, 2004",Tony McMahon,"1,80m",29154,['England'],€1.00m,Middlesbrough FC U18,23,"Mar 24, 1986",Retired
+Defensive Midfield,right,,"Jul 4, 2008",Didier Digard,"1,83m",52345,['France'],€3.70m,: Ablöse €5.00m,22,"Jul 12, 1986",Retired
+Defensive Midfield,both,,"Aug 1, 2007",Mohamed Shawky,"1,81m",38176,['Egypt'],€900k,: Ablöse €950k,27,"Oct 5, 1981",Retired
+Midfielder,right,,,Nathan Porritt,"1,76m",76193,['England'],€100k,,19,"Jan 9, 1990",Retired
+Central Midfield,right,,"Aug 31, 2007",Gary O'Neil,"1,74m",3995,['England'],€4.80m,: Ablöse €7.50m,26,"May 18, 1983",Retired
+Central Midfield,left,,"Jul 26, 2006",Julio Arca,"1,75m",3280,"['Argentina', 'Italy']",€2.60m,Sunderland AFC,28,"Jan 31, 1981",Retired
+Central Midfield,right,,"Jan 1, 2008",Josh Walker,"1,80m",39930,['England'],€500k,Middlesbrough FC U18,20,"Feb 21, 1989",Retired
+Left Midfield,left,,"Jul 16, 2015",Stewart Downing,"1,80m",4063,['England'],€11.00m,: Ablöse €7.90m,24,"Jul 22, 1984",Retired
+Left Winger,both,,"Jul 1, 2007",Tuncay Şanlı,"1,82m",6934,['Türkiye'],€9.80m,Fenerbahce,27,"Jan 16, 1982",Retired
+Left Winger,left,,"Jul 1, 2008",Jonathan Franks,"1,74m",95808,['England'],€100k,Middlesbrough FC U18,19,"Apr 8, 1990",Retired
+Right Winger,left,Suspended -  - cross-competition,"Jul 1, 2005",Adam Johnson,"1,82m",31579,['England'],€2.10m,Middlesbrough FC U18,21,"Jul 14, 1987",Retired
+Right Winger,both,,"Jul 1, 2007",Graeme Owens,"1,78m",47840,['England'],€100k,Middlesbrough FC U18,21,"May 1, 1988",Retired
+Centre-Forward,right,,"Jan 1, 2008",Afonso Alves,"1,85m",18758,['Brazil'],€6.80m,: Ablöse €17.00m,28,"Jan 30, 1981",Retired
+Centre-Forward,both,,"Aug 1, 2007",Mido,"1,88m",4329,['Egypt'],€4.20m,Tottenham Hotspur,26,"Feb 23, 1983",Retired
+Centre-Forward,right,,"Jul 1, 2007",Jérémie Aliadière,"1,83m",3266,"['France', 'Algeria']",€4.00m,: Ablöse €3.00m,26,"Mar 30, 1983",Retired
+Centre-Forward,right,,"Jan 1, 2009",Marlon King,"1,85m",14037,"['Jamaica', 'England']",€3.50m,Wigan Athletic,29,"Apr 26, 1980",Retired
+Centre-Forward,both,,"Jul 4, 2008",Marvin Emnes,"1,80m",37787,"['Netherlands', 'Suriname']",€2.40m,: Ablöse €4.00m,21,"May 27, 1988",Without Club
+Centre-Forward,right,,"Jan 1, 2006",Tom Craddock,"1,78m",39926,['England'],€300k,Middlesbrough FC U18,22,"Oct 14, 1986",Retired

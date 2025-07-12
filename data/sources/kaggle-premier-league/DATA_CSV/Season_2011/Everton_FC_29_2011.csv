@@ -1,0 +1,37 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2007",Tim Howard,"1,91m",4267,"['United States', 'Hungary']",€4.00m,Manchester United,33,"Mar 6, 1979",Retired
+Goalkeeper,right,,"Jul 1, 2010",Jan Mucha,"1,89m",33195,['Slovakia'],€1.50m,Legia Warszawa,29,"Dec 5, 1982",Retired
+Goalkeeper,right,,"Jul 1, 2011",Marcus Hahnemann,"1,87m",4140,"['United States', 'Germany']",€500k,Wolverhampton Wanderers,40,"Jun 15, 1972",Retired
+Centre-Back,right,,"Jul 1, 2008",Jack Rodwell,"1,88m",57079,['England'],€15.00m,: Ablöse -,21,"Mar 11, 1991",Without Club
+Centre-Back,right,,"Jul 4, 2007",Phil Jagielka,"1,80m",13520,"['England', 'Poland']",€12.00m,Sheffield United,29,"Aug 17, 1982",Retired
+Centre-Back,right,,"Sep 1, 2009",Johnny Heitinga,"1,80m",4315,['Netherlands'],€9.00m,: Ablöse €6.80m,28,"Nov 15, 1983",Retired
+Centre-Back,left,,"Aug 27, 2009",Sylvain Distin,"1,92m",3356,"['France', 'Guadeloupe']",€2.00m,: Ablöse €6.50m,34,"Dec 16, 1977",Retired
+Centre-Back,right,,,Shkodran Mustafi,"1,84m",88590,"['Germany', 'Albania']",€100k,,20,"Apr 17, 1992",Retired
+Centre-Back,right,,"Jul 1, 2010",Shane Duffy,"1,93m",119269,"['Ireland', 'Northern Ireland']",,: Ablöse -,20,"Jan 1, 1992",Norwich City
+Left-Back,left,,"Aug 7, 2007",Leighton Baines,"1,70m",13507,['England'],€19.00m,Wigan Athletic,27,"Dec 11, 1984",Retired
+Right-Back,right,Team captain,"Jan 1, 2009",Séamus Coleman,"1,77m",68390,['Ireland'],€5.00m,Sligo Rovers,23,"Oct 11, 1988",Everton FC
+Right-Back,right,,"Jul 1, 2000",Tony Hibbert,"1,73m",3614,['England'],€2.00m,: Ablöse -,31,"Feb 20, 1981",Retired
+Right-Back,right,,"Jul 1, 2005",Phil Neville,"1,80m",3404,['England'],€1.50m,Manchester United,35,"Jan 21, 1977",Retired
+Central Midfield,right,,"Sep 2, 2008",Marouane Fellaini,"1,94m",39679,"['Belgium', 'Morocco']",€20.00m,: Ablöse €21.76m,24,"Nov 22, 1987",Retired
+Central Midfield,right,,"Jul 1, 2005",Mikel Arteta,"1,77m",7451,['Spain'],€14.50m,Real Sociedad,30,"Mar 26, 1982",Retired
+Central Midfield,right,,"Jul 1, 2011",Ross Barkley,"1,89m",131978,['England'],€4.50m,: Ablöse -,18,"Dec 5, 1993",Aston Villa
+Central Midfield,right,,"Jul 1, 2002",Leon Osman,"1,73m",3620,['England'],€4.50m,Everton FC Reserves,31,"May 17, 1981",Retired
+Central Midfield,right,,"Jan 13, 2012",Darron Gibson,"1,83m",42413,"['Ireland', 'Northern Ireland']",€3.50m,Manchester United,24,"Oct 25, 1987",Retired
+Central Midfield,right,,,James Wallace,"1,80m",83495,"['England', 'Ireland']",,,20,"Dec 19, 1991",Retired
+Central Midfield,right,,,Adam Forshaw,"1,75m",121257,['England'],,,20,"Oct 8, 1991",Plymouth Argyle
+Left Midfield,,,"Jul 31, 2012",Steven Pienaar,,4321,['South Africa'],€7.00m,Tottenham Hotspur,30,"Mar 17, 1982",Retired
+Left Midfield,left,,"Aug 31, 2011",Royston Drenthe,"1,67m",35631,"['Netherlands', 'Suriname']",€4.00m,Real Madrid,25,"Apr 8, 1987",Retired
+Attacking Midfield,left,,"Aug 25, 2009",Diniyar Bilyaletdinov,"1,85m",16690,['Russia'],€6.50m,: Ablöse €10.00m,27,"Feb 27, 1985",Retired
+Attacking Midfield,right,,"Jul 1, 2004",Tim Cahill,"1,78m",13556,"['Australia', 'Samoa']",€5.00m,: Ablöse €2.20m,32,"Dec 6, 1979",Retired
+Attacking Midfield,right,,"Jul 1, 2009",Jose Baxter,"1,79m",82734,['England'],,: Ablöse -,20,"Feb 7, 1992",Retired
+Second Striker,right,,"Jan 1, 2012",Landon Donovan,"1,73m",68,"['United States', 'Canada']",€3.50m,Los Angeles Galaxy,30,"Mar 4, 1982",Retired
+Second Striker,left,,"Oct 17, 2011",James McFadden,"1,78m",9956,['Scotland'],€1.50m,Without Club,29,"Apr 14, 1983",Retired
+Centre-Forward,both,,"Jan 31, 2012",Nikica Jelavic,"1,88m",25742,['Croatia'],€9.00m,: Ablöse €6.60m,26,"Aug 27, 1985",Retired
+Centre-Forward,right,,"Jul 1, 2006",Victor Anichebe,"1,90m",39532,"['Nigeria', 'England']",€3.50m,: Ablöse -,24,"Apr 23, 1988",Retired
+Centre-Forward,right,,"Jul 1, 2010",Jermaine Beckford,"1,88m",38874,"['Jamaica', 'England']",€2.50m,Leeds United,28,"Dec 9, 1983",Retired
+Centre-Forward,left,,"Jul 1, 2010",Magaye Gueye,"1,83m",91956,"['Senegal', 'France']",€2.50m,: Ablöse €1.40m,21,"Jul 6, 1990",Without Club
+Centre-Forward,right,,"Aug 31, 2011",Denis Stracqualursi,"1,91m",92544,"['Argentina', 'Italy']",€2.00m,Club Atlético Tigre,24,"Oct 20, 1987",Retired
+Centre-Forward,right,,"Jan 28, 2011",Apostolos Vellios,"1,91m",124495,['Greece'],€2.00m,: Ablöse €300k,20,"Jan 8, 1992",Nea Salamina Famagusta
+Centre-Forward,left,,"Sep 1, 2008",Louis Saha,"1,82m",4015,"['France', 'Guadeloupe']",€1.25m,Manchester United,33,"Aug 8, 1978",Retired
+Centre-Forward,right,,,João Silva,"1,89m",124384,['Portugal'],€1.10m,,22,"May 21, 1990",Without Club
+Centre-Forward,right,,"Jul 1, 2011",Conor McAleny,"1,78m",121260,['England'],,: Ablöse -,19,"Aug 12, 1992",Salford City

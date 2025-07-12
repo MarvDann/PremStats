@@ -1,0 +1,29 @@
+position,foot,status,joinedOn,name,height,id,nationality,contract,marketValue,joined,age,dateOfBirth,signedFrom
+Goalkeeper,right,,"Jul 18, 2023",Mads Hermansen,"1,87m",400536,['Denmark'],"Jun 30, 2028",€9.00m,,24,"Jul 11, 2000",Bröndby IF
+Goalkeeper,,,"Jul 1, 2020",Daniel Iversen,"1,91m",260841,['Denmark'],"Jun 30, 2025",€3.00m,,27,"Jul 19, 1997",Leicester City U21
+Goalkeeper,right,,"Jul 20, 2018",Danny Ward,"1,91m",203026,['Wales'],"Jun 30, 2025",€1.80m,,31,"Jun 22, 1993",: Ablöse €14.00m
+Goalkeeper,right,Ankle injury - Return unknown,"Jul 1, 2023",Jakub Stolarczyk,"1,94m",486144,['Poland'],"Jun 30, 2026",€400k,,23,"Dec 19, 2000",Leicester City U21
+Centre-Back,right,,"Sep 1, 2022",Wout Faes,"1,87m",292808,['Belgium'],"Jun 30, 2027",€20.00m,,26,"Apr 3, 1998",Stade Reims
+Centre-Back,right,,"Jul 9, 2024",Caleb Okoli,"1,91m",461833,"['Italy', 'Nigeria']","Jun 30, 2029",€12.00m,"Joined from Atalanta BC; date: Jul 9, 2024; fee: €14.00m",23,"Jul 13, 2001",Atalanta BC
+Centre-Back,right,,"Jul 1, 2023",Conor Coady,"1,85m",128901,['England'],"Jun 30, 2026",€3.00m,,31,"Feb 25, 1993",Wolverhampton Wanderers
+Centre-Back,both,Ankle injury - Return unknown,"Aug 13, 2021",Jannik Vestergaard,"1,99m",99331,"['Denmark', 'Germany']","Jun 30, 2027",€3.00m,,32,"Aug 3, 1992",Southampton FC
+Left-Back,left,,"Jan 20, 2023",Victor Kristiansen,"1,81m",564529,['Denmark'],"Jun 30, 2028",€15.00m,"Returned after loan spell with Bologna FC 1909; date: Jun 30, 2024; fee: End of loan",21,"Dec 16, 2002",: Ablöse €14.00m
+Left-Back,left,,"Jul 1, 2020",Luke Thomas,"1,81m",505194,['England'],"Jun 30, 2026",€6.00m,,23,"Jun 10, 2001",Leicester City U21
+Right-Back,both,,"Jul 1, 2019",James Justin,"1,83m",413220,"['England', 'St. Lucia']","Jun 30, 2026",€15.00m,,26,"Feb 23, 1998",Luton Town
+Right-Back,right,,"Jul 1, 2018",Ricardo Pereira,"1,75m",215876,"['Portugal', 'Cape Verde']","Jun 30, 2026",€8.00m,,31,"Oct 6, 1993",FC Porto
+Defensive Midfield,right,,"Aug 19, 2024",Oliver Skipp,"1,75m",406638,['England'],"Jun 30, 2029",€18.00m,"Joined from Tottenham Hotspur; date: Aug 19, 2024; fee: €23.50m",24,"Sep 16, 2000",Tottenham Hotspur
+Defensive Midfield,right,,"Jan 3, 2017",Wilfred Ndidi,"1,83m",274839,"['Nigeria', 'England']","Jun 30, 2027",€16.00m,,27,"Dec 16, 1996",KRC Genk
+Defensive Midfield,right,,"Jul 2, 2021",Boubakary Soumaré,"1,88m",344605,"['France', 'Senegal']","Jun 30, 2026",€14.00m,"Returned after loan spell with Sevilla FC; date: Jun 30, 2024; fee: End of loan",25,"Feb 27, 1999",LOSC Lille
+Defensive Midfield,right,,"Jul 1, 2023",Harry Winks,"1,78m",249126,['England'],"Jun 30, 2026",€12.00m,,28,"Feb 2, 1996",Tottenham Hotspur
+Defensive Midfield,right,,"Jan 1, 2018",Hamza Choudhury,"1,78m",341501,"['England', 'Bangladesh']","Jun 30, 2027",€4.50m,,27,"Oct 1, 1997",Leicester City U21
+Central Midfield,right,,"Jul 7, 2024",Michael Golding,"1,80m",936842,"['England', 'Ireland']","Jun 30, 2028",€2.00m,"Joined from Chelsea FC U21; date: Jul 7, 2024; fee: €5.90m",18,"May 23, 2006",Chelsea FC U21
+Attacking Midfield,right,,"Aug 29, 2024",Bilal El Khannouss,"1,80m",654982,"['Morocco', 'Belgium']","Jun 30, 2028",€30.00m,"Joined from KRC Genk; date: Aug 29, 2024; fee: €20.50m",20,"May 10, 2004",KRC Genk
+Attacking Midfield,left,,"Aug 10, 2024",Facundo Buonanotte,"1,74m",983989,"['Argentina', 'Italy']","Jun 30, 2025",€18.00m,"On loan from Brighton & Hove Albion until Jun 30, 2025",19,"Dec 23, 2004",Brighton & Hove Albion
+Left Winger,right,,"Jul 31, 2023",Stephy Mavididi,"1,82m",340328,"['England', 'DR Congo']","Jun 30, 2028",€11.00m,,26,"May 31, 1998",: Ablöse €7.50m
+Right Winger,left,,"Jul 1, 2024",Issahaku Fatawu,"1,77m",864121,['Ghana'],"Jun 30, 2029",€13.00m,"Joined from Sporting CP; date: Jul 1, 2024; fee: €17.00m",20,"Mar 8, 2004",Sporting CP
+Right Winger,right,,"Jul 6, 2024",Bobby De Cordova-Reid,"1,70m",186186,"['Jamaica', 'England']","Jun 30, 2027",€5.00m,"Joined from Fulham FC; date: Jul 6, 2024; fee: free transfer",31,"Feb 2, 1993",Fulham FC
+Right Winger,right,,"Jul 1, 2023",Kasey McAteer,"1,77m",621193,"['Ireland', 'England']","Jun 30, 2028",€900k,,22,"Nov 22, 2001",Leicester City U21
+Centre-Forward,right,,"Aug 30, 2024",Odsonne Edouard,"1,87m",344152,"['France', 'French Guiana']","Jun 30, 2025",€18.00m,"On loan from Crystal Palace until Jun 30, 2025",26,"Jan 16, 1998",Crystal Palace
+Centre-Forward,right,,"Jul 1, 2021",Patson Daka,"1,83m",365172,['Zambia'],"Jun 30, 2026",€12.00m,,26,"Oct 9, 1998",Red Bull Salzburg
+Centre-Forward,right,,"Aug 23, 2024",Jordan Ayew,"1,82m",108354,"['Ghana', 'France']","Jun 30, 2026",€4.00m,"Joined from Crystal Palace; date: Aug 23, 2024; fee: €5.90m",33,"Sep 11, 1991",Crystal Palace
+Centre-Forward,right,Team captain,"Jul 1, 2012",Jamie Vardy,"1,79m",197838,['England'],"Jun 30, 2025",€1.00m,,37,"Jan 11, 1987",Fleetwood Town

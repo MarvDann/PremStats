@@ -1,0 +1,46 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Hip injury - Return expected on Dec 2, 2024","Jul 24, 2021",Pierluigi Gollini,"1,94m",244192,['Italy'],€10.00m,,Atalanta BC,27,"Mar 18, 1995",Genoa CFC
+Goalkeeper,left,,"Aug 31, 2012",Hugo Lloris,"1,88m",17965,['France'],€7.00m,,: Ablöse €12.60m,35,"Dec 26, 1986",Los Angeles FC
+Goalkeeper,right,,"Aug 1, 2021",Brandon Austin,"1,88m",428016,"['England', 'United States']",€300k,,Tottenham Hotspur U23,23,"Jan 8, 1999",Tottenham Hotspur
+Centre-Back,right,,"Aug 30, 2022",Cristian Romero,"1,85m",355915,['Argentina'],€48.00m,,Atalanta BC,24,"Apr 27, 1998",Tottenham Hotspur
+Centre-Back,right,"Yellow card suspension - until Nov 24, 2024 - Süper Lig - 1 matchday","Aug 23, 2017",Davinson Sánchez,"1,87m",341429,['Colombia'],€28.00m,,Ajax Amsterdam,26,"Jun 12, 1996",Galatasaray
+Centre-Back,right,,"Jul 31, 2014",Eric Dier,"1,91m",175722,"['England', 'Portugal']",€28.00m,"Returned after loan spell with Bayern Munich; date: Jun 30, 2024; fee: End of loan",Sporting CP,28,"Jan 15, 1994",Bayern Munich
+Centre-Back,left,,"Jul 23, 2014",Ben Davies,"1,81m",192765,['Wales'],€20.00m,,: Ablöse €12.65m,29,"Apr 24, 1993",Tottenham Hotspur
+Centre-Back,right,,"Jan 1, 2020",Japhet Tanganga,"1,84m",346478,"['England', 'DR Congo']",€12.00m,,Tottenham Hotspur U23,23,"Mar 31, 1999",Millwall FC
+Centre-Back,right,,"Oct 16, 2020",Joe Rodon,"1,93m",297212,['Wales'],€8.00m,,: Ablöse €12.10m,24,"Oct 22, 1997",Leeds United
+Centre-Back,right,,"Jul 1, 2016",Cameron Carter-Vickers,"1,83m",341049,"['United States', 'England']",€7.00m,,Tottenham Hotspur U23,24,"Dec 31, 1997",Celtic FC
+Centre-Back,right,,,Maksim Paskotsi,"1,88m",488298,['Estonia'],€200k,,,19,"Jan 19, 2003",Grasshopper Club Zurich
+Centre-Back,right,,,Malachi Fagan-Walcott,"1,86m",554173,"['England', 'Barbados']",,,,20,"Mar 11, 2002",York City
+Centre-Back,left,,,Tobi Omole,"1,89m",503687,"['England', 'Nigeria']",,,,22,"Dec 17, 1999",Without Club
+Left-Back,left,,"Sep 19, 2020",Sergio Reguilón,"1,78m",282429,['Spain'],€25.00m,,Real Madrid,25,"Dec 16, 1996",Tottenham Hotspur
+Left-Back,left,,"Aug 8, 2019",Ryan Sessegnon,"1,78m",392775,['England'],€18.00m,,Fulham FC,22,"May 18, 2000",Fulham FC
+Right-Back,right,,"Aug 31, 2021",Emerson Royal,"1,83m",476344,"['Brazil', 'Spain']",€25.00m,,FC Barcelona,23,"Jan 14, 1999",AC Milan
+Right-Back,right,,"Aug 30, 2020",Matt Doherty,"1,85m",171679,['Ireland'],€12.00m,,Wolverhampton Wanderers,30,"Jan 16, 1992",Wolverhampton Wanderers
+Right-Back,right,,,Marcel Lavinier,"1,85m",392772,"['Portugal', 'England']",€300k,,,21,"Dec 16, 2000",Forest Green Rovers
+Right-Back,right,,,Kallum Cesay,"1,89m",696183,"['Sierra Leone', 'England']",,,,19,"Sep 4, 2002",Wealdstone FC
+Right-Back,right,,,Brooklyn Lyons-Foster,"1,83m",462698,"['England', 'Ireland']",,,,21,"Dec 1, 2000",HJK Helsinki
+Defensive Midfield,right,,"Aug 11, 2020",Pierre-Emile Højbjerg,"1,85m",167799,"['Denmark', 'France']",€40.00m,,Southampton FC,26,"Aug 5, 1995",Olympique Marseille
+Defensive Midfield,right,,"Jan 31, 2022",Rodrigo Bentancur,"1,87m",354362,['Uruguay'],€28.00m,,Juventus FC,25,"Jun 25, 1997",Tottenham Hotspur
+Defensive Midfield,right,,"Jul 1, 2018",Oliver Skipp,"1,75m",406638,['England'],€18.00m,,Tottenham Hotspur U23,21,"Sep 16, 2000",Leicester City
+Defensive Midfield,right,,"Jul 1, 2016",Harry Winks,"1,78m",249126,['England'],€15.00m,,Tottenham Hotspur U23,26,"Feb 2, 1996",Leicester City
+Defensive Midfield,left,,,Harvey White,"1,68m",581598,['England'],€600k,,,20,"Sep 19, 2001",Stevenage FC
+Defensive Midfield,,,,Matthew Craig,,633659,"['Scotland', 'England']",,,,19,"Apr 16, 2003",Barnsley FC
+Defensive Midfield,right,,,Michael Craig,,633621,"['Scotland', 'England']",,,,19,"Apr 16, 2003",Reading FC
+Defensive Midfield,right,Ankle injury - Return unknown,,Jamie Bowden,"1,83m",504051,"['Ireland', 'England']",,,,20,"Jul 9, 2001",Without Club
+Central Midfield,right,Hip injury - Return unknown,"Jul 2, 2019",Tanguy Ndombélé,"1,81m",450936,"['France', 'DR Congo']",€30.00m,"Returned after loan spell with Galatasaray; date: Jun 30, 2024; fee: End of loan",: Ablöse €62.00m,25,"Dec 28, 1996",OGC Nice
+Central Midfield,left,Hamstring injury - Return unknown,"Jul 1, 2020",Giovani Lo Celso,"1,77m",348795,"['Argentina', 'Italy']",€22.00m,,Real Betis Balompié,26,"Apr 9, 1996",Real Betis Balompié
+Central Midfield,right,,"Aug 31, 2016",Moussa Sissoko,"1,87m",46001,"['France', 'Mali']",€4.50m,,Newcastle United,32,"Aug 16, 1989",Watford FC
+Central Midfield,right,,,Nile John,"1,76m",581683,['England'],€400k,,,19,"Mar 6, 2003",CD Feirense
+Attacking Midfield,left,,"Jul 1, 2023",Dejan Kulusevski,"1,86m",431755,"['Sweden', 'North Macedonia']",€40.00m,,Juventus FC,22,"Apr 25, 2000",Tottenham Hotspur
+Attacking Midfield,right,,"Feb 2, 2015",Dele Alli,"1,88m",207929,"['England', 'Nigeria']",€16.00m,,Milton Keynes Dons,26,"Apr 11, 1996",Without Club
+Attacking Midfield,right,,"Jul 1, 2024",Alfie Devine,"1,82m",728734,['England'],€900k,,Tottenham Hotspur U21,17,"Aug 1, 2004",KVC Westerlo
+Left Winger,both,Team captain,"Aug 28, 2015",Heung-min Son,"1,84m",91845,"['Korea, South']",€75.00m,,Bayer 04 Leverkusen,29,"Jul 8, 1992",Tottenham Hotspur
+Left Winger,left,,"Jul 26, 2021",Bryan Gil,"1,75m",537382,['Spain'],€18.00m,,Sevilla FC,21,"Feb 11, 2001",Girona FC
+Left Winger,right,,"Jan 29, 2020",Steven Bergwijn,"1,71m",284165,"['Netherlands', 'Suriname']",€18.00m,,: Ablöse €30.00m,24,"Oct 8, 1997",Al-Ittihad Club
+Left Winger,right,,"Jul 2, 2019",Jack Clarke,"1,81m",559794,['England'],€3.50m,,Leeds United,21,"Nov 23, 2000",Ipswich Town
+Left Winger,right,,,Romaine Mundle,,696181,"['England', 'Jamaica']",,,,19,"Apr 24, 2003",Sunderland AFC
+Left Winger,right,,,J'Neil Bennett,"1,78m",554174,"['England', 'Jamaica']",,,,20,"Dec 7, 2001",Without Club
+Right Winger,right,,"Jan 31, 2018",Lucas Moura,"1,72m",77100,['Brazil'],€20.00m,,: Ablöse €28.40m,29,"Aug 13, 1992",São Paulo Futebol Clube
+Right Winger,left,,,Dilan Markanday,"1,67m",530807,"['England', 'India']",€400k,,,20,"Aug 20, 2001",Chesterfield FC
+Centre-Forward,right,,"Jul 1, 2010",Harry Kane,"1,88m",132098,['England'],€90.00m,,Tottenham Hotspur U18,28,"Jul 28, 1993",Bayern Munich
+Centre-Forward,right,,"Jul 1, 2023",Dane Scarlett,"1,80m",670883,"['England', 'Jamaica']",€250k,,Tottenham Hotspur U21,18,"Mar 24, 2004",Oxford United

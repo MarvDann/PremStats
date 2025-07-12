@@ -1,0 +1,35 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 9, 2013",Joel Robles,"1,94m",101118,['Spain'],€3.50m,: Ablöse €4.00m,24,"Jun 17, 1990",Estoril Praia
+Goalkeeper,right,,"Jul 1, 2007",Tim Howard,"1,91m",4267,"['United States', 'Hungary']",€2.00m,Manchester United,35,"Mar 6, 1979",Retired
+Goalkeeper,,,,Mason Springthorpe,"1,91m",242416,['England'],,,19,"Nov 1, 1994",Without Club
+Centre-Back,right,,"Jul 4, 2007",Phil Jagielka,"1,80m",13520,"['England', 'Poland']",€7.50m,Sheffield United,31,"Aug 17, 1982",Retired
+Centre-Back,right,,"Jan 31, 2013",John Stones,"1,88m",186590,['England'],€4.00m,Barnsley FC,20,"May 28, 1994",Manchester City
+Centre-Back,right,,"Sep 1, 2009",Johnny Heitinga,"1,80m",4315,['Netherlands'],€3.50m,: Ablöse €6.80m,30,"Nov 15, 1983",Retired
+Centre-Back,right,,"Jul 9, 2013",Antolín Alcaraz,"1,87m",14259,"['Paraguay', 'Italy']",€2.50m,Wigan Athletic,31,"Jul 30, 1982",Retired
+Centre-Back,left,,"Aug 27, 2009",Sylvain Distin,"1,92m",3356,"['France', 'Guadeloupe']",€1.00m,: Ablöse €6.50m,36,"Dec 16, 1977",Retired
+Centre-Back,right,,"Jul 1, 2014",Tyias Browning,"1,88m",156934,"['China', 'England']",,Everton FC U21,20,"May 27, 1994",Shanghai Port
+Left-Back,left,,"Aug 7, 2007",Leighton Baines,"1,70m",13507,['England'],€20.00m,Wigan Athletic,29,"Dec 11, 1984",Retired
+Left-Back,left,,"Aug 31, 2012",Bryan Oviedo,"1,72m",124983,['Costa Rica'],€4.50m,: Ablöse €4.50m,24,"Feb 18, 1990",LD Alajuelense
+Left-Back,left,,"Jul 1, 2011",Luke Garbutt,"1,80m",110860,['England'],€250k,: Ablöse -,21,"May 21, 1993",Salford City
+Right-Back,right,Team captain,"Jan 1, 2009",Séamus Coleman,"1,77m",68390,['Ireland'],€10.00m,Sligo Rovers,25,"Oct 11, 1988",Everton FC
+Right-Back,right,,"Jul 1, 2000",Tony Hibbert,"1,73m",3614,['England'],€750k,: Ablöse -,33,"Feb 20, 1981",Retired
+Defensive Midfield,left,,"Jul 8, 2014",Gareth Barry,"1,84m",3291,['England'],€5.00m,: Ablöse free transfer,33,"Feb 23, 1981",Unknown
+Central Midfield,right,,"Sep 2, 2008",Marouane Fellaini,"1,94m",39679,"['Belgium', 'Morocco']",€23.00m,: Ablöse €21.76m,26,"Nov 22, 1987",Retired
+Central Midfield,right,,"Sep 2, 2013",James McCarthy,"1,80m",45333,"['Ireland', 'Scotland']",€12.00m,Wigan Athletic,23,"Nov 12, 1990",Celtic FC
+Central Midfield,right,,"Jul 1, 2011",Ross Barkley,"1,89m",131978,['England'],€11.00m,: Ablöse -,20,"Dec 5, 1993",Aston Villa
+Central Midfield,right,,"Jan 13, 2012",Darron Gibson,"1,83m",42413,"['Ireland', 'Northern Ireland']",€4.00m,Manchester United,26,"Oct 25, 1987",Retired
+Central Midfield,right,,"Jul 1, 2002",Leon Osman,"1,73m",3620,['England'],€3.50m,Everton FC Reserves,33,"May 17, 1981",Retired
+Central Midfield,right,,,Ryan Ledson,"1,78m",258884,['England'],,,16,"Aug 19, 1997",Preston North End
+Left Midfield,,,"Jul 31, 2012",Steven Pienaar,,4321,['South Africa'],€4.00m,Tottenham Hotspur,32,"Mar 17, 1982",Retired
+Left Winger,both,,"Jan 11, 2014",Aiden McGeady,"1,80m",21333,"['Ireland', 'Scotland']",€6.00m,: Ablöse €2.00m,28,"Apr 4, 1986",Retired
+Right Winger,right,,"Aug 19, 2012",Kevin Mirallas,"1,82m",33639,"['Belgium', 'Spain']",€12.00m,: Ablöse €7.65m,26,"Oct 5, 1987",Retired
+Second Striker,right,,"Jul 4, 2012",Steven Naismith,"1,78m",12763,['Scotland'],€3.50m,: Ablöse free transfer,27,"Sep 14, 1986",Retired
+Centre-Forward,left,,"Jul 30, 2014",Romelu Lukaku,"1,91m",96341,"['Belgium', 'DR Congo']",€25.00m,Chelsea FC,21,"May 13, 1993",SSC Napoli
+Centre-Forward,right,Knee surgery - Return unknown,"Jul 1, 2015",Gerard Deulofeu,"1,77m",129476,['Spain'],€12.00m,FC Barcelona,20,"Mar 13, 1994",Udinese Calcio
+Centre-Forward,left,,"Jan 24, 2014",Lacina Traoré,"2,03m",69006,"[""Cote d'Ivoire""]",€11.00m,: Ablöse ?,24,"May 20, 1990",Retired
+Centre-Forward,both,,"Jan 31, 2012",Nikica Jelavic,"1,88m",25742,['Croatia'],€6.50m,: Ablöse €6.60m,28,"Aug 27, 1985",Retired
+Centre-Forward,right,,"Jul 1, 2006",Victor Anichebe,"1,90m",39532,"['Nigeria', 'England']",€5.00m,: Ablöse -,26,"Apr 23, 1988",Retired
+Centre-Forward,right,,"Jul 8, 2013",Arouna Koné,"1,81m",8552,"[""Cote d'Ivoire""]",€3.50m,Wigan Athletic,30,"Nov 11, 1983",Retired
+Centre-Forward,right,,"Jan 28, 2011",Apostolos Vellios,"1,91m",124495,['Greece'],€2.00m,: Ablöse €300k,22,"Jan 8, 1992",Nea Salamina Famagusta
+Centre-Forward,left,,"Jul 1, 2010",Magaye Gueye,"1,83m",91956,"['Senegal', 'France']",€1.50m,: Ablöse €1.40m,23,"Jul 6, 1990",Without Club
+Centre-Forward,right,,"Jul 1, 2011",Conor McAleny,"1,78m",121260,['England'],,: Ablöse -,21,"Aug 12, 1992",Salford City

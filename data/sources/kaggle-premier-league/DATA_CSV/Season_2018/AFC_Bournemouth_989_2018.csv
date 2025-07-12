@@ -1,0 +1,38 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2017",Asmir Begovic,"1,99m",33873,"['Bosnia-Herzegovina', 'Canada']",€7.00m,Chelsea FC,32,"Jun 20, 1987",Everton FC
+Goalkeeper,right,,"Jul 1, 2015",Artur Boruc,"1,93m",15220,['Poland'],€1.00m,Southampton FC,39,"Feb 20, 1980",Retired
+Goalkeeper,right,,"Jan 31, 2017",Aaron Ramsdale,"1,90m",427568,['England'],€750k,Sheffield United,21,"May 14, 1998",Southampton FC
+Goalkeeper,right,,"Jul 1, 2020",Mark Travers,"1,91m",357658,['Ireland'],€250k,AFC Bournemouth U21,20,"May 18, 1999",AFC Bournemouth
+Centre-Back,left,,"Jul 1, 2017",Nathan Aké,"1,80m",177476,"['Netherlands', ""Cote d'Ivoire""]",€30.00m,Chelsea FC,24,"Feb 18, 1995",Manchester City
+Centre-Back,right,,"Jan 22, 2019",Chris Mepham,"1,90m",480987,"['Wales', 'England']",€13.00m,Brentford FC,21,"Nov 5, 1997",Sunderland AFC
+Centre-Back,right,,"Jan 3, 2012",Steve Cook,"1,85m",90836,['England'],€10.00m,Brighton & Hove Albion,28,"Apr 19, 1991",Queens Park Rangers
+Centre-Back,left,Cruciate ligament tear - Return unknown,"Jul 1, 2015",Tyrone Mings,"1,96m",253677,['England'],€5.00m,Ipswich Town,26,"Mar 13, 1993",Aston Villa
+Centre-Back,left,,"Jan 1, 2018",Jack Simpson,"1,90m",419930,['England'],€1.50m,AFC Bournemouth U21,22,"Dec 18, 1996",Leyton Orient
+Left-Back,left,,"Jul 24, 2018",Diego Rico,"1,83m",249513,['Spain'],€9.00m,CD Leganés,26,"Feb 23, 1993",Getafe CF
+Left-Back,left,,"Jan 1, 2012",Charlie Daniels,"1,78m",61819,['England'],€3.00m,Leyton Orient,32,"Sep 7, 1986",Retired
+Left-Back,left,,"Jul 27, 2016",Brad Smith,"1,77m",175745,"['Australia', 'England']",€1.00m,: Ablöse €3.60m,25,"Apr 9, 1994",Houston Dynamo FC
+Right-Back,right,,"Jan 4, 2019",Nathaniel Clyne,"1,75m",85177,"['England', 'Grenada']",€12.00m,: Ablöse ?,28,"Apr 5, 1991",Crystal Palace
+Right-Back,right,,"Jan 28, 2014",Adam Smith,"1,74m",61841,['England'],€7.00m,Tottenham Hotspur,28,"Apr 29, 1991",AFC Bournemouth
+Right-Back,right,,"Jan 9, 2012",Simon Francis,"1,91m",13573,['England'],€2.00m,Charlton Athletic,34,"Feb 16, 1985",Retired
+Defensive Midfield,right,,"Aug 7, 2018",Jefferson Lerma,"1,79m",262980,['Colombia'],€25.00m,Levante UD,24,"Oct 25, 1994",Crystal Palace
+Defensive Midfield,left,,"Jul 1, 2015",Matt Butcher,"1,88m",391132,['England'],,AFC Bournemouth U18,22,"May 14, 1997",Wycombe Wanderers
+Central Midfield,right,,"Jul 8, 2016",Lewis Cook,"1,75m",249089,['England'],€20.00m,Leeds United,22,"Feb 3, 1997",AFC Bournemouth
+Central Midfield,left,,"Jul 1, 2010",Harry Arter,"1,77m",55742,"['Ireland', 'England']",€7.00m,Woking FC,29,"Dec 28, 1989",Precision FC
+Central Midfield,right,,"Jul 1, 2014",Dan Gosling,"1,80m",44983,['England'],€3.50m,Newcastle United,29,"Feb 1, 1990",Westfield FC
+Central Midfield,left,,"Sep 1, 2014",Andrew Surman,"1,78m",29975,"['England', 'South Africa']",€2.50m,: Ablöse €630k,32,"Aug 20, 1986",Retired
+Central Midfield,right,,"Dec 31, 2019",Emerson Hyndman,"1,70m",223047,"['United States', 'Portugal']",€1.00m,Atlanta United FC,23,"Apr 9, 1996",Memphis 901 FC
+Central Midfield,right,,"Jul 1, 2019",Nnamdi Ofoborh,"1,75m",611906,"['Nigeria', 'England']",€150k,AFC Bournemouth U21,19,"Nov 7, 1999",Swindon Town
+Central Midfield,right,,,Kyle Taylor,"1,67m",562254,"['Switzerland', 'England']",,,19,"Aug 28, 1999",Without Club
+Left Winger,right,,"Jan 18, 2013",Ryan Fraser,"1,63m",146795,['Scotland'],€30.00m,Aberdeen FC,25,"Feb 24, 1994",Southampton FC
+Left Winger,right,,"Jul 1, 2015",Joshua King,"1,80m",91059,['Norway'],€20.00m,Blackburn Rovers,27,"Jan 15, 1992",FC Toulouse
+Left Winger,right,,"Jul 1, 2014",Junior Stanislas,"1,83m",87672,"['England', 'St. Lucia']",€4.50m,: Ablöse free transfer,29,"Nov 26, 1989",Retired
+Left Winger,right,,"Jul 1, 2010",Marc Pugh,"1,80m",36939,['England'],€1.50m,Hereford United (- 2014),32,"Apr 2, 1987",Retired
+Left Winger,right,,,Alexandru Dobre,"1,85m",365770,['Romania'],€100k,,20,"Aug 30, 1998",FC Rapid 1923
+Right Winger,left,,"Jul 1, 2018",David Brooks,"1,73m",277033,"['Wales', 'England']",€30.00m,Sheffield United,21,"Jul 8, 1997",AFC Bournemouth
+Right Winger,right,,"Jul 14, 2016",Jordon Ibe,"1,76m",195652,"['England', 'Nigeria']",€8.00m,: Ablöse €18.00m,23,"Dec 8, 1995",Hayes & Yeading FC
+Right Winger,left,,"Jul 4, 2017",Connor Mahoney,"1,75m",287528,"['England', 'Ireland']",€750k,Blackburn Rovers,22,"Feb 12, 1997",Barrow AFC
+Centre-Forward,right,Back injury - Return unknown,"Jul 4, 2014",Callum Wilson,"1,80m",123682,['England'],€30.00m,Coventry City,27,"Feb 27, 1992",Newcastle United
+Centre-Forward,right,,"Jan 4, 2019",Dominic Solanke,"1,86m",258889,"['England', 'Nigeria']",€18.00m,: Ablöse €21.20m,21,"Sep 14, 1997",Tottenham Hotspur
+Centre-Forward,right,,"Jul 1, 2016",Lys Mousset,"1,86m",291422,"['France', 'Senegal']",€3.50m,Le Havre AC,23,"Feb 8, 1996",Without Club
+Centre-Forward,right,,"Jul 1, 2017",Jermain Defoe,"1,71m",3875,"['England', 'St. Lucia']",€2.00m,Sunderland AFC,36,"Oct 7, 1982",Retired
+Centre-Forward,right,,"Jul 1, 2019",Sam Surridge,"1,90m",398402,['England'],,AFC Bournemouth U21,20,"Jul 28, 1998",Nashville SC

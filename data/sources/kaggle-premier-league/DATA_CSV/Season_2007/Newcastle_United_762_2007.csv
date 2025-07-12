@@ -1,0 +1,34 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 1997",Shay Given,"1,85m",3146,['Ireland'],€8.25m,Blackburn Rovers,32,"Apr 20, 1976",Retired
+Goalkeeper,right,,"Jul 1, 1993",Steve Harper,"1,88m",3562,['England'],€1.50m,Seaham Red Star,33,"Mar 14, 1975",Retired
+Goalkeeper,left,,"Jul 1, 2008",Tim Krul,"1,93m",33027,['Netherlands'],€900k,Newcastle United Reserves,20,"Apr 3, 1988",Luton Town
+Goalkeeper,right,,"Jul 1, 2007",Fraser Forster,"2,01m",52570,['England'],€400k,Newcastle United U18,20,"Mar 17, 1988",Tottenham Hotspur
+Centre-Back,right,,"Jul 1, 2003",Steven Taylor,"1,86m",17273,['England'],€5.25m,Newcastle United U18,22,"Jan 23, 1986",Retired
+Centre-Back,,,"Jul 1, 2007",David Rozehnal,,9659,['Czech Republic'],€4.00m,: Ablöse €4.30m,27,"Jul 5, 1980",Retired
+Centre-Back,right,,"Aug 31, 2007",Abdoulaye Faye,"1,87m",6107,"['Senegal', 'France']",€3.50m,: Ablöse €2.80m,30,"Feb 26, 1978",Retired
+Centre-Back,right,,"Aug 1, 2007",Cláudio Caçapa,"1,80m",5340,"['Brazil', 'France']",€2.00m,: Ablöse free transfer,32,"May 29, 1976",Retired
+Centre-Back,right,,"Mar 1, 2008",Lamine Diatta,"1,84m",3907,"['Senegal', 'France']",€1.00m,Without Club,32,"Jul 2, 1975",Retired
+Centre-Back,right,,"Jan 1, 2005",Peter Ramage,"1,85m",28801,"['England', 'Scotland']",€1.00m,Newcastle United Reserves,24,"Nov 22, 1983",Retired
+Centre-Back,right,,"Jul 1, 2006",Paul Huntington,"1,91m",45516,['England'],€800k,Newcastle United U18,20,"Sep 17, 1987",Bradford City
+Centre-Back,both,,"Jul 1, 2006",David Edgar,"1,91m",44910,"['Canada', 'England']",€500k,Newcastle United U18,21,"May 19, 1987",Retired
+Centre-Back,right,,"Jan 1, 2008",Ben Tozer,"1,85m",65927,['England'],€400k,Swindon Town,18,"Mar 1, 1990",Forest Green Rovers
+Left-Back,left,,"Aug 1, 2007",José Enrique,"1,84m",35571,['Spain'],€5.00m,: Ablöse €8.70m,22,"Jan 23, 1986",Retired
+Right-Back,right,,"Aug 1, 2007",Habib Bèye,"1,82m",3923,"['Senegal', 'France']",€5.25m,Olympique Marseille,30,"Oct 19, 1977",Retired
+Right-Back,right,,"Jul 1, 2004",Stephen Carr,"1,75m",4046,['Ireland'],€2.50m,: Ablöse €3.00m,31,"Aug 29, 1976",Retired
+Defensive Midfield,right,,"Jul 29, 2004",Nicky Butt,"1,78m",3543,['England'],€3.75m,Manchester United,33,"Jan 21, 1975",Retired
+Central Midfield,right,,"Jul 2, 2004",James Milner,"1,75m",3333,['England'],€8.75m,Leeds United,22,"Jan 4, 1986",Brighton & Hove Albion
+Central Midfield,left,,"Jul 1, 2005",Emre Belözoğlu,"1,70m",5782,['Türkiye'],€7.50m,: Ablöse €5.00m,27,"Sep 7, 1980",Retired
+Central Midfield,right,,"Jul 1, 2007",Joey Barton,"1,80m",3292,['England'],€7.50m,: Ablöse €8.60m,25,"Sep 2, 1982",Retired
+Central Midfield,,,"Aug 3, 2007",Alan Smith,,3768,['England'],€7.00m,Manchester United,27,"Oct 28, 1980",Retired
+Central Midfield,left,,"Jan 1, 2006",Matthew Pattison,"1,73m",38370,"['South Africa', 'England']",€450k,Newcastle United U18,21,"Oct 27, 1986",Retired
+Right Midfield,left,,"Jul 1, 2006",Damien Duff,"1,77m",3259,['Ireland'],€7.00m,Chelsea FC,29,"Mar 2, 1979",Retired
+Right Midfield,right,,"Jul 1, 2007",Njitap Geremi,"1,80m",3374,['Cameroon'],€4.50m,Chelsea FC,29,"Dec 20, 1978",Retired
+Right Midfield,right,,"Jan 1, 2006",Nolberto Solano,"1,76m",3460,['Peru'],€4.00m,: Ablöse €2.25m,33,"Dec 12, 1974",Retired
+Attacking Midfield,left,,"Jul 1, 2007",James Troisi,"1,76m",52585,"['Australia', 'Italy']",€200k,Newcastle United U18,19,"Jul 3, 1988",Without Club
+Left Winger,right,,"Jan 1, 2009",Kazenga LuaLua,"1,80m",52576,"['DR Congo', 'England']",€400k,Newcastle United U18,17,"Dec 10, 1990",Without Club
+Right Winger,left,heart problems - Return unknown,"Aug 3, 2004",Charles N'Zogbia,"1,71m",22165,"['France', 'DR Congo']",€7.00m,: Ablöse €1.00m,22,"May 28, 1986",Retired
+Centre-Forward,,,"Aug 24, 2006",Obafemi Martins,,5794,"['Nigeria', 'Italy']",€14.50m,: Ablöse €16.00m,23,"Oct 28, 1984",Retired
+Centre-Forward,both,,"Aug 31, 2005",Michael Owen,"1,73m",1397,['England'],€12.00m,Real Madrid,28,"Dec 14, 1979",Retired
+Centre-Forward,both,,"Jul 1, 2007",Mark Viduka,"1,88m",3242,"['Australia', 'Croatia']",€4.50m,Middlesbrough FC,32,"Oct 9, 1975",Retired
+Centre-Forward,right,,"Jul 1, 2000",Shola Ameobi,"1,91m",3276,"['Nigeria', 'England']",€3.50m,Newcastle United U18,26,"Oct 12, 1981",Retired
+Centre-Forward,left,,"Aug 8, 2019",Andy Carroll,"1,94m",48066,['England'],€400k,West Ham United,19,"Jan 6, 1989",FC Girondins Bordeaux

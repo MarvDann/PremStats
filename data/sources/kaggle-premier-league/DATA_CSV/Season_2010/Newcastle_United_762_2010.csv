@@ -1,0 +1,39 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 1993",Steve Harper,"1,88m",3562,['England'],€2.00m,Seaham Red Star,36,"Mar 14, 1975",Retired
+Goalkeeper,right,"Jul 1, 2007",Fraser Forster,"2,01m",52570,['England'],€2.00m,Newcastle United U18,23,"Mar 17, 1988",Tottenham Hotspur
+Goalkeeper,left,"Jul 1, 2008",Tim Krul,"1,93m",33027,['Netherlands'],€2.00m,Newcastle United Reserves,23,"Apr 3, 1988",Luton Town
+Goalkeeper,right,"Jul 1, 2008",Ole Söderberg,"1,94m",62145,['Sweden'],€50k,Newcastle United U18,20,"Jul 20, 1990",Retired
+Centre-Back,right,"Aug 15, 2008",Fabricio Coloccini,"1,84m",6150,"['Argentina', 'Italy']",€6.50m,Deportivo de La Coruña,29,"Jan 22, 1982",Retired
+Centre-Back,right,"Jul 1, 2003",Steven Taylor,"1,86m",17273,['England'],€6.00m,Newcastle United U18,25,"Jan 23, 1986",Retired
+Centre-Back,right,"Jan 1, 2010",Mike Williamson,"1,94m",10642,['England'],€3.00m,: Ablöse €1.10m,27,"Nov 8, 1983",Retired
+Centre-Back,right,"Jul 1, 2010",James Perch,"1,80m",49409,"['England', 'Jamaica']",€1.50m,: Ablöse €1.20m,25,"Sep 28, 1985",Ilkeston Town FC
+Centre-Back,,"Jul 1, 2010",Sol Campbell,,3198,"['England', 'Jamaica']",€1.00m,: Ablöse free transfer,36,"Sep 18, 1974",Retired
+Centre-Back,left,"Jan 1, 2008",Tamás Kádár,"1,88m",64313,['Hungary'],€500k,: Ablöse €1.35m,21,"Mar 14, 1990",MTK Budapest
+Left-Back,left,"Aug 1, 2007",José Enrique,"1,84m",35571,['Spain'],€5.50m,: Ablöse €8.70m,25,"Jan 23, 1986",Retired
+Right-Back,right,"Jan 20, 2010",Danny Simpson,"1,76m",37442,"['England', 'Jamaica']",€2.50m,Manchester United,24,"Jan 4, 1987",Retired
+Right-Back,right,"Jan 1, 2009",Ryan Taylor,"1,79m",33785,['England'],€1.50m,Wigan Athletic,26,"Aug 19, 1984",Without Club
+Right-Back,right,"Jul 1, 2011",James Tavernier,"1,82m",62094,['England'],,Newcastle United Reserves,19,"Oct 31, 1991",Rangers FC
+Defensive Midfield,right,"Aug 26, 2010",Cheik Tioté,"1,80m",33478,"[""Cote d'Ivoire""]",€5.00m,Twente Enschede FC,25,"Jun 21, 1986",---
+Central Midfield,right,"Jul 1, 2007",Joey Barton,"1,80m",3292,['England'],€5.00m,: Ablöse €8.60m,28,"Sep 2, 1982",Retired
+Central Midfield,right,"Jul 11, 2008",Danny Guthrie,"1,76m",16716,['England'],€3.50m,: Ablöse €4.30m,24,"Apr 18, 1987",Retired
+Central Midfield,,"Aug 3, 2007",Alan Smith,,3768,['England'],€3.00m,Manchester United,30,"Oct 28, 1980",Retired
+Central Midfield,right,"Jul 22, 2010",Dan Gosling,"1,80m",44983,['England'],€2.50m,: Ablöse free transfer,21,"Feb 1, 1990",Westfield FC
+Central Midfield,right,,Michael Richardson,"1,78m",177022,['England'],,,19,"Mar 17, 1992",Without Club
+Left Midfield,right,"Jul 2, 2008",Jonás Gutiérrez,"1,84m",26443,"['Argentina', 'Italy']",€8.00m,RCD Mallorca,27,"Jul 5, 1983",Retired
+Left Midfield,left,"Jan 1, 2011",Shane Ferguson,"1,75m",62052,['Northern Ireland'],€50k,Newcastle United Reserves,19,"Jul 12, 1991",Without Club
+Attacking Midfield,right,"Jan 31, 2011",Stephen Ireland,"1,73m",34838,['Ireland'],€9.00m,: Ablöse free transfer,24,"Aug 22, 1986",Retired
+Attacking Midfield,right,"Jan 30, 2009",Kevin Nolan,"1,83m",3950,['England'],€8.00m,: Ablöse €4.50m,29,"Jun 24, 1982",Retired
+Attacking Midfield,left,"Jan 1, 2011",Hatem Ben Arfa,"1,79m",18900,"['France', 'Tunisia']",€7.00m,Olympique Marseille,24,"Mar 7, 1987",Retired
+Left Winger,right,"Jan 26, 2010",Wayne Routledge,"1,70m",14066,"['England', 'Jamaica']",€3.00m,: Ablöse €2.00m,26,"Jan 7, 1985",Retired
+Left Winger,right,"Jan 1, 2009",Kazenga LuaLua,"1,80m",52576,"['DR Congo', 'England']",€500k,Newcastle United U18,20,"Dec 10, 1990",Without Club
+Left Winger,left,"Jul 1, 2011",Sammy Ameobi,"1,90m",92381,"['England', 'Nigeria']",,Newcastle United Reserves,19,"May 1, 1992",Without Club
+Right Winger,right,"Jul 1, 2008",Ryan Donaldson,"1,93m",61569,['England'],,Newcastle United U18,20,"May 1, 1991",Blyth Spartans
+Second Striker,left,"Jan 1, 2009",Haris Vuckic,"1,88m",76560,['Slovenia'],€125k,NK Domzale,18,"Aug 21, 1992",NK Domzale
+Centre-Forward,left,"Aug 8, 2019",Andy Carroll,"1,94m",48066,['England'],€20.00m,West Ham United,22,"Jan 6, 1989",FC Girondins Bordeaux
+Centre-Forward,right,"Jul 1, 2000",Shola Ameobi,"1,91m",3276,"['Nigeria', 'England']",€4.00m,Newcastle United U18,29,"Oct 12, 1981",Retired
+Centre-Forward,left,"Jan 1, 2009",Peter Løvenkrands,"1,79m",9620,['Denmark'],€2.00m,FC Schalke 04,31,"Jan 29, 1980",Retired
+Centre-Forward,right,"Sep 1, 2008",Xisco,"1,88m",34564,['Spain'],€1.50m,Deportivo de La Coruña,25,"Jun 26, 1986",Retired
+Centre-Forward,right,"Jul 1, 2009",Nile Ranger,"1,88m",88750,"['England', 'Jamaica']",€1.50m,Newcastle United U18,20,"Apr 11, 1991",Kettering Town
+Centre-Forward,right,"Feb 1, 2010",Leon Best,"1,87m",28244,"['Ireland', 'England']",€1.00m,Coventry City,24,"Sep 19, 1986",Retired
+Centre-Forward,right,"Feb 10, 2011",Shefki Kuqi,"1,88m",12398,"['Finland', 'Kosovo']",€750k,: Ablöse free transfer,34,"Nov 10, 1976",Retired
+Centre-Forward,right,"Jul 1, 2008",Phil Airey,"1,81m",62037,['England'],,Newcastle United U18,20,"Jan 19, 1991",Retired

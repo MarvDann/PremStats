@@ -1,0 +1,45 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,,"Jul 1, 2018",Rui Patrício,"1,90m",45026,['Portugal'],€16.00m,,Sporting CP,32,"Feb 15, 1988",Atalanta BC
+Goalkeeper,right,,"Jul 10, 2017",John Ruddy,"1,92m",29712,['England'],€2.00m,,: Ablöse free transfer,33,"Oct 24, 1986",Newcastle United
+Goalkeeper,left,,"Jul 11, 2017",Will Norris,"1,95m",285033,['England'],€250k,,Cambridge United,26,"Aug 12, 1993",Portsmouth FC
+Goalkeeper,right,,,Andreas Søndergaard,"1,88m",462820,['Denmark'],,,,19,"Jan 17, 2001",Hobro IK
+Centre-Back,right,,"Jul 1, 2018",Willy Boly,"1,95m",142310,"[""Cote d'Ivoire"", 'France']",€14.50m,,FC Porto,29,"Feb 3, 1991",Nottingham Forest
+Centre-Back,right,,"Jul 3, 2015",Conor Coady,"1,85m",128901,['England'],€14.50m,,: Ablöse €2.80m,27,"Feb 25, 1993",Leicester City
+Centre-Back,right,,"Jul 27, 2019",Jesús Vallejo,"1,84m",251896,['Spain'],€6.00m,,Real Madrid,23,"Jan 5, 1997",Real Madrid
+Centre-Back,right,,"Jul 1, 2017",Ryan Bennett,"1,88m",67252,['England'],€4.00m,,: Ablöse free transfer,30,"Mar 6, 1990",Retired
+Centre-Back,left,"No eligibility - until Dec 31, 2024 - Qatar Stars League","Aug 30, 2016",Romain Saïss,"1,88m",204198,"['Morocco', 'France']",€4.00m,,: Ablöse €4.00m,30,"Mar 26, 1990",Al-Sadd SC
+Centre-Back,left,,"Aug 9, 2018",Maximilian Kilman,"1,94m",525247,"['England', 'Ukraine']",€800k,,: Ablöse €4.75m,23,"May 23, 1997",West Ham United
+Centre-Back,right,,,Dion Sanderson,"1,88m",495993,['England'],€150k,,,20,"Dec 15, 1999",Birmingham City
+Centre-Back,right,,,Christian Marques,"1,88m",539807,"['Portugal', 'Switzerland']",,,,17,"Jan 15, 2003",Yverdon Sport FC
+Centre-Back,left,,,Lewis Richards,"1,82m",571827,"['Ireland', 'England']",,,,18,"Oct 15, 2001",Bradford City
+Left-Back,left,,"Jul 1, 2018",Rúben Vinagre,"1,74m",357158,['Portugal'],€9.00m,,: Ablöse €2.25m,21,"Apr 9, 1999",Legia Warszawa
+Left-Back,left,,"Jul 1, 2018",Ryan Giles,"1,83m",504581,['England'],,,Wolverhampton Wanderers U18,20,"Jan 26, 2000",Hull City
+Right-Back,right,,"Jul 20, 2023",Matt Doherty,"1,85m",171679,['Ireland'],€16.00m,,: Ablöse free transfer,28,"Jan 16, 1992",Wolverhampton Wanderers
+Right-Back,both,,"Jan 31, 2019",Jonny Otto,"1,75m",175446,['Spain'],€16.00m,,: Ablöse €21.00m,26,"Mar 3, 1994",PAOK Thessaloniki
+Right-Back,right,,,Luke Matheson,"1,68m",614084,"['England', 'Scotland']",€900k,,,17,"Oct 3, 2002",Bolton Wanderers
+Right-Back,right,Achilles heel problems - Return unknown,"Jul 1, 2017",Phil Ofosu-Ayeh,"1,83m",133858,"['Ghana', 'Germany']",€300k,,Eintracht Braunschweig,28,"Sep 15, 1991",PSS Sleman
+Right-Back,right,,"Jan 1, 2020",Oskar Buur,"1,80m",293283,['Denmark'],€100k,,Wolverhampton Wanderers U21,22,"Mar 31, 1998",Without Club
+Defensive Midfield,right,,"Jul 8, 2017",Rúben Neves,"1,80m",225161,['Portugal'],€40.00m,,FC Porto,23,"Mar 13, 1997",Al-Hilal SFC
+Defensive Midfield,right,Ankle injury - Return unknown,"Jul 1, 2019",Leander Dendoncker,"1,88m",168157,['Belgium'],€22.50m,,: Ablöse €13.80m,25,"Apr 15, 1995",RSC Anderlecht
+Defensive Midfield,right,,"Aug 2, 2019",Bruno Jordão,"1,80m",415646,['Portugal'],€2.30m,,: Ablöse €8.90m,21,"Oct 12, 1998",Radomiak Radom
+Defensive Midfield,right,,"Aug 31, 2017",Ming-Yang Yang,"1,75m",184382,"['Switzerland', 'China']",€250k,,FC Winterthur,24,"Jul 11, 1995",Nantong Zhiyun
+Defensive Midfield,right,,,Flávio Cristóvão,"1,85m",544789,"['Portugal', 'Angola']",€100k,,,23,"May 23, 1997",Without Club
+Defensive Midfield,right,,,Terry Taylor,"1,85m",463758,"['Wales', 'Scotland']",,,,19,"Jun 29, 2001",Charlton Athletic
+Defensive Midfield,right,,"Jan 1, 2021",Owen Otasowie,"1,91m",511815,"['United States', 'England']",,,Wolverhampton Wanderers U21,19,"Jan 6, 2001",Without Club
+Central Midfield,right,,"Jul 24, 2018",João Moutinho,"1,70m",29364,['Portugal'],€8.00m,,: Ablöse €5.60m,33,"Sep 8, 1986",SC Braga
+Central Midfield,right,,"Jan 1, 2017",Connor Ronan,"1,71m",337787,"['Ireland', 'England']",€450k,,Wolverhampton Wanderers U21,22,"Mar 6, 1998",Colorado Rapids
+Central Midfield,right,,,Taylor Perry,"1,80m",502073,['England'],,,,18,"Jul 15, 2001",Shrewsbury Town
+Central Midfield,right,,"Jul 1, 2021",Luke Cundle,"1,71m",532541,['England'],,,Wolverhampton Wanderers U21,18,"Apr 26, 2002",Wolverhampton Wanderers
+Attacking Midfield,right,,"Jan 1, 2017",Morgan Gibbs-White,"1,71m",429014,"['England', 'Jamaica']",€7.20m,,Wolverhampton Wanderers U18,20,"Jan 27, 2000",Nottingham Forest
+Attacking Midfield,right,,,Meritan Shabani,"1,85m",379980,"['Germany', 'Albania']",€325k,,,21,"Mar 15, 1999",HNK Gorica
+Attacking Midfield,right,,"Jul 1, 2022",Chem Campbell,"1,80m",614603,"['Wales', 'England']",,,Wolverhampton Wanderers U21,17,"Dec 30, 2002",Reading FC
+Right Winger,right,,"Aug 8, 2018",Adama Traoré,"1,78m",204103,"['Spain', 'Mali']",€25.50m,,Middlesbrough FC,24,"Jan 25, 1996",Fulham FC
+Right Winger,right,,"Jan 30, 2020",Daniel Podence,"1,70m",256977,['Portugal'],€12.00m,"Returned after loan spell with Olympiacos Piraeus; date: Jun 30, 2024; fee: End of loan",: Ablöse €19.60m,24,"Oct 21, 1995",Al-Shabab FC
+Right Winger,left,,"Aug 2, 2019",Pedro Neto,"1,73m",487465,['Portugal'],€11.50m,,: Ablöse €17.90m,20,"Mar 9, 2000",Chelsea FC
+Right Winger,right,,"Jan 5, 2015",Jordan Graham,"1,82m",183283,"['England', 'Ireland']",€250k,,: Ablöse ?,25,"Mar 5, 1995",Leyton Orient
+Centre-Forward,right,,"Jul 1, 2019",Raúl Jiménez,"1,87m",206040,['Mexico'],€40.00m,,SL Benfica,29,"May 5, 1991",Fulham FC
+Centre-Forward,right,,"Jul 1, 2018",Diogo Jota,"1,78m",340950,['Portugal'],€28.00m,,: Ablöse €14.00m,23,"Dec 4, 1996",Liverpool FC
+Centre-Forward,right,,"Jul 30, 2019",Patrick Cutrone,"1,83m",265078,['Italy'],€15.50m,,AC Milan,22,"Jan 3, 1998",Como 1907
+Centre-Forward,left,,"Jan 21, 2020",Leonardo Campana,"1,88m",606872,"['Ecuador', 'United States']",€1.80m,,Barcelona SC Guayaquil,19,"Jul 24, 2000",Inter Miami CF
+Centre-Forward,right,,,Benny Ashley-Seal,"1,85m",322089,['England'],€150k,,,21,"Nov 21, 1998",Without Club
+Centre-Forward,right,,,Austin Samuels,"1,78m",392762,['England'],,,,19,"Nov 20, 2000",Greenock Morton FC

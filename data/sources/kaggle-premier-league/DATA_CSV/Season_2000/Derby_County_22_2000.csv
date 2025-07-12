@@ -1,0 +1,40 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,"Mar 26, 1997",Mart Poom,"1,95m",3715,['Estonia'],: Ablöse €700k,29,"Feb 3, 1972",Retired
+Goalkeeper,right,"Jul 1, 1999",Andy Oakes,"1,87m",13480,['England'],: Ablöse €500k,24,"Jan 11, 1977",Retired
+Goalkeeper,right,"Jul 1, 2013",Lee Grant,"1,93m",13460,['England'],: Ablöse free transfer,18,"Jan 27, 1983",Retired
+Centre-Back,right,"Jul 1, 1998",Horacio Carbonari,"1,91m",30799,"['Argentina', 'Italy']",CA Rosario Central,27,"May 2, 1974",Retired
+Centre-Back,both,"Jul 26, 2000",Bjørn Otto Bragstad,"1,94m",3834,['Norway'],: Ablöse €3.00m,30,"Jan 5, 1971",Retired
+Centre-Back,,"Nov 1, 2000",Brian O'Neil,,669,['Scotland'],: Ablöse €750k,28,"Sep 6, 1972",Retired
+Centre-Back,,"Jul 1, 1998",Stefan Schnoor,,702,['Germany'],: Ablöse free transfer,30,"Apr 18, 1971",Retired
+Centre-Back,right,"Jul 1, 1995",Darryl Powell,"1,83m",4081,"['Jamaica', 'England']",: Ablöse €1.13m,29,"Nov 15, 1971",Retired
+Centre-Back,left,"Jul 5, 2000",Danny Higginbotham,"1,85m",3686,"['Gibraltar', 'England']",Manchester United,22,"Dec 29, 1978",Retired
+Centre-Back,right,"Jul 17, 1996",Jacob Laursen,"1,83m",4253,['Denmark'],Silkeborg IF,29,"Oct 6, 1971",Retired
+Centre-Back,right,"Jan 1, 2001",Youl Mawéné,"1,82m",13471,['France'],: Ablöse €700k,21,"Jul 16, 1979",Retired
+Centre-Back,right,"Jul 1, 1997",Steve Elliott,"1,85m",13457,['England'],Derby County U18,22,"Oct 29, 1978",Retired
+Centre-Back,right,"Aug 1, 2011",Chris Riggott,"1,83m",3782,['England'],Without Club,20,"Sep 1, 1980",Retired
+Centre-Back,,"Jul 1, 2000",Con Blatsis,"1,90m",16700,"['Australia', 'Greece']",South Melbourne FC,23,"Jul 6, 1977",Retired
+Centre-Back,right,"Jul 1, 1999",Ian Evatt,"1,91m",37127,['England'],Derby County U18,19,"Nov 19, 1981",Retired
+Centre-Back,,"Nov 3, 2000",Taribo West,,1403,['Nigeria'],AC Milan,27,"Mar 26, 1974",Retired
+Centre-Back,,,Fiachra McArdle,"1,75m",185978,['Ireland'],,17,"Aug 18, 1983",Unknown
+Left-Back,left,"Mar 1, 1999",Paul Boertien,"1,78m",13440,['England'],Carlisle United,22,"Jan 20, 1979",Retired
+Right-Back,,"Nov 1, 2000",Lilian Martin,"1,80m",156976,['France'],: Ablöse ?,30,"May 28, 1971",Retired
+Right-Back,both,"Mar 24, 1999",Richard Jackson,"1,73m",13467,['England'],Scarborough FC (- 2007),21,"Apr 18, 1980",Retired
+Right-Back,right,"Jul 1, 2002",Lewis Hunt,"1,80m",13466,['England'],Derby County Reserves,18,"Aug 25, 1982",Retired
+Defensive Midfield,right,"Jul 1, 2000",Simo Valakari,"1,78m",48025,['Finland'],Motherwell FC,28,"Apr 28, 1973",Retired
+Midfielder,right,"Jul 1, 2000",Adam Bolder,"1,75m",13441,['England'],: Ablöse €125k,20,"Oct 25, 1980",Retired
+Central Midfield,right,"Feb 6, 1998",Rory Delap,"1,83m",4112,"['Ireland', 'England']",Carlisle United,24,"Jul 6, 1976",Retired
+Central Midfield,left,"Jul 1, 2005",Seth Johnson,"1,79m",3635,['England'],Leeds United,22,"Mar 12, 1979",Retired
+Central Midfield,right,"Mar 1, 1998",Lars Bohinen,"1,85m",102503,['Norway'],Blackburn Rovers,31,"Sep 8, 1969",Retired
+Central Midfield,right,"Jul 1, 1998",Adam Murray,"1,75m",9408,['England'],Derby County U18,19,"Sep 30, 1981",Retired
+Right Midfield,right,"Jul 1, 1997",Stefano Eranio,"1,80m",4227,['Italy'],: Ablöse free transfer,34,"Dec 29, 1966",Retired
+Right Midfield,right,"Jul 1, 2002",Kristoffer Weckström,"1,73m",13500,['Finland'],Derby County U18,18,"May 26, 1983",Retired
+Attacking Midfield,,"Jul 1, 2000",Giorgi Kinkladze,,3425,['Georgia'],: Ablöse €5.00m,27,"Jul 6, 1973",Retired
+Attacking Midfield,right,"Dec 1, 1999",Craig Burley,"1,85m",11319,['Scotland'],Celtic FC,29,"Sep 24, 1971",Retired
+Right Winger,,"Jan 1, 2001",Thórdur Gudjónsson,,1600,['Iceland'],UD Las Palmas,27,"Oct 14, 1973",Retired
+Centre-Forward,right,"Jan 1, 1999",Marvin Robinson,"1,80m",25387,['England'],Derby County U18,21,"Apr 11, 1980",Retired
+Centre-Forward,right,"Jul 1, 2000",Gary Twigg,"1,83m",12402,['Scotland'],Derby County U18,17,"Mar 19, 1984",Retired
+Centre-Forward,right,"Jul 1, 1991",Dean Sturridge,"1,73m",4230,['England'],Derby County U18,27,"Jul 26, 1973",Retired
+Centre-Forward,right,"Aug 6, 1997",Deon Burton,"1,78m",3464,"['Jamaica', 'England']",: Ablöse €1.25m,24,"Oct 25, 1976",Retired
+Centre-Forward,right,"Oct 14, 1999",Lee Morris,"1,78m",13476,['England'],Sheffield United,21,"Apr 30, 1980",Retired
+Centre-Forward,right,"Jul 1, 1998",Malcolm Christie,"1,84m",3790,['England'],: Ablöse €75k,22,"Apr 11, 1979",Retired
+Centre-Forward,right,"Dec 17, 1999",Branko Strupar,"1,90m",10444,"['Belgium', 'Croatia']",: Ablöse €4.20m,31,"Feb 9, 1970",Retired

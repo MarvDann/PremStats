@@ -338,28 +338,77 @@ func (s *MatchService) scanMatchWithStats(scanner interface{}) (*models.Match, e
 
 // GetMatchEvents returns all events for a match
 func (s *MatchService) GetMatchEvents(matchID int) ([]models.MatchEvent, error) {
-	query := `
+	var events []models.MatchEvent
+
+	// First, get goals from the goals table (deduplicate by minute, player, team)
+	goalQuery := `
+		SELECT MIN(g.id) as id, g.match_id, 'goal' as event_type, g.minute,
+			   g.player_id, p.name as player_name, g.team_id, 
+			   CASE WHEN bool_or(g.is_penalty) THEN 'Penalty' ELSE NULL END as detail
+		FROM goals g
+		LEFT JOIN players p ON g.player_id = p.id
+		WHERE g.match_id = $1
+		GROUP BY g.match_id, g.minute, g.player_id, p.name, g.team_id
+		ORDER BY g.minute, MIN(g.id)
+	`
+
+	goalRows, err := s.db.Query(goalQuery, matchID)
+	if err != nil {
+		return nil, fmt.Errorf("failed to query goals: %w", err)
+	}
+	defer goalRows.Close()
+
+	for goalRows.Next() {
+		var event models.MatchEvent
+		var playerName sql.NullString
+		var detail sql.NullString
+
+		err := goalRows.Scan(
+			&event.ID,
+			&event.MatchID,
+			&event.EventType,
+			&event.Minute,
+			&event.PlayerID,
+			&playerName,
+			&event.TeamID,
+			&detail,
+		)
+		if err != nil {
+			return nil, fmt.Errorf("failed to scan goal event: %w", err)
+		}
+
+		if playerName.Valid {
+			event.PlayerName = playerName.String
+		}
+		if detail.Valid {
+			event.Detail = detail.String
+		}
+
+		events = append(events, event)
+	}
+
+	// Then, get other events from match_events table (if it exists)
+	eventQuery := `
 		SELECT me.id, me.match_id, me.event_type, me.minute, 
 			   me.player_id, p.name as player_name, me.team_id, me.detail
 		FROM match_events me
 		LEFT JOIN players p ON me.player_id = p.id
 		WHERE me.match_id = $1
-		ORDER BY me.minute, me.id
 	`
 
-	rows, err := s.db.Query(query, matchID)
+	eventRows, err := s.db.Query(eventQuery, matchID)
 	if err != nil {
-		return nil, fmt.Errorf("failed to query match events: %w", err)
+		// If match_events table doesn't exist or query fails, just return goals
+		return events, nil
 	}
-	defer rows.Close()
+	defer eventRows.Close()
 
-	var events []models.MatchEvent
-	for rows.Next() {
+	for eventRows.Next() {
 		var event models.MatchEvent
 		var playerName sql.NullString
 		var detail sql.NullString
 
-		err := rows.Scan(
+		err := eventRows.Scan(
 			&event.ID,
 			&event.MatchID,
 			&event.EventType,

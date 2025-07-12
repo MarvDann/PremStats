@@ -1,0 +1,37 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,"Jul 1, 2012",Ben Foster,"1,93m",13572,['England'],€5.00m,: Ablöse €5.00m,29,"Apr 3, 1983",Retired
+Goalkeeper,right,"Aug 6, 2011",Márton Fülöp,"1,98m",17879,['Hungary'],€1.00m,Ipswich Town,29,"May 3, 1983",---
+Goalkeeper,right,"Jul 1, 2006",Luke Daniels,"1,95m",45921,['England'],€250k,West Bromwich Albion U18,24,"Jan 5, 1988",Retired
+Centre-Back,left,"Aug 1, 2008",Jonas Olsson,"1,93m",25248,['Sweden'],€3.50m,NEC Nijmegen,29,"Mar 10, 1983",Retired
+Centre-Back,both,"Jan 31, 2012",Liam Ridgewell,"1,88m",4070,['England'],€2.50m,: Ablöse €2.40m,27,"Jul 21, 1984",Retired
+Centre-Back,right,"Aug 1, 2010",Gabriel Tamaș,"1,88m",6893,['Romania'],€2.00m,AJ Auxerre,28,"Nov 9, 1983",Retired
+Centre-Back,right,"Aug 25, 2009",Gonzalo Jara,"1,78m",40429,['Chile'],€1.75m,CSD Colo-Colo,26,"Aug 29, 1985",Retired
+Centre-Back,right,"Jul 1, 2011",Gareth McAuley,"1,91m",40567,['Northern Ireland'],€1.50m,Ipswich Town,32,"Dec 5, 1979",Retired
+Centre-Back,right,"Aug 31, 2010",Craig Dawson,"1,88m",121477,['England'],€1.50m,Rochdale AFC,22,"May 6, 1990",Wolverhampton Wanderers
+Centre-Back,right,,James Hurst,"1,83m",110863,['England'],€50k,,20,"Jan 31, 1992",Career break
+Centre-Back,right,,Paul Downing,"1,85m",113034,['England'],,,20,"Oct 26, 1991",Kidderminster Harriers
+Left-Back,left,"Jul 1, 2008",Marek Cech,"1,83m",21354,['Slovakia'],€3.00m,FC Porto,29,"Jan 26, 1983",Retired
+Left-Back,left,"Aug 1, 2010",Nicky Shorey,"1,75m",13426,['England'],€2.00m,: Ablöse €1.80m,31,"Feb 19, 1981",Retired
+Left-Back,left,"Aug 1, 2009",Joe Mattock,"1,81m",49611,['England'],€500k,: Ablöse €1.20m,22,"May 15, 1990",Marine FC
+Right-Back,right,"Jul 1, 2010",Steven Reid,"1,85m",7330,"['Ireland', 'England']",€1.50m,Blackburn Rovers,31,"Mar 10, 1981",Retired
+Right-Back,right,"Jul 1, 2011",Billy Jones,"1,82m",36866,['England'],€1.50m,: Ablöse free transfer,25,"Mar 24, 1987",Retired
+Defensive Midfield,right,"Jul 10, 2009",Youssouf Mulumbu,"1,77m",45272,"['DR Congo', 'France']",€3.50m,: Ablöse €200k,25,"Jan 25, 1987",Without Club
+Defensive Midfield,,"Aug 29, 2010",Paul Scharner,,2953,['Austria'],€2.00m,Wigan Athletic,32,"Mar 11, 1980",Retired
+Central Midfield,left,"Aug 15, 2007",Chris Brunt,"1,87m",36814,['Northern Ireland'],€6.50m,: Ablöse €3.75m,27,"Dec 14, 1984",Retired
+Central Midfield,right,"Aug 7, 2007",James Morrison,"1,83m",27614,"['Scotland', 'England']",€4.50m,Middlesbrough FC,26,"May 25, 1986",Retired
+Central Midfield,right,"Jul 1, 2008",Graham Dorrans,"1,77m",36608,['Scotland'],€2.50m,Livingston FC,25,"May 5, 1987",Johnstone Burgh FC
+Central Midfield,right,"Jan 31, 2012",Keith Andrews,"1,83m",8035,"['Ireland', 'England']",€1.00m,Blackburn Rovers,31,"Sep 13, 1980",Retired
+Central Midfield,right,"Jul 1, 2011",George Thorne,"1,88m",128910,['England'],,West Bromwich Albion Reserves,19,"Jan 4, 1993",St. Neots Town
+Central Midfield,left,,Sam Mantom,"1,75m",141347,['England'],,,20,"Feb 20, 1992",Rushall Olympic
+Attacking Midfield,both,"Aug 20, 2010",Somen Tchoyi,"1,90m",37058,['Cameroon'],€2.50m,: Ablöse €3.00m,29,"Mar 29, 1983",Sportfreunde Owingen/Billafingen
+Attacking Midfield,right,"Aug 2, 2011",Zoltán Gera,"1,83m",18324,['Hungary'],€1.00m,Fulham FC,33,"Apr 22, 1979",Retired
+Attacking Midfield,right,"Jan 9, 2012",Scott Allan,"1,75m",60904,['Scotland'],€500k,: Ablöse €480k,20,"Nov 28, 1991",Kelty Hearts FC
+Left Winger,left,"Aug 13, 2009",Jerome Thomas,"1,77m",3560,"['England', 'Guyana']",€3.00m,: Ablöse free transfer,29,"Mar 23, 1983",Retired
+Centre-Forward,right,"Aug 20, 2010",Peter Odemwingie,"1,81m",12516,"['Nigeria', 'Russia']",€5.50m,: Ablöse €3.00m,30,"Jul 15, 1981",Retired
+Centre-Forward,both,"Aug 1, 2011",Shane Long,"1,80m",37304,['Ireland'],€4.50m,Reading FC,25,"Jan 22, 1987",Retired
+Centre-Forward,left,"Jul 8, 2009",Simon Cox,"1,80m",37150,"['Ireland', 'England']",€2.00m,Swindon Town,25,"Apr 28, 1987",Retired
+Centre-Forward,,"Aug 27, 2010",Marc-Antoine Fortuné,,5652,"['French Guiana', 'France']",€1.50m,Celtic FC,30,"Jul 2, 1981",Retired
+Centre-Forward,right,"Jul 1, 2009",Chris Wood,"1,91m",108725,['New Zealand'],€1.00m,West Bromwich Albion U18,20,"Dec 7, 1991",Nottingham Forest
+Centre-Forward,right,"Jul 1, 2007",Roman Bednar,"1,88m",26898,['Czech Republic'],€500k,Heart of Midlothian FC,29,"Mar 26, 1983",SK Hovorcovice
+Centre-Forward,right,"Jul 1, 2013",Saido Berahino,"1,80m",128897,"['Burundi', 'England']",,West Bromwich Albion U21,18,"Aug 4, 1993",Rajasthan United
+Centre-Forward,right,,Kemar Roofe,"1,78m",141350,"['Jamaica', 'England']",,,19,"Jan 6, 1993",Without Club

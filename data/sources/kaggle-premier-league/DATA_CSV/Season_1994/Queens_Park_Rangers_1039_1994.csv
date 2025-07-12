@@ -1,0 +1,28 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 1987",Tony Roberts,"1,83m",66886,['Wales'],Queens Park Rangers U18,25,"Aug 4, 1969",Retired
+Goalkeeper,,"Jul 1, 1994",Sieb Dijkstra,,170387,['Netherlands'],Motherwell FC,28,"Oct 20, 1966",Retired
+Goalkeeper,,,Peter Caldwell,,226939,['England'],,23,"Jun 5, 1972",Retired
+Centre-Back,,"Aug 16, 1993",Steve Yates,,223575,['England'],Bristol Rovers,25,"Jan 29, 1970",Retired
+Centre-Back,,"Jul 1, 1990",Karl Ready,,17974,['Wales'],Queens Park Rangers U21,22,"Aug 14, 1972",Retired
+Centre-Back,right,"Jul 1, 1981",Alan McDonald,"1,84m",117758,['Northern Ireland'],Queens Park Rangers U18,31,"Oct 12, 1963",---
+Centre-Back,,,Alan McCarthy,,229034,"['Wales', 'England']",,23,"Jan 11, 1972",Retired
+Centre-Back,,"Aug 19, 1991",Tony Witter,,229835,['England'],: Ablöse €155k,30,"Aug 12, 1964",Retired
+Left-Back,left,"Feb 15, 1991",Rufus Brevett,"1,72m",3883,['England'],Doncaster Rovers,25,"Sep 24, 1969",Retired
+Left-Back,left,"Jul 4, 1990",Clive Wilson,"1,70m",109500,['England'],: Ablöse €510k,33,"Nov 13, 1961",Retired
+Right-Back,right,"Sep 15, 1989",David Bardsley,"1,78m",223555,['England'],: Ablöse €615k,30,"Sep 11, 1964",Retired
+Right-Back,right,"Jul 1, 1990",Andy Impey,"1,73m",4250,['England'],Yeading FC (- 2007),23,"Sep 30, 1971",Retired
+Right-Back,,"Jul 23, 1987",Danny Maddix,"1,78m",223568,"['Jamaica', 'England']",: Ablöse ?,27,"Oct 11, 1967",Retired
+Central Midfield,,"Nov 17, 1994",Ray Wilkins,,117197,['England'],: Ablöse free transfer,38,"Sep 14, 1956",---
+Central Midfield,,"Jul 20, 1988",Simon Barker,"1,74m",223630,['England'],Blackburn Rovers,30,"Nov 4, 1964",Retired
+Central Midfield,,"Oct 1, 1994",Steve Hodge,,101390,['England'],: Ablöse €360k,32,"Oct 25, 1962",Retired
+Central Midfield,,"Apr 21, 1989",Maurice Doyle,,229823,['England'],Crewe Alexandra,25,"Oct 17, 1969",Retired
+Right Midfield,,"Aug 12, 1991",Ian Holloway,"1,73m",223566,['England'],Bristol Rovers,32,"Mar 12, 1963",Retired
+Left Winger,right,"Jul 1, 1993",Trevor Sinclair,"1,78m",3253,['England'],Blackpool FC,22,"Mar 2, 1973",Retired
+Right Winger,right,"Feb 7, 1990",Michael Meaker,"1,80m",228211,"['Wales', 'England']",Queens Park Rangers U18,23,"Aug 18, 1971",Retired
+Centre-Forward,right,"Mar 12, 1987",Les Ferdinand,"1,80m",3645,"['England', 'St. Lucia']",Hayes FC,28,"Dec 8, 1966",Retired
+Centre-Forward,both,"Sep 30, 1988",Bradley Allen,"1,73m",223445,['England'],Queens Park Rangers U18,23,"Sep 13, 1971",Retired
+Centre-Forward,,"Oct 29, 1991",Gary Penrice,"1,73m",222646,['England'],: Ablöse €788k,31,"Mar 23, 1964",Retired
+Centre-Forward,,"Jul 2, 1991",Dennis Bailey,,226548,['England'],: Ablöse €215k,29,"Dec 13, 1965",Retired
+Centre-Forward,,"Jan 26, 1993",Devon White,,227872,['England'],Cambridge United,31,"Mar 2, 1964",Retired
+Centre-Forward,right,"Nov 20, 2001",Kevin Gallen,"1,80m",13727,['England'],Barnsley FC,19,"Sep 21, 1975",Retired
+Centre-Forward,right,"Jul 1, 1993",Danny Dichio,"1,91m",3651,"['England', 'Italy']",Queens Park Rangers U18,20,"Oct 19, 1974",Retired

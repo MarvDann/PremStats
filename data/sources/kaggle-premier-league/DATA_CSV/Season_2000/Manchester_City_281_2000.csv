@@ -1,0 +1,41 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 1997",Nicky Weaver,"1,91m",3310,['England'],Mansfield Town,22,"Mar 2, 1979",Retired
+Goalkeeper,,"Mar 1, 1997",Tommy Wright,"1,85m",206780,['Northern Ireland'],: Ablöse €675k,37,"Sep 26, 1963",Retired
+Goalkeeper,right,"Jan 12, 2001",Carlo Nash,"1,97m",3804,['England'],: Ablöse €125k,27,"Sep 13, 1973",Retired
+Goalkeeper,,"Aug 1, 1999",Richard McKinney,"1,88m",259499,['Northern Ireland'],: Ablöse ?,22,"May 18, 1979",Retired
+Goalkeeper,right,,Brian Murphy,"1,85m",4190,['Ireland'],,18,"May 7, 1983",Retired
+Centre-Back,right,"Mar 10, 1998",Richard Jobson,"1,85m",175897,['England'],: Ablöse free transfer,38,"May 9, 1963",Retired
+Centre-Back,right,"Jul 1, 1997",Gerard Wiekens,"1,81m",3319,['Netherlands'],: Ablöse €454k,28,"Feb 25, 1973",Retired
+Centre-Back,right,"Oct 29, 1998",Andy Morrison,"1,80m",175898,['Scotland'],: Ablöse €80k,30,"Jul 30, 1970",Retired
+Centre-Back,right,"Mar 22, 2000",Spencer Prior,"1,91m",12722,"['England', 'Australia']",: Ablöse €700k,30,"Apr 22, 1971",Retired
+Centre-Back,,"Jul 1, 2001",Paul Ritchie,,3805,['Scotland'],: Ablöse €750k,25,"Aug 21, 1975",Retired
+Centre-Back,right,"Oct 18, 2000",Richard Dunne,"1,88m",3807,['Ireland'],: Ablöse €4.50m,21,"Sep 21, 1979",Retired
+Centre-Back,right,"Jul 1, 1999",Steve Howey,"1,86m",3138,['England'],Newcastle United,29,"Oct 26, 1971",Retired
+Centre-Back,right,"Jul 1, 1999",Rhys Day,"1,85m",3355,['Wales'],: Ablöse -,18,"Aug 31, 1982",Retired
+Left-Back,left,"Jul 1, 1998",Danny Tiatto,"1,73m",3227,"['Australia', 'Italy']",FC Baden 1897,28,"May 22, 1973",Retired
+Left-Back,left,"Jul 1, 1999",Mark Kennedy,"1,80m",3488,"['Ireland', 'England']",: Ablöse €1.38m,25,"May 15, 1976",Retired
+Left-Back,left,"Aug 7, 1999",Danny Granville,"1,80m",13789,['England'],: Ablöse €1.40m,26,"Jan 19, 1975",Retired
+Right-Back,right,"Jul 1, 1992",Richard Edghill,"1,75m",13724,['England'],: Ablöse -,26,"Sep 23, 1974",Retired
+Right-Back,right,"Oct 24, 2000",Laurent Charvet,"1,87m",107083,['France'],Newcastle United,28,"May 8, 1973",Retired
+Defensive Midfield,right,"Jul 1, 1994",Lee Crooks,"1,88m",21363,['England'],: Ablöse -,23,"Jan 14, 1978",Ossett Town (- 2018)
+Defensive Midfield,left,"Jul 1, 1997",Kevin Horlock,"1,83m",3810,"['Northern Ireland', 'England']",Swindon Town,28,"Nov 1, 1972",Retired
+Defensive Midfield,right,"Jul 1, 2000",Alf-Inge Haaland,"1,86m",107179,['Norway'],: Ablöse €3.75m,28,"Nov 23, 1972",Retired
+Defensive Midfield,right,"Jul 1, 1995",Jeff Whitley,"1,75m",3317,"['Northern Ireland', 'England']",: Ablöse -,22,"Jan 28, 1979",Retired
+Defensive Midfield,right,"Jan 1, 2000",Tony Grant,"1,77m",9976,['England'],: Ablöse €650k,26,"Nov 14, 1974",Retired
+Defensive Midfield,right,"Jul 1, 2001",Dickson Etuhu,"1,89m",14011,"['Nigeria', 'England']",: Ablöse -,19,"Jun 8, 1982",Retired
+Central Midfield,right,"Mar 26, 1998",Ian Bishop,"1,75m",175895,['England'],: Ablöse ?,36,"May 29, 1965",Retired
+Central Midfield,,"Aug 1, 1994",Jim Whitley,,259281,"['Northern Ireland', 'Zambia']",: Ablöse -,26,"Apr 14, 1975",Retired
+Central Midfield,both,"Jul 1, 2000",Terry Dunfield,"1,79m",54757,"['Canada', 'England']",: Ablöse -,19,"Feb 20, 1982",Retired
+Right Midfield,right,"Apr 22, 2002",Terry Cooke,"1,70m",13404,['England'],Grimsby Town,24,"Aug 5, 1976",Retired
+Right Midfield,right,"Jan 26, 2001",Andrey Kanchelskis,"1,78m",3742,"['Russia', 'England']",: Ablöse €800k,32,"Jan 23, 1969",Retired
+Left Midfield,left,,Shaun Holmes,"1,75m",43918,['Northern Ireland'],,20,"Dec 27, 1980",Retired
+Right Winger,right,"Jan 26, 2001",Darren Huckerby,"1,78m",3136,['England'],: Ablöse €4.00m,25,"Apr 23, 1976",Retired
+Right Winger,right,"Aug 1, 2008",Shaun Wright-Phillips,"1,66m",3467,"['England', 'Grenada']",Chelsea FC,19,"Oct 25, 1981",Retired
+Centre-Forward,,"Aug 4, 2000",George Weah,,8542,"['Liberia', 'France']",AC Milan,34,"Oct 1, 1966",Retired
+Centre-Forward,both,"Jan 1, 2001",Dino Toppmöller,"1,90m",1164,['Germany'],: Ablöse free transfer,20,"Nov 23, 1980",Retired
+Centre-Forward,,"Jul 1, 2006",Paul Dickov,,9221,['Scotland'],Blackburn Rovers,28,"Nov 1, 1972",Retired
+Centre-Forward,both,"Mar 26, 1998",Shaun Goater,"1,82m",3353,"['Bermuda', 'England']",: Ablöse €400k,31,"Feb 25, 1970",Retired
+Centre-Forward,right,"Jul 1, 1998",Danny Allsopp,"1,85m",43131,['Australia'],Carlton SC,22,"Aug 10, 1978",Retired
+Centre-Forward,,"Nov 1, 1998",Gareth Taylor,,8954,"['Wales', 'England']",Sheffield United,28,"Feb 25, 1973",Retired
+Centre-Forward,right,"Jul 1, 2000",Paulo Wanchope,"1,93m",3230,"['Costa Rica', 'England']",: Ablöse €5.60m,24,"Jul 31, 1976",Retired
+Centre-Forward,left,"Jan 1, 2001",Egil Østenstad,"1,83m",3705,['Norway'],Blackburn Rovers,29,"Jan 2, 1972",Retired

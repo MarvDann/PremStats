@@ -1,0 +1,34 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Nov 1, 1997",Jussi Jääskeläinen,"1,91m",3692,['Finland'],€5.00m,: Ablöse €150k,34,"Apr 19, 1975",Retired
+Goalkeeper,right,"Jul 1, 2006",Ali Al-Habsi,"1,94m",26633,['Oman'],€900k,Bolton Wanderers U23,27,"Dec 30, 1981",Retired
+Goalkeeper,right,"Jul 1, 2008",Ádám Bogdán,"1,94m",55247,['Hungary'],€50k,Bolton Wanderers U23,21,"Sep 27, 1987",Retired
+Goalkeeper,right,"Jul 1, 2005",Ian Walker,"1,85m",4137,['England'],,: Ablöse free transfer,37,"Oct 31, 1971",Retired
+Centre-Back,right,"Jan 30, 2008",Gary Cahill,"1,93m",27511,['England'],€5.20m,: Ablöse €6.00m,23,"Dec 19, 1985",Retired
+Centre-Back,right,"Jan 9, 2009",Sébastien Puygrenier,"1,87m",5667,['France'],€4.20m,: Ablöse €500k,27,"Jan 28, 1982",Retired
+Centre-Back,right,"Aug 1, 2007",Andrew O'Brien,"1,91m",3228,"['Ireland', 'England']",€3.50m,: Ablöse ?,30,"Jun 29, 1979",Retired
+Centre-Back,right,"Aug 6, 2008",Danny Shittu,"1,91m",13736,['Nigeria'],€1.80m,Watford FC,28,"Sep 2, 1980",Retired
+Centre-Back,right,"Jul 1, 2008",Chris Basham,"1,90m",52495,['England'],€600k,Bolton Wanderers U23,20,"Jul 20, 1988",Retired
+Centre-Back,right,"Jul 1, 2004",Jaroslaw Fojut,"1,88m",34652,['Poland'],€200k,MSP Szamotuly,21,"Oct 17, 1987",Retired
+Left-Back,,"Jul 1, 1998",Ricardo Gardner,,6264,['Jamaica'],€2.60m,Harbour View FC,30,"Sep 25, 1978",Retired
+Right-Back,right,"Jan 1, 2008",Grétar Steinsson,"1,89m",30304,['Iceland'],€5.00m,AZ Alkmaar,27,"Jan 9, 1982",Retired
+Right-Back,right,"Jul 1, 2005",Joey O'Brien,"1,80m",34672,['Ireland'],€1.40m,Bolton Wanderers U18,23,"Feb 17, 1986",Retired
+Right-Back,right,"Aug 1, 2003",Nicky Hunt,"1,91m",16835,['England'],€1.20m,Bolton Wanderers U23,25,"Sep 3, 1983",Retired
+Right-Back,right,"Jul 1, 2006",James Sinclair,"1,80m",50350,"['England', 'Northern Ireland']",€200k,Bolton Wanderers U18,21,"Oct 22, 1987",Retired
+Defensive Midfield,left,"Jul 1, 2007",Jlloyd Samuel,"1,80m",4067,"['Trinidad and Tobago', 'England']",€3.00m,: Ablöse free transfer,28,"Mar 29, 1981",---
+Central Midfield,right,"Jul 1, 2008",Fabrice Muamba,"1,88m",35586,"['England', 'DR Congo']",€5.50m,: Ablöse €6.40m,21,"Apr 6, 1988",Retired
+Central Midfield,left,"Jul 1, 2007",Gavin McCann,"1,80m",4136,['England'],€2.70m,: Ablöse €1.50m,31,"Jan 10, 1978",Retired
+Central Midfield,right,"Jul 6, 2007",Blerim Dzemaili,"1,80m",9967,"['Switzerland', 'Albania']",€2.20m,: Ablöse ?,23,"Apr 12, 1986",Retired
+Central Midfield,right,"Jan 26, 2009",Mark Davies,"1,80m",36917,['England'],€1.40m,Wolverhampton Wanderers,21,"Feb 18, 1988",Retired
+Central Midfield,right,"Jan 1, 2008",Tamir Cohen,"1,82m",24209,"['Israel', 'Italy']",€800k,: Ablöse €800k,25,"Mar 4, 1984",Retired
+Central Midfield,,,Robert Sissons,,52500,['England'],€50k,,20,"Sep 29, 1988",Retired
+Left Midfield,left,"Jan 17, 2008",Matthew Taylor,"1,77m",9218,['England'],€6.00m,: Ablöse €4.70m,27,"Nov 27, 1981",Retired
+Attacking Midfield,right,"Jul 1, 1999",Kevin Nolan,"1,83m",3950,['England'],€6.30m,Bolton Wanderers U18,27,"Jun 24, 1982",Retired
+Right Winger,right,"Jul 1, 2008",Riga Mustapha,"1,82m",4433,"['Netherlands', 'Ghana']",€2.40m,: Ablöse €400k,27,"Oct 10, 1981",Retired
+Right Winger,right,"Jul 1, 2004",Ricardo Vaz Tê,"1,88m",9413,"['Portugal', 'Guinea-Bissau']",€500k,Bolton Wanderers U18,22,"Oct 1, 1986",Retired
+Centre-Forward,right,"Jul 1, 2008",Johan Elmander,"1,88m",4383,['Sweden'],€8.00m,: Ablöse €12.60m,28,"May 27, 1981",Holmalunds IF
+Centre-Forward,right,"Jul 23, 2003",Kevin Davies,"1,83m",4114,['England'],€4.20m,Southampton FC,32,"Mar 26, 1977",Retired
+Centre-Forward,right,"Jan 1, 2009",Ariza Makukula,"1,90m",5518,"['Portugal', 'DR Congo']",€3.20m,SL Benfica,28,"Mar 4, 1981",Retired
+Centre-Forward,,"Aug 1, 2008",Ebi Smolarek,,4388,"['Poland', 'Netherlands']",€2.40m,Racing Santander,28,"Jan 9, 1981",Retired
+Centre-Forward,both,"Jul 20, 2007",Heidar Helguson,"1,78m",9886,['Iceland'],€750k,Fulham FC,31,"Aug 22, 1977",Retired
+Centre-Forward,right,,Zoltán Harsányi,"1,93m",50590,"['Slovakia', 'Hungary']",€200k,,22,"Jun 1, 1987",Rapid Ohrady
+Centre-Forward,right,"Jul 1, 2008",Tope Obadeyi,"1,82m",65692,"['England', 'Nigeria']",€200k,Bolton Wanderers U18,19,"Oct 29, 1989",Kidderminster Harriers

@@ -1,0 +1,45 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Sep 16, 2020",Emiliano Martínez,"1,95m",111873,"['Argentina', 'Spain']",€28.00m,,Arsenal FC,29,"Sep 2, 1992",Aston Villa
+Goalkeeper,right,,"Jul 1, 2022",Robin Olsen,"1,96m",75458,"['Sweden', 'Denmark']",€2.00m,,AS Roma,32,"Jan 8, 1990",Aston Villa
+Goalkeeper,left,,"Jul 1, 2013",Jed Steer,"1,83m",110867,"['England', 'Scotland']",€600k,,: Ablöse €540k,29,"Sep 23, 1992",Peterborough United
+Goalkeeper,right,,"Jul 1, 2022",Viljami Sinisalo,"1,90m",484838,['Finland'],€200k,,: Ablöse -,20,"Oct 11, 2001",Celtic FC
+Goalkeeper,right,,"Jul 1, 2023",Filip Marschall,"1,95m",610863,"['England', 'Poland']",,,: Ablöse -,19,"Apr 24, 2003",Crewe Alexandra
+Centre-Back,left,Cruciate ligament tear - Return unknown,"Jul 8, 2019",Tyrone Mings,"1,96m",253677,['England'],€30.00m,,AFC Bournemouth,29,"Mar 13, 1993",Aston Villa
+Centre-Back,right,,"Jul 11, 2019",Ezri Konsa,"1,83m",413403,"['England', 'DR Congo']",€22.00m,,Brentford FC,24,"Oct 23, 1997",Aston Villa
+Centre-Back,right,,"Jan 27, 2022",Calum Chambers,"1,82m",215118,['England'],€10.00m,,Arsenal FC,27,"Jan 20, 1995",Cardiff City
+Centre-Back,right,Thumb injury - Return unknown,"Aug 8, 2021",Axel Tuanzebe,"1,85m",342046,"['DR Congo', 'England']",€7.00m,,Manchester United,24,"Nov 14, 1997",Ipswich Town
+Centre-Back,left,"No eligibility - until Jan 31, 2025 - UEFA Champions League; Knee surgery - Return unknown","Jul 1, 2019",Kortney Hause,"1,91m",233124,"['England', 'Bermuda']",€4.00m,,Wolverhampton Wanderers,26,"Jul 16, 1995",Aston Villa
+Centre-Back,right,,"Jul 1, 2024",Lamare Bogarde,"1,85m",645686,"['Netherlands', 'Suriname']",€200k,"Internal transfer: Aston Villa U21; date: Jul 1, 2024",Aston Villa U21,18,"Jan 5, 2004",Aston Villa
+Centre-Back,,,,Sil Swinkels,,646710,['Netherlands'],€150k,,,18,"Jan 6, 2004",Aston Villa U21
+Centre-Back,right,,,Josh Feeney,"1,96m",875929,"['England', 'Scotland']",,,,17,"May 6, 2005",Shrewsbury Town
+Left-Back,left,,"Jan 13, 2022",Lucas Digne,"1,78m",126664,['France'],€25.00m,,Everton FC,28,"Jul 20, 1993",Aston Villa
+Left-Back,left,,"Jul 1, 2019",Matt Targett,"1,83m",250478,"['England', 'Scotland']",€17.00m,,Southampton FC,26,"Sep 18, 1995",Newcastle United
+Left-Back,both,,"Jul 1, 2021",Ashley Young,"1,75m",14086,"['England', 'Jamaica']",€1.00m,,Inter Milan,36,"Jul 9, 1985",Everton FC
+Left-Back,left,,,Ben Chrisene,"1,83m",670846,['England'],€150k,,,18,"Jan 12, 2004",Norwich City
+Right-Back,right,,"Sep 3, 2020",Matty Cash,"1,85m",425334,"['Poland', 'England']",€25.00m,,Nottingham Forest,24,"Aug 7, 1997",Aston Villa
+Right-Back,right,,"Jan 31, 2019",Frédéric Guilbert,"1,78m",354352,['France'],€7.00m,,SM Caen,27,"Dec 24, 1994",US Lecce
+Right-Back,right,,"Jan 15, 2024",Kaine Kesler-Hayden,"1,75m",626888,['England'],€300k,,: Ablöse -,19,"Oct 23, 2002",Preston North End
+Defensive Midfield,left,,"Aug 1, 2019",Marvelous Nakamba,"1,77m",324882,['Zimbabwe'],€7.00m,,Club Brugge KV,28,"Jan 19, 1994",Luton Town
+Defensive Midfield,right,,,Hayden Lindley,"1,82m",698097,['England'],€150k,,,19,"Sep 2, 2002",FC United of Manchester
+Central Midfield,right,"Muscle fatigue - Return expected on Nov 20, 2024","Jul 25, 2019",Douglas Luiz,"1,77m",447661,['Brazil'],€38.00m,,Manchester City,24,"May 9, 1998",Juventus FC
+Central Midfield,left,Team captain,"Aug 8, 2018",John McGinn,"1,78m",193116,['Scotland'],€32.00m,,Hibernian FC,27,"Oct 18, 1994",Aston Villa
+Central Midfield,right,Injury to the ankle - Return unknown,"Jan 26, 2021",Morgan Sanson,"1,80m",174094,['France'],€10.00m,"Returned after loan spell with OGC Nice; date: Jun 30, 2024; fee: End of loan",Olympique Marseille,27,"Aug 18, 1994",OGC Nice
+Central Midfield,right,,"Jul 1, 2021",Carney Chukwuemeka,"1,87m",659459,"['England', 'Nigeria']",€6.00m,,: Ablöse -,18,"Oct 20, 2003",Chelsea FC
+Central Midfield,right,,"Jan 1, 2022",Tim Iroegbunam,"1,83m",696589,"['England', 'Nigeria']",€2.50m,,: Ablöse -,19,"Jun 30, 2003",Everton FC
+Central Midfield,left,,"Jan 26, 2017",Conor Hourihane,"1,81m",61653,['Ireland'],€1.80m,,Barnsley FC,31,"Feb 2, 1991",Barnsley FC
+Attacking Midfield,right,,"Jul 1, 2021",Emiliano Buendía,"1,72m",321247,"['Argentina', 'Spain']",€32.00m,,: Ablöse €38.40m,25,"Dec 25, 1996",Aston Villa
+Attacking Midfield,right,,"Jul 1, 2020",Jacob Ramsey,"1,80m",503749,['England'],€25.00m,,: Ablöse -,21,"May 28, 2001",Aston Villa
+Attacking Midfield,right,,"Jul 1, 2022",Philippe Coutinho,"1,72m",80444,"['Brazil', 'Portugal']",€20.00m,,FC Barcelona,30,"Jun 12, 1992",Clube de Regatas Vasco da Gama
+Attacking Midfield,right,,,Aaron Ramsey,"1,81m",646658,['England'],€1.00m,,,19,"Jan 21, 2003",Burnley FC
+Attacking Midfield,left,,,Tommi O'Reilly,"1,70m",818237,['England'],,,,18,"Dec 15, 2003",Shrewsbury Town
+Left Winger,right,,"Jul 24, 2019",Mahmoud Trezeguet,"1,80m",234189,['Egypt'],€10.00m,,Kasimpasa,27,"Oct 1, 1994",Al-Rayyan SC
+Left Winger,right,,"Jul 19, 2024",Jaden Philogene,"1,81m",665390,"['England', 'Dominica']",€3.00m,"Joined from Hull City; date: Jul 19, 2024; fee: €16.00m",Hull City,20,"Feb 8, 2002",Aston Villa
+Right Winger,left,,"Aug 4, 2021",Leon Bailey,"1,78m",387626,['Jamaica'],€25.00m,,Bayer 04 Leverkusen,24,"Aug 9, 1997",Aston Villa
+Right Winger,left,,"Sep 19, 2020",Bertrand Traoré,"1,81m",131996,['Burkina Faso'],€16.00m,,: Ablöse €18.40m,26,"Sep 6, 1995",Ajax Amsterdam
+Right Winger,right,,"Jul 1, 2019",Anwar El Ghazi,"1,89m",183720,"['Netherlands', 'Morocco']",€9.00m,,LOSC Lille,27,"May 3, 1995",Cardiff City
+Centre-Forward,right,,"Sep 9, 2020",Ollie Watkins,"1,80m",324358,['England'],€35.00m,,Brentford FC,26,"Dec 30, 1995",Aston Villa
+Centre-Forward,right,,"Aug 4, 2021",Danny Ings,"1,77m",134294,['England'],€20.00m,,Southampton FC,29,"Jul 23, 1992",West Ham United
+Centre-Forward,right,,"Jul 1, 2019",Wesley Moraes,"1,91m",381362,['Brazil'],€6.00m,,Club Brugge KV,25,"Nov 24, 1996",Fatih Karagümrük
+Centre-Forward,right,,"Jul 11, 2024",Cameron Archer,"1,75m",533662,"['England', 'Jamaica']",€6.00m,"Joined from Sheffield United; date: Jul 11, 2024; fee: €16.65m",Sheffield United,20,"Dec 9, 2001",Southampton FC
+Centre-Forward,left,,"Jul 1, 2017",Keinan Davis,"1,89m",412660,['England'],€2.50m,,: Ablöse -,24,"Feb 13, 1998",Udinese Calcio
+Centre-Forward,right,,,Caleb Chukwuemeka,"1,90m",742746,"['England', 'Nigeria']",€200k,,,20,"Jan 25, 2002",AC Bellinzona

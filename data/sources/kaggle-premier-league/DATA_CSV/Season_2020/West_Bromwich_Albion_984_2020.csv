@@ -1,0 +1,44 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 3, 2018",Sam Johnstone,"1,93m",110864,['England'],€8.00m,Manchester United,28,"Mar 25, 1993",Wolverhampton Wanderers
+Goalkeeper,right,,"Sep 5, 2020",David Button,"1,91m",61814,['England'],€1.00m,Brighton & Hove Albion,32,"Feb 27, 1989",Reading FC
+Goalkeeper,right,,"Jul 16, 2018",Jonathan Bond,"1,93m",130768,"['England', 'Wales']",€250k,Reading FC,28,"May 19, 1993",Watford FC
+Goalkeeper,right,,"Jul 1, 2017",Alex Palmer,"1,91m",245625,['England'],€250k,West Bromwich Albion U21,24,"Aug 10, 1996",West Bromwich Albion
+Goalkeeper,left,,"Jan 9, 2021",Andy Lonergan,"1,93m",14044,['England'],€250k,Stoke City,37,"Oct 19, 1983",Wigan Athletic
+Centre-Back,right,,"Jul 20, 2019",Semi Ajayi,"1,93m",251912,"['Nigeria', 'England']",€6.00m,Rotherham United,27,"Nov 9, 1993",West Bromwich Albion
+Centre-Back,right,,"Jan 1, 2018",Ahmed Hegazy,"1,93m",111524,['Egypt'],€4.00m,: Ablöse €5.00m,30,"Jan 25, 1991",NEOM SC
+Centre-Back,right,,"Jul 1, 2019",Dara O'Shea,"1,89m",401320,['Ireland'],€3.00m,West Bromwich Albion U21,22,"Mar 4, 1999",Ipswich Town
+Centre-Back,right,,"Jul 16, 2018",Kyle Bartley,"1,94m",67421,"['England', 'Jamaica']",€2.50m,: Ablöse €4.50m,30,"May 22, 1991",West Bromwich Albion
+Centre-Back,right,,"Sep 4, 2020",Cédric Kipré,"1,93m",364827,"[""Cote d'Ivoire"", 'France']",€1.00m,Wigan Athletic,24,"Dec 9, 1996",Stade Reims
+Centre-Back,right,,"Jul 1, 2022",Caleb Taylor,"1,88m",671074,['England'],,West Bromwich Albion U21,18,"Jan 14, 2003",Wycombe Wanderers
+Left-Back,left,,"Aug 30, 2017",Kieran Gibbs,"1,81m",44792,['England'],€2.50m,Arsenal FC,31,"Sep 26, 1989",Retired
+Left-Back,left,,"Jul 28, 2018",Conor Townsend,"1,83m",146509,['England'],€2.00m,Scunthorpe United,28,"Mar 4, 1993",Ipswich Town
+Left-Back,left,,,George Harmon,"1,63m",504543,['England'],,,20,"Dec 8, 2000",Ross County FC
+Right-Back,right,,"Feb 1, 2021",Ainsley Maitland-Niles,"1,80m",285845,"['England', 'Jamaica']",€16.00m,Arsenal FC,23,"Aug 29, 1997",Olympique Lyon
+Right-Back,right,,"Jul 23, 2019",Darnell Furlong,"1,83m",351755,"['England', 'Montserrat']",€5.00m,Queens Park Rangers,25,"Oct 31, 1995",West Bromwich Albion
+Right-Back,right,,"Sep 15, 2020",Branislav Ivanovic,"1,85m",36827,['Serbia'],€500k,: Ablöse free transfer,37,"Feb 22, 1984",Retired
+Right-Back,right,,"Jan 31, 2020",Lee Peltier,"1,78m",38094,"['England', 'Antigua and Barbuda']",€400k,Cardiff City,34,"Dec 11, 1986",Without Club
+Defensive Midfield,right,,"Jul 18, 2022",Okay Yokuşlu,"1,91m",137616,['Türkiye'],€7.50m,Celta de Vigo,27,"Mar 9, 1994",Trabzonspor
+Defensive Midfield,right,,"Jan 20, 2017",Jake Livermore,"1,80m",61832,['England'],€2.50m,: Ablöse €11.50m,31,"Nov 14, 1989",Without Club
+Defensive Midfield,left,,"Jul 1, 2016",Sam Field,"1,91m",387331,['England'],€1.00m,West Bromwich Albion U21,23,"May 8, 1998",Queens Park Rangers
+Central Midfield,right,,"Sep 17, 2020",Conor Gallagher,"1,82m",488362,"['England', 'Ireland']",€15.00m,Chelsea FC U23,21,"Feb 6, 2000",Atlético de Madrid
+Central Midfield,right,,"Jul 1, 2018",Rekeem Harper,"1,83m",456877,"['England', 'Jamaica']",€2.50m,West Bromwich Albion U21,21,"Mar 8, 2000",Port Vale FC
+Central Midfield,right,,"Jul 1, 2021",Taylor Gardner-Hickman,"1,88m",546944,"['England', 'Ireland']",,West Bromwich Albion U21,19,"Dec 30, 2001",Birmingham City
+Central Midfield,right,,,Toby King,"1,79m",614826,['England'],,,19,"Jan 4, 2002",Cray Wanderers FC
+Central Midfield,right,,,Tim Iroegbunam,"1,83m",696589,"['England', 'Nigeria']",,,18,"Jun 30, 2003",Everton FC
+Attacking Midfield,left,"Yellow card suspension - until Nov 26, 2024 - Campeonato Brasileiro Série A - 1 matchday","Aug 17, 2020",Matheus Pereira,"1,75m",225984,"['Brazil', 'Portugal']",€15.00m,Sporting CP,25,"May 5, 1996",Cruzeiro Esporte Clube
+Attacking Midfield,right,,"Sep 29, 2020",Filip Krovinovic,"1,75m",261988,['Croatia'],€3.00m,SL Benfica,25,"Aug 29, 1995",HNK Hajduk Split
+Attacking Midfield,right,,"Jul 27, 2019",Romaine Sawyers,"1,85m",113036,"['St. Kitts & Nevis', 'England']",€2.00m,Brentford FC,29,"Nov 2, 1991",Without Club
+Attacking Midfield,left,,,Rico Richards,"1,82m",612748,['England'],,,17,"Sep 27, 2003",Port Vale FC
+Left Winger,right,,"Jan 31, 2020",Kamil Grosicki,"1,80m",37920,['Poland'],€1.00m,Hull City,33,"Jun 8, 1988",Pogon Szczecin
+Left Winger,right,,"Jul 1, 2017",Kyle Edwards,"1,78m",314366,['England'],€1.00m,West Bromwich Albion U21,23,"Feb 17, 1998",Oxford United
+Right Winger,left,,"Sep 4, 2020",Grady Diangana,"1,80m",342048,"['DR Congo', 'England']",€10.00m,West Ham United,23,"Apr 19, 1998",West Bromwich Albion
+Right Winger,right,,"Jul 6, 2016",Matt Phillips,"1,83m",77274,"['Scotland', 'England']",€4.00m,Queens Park Rangers,30,"Mar 13, 1991",Oxford United
+Right Winger,left,,"Jan 8, 2021",Robert Snodgrass,"1,82m",22614,['Scotland'],€1.50m,West Ham United,33,"Sep 7, 1987",Retired
+Centre-Forward,right,,"Oct 15, 2020",Karlan Grant,"1,83m",314183,"['England', 'Scotland']",€8.00m,Huddersfield Town,23,"Sep 18, 1997",West Bromwich Albion
+Centre-Forward,right,,"Sep 9, 2020",Callum Robinson,"1,78m",183299,"['Ireland', 'England']",€6.00m,Sheffield United,26,"Feb 2, 1995",Cardiff City
+Centre-Forward,right,,"Jan 29, 2021",Mbaye Diagne,"1,91m",271966,['Senegal'],€3.00m,Galatasaray,29,"Oct 28, 1991",NEOM SC
+Centre-Forward,left,,"Jul 19, 2019",Kenneth Zohore,"1,90m",135213,"['Denmark', ""Cote d'Ivoire""]",€2.00m,Cardiff City,27,"Jan 31, 1994",Without Club
+Centre-Forward,right,,"Aug 8, 2019",Charlie Austin,"1,88m",129627,['England'],€2.00m,Southampton FC,31,"Jul 5, 1989",AFC Totton
+Centre-Forward,left,,"Aug 31, 2016",Hal Robson-Kanu,"1,83m",65976,"['Wales', 'England']",€1.50m,Reading FC,32,"May 21, 1989",Retired
+Centre-Forward,right,,,Jamie Soule,"1,83m",406636,['England'],,,20,"Nov 26, 2000",Weston-super-Mare AFC
+Centre-Forward,right,,,Cheikh Diaby,,592988,"['France', 'Senegal']",,,21,"Mar 7, 2000",ES du Mont-Gaillard

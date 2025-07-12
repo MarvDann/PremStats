@@ -1,0 +1,33 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Aug 15, 2006",Andreas Isaksson,"2,00m",6590,['Sweden'],€4.90m,Stade Rennais FC,25,"Oct 3, 1981",Retired
+Goalkeeper,right,"Jul 1, 1997",Nicky Weaver,"1,91m",3310,['England'],€2.00m,Mansfield Town,28,"Mar 2, 1979",Retired
+Goalkeeper,right,"Jul 1, 2006",Joe Hart,"1,96m",40204,['England'],€250k,: Ablöse €900k,20,"Apr 19, 1987",Retired
+Centre-Back,left,"Jul 1, 2002",Sylvain Distin,"1,92m",3356,"['France', 'Guadeloupe']",€7.30m,: Ablöse €6.00m,29,"Dec 16, 1977",Retired
+Centre-Back,right,"Oct 18, 2000",Richard Dunne,"1,88m",3807,['Ireland'],€5.90m,: Ablöse €4.50m,27,"Sep 21, 1979",Retired
+Centre-Back,right,"Jan 1, 2002",Jihai Sun,"1,83m",3806,['China'],€4.00m,Dalian Shide,29,"Sep 30, 1977",Retired
+Centre-Back,right,"Jul 1, 2004",Nedum Onuoha,"1,83m",28810,"['England', 'Nigeria']",€2.20m,: Ablöse -,20,"Nov 12, 1986",Retired
+Centre-Back,left,"Jul 1, 2003",Stephen Jordan,"1,83m",4082,['England'],€950k,: Ablöse -,25,"Mar 6, 1982",Retired
+Centre-Back,right,"Jan 31, 2006",Matt Mills,"1,91m",25384,['England'],€400k,Southampton FC,20,"Jul 14, 1986",Retired
+Left-Back,,"Aug 31, 2006",DaMarcus Beasley,,20584,['United States'],€3.25m,: Ablöse ?,25,"May 24, 1982",Retired
+Left-Back,left,"Jul 1, 2004",Ben Thatcher,"1,78m",3304,"['Wales', 'England']",€2.30m,: Ablöse €1.50m,31,"Nov 30, 1975",Retired
+Left-Back,left,"Jan 31, 2007",Michael Ball,"1,78m",9423,['England'],€1.70m,: Ablöse free transfer,27,"Oct 2, 1979",Retired
+Right-Back,right,"Jan 1, 2006",Micah Richards,"1,80m",32617,"['England', 'St. Kitts & Nevis']",€4.50m,: Ablöse -,19,"Jun 24, 1988",Retired
+Right-Back,right,"Aug 11, 2006",Hatem Trabelsi,"1,79m",4318,['Tunisia'],€4.10m,: Ablöse free transfer,30,"Jan 25, 1977",Retired
+Right-Back,right,"Jul 1, 2004",Danny Mills,"1,80m",3743,['England'],€900k,Leeds United,30,"May 18, 1977",Retired
+Right-Back,right,,Danny Warrender,"1,78m",32616,['England'],€200k,,21,"Apr 28, 1986",Retired
+Right-Back,right,"Jul 1, 2006",Nathan D'Laryea,"1,78m",44946,"['England', 'Ghana']",€150k,: Ablöse -,21,"Sep 3, 1985",Retired
+Defensive Midfield,right,"Jul 1, 2006",Ousmane Dabo,"1,85m",3904,"['France', 'Senegal']",€3.80m,: Ablöse free transfer,30,"Feb 8, 1977",Retired
+Defensive Midfield,,"Jul 12, 2006",Dietmar Hamann,,919,['Germany'],€2.30m,: Ablöse €600k,33,"Aug 27, 1973",Retired
+Defensive Midfield,right,"Jul 1, 2006",Michael Johnson,"1,83m",45274,['England'],€100k,: Ablöse -,19,"Feb 24, 1988",Retired
+Central Midfield,right,"Jan 1, 2003",Joey Barton,"1,80m",3292,['England'],€7.40m,: Ablöse -,24,"Sep 2, 1982",Retired
+Central Midfield,right,"Jul 1, 2003",Claudio Reyna,"1,75m",3475,"['United States', 'Portugal']",€3.60m,Sunderland AFC,33,"Jul 20, 1973",Retired
+Attacking Midfield,right,"Jul 1, 2005",Stephen Ireland,"1,73m",34838,['Ireland'],€3.40m,: Ablöse -,20,"Aug 22, 1986",Retired
+Left Winger,right,"Jan 1, 2006",Georgios Samaras,"1,93m",6855,"['Greece', 'Australia']",€8.00m,: Ablöse €8.50m,22,"Feb 21, 1985",Retired
+Left Winger,right,"Jul 1, 2003",Trevor Sinclair,"1,78m",3253,['England'],€2.70m,: Ablöse €3.75m,34,"Mar 2, 1973",Retired
+Right Winger,right,"Jan 1, 2007",Djamel Abdoun,"1,78m",34226,"['Algeria', 'France']",€100k,: Ablöse free transfer,21,"Feb 14, 1986",Retired
+Centre-Forward,right,"Jul 1, 2005",Darius Vassell,"1,71m",3236,"['England', 'Jamaica']",€4.10m,: Ablöse €3.60m,27,"Jun 13, 1980",Retired
+Centre-Forward,right,"Jul 20, 2006",Bernardo Corradi,"1,89m",5851,['Italy'],€3.20m,: Ablöse €2.00m,31,"Mar 30, 1976",Retired
+Centre-Forward,right,"Feb 15, 2007",Emile Mpenza,"1,77m",272,"['Belgium', 'DR Congo']",€2.50m,: Ablöse free transfer,28,"Jul 4, 1978",Retired
+Centre-Forward,,"Jul 1, 2006",Paul Dickov,,9221,['Scotland'],€1.10m,Blackburn Rovers,34,"Nov 1, 1972",Retired
+Centre-Forward,left,"Jul 1, 2008",Daniel Sturridge,"1,82m",47082,['England'],€900k,: Ablöse -,17,"Sep 1, 1989",Retired
+Centre-Forward,left,"Jul 1, 2006",Ishmael Miller,"1,92m",38776,['England'],€800k,: Ablöse -,20,"Mar 5, 1987",Retired

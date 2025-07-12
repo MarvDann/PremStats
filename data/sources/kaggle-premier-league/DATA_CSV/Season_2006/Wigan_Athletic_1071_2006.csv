@@ -1,0 +1,38 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Oct 27, 2006",Chris Kirkland,"1,98m",3219,['England'],€3.00m,: Ablöse €3.73m,26,"May 2, 1981",Retired
+Goalkeeper,right,"Jul 1, 2005",Mike Pollitt,"1,93m",32217,['England'],€600k,Rotherham United,35,"Feb 29, 1972",Retired
+Goalkeeper,,"Jul 1, 2001",John Filan,"1,88m",13516,['Australia'],€575k,Blackburn Rovers,37,"Feb 8, 1970",Retired
+Goalkeeper,right,"Feb 1, 2007",Carlo Nash,"1,97m",3804,['England'],€500k,: Ablöse €450k,33,"Sep 13, 1973",Retired
+Centre-Back,right,"Jul 1, 2006",Fitz Hall,"1,93m",6580,['England'],€4.50m,: Ablöse €4.50m,26,"Dec 20, 1980",Retired
+Centre-Back,right,"Jul 1, 2005",Arjan de Zeeuw,"1,92m",5909,['Netherlands'],€1.60m,: Ablöse free transfer,37,"Apr 16, 1970",Retired
+Centre-Back,both,"Jul 1, 2006",Andy Webster,"1,83m",12610,['Scotland'],€1.25m,Heart of Midlothian FC,25,"Apr 23, 1982",Retired
+Centre-Back,right,"Jul 1, 2007",Andreas Granqvist,"1,92m",29213,['Sweden'],€900k,Helsingborgs IF,22,"Apr 16, 1985",Retired
+Centre-Back,right,"Jul 1, 2001",Lee McCulloch,"1,85m",11360,['Scotland'],€900k,Motherwell FC,29,"May 14, 1978",Retired
+Centre-Back,right,"Oct 1, 2001",Matt Jackson,"1,85m",13519,['England'],€400k,: Ablöse free transfer,35,"Oct 19, 1971",Retired
+Left-Back,left,"Jul 1, 2002",Leighton Baines,"1,70m",13507,['England'],€4.00m,Wigan Athletic U18,22,"Dec 11, 1984",Retired
+Left-Back,left,"Jan 1, 2007",David Unsworth,"1,87m",3272,['England'],€2.50m,Sheffield United,33,"Oct 16, 1973",Retired
+Left-Back,left,"Jul 1, 2002",Steve McMillan,"1,78m",13530,['Scotland'],€650k,Motherwell FC,31,"Jan 19, 1976",Retired
+Right-Back,right,"Jul 8, 2005",Pascal Chimbonda,"1,82m",18875,"['Guadeloupe', 'France']",€7.90m,: Ablöse free transfer,28,"Feb 21, 1979",Skelmersdale United
+Right-Back,right,"Jan 18, 2008",Antonio Valencia,"1,80m",33544,['Ecuador'],€2.25m,: Ablöse €2.00m,21,"Aug 4, 1985",Retired
+Right-Back,right,"Aug 1, 2006",Emmerson Boyce,"1,80m",19641,"['Barbados', 'England']",€1.60m,: Ablöse €1.50m,27,"Sep 24, 1979",Retired
+Right-Back,right,"Jul 1, 2005",Ryan Taylor,"1,79m",33785,['England'],€850k,: Ablöse €100k,22,"Aug 19, 1984",Without Club
+Defensive Midfield,,"Jan 31, 2013",Paul Scharner,,2953,['Austria'],€3.50m,: Ablöse €100k,27,"Mar 11, 1980",Retired
+Defensive Midfield,right,"Jul 1, 2004",David Wright,"1,80m",14165,['England'],€600k,Crewe Alexandra,27,"May 1, 1980",Retired
+Defensive Midfield,both,"Jul 1, 2006",Tomasz Cywka,"1,80m",38558,['Poland'],€200k,Gwarek Zabrze,19,"Jun 27, 1988",Retired
+Midfielder,right,,David Owens,,105043,['England'],,,18,"Oct 10, 1988",Retired
+Central Midfield,right,"Jul 1, 2006",Denny Landzaat,"1,78m",4570,['Netherlands'],€4.50m,AZ Alkmaar,31,"May 6, 1976",Retired
+Central Midfield,right,"Aug 17, 2005",Josip Skoko,"1,75m",7266,"['Australia', 'Croatia']",€2.60m,Genclerbirligi Ankara,31,"Dec 10, 1975",Retired
+Central Midfield,,"Mar 1, 2005",Graham Kavanagh,,12712,['Ireland'],€1.75m,: Ablöse free transfer,33,"Dec 2, 1973",Retired
+Central Midfield,left,"Jan 1, 2005",Andreas Johansson,"1,81m",15209,['Sweden'],€850k,Djurgårdens IF,28,"Jul 5, 1978",Retired
+Central Midfield,left,"Jan 1, 2007",Kristofer Haestad,"1,72m",35592,['Norway'],€500k,: Ablöse €250k,23,"Dec 9, 1983",Retired
+Central Midfield,right,"Jul 1, 2007",Lewis Montrose,"1,83m",57493,"['England', 'Barbados']",,Wigan Athletic U18,18,"Nov 17, 1988",Retired
+Left Midfield,left,"Aug 31, 2006",Kevin Kilbane,"1,83m",4135,"['Ireland', 'England']",€4.50m,: Ablöse €2.50m,30,"Feb 1, 1977",Retired
+Right Winger,right,"Aug 1, 2006",David Cotterill,"1,75m",40207,['Wales'],€3.20m,: Ablöse €3.20m,19,"Dec 4, 1987",Retired
+Right Winger,,"Dec 1, 2001",Gary Teale,,13543,['Scotland'],€500k,: Ablöse €300k,28,"Jul 21, 1978",Retired
+Right Winger,right,"Jul 1, 2006",Tomasz Kupisz,"1,80m",45185,['Poland'],€50k,MKS Piaseczno,17,"Jan 2, 1990",Hutnik Warszawa
+Centre-Forward,both,"Jul 1, 2005",Henri Camara,"1,78m",3900,"['Senegal', 'France']",€6.30m,Wolverhampton Wanderers,30,"May 10, 1977",Retired
+Centre-Forward,right,"Jul 9, 2006",Emile Heskey,"1,88m",3142,"['England', 'Antigua and Barbuda']",€6.00m,: Ablöse €7.50m,29,"Jan 11, 1978",Retired
+Centre-Forward,right,"Aug 1, 2005",David Connolly,"1,75m",9051,['Ireland'],€2.00m,: Ablöse €3.00m,30,"Jun 6, 1977",Retired
+Centre-Forward,right,"Jan 1, 2007",Julius Aghahowa,"1,79m",14925,['Nigeria'],€2.00m,: Ablöse free transfer,25,"Feb 12, 1982",Retired
+Centre-Forward,right,"Aug 1, 2006",Svetoslav Todorov,"1,83m",3978,"['Bulgaria', 'England']",€1.90m,: Ablöse ?,28,"Aug 30, 1978",Retired
+Centre-Forward,right,"Jan 1, 2007",Caleb Folan,"1,88m",46816,"['Ireland', 'England']",,: Ablöse €750k,24,"Oct 26, 1982",Retired

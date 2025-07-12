@@ -1,0 +1,44 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2011",David de Gea,"1,92m",59377,['Spain'],€25.00m,: Ablöse €25.00m,24,"Nov 7, 1990",ACF Fiorentina
+Goalkeeper,right,,"Jan 8, 2015",Víctor Valdés,"1,83m",7589,['Spain'],€5.00m,Without Club,33,"Jan 14, 1982",Retired
+Goalkeeper,right,,"Jan 6, 2011",Anders Lindegaard,"1,93m",22491,['Denmark'],€1.50m,: Ablöse €5.00m,31,"Apr 13, 1984",Retired
+Goalkeeper,right,,"Jul 1, 2011",Ben Amos,"1,93m",73472,['England'],€750k,Manchester United Reserves,25,"Apr 10, 1990",Port Vale FC
+Goalkeeper,right,,"Jul 1, 2011",Sam Johnstone,"1,93m",110864,['England'],€250k,Manchester United U18,22,"Mar 25, 1993",Wolverhampton Wanderers
+Centre-Back,left,,"Aug 20, 2014",Marcos Rojo,"1,86m",93176,['Argentina'],€16.00m,Sporting CP,25,"Mar 20, 1990",CA Boca Juniors
+Centre-Back,left,,"Sep 1, 2014",Daley Blind,"1,80m",12282,"['Netherlands', 'England']",€15.00m,Ajax Amsterdam,25,"Mar 9, 1990",Girona FC
+Centre-Back,right,,"Jul 1, 2011",Phil Jones,"1,85m",117996,['England'],€14.00m,Blackburn Rovers,23,"Feb 21, 1992",Retired
+Centre-Back,right,,"Jul 1, 2010",Chris Smalling,"1,94m",103427,"['England', 'Jamaica']",€11.00m,Fulham FC,25,"Nov 22, 1989",Al-Fayha FC
+Centre-Back,both,,"Jul 18, 2023",Jonny Evans,"1,88m",42412,['Northern Ireland'],€8.00m,Leicester City,27,"Jan 3, 1988",Manchester United
+Centre-Back,right,,,Michael Keane,"1,88m",118534,"['England', 'Ireland']",€2.00m,,22,"Jan 11, 1993",Everton FC
+Centre-Back,right,,"Jul 1, 2014",Paddy McNair,"1,89m",167268,['Northern Ireland'],€1.50m,Manchester United U21,20,"Apr 27, 1995",West Bromwich Albion
+Centre-Back,right,,"Jul 1, 2013",Tom Thorpe,"1,88m",128911,['England'],€200k,Manchester United U21,22,"Jan 13, 1993",Without Club
+Left-Back,left,,"Jul 1, 2014",Luke Shaw,"1,78m",183288,['England'],€21.00m,Southampton FC,19,"Jul 12, 1995",Manchester United
+Left-Back,both,,"Jul 1, 2011",Ashley Young,"1,75m",14086,"['England', 'Jamaica']",€9.00m,: Ablöse €18.00m,29,"Jul 9, 1985",Everton FC
+Left-Back,left,,"Jul 1, 2014",Tyler Blackett,"1,83m",134414,"['England', 'Barbados']",€1.00m,Manchester United U21,21,"Apr 2, 1994",Without Club
+Left-Back,right,,"Jul 1, 2012",Marnick Vermijl,"1,80m",110798,['Belgium'],€650k,Manchester United U18,23,"Jan 13, 1992",KVV Thes Sport
+Left-Back,left,,,Reece James,"1,82m",245585,['England'],,,21,"Nov 7, 1993",Rotherham United
+Right-Back,right,Knee injury - Return unknown,"Jan 1, 2008",Rafael,"1,72m",61892,"['Brazil', 'Portugal']",€13.00m,Fluminense Football Club,24,"Jul 9, 1990",Botafogo de Futebol e Regatas
+Right-Back,right,,"Jul 1, 2009",Antonio Valencia,"1,80m",33544,['Ecuador'],€10.00m,Wigan Athletic,29,"Aug 4, 1985",Retired
+Right-Back,right,Muscle injury - Return unknown,,Saidy Janko,"1,81m",196435,"['The Gambia', 'Switzerland']",€250k,,19,"Oct 22, 1995",BSC Young Boys
+Defensive Midfield,right,,"Jul 31, 2006",Michael Carrick,"1,89m",3878,['England'],€5.00m,Tottenham Hotspur,33,"Jul 28, 1981",Retired
+Central Midfield,right,,"Jul 1, 2014",Ander Herrera,"1,82m",99343,['Spain'],€25.00m,Athletic Bilbao,25,"Aug 14, 1989",Athletic Bilbao
+Central Midfield,right,,"Sep 2, 2013",Marouane Fellaini,"1,94m",39679,"['Belgium', 'Morocco']",€16.00m,: Ablöse €32.40m,27,"Nov 22, 1987",Retired
+Central Midfield,right,,"Jul 1, 2008",Tom Cleverley,"1,75m",73484,['England'],€9.00m,Manchester United U18,25,"Aug 12, 1989",Retired
+Central Midfield,left,,"Jul 2, 2007",Anderson,"1,76m",31645,['Brazil'],€3.50m,FC Porto,27,"Apr 13, 1988",Retired
+Central Midfield,right,,"Jul 1, 2001",Darren Fletcher,"1,84m",3547,['Scotland'],€2.00m,Manchester United U18,31,"Feb 1, 1984",Retired
+Attacking Midfield,left,,"Jan 24, 2014",Juan Mata,"1,70m",44068,['Spain'],€34.00m,Chelsea FC,27,"Apr 28, 1988",Western Sydney Wanderers
+Attacking Midfield,right,,"Jul 1, 2012",Shinji Kagawa,"1,75m",81785,['Japan'],€10.00m,Borussia Dortmund,26,"Mar 17, 1989",Cerezo Osaka
+Attacking Midfield,both,,"Jul 1, 2012",Nick Powell,"1,83m",134424,['England'],€2.50m,Crewe Alexandra,21,"Mar 23, 1994",Stockport County
+Attacking Midfield,right,,"Jul 1, 2014",Jesse Lingard,"1,74m",141660,['England'],€1.00m,Manchester United U21,22,"Dec 15, 1992",FC Seoul
+Attacking Midfield,right,,"Jul 1, 2015",Andreas Pereira,"1,78m",203394,"['Brazil', 'Belgium']",€500k,Manchester United U21,19,"Jan 1, 1996",Fulham FC
+Left Winger,both,,"Jul 2, 2007",Nani,"1,77m",33706,"['Portugal', 'Cape Verde']",€16.00m,Sporting CP,28,"Nov 17, 1986",CF Estrela Amadora
+Left Winger,right,,"Jan 25, 2013",Wilfried Zaha,"1,80m",145988,"[""Cote d'Ivoire"", 'England']",€6.00m,: Ablöse €11.75m,22,"Nov 10, 1992",Olympique Lyon
+Right Winger,left,,"Aug 26, 2014",Ángel Di María,"1,78m",45320,"['Argentina', 'Italy']",€65.00m,Real Madrid,27,"Feb 14, 1988",SL Benfica
+Right Winger,left,,"Jul 1, 2013",Adnan Januzaj,"1,86m",177847,"['Belgium', 'Kosovo']",€10.00m,Manchester United U21,20,"Feb 5, 1995",UD Las Palmas
+Centre-Forward,right,,"Sep 1, 2014",Radamel Falcao,"1,77m",39152,"['Colombia', 'Venezuela']",€45.00m,: Ablöse €7.60m,29,"Feb 10, 1986",Millonarios FC
+Centre-Forward,right,,"Aug 31, 2004",Wayne Rooney,"1,76m",3332,['England'],€45.00m,: Ablöse €37.00m,29,"Oct 24, 1985",Retired
+Centre-Forward,left,,"Aug 17, 2012",Robin van Persie,"1,83m",4380,['Netherlands'],€25.00m,Arsenal FC,31,"Aug 6, 1983",Retired
+Centre-Forward,right,,"Jul 1, 2008",Danny Welbeck,"1,85m",67063,"['England', 'Ghana']",€18.00m,Manchester United U18,24,"Nov 26, 1990",Brighton & Hove Albion
+Centre-Forward,right,,"Jul 1, 2010",Chicharito,"1,75m",50935,['Mexico'],€10.00m,Deportivo Guadalajara,27,"Jun 1, 1988",Deportivo Guadalajara
+Centre-Forward,left,,"Jul 1, 2014",James Wilson,"1,83m",214104,['England'],€1.50m,Manchester United U18,19,"Dec 1, 1995",Northampton Town
+Centre-Forward,right,,"Jul 1, 2013",Will Keane,"1,88m",118535,"['Ireland', 'England']",€300k,Manchester United U21,22,"Jan 11, 1993",Preston North End

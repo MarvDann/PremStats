@@ -1,0 +1,44 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Aug 8, 2018",Kepa Arrizabalaga,"1,88m",192279,['Spain'],€18.00m,,Athletic Bilbao,28,"Oct 3, 1994",AFC Bournemouth
+Goalkeeper,right,,"Sep 24, 2020",Edouard Mendy,"1,94m",442531,"['Senegal', 'Guinea-Bissau']",€12.00m,,Stade Rennais FC,31,"Mar 1, 1992",Al-Ahli SFC
+Goalkeeper,right,,"Aug 2, 2022",Gabriel Slonina,"1,93m",656316,"['United States', 'Poland']",€9.00m,,Chicago Fire FC,19,"May 15, 2004",Barnsley FC
+Goalkeeper,right,"No eligibility - until Dec 31, 2024 - UEFA Conference League","Jul 28, 2021",Marcus Bettinelli,"1,93m",116648,"['England', 'Italy']",€1.50m,,Fulham FC,31,"May 24, 1992",Chelsea FC
+Goalkeeper,right,,"Jul 1, 2023",Lucas Bergström,"2,05m",490606,['Finland'],€250k,"Returned after loan spell with IF Brommapojkarna; date: Jun 18, 2024; fee: End of loan",Chelsea FC U21,20,"Sep 5, 2002",Chelsea FC
+Goalkeeper,,,,Ethan Wady,,573132,"['United States', 'England']",,,,21,"Jan 23, 2002",Millwall FC U21
+Centre-Back,right,"No eligibility - until Dec 31, 2024 - UEFA Conference League","Aug 31, 2022",Wesley Fofana,"1,86m",475411,"['France', ""Cote d'Ivoire""]",€55.00m,,Leicester City,22,"Dec 17, 2000",Chelsea FC
+Centre-Back,left,,"Jan 5, 2023",Benoît Badiashile,"1,94m",463603,"['France', 'DR Congo']",€40.00m,,AS Monaco,22,"Mar 26, 2001",Chelsea FC
+Centre-Back,right,,"Jul 1, 2021",Trevoh Chalobah,"1,92m",346314,"['England', 'Sierra Leone']",€18.00m,,Chelsea FC U23,23,"Jul 5, 1999",Crystal Palace
+Centre-Back,right,,"Jul 16, 2022",Kalidou Koulibaly,"1,86m",93128,"['Senegal', 'France']",€15.00m,,: Ablöse €41.90m,32,"Jun 20, 1991",Al-Hilal SFC
+Centre-Back,right,,"Aug 24, 2012",César Azpilicueta,"1,78m",57500,['Spain'],€5.00m,,Olympique Marseille,33,"Aug 28, 1989",Atlético de Madrid
+Centre-Back,left,,"Jul 1, 2024",Bashir Humphreys,"1,86m",612517,"['England', 'Uganda']",€3.00m,,Chelsea FC U21,20,"Mar 15, 2003",Burnley FC
+Centre-Back,right,,"Aug 28, 2020",Thiago Silva,"1,81m",29241,"['Brazil', 'France']",€2.00m,,: Ablöse free transfer,38,"Sep 22, 1984",Fluminense Football Club
+Centre-Back,right,,"Jul 1, 2023",Alfie Gilchrist,"1,83m",790992,['England'],,,Chelsea FC U21,19,"Nov 28, 2003",Sheffield United
+Left-Back,left,"No eligibility - until Dec 31, 2024 - UEFA Conference League","Aug 26, 2020",Ben Chilwell,"1,80m",316125,"['England', 'New Zealand']",€35.00m,,Leicester City,26,"Dec 21, 1996",Chelsea FC
+Left-Back,left,,"Aug 5, 2022",Marc Cucurella,"1,73m",284857,['Spain'],€35.00m,,Brighton & Hove Albion,24,"Jul 22, 1998",Chelsea FC
+Left-Back,left,,"Jul 1, 2023",Lewis Hall,"1,79m",670858,['England'],€10.00m,"Returned after loan spell with Newcastle United; date: Jun 30, 2024; fee: End of loan",Chelsea FC U21,18,"Sep 8, 2004",Newcastle United
+Left-Back,left,,"Aug 16, 2015",Abdul Rahman Baba,"1,79m",224884,['Ghana'],€1.20m,,FC Augsburg,28,"Jul 2, 1994",PAOK Thessaloniki
+Right-Back,right,Team captain,"Jul 1, 2019",Reece James,"1,80m",472423,['England'],€65.00m,,Chelsea FC U23,23,"Dec 8, 1999",Chelsea FC
+Defensive Midfield,right,,"Jul 14, 2018",Jorginho,"1,78m",102017,"['Italy', 'Brazil']",€25.00m,,: Ablöse €57.00m,31,"Dec 20, 1991",Arsenal FC
+Defensive Midfield,right,,"Sep 1, 2022",Denis Zakaria,"1,90m",334526,"['Switzerland', 'DR Congo']",€18.00m,,Juventus FC,26,"Nov 20, 1996",AS Monaco
+Defensive Midfield,right,,"Jul 16, 2016",N'Golo Kanté,"1,68m",225083,"['France', 'Mali']",€15.00m,,Leicester City,32,"Mar 29, 1991",Al-Ittihad Club
+Defensive Midfield,right,,"Feb 11, 2020",Billy Gilmour,"1,70m",423744,['Scotland'],€12.00m,,Chelsea FC U23,22,"Jun 11, 2001",SSC Napoli
+Defensive Midfield,right,"Knee injury - Return expected on Dec 31, 2024","Jul 1, 2017",Ethan Ampadu,"1,82m",392771,"['Wales', 'England']",€9.00m,,Exeter City,22,"Sep 14, 2000",Leeds United
+Central Midfield,right,,"Jan 31, 2023",Enzo Fernández,"1,78m",648195,['Argentina'],€80.00m,,SL Benfica,22,"Jan 17, 2001",Chelsea FC
+Central Midfield,right,,"Jul 1, 2019",Mateo Kovacic,"1,77m",51471,['Croatia'],€38.00m,,Real Madrid,29,"May 6, 1994",Manchester City
+Central Midfield,right,,"Jul 1, 2022",Conor Gallagher,"1,82m",488362,"['England', 'Ireland']",€32.00m,,Chelsea FC U21,23,"Feb 6, 2000",Atlético de Madrid
+Central Midfield,right,,"Jan 1, 2015",Ruben Loftus-Cheek,"1,91m",202886,"['England', 'Guyana']",€25.00m,,Chelsea FC U21,27,"Jan 23, 1996",AC Milan
+Central Midfield,right,,"Aug 4, 2022",Carney Chukwuemeka,"1,87m",659459,"['England', 'Nigeria']",€15.00m,,: Ablöse €18.00m,19,"Oct 20, 2003",Chelsea FC
+Attacking Midfield,right,,"Jul 1, 2019",Mason Mount,"1,81m",346483,['England'],€60.00m,,Chelsea FC U23,24,"Jan 10, 1999",Manchester United
+Attacking Midfield,left,,,Harvey Vale,"1,81m",581675,['England'],€2.00m,,,19,"Sep 11, 2003",Chelsea FC U21
+Left Winger,right,,"Jul 13, 2022",Raheem Sterling,"1,70m",134425,"['England', 'Jamaica']",€55.00m,,Manchester City,28,"Dec 8, 1994",Arsenal FC
+Left Winger,right,,"Jan 15, 2023",Mykhaylo Mudryk,"1,75m",537860,['Ukraine'],€50.00m,,Shakhtar Donetsk,22,"Jan 5, 2001",Chelsea FC
+Left Winger,right,,"Jan 1, 2019",Callum Hudson-Odoi,"1,78m",392768,"['England', 'Ghana']",€15.00m,,Chelsea FC U23,22,"Nov 7, 2000",Nottingham Forest
+Right Winger,left,,"Jan 20, 2023",Noni Madueke,"1,82m",503987,"['England', 'Nigeria']",€30.00m,,PSV Eindhoven,21,"Mar 10, 2002",Chelsea FC
+Right Winger,right,,"Jan 2, 2019",Christian Pulisic,"1,77m",315779,"['United States', 'Croatia']",€25.00m,,Borussia Dortmund,24,"Sep 18, 1998",AC Milan
+Right Winger,left,,"Jul 1, 2020",Hakim Ziyech,"1,80m",217111,"['Morocco', 'Netherlands']",€16.00m,"Returned after loan spell with Galatasaray; date: Jun 30, 2024; fee: End of loan",Ajax Amsterdam,30,"Mar 19, 1993",Galatasaray
+Right Winger,left,,"Jul 1, 2023",Omari Hutchinson,"1,74m",741238,"['England', 'Jamaica']",€1.00m,,Chelsea FC U21,19,"Oct 30, 2003",Ipswich Town
+Second Striker,right,,"Aug 21, 2024",João Félix,"1,81m",462250,['Portugal'],€50.00m,"Joined from Atlético de Madrid; date: Aug 21, 2024; fee: €52.00m",Atlético de Madrid,23,"Nov 10, 1999",Chelsea FC
+Centre-Forward,left,,"Sep 4, 2020",Kai Havertz,"1,93m",309400,['Germany'],€55.00m,,Bayer 04 Leverkusen,24,"Jun 11, 1999",Arsenal FC
+Centre-Forward,right,Achilles tendon problems - Return unknown,"Jul 1, 2022",Armando Broja,"1,91m",571743,"['Albania', 'England']",€28.00m,,Chelsea FC U21,21,"Sep 10, 2001",Everton FC
+Centre-Forward,right,,"Jan 1, 2023",David Datro Fofana,"1,80m",787232,"[""Cote d'Ivoire""]",€10.00m,,Molde FK,20,"Dec 22, 2002",Göztepe
+Centre-Forward,right,,"Sep 1, 2022",Pierre-Emerick Aubameyang,"1,87m",58864,"['Gabon', 'France']",€4.00m,,FC Barcelona,34,"Jun 18, 1989",Al-Qadsiah FC

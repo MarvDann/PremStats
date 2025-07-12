@@ -1,0 +1,46 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2008",Wojciech Szczęsny,"1,95m",44058,['Poland'],€14.00m,Arsenal FC U18,22,"Apr 18, 1990",FC Barcelona
+Goalkeeper,right,,"Jul 1, 2007",Lukasz Fabianski,"1,90m",29692,['Poland'],€2.50m,: Ablöse €4.35m,27,"Apr 18, 1985",West Ham United
+Goalkeeper,right,,"Jul 4, 2005",Vito Mannone,"1,88m",33781,['Italy'],€750k,Atalanta Primavera,24,"Mar 2, 1988",LOSC Lille
+Goalkeeper,right,,"Jul 14, 2004",Manuel Almunia,"1,91m",16621,['Spain'],€500k,Celta de Vigo,35,"May 19, 1977",Retired
+Goalkeeper,right,,"Jul 1, 2012",Emiliano Martínez,"1,95m",111873,"['Argentina', 'Spain']",,Arsenal FC U21,19,"Sep 2, 1992",Aston Villa
+Centre-Back,left,,"Jul 1, 2009",Thomas Vermaelen,"1,83m",15904,['Belgium'],€18.50m,: Ablöse €12.00m,26,"Nov 14, 1985",Retired
+Centre-Back,right,,"Jul 7, 2010",Laurent Koscielny,"1,86m",76277,"['France', 'Poland']",€18.00m,FC Lorient,26,"Sep 10, 1985",Retired
+Centre-Back,right,,"Aug 31, 2011",Per Mertesacker,"2,00m",6710,['Germany'],€14.00m,SV Werder Bremen,27,"Sep 29, 1984",Retired
+Centre-Back,,,"Jul 1, 2004",Johan Djourou,,34561,"['Switzerland', ""Cote d'Ivoire""]",€6.00m,Arsenal FC U18,25,"Jan 18, 1987",Retired
+Centre-Back,right,,"Aug 26, 2010",Sébastien Squillaci,"1,85m",5293,"['France', 'Italy']",€1.50m,Sevilla FC,31,"Aug 11, 1980",Retired
+Centre-Back,left,,"Jul 1, 2011",Ignasi Miquel,"1,89m",70245,['Spain'],,Arsenal FC Reserves,19,"Sep 28, 1992",Granada CF
+Centre-Back,right,,"Jul 1, 2013",Daniel Boateng,"1,88m",122696,"['England', 'Ghana']",,Arsenal FC U21,19,"Sep 2, 1992",Without Club
+Left-Back,left,,"Aug 31, 2011",André Santos,"1,80m",54275,['Brazil'],€7.50m,Fenerbahce,29,"Mar 8, 1983",Retired
+Left-Back,left,,"Jul 1, 2007",Kieran Gibbs,"1,81m",44792,['England'],€5.00m,Arsenal FC U18,22,"Sep 26, 1989",Retired
+Left-Back,left,,"Jul 1, 2007",Armand Traoré,"1,84m",33783,"['Senegal', 'France']",€2.50m,Arsenal FC U18,22,"Oct 8, 1989",Retired
+Left-Back,left,,,Jernade Meade,"1,65m",126195,"['Montserrat', 'England']",,,19,"Oct 25, 1992",St. Ives Town FC
+Right-Back,right,,"Jul 12, 2007",Bacary Sagna,"1,76m",26764,"['France', 'Senegal']",€19.00m,AJ Auxerre,29,"Feb 14, 1983",Retired
+Right-Back,right,,"Jul 8, 2011",Carl Jenkinson,"1,85m",126321,"['England', 'Finland']",€1.00m,Charlton Athletic,20,"Feb 8, 1992",Bromley FC
+Defensive Midfield,right,,"Aug 11, 2005",Alex Song,"1,85m",27394,"['Cameroon', 'France']",€28.50m,: Ablöse €4.00m,24,"Sep 9, 1987",Retired
+Defensive Midfield,right,,"Jul 1, 2011",Francis Coquelin,"1,77m",74869,"['France', 'Réunion']",€3.00m,Arsenal FC Reserves,21,"May 13, 1991",Without Club
+Defensive Midfield,right,,"Jul 1, 2011",Emmanuel Frimpong,"1,75m",93056,"['Ghana', 'England']",€1.50m,Arsenal FC Reserves,20,"Jan 10, 1992",Retired
+Defensive Midfield,right,,"Jul 1, 2011",Nico Yennaris,"1,71m",122721,"['China', 'England']",,Arsenal FC U18,19,"May 24, 1993",Beijing Guoan
+Central Midfield,left,,"Jul 1, 2008",Jack Wilshere,"1,72m",74223,['England'],€22.00m,Arsenal FC U18,20,"Jan 1, 1992",Retired
+Central Midfield,right,,"Aug 31, 2011",Mikel Arteta,"1,77m",7451,['Spain'],€14.50m,: Ablöse €12.00m,30,"Mar 26, 1982",Retired
+Central Midfield,right,"No eligibility - until Jan 31, 2025 - UEFA Europa League - 8 matchdays","Aug 8, 2011",Alex Oxlade-Chamberlain,"1,80m",143424,['England'],€13.50m,Southampton FC,18,"Aug 15, 1993",Besiktas JK
+Central Midfield,right,Hamstring injury - Return unknown,"Jul 1, 2008",Aaron Ramsey,"1,78m",50057,['Wales'],€11.50m,: Ablöse €6.40m,21,"Dec 26, 1990",Cardiff City
+Central Midfield,right,,"Jan 13, 2006",Abou Diaby,"1,91m",26763,"['France', ""Cote d'Ivoire""]",€5.00m,AJ Auxerre,26,"May 11, 1986",Retired
+Central Midfield,right,,"Jul 1, 2008",Henri Lansbury,"1,83m",44794,['England'],€1.50m,Arsenal FC U18,21,"Oct 12, 1990",Retired
+Central Midfield,right,,"Jan 1, 2010",Craig Eastmond,"1,82m",67426,"['England', 'Jamaica']",€500k,Arsenal FC U18,21,"Dec 9, 1990",Wealdstone FC
+Central Midfield,right,,,Oğuzhan Özyakup,"1,80m",77966,"['Türkiye', 'Netherlands']",€175k,,19,"Sep 23, 1992",Retired
+Attacking Midfield,right,,"Jul 11, 2008",Samir Nasri,"1,77m",18935,"['France', 'Algeria']",€25.00m,Olympique Marseille,25,"Jun 26, 1987",Retired
+Attacking Midfield,both,,"Jul 1, 2006",Tomas Rosicky,"1,79m",132,['Czech Republic'],€3.50m,Borussia Dortmund,31,"Oct 4, 1980",Retired
+Left Winger,right,,"Jul 12, 2011",Gervinho,"1,79m",33481,"[""Cote d'Ivoire""]",€14.00m,: Ablöse €12.00m,25,"May 27, 1987",Without Club
+Left Winger,both,,"Jan 31, 2009",Andrey Arshavin,"1,72m",15378,['Russia'],€11.00m,: Ablöse €16.50m,31,"May 29, 1981",Retired
+Left Winger,left,,,Sanchez Watt,"1,80m",67430,"['England', 'Jamaica']",,,21,"Feb 14, 1991",Retired
+Right Winger,both,,"Jan 20, 2006",Theo Walcott,"1,75m",33713,['England'],€19.00m,Southampton FC,23,"Mar 16, 1989",Retired
+Right Winger,right,,"Aug 31, 2011",Yossi Benayoun,"1,75m",7858,['Israel'],€4.50m,Chelsea FC,32,"May 5, 1980",Retired
+Right Winger,right,,"Jan 30, 2011",Ryo Miyaichi,"1,81m",129688,['Japan'],€3.00m,Chukyo High School,19,"Dec 14, 1992",Yokohama F. Marinos
+Right Winger,right,,,Gilles Sunu,"1,83m",54933,"['Togo', 'France']",€1.50m,,21,"Mar 30, 1991",Without Club
+Centre-Forward,left,,"Jul 1, 2004",Robin van Persie,"1,83m",4380,['Netherlands'],€47.50m,: Ablöse €4.50m,28,"Aug 6, 1983",Retired
+Centre-Forward,,,"Jul 1, 2007",Nicklas Bendtner,,34557,['Denmark'],€8.50m,Arsenal FC Reserves,24,"Jan 16, 1988",Retired
+Centre-Forward,right,,"Jul 1, 2010",Marouane Chamakh,"1,88m",19085,"['Morocco', 'France']",€5.50m,: Ablöse free transfer,28,"Jan 10, 1984",Retired
+Centre-Forward,right,"No eligibility - until Dec 31, 2024 - AFC Champions League Elite - 6 matchdays","Aug 30, 2011",Chu-young Park,"1,82m",30982,"['Korea, South']",€4.00m,: Ablöse €6.50m,26,"Jul 10, 1985",Ulsan HD FC
+Centre-Forward,both,,"Jan 6, 2012",Thierry Henry,"1,88m",3207,"['France', 'Guadeloupe']",€3.00m,New York Red Bulls,34,"Aug 17, 1977",Retired
+Centre-Forward,right,,,Chuks Aneke,"1,91m",122694,"['England', 'Nigeria']",,,18,"Jul 3, 1993",Charlton Athletic

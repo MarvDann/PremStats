@@ -1,0 +1,39 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Dec 4, 1989",Ian Walker,"1,85m",4137,['England'],Tottenham Hotspur U18,26,"Oct 31, 1971",Retired
+Goalkeeper,right,"Jul 1, 1996",Espen Baardsen,"1,96m",3850,"['Norway', 'United States']",San Francisco United FC,20,"Dec 7, 1977",Retired
+Goalkeeper,,"Jul 1, 1996",Simon Brown,"1,88m",21412,['England'],Tottenham Hotspur U18,21,"Dec 3, 1976",Retired
+Goalkeeper,right,"Jan 1, 1998",Frode Grodås,"1,88m",263,['Norway'],: Ablöse €350k,33,"Oct 24, 1964",Retired
+Centre-Back,right,"Jul 1, 1993",Colin Calderwood,"1,83m",103641,['Scotland'],Swindon Town,33,"Jan 20, 1965",Retired
+Centre-Back,right,"Aug 1, 1982",Gary Mabbutt,"1,78m",109493,['England'],Bristol Rovers,36,"Aug 23, 1961",Retired
+Centre-Back,right,"Jan 1, 1997",Ramon Vega,"1,91m",103731,['Switzerland'],: Ablöse ?,27,"Jun 14, 1971",Retired
+Centre-Back,right,"Dec 11, 1996",John Scales,"1,88m",104899,['England'],: Ablöse €3.00m,31,"Jul 4, 1966",Retired
+Centre-Back,,"Jul 1, 1992",Sol Campbell,,3198,"['England', 'Jamaica']",Tottenham Hotspur U18,23,"Sep 18, 1974",Retired
+Centre-Back,right,"Jul 1, 1996",Mark Arber,"1,85m",47997,"['England', 'South Africa']",Tottenham Hotspur U18,20,"Oct 9, 1977",Retired
+Left-Back,,"Jul 1, 1990",Justin Edinburgh,,104903,['England'],Southend United,28,"Dec 18, 1969",---
+Left-Back,left,"Jul 1, 1995",Clive Wilson,"1,70m",109500,['England'],: Ablöse free transfer,36,"Nov 13, 1961",Retired
+Left-Back,left,"Jul 1, 1994",Jamie Clapham,"1,75m",3938,['England'],Tottenham Hotspur U18,22,"Dec 7, 1975",Retired
+Right-Back,right,"Jul 1, 1997",Luke Young,"1,83m",3271,['England'],Tottenham Hotspur U18,18,"Jul 19, 1979",Retired
+Right-Back,right,"Jul 1, 1992",Dean Austin,"1,80m",109486,['England'],Southend United,28,"Apr 26, 1970",Retired
+Right-Back,right,"Jul 1, 1993",Stephen Carr,"1,75m",4046,['Ireland'],Tottenham Hotspur U18,21,"Aug 29, 1976",Retired
+Defensive Midfield,right,"Jan 28, 1985",David Howells,"1,80m",109492,['England'],Tottenham Hotspur Youth,30,"Dec 15, 1967",Retired
+Central Midfield,left,"Jul 1, 1995",Darren Davies,"1,78m",109488,['Wales'],Tottenham Hotspur U18,19,"Aug 13, 1978",Retired
+Central Midfield,,"Sep 9, 1992",Danny Hill,,228070,['England'],Tottenham Hotspur U18,23,"Oct 1, 1974",Retired
+Central Midfield,,"Sep 1, 1996",Allan Nielsen,,31829,['Denmark'],Bröndby IF,27,"Mar 13, 1971",Retired
+Central Midfield,right,,Garry Brady,"1,78m",12822,['Scotland'],,21,"Sep 7, 1976",Retired
+Central Midfield,both,"Jan 1, 1998",Nicola Berti,"1,86m",102473,['Italy'],: Ablöse free transfer,31,"Apr 14, 1967",Retired
+Right Midfield,right,"Jul 1, 1992",Darren Anderton,"1,85m",3277,['England'],: Ablöse €2.70m,26,"Mar 3, 1972",Retired
+Right Midfield,left,"Jul 1, 1997",Stephen Clemence,"1,80m",3641,['England'],Tottenham Hotspur U18,20,"Mar 31, 1978",Retired
+Left Midfield,left,"Aug 1, 1997",Peter Gain,"1,83m",48000,"['Ireland', 'England']",Tottenham Hotspur U18,21,"Nov 11, 1976",Retired
+Left Midfield,right,"Jan 1, 1996",Andy Sinton,"1,73m",101326,['England'],: Ablöse €1.82m,32,"Mar 19, 1966",Retired
+Left Midfield,,"Feb 1, 1998",Moussa Saïb,,109496,['Algeria'],: Ablöse €2.60m,29,"Mar 6, 1969",Retired
+Left Winger,right,"Jul 1, 1997",David Ginola,"1,86m",104897,['France'],Newcastle United,31,"Jan 25, 1967",Retired
+Left Winger,left,"Aug 8, 1997",José Dominguez,"1,65m",704,['Portugal'],: Ablöse €2.40m,24,"Feb 16, 1974",Retired
+Left Winger,left,"Jul 1, 1996",Paul McVeigh,"1,68m",11716,['Northern Ireland'],Tottenham Hotspur U18,20,"Dec 6, 1977",Retired
+Right Winger,right,"Oct 6, 1995",Ruel Fox,"1,68m",104904,"['Montserrat', 'England']",Newcastle United,30,"Jan 14, 1968",Retired
+Second Striker,right,"Nov 1, 1996",Steffen Iversen,"1,85m",3478,['Norway'],: Ablöse €3.25m,21,"Nov 10, 1976",Retired
+Centre-Forward,,,Paul Mahorn,,229827,['England'],,24,"Aug 13, 1973",Retired
+Centre-Forward,right,"Jul 28, 1997",Les Ferdinand,"1,80m",3645,"['England', 'St. Lucia']",Newcastle United,31,"Dec 8, 1966",Retired
+Centre-Forward,right,"Jul 1, 1995",Chris Armstrong,"1,84m",3281,['England'],: Ablöse €6.80m,27,"Jun 19, 1971",Retired
+Centre-Forward,right,"Jul 1, 1995",Rory Allen,"1,80m",109485,['England'],Tottenham Hotspur U18,20,"Oct 17, 1977",Retired
+Centre-Forward,,"Jul 1, 1995",Neale Fenn,,34620,"['Ireland', 'England']",Tottenham Hotspur U18,21,"Jan 18, 1977",Retired
+Centre-Forward,right,"Jan 1, 1998",Jürgen Klinsmann,"1,80m",16980,"['Germany', 'United States']",UC Sampdoria,33,"Jul 30, 1964",Retired

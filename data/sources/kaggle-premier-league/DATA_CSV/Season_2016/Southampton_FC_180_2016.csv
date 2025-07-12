@@ -1,0 +1,37 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Aug 9, 2014",Fraser Forster,"2,01m",52570,['England'],€15.00m,Celtic FC,29,"Mar 17, 1988",Tottenham Hotspur
+Goalkeeper,right,,"Aug 1, 2016",Alex McCarthy,"1,93m",95976,['England'],€3.00m,Crystal Palace,27,"Dec 3, 1989",Southampton FC
+Goalkeeper,right,,"Jul 20, 2012",Paulo Gazzaniga,"1,95m",195488,"['Argentina', 'Italy']",€1.00m,Gillingham FC,25,"Jan 2, 1992",Girona FC
+Goalkeeper,right,"Lower leg fracture - Return expected on Jun 30, 2025","Jan 31, 2017",Mouez Hassen,"1,86m",215677,"['Tunisia', 'France']",€1.00m,OGC Nice,22,"Mar 5, 1995",Club Africain Tunis
+Goalkeeper,right,,"Aug 26, 2016",Stuart Taylor,"1,98m",3190,['England'],€250k,Without Club,36,"Nov 28, 1980",Retired
+Goalkeeper,right,,"Jul 1, 2020",Harry Lewis,"1,91m",341043,['England'],,Southampton FC B,19,"Dec 20, 1997",Carlisle United
+Centre-Back,right,,"Sep 1, 2015",Virgil van Dijk,"1,95m",139208,"['Netherlands', 'Suriname']",€30.00m,Celtic FC,25,"Jul 8, 1991",Liverpool FC
+Centre-Back,right,,"Jan 9, 2010",José Fonte,"1,91m",33829,['Portugal'],€7.00m,: Ablöse €1.40m,33,"Dec 22, 1983",Casa Pia AC
+Centre-Back,right,,"Aug 30, 2012",Maya Yoshida,"1,89m",81789,['Japan'],€5.00m,VVV-Venlo,28,"Aug 24, 1988",Los Angeles Galaxy
+Centre-Back,right,Achilles tendon problems - Return unknown,"Feb 16, 2017",Martín Cáceres,"1,80m",54935,['Uruguay'],€4.00m,Without Club,30,"Apr 7, 1987",Los Angeles Galaxy
+Centre-Back,right,Team captain,"Jul 1, 2013",Jack Stephens,"1,85m",163744,['England'],€3.50m,Southampton FC U21,23,"Jan 27, 1994",Southampton FC
+Centre-Back,right,,"Aug 14, 2014",Florin Gardoș,"1,93m",57423,['Romania'],€2.50m,Steaua Bucharest,28,"Oct 29, 1988",Retired
+Centre-Back,right,,"Jul 7, 2015",Cuco Martina,"1,85m",91251,"['Curacao', 'Netherlands']",€2.00m,Twente Enschede FC,27,"Sep 25, 1989",Without Club
+Left-Back,left,Knee surgery - Return unknown,"Feb 2, 2015",Ryan Bertrand,"1,79m",40611,['England'],€20.00m,Chelsea FC,27,"Aug 5, 1989",Retired
+Left-Back,left,,"Jul 1, 2014",Matt Targett,"1,83m",250478,"['England', 'Scotland']",€3.00m,Southampton FC U21,21,"Sep 18, 1995",Newcastle United
+Left-Back,left,,"Jul 1, 2016",Sam McQueen,"1,81m",226968,['England'],€750k,Southampton FC U23,22,"Feb 6, 1995",Retired
+Right-Back,right,,"Jul 1, 2015",Cédric Soares,"1,71m",112988,"['Portugal', 'Germany']",€15.00m,Sporting CP,25,"Aug 31, 1991",Without Club
+Right-Back,right,,"Aug 1, 2016",Jérémy Pied,"1,73m",60583,['France'],€3.50m,OGC Nice,28,"Feb 23, 1989",Retired
+Defensive Midfield,right,Back injury - Return unknown,"Jul 15, 2015",Jordy Clasie,"1,69m",104223,['Netherlands'],€10.00m,: Ablöse €15.00m,26,"Jun 27, 1991",AZ Alkmaar
+Defensive Midfield,right,,"Aug 12, 2015",Oriol Romeu,"1,83m",66100,['Spain'],€10.00m,Chelsea FC,25,"Sep 24, 1991",Girona FC
+Defensive Midfield,right,,"Jul 11, 2016",Pierre-Emile Højbjerg,"1,85m",167799,"['Denmark', 'France']",€8.00m,: Ablöse €15.00m,21,"Aug 5, 1995",Olympique Marseille
+Central Midfield,right,,"Jul 1, 2012",James Ward-Prowse,"1,77m",181579,['England'],€15.00m,Southampton FC U18,22,"Nov 1, 1994",Nottingham Forest
+Central Midfield,right,,"Jul 6, 2012",Steven Davis,"1,72m",28973,['Northern Ireland'],€6.00m,: Ablöse €1.00m,32,"Jan 1, 1985",Retired
+Central Midfield,right,,"Jul 1, 2014",Harrison Reed,"1,81m",226973,['England'],€1.00m,Southampton FC U21,22,"Jan 27, 1995",Fulham FC
+Attacking Midfield,right,,"Jul 1, 2017",Jake Hesketh,"1,68m",315185,['England'],,Southampton FC U23,21,"Mar 27, 1996",FC Sholing
+Left Winger,left,,"Jul 8, 2014",Dusan Tadic,"1,81m",36139,['Serbia'],€17.00m,Twente Enschede FC,28,"Nov 20, 1988",Fenerbahce
+Left Winger,right,,"Aug 29, 2016",Sofiane Boufal,"1,75m",232271,"['Morocco', 'France']",€15.00m,: Ablöse €18.70m,23,"Sep 17, 1993",Union Saint-Gilloise
+Right Winger,right,Hamstring injury - Return unknown,"Jul 1, 2016",Nathan Redmond,"1,73m",129078,"['England', 'Jamaica']",€15.00m,: Ablöse €13.50m,23,"Mar 6, 1994",Burnley FC
+Right Winger,right,,"Jan 1, 2017",Josh Sims,"1,74m",286919,['England'],€500k,Southampton FC U23,20,"Mar 28, 1997",Yeovil Town
+Right Winger,right,,"Jan 1, 2014",Lloyd Isgrove,"1,78m",226965,"['Wales', 'England']",€250k,Southampton FC U21,24,"Jan 12, 1993",Hume City FC
+Centre-Forward,left,,"Jan 31, 2017",Manolo Gabbiadini,"1,86m",112343,['Italy'],€15.00m,: Ablöse €17.00m,25,"Nov 26, 1991",Al-Nasr SC (UAE)
+Centre-Forward,right,,"Jan 16, 2016",Charlie Austin,"1,88m",129627,['England'],€13.00m,: Ablöse €5.20m,27,"Jul 5, 1989",AFC Totton
+Centre-Forward,right,,"Jul 1, 2012",Jay Rodríguez,"1,85m",53360,"['England', 'Spain']",€10.00m,: Ablöse €8.65m,27,"Jul 29, 1989",Burnley FC
+Centre-Forward,both,,"Aug 14, 2014",Shane Long,"1,80m",37304,['Ireland'],€9.00m,: Ablöse €14.90m,30,"Jan 22, 1987",Retired
+Centre-Forward,right,,"Jan 1, 2014",Sam Gallagher,"1,93m",227183,"['England', 'Scotland']",€2.50m,Southampton FC U18,21,"Sep 15, 1995",Stoke City
+Centre-Forward,right,,,Olufela Olomola,"1,70m",356569,"['England', 'Nigeria']",,,19,"Sep 5, 1997",Bromley FC

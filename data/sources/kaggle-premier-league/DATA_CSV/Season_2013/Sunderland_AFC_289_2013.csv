@@ -1,0 +1,40 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 3, 2013",Vito Mannone,"1,88m",33781,['Italy'],€3.00m,Arsenal FC,26,"Mar 2, 1988",LOSC Lille
+Goalkeeper,left,,"Jul 1, 2011",Keiren Westwood,"1,88m",15164,"['Ireland', 'England']",€1.50m,Coventry City,29,"Oct 23, 1984",Without Club
+Goalkeeper,right,,"Jan 21, 2014",Oscar Ustari,"1,83m",3755,"['Argentina', 'Italy']",€750k,UD Almería,27,"Jul 3, 1986",Inter Miami CF
+Goalkeeper,left,,"Jul 1, 2013",Jordan Pickford,"1,85m",130164,['England'],€250k,Sunderland AFC U21,20,"Mar 7, 1994",Everton FC
+Goalkeeper,right,,"Jul 1, 2013",Joel Dixon,"1,93m",222014,['England'],,Sunderland AFC U21,20,"Dec 9, 1993",Hartlepool United
+Centre-Back,right,,"Aug 12, 2013",Ondrej Celustka,"1,87m",70131,['Czech Republic'],€2.50m,Trabzonspor,25,"Jun 18, 1989",Bodrum FK
+Centre-Back,left,,"Jul 1, 2013",Valentin Roberge,"1,89m",87422,"['Cyprus', 'France']",€2.50m,CS Marítimo,27,"Jun 9, 1987",AEK Larnaca
+Centre-Back,right,,"Jul 1, 2013",Modibo Diakité,"1,92m",41749,"['France', 'Mali']",€2.00m,: Ablöse free transfer,27,"Mar 2, 1987",Parioli Calcio
+Centre-Back,right,,"Jul 7, 2011",John O'Shea,"1,92m",3540,['Ireland'],€2.00m,Manchester United,33,"Apr 30, 1981",Retired
+Centre-Back,right,,"Jul 2, 2012",Carlos Cuéllar,"1,90m",16576,['Spain'],€1.50m,: Ablöse free transfer,32,"Aug 23, 1981",Retired
+Centre-Back,right,,"Jul 1, 2015",Santiago Vergini,"1,91m",94783,"['Argentina', 'Italy']",€1.00m,Club Estudiantes de La Plata,25,"Aug 3, 1988",Retired
+Centre-Back,right,,"Jul 1, 2011",Wes Brown,"1,85m",3405,['England'],€750k,Manchester United,34,"Oct 13, 1979",Retired
+Left-Back,left,,"Jan 1, 2014",Marcos Alonso,"1,88m",112515,['Spain'],€2.00m,: Ablöse ?,23,"Dec 28, 1990",Celta de Vigo
+Right-Back,right,,"Jan 22, 2008",Phil Bardsley,"1,80m",15773,"['Scotland', 'England']",€3.00m,Manchester United,29,"Jun 28, 1985",Retired
+Right-Back,right,,"Aug 22, 2013",Charalampos Mavrias,"1,78m",136647,['Greece'],€2.50m,: Ablöse €3.00m,20,"Feb 21, 1994",Panetolikos GFS
+Right-Back,right,,,Liam Marrs,"1,75m",121335,['England'],,,21,"Nov 26, 1992",Without Club
+Defensive Midfield,right,,"Aug 31, 2013",Sung-yueng Ki,"1,89m",81796,"['Korea, South']",€6.50m,: Ablöse ?,25,"Jan 24, 1989",FC Seoul
+Defensive Midfield,right,,"Jan 9, 2013",Alfred N'Diaye,"1,89m",77737,"['Senegal', 'France']",€5.00m,Bursaspor,24,"Mar 6, 1990",Without Club
+Defensive Midfield,left,,"Jul 1, 2009",Jack Colback,"1,77m",61644,['England'],€4.50m,Sunderland AFC Reserves,24,"Oct 24, 1989",Queens Park Rangers
+Defensive Midfield,right,,"Jan 30, 2014",Liam Bridcutt,"1,75m",40612,"['Scotland', 'England']",€4.50m,Brighton & Hove Albion,25,"May 8, 1989",Retired
+Defensive Midfield,right,,"Aug 12, 2009",Lee Cattermole,"1,78m",37363,['England'],€3.50m,Wigan Athletic,26,"Mar 21, 1988",Retired
+Defensive Midfield,left,,"Jul 8, 2011",David Vaughan,"1,71m",14178,['Wales'],€1.70m,Blackpool FC,31,"Feb 18, 1983",Retired
+Defensive Midfield,right,,"Jul 1, 2013",Cabral,"1,80m",33046,"['Switzerland', 'Cape Verde']",€1.00m,: Ablöse free transfer,25,"Oct 22, 1988",Retired
+Central Midfield,right,,"Jul 1, 2011",Sebastian Larsson,"1,78m",31720,['Sweden'],€5.00m,: Ablöse free transfer,29,"Jun 6, 1985",Retired
+Central Midfield,right,,"Jul 1, 2011",Craig Gardner,"1,76m",37171,['England'],€4.50m,: Ablöse €6.60m,27,"Nov 25, 1986",Retired
+Central Midfield,right,,"Jul 10, 2013",El-Hadji Ba,"1,83m",169090,"['Mauritania', 'France']",,AC Le Havre B,21,"Mar 5, 1993",Real Balompédica Linense
+Central Midfield,right,,,Liam Agnew,"1,78m",265312,['England'],,,19,"Apr 11, 1995",Without Club
+Left Midfield,right,,"Jul 16, 2013",Emanuele Giaccherini,"1,67m",84835,['Italy'],€8.50m,: Ablöse €7.50m,29,"May 5, 1985",Retired
+Left Midfield,left,,"Sep 2, 2013",Andrea Dossena,"1,80m",21863,['Italy'],€1.50m,: Ablöse free transfer,32,"Sep 11, 1981",Retired
+Attacking Midfield,right,,"Jan 28, 2011",Stéphane Sessègnon,"1,72m",37157,['Benin'],€7.00m,: Ablöse €7.00m,30,"Jun 1, 1984",Retired
+Left Winger,right,,"Aug 31, 2015",Fabio Borini,"1,80m",96754,['Italy'],€8.50m,: Ablöse €10.70m,23,"Mar 29, 1991",UC Sampdoria
+Right Winger,left,Suspended -  - cross-competition,"Aug 24, 2012",Adam Johnson,"1,82m",31579,['England'],€7.50m,: Ablöse €12.60m,26,"Jul 14, 1987",Retired
+Right Winger,left,,"Jul 1, 2013",David Moberg Karlsson,"1,79m",63422,['Sweden'],€1.00m,: Ablöse €1.75m,20,"Mar 20, 1994",IFK Norrköping
+Right Winger,right,,"Jul 1, 2015",Duncan Watmore,"1,75m",248045,['England'],€50k,Sunderland AFC U21,20,"Mar 8, 1994",Millwall FC
+Centre-Forward,left,Knee problems - Return unknown,"Aug 24, 2012",Steven Fletcher,"1,85m",35099,"['Scotland', 'England']",€9.00m,Wolverhampton Wanderers,27,"Mar 26, 1987",Wrexham AFC
+Centre-Forward,right,,"Jul 9, 2013",Jozy Altidore,"1,85m",39378,"['United States', 'Haiti']",€6.00m,AZ Alkmaar,24,"Nov 6, 1989",MLS Pool
+Centre-Forward,right,,"Jul 1, 2011",Connor Wickham,"1,89m",95435,"['England', 'Northern Ireland']",€5.00m,Ipswich Town,21,"Mar 31, 1993",Without Club
+Centre-Forward,right,,"Jan 30, 2014",Ignacio Scocco,"1,76m",51088,"['Argentina', 'Italy']",€4.50m,Sport Club Internacional,29,"May 29, 1985",Retired
+Centre-Forward,right,,"Jul 1, 2011",Dong-won Ji,"1,87m",164265,"['Korea, South']",€2.00m,: Ablöse €2.40m,23,"May 28, 1991",Suwon FC

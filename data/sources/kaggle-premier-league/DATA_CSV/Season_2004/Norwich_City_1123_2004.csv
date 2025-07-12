@@ -1,0 +1,28 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 1998",Rob Green,"1,91m",11680,['England'],€5.00m,Norwich City U18,25,"Jan 18, 1980",Retired
+Goalkeeper,,"Jul 1, 2004",Paul Gallacher,"1,83m",12569,['Scotland'],€500k,: Ablöse free transfer,25,"Aug 16, 1979",Retired
+Goalkeeper,,"Jul 1, 2004",Darren Ward,"1,80m",9993,['Wales'],€200k,: Ablöse free transfer,31,"May 11, 1974",Retired
+Centre-Back,right,"Jul 1, 2004",Gary Doherty,"1,88m",4052,['Ireland'],€1.80m,: Ablöse free transfer,25,"Jan 31, 1980",Retired
+Centre-Back,right,"Jul 1, 1997",Craig Fleming,"1,83m",11670,['England'],€1.25m,: Ablöse €950k,33,"Oct 6, 1971",Retired
+Centre-Back,left,"Feb 1, 2009",Jason Shackell,"1,93m",11756,['England'],€300k,Wolverhampton Wanderers,21,"Sep 27, 1983",Retired
+Left-Back,left,"Mar 1, 2001",Adam Drury,"1,80m",11663,['England'],€650k,Peterborough United,26,"Aug 29, 1978",Retired
+Left-Back,right,"Jul 13, 2004",Simon Charlton,"1,73m",19846,['England'],€600k,: Ablöse €375k,33,"Oct 25, 1971",Retired
+Right-Back,right,"Jul 1, 2004",Thomas Helveg,"1,81m",5802,['Denmark'],€2.75m,: Ablöse free transfer,34,"Jun 24, 1971",Retired
+Right-Back,right,"Jul 1, 2003",Marc Edworthy,"1,80m",4235,['England'],€350k,Wolverhampton Wanderers,32,"Dec 24, 1972",Retired
+Defensive Midfield,right,"Jul 1, 2004",Youssef Safri,"1,88m",10035,['Morocco'],€850k,Coventry City,28,"Jan 13, 1977",Retired
+Defensive Midfield,right,,Shaun Derry,"1,77m",14007,['England'],€750k,,27,"Dec 6, 1977",Retired
+Central Midfield,right,"Jul 1, 2003",Ryan Jarvis,"1,83m",11692,['England'],€1.00m,Norwich City U18,18,"Jul 11, 1986",Leiston FC
+Central Midfield,right,"Mar 1, 2001",Gary Holt,"1,85m",11689,['Scotland'],€600k,: Ablöse €150k,32,"Mar 9, 1973",Retired
+Central Midfield,right,"Jul 1, 2003",Damien Francis,"1,83m",11671,"['Jamaica', 'England']",€550k,: Ablöse free transfer,26,"Feb 27, 1979",Retired
+Central Midfield,right,"Mar 1, 1999",Phil Mulryne,"1,75m",11720,['Northern Ireland'],€500k,Manchester United U18,27,"Jan 1, 1978",Retired
+Right Midfield,right,"Aug 1, 2004",David Bentley,"1,78m",3205,['England'],€2.00m,: Ablöse free transfer,20,"Aug 27, 1984",Retired
+Left Midfield,left,"Jul 1, 2003",Jim Brennan,"1,83m",11653,"['Canada', 'Scotland']",€800k,: Ablöse free transfer,28,"May 8, 1977",Retired
+Left Winger,left,"Jul 1, 2009",Paul McVeigh,"1,68m",11716,['Northern Ireland'],€750k,Luton Town,27,"Dec 6, 1977",Retired
+Right Winger,right,"Sep 1, 2003",Darren Huckerby,"1,78m",3136,['England'],€2.25m,: Ablöse €1.25m,29,"Apr 23, 1976",Retired
+Right Winger,right,"Jan 1, 2005",Graham Stuart,"1,73m",3334,['England'],,Charlton Athletic,34,"Oct 24, 1970",Retired
+Centre-Forward,right,"Jan 1, 2005",Dean Ashton,"1,85m",14168,['England'],€4.50m,Crewe Alexandra,21,"Nov 24, 1983",Retired
+Centre-Forward,right,"Jul 1, 2004",Mattias Jonson,"1,79m",15044,['Sweden'],€1.00m,Bröndby IF,31,"Jan 16, 1974",Retired
+Centre-Forward,right,"Jul 1, 2004",Mathias Svensson,"1,86m",3861,['Sweden'],€1.00m,Charlton Athletic,30,"Sep 24, 1974",Retired
+Centre-Forward,right,"Dec 1, 2003",Leon McKenzie,"1,80m",28797,['England'],€750k,Peterborough United,27,"May 17, 1978",Retired
+Centre-Forward,right,"Jul 1, 2002",Ian Henderson,"1,75m",11686,"['England', 'Scotland']",€200k,Norwich City U18,20,"Jan 24, 1985",Rochdale AFC
+Centre-Forward,right,"Jul 1, 2004",Danny Crow,"1,76m",25818,['England'],€50k,Norwich City U18,19,"Jan 26, 1986",Retired

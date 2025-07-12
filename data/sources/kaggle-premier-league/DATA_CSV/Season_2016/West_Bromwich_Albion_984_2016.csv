@@ -1,0 +1,31 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,,"Jul 1, 2012",Ben Foster,"1,93m",13572,['England'],€4.00m,: Ablöse €5.00m,34,"Apr 3, 1983",Retired
+Goalkeeper,right,,"Jul 30, 2010",Boaz Myhill,"1,91m",3838,"['Wales', 'United States']",€1.50m,: Ablöse €1.80m,34,"Nov 9, 1982",Retired
+Goalkeeper,right,,,Jack Rose,"1,90m",186923,['England'],€100k,,22,"Jan 31, 1995",Hednesford Town
+Goalkeeper,right,,"Jul 1, 2017",Alex Palmer,"1,91m",245625,['England'],,West Bromwich Albion U21,20,"Aug 10, 1996",West Bromwich Albion
+Centre-Back,both,,"Aug 29, 2015",Jonny Evans,"1,88m",42412,['Northern Ireland'],€7.00m,Manchester United,29,"Jan 3, 1988",Manchester United
+Centre-Back,right,,"Aug 31, 2010",Craig Dawson,"1,88m",121477,['England'],€6.00m,Rochdale AFC,27,"May 6, 1990",Wolverhampton Wanderers
+Centre-Back,left,,"Aug 22, 2016",Brendan Galloway,"1,86m",208244,"['Zimbabwe', 'England']",€3.00m,Everton FC,21,"Mar 17, 1996",Plymouth Argyle
+Centre-Back,both,,"Jan 31, 2017",Marc Wilson,"1,88m",30456,"['Ireland', 'Northern Ireland']",€2.50m,AFC Bournemouth,29,"Aug 17, 1987",Retired
+Centre-Back,left,,"Aug 1, 2008",Jonas Olsson,"1,93m",25248,['Sweden'],€1.10m,NEC Nijmegen,34,"Mar 10, 1983",Retired
+Centre-Back,right,,"Jul 1, 2011",Gareth McAuley,"1,91m",40567,['Northern Ireland'],€1.00m,Ipswich Town,37,"Dec 5, 1979",Retired
+Left-Back,left,,"Jul 12, 2014",Sébastien Pocognoli,"1,81m",17804,"['Belgium', 'Italy']",€750k,: Ablöse €1.50m,29,"Aug 1, 1987",Retired
+Right-Back,right,,"Aug 31, 2016",Allan Nyom,"1,89m",111508,"['Cameroon', 'France']",€4.50m,Watford FC,29,"May 10, 1988",Getafe CF
+Right-Back,right,,,Kane Wilson,"1,78m",392774,['England'],,,17,"Mar 11, 2000",Derby County
+Defensive Midfield,right,,"Jan 20, 2017",Jake Livermore,"1,80m",61832,['England'],€7.00m,: Ablöse €11.50m,27,"Nov 14, 1989",Without Club
+Defensive Midfield,right,,"Jul 24, 2012",Claudio Yacob,"1,82m",45330,"['Argentina', 'Italy']",€4.00m,: Ablöse free transfer,29,"Jul 18, 1987",Without Club
+Defensive Midfield,left,,"Jul 1, 2016",Sam Field,"1,91m",387331,['England'],€250k,West Bromwich Albion U21,19,"May 8, 1998",Queens Park Rangers
+Central Midfield,right,,"Aug 7, 2007",James Morrison,"1,83m",27614,"['Scotland', 'England']",€5.00m,Middlesbrough FC,31,"May 25, 1986",Retired
+Central Midfield,left,,"Aug 15, 2007",Chris Brunt,"1,87m",36814,['Northern Ireland'],€4.00m,: Ablöse €3.75m,32,"Dec 14, 1984",Retired
+Central Midfield,right,,"Jul 1, 2014",Craig Gardner,"1,76m",37171,['England'],€3.50m,Sunderland AFC,30,"Nov 25, 1986",Retired
+Central Midfield,right,,"Feb 2, 2015",Darren Fletcher,"1,84m",3547,['Scotland'],€2.00m,Manchester United,33,"Feb 1, 1984",Retired
+Central Midfield,right,,"Jul 1, 2018",Rekeem Harper,"1,83m",456877,"['England', 'Jamaica']",,West Bromwich Albion U21,17,"Mar 8, 2000",Port Vale FC
+Left Midfield,left,,"Jul 1, 2015",James McClean,"1,80m",85935,"['Ireland', 'Northern Ireland']",€3.00m,Wigan Athletic,28,"Apr 22, 1989",Wrexham AFC
+Left Winger,right,,"Aug 29, 2016",Nacer Chadli,"1,87m",59631,"['Belgium', 'Morocco']",€15.00m,Tottenham Hotspur,27,"Aug 2, 1989",Without Club
+Right Winger,right,,"Jul 6, 2016",Matt Phillips,"1,83m",77274,"['Scotland', 'England']",€9.00m,Queens Park Rangers,26,"Mar 13, 1991",Oxford United
+Right Winger,right,"Muscle injury - Return expected on Nov 24, 2024","Jan 28, 2015",Callum McManaman,"1,74m",61711,"['England', 'Ireland']",€3.50m,Wigan Athletic,26,"Apr 25, 1991",Wigan Athletic
+Right Winger,right,,"Jul 1, 2016",Jonathan Leko,"1,82m",314266,"['England', 'DR Congo']",€1.50m,West Bromwich Albion U18,18,"Apr 24, 1999",Milton Keynes Dons
+Centre-Forward,right,,"Jul 1, 2013",Saido Berahino,"1,80m",128897,"['Burundi', 'England']",€15.00m,West Bromwich Albion U21,23,"Aug 4, 1993",Rajasthan United
+Centre-Forward,right,,"Aug 10, 2015",Salomón Rondón,"1,89m",80197,['Venezuela'],€15.00m,: Ablöse €17.00m,27,"Sep 16, 1989",CF Pachuca
+Centre-Forward,left,,"Aug 31, 2016",Hal Robson-Kanu,"1,83m",65976,"['Wales', 'England']",€2.50m,Reading FC,28,"May 21, 1989",Retired
+Centre-Forward,right,,"Jul 31, 2015",Rickie Lambert,"1,87m",49655,['England'],€1.50m,: Ablöse €4.20m,35,"Feb 16, 1982",Retired

@@ -1,0 +1,35 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jan 14, 2004",David James,,3646,"['England', 'Jamaica']",€4.50m,: Ablöse €2.80m,34,"Aug 1, 1970",Retired
+Goalkeeper,both,"Jul 1, 2004",Ronald Waterreus,"1,85m",4335,['Netherlands'],€2.50m,: Ablöse free transfer,34,"Aug 25, 1970",Retired
+Goalkeeper,right,"Jul 1, 2004",Geert De Vlieger,"1,86m",3959,['Belgium'],€1.50m,: Ablöse free transfer,33,"Oct 16, 1971",Retired
+Goalkeeper,right,"Jan 1, 2002",Kevin Stuhr-Ellegaard,"1,96m",3466,['Denmark'],€1.50m,Farum Boldklub,22,"May 23, 1983",Retired
+Goalkeeper,right,"Jul 1, 1997",Nicky Weaver,"1,91m",3310,['England'],€700k,Mansfield Town,26,"Mar 2, 1979",Retired
+Goalkeeper,right,"Jul 1, 2007",Kasper Schmeichel,"1,89m",16911,['Denmark'],€250k,: Ablöse -,18,"Nov 5, 1986",Celtic FC
+Centre-Back,left,"Jul 1, 2002",Sylvain Distin,"1,92m",3356,"['France', 'Guadeloupe']",€7.50m,: Ablöse €6.00m,27,"Dec 16, 1977",Retired
+Centre-Back,right,"Oct 18, 2000",Richard Dunne,"1,88m",3807,['Ireland'],€4.25m,: Ablöse €4.50m,25,"Sep 21, 1979",Retired
+Centre-Back,right,"Jul 1, 2002",David Sommeil,"1,79m",3803,"['Guadeloupe', 'France']",€3.00m,: Ablöse €4.50m,30,"Aug 10, 1974",Retired
+Centre-Back,right,"Jan 1, 2002",Jihai Sun,"1,83m",3806,['China'],€2.50m,Dalian Shide,27,"Sep 30, 1977",Retired
+Centre-Back,right,"Jul 1, 2002",Mikkel Bischoff,"1,93m",3302,"['Denmark', 'Kenya']",€1.50m,Akademisk Boldklub,23,"Feb 3, 1982",Retired
+Centre-Back,left,"Jul 1, 2003",Stephen Jordan,"1,83m",4082,['England'],€200k,: Ablöse -,23,"Mar 6, 1982",Retired
+Centre-Back,right,,Patrick McCarthy,"1,85m",29974,['Ireland'],€200k,,22,"May 31, 1983",Retired
+Centre-Back,right,"Jul 1, 2004",Nedum Onuoha,"1,83m",28810,"['England', 'Nigeria']",€25k,: Ablöse -,18,"Nov 12, 1986",Retired
+Left-Back,left,"Jul 1, 2004",Ben Thatcher,"1,78m",3304,"['Wales', 'England']",€5.25m,: Ablöse €1.50m,29,"Nov 30, 1975",Retired
+Right-Back,right,"Jul 1, 2004",Danny Mills,"1,80m",3743,['England'],€6.00m,Leeds United,28,"May 18, 1977",Retired
+Defensive Midfield,right,"Jul 25, 2003",Paul Bosvelt,"1,83m",4376,['Netherlands'],€2.00m,: Ablöse €1.50m,35,"Mar 26, 1970",Retired
+Defensive Midfield,right,"Nov 13, 2001",Christian Negouai,"1,94m",3811,"['Martinique', 'France']",€700k,: Ablöse €2.25m,27,"Jan 20, 1978",Retired
+Central Midfield,right,"Jul 1, 2003",Claudio Reyna,"1,75m",3475,"['United States', 'Portugal']",€4.50m,Sunderland AFC,31,"Jul 20, 1973",Retired
+Central Midfield,right,"Jan 1, 2003",Joey Barton,"1,80m",3292,['England'],€1.75m,: Ablöse -,22,"Sep 2, 1982",Retired
+Central Midfield,right,"Jul 1, 2003",Willo Flood,"1,68m",28809,['Ireland'],€50k,: Ablöse -,20,"Apr 10, 1985",Retired
+Central Midfield,right,,Jonathan D'Laryea,"1,85m",28814,"['England', 'Ghana']",,,19,"Sep 3, 1985",Newark and Sherwood United FC
+Right Midfield,right,"Jul 1, 2004",Lee Croft,"1,77m",27510,['England'],€75k,: Ablöse -,20,"Jun 21, 1985",Retired
+Attacking Midfield,right,"Aug 4, 2003",Antoine Sibierski,"1,87m",5489,"['France', 'Poland']",€2.00m,: Ablöse €1.10m,30,"Aug 5, 1974",Retired
+Attacking Midfield,right,"Aug 30, 2003",Steve McManaman,"1,85m",3980,['England'],,Real Madrid,33,"Feb 11, 1972",Retired
+Attacking Midfield,right,"Jul 1, 2005",Stephen Ireland,"1,73m",34838,['Ireland'],,: Ablöse -,18,"Aug 22, 1986",Retired
+Left Winger,right,"Jul 1, 2003",Trevor Sinclair,"1,78m",3253,['England'],€5.25m,: Ablöse €3.75m,32,"Mar 2, 1973",Retired
+Left Winger,left,"Jan 25, 2005",Kiki Musampa,"1,78m",7787,"['Netherlands', 'DR Congo']",€2.75m,: Ablöse free transfer,27,"Jul 20, 1977",Retired
+Right Winger,right,"Aug 1, 2008",Shaun Wright-Phillips,"1,66m",3467,"['England', 'Grenada']",€9.50m,Chelsea FC,23,"Oct 25, 1981",Retired
+Centre-Forward,right,"Jul 1, 2002",Nicolas Anelka,"1,86m",3226,"['France', 'Martinique']",€12.80m,: Ablöse €15.00m,26,"Mar 14, 1979",Retired
+Centre-Forward,left,"Jan 16, 2003",Robbie Fowler,"1,80m",3225,['England'],€4.50m,Leeds United,30,"Apr 9, 1975",Retired
+Centre-Forward,right,"Jul 1, 2000",Paulo Wanchope,"1,93m",3230,"['Costa Rica', 'England']",€4.50m,: Ablöse €5.60m,28,"Jul 31, 1976",Retired
+Centre-Forward,right,"Feb 5, 2002",Jon Macken,"1,78m",4080,"['Ireland', 'England']",€2.25m,: Ablöse €7.50m,27,"Sep 7, 1977",Retired
+Centre-Forward,right,"Jan 1, 2005",Bradley Wright-Phillips,"1,73m",28813,"['England', 'Grenada']",€300k,: Ablöse -,20,"Mar 12, 1985",Retired

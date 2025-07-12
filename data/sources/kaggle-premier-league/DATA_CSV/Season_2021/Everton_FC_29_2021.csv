@@ -1,0 +1,43 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,,"Jul 1, 2017",Jordan Pickford,"1,85m",130164,['England'],€20.00m,,Sunderland AFC,28,"Mar 7, 1994",Everton FC
+Goalkeeper,right,,"Aug 23, 2024",Asmir Begovic,"1,99m",33873,"['Bosnia-Herzegovina', 'Canada']",€1.00m,"Joined from Queens Park Rangers; date: Aug 23, 2024; fee: free transfer",Queens Park Rangers,35,"Jun 20, 1987",Everton FC
+Goalkeeper,left,,"Aug 20, 2021",Andy Lonergan,"1,93m",14044,['England'],€250k,,West Bromwich Albion,38,"Oct 19, 1983",Wigan Athletic
+Goalkeeper,right,,,Harry Tyrer,"1,94m",574448,['England'],,,,20,"Dec 6, 2001",Blackpool FC
+Centre-Back,right,,"Jul 3, 2017",Michael Keane,"1,88m",118534,"['England', 'Ireland']",€20.00m,,: Ablöse €28.50m,29,"Jan 11, 1993",Everton FC
+Centre-Back,right,,"Aug 9, 2018",Yerry Mina,"1,95m",289446,['Colombia'],€20.00m,,FC Barcelona,27,"Sep 23, 1994",Cagliari Calcio
+Centre-Back,right,,"Oct 5, 2020",Ben Godfrey,"1,84m",343475,"['England', 'Jamaica']",€20.00m,,: Ablöse €27.50m,24,"Jan 15, 1998",Atalanta BC
+Centre-Back,right,,"Aug 13, 2015",Mason Holgate,"1,87m",348623,"['Jamaica', 'England']",€18.00m,,Barnsley FC,25,"Oct 22, 1996",West Bromwich Albion
+Centre-Back,left,,"Jan 13, 2020",Jarrad Branthwaite,"1,95m",661053,['England'],€3.00m,,Carlisle United,20,"Jun 27, 2002",Everton FC
+Centre-Back,right,,,Ryan Astley,"1,84m",511552,['Wales'],,,,20,"Oct 4, 2001",Dundee FC
+Centre-Back,,,,Reece Welch,,655986,"['England', 'Jamaica']",,,,18,"Sep 19, 2003",KMSK Deinze
+Left-Back,left,,"Aug 1, 2018",Lucas Digne,"1,78m",126664,['France'],€25.00m,,FC Barcelona,28,"Jul 20, 1993",Aston Villa
+Left-Back,left,,"Jan 1, 2022",Vitaliy Mykolenko,"1,80m",404842,['Ukraine'],€18.00m,,Dynamo Kyiv,23,"May 29, 1999",Everton FC
+Left-Back,left,,"Jul 2, 2020",Niels Nkounkou,"1,80m",591193,"['France', 'Congo']",€2.20m,,Olympique de Marseille B,21,"Nov 1, 2000",Eintracht Frankfurt
+Right-Back,right,,"Jan 4, 2022",Nathan Patterson,"1,89m",424015,['Scotland'],€8.00m,,: Ablöse €14.00m,20,"Oct 16, 2001",Everton FC
+Right-Back,right,,"Jul 1, 2017",Jonjoe Kenny,"1,76m",258883,"['England', 'Ireland']",€4.00m,,Everton FC U23,25,"Mar 15, 1997",Hertha BSC
+Right-Back,right,Team captain,"Jan 1, 2009",Séamus Coleman,"1,77m",68390,['Ireland'],€3.00m,,Sligo Rovers,33,"Oct 11, 1988",Everton FC
+Defensive Midfield,right,,"Sep 5, 2020",Allan,"1,75m",126422,"['Brazil', 'Portugal']",€15.00m,,: Ablöse €24.60m,31,"Jan 8, 1991",Botafogo de Futebol e Regatas
+Defensive Midfield,right,,"Aug 2, 2019",Jean-Philippe Gbamin,"1,86m",182894,"[""Cote d'Ivoire"", 'France']",€9.00m,,1.FSV Mainz 05,26,"Sep 25, 1995",FC Nantes
+Central Midfield,right,,"Jan 31, 2022",Donny van de Beek,"1,84m",288255,['Netherlands'],€25.00m,,Manchester United,25,"Apr 18, 1997",Girona FC
+Central Midfield,right,,"Sep 8, 2020",Abdoulaye Doucouré,"1,83m",127187,"['Mali', 'France']",€22.00m,,Watford FC,29,"Jan 1, 1993",Everton FC
+Central Midfield,right,Dead leg - Return unknown,"Jul 1, 2019",André Gomes,"1,90m",221025,['Portugal'],€18.00m,,FC Barcelona,28,"Jul 30, 1993",LOSC Lille
+Central Midfield,right,,"Jan 1, 2017",Tom Davies,"1,80m",314210,['England'],€18.00m,,Everton FC U23,24,"Jun 30, 1998",Sheffield United
+Central Midfield,left,,"Jul 15, 2019",Fabian Delph,"1,74m",50362,"['England', 'Guyana']",€1.80m,,Manchester City,32,"Nov 21, 1989",Retired
+Central Midfield,right,,,Tyler Onyango,"1,90m",663225,"['England', 'Kenya']",€200k,,,19,"Mar 4, 2003",Stockport County
+Central Midfield,right,,,Isaac Price,"1,93m",612749,"['Northern Ireland', 'England']",,,,18,"Sep 26, 2003",Standard Liège
+Attacking Midfield,right,,"Jan 31, 2022",Dele Alli,"1,88m",207929,"['England', 'Nigeria']",€16.00m,,Tottenham Hotspur,26,"Apr 11, 1996",Without Club
+Attacking Midfield,right,,"Aug 16, 2017",Gylfi Sigurdsson,"1,86m",90466,['Iceland'],,,: Ablöse €49.40m,32,"Sep 8, 1989",Valur Reykjavík
+Attacking Midfield,,,,Charlie Whitaker,,726992,['England'],,,,18,"Sep 16, 2003",Everton FC U21
+Left Winger,right,,"Jul 22, 2021",Demarai Gray,"1,83m",292417,"['Jamaica', 'England']",€22.00m,,Bayer 04 Leverkusen,26,"Jun 28, 1996",Al-Ettifaq FC
+Left Winger,right,,"Jan 1, 2020",Anthony Gordon,"1,83m",503733,['England'],€20.00m,,Everton FC U23,21,"Feb 24, 2001",Newcastle United
+Left Winger,right,,"Aug 8, 2019",Alex Iwobi,"1,83m",242631,"['Nigeria', 'England']",€18.00m,,Arsenal FC,26,"May 3, 1996",Fulham FC
+Left Winger,right,,,Nathan Broadhead,"1,78m",344009,['Wales'],€500k,,,24,"Apr 5, 1998",Ipswich Town
+Left Winger,right,,"Jul 1, 2023",Lewis Dobbin,"1,75m",627248,['England'],€300k,,Everton FC U21,19,"Jan 3, 2003",West Bromwich Albion
+Right Winger,right,,"Jan 13, 2022",Anwar El Ghazi,"1,89m",183720,"['Netherlands', 'Morocco']",€9.00m,,: Ablöse ?,27,"May 3, 1995",Cardiff City
+Right Winger,left,,"Jul 20, 2021",Andros Townsend,"1,81m",61842,['England'],€5.00m,,Crystal Palace,30,"Jul 16, 1991",Antalyaspor
+Centre-Forward,right,unknown injury - Return unknown,"Jul 24, 2018",Richarlison,"1,84m",378710,['Brazil'],€48.00m,,Watford FC,25,"May 10, 1997",Tottenham Hotspur
+Centre-Forward,right,,"Aug 31, 2016",Dominic Calvert-Lewin,"1,89m",306024,['England'],€40.00m,,Sheffield United,25,"Mar 16, 1997",Everton FC
+Centre-Forward,right,,"Aug 4, 2019",Moise Kean,"1,83m",364135,"['Italy', ""Cote d'Ivoire""]",€24.00m,,: Ablöse €27.50m,22,"Feb 28, 2000",ACF Fiorentina
+Centre-Forward,right,,"Aug 31, 2021",Salomón Rondón,"1,89m",80197,['Venezuela'],€2.50m,,Dalian Professional,32,"Sep 16, 1989",CF Pachuca
+Centre-Forward,right,,"Jan 5, 2018",Cenk Tosun,"1,83m",45671,"['Türkiye', 'Germany']",€2.00m,,Besiktas JK,31,"Jun 7, 1991",Fenerbahce
+Centre-Forward,right,,"Jul 1, 2022",Ellis Simms,"1,91m",511550,['England'],€300k,,Everton FC U21,21,"Jan 5, 2001",Coventry City

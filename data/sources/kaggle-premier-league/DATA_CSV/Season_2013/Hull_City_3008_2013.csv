@@ -1,0 +1,35 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 2, 2013",Allan McGregor,"1,83m",9422,['Scotland'],€2.00m,Besiktas JK,32,"Jan 31, 1982",Retired
+Goalkeeper,right,,"Jul 9, 2012",Eldin Jakupovic,"1,91m",2857,"['Switzerland', 'Bosnia-Herzegovina']",€500k,: Ablöse free transfer,29,"Oct 2, 1984",Retired
+Goalkeeper,right,,"Jul 15, 2013",Steve Harper,"1,88m",3562,['England'],€250k,Newcastle United,39,"Mar 14, 1975",Retired
+Goalkeeper,right,,"Aug 1, 2008",Mark Oxley,"1,90m",67232,['England'],€150k,Rotherham United,23,"Sep 28, 1990",Harrogate Town
+Centre-Back,right,,"Jul 1, 2013",Curtis Davies,"1,88m",18227,"['Sierra Leone', 'England']",€4.00m,: Ablöse €2.65m,29,"Mar 15, 1985",Retired
+Centre-Back,right,,"Jan 7, 2011",James Chester,"1,77m",73482,"['Wales', 'England']",€2.50m,Manchester United Reserves,25,"Jan 23, 1989",Salford City
+Centre-Back,right,,"Aug 31, 2009",Paul McShane,"1,83m",24636,['Ireland'],€1.50m,Sunderland AFC,28,"Jan 6, 1986",Retired
+Centre-Back,right,,"Jul 30, 2012",Alex Bruce,"1,80m",37957,"['Northern Ireland', 'Ireland']",€1.00m,Leeds United,29,"Sep 28, 1984",Retired
+Centre-Back,right,,"Jul 21, 2012",Abdoulaye Faye,"1,87m",6107,"['Senegal', 'France']",€250k,: Ablöse free transfer,36,"Feb 26, 1978",Retired
+Left-Back,left,,"Jul 1, 2013",Maynor Figueroa,"1,82m",62240,['Honduras'],€4.00m,Wigan Athletic,31,"May 2, 1983",Retired
+Left-Back,left,,"Jul 1, 2011",Joe Dudgeon,"1,78m",73492,"['Northern Ireland', 'England']",€500k,Manchester United,23,"Nov 26, 1990",Retired
+Left-Back,left,,"Jul 1, 2011",Conor Townsend,"1,83m",146509,['England'],,Hull City U18,21,"Mar 4, 1993",Ipswich Town
+Right-Back,right,,"Jul 1, 2013",Ahmed El Mohamady,"1,82m",66333,['Egypt'],€3.50m,Sunderland AFC,26,"Sep 9, 1987",Retired
+Right-Back,right,,"Oct 1, 2010",Liam Rosenior,"1,78m",15166,"['England', 'Sierra Leone']",€1.50m,Without Club,29,"Jul 9, 1984",Retired
+Defensive Midfield,right,,"Aug 17, 2021",Tom Huddlestone,"1,88m",13465,['England'],€6.00m,Without Club,27,"Dec 28, 1986",Retired
+Defensive Midfield,right,,"Jul 1, 2014",Jake Livermore,"1,80m",61832,['England'],€2.50m,Tottenham Hotspur,24,"Nov 14, 1989",Without Club
+Central Midfield,right,,"Jan 8, 2013",David Meyler,"1,89m",68183,['Ireland'],€3.00m,Sunderland AFC,25,"May 29, 1989",Retired
+Central Midfield,left,,"Aug 31, 2012",Stephen Quinn,"1,68m",43266,['Ireland'],€2.00m,Sheffield United,28,"Apr 1, 1986",Mansfield Town
+Central Midfield,left,,"Sep 24, 2013",Conor Henderson,"1,83m",91330,"['Ireland', 'England']",,Without Club,22,"Sep 8, 1991",Without Club
+Left Midfield,left,Injury to the ankle - Return unknown,"Jan 8, 2013",Robbie Brady,"1,76m",128229,['Ireland'],€3.00m,Manchester United U21,22,"Jan 14, 1992",Preston North End
+Attacking Midfield,right,,"Jul 1, 2010",Robert Koren,"1,76m",26946,['Slovenia'],€1.00m,West Bromwich Albion,33,"Sep 20, 1980",Retired
+Left Winger,left,,"Jul 1, 2013",George Boyd,"1,86m",45623,"['Scotland', 'England']",€1.50m,Peterborough United,28,"Oct 2, 1985",Wythenshawe Town FC
+Left Winger,right,,"Jan 31, 2011",Cameron Stewart,"1,72m",73566,"['England', 'Scotland']",€500k,Manchester United Reserves,23,"Apr 8, 1991",Retired
+Right Winger,left,,"Jul 25, 2012",Sone Aluko,"1,73m",42198,"['Nigeria', 'England']",€3.50m,: Ablöse free transfer,25,"Feb 19, 1989",Retired
+Right Winger,,,"Jul 1, 2013",Calaum Jahraldo-Martin,"1,75m",264406,"['Antigua and Barbuda', 'England']",,: Ablöse free transfer,21,"Apr 27, 1993",Unknown
+Centre-Forward,both,,"Jan 17, 2014",Shane Long,"1,80m",37304,['Ireland'],€7.00m,West Bromwich Albion,27,"Jan 22, 1987",Retired
+Centre-Forward,both,,"Jan 15, 2014",Nikica Jelavic,"1,88m",25742,['Croatia'],€6.50m,: Ablöse €7.80m,28,"Aug 27, 1985",Retired
+Centre-Forward,right,,"Jul 19, 2013",Danny Graham,"1,83m",29152,['England'],€3.00m,Sunderland AFC,28,"Aug 12, 1985",Retired
+Centre-Forward,right,,"Jul 26, 2013",Yannick Sagbo,"1,83m",60591,"[""Cote d'Ivoire"", 'France']",€2.50m,: Ablöse €1.80m,26,"Apr 12, 1988",Without Club
+Centre-Forward,right,,"Sep 2, 2013",Gedo,"1,84m",104941,['Egypt'],€1.50m,: Ablöse €200k,29,"Oct 30, 1984",Retired
+Centre-Forward,right,,"Jan 1, 2011",Matty Fryatt,"1,78m",14013,['England'],€1.50m,Leicester City,28,"Mar 5, 1986",Retired
+Centre-Forward,right,,"Jul 18, 2012",Nick Proschwitz,"1,92m",31535,['Germany'],€1.00m,SC Paderborn 07,27,"Nov 28, 1986",Unknown
+Centre-Forward,right,,"Jan 1, 2011",Aaron McLean,"1,71m",45631,"['England', 'Jamaica']",€500k,Peterborough United,31,"May 25, 1983",Retired
+Centre-Forward,both,,,Matthew Fletcher,"1,81m",121327,['Australia'],,,22,"Jun 1, 1992",Without Club

@@ -1,0 +1,48 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2017",Daniel Bachmann,"1,91m",120186,['Austria'],€2.50m,,Stoke City U21,27,"Jul 9, 1994",Watford FC
+Goalkeeper,right,Cruciate ligament tear - Return unknown,"Jan 31, 2018",Pontus Dahlberg,"1,94m",365544,['Sweden'],€1.00m,,: Ablöse €3.90m,23,"Jan 21, 1999",IFK Göteborg
+Goalkeeper,left,,"Jul 5, 2018",Ben Foster,"1,93m",13572,['England'],€300k,,West Bromwich Albion,39,"Apr 3, 1983",Retired
+Goalkeeper,left,,"Jan 28, 2021",Rob Elliot,"1,90m",39037,"['Ireland', 'England']",€200k,,Without Club,36,"Apr 30, 1986",Retired
+Goalkeeper,right,,,Vincent Angelini,"1,90m",736251,"['Scotland', 'Italy']",,,,18,"Sep 12, 2003",Al-Riyadh SC
+Centre-Back,left,,"Jan 6, 2022",Samir Caetano,"1,85m",255744,['Brazil'],€5.00m,,Udinese Calcio,27,"Dec 5, 1994",Tigres UANL
+Centre-Back,right,,"Sep 29, 2020",William Troost-Ekong,"1,91m",192875,"['Nigeria', 'Netherlands']",€4.00m,,Udinese Calcio,28,"Sep 1, 1993",Al-Kholood Club
+Centre-Back,left,,"Jul 2, 2018",Adam Masina,"1,91m",286949,"['Morocco', 'Italy']",€3.00m,,: Ablöse €5.00m,28,"Jan 2, 1994",Torino FC
+Centre-Back,right,,"Jul 1, 2016",Christian Kabasele,"1,87m",81512,"['Belgium', 'DR Congo']",€3.00m,,KRC Genk,31,"Feb 24, 1991",Udinese Calcio
+Centre-Back,right,,"Oct 7, 2021",Nicolas N'Koulou,"1,84m",60577,['Cameroon'],€2.50m,,Without Club,32,"Mar 27, 1990",Amed SK
+Centre-Back,right,,"Sep 9, 2020",Francisco Sierralta,"1,92m",371436,"['Chile', 'Spain']",€1.50m,,Udinese Calcio,25,"May 6, 1997",Watford FC
+Centre-Back,right,,"Jul 1, 2014",Craig Cathcart,"1,89m",59606,['Northern Ireland'],€1.20m,,Blackpool FC,33,"Feb 6, 1989",Retired
+Centre-Back,right,,"Jul 1, 2021",Mattie Pollock,"1,90m",624948,['England'],€300k,,Grimsby Town,20,"Sep 28, 2001",Watford FC
+Centre-Back,right,,,Derek Agyakwa,"1,90m",591360,"['Netherlands', 'Ghana']",€100k,,,20,"Dec 19, 2001",Iberia 1999 Tbilisi
+Left-Back,left,,"Aug 23, 2022",Hassane Kamara,"1,70m",290017,"[""Cote d'Ivoire"", 'France']",€4.00m,,Udinese Calcio,28,"Mar 5, 1994",Udinese Calcio
+Left-Back,left,,"Jul 1, 2021",Danny Rose,"1,73m",50174,"['England', 'Jamaica']",€2.20m,,Tottenham Hotspur,31,"Jul 2, 1990",Retired
+Left-Back,left,,"Jan 1, 2023",James Morris,"1,83m",610621,['England'],,,Watford FC U21,20,"Nov 23, 2001",Watford FC
+Right-Back,right,,"Aug 14, 2020",Jeremy Ngakia,"1,84m",503795,"['England', 'DR Congo']",€3.50m,,West Ham United U21,21,"Sep 7, 2000",Watford FC
+Right-Back,right,,"Jul 1, 2017",Kiko Femenía,"1,74m",76467,['Spain'],€2.50m,,: Ablöse free transfer,31,"Feb 2, 1991",Villarreal CF
+Defensive Midfield,left,,"Jan 7, 2022",Edo Kayembe,"1,83m",486477,['DR Congo'],€3.00m,,KAS Eupen,24,"Jun 3, 1998",Watford FC
+Defensive Midfield,right,,,Jaime Alvarado,"1,80m",522131,['Colombia'],€250k,,,22,"Jul 26, 1999",Independiente Medellín
+Central Midfield,left,,"Jul 1, 2021",Imrân Louza,"1,78m",635336,"['Morocco', 'France']",€9.00m,"Returned after loan spell with FC Lorient; date: Jun 30, 2024; fee: End of loan",FC Nantes,23,"May 1, 1999",Watford FC
+Central Midfield,right,,"Jul 10, 2024",Moussa Sissoko,"1,87m",46001,"['France', 'Mali']",€4.50m,"Joined from FC Nantes; date: Jul 10, 2024; fee: free transfer",FC Nantes,32,"Aug 16, 1989",Watford FC
+Central Midfield,right,,"Aug 19, 2021",Ozan Tufan,"1,82m",236471,['Türkiye'],€3.80m,,Fenerbahce,27,"Mar 23, 1995",Trabzonspor
+Central Midfield,right,,"Jul 9, 2021",Peter Etebo,"1,74m",409106,['Nigeria'],€3.00m,,Stoke City,26,"Nov 9, 1995",Genclerbirligi Ankara
+Central Midfield,right,,"Jul 24, 2019",Tom Dele-Bashiru,"1,78m",346472,"['Nigeria', 'England']",€2.50m,,Manchester City U23,22,"Sep 17, 1999",Watford FC
+Central Midfield,right,,"Aug 9, 2018",Domingos Quina,"1,73m",391719,"['Portugal', 'Guinea-Bissau']",€2.20m,,West Ham United U21,22,"Nov 18, 1999",Pafos FC
+Central Midfield,right,,"Jul 1, 2017",Tom Cleverley,"1,75m",73484,['England'],€1.80m,,Everton FC,32,"Aug 12, 1989",Retired
+Central Midfield,right,,"Aug 6, 2021",Juraj Kucka,"1,86m",74943,['Slovakia'],€1.80m,,Parma Calcio 1913,35,"Feb 26, 1987",Slovan Bratislava
+Central Midfield,right,,"Jan 31, 2021",Dan Gosling,"1,80m",44983,['England'],€1.00m,,AFC Bournemouth,32,"Feb 1, 1990",Westfield FC
+Central Midfield,right,,,Kamil Conteh,"1,77m",733494,"['Sierra Leone', 'England']",,,,19,"Dec 26, 2002",Bristol Rovers
+Left Winger,right,,"Jul 9, 2021",Joshua King,"1,80m",91059,['Norway'],€8.00m,,Everton FC,30,"Jan 15, 1992",FC Toulouse
+Left Winger,right,,"Jan 1, 2021",Philip Zinckernagel,"1,75m",271098,['Denmark'],€3.00m,,FK Bodø/Glimt,27,"Dec 16, 1994",FK Bodø/Glimt
+Left Winger,left,,"Jul 5, 2018",Ken Sema,"1,80m",252345,"['Sweden', 'DR Congo']",€2.50m,,Östersunds FK,28,"Sep 30, 1993",Watford FC
+Left Winger,right,,"Jul 1, 2021",Kwadwo Baah,"1,82m",711247,"['Germany', 'England']",€800k,,Rochdale AFC,19,"Jan 27, 2003",Watford FC
+Left Winger,,,,Adrian Blake,,875581,"['England', 'Jamaica']",,,,16,"Jul 15, 2005",FC Utrecht
+Right Winger,right,,"Aug 8, 2019",Ismaïla Sarr,"1,85m",410225,['Senegal'],€27.00m,,Stade Rennais FC,24,"Feb 25, 1998",Crystal Palace
+Right Winger,right,,"Jan 26, 2022",Samuel Kalu,"1,77m",424051,['Nigeria'],€3.00m,"Returned after loan spell with FC Lausanne-Sport; date: Jun 30, 2024; fee: End of loan",FC Girondins Bordeaux,24,"Aug 26, 1997",Without Club
+Right Winger,left,,,Shaqai Forde,"1,74m",852517,"['England', 'Barbados']",,,,18,"May 5, 2004",Bristol Rovers
+Centre-Forward,right,,"Jan 1, 2020",João Pedro,"1,82m",626724,['Brazil'],€14.00m,,Fluminense Football Club,20,"Sep 26, 2001",Brighton & Hove Albion
+Centre-Forward,right,,"Jan 24, 2024",Emmanuel Dennis,"1,75m",448854,['Nigeria'],€14.00m,,Nottingham Forest,24,"Nov 15, 1997",Nottingham Forest
+Centre-Forward,right,,"Jan 1, 2017",Cucho Hernández,"1,76m",459463,"['Colombia', 'Spain']",€9.00m,,Deportivo Pereira,23,"Apr 20, 1999",Columbus Crew
+Centre-Forward,right,,"Aug 9, 2017",Andre Gray,"1,78m",120565,"['Jamaica', 'England']",€2.00m,,: Ablöse €20.40m,31,"Jun 26, 1991",Plymouth Argyle
+Centre-Forward,right,,"Jul 1, 2021",Ashley Fletcher,"1,85m",289846,['England'],€2.00m,,Middlesbrough FC,26,"Oct 2, 1995",Blackpool FC
+Centre-Forward,right,,"Sep 22, 2012",Troy Deeney,"1,84m",65477,"['England', 'Jamaica']",€1.00m,,,34,"Jun 29, 1988",Without Club
+Centre-Forward,right,,,Tiago Çukur,"1,96m",594276,"['Türkiye', 'Netherlands']",€250k,,,19,"Nov 30, 2002",Roda JC Kerkrade
+Centre-Forward,right,,,Jack Grieves,,974327,['England'],,,,17,"Dec 5, 2004",Ross County FC

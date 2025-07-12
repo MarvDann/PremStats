@@ -1,0 +1,33 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 2007",Tim Howard,"1,91m",4267,"['United States', 'Hungary']",€6.50m,Manchester United,29,"Mar 6, 1979",Retired
+Goalkeeper,right,"Aug 21, 2007",Stefan Wessels,"1,90m",223,['Germany'],€1.00m,1.FC Köln,29,"Feb 28, 1979",Retired
+Goalkeeper,right,"Jul 1, 2003",Iain Turner,"1,93m",3582,['Scotland'],€500k,Stirling Albion FC,24,"Jan 26, 1984",Retired
+Goalkeeper,right,"Jul 1, 2005",John Ruddy,"1,92m",29712,['England'],€500k,Cambridge United,21,"Oct 24, 1986",Newcastle United
+Centre-Back,left,"Jul 1, 2006",Joleon Lescott,"1,91m",4241,['England'],€11.00m,Wolverhampton Wanderers,25,"Aug 16, 1982",Retired
+Centre-Back,right,"Jul 1, 2003",Joseph Yobo,"1,88m",3270,"['Nigeria', 'England']",€9.00m,: Ablöse €6.00m,27,"Sep 6, 1980",Retired
+Centre-Back,right,"Jul 4, 2007",Phil Jagielka,"1,80m",13520,"['England', 'Poland']",€6.00m,Sheffield United,25,"Aug 17, 1982",Retired
+Centre-Back,,"Jan 1, 2006",Alan Stubbs,,3472,['England'],€1.00m,Sunderland AFC,36,"Oct 6, 1971",Retired
+Centre-Back,right,,John Irving,"1,82m",57056,['England'],€50k,,19,"Sep 17, 1988",Retired
+Centre-Back,right,"Jul 1, 2008",Jack Rodwell,"1,88m",57079,['England'],€50k,: Ablöse -,17,"Mar 11, 1991",Without Club
+Left-Back,left,"Aug 7, 2007",Leighton Baines,"1,70m",13507,['England'],€6.00m,Wigan Athletic,23,"Dec 11, 1984",Retired
+Left-Back,left,"Jul 1, 2005",Nuno Valente,"1,82m",9831,['Portugal'],€2.50m,FC Porto,33,"Sep 12, 1974",Retired
+Left-Back,left,"Jul 1, 2005",Paddy Boyle,"1,72m",23489,['Scotland'],€200k,: Ablöse -,21,"Mar 20, 1987",Gartcairn FA Juniors
+Right-Back,right,"Jul 1, 2005",Phil Neville,"1,80m",3404,['England'],€5.75m,Manchester United,31,"Jan 21, 1977",Retired
+Right-Back,right,"Jul 1, 2000",Tony Hibbert,"1,73m",3614,['England'],€4.50m,: Ablöse -,27,"Feb 20, 1981",Retired
+Defensive Midfield,right,"Jan 1, 2003",Lee Carsley,"1,78m",3618,"['Ireland', 'England']",€3.50m,Coventry City,34,"Feb 28, 1974",Retired
+Defensive Midfield,,"Aug 1, 2007",Thomas Gravesen,,301,['Denmark'],€2.00m,Celtic FC,32,"Mar 11, 1976",Retired
+Defensive Midfield,both,"Jul 1, 2005",Anderson Silva,"1,88m",16122,"['Brazil', 'Spain']",€650k,Club Nacional,25,"Aug 28, 1982",Retired
+Central Midfield,right,"Jul 1, 2005",Mikel Arteta,"1,77m",7451,['Spain'],€19.00m,Real Sociedad,26,"Mar 26, 1982",Retired
+Central Midfield,right,"Jul 1, 2002",Leon Osman,"1,73m",3620,['England'],€6.00m,Everton FC Reserves,27,"May 17, 1981",Retired
+Central Midfield,right,"Jan 3, 2008",Dan Gosling,"1,80m",44983,['England'],€2.00m,Plymouth Argyle,18,"Feb 1, 1990",Westfield FC
+Central Midfield,both,,Bjarni Vidarsson,"1,87m",47769,['Iceland'],€500k,,20,"Mar 5, 1988",Retired
+Left Midfield,,"Jul 31, 2012",Steven Pienaar,,4321,['South Africa'],€4.50m,Tottenham Hotspur,26,"Mar 17, 1982",Retired
+Attacking Midfield,right,"Jul 1, 2004",Tim Cahill,"1,78m",13556,"['Australia', 'Samoa']",€12.00m,: Ablöse €2.20m,28,"Dec 6, 1979",Retired
+Attacking Midfield,right,"Jan 1, 2008",Manuel Fernandes,"1,76m",16791,"['Portugal', 'Cape Verde']",€8.00m,: Ablöse €750k,22,"Feb 5, 1986",Retired
+Right Winger,right,"Jul 1, 2005",Andy van der Meyde,"1,78m",3772,['Netherlands'],€900k,: Ablöse €9.00m,28,"Sep 30, 1979",Retired
+Second Striker,left,"Oct 17, 2011",James McFadden,"1,78m",9956,['Scotland'],€8.00m,Without Club,25,"Apr 14, 1983",Retired
+Centre-Forward,,"Aug 30, 2007",Yakubu Aiyegbeni,"1,83m",8559,['Nigeria'],€18.25m,Middlesbrough FC,25,"Nov 22, 1982",Retired
+Centre-Forward,right,"Jul 1, 2006",Andy Johnson,"1,72m",14031,['England'],€11.25m,: Ablöse €11.00m,27,"Feb 10, 1981",Retired
+Centre-Forward,right,"Jul 1, 2006",Victor Anichebe,"1,90m",39532,"['Nigeria', 'England']",€2.00m,: Ablöse -,20,"Apr 23, 1988",Retired
+Centre-Forward,right,"Jul 1, 2006",James Vaughan,"1,81m",30471,"['England', 'Jamaica']",€1.50m,: Ablöse -,19,"Jul 14, 1988",Retired
+Centre-Forward,left,"Jul 1, 2007",Lukas Jutkiewicz,"1,85m",33507,['England'],€700k,Swindon Town,19,"Mar 28, 1989",Birmingham City

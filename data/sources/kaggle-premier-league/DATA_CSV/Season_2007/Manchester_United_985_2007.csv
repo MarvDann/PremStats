@@ -1,0 +1,39 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 2005",Edwin van der Sar,"1,99m",3516,['Netherlands'],€5.00m,Fulham FC,37,"Oct 29, 1970",Retired
+Goalkeeper,,"Jul 2, 2007",Tomasz Kuszczak,,1320,"['Poland', 'England']",€4.00m,West Bromwich Albion,26,"Mar 20, 1982",Retired
+Goalkeeper,left,"Jul 1, 2005",Ben Foster,"1,93m",13572,['England'],€2.50m,Stoke City,25,"Apr 3, 1983",Retired
+Goalkeeper,right,"Jul 2, 2021",Tom Heaton,"1,88m",34130,['England'],€200k,: Ablöse free transfer,22,"Apr 15, 1986",Manchester United
+Centre-Back,right,"Jul 22, 2002",Rio Ferdinand,"1,89m",3235,['England'],€30.00m,Leeds United,29,"Nov 7, 1978",Retired
+Centre-Back,right,"Jan 5, 2006",Nemanja Vidic‎,"1,90m",19726,['Serbia'],€22.00m,: Ablöse €10.50m,26,"Oct 21, 1981",Retired
+Centre-Back,right,"Jul 1, 1996",Wes Brown,"1,85m",3405,['England'],€6.50m,Manchester United U18,28,"Oct 13, 1979",Retired
+Centre-Back,right,"Jul 1, 2004",Gerard Piqué,"1,94m",18944,['Spain'],€5.50m,FC Barcelona U19,21,"Feb 2, 1987",Retired
+Centre-Back,right,"Jul 1, 2001",John O'Shea,"1,92m",3540,['Ireland'],€4.50m,Manchester United Reserves,27,"Apr 30, 1981",Retired
+Centre-Back,both,"Jul 18, 2023",Jonny Evans,"1,88m",42412,['Northern Ireland'],€500k,Leicester City,20,"Jan 3, 1988",Manchester United
+Left-Back,left,"Jan 10, 2006",Patrice Evra,"1,74m",5285,"['France', 'Senegal']",€15.00m,: Ablöse €8.00m,27,"May 15, 1981",Retired
+Left-Back,,"Sep 10, 1999",Mikaël Silvestre,,3393,"['France', 'Guadeloupe']",€4.00m,: Ablöse €5.70m,30,"Aug 9, 1977",Retired
+Right-Back,right,"Jul 1, 1992",Gary Neville,"1,80m",3403,['England'],€6.00m,Manchester United U18,33,"Feb 18, 1975",Retired
+Right-Back,right,"Jul 1, 2003",Phil Bardsley,"1,80m",15773,"['Scotland', 'England']",€3.00m,Manchester United U18,23,"Jun 28, 1985",Retired
+Right-Back,right,"Jul 1, 2007",Danny Simpson,"1,76m",37442,"['England', 'Jamaica']",€900k,Manchester United Reserves,21,"Jan 4, 1987",Retired
+Right-Back,right,,Richard Eckersley,"1,83m",73493,['England'],,,19,"Mar 12, 1989",Retired
+Defensive Midfield,,"Jul 1, 2007",Owen Hargreaves,,201,"['England', 'Canada']",€20.00m,: Ablöse €25.00m,27,"Jan 20, 1981",Retired
+Defensive Midfield,right,"Jul 31, 2006",Michael Carrick,"1,89m",3878,['England'],€17.50m,Tottenham Hotspur,26,"Jul 28, 1981",Retired
+Defensive Midfield,right,,Kieran Lee,"1,85m",50439,['England'],€150k,,20,"Jun 22, 1988",Retired
+Central Midfield,left,"Jul 2, 2007",Anderson,"1,76m",31645,['Brazil'],€22.00m,FC Porto,20,"Apr 13, 1988",Retired
+Central Midfield,right,"Jan 8, 2012",Paul Scholes,"1,68m",3397,['England'],€10.00m,,33,"Nov 16, 1974",Retired
+Central Midfield,right,"Jul 1, 2001",Darren Fletcher,"1,84m",3547,['Scotland'],€5.00m,Manchester United U18,24,"Feb 1, 1984",Retired
+Central Midfield,right,"Jul 1, 2008",Darron Gibson,"1,83m",42413,"['Ireland', 'Northern Ireland']",€300k,Manchester United Reserves,20,"Oct 25, 1987",Retired
+Central Midfield,,"Jul 1, 2007",Sam Hewson,"1,73m",73514,['England'],,Manchester United U18,19,"Nov 28, 1988",KFK Kópavogur
+Left Midfield,left,"Jul 1, 1991",Ryan Giggs,"1,79m",3406,['Wales'],€10.00m,Manchester United U18,34,"Nov 29, 1973",Retired
+Attacking Midfield,both,"Jul 5, 2005",Ji-sung Park,"1,78m",4592,"['Korea, South']",€9.00m,: Ablöse €7.30m,27,"Feb 25, 1981",Retired
+Attacking Midfield,left,"Jul 1, 2005",Lee Martin,"1,80m",15449,['England'],€900k,Manchester United U18,21,"Feb 9, 1987",Ramsgate FC
+Left Winger,both,"Jul 2, 2007",Nani,"1,77m",33706,"['Portugal', 'Cape Verde']",€19.00m,Sporting CP,21,"Nov 17, 1986",CF Estrela Amadora
+Right Winger,right,"Jul 25, 2003",Chris Eagles,"1,83m",24635,['England'],€800k,Manchester United U18,22,"Nov 19, 1985",Retired
+Right Winger,right,,Febian Brandy,"1,68m",67451,"['St. Kitts & Nevis', 'England']",€50k,,19,"Feb 4, 1989",Retired
+Centre-Forward,right,"Aug 31, 2021",Cristiano Ronaldo,"1,88m",8198,['Portugal'],€55.00m,Juventus FC,23,"Feb 5, 1985",Al-Nassr FC
+Centre-Forward,right,"Aug 31, 2004",Wayne Rooney,"1,76m",3332,['England'],€40.00m,: Ablöse €37.00m,22,"Oct 24, 1985",Retired
+Centre-Forward,right,"Aug 10, 2007",Carlos Tevez,"1,71m",4276,['Argentina'],€24.00m,: Ablöse €12.70m,24,"Feb 5, 1984",Retired
+Centre-Forward,left,"Jan 23, 2004",Louis Saha,"1,82m",4015,"['France', 'Guadeloupe']",€10.00m,Fulham FC,29,"Aug 8, 1978",Retired
+Centre-Forward,right,"Jul 1, 2006",Fraizer Campbell,"1,72m",42411,"['England', 'Jamaica']",€650k,Manchester United U18,20,"Sep 13, 1987",Retired
+Centre-Forward,right,"Jan 1, 2004",Fangzhuo Dong,"1,85m",15832,['China'],€600k,Dalian Shide,23,"Jan 23, 1985",Retired
+Centre-Forward,both,"Jul 29, 1996",Ole Gunnar Solskjær,"1,79m",3394,['Norway'],,Molde FK,35,"Feb 26, 1973",Retired
+Centre-Forward,right,"Jul 1, 2008",Danny Welbeck,"1,85m",67063,"['England', 'Ghana']",,Manchester United U18,17,"Nov 26, 1990",Brighton & Hove Albion

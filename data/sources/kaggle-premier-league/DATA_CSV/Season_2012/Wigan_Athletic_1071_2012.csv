@@ -1,0 +1,38 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 4, 2011",Ali Al-Habsi,"1,94m",26633,['Oman'],€5.00m,: Ablöse €4.30m,31,"Dec 30, 1981",Retired
+Goalkeeper,right,,"Jan 17, 2013",Joel Robles,"1,94m",101118,['Spain'],€2.00m,: Ablöse ?,23,"Jun 17, 1990",Estoril Praia
+Goalkeeper,right,,"Jul 1, 2010",Lee Nicholls,"1,91m",126258,['England'],€250k,Wigan Athletic U18,20,"Oct 5, 1992",Huddersfield Town
+Goalkeeper,right,,"Jul 1, 2005",Mike Pollitt,"1,93m",32217,['England'],€250k,Rotherham United,41,"Feb 29, 1972",Retired
+Centre-Back,right,Knee injury - Return unknown,"Aug 2, 2012",Iván Ramis,"1,89m",26066,['Spain'],€6.00m,RCD Mallorca,28,"Oct 25, 1984",Retired
+Centre-Back,right,,"Jan 13, 2010",Gary Caldwell,"1,85m",3791,['Scotland'],€3.00m,Celtic FC,31,"Apr 12, 1982",Retired
+Centre-Back,right,,"Jul 1, 2010",Antolín Alcaraz,"1,87m",14259,"['Paraguay', 'Italy']",€2.50m,: Ablöse free transfer,30,"Jul 30, 1982",Retired
+Centre-Back,right,,"Jan 1, 2011",Adrián López,"1,84m",44966,['Spain'],€500k,Deportivo de La Coruña,26,"Feb 25, 1987",Without Club
+Centre-Back,right,,"Jul 1, 2011",Román Golobart,"1,93m",90273,['Spain'],€250k,Wigan Athletic U21,21,"Mar 21, 1992",Retired
+Centre-Back,right,,"Jul 1, 2011",Rob Kiernan,"1,86m",99463,"['Ireland', 'England']",,Watford FC,22,"Jan 13, 1991",Retired
+Left-Back,left,,"Jan 25, 2012",Jean Beausejour,"1,78m",18871,"['Chile', 'Haiti']",€5.50m,: Ablöse €4.70m,29,"Jun 1, 1984",Retired
+Left-Back,left,,"Oct 21, 2014",Maynor Figueroa,"1,82m",62240,['Honduras'],€4.50m,: Ablöse free transfer,30,"May 2, 1983",Retired
+Left-Back,left,,"Jul 1, 2009",Jordan Mustoe,"1,79m",61715,['England'],,Wigan Athletic U18,22,"Jan 28, 1991",Without Club
+Right-Back,right,,"Jul 1, 2010",Ronnie Stam,"1,79m",24877,['Netherlands'],€2.00m,Twente Enschede FC,29,"Jun 18, 1984",Retired
+Right-Back,right,,"Aug 1, 2006",Emmerson Boyce,"1,80m",19641,"['Barbados', 'England']",€1.00m,: Ablöse €1.50m,33,"Sep 24, 1979",Retired
+Right-Back,right,,,Filip Orsula,"1,83m",104962,['Slovakia'],,,20,"Feb 25, 1993",FC Petrzalka
+Right-Back,right,,"Jul 1, 2011",Adam Buxton,"1,85m",126249,['England'],,Wigan Athletic U18,21,"May 12, 1992",Bootle FC
+Right-Back,right,,,Edu Campabadal,"1,78m",126722,['Spain'],,,20,"Jan 26, 1993",Zamora CF
+Defensive Midfield,,,"Jan 31, 2013",Paul Scharner,,2953,['Austria'],€1.50m,: Ablöse €100k,33,"Mar 11, 1980",Retired
+Central Midfield,right,,"Jul 16, 2009",James McCarthy,"1,80m",45333,"['Ireland', 'Scotland']",€6.50m,Hamilton Academical FC,22,"Nov 12, 1990",Celtic FC
+Central Midfield,left,,"Aug 17, 2016",Jordi Gómez,"1,78m",39010,['Spain'],€3.50m,Sunderland AFC,28,"May 24, 1985",Retired
+Central Midfield,both,,"Jul 1, 2010",James McArthur,"1,78m",41416,['Scotland'],€3.00m,Hamilton Academical FC,25,"Oct 7, 1987",Retired
+Central Midfield,right,,"Jan 26, 2009",Ben Watson,"1,78m",14081,['England'],€2.00m,: Ablöse €2.10m,27,"Jul 9, 1985",Retired
+Central Midfield,left,,"Jul 1, 2011",David Jones,"1,83m",24634,"['England', 'Wales']",€1.50m,Wolverhampton Wanderers,28,"Nov 4, 1984",Retired
+Central Midfield,left,,"Jan 4, 2013",Róger Espinoza,"1,78m",71096,"['Honduras', 'United States']",€1.00m,Sporting Kansas City,26,"Oct 25, 1986",Retired
+Central Midfield,right,,"Jul 16, 2012",Fraser Fyvie,"1,72m",107350,['Scotland'],€1.00m,Aberdeen FC,20,"Mar 27, 1993",Cove Rangers FC
+Central Midfield,left,,"Jul 1, 2010",Daniel Redmond,"1,75m",61586,['England'],,Wigan Athletic U21,22,"Mar 2, 1991",The New Saints
+Attacking Midfield,right,,"Aug 31, 2011",Shaun Maloney,"1,71m",9508,"['Scotland', 'England']",€3.00m,Celtic FC,30,"Jan 24, 1983",Retired
+Left Winger,left,,"Aug 1, 2011",Albert Crusat,"1,60m",51536,['Spain'],€1.50m,UD Almería,31,"May 13, 1982",Retired
+Right Winger,right,,"Jan 31, 2010",Victor Moses,"1,77m",59866,"['Nigeria', 'England']",€15.00m,: Ablöse €3.00m,22,"Dec 12, 1990",Luton Town
+Right Winger,right,,"Aug 13, 2012",Ryo Miyaichi,"1,81m",129688,['Japan'],€2.50m,Arsenal FC,20,"Dec 14, 1992",Yokohama F. Marinos
+Right Winger,right,"Muscle injury - Return expected on Nov 24, 2024","Jul 1, 2023",Callum McManaman,"1,74m",61711,"['England', 'Ireland']",€1.50m,Without Club,22,"Apr 25, 1991",Wigan Athletic
+Centre-Forward,right,,"Aug 14, 2012",Arouna Koné,"1,81m",8552,"[""Cote d'Ivoire""]",€5.00m,Levante UD,29,"Nov 11, 1983",Retired
+Centre-Forward,right,,"Jan 2, 2013",Ángelo Henríquez,"1,75m",189740,['Chile'],€4.00m,Manchester United,19,"Apr 13, 1994",PAS Lamia 1964
+Centre-Forward,right,,"Aug 31, 2010",Franco Di Santo,"1,93m",59783,"['Argentina', 'Italy']",€3.50m,Chelsea FC,24,"Apr 7, 1989",Without Club
+Centre-Forward,right,,"Jul 1, 2010",Mauro Boselli,"1,81m",40822,"['Argentina', 'Mexico']",€2.80m,: Ablöse €3.70m,28,"May 22, 1985",Retired
+Centre-Forward,right,,"Aug 11, 2011",Nouha Dicko,"1,73m",173750,"['Mali', 'France']",,Racing Strasbourg B,21,"May 14, 1992",Paris FC

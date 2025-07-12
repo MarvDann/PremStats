@@ -1,0 +1,40 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,,"Feb 21, 1997",Mark Schwarzer,,3357,"['Australia', 'Germany']",€3.75m,Bradford City,33,"Oct 6, 1972",Retired
+Goalkeeper,left,,"Jul 1, 2000",Brad Jones,"1,94m",4042,"['Australia', 'England']",€350k,Middlesbrough FC U18,24,"Mar 19, 1982",Retired
+Goalkeeper,right,,"Jul 1, 2003",Ross Turnbull,"1,93m",29159,['England'],€50k,Middlesbrough FC U18,21,"Jan 4, 1985",Retired
+Goalkeeper,,,"Jan 1, 2005",David Knight,"1,85m",29422,['England'],€50k,Middlesbrough FC U18,19,"Jan 15, 1987",Without Club
+Centre-Back,left,,"Jul 1, 2005",Emanuel Pogatetz,"1,91m",1094,['Austria'],€3.80m,Bayer 04 Leverkusen,23,"Jan 16, 1983",Retired
+Centre-Back,right,,"Oct 20, 2000",Ugo Ehiogu,"1,92m",3247,"['England', 'Nigeria']",€3.00m,: Ablöse €12.20m,33,"Nov 3, 1972",---
+Centre-Back,right,,"Jan 1, 2003",Chris Riggott,"1,83m",3782,['England'],€2.80m,: Ablöse €2.23m,25,"Sep 1, 1980",Retired
+Centre-Back,right,,"Jul 1, 2004",Matthew Bates,"1,78m",29149,['England'],€900k,Middlesbrough FC U18,19,"Dec 10, 1986",Retired
+Centre-Back,right,,"Mar 1, 2011",Andrew Davies,"1,90m",3869,['England'],€500k,Stoke City,21,"Dec 17, 1984",Retired
+Centre-Back,right,,"Jan 1, 2006",David Wheater,"1,96m",29199,['England'],€50k,Middlesbrough FC U18,19,"Feb 14, 1987",Retired
+Centre-Back,right,,"Jul 1, 2001",Gareth Southgate,"1,83m",3744,['England'],,: Ablöse €9.75m,35,"Sep 3, 1970",Retired
+Centre-Back,right,Hamstring injury - Return unknown,"Jul 1, 2008",Rhys Williams,"1,87m",82474,"['Australia', 'Wales']",,Middlesbrough FC Reserves,17,"Jul 14, 1988",Retired
+Left-Back,left,,"Jul 1, 2002",Franck Queudrue,"1,83m",3711,['France'],€4.50m,: Ablöse €3.75m,27,"Aug 27, 1978",Retired
+Left-Back,left,,"Jul 1, 2005",Andrew Taylor,"1,78m",29158,['England'],€100k,Middlesbrough FC U18,19,"Aug 1, 1986",Retired
+Left-Back,left,,"Jul 1, 1998",Colin Cooper,"1,82m",3867,['England'],€75k,: Ablöse €3.75m,39,"Feb 28, 1967",Retired
+Right-Back,right,,"Jul 6, 2004",Michael Reiziger,"1,76m",4375,"['Netherlands', 'Suriname']",€5.00m,FC Barcelona,33,"May 3, 1973",Retired
+Right-Back,right,,"Jul 2, 2012",Stuart Parnaby,"1,78m",3866,['England'],€1.50m,: Ablöse free transfer,23,"Jul 19, 1982",Retired
+Right-Back,,,"Nov 1, 2006",Abel Xavier,,3211,"['Portugal', 'Mozambique']",€850k,Disqualification,33,"Nov 30, 1972",Retired
+Right-Back,right,,"Jul 1, 2004",Tony McMahon,"1,80m",29154,['England'],€50k,Middlesbrough FC U18,20,"Mar 24, 1986",Retired
+Defensive Midfield,right,,"Aug 1, 2002",George Boateng,"1,76m",3358,"['Netherlands', 'Ghana']",€5.70m,: Ablöse €6.90m,30,"Sep 5, 1975",Retired
+Defensive Midfield,right,,"Aug 1, 2003",Doriva,"1,75m",3814,"['Brazil', 'Italy']",€1.75m,Celta de Vigo,34,"May 28, 1972",Retired
+Defensive Midfield,right,,"Jan 1, 2006",Lee Cattermole,"1,78m",37363,['England'],€700k,Middlesbrough FC U18,18,"Mar 21, 1988",Retired
+Central Midfield,right,,"Sep 1, 2005",Fábio Rochemback,"1,81m",7606,['Brazil'],€6.60m,FC Barcelona,24,"Dec 10, 1981",Retired
+Central Midfield,right,,"Jul 23, 2004",Ray Parlour,"1,78m",3208,['England'],€3.50m,: Ablöse free transfer,33,"Mar 7, 1973",Retired
+Central Midfield,right,,"Jul 1, 2004",James Morrison,"1,83m",27614,"['Scotland', 'England']",€2.25m,Middlesbrough FC U18,20,"May 25, 1986",Retired
+Central Midfield,right,,"Jul 1, 2005",Jason Kennedy,"1,85m",29423,['England'],€100k,Middlesbrough FC U18,19,"Sep 11, 1986",Redcar Athletic
+Central Midfield,right,,"Jan 1, 2008",Josh Walker,"1,80m",39930,['England'],,Middlesbrough FC U18,17,"Feb 21, 1989",Retired
+Right Midfield,right,,"Jul 1, 2004",Gaizka Mendieta,"1,73m",7603,['Spain'],€5.20m,: Ablöse free transfer,32,"Mar 27, 1974",Retired
+Left Midfield,left,,"Jul 16, 2015",Stewart Downing,"1,80m",4063,['England'],€7.00m,: Ablöse €7.90m,21,"Jul 22, 1984",Retired
+Right Winger,left,Suspended -  - cross-competition,"Jul 1, 2005",Adam Johnson,"1,82m",31579,['England'],€400k,Middlesbrough FC U18,18,"Jul 14, 1987",Retired
+Second Striker,right,,"Jul 1, 2001",Szilárd Németh,"1,78m",3863,['Slovakia'],€3.50m,: Ablöse €6.75m,28,"Aug 8, 1977",Retired
+Centre-Forward,,,"Jul 1, 2005",Yakubu Aiyegbeni,"1,83m",8559,['Nigeria'],€11.00m,: Ablöse €9.75m,23,"Nov 22, 1982",Retired
+Centre-Forward,both,,"Jul 1, 2004",Mark Viduka,"1,88m",3242,"['Australia', 'Croatia']",€5.50m,Leeds United,30,"Oct 9, 1975",Retired
+Centre-Forward,right,,"Jul 9, 2004",Jimmy Floyd Hasselbaink,"1,78m",3175,"['Netherlands', 'Suriname']",€4.80m,: Ablöse free transfer,34,"Mar 27, 1972",Retired
+Centre-Forward,right,,"Jul 1, 2002",Massimo Maccarone,"1,80m",3713,['Italy'],€3.50m,: Ablöse €9.05m,26,"Sep 6, 1979",Retired
+Centre-Forward,right,,"Jul 1, 2000",Joseph-Désiré Job,"1,78m",3650,"['Cameroon', 'France']",€2.75m,: Ablöse €4.50m,28,"Dec 1, 1977",Retired
+Centre-Forward,right,,"Jul 1, 2003",Malcolm Christie,"1,84m",3790,['England'],€2.40m,: Ablöse €4.50m,27,"Apr 11, 1979",Retired
+Centre-Forward,right,,"Jan 31, 2014",Danny Graham,"1,83m",29152,['England'],€400k,Sunderland AFC,20,"Aug 12, 1985",Retired
+Centre-Forward,right,,"Jan 1, 2006",Tom Craddock,"1,78m",39926,['England'],,Middlesbrough FC U18,19,"Oct 14, 1986",Retired

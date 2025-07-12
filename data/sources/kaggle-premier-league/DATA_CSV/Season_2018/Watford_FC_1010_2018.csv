@@ -1,0 +1,40 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,,"Jul 5, 2018",Ben Foster,"1,93m",13572,['England'],€3.00m,West Bromwich Albion,36,"Apr 3, 1983",Retired
+Goalkeeper,right,,"Jul 1, 2014",Heurelho Gomes,"1,91m",19059,['Brazil'],€1.00m,Tottenham Hotspur,38,"Feb 15, 1981",Retired
+Goalkeeper,right,Cruciate ligament tear - Return unknown,"Jan 31, 2018",Pontus Dahlberg,"1,94m",365544,['Sweden'],€1.00m,: Ablöse €3.90m,20,"Jan 21, 1999",IFK Göteborg
+Goalkeeper,right,,"Jul 1, 2017",Daniel Bachmann,"1,91m",120186,['Austria'],€500k,Stoke City U21,24,"Jul 9, 1994",Watford FC
+Centre-Back,right,,"Jul 1, 2016",Christian Kabasele,"1,87m",81512,"['Belgium', 'DR Congo']",€8.00m,KRC Genk,28,"Feb 24, 1991",Udinese Calcio
+Centre-Back,left,,"Jul 2, 2018",Adam Masina,"1,91m",286949,"['Morocco', 'Italy']",€7.00m,: Ablöse €5.00m,25,"Jan 2, 1994",Torino FC
+Centre-Back,right,,"Jul 1, 2014",Craig Cathcart,"1,89m",59606,['Northern Ireland'],€5.00m,Blackpool FC,30,"Feb 6, 1989",Retired
+Centre-Back,right,,"Jul 1, 2015",Sebastian Prödl,"1,94m",37981,['Austria'],€3.50m,SV Werder Bremen,32,"Jun 21, 1987",Retired
+Centre-Back,right,,"Aug 30, 2016",Adrian Mariappa,"1,79m",38145,"['Jamaica', 'England']",€3.00m,Crystal Palace,32,"Oct 3, 1986",Wealdstone FC
+Centre-Back,left,,"Jul 22, 2015",Miguel Britos,"1,89m",76799,['Uruguay'],€2.00m,: Ablöse free transfer,33,"Jul 17, 1985",Retired
+Centre-Back,right,,"Jul 1, 2018",Ben Wilmot,"1,88m",467599,"['England', 'Ireland']",€1.50m,: Ablöse €1.70m,19,"Nov 4, 1999",Stoke City
+Centre-Back,left,,"Jul 1, 2017",Jorge Segura,"1,95m",453575,['Colombia'],€900k,Envigado FC,22,"Jan 18, 1997",Lokomotiv Plovdiv
+Centre-Back,right,,"Jul 1, 2012",Tommie Hoban,"1,88m",183161,"['Ireland', 'England']",€500k,Watford FC U18,25,"Jan 24, 1994",Hornchurch FC
+Left-Back,left,,"Aug 31, 2017",Marvin Zeegelaar,"1,86m",92899,"['Netherlands', 'Suriname']",€2.50m,Sporting CP,28,"Aug 12, 1990",Without Club
+Left-Back,left,,"Jul 2, 2015",Jose Cholevas,"1,84m",41112,"['Greece', 'Germany']",€2.00m,: Ablöse €2.50m,35,"Jun 27, 1984",Retired
+Right-Back,right,,"Aug 23, 2016",Daryl Janmaat,"1,85m",60744,['Netherlands'],€6.00m,Newcastle United,29,"Jul 22, 1989",Retired
+Right-Back,right,,"Jul 1, 2017",Kiko Femenía,"1,74m",76467,['Spain'],€5.00m,: Ablöse free transfer,28,"Feb 2, 1991",Villarreal CF
+Right-Back,right,,"Aug 25, 2017",Dimitri Foulquier,"1,83m",170472,"['Guadeloupe', 'France']",€3.50m,Granada CF,26,"Mar 23, 1993",Valencia CF
+Right-Back,right,,"Jul 1, 2018",Marc Navarro,"1,88m",335245,['Spain'],€2.00m,RCD Espanyol Barcelona,23,"Jul 2, 1995",Arka Gdynia
+Defensive Midfield,right,,"Jul 6, 2015",Étienne Capoue,"1,89m",63494,"['France', 'Guadeloupe']",€8.00m,Tottenham Hotspur,30,"Jul 11, 1988",Without Club
+Defensive Midfield,right,,"Jul 13, 2017",Nathaniel Chalobah,"1,85m",128900,"['England', 'Sierra Leone']",€7.00m,Chelsea FC,24,"Dec 12, 1994",Sheffield Wednesday
+Central Midfield,right,,"Feb 1, 2016",Abdoulaye Doucouré,"1,83m",127187,"['Mali', 'France']",€25.00m,Stade Rennais FC,26,"Jan 1, 1993",Everton FC
+Central Midfield,left,,"Jul 1, 2017",Will Hughes,"1,85m",207014,['England'],€18.00m,Derby County,24,"Apr 17, 1995",Crystal Palace
+Central Midfield,both,,"Aug 19, 2016",Roberto Pereyra,"1,82m",112302,['Argentina'],€13.00m,: Ablöse €13.50m,28,"Jan 7, 1991",AEK Athens
+Central Midfield,right,,"Jul 1, 2017",Tom Cleverley,"1,75m",73484,['England'],€7.00m,Everton FC,29,"Aug 12, 1989",Retired
+Central Midfield,right,,"Aug 9, 2018",Domingos Quina,"1,73m",391719,"['Portugal', 'Guinea-Bissau']",€5.00m,West Ham United U21,19,"Nov 18, 1999",Pafos FC
+Central Midfield,right,,"Aug 9, 2018",Kwasi Sibo,"1,83m",538006,['Ghana'],€200k,FC Banants Yerevan,21,"Jun 24, 1998",Real Oviedo
+Left Winger,left,,"Jul 5, 2018",Ken Sema,"1,80m",252345,"['Sweden', 'DR Congo']",€3.50m,Östersunds FK,25,"Sep 30, 1993",Watford FC
+Left Winger,right,,"Feb 1, 2016",Adalberto Peñaranda,"1,86m",308801,"['Venezuela', 'Spain']",€2.00m,Udinese Calcio,22,"May 31, 1997",Atlético Bucaramanga
+Right Winger,left,,"Jan 30, 2018",Dodi Lukébakio,"1,87m",303259,"['Belgium', 'DR Congo']",€18.00m,R Charleroi SC,21,"Sep 24, 1997",Sevilla FC
+Centre-Forward,right,Knee surgery - Return unknown,"Jul 1, 2018",Gerard Deulofeu,"1,77m",129476,['Spain'],€25.00m,FC Barcelona,25,"Mar 13, 1994",Udinese Calcio
+Centre-Forward,right,,"Aug 9, 2017",Andre Gray,"1,78m",120565,"['Jamaica', 'England']",€15.00m,: Ablöse €20.40m,28,"Jun 26, 1991",Plymouth Argyle
+Centre-Forward,right,,"Jan 1, 2017",Cucho Hernández,"1,76m",459463,"['Colombia', 'Spain']",€10.00m,Deportivo Pereira,20,"Apr 20, 1999",Columbus Crew
+Centre-Forward,right,,"Sep 22, 2012",Troy Deeney,"1,84m",65477,"['England', 'Jamaica']",€10.00m,,31,"Jun 29, 1988",Without Club
+Centre-Forward,right,,"Jul 1, 2016",Isaac Success,"1,82m",295331,['Nigeria'],€5.00m,Granada CF,23,"Jan 7, 1996",Al-Wasl FC
+Centre-Forward,right,,"Aug 29, 2016",Stefano Okaka,"1,86m",35249,"['Italy', 'Nigeria']",€5.00m,: Ablöse €6.00m,29,"Aug 9, 1989",Without Club
+Centre-Forward,right,,"Sep 1, 2015",Mamadou Obbi Oulare,"1,96m",314959,"['Belgium', 'Guinea']",€1.80m,Club Brugge KV,23,"Jan 8, 1996",K Lierse SK
+Centre-Forward,right,,"Jul 1, 2016",Jerome Sinclair,"1,81m",236513,['England'],€1.50m,: Ablöse free transfer,22,"Sep 20, 1996",Retired
+Centre-Forward,left,,"Jan 8, 2019",Filip Stuparevic,"1,84m",442337,['Serbia'],€1.20m,FK Vozdovac,18,"Aug 30, 2000",Greenock Morton FC

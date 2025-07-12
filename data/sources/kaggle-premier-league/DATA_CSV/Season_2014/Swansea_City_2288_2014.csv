@@ -1,0 +1,37 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2014",Lukasz Fabianski,"1,90m",29692,['Poland'],€4.00m,Arsenal FC,30,"Apr 18, 1985",West Ham United
+Goalkeeper,,,"Aug 1, 2011",Gerhard Tremmel,,488,['Germany'],€1.00m,: Ablöse free transfer,36,"Nov 16, 1978",Retired
+Goalkeeper,right,,"Jul 1, 2009",David Cornell,"1,86m",89648,['Wales'],€500k,Swansea City U18,24,"Mar 28, 1991",Preston North End
+Centre-Back,right,,"Aug 20, 2014",Federico Fernández,"1,89m",85475,"['Argentina', 'Italy']",€9.00m,: Ablöse €10.00m,26,"Feb 21, 1989",Club Estudiantes de La Plata
+Centre-Back,right,,"Jul 1, 2008",Ashley Williams,"1,83m",67355,"['Wales', 'England']",€6.50m,: Ablöse €500k,30,"Aug 23, 1984",Retired
+Centre-Back,right,Ankle injury - Return unknown,"Jul 1, 2013",Jordi Amat,"1,85m",85289,"['Indonesia', 'Spain']",€2.00m,RCD Espanyol Barcelona,23,"Mar 21, 1992",Johor Darul Ta'zim
+Centre-Back,right,,"Aug 17, 2012",Kyle Bartley,"1,94m",67421,"['England', 'Jamaica']",€1.00m,Arsenal FC U21,24,"May 22, 1991",West Bromwich Albion
+Centre-Back,right,,"Feb 6, 2004",Alan Tate,"1,85m",7337,['England'],€500k,Manchester United,32,"Sep 2, 1982",Retired
+Left-Back,left,,"Jul 1, 2010",Neil Taylor,"1,76m",67416,"['Wales', 'India']",€3.50m,Wrexham AFC,26,"Feb 7, 1989",Retired
+Left-Back,left,,"Jul 1, 2014",Stephen Kingsley,"1,78m",184398,['Scotland'],€500k,Falkirk FC,20,"Jul 23, 1994",Heart of Midlothian FC
+Left-Back,left,,,Raheem Hanley,"1,75m",173584,"['St. Kitts & Nevis', 'England']",,,21,"Feb 24, 1994",West Didsbury & Chorlton AFC
+Right-Back,right,,"Jan 22, 2015",Kyle Naughton,"1,81m",66219,"['England', 'Ireland']",€6.00m,Tottenham Hotspur,26,"Nov 17, 1988",Swansea City
+Right-Back,right,,"Jul 1, 2007",Ángel Rangel,"1,88m",66550,['Spain'],€2.00m,Terrassa FC,32,"Nov 28, 1982",Retired
+Right-Back,right,,"Sep 10, 2012",Dwight Tiendalli,"1,76m",29356,"['Netherlands', 'Suriname']",€1.00m,Without Club,29,"Oct 21, 1985",Retired
+Right-Back,right,,"Jul 1, 2009",Jazz Richards,"1,74m",120241,['Wales'],€500k,Swansea City U18,24,"Apr 12, 1991",Retired
+Right-Back,right,,"Jul 1, 2014",Liam Shephard,"1,78m",197910,['Wales'],,Swansea City U21,20,"Nov 22, 1994",Salford City
+Defensive Midfield,right,,"Aug 24, 2012",Sung-yueng Ki,"1,89m",81796,"['Korea, South']",€8.00m,Celtic FC,26,"Jan 24, 1989",FC Seoul
+Defensive Midfield,right,,"Jan 30, 2015",Jack Cork,"1,85m",40613,['England'],€4.00m,Southampton FC,26,"Jun 25, 1989",Burnley FC U21
+Defensive Midfield,left,Team captain,"Jan 3, 2015",Matt Grimes,"1,78m",265471,['England'],€2.00m,: Ablöse €2.24m,19,"Jul 15, 1995",Swansea City
+Central Midfield,right,,"Jul 3, 2013",Jonjo Shelvey,"1,84m",71292,"['England', 'Ireland']",€11.00m,: Ablöse €5.80m,23,"Feb 27, 1992",Eyüpspor
+Central Midfield,left,,"Jan 17, 2017",Tom Carroll,"1,77m",121279,['England'],€3.00m,Tottenham Hotspur,23,"May 28, 1992",Milton Keynes Dons
+Central Midfield,right,,"Jan 19, 2011",Leon Britton,"1,67m",40043,['England'],€1.50m,Sheffield United,32,"Sep 16, 1982",Retired
+Central Midfield,right,,"Jan 31, 2014",Jay Fulton,"1,85m",171260,"['Scotland', 'England']",€200k,Falkirk FC,21,"Apr 1, 1994",Swansea City
+Central Midfield,right,,"Jan 28, 2014",Adam King,"1,80m",169566,['Scotland'],€50k,Heart of Midlothian FC,19,"Oct 11, 1995",Without Club
+Central Midfield,right,,,Josh Sheehan,"1,84m",197830,['Wales'],,,20,"Mar 30, 1995",Bolton Wanderers
+Attacking Midfield,right,,"Jul 23, 2014",Gylfi Sigurdsson,"1,86m",90466,['Iceland'],€11.00m,Tottenham Hotspur,25,"Sep 8, 1989",Valur Reykjavík
+Left Winger,right,,"Jul 24, 2014",Jefferson Montero,"1,70m",77932,['Ecuador'],€5.00m,: Ablöse €5.00m,25,"Sep 1, 1989",Academia Antonio Valencia
+Left Winger,right,,"Aug 4, 2011",Wayne Routledge,"1,70m",14066,"['England', 'Jamaica']",€3.00m,Newcastle United,30,"Jan 7, 1985",Retired
+Left Winger,left,,"Sep 1, 2014",Modou Barrow,"1,76m",189070,"['The Gambia', 'Sweden']",€1.00m,Östersunds FK,22,"Oct 13, 1992",Abha Club
+Left Winger,right,,"Jul 1, 2013",Kenji Gorré,"1,78m",374889,"['Curacao', 'Netherlands']",,Without Club,20,"Sep 29, 1994",Umm Salal SC
+Right Winger,right,,"Jan 1, 2009",Nathan Dyer,"1,65m",37011,"['England', 'Jamaica']",€4.50m,Southampton FC,27,"Nov 29, 1987",Retired
+Centre-Forward,right,,"Aug 31, 2017",Wilfried Bony,"1,83m",81808,"[""Cote d'Ivoire"", 'United Kingdom']",€25.00m,Manchester City,26,"Dec 10, 1988",Without Club
+Centre-Forward,right,"No eligibility - until Dec 31, 2024 - AFC Champions League Elite - 6 matchdays","Jul 1, 2014",Bafétimbi Gomis,"1,84m",22388,"['France', 'Senegal']",€8.00m,: Ablöse free transfer,29,"Aug 6, 1985",Retired
+Centre-Forward,right,,"Jan 1, 2015",Nélson Oliveira,"1,86m",72768,['Portugal'],€4.00m,SL Benfica,23,"Aug 8, 1991",Vitória Guimarães SC
+Centre-Forward,both,,"Jul 2, 2014",Marvin Emnes,"1,80m",37787,"['Netherlands', 'Suriname']",€1.50m,Middlesbrough FC,27,"May 27, 1988",Without Club
+Centre-Forward,right,,"Jan 1, 2012",Rory Donnelly,"1,88m",164389,['Northern Ireland'],,Cliftonville FC,23,"Feb 18, 1992",Cliftonville FC

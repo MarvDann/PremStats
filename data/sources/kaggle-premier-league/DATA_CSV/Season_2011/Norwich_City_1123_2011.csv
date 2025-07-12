@@ -1,0 +1,30 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 2010",John Ruddy,"1,92m",29712,['England'],€4.50m,: Ablöse €600k,25,"Oct 24, 1986",Newcastle United
+Goalkeeper,right,"Jul 1, 2009",Declan Rudd,"1,91m",74088,['England'],€500k,Norwich City U18,21,"Jan 16, 1991",Retired
+Goalkeeper,left,"Jul 1, 2010",Jed Steer,"1,83m",110867,"['England', 'Scotland']",€250k,Norwich City U18,19,"Sep 23, 1992",Peterborough United
+Centre-Back,right,"Jan 1, 2012",Ryan Bennett,"1,88m",67252,['England'],€3.50m,Peterborough United,22,"Mar 6, 1990",Retired
+Centre-Back,right,"Jan 4, 2010",Russell Martin,"1,83m",67303,"['Scotland', 'England']",€3.00m,Peterborough United,26,"Jan 4, 1986",Retired
+Centre-Back,right,"Jan 1, 2011",Leon Barnett,"1,85m",33484,"['England', 'Jamaica']",€2.50m,West Bromwich Albion,26,"Nov 30, 1985",Retired
+Centre-Back,right,"Jul 1, 2010",Elliott Ward,"1,85m",15838,['England'],€2.00m,Coventry City,27,"Jan 19, 1985",Retired
+Centre-Back,left,"Jan 8, 2010",Zak Whitbread,"1,88m",22230,"['United States', 'England']",€1.50m,: Ablöse €100k,28,"Jan 10, 1984",Retired
+Centre-Back,right,"Aug 13, 2011",Daniel Ayala,"1,90m",78966,['Spain'],€500k,: Ablöse €900k,21,"Nov 7, 1990",Potters Bar Town
+Left-Back,left,"Jan 1, 2011",Marc Tierney,"1,83m",67346,"['England', 'Ireland']",€1.00m,Colchester United,26,"Aug 23, 1985",Retired
+Left-Back,left,"Mar 1, 2001",Adam Drury,"1,80m",11663,['England'],€500k,Peterborough United,33,"Aug 29, 1978",Retired
+Right-Back,right,"Aug 1, 2011",Kyle Naughton,"1,81m",66219,"['England', 'Ireland']",€4.00m,Tottenham Hotspur,23,"Nov 17, 1988",Swansea City
+Right-Back,right,"Jul 1, 2011",Ritchie De Laet,"1,84m",55687,['Belgium'],€1.25m,Manchester United,23,"Nov 28, 1988",Retired
+Central Midfield,right,"Jan 24, 2012",Jonathan Howson,"1,80m",45395,['England'],€3.00m,Leeds United,24,"May 21, 1988",Middlesbrough FC
+Central Midfield,left,"Jul 1, 2010",Andrew Surman,"1,78m",29975,"['England', 'South Africa']",€2.50m,Wolverhampton Wanderers,25,"Aug 20, 1986",Retired
+Central Midfield,left,"Jul 1, 2011",Bradley Johnson,"1,83m",49327,['England'],€2.00m,Leeds United,25,"Apr 28, 1987",Retired
+Central Midfield,right,"Jul 1, 2010",Andrew Crofts,"1,75m",14003,"['Wales', 'England']",€2.00m,: Ablöse €360k,28,"May 29, 1984",Retired
+Central Midfield,right,"Jul 1, 2010",David Fox,"1,75m",4219,['England'],€2.00m,Colchester United,28,"Dec 13, 1983",Retired
+Central Midfield,right,"Jul 1, 2009",Korey Smith,"1,83m",80435,"['England', 'Jamaica']",€1.00m,Norwich City U18,21,"Jan 31, 1991",Cambridge United
+Central Midfield,left,"Jan 31, 2007",Simon Lappin,"1,80m",14792,['Scotland'],€750k,St. Mirren FC,29,"Jan 25, 1983",Retired
+Right Midfield,right,"Jul 1, 2011",Elliott Bennett,"1,79m",43193,"['Jamaica', 'England']",€3.00m,Brighton & Hove Albion,23,"Dec 18, 1988",Shifnal Town
+Attacking Midfield,left,"Jul 1, 2008",Wes Hoolahan,"1,68m",24589,['Ireland'],€3.00m,Blackpool FC,30,"May 20, 1982",Doncaster City
+Left Winger,both,"Jul 6, 2011",Anthony Pilkington,"1,81m",67322,"['Ireland', 'England']",€3.50m,: Ablöse €2.25m,24,"Jun 6, 1988",Retired
+Centre-Forward,right,"Jul 24, 2009",Grant Holt,"1,83m",13412,['England'],€4.00m,: Ablöse €475k,31,"Apr 12, 1981",Retired
+Centre-Forward,right,"Jul 1, 2011",Steve Morison,"1,88m",104725,"['Wales', 'England']",€3.00m,: Ablöse €3.15m,28,"Aug 29, 1983",Retired
+Centre-Forward,right,"Jul 1, 2011",James Vaughan,"1,81m",30471,"['England', 'Jamaica']",€1.50m,: Ablöse €2.30m,23,"Jul 14, 1988",Retired
+Centre-Forward,right,"Jul 17, 2010",Simeon Jackson,"1,72m",44913,"['Canada', 'Jamaica']",€1.50m,Gillingham FC,25,"Mar 28, 1987",Retired
+Centre-Forward,right,"Jul 1, 2006",Chris Martin,"1,84m",46154,"['Scotland', 'England']",€500k,Norwich City U18,23,"Nov 4, 1988",Bristol Rovers
+Centre-Forward,right,"Jan 1, 2011",Aaron Wilbraham,"1,91m",67202,['England'],€500k,Milton Keynes Dons,32,"Oct 21, 1979",Retired

@@ -1,0 +1,34 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,"Jul 1, 2012",Ben Foster,"1,93m",13572,['England'],€4.00m,: Ablöse €5.00m,31,"Apr 3, 1983",Retired
+Goalkeeper,right,"Jul 30, 2010",Boaz Myhill,"1,91m",3838,"['Wales', 'United States']",€2.00m,: Ablöse €1.80m,31,"Nov 9, 1982",Retired
+Goalkeeper,right,"Sep 2, 2013",Lee Camp,"1,83m",13443,"['Northern Ireland', 'England']",€800k,Without Club,29,"Aug 22, 1984",Retired
+Goalkeeper,right,"Jul 1, 2006",Luke Daniels,"1,95m",45921,['England'],€250k,West Bromwich Albion U18,26,"Jan 5, 1988",Retired
+Centre-Back,left,"Aug 1, 2008",Jonas Olsson,"1,93m",25248,['Sweden'],€4.00m,NEC Nijmegen,31,"Mar 10, 1983",Retired
+Centre-Back,both,"Jan 31, 2012",Liam Ridgewell,"1,88m",4070,['England'],€3.00m,: Ablöse €2.40m,29,"Jul 21, 1984",Retired
+Centre-Back,right,"Aug 31, 2010",Craig Dawson,"1,88m",121477,['England'],€1.50m,Rochdale AFC,24,"May 6, 1990",Wolverhampton Wanderers
+Centre-Back,right,"Aug 2, 2013",Diego Lugano,"1,88m",13829,"['Uruguay', 'Italy']",€1.00m,: Ablöse free transfer,33,"Nov 2, 1980",Retired
+Centre-Back,right,"Jul 1, 2011",Gareth McAuley,"1,91m",40567,['Northern Ireland'],€1.00m,Ipswich Town,34,"Dec 5, 1979",Retired
+Centre-Back,right,,Donervon Daniels,"1,86m",199522,"['Montserrat', 'England']",,,20,"Nov 24, 1993",Walsall FC
+Left-Back,left,"Aug 31, 2012",Goran Popov,"1,88m",19721,['North Macedonia'],€1.50m,Dynamo Kyiv,29,"Oct 2, 1984",Retired
+Right-Back,right,"Jul 1, 2011",Billy Jones,"1,82m",36866,['England'],€2.50m,: Ablöse free transfer,27,"Mar 24, 1987",Retired
+Right-Back,right,"Jul 1, 2010",Steven Reid,"1,85m",7330,"['Ireland', 'England']",€1.00m,Blackburn Rovers,33,"Mar 10, 1981",Retired
+Right-Back,right,,Cameron Gayle,"1,81m",141341,['England'],,,21,"Nov 22, 1992",Highgate United
+Defensive Midfield,right,"Jul 24, 2012",Claudio Yacob,"1,82m",45330,"['Argentina', 'Italy']",€6.00m,: Ablöse free transfer,26,"Jul 18, 1987",Without Club
+Defensive Midfield,right,"Jul 10, 2009",Youssouf Mulumbu,"1,77m",45272,"['DR Congo', 'France']",€5.00m,: Ablöse €200k,27,"Jan 25, 1987",Without Club
+Defensive Midfield,right,"Jul 1, 2011",Liam O'Neil,"1,81m",141349,"['England', 'Wales']",,West Bromwich Albion U18,20,"Jul 31, 1993",Retired
+Central Midfield,right,"Aug 7, 2007",James Morrison,"1,83m",27614,"['Scotland', 'England']",€6.00m,Middlesbrough FC,28,"May 25, 1986",Retired
+Central Midfield,left,"Aug 15, 2007",Chris Brunt,"1,87m",36814,['Northern Ireland'],€5.00m,: Ablöse €3.75m,29,"Dec 14, 1984",Retired
+Central Midfield,right,"Jul 1, 2008",Graham Dorrans,"1,77m",36608,['Scotland'],€1.50m,Livingston FC,27,"May 5, 1987",Johnstone Burgh FC
+Central Midfield,right,"Jul 1, 2011",George Thorne,"1,88m",128910,['England'],€1.00m,West Bromwich Albion Reserves,21,"Jan 4, 1993",St. Neots Town
+Right Midfield,right,"Sep 2, 2013",Morgan Amalfitano,"1,78m",39883,['France'],€5.00m,Olympique Marseille,29,"Mar 20, 1985",Retired
+Attacking Midfield,right,"Sep 2, 2013",Stéphane Sessègnon,"1,72m",37157,['Benin'],€7.00m,Sunderland AFC,30,"Jun 1, 1984",Retired
+Attacking Midfield,right,"Aug 2, 2011",Zoltán Gera,"1,83m",18324,['Hungary'],€1.00m,Fulham FC,35,"Apr 22, 1979",Retired
+Left Winger,right,"Aug 22, 2013",Scott Sinclair,"1,77m",31552,"['England', 'Jamaica']",€6.00m,: Ablöse €2.30m,25,"Mar 25, 1989",Bristol Rovers
+Left Winger,right,"Jan 31, 2014",Thievy Bifouma,"1,80m",181477,"['Congo', 'France']",€3.00m,RCD Espanyol Barcelona,22,"May 13, 1992",Esteghlal Khuzestan
+Centre-Forward,both,"Aug 1, 2011",Shane Long,"1,80m",37304,['Ireland'],€7.00m,Reading FC,27,"Jan 22, 1987",Retired
+Centre-Forward,right,"Aug 13, 2013",Matej Vydra,"1,80m",101500,['Czech Republic'],€5.00m,Udinese Calcio,22,"May 1, 1992",FC Viktoria Plzen
+Centre-Forward,right,"Sep 2, 2013",Victor Anichebe,"1,90m",39532,"['Nigeria', 'England']",€5.00m,: Ablöse €5.90m,26,"Apr 23, 1988",Retired
+Centre-Forward,right,"Jul 1, 2013",Saido Berahino,"1,80m",128897,"['Burundi', 'England']",€3.00m,West Bromwich Albion U21,20,"Aug 4, 1993",Rajasthan United
+Centre-Forward,right,"Jul 4, 2013",Nicolas Anelka,"1,86m",3226,"['France', 'Martinique']",€1.00m,: Ablöse free transfer,35,"Mar 14, 1979",Retired
+Centre-Forward,,"Aug 7, 2012",Markus Rosenberg,,27505,['Sweden'],€750k,SV Werder Bremen,31,"Sep 27, 1982",Retired
+Centre-Forward,right,,Kemar Roofe,"1,78m",141350,"['Jamaica', 'England']",,,21,"Jan 6, 1993",Without Club

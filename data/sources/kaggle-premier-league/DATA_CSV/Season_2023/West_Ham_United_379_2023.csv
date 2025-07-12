@@ -1,0 +1,37 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2022",Alphonse Areola,"1,95m",120629,"['France', 'Philippines']",€10.00m,,: Ablöse €9.30m,31,"Feb 27, 1993",West Ham United
+Goalkeeper,right,,"Jul 1, 2018",Lukasz Fabianski,"1,90m",29692,['Poland'],€700k,,: Ablöse €8.00m,39,"Apr 18, 1985",West Ham United
+Goalkeeper,right,,"Jan 24, 2023",Joseph Anang,"1,90m",576099,"['England', 'Ghana']",€300k,,West Ham United U21,24,"Jun 8, 2000",St. Patrick's Athletic
+Goalkeeper,,,,Jacob Knightbridge,,670878,['England'],,,,20,"Jan 25, 2004",Oxford United
+Centre-Back,left,,"Jul 1, 2022",Nayef Aguerd,"1,90m",361914,['Morocco'],€35.00m,,Stade Rennais FC,28,"Mar 30, 1996",Real Sociedad
+Centre-Back,right,,"Aug 28, 2021",Kurt Zouma,"1,90m",157509,"['France', 'Central African Republic']",€25.00m,,Chelsea FC,29,"Oct 27, 1994",Al-Orobah FC
+Centre-Back,right,,"Aug 22, 2023",Konstantinos Mavropanos,"1,94m",415912,['Greece'],€20.00m,,VfB Stuttgart,26,"Dec 11, 1997",West Ham United
+Centre-Back,right,,"Aug 17, 2022",Thilo Kehrer,"1,86m",228948,"['Germany', 'Burundi']",€10.00m,"Returned after loan spell with AS Monaco; date: Jun 30, 2024; fee: End of loan",: Ablöse €12.00m,27,"Sep 21, 1996",AS Monaco
+Centre-Back,right,,,Kaelan Casey,"1,85m",845321,['England'],€1.00m,,,19,"Oct 28, 2004",West Ham United U21
+Centre-Back,left,,"Jul 10, 2015",Angelo Ogbonna,"1,91m",48002,"['Italy', 'Nigeria']",€700k,,: Ablöse €11.00m,36,"May 23, 1988",Watford FC
+Centre-Back,right,,,Levi Laing,"1,88m",586982,['England'],€150k,,,21,"Apr 12, 2003",Cheltenham Town
+Left-Back,left,,"Aug 23, 2022",Emerson,"1,76m",181778,"['Italy', 'Brazil']",€12.00m,,Chelsea FC,29,"Aug 3, 1994",West Ham United
+Left-Back,left,,"Jul 3, 2014",Aaron Cresswell,"1,70m",92571,['England'],€900k,,Ipswich Town,34,"Dec 15, 1989",West Ham United
+Left-Back,left,,,Oliver Scarles,,922563,['England'],€400k,,,18,"Dec 12, 2005",West Ham United U21
+Right-Back,right,,"Jul 1, 2020",Ben Johnson,"1,84m",468002,['England'],€8.00m,,West Ham United U21,24,"Jan 24, 2000",Ipswich Town
+Right-Back,right,,"Oct 2, 2020",Vladimír Coufal,"1,74m",157672,['Czech Republic'],€8.00m,,: Ablöse €6.00m,31,"Aug 22, 1992",West Ham United
+Defensive Midfield,right,,"Aug 10, 2023",Edson Álvarez,"1,90m",401356,['Mexico'],€35.00m,,Ajax Amsterdam,26,"Oct 24, 1997",West Ham United
+Defensive Midfield,right,,"Jul 27, 2020",Tomas Soucek,"1,92m",283628,['Czech Republic'],€30.00m,,: Ablöse €16.20m,29,"Feb 27, 1995",West Ham United
+Defensive Midfield,right,,"Jan 26, 2024",Kalvin Phillips,"1,79m",351749,"['England', 'Jamaica']",€25.00m,,Manchester City,28,"Dec 2, 1995",Ipswich Town
+Defensive Midfield,right,,"Jul 7, 2022",Flynn Downes,"1,78m",506189,['England'],€9.00m,,: Ablöse €10.65m,25,"Jan 20, 1999",Southampton FC
+Defensive Midfield,right,,"Jan 1, 2021",Conor Coventry,"1,77m",419025,"['Ireland', 'England']",€1.50m,,West Ham United U21,24,"Mar 25, 2000",Charlton Athletic
+Central Midfield,right,,"Aug 14, 2023",James Ward-Prowse,"1,77m",181579,['England'],€30.00m,,Southampton FC,29,"Nov 1, 1994",Nottingham Forest
+Central Midfield,right,,,Lewis Orford,"1,82m",845809,['England'],€400k,,,18,"Feb 18, 2006",West Ham United U21
+Right Midfield,right,,,Dan Chesters,,561452,['England'],€200k,,,22,"Apr 4, 2002",Salford City
+Attacking Midfield,left,,"Aug 29, 2022",Lucas Paquetá,"1,80m",444523,"['Brazil', 'Portugal']",€65.00m,,Olympique Lyon,26,"Aug 27, 1997",West Ham United
+Attacking Midfield,right,,"Jul 1, 2019",Pablo Fornals,"1,78m",357885,['Spain'],€14.00m,,Villarreal CF,28,"Feb 22, 1996",Real Betis Balompié
+Attacking Midfield,right,,,George Earthy,"1,80m",697280,['England'],€1.00m,,,19,"Sep 5, 2004",Bristol City
+Attacking Midfield,,,,Kamarai Swyer,,693066,['England'],€250k,,,21,"Dec 4, 2002",West Ham United U21
+Left Winger,right,,"Jan 29, 2021",Saïd Benrahma,"1,72m",290532,"['Algeria', 'France']",€20.00m,"Returned after loan spell with Olympique Lyon; date: Jun 30, 2024; fee: End of loan",Brentford FC,28,"Aug 10, 1995",Olympique Lyon
+Left Winger,left,,"Aug 5, 2022",Maxwel Cornet,"1,79m",234781,"[""Cote d'Ivoire"", 'France']",€9.00m,,: Ablöse €20.70m,27,"Sep 27, 1996",Southampton FC
+Right Winger,left,,"Aug 27, 2023",Mohammed Kudus,"1,77m",543499,['Ghana'],€50.00m,,Ajax Amsterdam,23,"Aug 2, 2000",West Ham United
+Right Winger,left,Team captain,"Jan 31, 2020",Jarrod Bowen,"1,76m",314875,['England'],€50.00m,,Hull City,27,"Dec 20, 1996",West Ham United
+Centre-Forward,right,,"Jan 20, 2023",Danny Ings,"1,77m",134294,['England'],€8.00m,,: Ablöse €12.00m,31,"Jul 23, 1992",West Ham United
+Centre-Forward,right,,"Sep 1, 2015",Michail Antonio,"1,80m",104124,"['Jamaica', 'England']",€4.00m,,: Ablöse €9.50m,34,"Mar 28, 1990",West Ham United
+Centre-Forward,left,,,Callum Marshall,"1,72m",953135,['Northern Ireland'],€2.00m,,,19,"Nov 28, 2004",Huddersfield Town
+Centre-Forward,left,,"Jul 1, 2023",Divin Mubama,"1,83m",670848,"['England', 'DR Congo']",€1.00m,,West Ham United U21,19,"Oct 25, 2004",Manchester City U21

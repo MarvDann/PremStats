@@ -1,0 +1,40 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jul 1, 2000",Sam Russell,"1,83m",4043,['England'],Middlesbrough FC U18,20,"Oct 4, 1982",Retired
+Goalkeeper,,"Feb 21, 1997",Mark Schwarzer,,3357,"['Australia', 'Germany']",Bradford City,30,"Oct 6, 1972",Retired
+Goalkeeper,right,"Jul 1, 2000",Mark Crossley,"1,91m",4041,"['Wales', 'England']",: Ablöse free transfer,34,"Jun 16, 1969",Retired
+Goalkeeper,left,"Jul 1, 2000",Brad Jones,"1,94m",4042,"['Australia', 'England']",Middlesbrough FC U18,21,"Mar 19, 1982",Retired
+Centre-Back,right,"Oct 20, 2000",Ugo Ehiogu,"1,92m",3247,"['England', 'Nigeria']",: Ablöse €12.20m,30,"Nov 3, 1972",---
+Centre-Back,right,"Jan 1, 2003",Chris Riggott,"1,83m",3782,['England'],: Ablöse €2.23m,22,"Sep 1, 1980",Retired
+Centre-Back,right,"Jul 1, 2001",Gareth Southgate,"1,83m",3744,['England'],: Ablöse €9.75m,32,"Sep 3, 1970",Retired
+Centre-Back,both,"Jul 1, 1997",Jason Gavin,"1,85m",10380,['Ireland'],Middlesbrough FC U18,23,"Mar 14, 1980",Retired
+Centre-Back,right,"Mar 1, 2011",Andrew Davies,"1,90m",3869,['England'],Stoke City,18,"Dec 17, 1984",Retired
+Centre-Back,right,,Phil Gulliver,"1,88m",13243,['England'],,20,"Sep 12, 1982",Retired
+Left-Back,left,"Jan 1, 2003",Tony Vidmar,"1,86m",3813,"['Australia', 'Italy']",Without Club,32,"Jul 4, 1970",Retired
+Left-Back,left,"Jul 1, 2002",Franck Queudrue,"1,83m",3711,['France'],: Ablöse €3.75m,24,"Aug 27, 1978",Retired
+Left-Back,left,"Jul 1, 1998",Colin Cooper,"1,82m",3867,['England'],: Ablöse €3.75m,36,"Feb 28, 1967",Retired
+Left-Back,left,"Jul 1, 2001",David Murphy,"1,85m",3868,['England'],Middlesbrough FC U18,19,"Mar 1, 1984",Retired
+Right-Back,right,"Jul 1, 1997",Robbie Stockdale,"1,83m",3712,"['Scotland', 'England']",Middlesbrough FC U18,23,"Nov 30, 1979",Retired
+Right-Back,right,"Jul 2, 2012",Stuart Parnaby,"1,78m",3866,['England'],: Ablöse free transfer,20,"Jul 19, 1982",Retired
+Right-Back,right,"Jul 1, 1998",Luke Wilkshire,"1,76m",3321,"['Australia', 'United Kingdom']",: Ablöse free transfer,21,"Oct 2, 1981",Retired
+Right-Back,right,"Jul 1, 2003",Brian Close,"1,78m",4223,['Northern Ireland'],Middlesbrough FC Reserves,21,"Jan 27, 1982",Guisborough Town FC
+Defensive Midfield,right,"Aug 1, 2002",George Boateng,"1,76m",3358,"['Netherlands', 'Ghana']",: Ablöse €6.90m,27,"Sep 5, 1975",Retired
+Defensive Midfield,right,"Aug 1, 2003",Doriva,"1,75m",3814,"['Brazil', 'Italy']",Celta de Vigo,31,"May 28, 1972",Retired
+Defensive Midfield,right,"Jan 16, 2003",John Eustace,"1,83m",13569,['England'],Coventry City,23,"Nov 3, 1979",Retired
+Central Midfield,right,"Jul 1, 1993",Phil Stamp,"1,78m",12607,['England'],Middlesbrough FC U18,27,"Dec 12, 1975",Retired
+Central Midfield,right,"Aug 4, 2001",Jonathan Greening,"1,80m",3865,['England'],Manchester United,24,"Jan 2, 1979",Retired
+Central Midfield,right,"Aug 4, 2001",Mark Wilson,"1,83m",3327,['England'],Manchester United,24,"Feb 9, 1979",Retired
+Right Midfield,right,"Jul 20, 2002",Njitap Geremi,"1,80m",3374,['Cameroon'],Real Madrid,24,"Dec 20, 1978",Retired
+Right Midfield,right,"Sep 1, 2001",Allan Johnston,"1,81m",3649,['Scotland'],: Ablöse €900k,29,"Dec 14, 1973",Retired
+Right Midfield,right,"Jul 1, 2002",Craig Dove,"1,77m",4040,['England'],Middlesbrough FC U18,19,"Aug 16, 1983",Retired
+Left Midfield,left,"Jul 16, 2015",Stewart Downing,"1,80m",4063,['England'],: Ablöse €7.90m,18,"Jul 22, 1984",Retired
+Attacking Midfield,right,"Jul 26, 2002",Juninho Paulista,"1,67m",3505,"['Brazil', 'Italy']",: Ablöse €6.90m,30,"Feb 22, 1973",Retired
+Attacking Midfield,left,"Jan 1, 2000",Carlos Marinelli,"1,79m",29613,"['Argentina', 'Italy']",CA Boca Juniors,21,"Mar 14, 1982",Retired
+Right Winger,,"Jan 1, 2003",Jamie Cade,"1,72m",3864,['England'],Middlesbrough FC U18,19,"Jan 15, 1984",Retired
+Second Striker,right,"Jul 1, 2001",Szilárd Németh,"1,78m",3863,['Slovakia'],: Ablöse €6.75m,25,"Aug 8, 1977",Retired
+Centre-Forward,right,"Mar 9, 2001",Dean Windass,"1,78m",3328,['England'],Bradford City,34,"Apr 1, 1969",Retired
+Centre-Forward,right,"Jul 1, 2002",Massimo Maccarone,"1,80m",3713,['Italy'],: Ablöse €9.05m,23,"Sep 6, 1979",Retired
+Centre-Forward,right,"Aug 7, 2000",Alen Bokšić,"1,87m",3571,['Croatia'],: Ablöse €3.45m,33,"Jan 21, 1970",Retired
+Centre-Forward,right,"Jul 1, 2000",Joseph-Désiré Job,"1,78m",3650,"['Cameroon', 'France']",: Ablöse €4.50m,25,"Dec 1, 1977",Retired
+Centre-Forward,right,"Jul 1, 2003",Malcolm Christie,"1,84m",3790,['England'],: Ablöse €4.50m,24,"Apr 11, 1979",Retired
+Centre-Forward,right,"Jan 31, 2003",Michael Ricketts,"1,88m",4062,['England'],: Ablöse €5.25m,24,"Dec 4, 1978",Retired
+Centre-Forward,right,"Jul 1, 2000",Noel Whelan,"1,88m",3315,['England'],Coventry City,28,"Dec 30, 1974",Retired

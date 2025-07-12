@@ -1,0 +1,36 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2017",Asmir Begovic,"1,99m",33873,"['Bosnia-Herzegovina', 'Canada']",€8.00m,Chelsea FC,31,"Jun 20, 1987",Everton FC
+Goalkeeper,right,,"Jul 1, 2015",Artur Boruc,"1,93m",15220,['Poland'],€1.00m,Southampton FC,38,"Feb 20, 1980",Retired
+Goalkeeper,right,,"Jul 1, 2015",Adam Federici,"1,88m",4233,"['Australia', 'Italy']",€750k,Reading FC,33,"Jan 31, 1985",Retired
+Goalkeeper,right,,"Jan 31, 2017",Aaron Ramsdale,"1,90m",427568,['England'],€500k,Sheffield United,20,"May 14, 1998",Southampton FC
+Goalkeeper,right,,"Jan 18, 2013",Ryan Allsop,"1,89m",111073,['England'],€250k,Leyton Orient,26,"Jun 17, 1992",Birmingham City
+Centre-Back,left,,"Jul 1, 2017",Nathan Aké,"1,80m",177476,"['Netherlands', ""Cote d'Ivoire""]",€15.00m,Chelsea FC,23,"Feb 18, 1995",Manchester City
+Centre-Back,right,,"Jan 3, 2012",Steve Cook,"1,85m",90836,['England'],€7.00m,Brighton & Hove Albion,27,"Apr 19, 1991",Queens Park Rangers
+Centre-Back,left,Cruciate ligament tear - Return unknown,"Jul 1, 2015",Tyrone Mings,"1,96m",253677,['England'],€4.00m,Ipswich Town,25,"Mar 13, 1993",Aston Villa
+Centre-Back,left,,"Jul 1, 2014",Baily Cargill,"1,89m",293450,['England'],€250k,AFC Bournemouth U21,22,"Jul 5, 1995",Mansfield Town
+Centre-Back,left,,"Jan 1, 2018",Jack Simpson,"1,90m",419930,['England'],,AFC Bournemouth U21,21,"Dec 18, 1996",Leyton Orient
+Centre-Back,right,,,Shaun Hobson,"1,88m",562257,['England'],,,20,"Jun 29, 1998",Oldham Athletic
+Left-Back,left,,"Jan 1, 2012",Charlie Daniels,"1,78m",61819,['England'],€3.50m,Leyton Orient,31,"Sep 7, 1986",Retired
+Left-Back,left,,"Jul 27, 2016",Brad Smith,"1,77m",175745,"['Australia', 'England']",€1.50m,: Ablöse €3.60m,24,"Apr 9, 1994",Houston Dynamo FC
+Left-Back,left,,"Feb 1, 2016",Rhoys Wiggins,"1,73m",42298,"['Wales', 'England']",€500k,: Ablöse €260k,30,"Nov 4, 1987",Retired
+Right-Back,right,,"Jan 28, 2014",Adam Smith,"1,74m",61841,['England'],€5.00m,Tottenham Hotspur,27,"Apr 29, 1991",AFC Bournemouth
+Right-Back,right,,"Jan 9, 2012",Simon Francis,"1,91m",13573,['England'],€2.50m,Charlton Athletic,33,"Feb 16, 1985",Retired
+Defensive Midfield,left,,"Jul 1, 2015",Matt Butcher,"1,88m",391132,['England'],,AFC Bournemouth U18,21,"May 14, 1997",Wycombe Wanderers
+Central Midfield,right,,"Jul 8, 2016",Lewis Cook,"1,75m",249089,['England'],€20.00m,Leeds United,21,"Feb 3, 1997",AFC Bournemouth
+Central Midfield,left,,"Jul 1, 2010",Harry Arter,"1,77m",55742,"['Ireland', 'England']",€7.00m,Woking FC,28,"Dec 28, 1989",Precision FC
+Central Midfield,right,,"Jul 1, 2014",Dan Gosling,"1,80m",44983,['England'],€3.50m,Newcastle United,28,"Feb 1, 1990",Westfield FC
+Central Midfield,left,,"Sep 1, 2014",Andrew Surman,"1,78m",29975,"['England', 'South Africa']",€2.50m,: Ablöse €630k,31,"Aug 20, 1986",Retired
+Central Midfield,right,,"Dec 31, 2019",Emerson Hyndman,"1,70m",223047,"['United States', 'Portugal']",€1.00m,Atlanta United FC,22,"Apr 9, 1996",Memphis 901 FC
+Central Midfield,right,,,Kyle Taylor,"1,67m",562254,"['Switzerland', 'England']",,,18,"Aug 28, 1999",Without Club
+Left Winger,right,,"Jul 1, 2015",Joshua King,"1,80m",91059,['Norway'],€10.00m,Blackburn Rovers,26,"Jan 15, 1992",FC Toulouse
+Left Winger,right,,"Jan 18, 2013",Ryan Fraser,"1,63m",146795,['Scotland'],€6.00m,Aberdeen FC,24,"Feb 24, 1994",Southampton FC
+Left Winger,right,,"Jul 1, 2014",Junior Stanislas,"1,83m",87672,"['England', 'St. Lucia']",€4.50m,: Ablöse free transfer,28,"Nov 26, 1989",Retired
+Left Winger,right,,"Jul 1, 2010",Marc Pugh,"1,80m",36939,['England'],€1.50m,Hereford United (- 2014),31,"Apr 2, 1987",Retired
+Right Winger,right,,"Jul 14, 2016",Jordon Ibe,"1,76m",195652,"['England', 'Nigeria']",€9.00m,: Ablöse €18.00m,22,"Dec 8, 1995",Hayes & Yeading FC
+Right Winger,left,,"Jul 4, 2017",Connor Mahoney,"1,75m",287528,"['England', 'Ireland']",€250k,Blackburn Rovers,21,"Feb 12, 1997",Barrow AFC
+Centre-Forward,right,,"Jan 10, 2016",Benik Afobe,"1,83m",110858,"['DR Congo', 'England']",€10.00m,Wolverhampton Wanderers,25,"Feb 12, 1993",Al-Mesaimeer SC
+Centre-Forward,right,Back injury - Return unknown,"Jul 4, 2014",Callum Wilson,"1,80m",123682,['England'],€10.00m,Coventry City,26,"Feb 27, 1992",Newcastle United
+Centre-Forward,right,,"Jul 1, 2016",Lys Mousset,"1,86m",291422,"['France', 'Senegal']",€4.00m,Le Havre AC,22,"Feb 8, 1996",Without Club
+Centre-Forward,right,,"Jan 11, 2016",Lewis Grabban,"1,83m",35413,"['Jamaica', 'England']",€3.00m,: Ablöse €9.35m,30,"Jan 12, 1988",Without Club
+Centre-Forward,right,,"Jul 1, 2017",Jermain Defoe,"1,71m",3875,"['England', 'St. Lucia']",€2.50m,Sunderland AFC,35,"Oct 7, 1982",Retired
+Centre-Forward,right,,,Mikael Ndjoli,"1,83m",562256,"['England', 'DR Congo']",,,19,"Dec 16, 1998",Lions Gibraltar FC

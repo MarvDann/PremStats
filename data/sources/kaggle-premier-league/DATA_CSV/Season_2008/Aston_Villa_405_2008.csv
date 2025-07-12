@@ -1,0 +1,36 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 26, 2008",Brad Friedel,"1,91m",3476,"['United States', 'England']",€4.00m,Blackburn Rovers,38,"May 18, 1971",Retired
+Goalkeeper,left,"Aug 1, 2008",Brad Guzan,"1,93m",39471,"['United States', 'Poland']",€1.00m,CD Chivas USA,24,"Sep 9, 1984",Atlanta United FC
+Goalkeeper,right,"Jul 1, 2005",Stuart Taylor,"1,98m",3190,['England'],€700k,: Ablöse free transfer,28,"Nov 28, 1980",Retired
+Goalkeeper,right,,Elliot Parish,"1,88m",62645,"['England', 'Wales']",,,19,"May 20, 1990",Retired
+Centre-Back,right,"Aug 12, 2008",Carlos Cuéllar,"1,90m",16576,['Spain'],€8.00m,: Ablöse €10.00m,27,"Aug 23, 1981",Retired
+Centre-Back,right,"Jul 3, 2008",Curtis Davies,"1,88m",18227,"['Sierra Leone', 'England']",€6.80m,West Bromwich Albion,24,"Mar 15, 1985",Retired
+Centre-Back,right,"Aug 29, 2007",Zat Knight,"1,98m",4012,['England'],€5.00m,Fulham FC,29,"May 2, 1980",Retired
+Centre-Back,left,"Jul 1, 2004",Martin Laursen,"1,90m",3503,['Denmark'],,AC Milan,31,"Jul 26, 1977",Retired
+Centre-Back,left,"Jul 1, 2009",Shane Lowry,"1,90m",61576,"['Australia', 'Ireland']",,: Ablöse -,20,"Jun 12, 1989",Johor Darul Ta'zim
+Centre-Back,left,"Jul 1, 2011",Nathan Baker,"1,89m",62638,['England'],,: Ablöse -,18,"Apr 23, 1991",Retired
+Centre-Back,left,"Jul 1, 2010",Ciaran Clark,"1,85m",98240,"['Ireland', 'England']",,: Ablöse -,19,"Sep 26, 1989",Without Club
+Left-Back,both,"Jul 1, 2021",Ashley Young,"1,75m",14086,"['England', 'Jamaica']",€19.00m,Inter Milan,23,"Jul 9, 1985",Everton FC
+Left-Back,left,"Aug 1, 2008",Nicky Shorey,"1,75m",13426,['England'],€5.50m,Reading FC,28,"Feb 19, 1981",Retired
+Left-Back,left,"Aug 30, 2005",Wilfred Bouma,"1,81m",4338,"['Netherlands', 'Suriname']",€5.00m,: Ablöse €4.70m,31,"Jun 15, 1978",Retired
+Left-Back,left,"Jul 1, 2006",Stephen O'Halloran,"1,80m",54130,['Ireland'],€300k,: Ablöse -,21,"Nov 29, 1987",Retired
+Right-Back,right,"Aug 8, 2008",Luke Young,"1,83m",3271,['England'],€7.00m,Middlesbrough FC,29,"Jul 19, 1979",Retired
+Right-Back,right,"Jul 1, 2007",Eric Lichaj,"1,80m",61575,"['United States', 'Poland']",,North Carolina Tar Heels (University of NC),20,"Nov 17, 1988",Retired
+Defensive Midfield,left,"Jul 1, 1998",Gareth Barry,"1,84m",3291,['England'],€18.50m,: Ablöse -,28,"Feb 23, 1981",Unknown
+Defensive Midfield,right,"Jul 5, 2007",Nigel Reo-Coker,"1,75m",14060,"['England', 'Sierra Leone']",€8.00m,: Ablöse €12.50m,25,"May 14, 1984",Retired
+Defensive Midfield,right,"Jul 1, 2010",Chris Herd,"1,88m",61572,"['Australia', 'Scotland']",,: Ablöse -,20,"Apr 4, 1989",Retired
+Central Midfield,right,"Aug 29, 2008",James Milner,"1,75m",3333,['England'],€13.00m,Newcastle United,23,"Jan 4, 1986",Brighton & Hove Albion
+Central Midfield,right,"Aug 1, 2006",Stiliyan Petrov,"1,80m",3252,['Bulgaria'],€7.50m,Celtic FC,29,"Jul 5, 1979",Retired
+Central Midfield,right,"Jul 1, 2008",Steve Sidwell,"1,83m",13427,['England'],€4.80m,Chelsea FC,26,"Dec 14, 1982",Retired
+Central Midfield,right,"Jan 1, 2006",Craig Gardner,"1,76m",37171,['England'],€2.80m,: Ablöse -,22,"Nov 25, 1986",Retired
+Central Midfield,right,"Jul 1, 2006",Isaiah Osbourne,"1,88m",45276,"['England', 'Jamaica']",€500k,: Ablöse -,21,"Nov 5, 1987",Barwell FC
+Central Midfield,left,"Jul 1, 2010",Barry Bannan,"1,69m",61561,['Scotland'],€50k,: Ablöse -,19,"Dec 1, 1989",Sheffield Wednesday
+Right Midfield,right,"Jul 1, 2009",Marc Albrighton,"1,75m",61560,['England'],,: Ablöse -,19,"Nov 18, 1989",Retired
+Attacking Midfield,right,"Jan 31, 2007",Shaun Maloney,"1,71m",9508,"['Scotland', 'England']",€4.00m,Celtic FC,26,"Jan 24, 1983",Retired
+Attacking Midfield,right,"Aug 1, 2007",Moustapha Salifou,"1,80m",1778,['Togo'],€700k,FC Wil 1900,26,"Jun 1, 1983",RB Petrolspor München
+Left Winger,right,"Jan 30, 2008",Wayne Routledge,"1,70m",14066,"['England', 'Jamaica']",€1.25m,Tottenham Hotspur,24,"Jan 7, 1985",Retired
+Centre-Forward,right,"Jul 1, 2005",Gabriel Agbonlahor,"1,83m",37148,"['England', 'Nigeria']",€15.50m,: Ablöse -,22,"Oct 13, 1986",Retired
+Centre-Forward,right,"Jan 22, 2007",John Carew,"1,96m",3570,['Norway'],€10.00m,: Ablöse ?,29,"Sep 5, 1979",Retired
+Centre-Forward,right,"Jan 24, 2009",Emile Heskey,"1,88m",3142,"['England', 'Antigua and Barbuda']",€5.50m,Wigan Athletic,31,"Jan 11, 1978",Retired
+Centre-Forward,right,"Jul 17, 2007",Marlon Harewood,"1,85m",10011,"['England', 'Barbados']",€2.20m,: Ablöse €5.50m,29,"Aug 25, 1979",Retired
+Centre-Forward,right,"Jul 1, 2008",Nathan Delfouneso,"1,86m",62642,"['England', 'Nigeria']",€750k,: Ablöse -,18,"Feb 2, 1991",Without Club

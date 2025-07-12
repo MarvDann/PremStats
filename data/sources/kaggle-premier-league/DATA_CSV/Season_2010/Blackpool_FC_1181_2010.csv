@@ -1,0 +1,46 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2008",Matt Gilks,"1,85m",48254,"['Scotland', 'England']",€1.00m,: Ablöse free transfer,29,"Jun 4, 1982",Retired
+Goalkeeper,right,,"Sep 1, 2010",Richard Kingson,"1,83m",7125,"['Ghana', 'Türkiye']",€1.00m,Wigan Athletic,33,"Jun 13, 1978",Retired
+Goalkeeper,right,,"Jul 1, 2007",Paul Rachubka,"1,85m",4098,"['England', 'United States']",€500k,: Ablöse free transfer,30,"May 21, 1981",Retired
+Goalkeeper,right,,"Jul 1, 2009",Mark Halstead,"1,90m",99972,['England'],€50k,Blackpool FC U18,20,"Sep 17, 1990",Widnes FC
+Goalkeeper,,,"Jul 1, 2011",Chris Kettings,"1,93m",177953,['Scotland'],,Blackpool FC U18,18,"Oct 25, 1992",Retired
+Defender,,,,Josh Roberts,,162610,['England'],,,,,Unknown
+Centre-Back,right,,"Jul 1, 2006",Ian Evatt,"1,91m",37127,['England'],€2.50m,: Ablöse free transfer,29,"Nov 19, 1981",Retired
+Centre-Back,right,,"Aug 11, 2010",Craig Cathcart,"1,89m",59606,['Northern Ireland'],€2.00m,Manchester United Reserves,22,"Feb 6, 1989",Retired
+Centre-Back,right,,"Aug 13, 2010",Chris Basham,"1,90m",52495,['England'],€1.00m,: Ablöse €1.40m,22,"Jul 20, 1988",Retired
+Centre-Back,right,,"Jul 1, 2008",Rob Edwards,"1,85m",4068,['Wales'],€1.00m,Wolverhampton Wanderers,28,"Dec 25, 1982",Retired
+Centre-Back,left,,"Jul 29, 2010",Dekel Keinan,"1,85m",24476,['Israel'],€1.00m,: Ablöse free transfer,26,"Sep 15, 1984",Los Angeles Force
+Centre-Back,right,,"Jul 1, 2008",Alex Baptiste,"1,80m",16660,['England'],€500k,Mansfield Town,25,"Jan 31, 1986",Without Club
+Centre-Back,right,,"Jul 1, 2009",Ashley Eastham,"1,91m",118265,['England'],€25k,Blackpool FC U18,20,"Mar 22, 1991",Without Club
+Centre-Back,,,,Biko Bradnock-Brennan,"1,91m",150673,"['Ireland', 'England']",,,18,"Oct 4, 1992",Without Club
+Left-Back,left,,"Jul 10, 2007",Stephen Crainey,"1,75m",9499,['Scotland'],€1.50m,Leeds United,30,"Jun 22, 1981",Retired
+Left-Back,left,,"Jan 24, 2011",Salaheddine Sbaï,"1,78m",22352,"['Morocco', 'Belgium']",€200k,: Ablöse free transfer,25,"Aug 21, 1985",Without Club
+Left-Back,left,,"Jul 1, 2011",Adam Dodd,"1,87m",160851,['England'],,Blackpool FC U18,18,"May 14, 1993",Bamber Bridge FC
+Right-Back,right,,"Aug 7, 2009",Neal Eardley,"1,80m",49428,['Wales'],€1.00m,: Ablöse €425k,22,"Nov 6, 1988",Retired
+Right-Back,right,,"Jul 1, 1998",Danny Coid,"1,80m",37898,['England'],€250k,Blackpool FC U18,29,"Oct 3, 1981",Retired
+Defensive Midfield,left,,"Aug 4, 2008",David Vaughan,"1,71m",14178,['Wales'],€2.00m,Real Sociedad,28,"Feb 18, 1983",Retired
+Defensive Midfield,right,,"Aug 11, 2010",Malaury Martin,"1,80m",40875,['France'],€500k,: Ablöse free transfer,22,"Aug 25, 1988",Retired
+Midfielder,,,,Pa Modou Jobe,,171414,"['Belgium', 'The Gambia']",,,,,Retired
+Central Midfield,left,,"Aug 4, 2009",Charlie Adam,"1,85m",28990,['Scotland'],€4.50m,: Ablöse €590k,25,"Dec 10, 1985",Retired
+Central Midfield,right,,"Aug 1, 2010",Ludovic Sylvestre,"1,82m",43248,"['France', 'Guadeloupe']",€1.50m,FK Mlada Boleslav,27,"Feb 5, 1984",Retired
+Central Midfield,right,,"Jul 1, 2002",Keith Southern,"1,78m",44986,['England'],€1.00m,Everton FC Reserves,30,"Apr 24, 1981",Retired
+Central Midfield,left,,"Jan 31, 2011",Jason Puncheon,"1,73m",47995,"['England', 'Jamaica']",€450k,: Ablöse free transfer,25,"Jun 18, 1986",Kissos Kissonergas
+Central Midfield,right,,"Feb 1, 2010",Stephen Husband,"1,80m",60932,['Scotland'],€250k,Heart of Midlothian FC,20,"Oct 29, 1990",Retired
+Central Midfield,right,,"Jul 1, 2011",Liam Tomsett,"1,80m",174214,['England'],,Blackpool FC U18,18,"Oct 21, 1992",Without Club
+Right Midfield,right,,,Kingsley Francis-Reynolds,,140916,['England'],,,18,"Oct 28, 1992",Bethnal Green United FC
+Left Midfield,left,Groin injury - Return unknown,"Jan 31, 2011",Andy Reid,"1,70m",10008,['Ireland'],€5.00m,Sunderland AFC,28,"Jul 29, 1982",Retired
+Left Midfield,left,,"Sep 1, 2010",David Carney,"1,83m",10387,['Australia'],€1.00m,Twente Enschede FC,27,"Nov 30, 1983",Retired
+Attacking Midfield,right,,"Feb 6, 2014",Elliot Grandin,"1,80m",56785,"['France', 'DR Congo']",€2.00m,Crystal Palace,23,"Oct 17, 1987",Retired
+Left Winger,left,,"Jul 1, 2009",Ishmel Demontagnac,"1,78m",42188,"['England', 'Jamaica']",€250k,Without Club,23,"Jun 15, 1988",Retired
+Left Winger,right,Calf strain - Return unknown,"Jul 1, 2011",Tom Barkhuizen,"1,75m",160137,"['England', 'South Africa']",,Blackpool FC U18,17,"Jul 4, 1993",Derby County
+Right Winger,right,,"Jul 10, 2007",Gary Taylor-Fletcher,"1,83m",49101,['England'],€2.00m,: Ablöse €125k,30,"Jun 4, 1981",Retired
+Right Winger,right,,"Aug 31, 2010",Matt Phillips,"1,83m",77274,"['Scotland', 'England']",€1.50m,Wycombe Wanderers,20,"Mar 13, 1991",Oxford United
+Second Striker,left,,"Jul 1, 2009",Billy Clarke,"1,70m",33248,['Ireland'],€500k,Ipswich Town,23,"Dec 13, 1987",Retired
+Second Striker,,,"Jul 1, 2009",Jason Euell,"1,80m",3092,"['Jamaica', 'England']",€500k,Southampton FC,34,"Feb 6, 1977",Retired
+Centre-Forward,right,,"Jul 1, 2010",Luke Varney,"1,81m",14177,['England'],€3.00m,: Ablöse free transfer,28,"Sep 28, 1982",Retired
+Centre-Forward,left,,"Jan 31, 2011",Sergey Kornilenko,"1,86m",15881,"['Belarus', 'Russia']",€3.00m,: Ablöse €300k,28,"Jun 14, 1983",Retired
+Centre-Forward,right,,"Aug 1, 2010",DJ Campbell,"1,78m",37896,['England'],€2.50m,Leicester City,29,"Nov 12, 1981",Retired
+Centre-Forward,right,,"Aug 2, 2010",Marlon Harewood,"1,85m",10011,"['England', 'Barbados']",€2.00m,: Ablöse free transfer,31,"Aug 25, 1979",Retired
+Centre-Forward,right,,"Jan 31, 2011",James Beattie,"1,85m",3112,['England'],€2.00m,: Ablöse free transfer,33,"Feb 27, 1978",Retired
+Centre-Forward,right,,"Jan 30, 2009",Brett Ormerod,"1,80m",4113,['England'],€1.00m,: Ablöse free transfer,34,"Oct 18, 1976",Retired
+Centre-Forward,right,,"Jul 1, 2009",Louis Almond,"1,80m",123336,['England'],€50k,Blackpool FC U18,19,"Jan 5, 1992",Without Club

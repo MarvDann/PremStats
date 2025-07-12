@@ -1,0 +1,42 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 18, 2017",Joe Hart,"1,96m",40204,['England'],€10.00m,,Manchester City,31,"Apr 19, 1987",Retired
+Goalkeeper,right,,"Jul 1, 2013",Adrián,"1,90m",71271,['Spain'],€5.00m,,Real Betis Balompié,31,"Jan 3, 1987",Real Betis Balompié
+Goalkeeper,left,,"Jul 1, 2022",Nathan Trott,"1,88m",431422,"['England', 'Bermuda']",,"Returned after loan spell with Vejle Boldklub; date: Jun 30, 2024; fee: End of loan",West Ham United U21,19,"Nov 21, 1998",FC Copenhagen
+Centre-Back,left,,"Jul 10, 2015",Angelo Ogbonna,"1,91m",48002,"['Italy', 'Nigeria']",€9.00m,,: Ablöse €11.00m,30,"May 23, 1988",Watford FC
+Centre-Back,right,,"Aug 5, 2010",Winston Reid,"1,91m",37526,"['New Zealand', 'Denmark']",€7.00m,,FC Midtjylland,29,"Jul 3, 1988",Retired
+Centre-Back,right,Fitness - Return unknown,"Jul 1, 2015",Reece Oxford,"1,90m",314295,"['England', 'Jamaica']",€5.00m,,: Ablöse -,19,"Dec 16, 1998",FC Augsburg
+Centre-Back,right,,"Jan 20, 2017",José Fonte,"1,91m",33829,['Portugal'],€2.00m,,Southampton FC,34,"Dec 22, 1983",Casa Pia AC
+Centre-Back,right,,"Oct 1, 2014",Reece Burke,"1,89m",264220,['England'],€1.00m,,: Ablöse -,21,"Sep 2, 1996",Luton Town
+Centre-Back,right,,"Aug 1, 2012",James Collins,"1,88m",12691,['Wales'],€1.00m,,: Ablöse €3.20m,34,"Aug 23, 1983",Retired
+Centre-Back,right,,,Josh Pask,"1,87m",339789,['England'],€100k,,,20,"Nov 1, 1997",The New Saints
+Left-Back,left,,"Jul 3, 2014",Aaron Cresswell,"1,70m",92571,['England'],€12.00m,,Ipswich Town,28,"Dec 15, 1989",West Ham United
+Left-Back,left,,"Aug 8, 2016",Arthur Masuaku,"1,79m",181380,"['DR Congo', 'France']",€7.00m,,: Ablöse €7.10m,24,"Nov 7, 1993",Besiktas JK
+Left-Back,left,,"Feb 7, 2018",Patrice Evra,"1,74m",5285,"['France', 'Senegal']",€1.00m,,Without Club,37,"May 15, 1981",Retired
+Left-Back,,,,Vashon Neufville,"1,72m",332338,['England'],,,,18,"Jul 18, 1999",Without Club
+Right-Back,right,,"Jul 1, 2017",Pablo Zabaleta,"1,76m",20007,"['Argentina', 'Spain']",€5.00m,,Manchester City,33,"Jan 16, 1985",Retired
+Right-Back,right,,"Jan 20, 2016",Sam Byram,"1,83m",236953,['England'],€4.00m,,Leeds United,24,"Sep 16, 1993",Leeds United
+Right-Back,right,,"Jul 1, 2020",Ben Johnson,"1,84m",468002,['England'],,,West Ham United U21,18,"Jan 24, 2000",Ipswich Town
+Defensive Midfield,right,,"Jul 1, 2014",Cheikhou Kouyaté,"1,89m",66934,"['Senegal', 'Belgium']",€12.00m,,: Ablöse €7.50m,28,"Dec 21, 1989",Without Club
+Defensive Midfield,right,,"Jul 1, 2017",Declan Rice,"1,88m",357662,"['England', 'Ireland']",€10.00m,,West Ham United U21,19,"Jan 14, 1999",Arsenal FC
+Defensive Midfield,right,,"Aug 25, 2016",Edimilson Fernandes,"1,87m",247555,"['Switzerland', 'Portugal']",€5.00m,,: Ablöse €6.40m,22,"Apr 15, 1996",Stade Brestois 29
+Defensive Midfield,right,,"Jul 1, 2015",Josh Cullen,"1,75m",242606,"['Ireland', 'England']",€1.00m,,: Ablöse -,22,"Apr 7, 1996",Burnley FC
+Central Midfield,right,,"Jan 26, 2018",João Mário,"1,79m",149729,"['Portugal', 'Angola']",€25.00m,,: Ablöse €1.20m,25,"Jan 19, 1993",Besiktas JK
+Central Midfield,right,,"Jul 1, 2015",Pedro Obiang,"1,86m",101213,"['Equatorial Guinea', 'Spain']",€8.00m,,UC Sampdoria,26,"Mar 27, 1992",US Sassuolo
+Central Midfield,right,,"Jan 1, 2005",Mark Noble,"1,80m",31835,"['England', 'Ireland']",€7.00m,,: Ablöse -,31,"May 8, 1987",Retired
+Central Midfield,left,,"Jul 1, 2014",Moses Makasi,"1,80m",242644,"['England', 'DR Congo']",,,: Ablöse -,22,"Sep 22, 1995",Without Club
+Central Midfield,right,,,Domingos Quina,"1,73m",391719,"['Portugal', 'Guinea-Bissau']",,,,18,"Nov 18, 1999",Pafos FC
+Attacking Midfield,right,,"Jul 1, 2016",Manuel Lanzini,"1,70m",135853,"['Argentina', 'Italy']",€20.00m,,Al-Jazira Club,25,"Feb 15, 1993",CA River Plate
+Attacking Midfield,right,,,Marcus Browne,"1,78m",391470,['England'],€250k,,,20,"Dec 18, 1997",Without Club
+Left Winger,left,,"Aug 8, 2016",André Ayew,"1,75m",45403,"['Ghana', 'France']",€15.00m,,: Ablöse €24.10m,28,"Dec 17, 1989",Le Havre AC
+Left Winger,right,"Groin problems - Return expected on Dec 31, 2024","Aug 7, 2017",Sead Haksabanovic,"1,74m",349300,"['Montenegro', 'Sweden']",€1.50m,,Halmstads BK,19,"May 4, 1999",Malmö FF
+Left Winger,right,,,Martin Samuelsen,"1,89m",234807,['Norway'],€250k,,,21,"Apr 17, 1997",FK Haugesund
+Left Winger,right,,,Nathan Holland,"1,76m",337321,"['England', 'Barbados']",,,,20,"Jun 19, 1998",Without Club
+Right Winger,left,,"Jan 27, 2017",Robert Snodgrass,"1,82m",22614,['Scotland'],€7.00m,,: Ablöse €12.00m,30,"Sep 7, 1987",Retired
+Right Winger,left,,"Jul 1, 2018",Grady Diangana,"1,80m",342048,"['DR Congo', 'England']",,,West Ham United U21,20,"Apr 19, 1998",West Bromwich Albion
+Centre-Forward,both,,"Jul 22, 2017",Marko Arnautovic,"1,90m",41384,"['Austria', 'Serbia']",€25.00m,,Stoke City,29,"Apr 19, 1989",Inter Milan
+Centre-Forward,right,,"Jul 24, 2017",Chicharito,"1,75m",50935,['Mexico'],€15.00m,,Bayer 04 Leverkusen,30,"Jun 1, 1988",Deportivo Guadalajara
+Centre-Forward,right,,"Sep 1, 2015",Michail Antonio,"1,80m",104124,"['Jamaica', 'England']",€15.00m,,: Ablöse €9.50m,28,"Mar 28, 1990",West Ham United
+Centre-Forward,left,,"Jul 1, 2013",Andy Carroll,"1,94m",48066,['England'],€10.00m,,: Ablöse €17.50m,29,"Jan 6, 1989",FC Girondins Bordeaux
+Centre-Forward,right,,"Jan 31, 2018",Jordan Hugill,"1,83m",291544,['England'],€8.00m,,Preston North End,26,"Jun 4, 1992",Rotherham United
+Centre-Forward,right,,"Aug 14, 2014",Diafra Sakho,"1,83m",120610,"['Senegal', 'France']",€5.00m,,: Ablöse €5.00m,28,"Dec 24, 1989",Retired
+Centre-Forward,right,,,Toni Martínez,"1,87m",302371,['Spain'],€1.50m,,,21,"Jun 30, 1997",Deportivo Alavés

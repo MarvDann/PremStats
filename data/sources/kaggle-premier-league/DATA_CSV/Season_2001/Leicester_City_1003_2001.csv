@@ -1,0 +1,38 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jul 30, 1999",Tim Flowers,"1,90m",4249,['England'],Blackburn Rovers,35,"Feb 3, 1967",Retired
+Goalkeeper,right,"Jul 1, 2000",Simon Royce,"1,88m",5162,['England'],Charlton Athletic,30,"Sep 9, 1971",Retired
+Goalkeeper,right,"Jul 1, 2001",Ian Walker,"1,85m",4137,['England'],: Ablöse €3.75m,30,"Oct 31, 1971",Retired
+Goalkeeper,,"Aug 1, 2001",Michael Price,,277347,['England'],Leicester City U18,19,"Mar 4, 1983",Retired
+Goalkeeper,,"Jul 1, 1997",Ian Andrews,"1,88m",195510,['England'],: Ablöse free transfer,37,"Dec 1, 1964",Retired
+Centre-Back,right,"Jul 1, 1998",Gerry Taggart,"1,88m",4264,['Northern Ireland'],: Ablöse free transfer,31,"Oct 18, 1970",Retired
+Centre-Back,right,"Jul 1, 2000",Gary Rowett,"1,85m",4102,['England'],: Ablöse €4.50m,28,"Mar 6, 1974",Retired
+Centre-Back,left,"Aug 13, 1998",Frank Sinclair,"1,78m",8056,"['Jamaica', 'England']",: Ablöse €3.00m,30,"Dec 3, 1971",Retired
+Centre-Back,left,"Nov 1, 2000",Damien Delaney,"1,90m",36861,['Ireland'],Cork City FC,20,"Jul 20, 1981",Retired
+Centre-Back,,"Jan 1, 1997",Matt Elliott,,107793,"['Scotland', 'England']",: Ablöse €2.40m,33,"Nov 1, 1968",Retired
+Centre-Back,right,"Jan 11, 2002",Jacob Laursen,"1,83m",4253,['Denmark'],: Ablöse €600k,30,"Oct 6, 1971",Retired
+Centre-Back,right,"Jul 1, 2000",Matt Heath,"1,93m",9214,['England'],Leicester City U18,20,"Nov 1, 1981",Retired
+Centre-Back,left,"Jul 1, 2000",Jon Ashton,"1,88m",4261,['England'],Leicester City U18,19,"Oct 4, 1982",Retired
+Left-Back,left,"Nov 16, 2001",Alan Rogers,"1,78m",4263,['England'],: Ablöse €450k,25,"Jan 3, 1977",Retired
+Left-Back,left,"Jul 1, 2000",Callum Davidson,"1,78m",4251,['Scotland'],Blackburn Rovers,26,"Jun 25, 1976",Retired
+Left-Back,left,"Jan 1, 2000",Jordan Stewart,"1,83m",9217,['England'],Leicester City U18,20,"Mar 3, 1982",Retired
+Right-Back,right,"Jan 1, 1999",Andy Impey,"1,73m",4250,['England'],: Ablöse €3.10m,30,"Sep 30, 1971",Retired
+Defensive Midfield,both,"Jul 1, 1997",Robbie Savage,"1,83m",3797,['Wales'],Crewe Alexandra,27,"Oct 18, 1974",Retired
+Defensive Midfield,right,"Jul 1, 2001",Dennis Wise,"1,68m",4006,['England'],: Ablöse €3.50m,35,"Dec 16, 1966",Retired
+Midfielder,,"Jul 1, 2001",Martin Reeves,"1,83m",10425,['England'],Leicester City U18,20,"Sep 7, 1981",Retired
+Central Midfield,right,"Jul 1, 1996",Muzzy Izzet,"1,77m",3123,"['Türkiye', 'England']",: Ablöse €1.20m,27,"Oct 31, 1974",Retired
+Central Midfield,right,"Jul 1, 2001",Matt Jones,"1,80m",4252,['Wales'],: Ablöse €4.50m,21,"Sep 1, 1980",Retired
+Central Midfield,right,"Jul 1, 1998",Stefan Oakes,"1,80m",10418,['England'],Leicester City U18,23,"Sep 6, 1978",Retired
+Central Midfield,,"Mar 21, 2001",Lee Marshall,"1,83m",3671,['England'],: Ablöse €700k,23,"Jan 21, 1979",Retired
+Central Midfield,right,,Tommy Williamson,"1,75m",9219,['England'],,17,"Dec 24, 1984",Unknown
+Right Midfield,right,"Jul 1, 2000",Matt Piper,"1,85m",4134,['England'],Leicester City U18,20,"Sep 29, 1981",Retired
+Left Midfield,left,"Jan 1, 2000",Darren Eadie,"1,74m",4256,['England'],: Ablöse €4.50m,27,"Jun 10, 1975",Retired
+Left Midfield,left,"Jan 1, 2001",Junior Lewis,"1,88m",9215,['England'],Gillingham FC,28,"Oct 9, 1973",Retired
+Left Winger,left,"Jul 1, 2000",Trevor Benjamin,"1,88m",9206,"['Jamaica', 'England']",Cambridge United,23,"Feb 8, 1979",Retired
+Right Winger,right,"Jul 30, 2001",James Scowcroft,"1,85m",4265,['England'],Ipswich Town,26,"Nov 15, 1975",Retired
+Right Winger,right,"Jan 1, 1999",Arnar Gunnlaugsson,"1,78m",17955,['Iceland'],: Ablöse €2.80m,29,"Mar 6, 1973",Retired
+Centre-Forward,right,"Jan 19, 2001",Dean Sturridge,"1,73m",4230,['England'],: Ablöse €530k,28,"Jul 26, 1973",Retired
+Centre-Forward,right,"Jul 27, 2000",Ade Akinbiyi,"1,85m",4037,"['Nigeria', 'England']",: Ablöse ?,27,"Oct 10, 1974",Retired
+Centre-Forward,,"Aug 1, 2008",Paul Dickov,,9221,['Scotland'],: Ablöse free transfer,29,"Nov 1, 1972",Retired
+Centre-Forward,,"Nov 29, 2001",Brian Deane,,8058,"['England', 'St. Kitts & Nevis']",: Ablöse €250k,34,"Feb 7, 1968",Retired
+Centre-Forward,right,"Jan 1, 2002",Jon Stevenson,"1,68m",10435,['England'],Leicester City Reserves,19,"Oct 13, 1982",Unknown
+Centre-Forward,right,"Jul 1, 2001",Tommy Wright,"1,83m",8057,['England'],Leicester City U18,17,"Sep 28, 1984",Retired

@@ -1,0 +1,28 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 1999",Dejan Milosevic,"1,89m",3770,"['Australia', 'Serbia']",: Ablöse €175k,24,"Jun 26, 1978",Retired
+Goalkeeper,right,"Jul 1, 1996",Nigel Martyn,"1,88m",3629,['England'],: Ablöse €3.35m,35,"Aug 11, 1966",Retired
+Goalkeeper,right,"Jul 1, 1998",Paul Robinson,"1,93m",3630,['England'],Leeds United U18,22,"Oct 15, 1979",Retired
+Centre-Back,right,"Jul 1, 1994",Lucas Radebe,"1,86m",3088,['South Africa'],Kaizer Chiefs,33,"Apr 12, 1969",Retired
+Centre-Back,right,"Jul 1, 1998",Jonathan Woodgate,"1,88m",3224,['England'],Leeds United U18,22,"Jan 22, 1980",Retired
+Centre-Back,both,"Jul 9, 1999",Michael Duberry,"1,85m",3633,"['England', 'Montserrat']",: Ablöse €6.75m,26,"Oct 14, 1975",Retired
+Centre-Back,right,"Nov 26, 2000",Rio Ferdinand,"1,89m",3235,['England'],: Ablöse €26.00m,23,"Nov 7, 1978",Retired
+Left-Back,left,"Jul 1, 1995",Ian Harte,"1,75m",3634,['Ireland'],Leeds United U18,24,"Aug 31, 1977",Retired
+Left-Back,left,"Aug 18, 2000",Dominic Matteo,"1,86m",3765,"['Scotland', 'England']",: Ablöse €7.13m,28,"Apr 28, 1974",Retired
+Right-Back,right,"Jul 1, 1991",Gary Kelly,"1,73m",3631,['Ireland'],Leeds United U18,27,"Jul 9, 1974",Retired
+Right-Back,right,"Jul 1, 1999",Danny Mills,"1,80m",3743,['England'],Charlton Athletic,25,"May 18, 1977",Retired
+Right-Back,right,"Jul 1, 1995",Alan Maybury,"1,80m",12597,['Ireland'],Leeds United U18,23,"Aug 8, 1978",Retired
+Right-Back,right,"Jul 1, 2001",Frazer Richardson,"1,80m",4094,['England'],Leeds United U18,19,"Oct 29, 1982",Retired
+Defensive Midfield,both,"Jul 1, 2000",Olivier Dacourt,"1,75m",3572,"['France', 'Guadeloupe']",: Ablöse €10.50m,27,"Sep 25, 1974",Retired
+Defensive Midfield,right,"Jan 1, 1999",David Batty,"1,70m",3295,['England'],Newcastle United,33,"Dec 2, 1968",Retired
+Defensive Midfield,left,"Jul 1, 2000",Jacob Burns,"1,78m",4096,['Australia'],Parramatta Power,24,"Apr 21, 1978",Retired
+Central Midfield,right,"Jul 1, 1996",Lee Bowyer,"1,75m",3877,['England'],Charlton Athletic,25,"Jan 3, 1977",Retired
+Central Midfield,,"Jul 1, 1998",Alan Smith,,3768,['England'],Leeds United U18,21,"Oct 28, 1980",Retired
+Central Midfield,right,"Jul 1, 1999",Eirik Bakke,"1,88m",3284,['Norway'],Sogndal IL,24,"Sep 13, 1977",Retired
+Central Midfield,left,"Oct 1, 2001",Seth Johnson,"1,79m",3635,['England'],: Ablöse €11.50m,23,"Mar 12, 1979",Retired
+Central Midfield,right,"Jul 1, 2000",Jamie McMaster,"1,78m",3766,"['Australia', 'England']",New South Wales Institute of Sport,19,"Nov 29, 1982",Retired
+Left Midfield,left,"Jul 1, 1997",Stephen McPhail,"1,77m",3764,"['Ireland', 'England']",Leeds United U18,22,"Dec 9, 1979",Retired
+Left Midfield,left,"Jan 1, 2000",Jason Wilcox,"1,80m",3320,['England'],Blackburn Rovers,30,"Jul 15, 1971",Retired
+Left Winger,left,"Dec 23, 1995",Harry Kewell,"1,80m",3241,"['Australia', 'England']",Marconi Stallions FC,23,"Sep 22, 1978",Retired
+Centre-Forward,left,"Dec 1, 2001",Robbie Fowler,"1,80m",3225,['England'],: Ablöse €16.80m,27,"Apr 9, 1975",Retired
+Centre-Forward,right,"Jul 1, 2001",Robbie Keane,"1,75m",3144,['Ireland'],: Ablöse €18.00m,21,"Jul 8, 1980",Retired
+Centre-Forward,both,"Jul 1, 2000",Mark Viduka,"1,88m",3242,"['Australia', 'Croatia']",Celtic FC,26,"Oct 9, 1975",Retired

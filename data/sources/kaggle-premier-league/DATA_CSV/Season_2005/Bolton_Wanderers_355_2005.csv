@@ -1,0 +1,33 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Nov 1, 1997",Jussi Jääskeläinen,"1,91m",3692,['Finland'],€5.25m,: Ablöse €150k,31,"Apr 19, 1975",Retired
+Goalkeeper,right,"Jul 1, 2005",Ian Walker,"1,85m",4137,['England'],€1.75m,: Ablöse free transfer,34,"Oct 31, 1971",Retired
+Goalkeeper,right,"Jul 1, 2006",Ali Al-Habsi,"1,94m",26633,['Oman'],€400k,Bolton Wanderers U23,24,"Dec 30, 1981",Retired
+Goalkeeper,,"Jul 1, 2004",Chris Howarth,"1,86m",34659,['England'],€125k,Bolton Wanderers U18,20,"May 23, 1986",Unknown
+Goalkeeper,,,Sam Ashton,"1,80m",94599,['England'],,,19,"Oct 9, 1986",Bury FC
+Centre-Back,right,"Aug 31, 2001",Bruno N'Gotty,"1,85m",3964,"['France', 'Cameroon']",€2.40m,: Ablöse €750k,35,"Jun 10, 1971",Retired
+Centre-Back,right,"Jul 1, 2006",Abdoulaye Faye,"1,87m",6107,"['Senegal', 'France']",€2.40m,: Ablöse €3.00m,28,"Feb 26, 1978",Retired
+Centre-Back,right,"Jul 29, 2004",Tal Ben Haim,"1,83m",20714,['Israel'],€2.25m,: Ablöse €225k,24,"Mar 31, 1982",Retired
+Centre-Back,both,"Jul 1, 2004",Radhi Jaïdi,"1,92m",19310,"['Tunisia', 'England']",€2.00m,: Ablöse free transfer,30,"Aug 30, 1975",Retired
+Centre-Back,right,"Oct 26, 2005",Martin Djetou,"1,80m",3725,"['France', ""Cote d'Ivoire""]",€1.00m,Without Club,31,"Dec 15, 1974",Retired
+Centre-Back,right,"Jul 1, 2004",Jaroslaw Fojut,"1,88m",34652,['Poland'],€175k,MSP Szamotuly,18,"Oct 17, 1987",Retired
+Left-Back,,"Jul 1, 1998",Ricardo Gardner,,6264,['Jamaica'],€2.00m,Harbour View FC,27,"Sep 25, 1978",Retired
+Right-Back,right,"Jul 1, 2005",Joey O'Brien,"1,80m",34672,['Ireland'],€1.50m,Bolton Wanderers U18,20,"Feb 17, 1986",Retired
+Right-Back,right,"Aug 1, 2003",Nicky Hunt,"1,91m",16835,['England'],€1.00m,Bolton Wanderers U23,22,"Sep 3, 1983",Retired
+Right-Back,right,"Jul 1, 2006",James Sinclair,"1,80m",50350,"['England', 'Northern Ireland']",,Bolton Wanderers U18,18,"Oct 22, 1987",Retired
+Defensive Midfield,right,"Jul 1, 2003",Iván Campo,"1,85m",3274,['Spain'],€2.00m,Real Madrid,32,"Feb 21, 1974",Retired
+Central Midfield,,"Jul 1, 2004",Gary Speed,,3459,['Wales'],€950k,Newcastle United,36,"Sep 8, 1969",---
+Central Midfield,,,Robert Sissons,,52500,['England'],,,17,"Sep 29, 1988",Retired
+Attacking Midfield,right,"Jul 1, 1999",Kevin Nolan,"1,83m",3950,['England'],€6.00m,Bolton Wanderers U18,24,"Jun 24, 1982",Retired
+Attacking Midfield,,"Jul 1, 2002",Jay-Jay Okocha,,3708,"['Nigeria', 'Türkiye']",€4.25m,: Ablöse free transfer,32,"Aug 14, 1973",Retired
+Attacking Midfield,right,"Jul 1, 2005",Hidetoshi Nakata,"1,75m",5875,['Japan'],€3.50m,: Ablöse ?,29,"Jan 22, 1977",Retired
+Attacking Midfield,left,,El Hadji Diouf,"1,84m",54432,['Senegal'],,,18,"Jun 20, 1988",Without Club
+Left Winger,left,"Jan 1, 2005",Khalilou Fadiga,"1,83m",3887,"['Senegal', 'Belgium']",€1.85m,Without Club,31,"Dec 30, 1974",Retired
+Left Winger,left,"Aug 1, 2005",Fabrice Fernandes,"1,75m",4116,['France'],€1.80m,Southampton FC,26,"Oct 29, 1979",Retired
+Right Winger,right,"Jul 1, 2003",Stelios Giannakopoulos,"1,72m",4254,['Greece'],€4.00m,: Ablöse free transfer,31,"Jul 12, 1974",Retired
+Right Winger,right,"Jul 1, 2004",Ricardo Vaz Tê,"1,88m",9413,"['Portugal', 'Guinea-Bissau']",€1.00m,Bolton Wanderers U18,19,"Oct 1, 1986",Retired
+Centre-Forward,right,"Jul 1, 2005",El-Hadji Diouf,"1,80m",3604,"['Senegal', 'France']",€5.50m,: Ablöse €4.80m,25,"Jan 15, 1981",Retired
+Centre-Forward,right,"Jul 23, 2003",Kevin Davies,"1,83m",4114,['England'],€3.00m,Southampton FC,29,"Mar 26, 1977",Retired
+Centre-Forward,,"Jul 1, 2005",Jared Borgetti,"1,85m",29573,"['Mexico', 'Italy']",€2.50m,: Ablöse €1.40m,32,"Aug 14, 1973",Retired
+Centre-Forward,right,"Jul 1, 2001",Henrik Pedersen,"1,85m",3947,['Denmark'],€1.70m,Silkeborg IF,31,"Jun 10, 1975",Retired
+Centre-Forward,right,"Jan 1, 2006",Matt Jansen,"1,80m",10502,['England'],€1.50m,Blackburn Rovers,28,"Oct 20, 1977",Retired
+Centre-Forward,,"Jul 1, 2005",Bédi Buval,,39932,"['Martinique', 'France']",€50k,Bolton Wanderers U18,20,"Jun 16, 1986",Retired

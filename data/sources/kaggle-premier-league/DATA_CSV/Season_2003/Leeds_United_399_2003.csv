@@ -1,0 +1,38 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 1998",Paul Robinson,"1,93m",3630,['England'],Leeds United U18,24,"Oct 15, 1979",Retired
+Goalkeeper,right,"Jul 1, 1996",Nigel Martyn,"1,88m",3629,['England'],: Ablöse €3.35m,37,"Aug 11, 1966",Retired
+Goalkeeper,right,"Jul 1, 2003",Scott Carson,"1,88m",14555,['England'],Leeds United U18,18,"Sep 3, 1985",Manchester City
+Goalkeeper,right,"Mar 1, 2000",Shaun Allaway,"1,88m",3203,['England'],Reading FC,21,"Feb 16, 1983",Retired
+Centre-Back,right,"Jul 1, 1994",Lucas Radebe,"1,86m",3088,['South Africa'],Kaizer Chiefs,35,"Apr 12, 1969",Retired
+Centre-Back,right,"Jul 1, 2003",Zoumana Camara,"1,82m",5474,"['France', 'Senegal']",: Ablöse ?,25,"Apr 3, 1979",Retired
+Centre-Back,both,"Aug 30, 2003",Roque Júnior,"1,86m",5807,['Brazil'],AC Milan,27,"Aug 31, 1976",Retired
+Centre-Back,right,"Feb 1, 2004",Steven Caldwell,"1,83m",3462,['Scotland'],Newcastle United,23,"Sep 12, 1980",Retired
+Centre-Back,both,"Jul 9, 1999",Michael Duberry,"1,85m",3633,"['England', 'Montserrat']",: Ablöse €6.75m,28,"Oct 14, 1975",Retired
+Centre-Back,,"Jul 1, 2002",Matthew Kilgallon,"1,85m",4095,['England'],Leeds United U18,20,"Jan 8, 1984",Retired
+Left-Back,left,"Jul 1, 1995",Ian Harte,"1,75m",3634,['Ireland'],Leeds United U18,26,"Aug 31, 1977",Retired
+Left-Back,left,"Aug 18, 2000",Dominic Matteo,"1,86m",3765,"['Scotland', 'England']",: Ablöse €7.13m,30,"Apr 28, 1974",Retired
+Left-Back,left,"Aug 1, 2003",Didier Domi,"1,79m",3965,"['France', 'Martinique']",: Ablöse ?,26,"May 2, 1978",Retired
+Right-Back,right,"Jul 1, 1991",Gary Kelly,"1,73m",3631,['Ireland'],Leeds United U18,29,"Jul 9, 1974",Retired
+Right-Back,right,"Jul 1, 2001",Frazer Richardson,"1,80m",4094,['England'],Leeds United U18,21,"Oct 29, 1982",Retired
+Defensive Midfield,right,"Jan 1, 1999",David Batty,"1,70m",3295,['England'],Newcastle United,35,"Dec 2, 1968",Retired
+Central Midfield,right,"Jul 1, 2003",Jody Morris,"1,65m",3171,['England'],: Ablöse free transfer,25,"Dec 22, 1978",Retired
+Central Midfield,,"Jul 1, 1998",Alan Smith,,3768,['England'],Leeds United U18,23,"Oct 28, 1980",Retired
+Central Midfield,right,"Jul 1, 1999",Eirik Bakke,"1,88m",3284,['Norway'],Sogndal IL,26,"Sep 13, 1977",Retired
+Central Midfield,left,"Oct 1, 2001",Seth Johnson,"1,79m",3635,['England'],: Ablöse €11.50m,25,"Mar 12, 1979",Retired
+Central Midfield,right,"Jul 1, 2000",Jamie McMaster,"1,78m",3766,"['Australia', 'England']",New South Wales Institute of Sport,21,"Nov 29, 1982",Retired
+Central Midfield,right,"Jan 1, 2003",Paul Keegan,"1,80m",8068,['Ireland'],Home Farm,19,"Jul 5, 1984",Retired
+Central Midfield,right,"Jul 1, 2002",James Milner,"1,75m",3333,['England'],Leeds United U18,18,"Jan 4, 1986",Brighton & Hove Albion
+Central Midfield,right,"Jul 1, 2004",Jamie Winter,"1,78m",28977,['Scotland'],Leeds United U18,18,"Aug 4, 1985",Carnoustie Panmure JFC
+Left Midfield,,"Aug 9, 2002",Nick Barmby,,3222,['England'],: Ablöse €4.50m,30,"Feb 11, 1974",Retired
+Left Midfield,left,"Jul 1, 1997",Stephen McPhail,"1,77m",3764,"['Ireland', 'England']",Leeds United U18,24,"Dec 9, 1979",Retired
+Left Midfield,left,"Jan 1, 2000",Jason Wilcox,"1,80m",3320,['England'],Blackburn Rovers,32,"Jul 15, 1971",Retired
+Left Midfield,left,"Aug 31, 2003",Salomon Olembé,"1,71m",5326,"['Cameroon', 'France']",: Ablöse free transfer,23,"Dec 8, 1980",Retired
+Left Midfield,left,"Jul 1, 2000",Harpal Singh,"1,70m",3769,"['India', 'England']",Leeds United U18,22,"Sep 15, 1981",Retired
+Left Winger,left,"Aug 12, 2003",Lamine Sakho,"1,78m",8318,"['Senegal', 'France']",: Ablöse ?,26,"Sep 28, 1977",Retired
+Right Winger,right,"Aug 20, 2003",Jermaine Pennant,"1,73m",3195,"['England', 'Jamaica']",: Ablöse free transfer,21,"Jan 15, 1983",Retired
+Right Winger,right,"Jul 1, 2003",Aaron Lennon,"1,65m",14221,"['England', 'Ireland']",Leeds United U18,17,"Apr 16, 1987",Retired
+Centre-Forward,right,"Aug 1, 2011",Andy Keogh,"1,83m",29419,"['Ireland', 'Australia']",Wolverhampton Wanderers,18,"May 16, 1986",Dianella White Eagles SC
+Centre-Forward,right,"Jul 1, 1999",Michael Bridges,"1,85m",3767,['England'],Sunderland AFC,25,"Aug 5, 1978",Retired
+Centre-Forward,both,"Jul 1, 2000",Mark Viduka,"1,88m",3242,"['Australia', 'Croatia']",Celtic FC,28,"Oct 9, 1975",Retired
+Centre-Forward,left,"Aug 31, 2003",Cyril Chapuis,"1,82m",5329,['France'],: Ablöse free transfer,25,"Mar 21, 1979",Retired
+Centre-Forward,right,"Jul 7, 2000",Simon Johnson,"1,75m",4093,['England'],Leeds United U18,21,"Mar 9, 1983",Retired

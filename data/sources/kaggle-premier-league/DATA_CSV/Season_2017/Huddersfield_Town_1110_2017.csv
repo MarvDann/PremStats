@@ -1,0 +1,36 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jan 31, 2020",Jonas Lössl,"1,95m",48870,['Denmark'],€5.00m,Everton FC,29,"Feb 1, 1989",FC Midtjylland
+Goalkeeper,right,,"Jul 1, 2016",Joel Coleman,"1,98m",285551,['England'],€500k,: Ablöse ?,22,"Sep 26, 1995",Bolton Wanderers
+Goalkeeper,right,,"Aug 27, 2017",Rob Green,"1,91m",11680,['England'],€250k,Leeds United,38,"Jan 18, 1980",Retired
+Goalkeeper,right,,"Jul 1, 2019",Ryan Schofield,"1,90m",495441,['England'],€100k,Huddersfield Town U23,18,"Dec 11, 1999",Floreat Athena
+Centre-Back,left,,"Jul 1, 2018",Terence Kongolo,"1,88m",152651,"['Netherlands', 'DR Congo']",€10.00m,: Ablöse €20.00m,24,"Feb 14, 1994",NAC Breda
+Centre-Back,right,Hamstring injury - Return unknown,"Jul 1, 2016",Christopher Schindler,"1,88m",57842,['Germany'],€6.00m,TSV 1860 Munich,28,"Apr 29, 1990",Without Club
+Centre-Back,right,,"Jul 7, 2017",Zanka,"1,89m",52059,['Denmark'],€5.00m,: Ablöse €2.70m,28,"Apr 23, 1990",RSC Anderlecht
+Centre-Back,right,,"Jul 1, 2016",Michael Hefele,"1,92m",102382,['Germany'],€1.50m,SG Dynamo Dresden,27,"Sep 1, 1990",Retired
+Centre-Back,right,,"Jul 22, 2015",Martin Cranie,"1,83m",27659,"['England', 'Scotland']",€500k,Barnsley FC,31,"Sep 26, 1986",Retired
+Left-Back,left,,"Jul 5, 2017",Scott Malone,"1,89m",101682,['England'],€3.00m,Fulham FC,27,"Mar 25, 1991",Without Club
+Left-Back,left,,"Jul 1, 2016",Chris Löwe,"1,73m",55125,['Germany'],€1.50m,1.FC Kaiserslautern,29,"Apr 16, 1989",Retired
+Left-Back,left,,"Aug 24, 2016",Tareiq Holmes-Dennis,"1,75m",261739,"['England', 'Jamaica']",€250k,Charlton Athletic,22,"Oct 31, 1995",Retired
+Right-Back,right,,"Jul 1, 2018",Florent Hadergjonaj,"1,82m",238809,"['Kosovo', 'Switzerland']",€5.00m,FC Ingolstadt 04,23,"Jul 31, 1994",Alanyaspor
+Right-Back,right,,"Sep 4, 2012",Tommy Smith,"1,85m",121398,['England'],€3.00m,FC Helsby,26,"Apr 14, 1992",Middlesbrough FC
+Right-Back,right,,,Jordan Williams,"1,79m",346468,['England'],€100k,,18,"Oct 22, 1999",Portsmouth FC
+Defensive Midfield,right,Team captain,"Jul 29, 2013",Jonathan Hogg,"1,76m",61573,['England'],€3.50m,Watford FC,29,"Dec 6, 1988",Huddersfield Town
+Defensive Midfield,,,"Jul 4, 2017",Danny Williams,,38383,"['United States', 'Germany']",€2.00m,Reading FC,29,"Mar 8, 1989",Retired
+Defensive Midfield,right,Forearm fracture - Return unknown,"Jul 8, 2016",Jon Gorenc Stankovic,"1,90m",245034,['Slovenia'],€500k,Borussia Dortmund II,22,"Jan 14, 1996",SK Sturm Graz
+Central Midfield,right,,"Jul 1, 2017",Aaron Mooy,"1,74m",123951,"['Australia', 'Netherlands']",€10.00m,Manchester City,27,"Sep 15, 1990",Retired
+Central Midfield,left,,"Jul 1, 2015",Philip Billing,"1,93m",320411,"['Denmark', 'Nigeria']",€2.50m,Huddersfield Town U18,22,"Jun 11, 1996",AFC Bournemouth
+Central Midfield,right,,"Jul 1, 2015",Dean Whitehead,"1,83m",13683,['England'],€250k,Middlesbrough FC,36,"Jan 12, 1982",Retired
+Central Midfield,left,,"Jul 1, 2019",Lewis O'Brien,"1,73m",560694,['England'],,Huddersfield Town U23,19,"Oct 14, 1998",Los Angeles FC
+Attacking Midfield,right,Torn thigh muscle - Return unknown,"Jan 12, 2018",Alex Pritchard,"1,68m",200777,['England'],€10.00m,: Ablöse €12.35m,25,"May 3, 1993",Sivasspor
+Attacking Midfield,right,,"Jul 4, 2017",Kasey Palmer,"1,82m",258216,"['Jamaica', 'England']",€1.50m,Chelsea FC U23,21,"Nov 9, 1996",Hull City
+Attacking Midfield,right,,"Aug 23, 2017",Abdelhamid Sabiri,"1,86m",340394,"['Morocco', 'Germany']",€1.00m,1.FC Nuremberg,21,"Nov 28, 1996",Ajman Club
+Attacking Midfield,left,,"Jul 1, 2016",Jack Payne,"1,65m",278092,['England'],€350k,Southend United,23,"Oct 25, 1994",Colchester United
+Left Winger,right,,"Jul 1, 2016",Rajiv van La Parra,"1,81m",77001,"['Netherlands', 'Suriname']",€4.00m,Wolverhampton Wanderers,27,"Jun 4, 1991",Without Club
+Right Winger,left,,"Jul 4, 2017",Tom Ince,"1,78m",157368,"['England', 'Barbados']",€8.00m,Derby County,26,"Jan 30, 1992",Watford FC
+Right Winger,left,,"Jan 15, 2014",Joe Lolley,"1,79m",287167,['England'],€500k,Kidderminster Harriers,25,"Aug 25, 1992",Sydney FC
+Right Winger,right,,"Jul 1, 2012",Sean Scannell,"1,76m",61549,"['Ireland', 'England']",€500k,: Ablöse €1.12m,27,"Sep 17, 1990",Hornchurch FC
+Centre-Forward,right,,"Jul 5, 2017",Steve Mounié,"1,89m",238639,"['Benin', 'France']",€10.00m,: Ablöse €13.00m,23,"Sep 29, 1994",FC Augsburg
+Centre-Forward,right,,"Jul 1, 2017",Laurent Depoitre,"1,91m",90583,['Belgium'],€4.50m,FC Porto,29,"Dec 7, 1988",Without Club
+Centre-Forward,right,,"Jul 1, 2017",Elias Kachunga,"1,78m",49501,"['DR Congo', 'Germany']",€3.50m,FC Ingolstadt 04,26,"Apr 22, 1992",Cambridge United
+Centre-Forward,right,,"Jan 20, 2017",Collin Quaner,"1,91m",123397,"['Germany', 'Ghana']",€1.50m,1.FC Union Berlin,27,"Jun 18, 1991",Retired
+Centre-Forward,right,,"Jul 17, 2015",Jordy Hiwula,"1,78m",201576,"['England', 'Angola']",€250k,: Ablöse €215k,23,"Sep 21, 1994",Without Club

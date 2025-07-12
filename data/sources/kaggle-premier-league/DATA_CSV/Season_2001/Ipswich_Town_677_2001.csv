@@ -1,0 +1,35 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 1999",Mike Salmon,"1,88m",591026,['England'],Charlton Athletic,37,"Jul 14, 1964",Retired
+Goalkeeper,right,"Jul 2, 2001",Andy Marshall,"1,88m",13249,['England'],: Ablöse free transfer,27,"Apr 14, 1975",Retired
+Goalkeeper,,"Mar 1, 2000",Keith Branagan,"1,83m",195173,"['Ireland', 'England']",: Ablöse free transfer,35,"Jul 10, 1966",Retired
+Goalkeeper,,,James Pullen,"1,87m",13255,['England'],,20,"Mar 18, 1982",Retired
+Goalkeeper,right,"Jul 1, 2001",Matteo Sereni,"1,86m",5964,['Italy'],UC Sampdoria,27,"Feb 11, 1975",Retired
+Centre-Back,right,"Jul 1, 2000",Justin Miller,"1,85m",13338,['South Africa'],Ipswich Town U18,21,"Dec 16, 1980",Retired
+Centre-Back,right,"Aug 5, 1999",John McGreal,"1,80m",13250,['England'],: Ablöse €950k,30,"Jun 2, 1972",Retired
+Centre-Back,left,"Aug 1, 1997",Mark Venus,"1,82m",13259,['England'],: Ablöse €230k,35,"Apr 6, 1967",Retired
+Centre-Back,right,"Jul 1, 1996",Richard Naylor,"1,85m",13252,['England'],Ipswich Town U18,25,"Feb 28, 1977",Retired
+Centre-Back,left,"Jul 1, 1996",Wayne Brown,"1,83m",13996,['England'],Ipswich Town U18,24,"Aug 20, 1977",Retired
+Centre-Back,right,"Jul 1, 1998",Titus Bramble,"1,92m",3130,"['England', 'Montserrat']",Ipswich Town U18,20,"Jul 31, 1981",Retired
+Centre-Back,right,"Jul 1, 2001",Thomas Gaardsöe,"1,88m",9984,['Denmark'],Aalborg BK,23,"Jan 23, 1979",Retired
+Left-Back,right,"Sep 1, 1999",Gary Croft,"1,75m",12692,['England'],Blackburn Rovers,28,"Feb 17, 1974",Retired
+Left-Back,left,"Mar 1, 1998",Jamie Clapham,"1,75m",3938,['England'],: Ablöse €450k,26,"Dec 7, 1975",Retired
+Left-Back,left,"Aug 18, 2000",Hermann Hreidarsson,"1,85m",3860,['Iceland'],: Ablöse €6.75m,27,"Jul 11, 1974",Retired
+Left-Back,right,"Mar 7, 2001",Chris Makin,"1,80m",13248,['England'],Sunderland AFC,29,"May 8, 1973",Retired
+Left-Back,left,"Sep 15, 2000",Amir Karic,"1,84m",13321,['Slovenia'],NK Maribor,28,"Dec 31, 1973",Retired
+Right-Back,right,"Jan 5, 1999",Fabian Wilnis,"1,73m",13260,"['Netherlands', 'Suriname']",: Ablöse €300k,31,"Aug 23, 1970",Retired
+Midfielder,,"Jul 1, 2000",Nabil Abidallah,"1,70m",13236,"['Netherlands', 'Morocco']",: Ablöse free transfer,19,"Aug 5, 1982",Retired
+Central Midfield,right,"Jul 1, 1997",Matt Holland,"1,75m",3102,"['Ireland', 'England']",: Ablöse €1.00m,28,"Apr 11, 1974",Retired
+Central Midfield,left,"Jul 23, 1999",Jermaine Wright,"1,75m",13261,['England'],Crewe Alexandra,26,"Oct 21, 1975",Retired
+Central Midfield,right,"Jul 19, 2007",Tommy Miller,"1,85m",13251,"['England', 'Scotland']",Sunderland AFC,23,"Jan 8, 1979",Retired
+Central Midfield,right,"Aug 24, 2001",Sixto Peralta,"1,78m",55962,"['Argentina', 'Italy']",: Ablöse €200k,23,"Apr 16, 1979",Retired
+Right Midfield,right,"Jan 15, 1999",Jim Magilton,"1,83m",3481,['Northern Ireland'],: Ablöse €900k,33,"May 6, 1969",Retired
+Right Midfield,right,"Sep 11, 2014",Darren Ambrose,"1,83m",4086,['England'],Without Club,18,"Feb 29, 1984",Retired
+Left Midfield,left,"Nov 4, 2001",Ulrich Le Pen,"1,73m",13244,['France'],: Ablöse €1.95m,28,"Jan 23, 1974",Retired
+Attacking Midfield,left,"Jan 1, 2000",Martijn Reuser,"1,78m",13356,['Netherlands'],: Ablöse €1.00m,27,"Feb 1, 1975",Retired
+Right Winger,right,"Jul 25, 2001",Finidi George,"1,89m",13241,['Nigeria'],RCD Mallorca,31,"Apr 15, 1971",Retired
+Centre-Forward,right,"Jul 1, 2007",Pablo Couñago,"1,83m",13242,['Spain'],Málaga CF,22,"Aug 9, 1979",Retired
+Centre-Forward,right,"Dec 1, 2000",Alun Armstrong,"1,84m",13237,['England'],: Ablöse €750k,27,"Feb 22, 1975",Retired
+Centre-Forward,left,"Feb 1, 2000",Marcus Stewart,"1,78m",4119,['England'],: Ablöse €4.13m,29,"Nov 8, 1972",Retired
+Centre-Forward,right,"Jul 1, 2001",Darren Bent,"1,80m",13239,"['England', 'Jamaica']",Ipswich Town U18,18,"Feb 6, 1984",Retired
+Centre-Forward,right,"Jul 1, 1998",Richard Logan,"1,85m",13245,['England'],Ipswich Town U18,20,"Jan 4, 1982",Retired
+Centre-Forward,right,"Nov 1, 2001",Marcus Bent,"1,88m",9958,"['England', 'Jamaica']",Blackburn Rovers,24,"May 19, 1978",Cornard United FC

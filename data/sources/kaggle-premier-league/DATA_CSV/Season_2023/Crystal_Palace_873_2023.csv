@@ -1,0 +1,41 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Aug 31, 2023",Dean Henderson,"1,88m",258919,['England'],€12.00m,Manchester United,27,"Mar 12, 1997",Crystal Palace
+Goalkeeper,right,,"Jul 1, 2022",Sam Johnstone,"1,93m",110864,['England'],€10.00m,West Bromwich Albion,31,"Mar 25, 1993",Wolverhampton Wanderers
+Goalkeeper,right,,"Jan 11, 2023",Joe Whitworth,"1,79m",670840,['England'],€1.00m,Crystal Palace U21,20,"Feb 29, 2004",Exeter City
+Goalkeeper,right,,"Jul 12, 2021",Remi Matthews,"1,92m",196722,['England'],€500k,Sunderland AFC,30,"Feb 10, 1994",Crystal Palace
+Centre-Back,right,,"Jul 18, 2021",Marc Guéhi,"1,82m",392757,"['England', ""Cote d'Ivoire""]",€38.00m,Chelsea FC,23,"Jul 13, 2000",Crystal Palace
+Centre-Back,right,,"Jul 28, 2021",Joachim Andersen,"1,92m",260827,['Denmark'],€35.00m,: Ablöse €17.50m,28,"May 31, 1996",Fulham FC
+Centre-Back,right,,"Jul 27, 2022",Chris Richards,"1,88m",578539,['United States'],€12.00m,: Ablöse €12.00m,24,"Mar 28, 2000",Crystal Palace
+Centre-Back,right,,"Sep 1, 2023",Rob Holding,"1,89m",253341,['England'],€5.00m,Arsenal FC,28,"Sep 20, 1995",Crystal Palace
+Centre-Back,right,,"Jul 27, 2020",Nathan Ferguson,"1,84m",507254,"['England', 'Jamaica']",€1.00m,West Bromwich Albion,23,"Oct 6, 2000",Without Club
+Centre-Back,right,,"Jul 5, 2016",James Tomkins,"1,92m",61592,['England'],€700k,West Ham United,35,"Mar 29, 1989",Without Club
+Centre-Back,right,,,Seán Grehan,,875235,['Ireland'],€150k,,20,"Jan 8, 2004",Crystal Palace U21
+Left-Back,left,,"Jul 1, 2020",Tyrick Mitchell,"1,81m",730893,"['England', 'Jamaica']",€25.00m,Crystal Palace U21,24,"Sep 1, 1999",Crystal Palace
+Left-Back,left,Knock - Return unknown,,Tayo Adaramola,"1,77m",724529,"['Ireland', 'Nigeria']",€800k,,20,"Nov 14, 2003",Stockport County
+Right-Back,right,,"Jan 30, 2024",Daniel Muñoz,"1,81m",493003,['Colombia'],€18.00m,KRC Genk,28,"May 26, 1996",Crystal Palace
+Right-Back,right,,"Oct 14, 2020",Nathaniel Clyne,"1,75m",85177,"['England', 'Grenada']",€1.50m,: Ablöse free transfer,33,"Apr 5, 1991",Crystal Palace
+Right-Back,right,Team captain,"Jul 1, 2012",Joel Ward,"1,86m",92572,['England'],€1.00m,: Ablöse €650k,34,"Oct 29, 1989",Crystal Palace
+Defensive Midfield,right,,"Jul 11, 2022",Cheick Doucouré,"1,80m",543387,['Mali'],€35.00m,RC Lens,24,"Jan 8, 2000",Crystal Palace
+Defensive Midfield,left,,"Feb 1, 2024",Adam Wharton,"1,82m",744149,['England'],€30.00m,Blackburn Rovers,20,"Feb 6, 2004",Crystal Palace
+Defensive Midfield,right,,"Jul 1, 2023",Jefferson Lerma,"1,79m",262980,['Colombia'],€20.00m,AFC Bournemouth,29,"Oct 25, 1994",Crystal Palace
+Defensive Midfield,left,Hamstring injury - Return unknown,"Jul 24, 2017",Jairo Riedewald,"1,82m",241481,"['Netherlands', 'Suriname']",€3.00m,Ajax Amsterdam,27,"Sep 9, 1996",Royal Antwerp FC
+Defensive Midfield,,Hamstring injury - Return unknown,"Jul 1, 2024",David Ozoh,,865993,"['England', 'Spain']",€700k,Crystal Palace U21,19,"May 6, 2005",Derby County
+Defensive Midfield,right,,,Kaden Rodney,,860078,['England'],€200k,,19,"Oct 7, 2004",Crystal Palace U21
+Central Midfield,left,,"Aug 28, 2021",Will Hughes,"1,85m",207014,['England'],€9.00m,Watford FC,29,"Apr 17, 1995",Crystal Palace
+Central Midfield,right,,"Jan 31, 2023",Naouirou Ahamada,"1,83m",538971,"['France', 'Comoros']",€8.00m,VfB Stuttgart,22,"Mar 29, 2002",Stade Rennais FC
+Central Midfield,left,,,Jack Wells-Morrison,"1,80m",814811,['England'],€200k,,20,"Feb 18, 2004",Wealdstone FC
+Left Midfield,left,,"Jan 13, 2017",Jeffrey Schlupp,"1,78m",157506,"['Ghana', 'Germany']",€7.00m,Leicester City,31,"Dec 23, 1992",Crystal Palace
+Left Midfield,right,,,John-Kymani Gordon,"1,81m",659331,"['England', 'Jamaica']",€200k,,21,"Feb 13, 2003",Colchester United
+Attacking Midfield,right,,"Aug 28, 2020",Eberechi Eze,"1,78m",479999,"['England', 'Nigeria']",€55.00m,Queens Park Rangers,26,"Jun 29, 1998",Crystal Palace
+Attacking Midfield,right,Rib fracture - Return unknown,"Aug 5, 2023",Matheus França,"1,84m",743597,['Brazil'],€15.00m,CR Flamengo,20,"Apr 1, 2004",Crystal Palace
+Attacking Midfield,,,,Jadan Raymond,,655815,"['Wales', 'England']",€200k,,20,"Oct 15, 2003",Crystal Palace U21
+Right Winger,left,,"Jul 8, 2021",Michael Olise,"1,84m",566723,"['France', 'England']",€55.00m,Reading FC,22,"Dec 12, 2001",Bayern Munich
+Right Winger,left,,"Jul 1, 2022",Jesurun Rak-Sakyi,"1,78m",586834,"['England', 'Ghana']",€2.00m,Crystal Palace U21,21,"Oct 5, 2002",Sheffield United
+Right Winger,left,,"Jul 1, 2022",Malcolm Ebiowei,"1,85m",512354,"['England', 'Netherlands']",€1.50m,Derby County,20,"Sep 4, 2003",Oxford United
+Right Winger,left,,,Franco Umeh-Chibueze,,943560,"['Ireland', 'Nigeria']",€75k,,19,"Jan 26, 2005",Crystal Palace U21
+Right Winger,,,,Roshaun Mathurin,,706822,['England'],,,20,"Jan 23, 2004",Hartlepool United
+Centre-Forward,right,,"Jan 31, 2022",Jean-Philippe Mateta,"1,92m",420002,"['France', 'DR Congo']",€20.00m,1.FSV Mainz 05,27,"Jun 28, 1997",Crystal Palace
+Centre-Forward,right,,"Aug 31, 2021",Odsonne Edouard,"1,87m",344152,"['France', 'French Guiana']",€18.00m,Celtic FC,26,"Jan 16, 1998",Leicester City
+Centre-Forward,right,,"Jul 25, 2019",Jordan Ayew,"1,82m",108354,"['Ghana', 'France']",€4.00m,: Ablöse €2.80m,32,"Sep 11, 1991",Leicester City
+Centre-Forward,right,,"Jan 31, 2022",Luke Plange,"1,88m",586986,['England'],€800k,Derby County,21,"Nov 4, 2002",HJK Helsinki
+Centre-Forward,left,,,Ademola Ola-Adebomi,"1,95m",814820,"['England', 'Nigeria']",€250k,,20,"Sep 3, 2003",SK Beveren

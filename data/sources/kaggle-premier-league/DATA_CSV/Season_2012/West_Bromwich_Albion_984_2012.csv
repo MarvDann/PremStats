@@ -1,0 +1,33 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,"Jul 1, 2012",Ben Foster,"1,93m",13572,['England'],€5.00m,: Ablöse €5.00m,30,"Apr 3, 1983",Retired
+Goalkeeper,right,"Jul 30, 2010",Boaz Myhill,"1,91m",3838,"['Wales', 'United States']",€2.00m,: Ablöse €1.80m,30,"Nov 9, 1982",Retired
+Goalkeeper,right,"Jul 1, 2006",Luke Daniels,"1,95m",45921,['England'],€250k,West Bromwich Albion U18,25,"Jan 5, 1988",Retired
+Centre-Back,left,"Aug 1, 2008",Jonas Olsson,"1,93m",25248,['Sweden'],€5.00m,NEC Nijmegen,30,"Mar 10, 1983",Retired
+Centre-Back,both,"Jan 31, 2012",Liam Ridgewell,"1,88m",4070,['England'],€2.50m,: Ablöse €2.40m,28,"Jul 21, 1984",Retired
+Centre-Back,right,"Aug 1, 2010",Gabriel Tamaș,"1,88m",6893,['Romania'],€2.00m,AJ Auxerre,29,"Nov 9, 1983",Retired
+Centre-Back,right,"Aug 25, 2009",Gonzalo Jara,"1,78m",40429,['Chile'],€1.75m,CSD Colo-Colo,27,"Aug 29, 1985",Retired
+Centre-Back,right,"Jul 1, 2011",Gareth McAuley,"1,91m",40567,['Northern Ireland'],€1.50m,Ipswich Town,33,"Dec 5, 1979",Retired
+Centre-Back,right,"Aug 31, 2010",Craig Dawson,"1,88m",121477,['England'],€1.50m,Rochdale AFC,23,"May 6, 1990",Wolverhampton Wanderers
+Centre-Back,right,,James Hurst,"1,83m",110863,['England'],,,21,"Jan 31, 1992",Career break
+Centre-Back,right,,Donervon Daniels,"1,86m",199522,"['Montserrat', 'England']",,,19,"Nov 24, 1993",Walsall FC
+Left-Back,left,"Aug 31, 2012",Goran Popov,"1,88m",19721,['North Macedonia'],€3.00m,Dynamo Kyiv,28,"Oct 2, 1984",Retired
+Right-Back,right,"Jul 1, 2011",Billy Jones,"1,82m",36866,['England'],€2.50m,: Ablöse free transfer,26,"Mar 24, 1987",Retired
+Right-Back,right,"Jul 1, 2010",Steven Reid,"1,85m",7330,"['Ireland', 'England']",€1.00m,Blackburn Rovers,32,"Mar 10, 1981",Retired
+Defensive Midfield,right,"Jul 10, 2009",Youssouf Mulumbu,"1,77m",45272,"['DR Congo', 'France']",€6.00m,: Ablöse €200k,26,"Jan 25, 1987",Without Club
+Defensive Midfield,right,"Jul 24, 2012",Claudio Yacob,"1,82m",45330,"['Argentina', 'Italy']",€4.50m,: Ablöse free transfer,25,"Jul 18, 1987",Without Club
+Central Midfield,right,"Aug 7, 2007",James Morrison,"1,83m",27614,"['Scotland', 'England']",€6.50m,Middlesbrough FC,27,"May 25, 1986",Retired
+Central Midfield,left,"Aug 15, 2007",Chris Brunt,"1,87m",36814,['Northern Ireland'],€6.00m,: Ablöse €3.75m,28,"Dec 14, 1984",Retired
+Central Midfield,right,"Jul 1, 2008",Graham Dorrans,"1,77m",36608,['Scotland'],€2.50m,Livingston FC,26,"May 5, 1987",Johnstone Burgh FC
+Central Midfield,right,"Jul 1, 2011",George Thorne,"1,88m",128910,['England'],€500k,West Bromwich Albion Reserves,20,"Jan 4, 1993",St. Neots Town
+Attacking Midfield,right,"Aug 2, 2011",Zoltán Gera,"1,83m",18324,['Hungary'],€1.00m,Fulham FC,34,"Apr 22, 1979",Retired
+Attacking Midfield,right,"Jan 9, 2012",Scott Allan,"1,75m",60904,['Scotland'],€500k,: Ablöse €480k,21,"Nov 28, 1991",Kelty Hearts FC
+Left Winger,right,"Jul 11, 2012",Yassine El Ghanassy,"1,73m",90368,"['Belgium', 'Morocco']",€2.50m,: Ablöse ?,22,"Jul 12, 1990",Without Club
+Left Winger,left,"Aug 13, 2009",Jerome Thomas,"1,77m",3560,"['England', 'Guyana']",€2.00m,: Ablöse free transfer,30,"Mar 23, 1983",Retired
+Left Winger,right,,Izzy Brown,"1,82m",245805,"['England', 'Jamaica']",,,16,"Jan 7, 1997",Retired
+Centre-Forward,left,"Aug 10, 2012",Romelu Lukaku,"1,91m",96341,"['Belgium', 'DR Congo']",€19.00m,Chelsea FC,20,"May 13, 1993",SSC Napoli
+Centre-Forward,both,"Aug 1, 2011",Shane Long,"1,80m",37304,['Ireland'],€6.00m,Reading FC,26,"Jan 22, 1987",Retired
+Centre-Forward,right,"Aug 20, 2010",Peter Odemwingie,"1,81m",12516,"['Nigeria', 'Russia']",€5.00m,: Ablöse €3.00m,31,"Jul 15, 1981",Retired
+Centre-Forward,,"Aug 7, 2012",Markus Rosenberg,,27505,['Sweden'],€2.50m,SV Werder Bremen,30,"Sep 27, 1982",Retired
+Centre-Forward,,"Aug 27, 2010",Marc-Antoine Fortuné,,5652,"['French Guiana', 'France']",€1.00m,Celtic FC,31,"Jul 2, 1981",Retired
+Centre-Forward,right,"Jul 1, 2013",Saido Berahino,"1,80m",128897,"['Burundi', 'England']",,West Bromwich Albion U21,19,"Aug 4, 1993",Rajasthan United
+Centre-Forward,right,,Kemar Roofe,"1,78m",141350,"['Jamaica', 'England']",,,20,"Jan 6, 1993",Without Club

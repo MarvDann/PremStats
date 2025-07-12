@@ -1,0 +1,43 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Aug 20, 2021",Aaron Ramsdale,"1,90m",427568,['England'],€40.00m,,Sheffield United,25,"May 14, 1998",Southampton FC
+Goalkeeper,right,,"Jul 1, 2022",Matt Turner,"1,91m",425306,"['United States', 'Lithuania']",€8.00m,,New England Revolution,29,"Jun 24, 1994",Crystal Palace
+Goalkeeper,right,,"Jul 1, 2022",Karl Hein,"1,93m",493513,['Estonia'],€1.50m,,Arsenal FC U21,21,"Apr 13, 2002",Real Valladolid CF
+Goalkeeper,left,,,James Hillson,"1,84m",503765,['England'],,,,22,"Jan 14, 2001",FC Salisbury
+Centre-Back,right,,"Jul 25, 2019",William Saliba,"1,92m",495666,"['France', 'Cameroon']",€65.00m,,: Ablöse €30.00m,22,"Mar 24, 2001",Arsenal FC
+Centre-Back,left,,"Sep 1, 2020",Gabriel Magalhães,"1,90m",435338,['Brazil'],€55.00m,,LOSC Lille,25,"Dec 19, 1997",Arsenal FC
+Centre-Back,left,,"Jan 23, 2023",Jakub Kiwior,"1,89m",425918,['Poland'],€25.00m,,: Ablöse €19.50m,23,"Feb 15, 2000",Arsenal FC
+Centre-Back,left,,"Jan 31, 2022",Auston Trusty,"1,90m",389253,['United States'],€10.00m,,Colorado Rapids,24,"Aug 12, 1998",Celtic FC
+Centre-Back,right,,"Jul 22, 2016",Rob Holding,"1,89m",253341,['England'],€8.00m,,Bolton Wanderers,27,"Sep 20, 1995",Crystal Palace
+Left-Back,left,,"Jul 22, 2022",Oleksandr Zinchenko,"1,75m",203853,['Ukraine'],€42.00m,,Manchester City,26,"Dec 15, 1996",Arsenal FC
+Left-Back,left,Hamstring injury - Return unknown,"Aug 8, 2019",Kieran Tierney,"1,80m",300716,"['Scotland', 'Isle of Man']",€25.00m,"Returned after loan spell with Real Sociedad; date: Jun 30, 2024; fee: End of loan",Celtic FC,26,"Jun 5, 1997",Arsenal FC
+Left-Back,left,,,Lino Sousa,"1,85m",743414,"['England', 'Portugal']",€500k,,,18,"Jan 19, 2005",Bristol Rovers
+Right-Back,right,,"Jul 30, 2021",Ben White,"1,86m",335721,['England'],€55.00m,,Brighton & Hove Albion,25,"Oct 8, 1997",Arsenal FC
+Right-Back,right,Knee injury - Return unknown,"Aug 31, 2021",Takehiro Tomiyasu,"1,88m",331560,['Japan'],€25.00m,,Bologna FC 1909,24,"Nov 5, 1998",Arsenal FC
+Right-Back,right,,"Jul 1, 2017",Ainsley Maitland-Niles,"1,80m",285845,"['England', 'Jamaica']",€8.00m,,Arsenal FC U23,25,"Aug 29, 1997",Olympique Lyon
+Right-Back,right,,"Jul 1, 2020",Cédric Soares,"1,71m",112988,"['Portugal', 'Germany']",€3.00m,,Southampton FC,31,"Aug 31, 1991",Without Club
+Right-Back,right,,,Reuell Walters,"1,86m",878160,"['England', 'Germany']",,,,18,"Dec 16, 2004",Luton Town
+Defensive Midfield,right,,"Oct 5, 2020",Thomas Partey,"1,85m",230784,['Ghana'],€35.00m,,: Ablöse €50.00m,30,"Jun 13, 1993",Arsenal FC
+Defensive Midfield,right,,"Jan 31, 2023",Jorginho,"1,78m",102017,"['Italy', 'Brazil']",€25.00m,,Chelsea FC,31,"Dec 20, 1991",Arsenal FC
+Defensive Midfield,left,,"Jul 1, 2016",Granit Xhaka,"1,86m",111455,['Switzerland'],€20.00m,,Borussia Mönchengladbach,30,"Sep 27, 1992",Bayer 04 Leverkusen
+Defensive Midfield,right,,"Jan 14, 2016",Mohamed Elneny,"1,79m",160438,['Egypt'],€6.00m,,: Ablöse €12.50m,30,"Jul 11, 1992",Al-Jazira Club
+Defensive Midfield,,,,Bradley Ibrahim,"1,85m",871837,['England'],€400k,,,18,"Oct 21, 2004",Crawley Town
+Central Midfield,right,,"Jul 19, 2021",Albert Sambi Lokonga,"1,83m",381967,"['Belgium', 'DR Congo']",€15.00m,,: Ablöse €17.50m,23,"Oct 22, 1999",Sevilla FC
+Central Midfield,right,,,Matt Smith,"1,76m",528894,['England'],€350k,,,22,"Oct 5, 2000",Wigan Athletic
+Central Midfield,,,,Cătălin Cîrjan,,575219,['Romania'],€250k,,,20,"Dec 1, 2002",FC Dinamo 1948
+Central Midfield,right,,,Mauro Bandeira,"1,78m",745846,"['Portugal', 'England']",,,,19,"Nov 18, 2003",NK Tabor Sezana
+Attacking Midfield,left,Team captain; Ankle sprain - Return unknown,"Aug 20, 2021",Martin Ødegaard,"1,78m",316264,['Norway'],€90.00m,,Real Madrid,24,"Dec 17, 1998",Arsenal FC
+Attacking Midfield,right,,"Aug 1, 2020",Emile Smith Rowe,"1,82m",392765,['England'],€35.00m,,Arsenal FC U23,22,"Jul 28, 2000",Fulham FC
+Attacking Midfield,left,,"Jul 1, 2022",Fábio Vieira,"1,70m",537598,['Portugal'],€25.00m,,FC Porto,23,"May 30, 2000",FC Porto
+Attacking Midfield,left,,"Jul 1, 2024",Ethan Nwaneri,"1,76m",890719,"['England', 'Nigeria']",,"Internal transfer: Arsenal FC U21; date: Jul 1, 2024",Arsenal FC U21,16,"Mar 21, 2007",Arsenal FC
+Left Winger,right,,"Jul 2, 2019",Gabriel Martinelli,"1,78m",655488,"['Brazil', 'Italy']",€80.00m,,Ituano Futebol Clube (SP),22,"Jun 18, 2001",Arsenal FC
+Left Winger,right,,"Jan 20, 2023",Leandro Trossard,"1,72m",144028,['Belgium'],€35.00m,,Brighton & Hove Albion,28,"Dec 4, 1994",Arsenal FC
+Left Winger,,,,Charles Sagoe Jr,,796037,"['England', 'Ghana']",,,,18,"Jul 24, 2004",Shrewsbury Town
+Right Winger,left,"Leg injury - Return expected on Nov 18, 2024","Jul 1, 2019",Bukayo Saka,"1,78m",433177,"['England', 'Nigeria']",€120.00m,,Arsenal FC U23,21,"Sep 5, 2001",Arsenal FC
+Right Winger,left,,"Aug 1, 2019",Nicolas Pépé,"1,83m",343052,"[""Cote d'Ivoire"", 'France']",€18.00m,,LOSC Lille,28,"May 29, 1995",Villarreal CF
+Right Winger,left,,"Jul 1, 2022",Marquinhos,"1,75m",668268,['Brazil'],€12.00m,,São Paulo Futebol Clube,20,"Apr 7, 2003",Fluminense Football Club
+Right Winger,right,,"Jul 1, 2019",Reiss Nelson,"1,75m",340325,"['England', 'Jamaica']",€12.00m,,Arsenal FC U23,23,"Dec 10, 1999",Fulham FC
+Right Winger,left,,,Amario Cozier-Duberry,"1,70m",878150,"['England', 'Montserrat']",€300k,,,18,"May 29, 2005",Blackburn Rovers
+Centre-Forward,right,,"Jul 4, 2022",Gabriel Jesus,"1,75m",363205,['Brazil'],€75.00m,,Manchester City,26,"Apr 3, 1997",Arsenal FC
+Centre-Forward,right,,"Jan 1, 2019",Eddie Nketiah,"1,75m",340324,"['England', 'Ghana']",€25.00m,,Arsenal FC U23,24,"May 30, 1999",Crystal Palace
+Centre-Forward,right,,,Khayon Edwards,"1,80m",741650,"['Jamaica', 'England']",€300k,,,19,"Sep 12, 2003",Arsenal FC U21
+Centre-Forward,right,,,Nathan Butler-Oyedeji,"1,77m",638964,"['England', 'Nigeria']",€100k,,,20,"Jan 4, 2003",Arsenal FC U21

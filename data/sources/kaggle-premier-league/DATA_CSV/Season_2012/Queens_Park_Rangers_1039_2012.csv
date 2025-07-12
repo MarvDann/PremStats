@@ -1,0 +1,39 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,"Aug 29, 2012",Júlio César,"1,86m",22412,['Brazil'],€4.00m,: Ablöse free transfer,33,"Sep 3, 1979",Retired
+Goalkeeper,right,"Jul 1, 2012",Rob Green,"1,91m",11680,['England'],€2.00m,: Ablöse free transfer,33,"Jan 18, 1980",Retired
+Goalkeeper,right,"Jul 1, 2008",Radek Cerny,"1,87m",21010,['Czech Republic'],€500k,Tottenham Hotspur,39,"Feb 18, 1974",Retired
+Goalkeeper,right,"Jul 1, 2011",Brian Murphy,"1,85m",4190,['Ireland'],€500k,Ipswich Town,30,"May 7, 1983",Retired
+Centre-Back,,"Jan 31, 2013",Christopher Samba,,29016,"['Congo', 'France']",€15.00m,Anzhi Makhachkala ( -2022),29,"Mar 28, 1984",Retired
+Centre-Back,right,"Jan 1, 2012",Nedum Onuoha,"1,83m",28810,"['England', 'Nigeria']",€3.00m,: Ablöse €4.70m,26,"Nov 12, 1986",Retired
+Centre-Back,right,"Aug 31, 2011",Anton Ferdinand,"1,85m",3698,"['England', 'St. Lucia']",€2.00m,Sunderland AFC,28,"Feb 18, 1985",Retired
+Centre-Back,right,"Jan 4, 2013",Tal Ben Haim,"1,83m",20714,['Israel'],€1.00m,Without Club,31,"Mar 31, 1982",Retired
+Centre-Back,left,"Jul 1, 2010",Clint Hill,"1,83m",13583,['England'],€750k,: Ablöse free transfer,34,"Oct 19, 1978",Retired
+Centre-Back,right,"Jul 1, 2012",Ryan Nelsen,"1,85m",28878,['New Zealand'],,Tottenham Hotspur,35,"Oct 18, 1977",Retired
+Centre-Back,right,"Jul 1, 2009",Max Ehmer,"1,88m",158718,['Germany'],,Queens Park Rangers U18,21,"Feb 3, 1992",Gillingham FC
+Centre-Back,right,"Jul 1, 2011",Michael Harriman,"1,71m",155233,"['Ireland', 'England']",,Queens Park Rangers U18,20,"Oct 23, 1992",AFC Rushden & Diamonds
+Left-Back,left,"Aug 1, 2011",Armand Traoré,"1,84m",33783,"['Senegal', 'France']",€3.50m,: Ablöse €1.35m,23,"Oct 8, 1989",Retired
+Left-Back,left,"Jan 30, 2013",Seok-yeong Yun,"1,83m",126643,"['Korea, South']",€750k,: Ablöse ?,23,"Feb 13, 1990",Gangwon FC
+Right-Back,right,"Jul 1, 2012",Fábio,"1,72m",61891,"['Brazil', 'Portugal']",€7.00m,Manchester United,22,"Jul 9, 1990",Grêmio Foot-Ball Porto Alegrense
+Right-Back,right,"Aug 17, 2012",Bosingwa,"1,83m",9813,"['Portugal', 'DR Congo']",€3.00m,Chelsea FC,30,"Aug 24, 1982",Retired
+Right-Back,right,"Aug 27, 2011",Luke Young,"1,83m",3271,['England'],€1.00m,: Ablöse €1.13m,33,"Jul 19, 1979",Retired
+Defensive Midfield,right,"Aug 31, 2012",Stéphane Mbia,"1,89m",27470,"['Cameroon', 'France']",€10.00m,Olympique Marseille,27,"May 20, 1986",Without Club
+Defensive Midfield,right,"Jul 1, 2012",Samba Diakité,"1,86m",136589,"['Mali', 'France']",€3.00m,: Ablöse €4.00m,24,"Jan 24, 1989",Retired
+Defensive Midfield,right,"Jul 1, 2010",Shaun Derry,"1,77m",14007,['England'],€500k,: Ablöse free transfer,35,"Dec 6, 1977",Retired
+Central Midfield,right,"Aug 5, 2010",Adel Taarabt,"1,85m",45287,"['Morocco', 'France']",€10.00m,Tottenham Hotspur,24,"May 24, 1989",Al-Nasr SC (UAE)
+Central Midfield,right,"Aug 30, 2012",Esteban Granero,"1,80m",44065,['Spain'],€7.50m,Real Madrid,25,"Jul 2, 1987",Retired
+Central Midfield,right,"Jan 31, 2013",Jermaine Jenas,"1,81m",3461,['England'],€3.50m,Tottenham Hotspur,30,"Feb 18, 1983",Retired
+Central Midfield,left,"Jul 1, 2009",Alejandro Faurlín,"1,85m",88067,"['Argentina', 'Italy']",€3.30m,Instituto ACC,26,"Aug 9, 1986",Retired
+Right Midfield,right,"Jul 13, 2011",Kieron Dyer,"1,70m",3118,"['England', 'Antigua and Barbuda']",€500k,: Ablöse free transfer,34,"Dec 29, 1978",Retired
+Left Midfield,left,"Jan 2, 2008",Hogan Ephraim,"1,75m",31883,['England'],€500k,: Ablöse €375k,25,"Mar 31, 1988",Retired
+Attacking Midfield,both,"Jul 9, 2012",Ji-sung Park,"1,78m",4592,"['Korea, South']",€3.50m,Manchester United,32,"Feb 25, 1981",Retired
+Left Winger,right,"Jul 27, 2012",Junior Hoilett,"1,74m",58993,"['Canada', 'Jamaica']",€7.00m,Blackburn Rovers,23,"Jun 5, 1990",Hibernian FC
+Right Winger,right,"Aug 1, 2011",Shaun Wright-Phillips,"1,66m",3467,"['England', 'Grenada']",€2.50m,: Ablöse €4.50m,31,"Oct 25, 1981",Retired
+Right Winger,left,"Jan 31, 2013",Andros Townsend,"1,81m",61842,['England'],€500k,Tottenham Hotspur,21,"Jul 16, 1991",Antalyaspor
+Centre-Forward,right,"Jan 16, 2013",Loïc Rémy,"1,85m",45121,"['France', 'Martinique']",€10.00m,Olympique Marseille,26,"Jan 2, 1987",Retired
+Centre-Forward,right,"Jul 1, 2015",Jamie Mackie,"1,82m",15929,"['Scotland', 'England']",€3.50m,: Ablöse free transfer,27,"Sep 22, 1985",Retired
+Centre-Forward,left,"Jan 31, 2012",Bobby Zamora,"1,84m",4205,"['England', 'Trinidad and Tobago']",€3.50m,Fulham FC,32,"Jan 16, 1981",Retired
+Centre-Forward,right,"Jan 31, 2012",Djibril Cissé,"1,82m",3966,"['France', ""Cote d'Ivoire""]",€2.50m,: Ablöse €5.00m,31,"Aug 12, 1981",Retired
+Centre-Forward,right,"Jul 1, 2012",Andy Johnson,"1,72m",14031,['England'],€1.50m,Fulham FC,32,"Feb 10, 1981",Retired
+Centre-Forward,right,"Jul 1, 2011",DJ Campbell,"1,78m",37896,['England'],€1.50m,Blackpool FC,31,"Nov 12, 1981",Retired
+Centre-Forward,left,"Jul 1, 2011",Jay Bothroyd,"1,90m",8188,"['England', 'Guyana']",€1.00m,: Ablöse free transfer,31,"May 7, 1982",Retired
+Centre-Forward,right,"Aug 31, 2010",Rob Hulse,"1,85m",9980,['England'],€250k,: Ablöse €975k,33,"Oct 25, 1979",Retired

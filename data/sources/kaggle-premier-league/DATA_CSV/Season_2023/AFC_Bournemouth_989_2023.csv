@@ -1,0 +1,43 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2020",Mark Travers,"1,91m",357658,['Ireland'],€3.50m,,AFC Bournemouth U21,25,"May 18, 1999",AFC Bournemouth
+Goalkeeper,right,,"Jul 27, 2023",Andrei Radu,"1,88m",303657,['Romania'],€3.00m,,Inter Milan,27,"May 28, 1997",Inter Milan
+Goalkeeper,right,,"Aug 7, 2022",Neto,"1,90m",111819,"['Brazil', 'Italy']",€2.50m,,FC Barcelona,34,"Jul 19, 1989",Arsenal FC
+Goalkeeper,right,,"Aug 1, 2021",Will Dennis,"1,88m",582078,['England'],€350k,,AFC Bournemouth U21,23,"Jul 10, 2000",AFC Bournemouth
+Goalkeeper,right,,"Jan 26, 2023",Darren Randolph,"1,87m",51321,"['Ireland', 'United States']",€300k,,West Ham United,37,"May 12, 1987",Retired
+Goalkeeper,right,,,Cameron Plain,"1,87m",655136,['England'],€100k,,,22,"Sep 24, 2001",Poole Town FC
+Goalkeeper,,,,Callan McKenna,,983248,['Scotland'],€100k,,,17,"Dec 22, 2006",AFC Bournemouth U21
+Centre-Back,right,,"Jan 31, 2023",Ilya Zabarnyi,"1,89m",659089,['Ukraine'],€32.00m,,Dynamo Kyiv,21,"Sep 1, 2002",AFC Bournemouth
+Centre-Back,left,,"Aug 8, 2022",Marcos Senesi,"1,85m",469781,"['Argentina', 'Italy']",€22.00m,,: Ablöse €15.00m,27,"May 10, 1997",AFC Bournemouth
+Centre-Back,left,,"Jul 1, 2019",Lloyd Kelly,"1,90m",480116,['England'],€18.00m,,Bristol City,25,"Oct 6, 1998",Newcastle United
+Centre-Back,right,,"Jan 22, 2019",Chris Mepham,"1,90m",480987,"['Wales', 'England']",€6.00m,,Brentford FC,26,"Nov 5, 1997",Sunderland AFC
+Centre-Back,right,,"Jan 5, 2022",James Hill,"1,84m",611793,['England'],€2.00m,,Fleetwood Town,22,"Jan 10, 2002",AFC Bournemouth
+Centre-Back,right,,,Max Kinsey,"1,84m",939615,['England'],€150k,,,19,"Feb 2, 2005",AFC Bournemouth U21
+Left-Back,left,,"Jul 20, 2023",Milos Kerkez,"1,80m",730861,"['Hungary', 'Serbia']",€20.00m,,AZ Alkmaar,20,"Nov 7, 2003",AFC Bournemouth
+Left-Back,left,,,Ben Greenwood,"1,70m",646333,"['Ireland', 'England']",,,,21,"Feb 20, 2003",Weymouth FC
+Right-Back,right,,"Aug 10, 2023",Max Aarons,"1,77m",471690,"['England', 'Jamaica']",€16.00m,,Norwich City,24,"Jan 4, 2000",AFC Bournemouth
+Right-Back,right,Calf injury - Return unknown,"Jul 1, 2022",Ryan Fredericks,"1,81m",140191,"['England', 'Scotland']",€1.00m,,West Ham United,31,"Oct 10, 1992",Without Club
+Right-Back,right,,"Jan 28, 2014",Adam Smith,"1,74m",61841,['England'],€1.00m,,Tottenham Hotspur,33,"Apr 29, 1991",AFC Bournemouth
+Defensive Midfield,right,Back injury - Return unknown,"Aug 20, 2023",Tyler Adams,"1,75m",332705,['United States'],€15.00m,,Leeds United,25,"Feb 14, 1999",AFC Bournemouth
+Central Midfield,left,,"Jul 29, 2019",Philip Billing,"1,93m",320411,"['Denmark', 'Nigeria']",€22.00m,,Huddersfield Town,28,"Jun 11, 1996",AFC Bournemouth
+Central Midfield,right,,"Aug 10, 2023",Alex Scott,"1,78m",855256,"['England', 'Guernsey']",€20.00m,,Bristol City,20,"Aug 21, 2003",AFC Bournemouth
+Central Midfield,right,,"Jul 8, 2016",Lewis Cook,"1,75m",249089,['England'],€12.00m,,Leeds United,27,"Feb 3, 1997",AFC Bournemouth
+Central Midfield,left,,"Aug 31, 2021",Ryan Christie,"1,78m",188077,['Scotland'],€12.00m,,Celtic FC,29,"Feb 22, 1995",AFC Bournemouth
+Central Midfield,right,,"Jul 1, 2022",Joe Rothwell,"1,85m",183293,['England'],€2.50m,,Blackburn Rovers,29,"Jan 11, 1995",Leeds United
+Central Midfield,right,,"Aug 1, 2020",Gavin Kilkenny,"1,75m",469064,['Ireland'],€300k,,AFC Bournemouth U21,24,"Feb 1, 2000",Swindon Town
+Right Midfield,left,,"Jul 13, 2023",Romain Faivre,"1,80m",555076,"['France', 'Algeria']",€15.00m,,Olympique Lyon,25,"Jul 14, 1998",Stade Brestois 29
+Left Midfield,left,,"Aug 1, 2022",Marcus Tavernier,"1,78m",399434,['England'],€20.00m,,Middlesbrough FC,25,"Mar 22, 1999",AFC Bournemouth
+Attacking Midfield,right,,"Jul 1, 2023",Hamed Junior Traoré,"1,77m",391065,"[""Cote d'Ivoire""]",€17.00m,,US Sassuolo,24,"Feb 16, 2000",AJ Auxerre
+Attacking Midfield,right,,"Jul 3, 2021",Emiliano Marcondes,"1,82m",232964,"['Denmark', 'Brazil']",€1.50m,,Brentford FC,29,"Mar 9, 1995",Norwich City
+Left Winger,left,,"Jan 19, 2023",Dango Ouattara,"1,77m",823231,['Burkina Faso'],€20.00m,,FC Lorient,22,"Feb 11, 2002",AFC Bournemouth
+Left Winger,right,,"Jul 1, 2024",Luis Sinisterra,"1,72m",512385,['Colombia'],€17.00m,"Joined from Leeds United; date: Jul 1, 2024; fee: €23.40m",Leeds United,25,"Jun 17, 1999",AFC Bournemouth
+Left Winger,both,,"Jul 1, 2023",Justin Kluivert,"1,72m",330659,"['Netherlands', 'Suriname']",€14.00m,,AS Roma,25,"May 5, 1999",AFC Bournemouth
+Left Winger,right,,"Aug 1, 2020",Jaidon Anthony,"1,83m",684210,"['England', 'Jamaica']",€6.00m,,AFC Bournemouth U21,24,"Dec 1, 1999",Burnley FC
+Right Winger,right,,"Jan 27, 2023",Antoine Semenyo,"1,85m",583255,"['Ghana', 'England']",€10.00m,,Bristol City,24,"Jan 7, 2000",AFC Bournemouth
+Right Winger,left,,"Jul 1, 2018",David Brooks,"1,73m",277033,"['Wales', 'England']",€8.00m,,Sheffield United,26,"Jul 8, 1997",AFC Bournemouth
+Right Winger,left,,,Dominic Sadi,"1,74m",936901,['England'],€100k,,,20,"Sep 2, 2003",Carlisle United
+Right Winger,left,,,Michael Dacosta,"1,86m",854722,"['Spain', 'Equatorial Guinea']",,,,19,"Mar 5, 2005",AFC Bournemouth U21
+Centre-Forward,right,,"Jan 4, 2019",Dominic Solanke,"1,86m",258889,"['England', 'Nigeria']",€40.00m,,: Ablöse €21.20m,26,"Sep 14, 1997",Tottenham Hotspur
+Centre-Forward,right,,"Jul 1, 2024",Enes Ünal,"1,87m",251106,['Türkiye'],€18.00m,"Joined from Getafe CF; date: Jul 1, 2024; fee: €16.50m",Getafe CF,27,"May 10, 1997",AFC Bournemouth
+Centre-Forward,right,,"Jan 31, 2022",Kieffer Moore,"1,96m",275590,"['Wales', 'England']",€2.00m,,Cardiff City,31,"Aug 8, 1992",Sheffield United
+Centre-Forward,right,,"Aug 31, 2021",Jamal Lowe,"1,83m",239949,"['Jamaica', 'England']",€1.50m,,: Ablöse €1.70m,29,"Jul 21, 1994",Sheffield Wednesday
+Centre-Forward,,,,Daniel Adu-Adjei,,963878,"['England', 'Ghana']",,,,19,"Jun 21, 2005",Carlisle United

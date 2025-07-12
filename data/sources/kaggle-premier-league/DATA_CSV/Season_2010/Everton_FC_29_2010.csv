@@ -1,0 +1,33 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2007",Tim Howard,"1,91m",4267,"['United States', 'Hungary']",€10.00m,Manchester United,32,"Mar 6, 1979",Retired
+Goalkeeper,right,,"Jul 1, 2010",Jan Mucha,"1,89m",33195,['Slovakia'],€2.50m,Legia Warszawa,28,"Dec 5, 1982",Retired
+Goalkeeper,right,,"Jul 1, 2003",Iain Turner,"1,93m",3582,['Scotland'],€500k,Stirling Albion FC,27,"Jan 26, 1984",Retired
+Centre-Back,right,,"Jul 1, 2008",Jack Rodwell,"1,88m",57079,['England'],€14.00m,: Ablöse -,20,"Mar 11, 1991",Without Club
+Centre-Back,right,,"Jul 4, 2007",Phil Jagielka,"1,80m",13520,"['England', 'Poland']",€12.00m,Sheffield United,28,"Aug 17, 1982",Retired
+Centre-Back,right,,"Sep 1, 2009",Johnny Heitinga,"1,80m",4315,['Netherlands'],€10.00m,: Ablöse €6.80m,27,"Nov 15, 1983",Retired
+Centre-Back,left,,"Aug 27, 2009",Sylvain Distin,"1,92m",3356,"['France', 'Guadeloupe']",€4.50m,: Ablöse €6.50m,33,"Dec 16, 1977",Retired
+Centre-Back,right,,,Shkodran Mustafi,"1,84m",88590,"['Germany', 'Albania']",€75k,,19,"Apr 17, 1992",Retired
+Centre-Back,right,,"Jul 1, 2010",Shane Duffy,"1,93m",119269,"['Ireland', 'Northern Ireland']",,: Ablöse -,19,"Jan 1, 1992",Norwich City
+Centre-Back,right,,,Toto Nsiala,"1,93m",121265,"['DR Congo', 'Wales']",,,19,"Mar 25, 1992",Shrewsbury Town
+Left-Back,left,,"Aug 7, 2007",Leighton Baines,"1,70m",13507,['England'],€14.00m,Wigan Athletic,26,"Dec 11, 1984",Retired
+Right-Back,right,Team captain,"Jan 1, 2009",Séamus Coleman,"1,77m",68390,['Ireland'],€6.50m,Sligo Rovers,22,"Oct 11, 1988",Everton FC
+Right-Back,right,,"Jul 1, 2005",Phil Neville,"1,80m",3404,['England'],€3.50m,Manchester United,34,"Jan 21, 1977",Retired
+Right-Back,right,,"Jul 1, 2000",Tony Hibbert,"1,73m",3614,['England'],€3.00m,: Ablöse -,30,"Feb 20, 1981",Retired
+Central Midfield,right,,"Sep 2, 2008",Marouane Fellaini,"1,94m",39679,"['Belgium', 'Morocco']",€19.00m,: Ablöse €21.76m,23,"Nov 22, 1987",Retired
+Central Midfield,right,,"Jul 1, 2005",Mikel Arteta,"1,77m",7451,['Spain'],€17.00m,Real Sociedad,29,"Mar 26, 1982",Retired
+Central Midfield,right,,"Jul 1, 2002",Leon Osman,"1,73m",3620,['England'],€5.50m,Everton FC Reserves,30,"May 17, 1981",Retired
+Central Midfield,right,,"Jul 1, 2011",Ross Barkley,"1,89m",131978,['England'],,: Ablöse -,17,"Dec 5, 1993",Aston Villa
+Central Midfield,right,,,Adam Forshaw,"1,75m",121257,['England'],,,19,"Oct 8, 1991",Plymouth Argyle
+Left Midfield,,,"Jul 31, 2012",Steven Pienaar,,4321,['South Africa'],€11.00m,Tottenham Hotspur,29,"Mar 17, 1982",Retired
+Attacking Midfield,right,,"Jul 1, 2004",Tim Cahill,"1,78m",13556,"['Australia', 'Samoa']",€16.00m,: Ablöse €2.20m,31,"Dec 6, 1979",Retired
+Attacking Midfield,left,,"Aug 25, 2009",Diniyar Bilyaletdinov,"1,85m",16690,['Russia'],€8.00m,: Ablöse €10.00m,26,"Feb 27, 1985",Retired
+Attacking Midfield,right,,"Jul 1, 2009",Jose Baxter,"1,79m",82734,['England'],,: Ablöse -,19,"Feb 7, 1992",Retired
+Centre-Forward,,,"Aug 30, 2007",Yakubu Aiyegbeni,"1,83m",8559,['Nigeria'],€12.00m,Middlesbrough FC,28,"Nov 22, 1982",Retired
+Centre-Forward,left,,"Sep 1, 2008",Louis Saha,"1,82m",4015,"['France', 'Guadeloupe']",€5.50m,Manchester United,32,"Aug 8, 1978",Retired
+Centre-Forward,right,,"Jul 1, 2010",Jermaine Beckford,"1,88m",38874,"['Jamaica', 'England']",€3.50m,Leeds United,27,"Dec 9, 1983",Retired
+Centre-Forward,right,,"Jul 1, 2006",Victor Anichebe,"1,90m",39532,"['Nigeria', 'England']",€2.50m,: Ablöse -,23,"Apr 23, 1988",Retired
+Centre-Forward,right,,"Jul 1, 2006",James Vaughan,"1,81m",30471,"['England', 'Jamaica']",€1.50m,: Ablöse -,22,"Jul 14, 1988",Retired
+Centre-Forward,left,,"Jul 1, 2010",Magaye Gueye,"1,83m",91956,"['Senegal', 'France']",€1.00m,: Ablöse €1.40m,20,"Jul 6, 1990",Without Club
+Centre-Forward,right,,,João Silva,"1,89m",124384,['Portugal'],€800k,,21,"May 21, 1990",Without Club
+Centre-Forward,right,,"Jan 28, 2011",Apostolos Vellios,"1,91m",124495,['Greece'],€600k,: Ablöse €300k,19,"Jan 8, 1992",Nea Salamina Famagusta
+Centre-Forward,right,,"Jul 1, 2011",Conor McAleny,"1,78m",121260,['England'],,: Ablöse -,18,"Aug 12, 1992",Salford City

@@ -1,0 +1,45 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,,"Aug 8, 2007",Craig Gordon,"1,93m",12589,['Scotland'],€5.50m,Heart of Midlothian FC,26,"Dec 31, 1982",Heart of Midlothian FC
+Goalkeeper,right,,"Jan 2, 2007",Márton Fülöp,"1,98m",17879,['Hungary'],€2.60m,Tottenham Hotspur,26,"May 3, 1983",---
+Goalkeeper,,,"Jul 1, 2006",Darren Ward,"1,80m",9993,['Wales'],€400k,: Ablöse free transfer,35,"May 11, 1974",Retired
+Goalkeeper,,,"Jul 1, 2008",Nick Colgan,"1,85m",12690,['Ireland'],€200k,Ipswich Town,35,"Sep 19, 1973",Retired
+Centre-Back,right,,"Aug 27, 2008",Anton Ferdinand,"1,85m",3698,"['England', 'St. Lucia']",€6.00m,: Ablöse €10.00m,24,"Feb 18, 1985",Retired
+Centre-Back,left,,"Oct 1, 2004",Danny Collins,"1,85m",26183,"['Wales', 'England']",€3.70m,Chester City (- 2010),28,"Aug 6, 1980",Retired
+Centre-Back,right,,"Feb 1, 2009",Tal Ben Haim,"1,83m",20714,['Israel'],€3.50m,: Ablöse free transfer,27,"Mar 31, 1982",Retired
+Centre-Back,left,,"Aug 29, 2007",Danny Higginbotham,"1,85m",3686,"['Gibraltar', 'England']",€3.00m,Stoke City,30,"Dec 29, 1978",Retired
+Centre-Back,right,,"Jul 26, 2007",Paul McShane,"1,83m",24636,['Ireland'],€3.00m,West Bromwich Albion,23,"Jan 6, 1986",Retired
+Centre-Back,right,,"Jul 1, 2005",Nyron Nosworthy,"1,85m",14054,"['Jamaica', 'England']",€2.30m,Gillingham FC,28,"Oct 11, 1980",Retired
+Centre-Back,right,,"Jul 1, 2007",Greg Halford,"1,93m",42062,['England'],€1.50m,Reading FC,24,"Dec 8, 1984",Blyth Spartans
+Centre-Back,right,,"Feb 1, 2009",Calum Davenport,"1,93m",4221,['England'],€1.00m,: Ablöse free transfer,26,"Jan 1, 1983",Tavistock FC
+Centre-Back,right,,"Jan 15, 2008",Jean-Yves M'voto,"1,94m",55381,"['France', 'Cameroon']",€300k,: Ablöse €400k,20,"Sep 6, 1988",Retired
+Centre-Back,left,,,Peter Hartley,"1,87m",41132,['England'],€100k,,21,"Apr 3, 1988",Retired
+Left-Back,left,,"Jul 16, 2007",Kieran Richardson,"1,77m",3548,['England'],€5.60m,Manchester United,24,"Oct 21, 1984",Retired
+Left-Back,left,,"Sep 1, 2008",George McCartney,"1,83m",3775,['Northern Ireland'],€3.30m,: Ablöse €5.50m,28,"Apr 29, 1981",Retired
+Right-Back,right,,"Jul 24, 2008",Pascal Chimbonda,"1,82m",18875,"['Guadeloupe', 'France']",€5.00m,Tottenham Hotspur,30,"Feb 21, 1979",Skelmersdale United
+Right-Back,right,,"Jan 22, 2008",Phil Bardsley,"1,80m",15773,"['Scotland', 'England']",€3.20m,Manchester United,24,"Jun 28, 1985",Retired
+Right-Back,right,,"Jan 2, 2007",Carlos Edwards,"1,80m",33489,['Trinidad and Tobago'],€1.30m,: Ablöse €2.10m,30,"Oct 24, 1978",FC Hadleigh United
+Right-Back,right,,,Michael Kay,"1,85m",61657,['England'],€50k,,19,"Sep 12, 1989",Retired
+Defensive Midfield,right,,"Jul 1, 2008",Teemu Tainio,"1,75m",4741,['Finland'],€2.80m,Tottenham Hotspur,29,"Nov 27, 1979",Retired
+Defensive Midfield,left,,"Jul 1, 2009",Robbie Weir,"1,75m",21804,['Northern Ireland'],€100k,Sunderland AFC Reserves,20,"Dec 9, 1988",Crusaders FC
+Defensive Midfield,left,,"Jul 1, 2009",Jack Colback,"1,77m",61644,['England'],€50k,Sunderland AFC Reserves,19,"Oct 24, 1989",Queens Park Rangers
+Central Midfield,right,,"Jul 30, 2008",Steed Malbranque,"1,71m",3569,"['France', 'Belgium']",€8.50m,Tottenham Hotspur,29,"Jan 6, 1980",Retired
+Central Midfield,right,,"Jul 1, 2004",Dean Whitehead,"1,83m",13683,['England'],€3.00m,: Ablöse €300k,27,"Jan 12, 1982",Retired
+Central Midfield,right,,"Jul 1, 2006",Liam Miller,"1,73m",9505,['Ireland'],€2.00m,Manchester United,28,"Feb 13, 1981",---
+Central Midfield,right,,"Jan 29, 2019",Grant Leadbitter,"1,77m",13796,['England'],€2.00m,Middlesbrough FC,23,"Jan 7, 1986",Retired
+Central Midfield,right,,,Jamie Chandler,"1,70m",60104,['England'],€100k,,20,"Mar 24, 1989",Retired
+Central Midfield,right,,"Jul 1, 2008",Jordan Henderson,"1,82m",61651,['England'],€50k,Sunderland AFC U18,19,"Jun 17, 1990",Ajax Amsterdam
+Central Midfield,right,,"Jul 30, 2008",David Meyler,"1,89m",68183,['Ireland'],€50k,Cork City FC,20,"May 29, 1989",Retired
+Left Midfield,left,Groin injury - Return unknown,"Jan 1, 2008",Andy Reid,"1,70m",10008,['Ireland'],€4.00m,Charlton Athletic,26,"Jul 29, 1982",Retired
+Left Midfield,left,,"Jul 1, 2008",Nathan Luscombe,"1,73m",61661,['England'],€50k,Sunderland AFC U18,19,"Nov 6, 1989",Retired
+Centre-Forward,right,,"Aug 21, 2008",Djibril Cissé,"1,82m",3966,"['France', ""Cote d'Ivoire""]",€10.50m,Olympique Marseille,27,"Aug 12, 1981",Retired
+Centre-Forward,right,,"Aug 1, 2007",Kenwyne Jones,"1,87m",28245,['Trinidad and Tobago'],€10.00m,Southampton FC,24,"Oct 5, 1984",Retired
+Centre-Forward,right,,"Jul 13, 2007",Michael Chopra,"1,75m",3463,"['England', 'India']",€4.50m,: Ablöse €7.50m,25,"Dec 23, 1983",Without Club
+Centre-Forward,right,,"Jul 28, 2008",El-Hadji Diouf,"1,80m",3604,"['Senegal', 'France']",€4.10m,: Ablöse €3.20m,28,"Jan 15, 1981",Retired
+Centre-Forward,right,,"Aug 21, 2008",David Healy,"1,73m",14021,['Northern Ireland'],€2.00m,Fulham FC,29,"Aug 5, 1979",Retired
+Centre-Forward,left,,"Jul 1, 2005",Daryl Murphy,"1,89m",31312,['Ireland'],€1.70m,: Ablöse €150k,26,"Mar 15, 1983",Retired
+Centre-Forward,right,,"Jan 1, 2008",Rade Prica,"1,85m",1610,"['Sweden', 'Croatia']",€1.30m,Aalborg BK,29,"Jun 30, 1980",Retired
+Centre-Forward,right,,"Jan 8, 2007",Anthony Stokes,"1,85m",35587,['Ireland'],€900k,Arsenal FC Reserves,20,"Jul 25, 1988",Retired
+Centre-Forward,,,"Jul 1, 2006",Dwight Yorke,"1,78m",3223,"['Trinidad and Tobago', 'England']",€500k,: Ablöse €300k,37,"Nov 3, 1971",Retired
+Centre-Forward,right,,"Aug 1, 2006",David Connolly,"1,75m",9051,['Ireland'],€300k,Wigan Athletic,32,"Jun 6, 1977",Retired
+Centre-Forward,left,,"Jul 1, 2008",Martyn Waghorn,"1,77m",61674,['England'],€150k,Sunderland AFC U18,19,"Jan 23, 1990",Northampton Town
+Centre-Forward,right,,,David Dowson,"1,78m",60107,['England'],€100k,,20,"Sep 12, 1988",Without Club

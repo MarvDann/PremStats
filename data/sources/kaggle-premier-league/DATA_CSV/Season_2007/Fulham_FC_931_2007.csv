@@ -1,0 +1,44 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jan 10, 2006",Antti Niemi,"1,86m",3101,['Finland'],€4.75m,Southampton FC,36,"May 31, 1972",Retired
+Goalkeeper,,"Aug 23, 2007",Kasey Keller,,3608,['United States'],€800k,Borussia Mönchengladbach,38,"Nov 29, 1969",Retired
+Goalkeeper,right,"Aug 1, 2005",Tony Warner,"1,93m",10259,"['Trinidad and Tobago', 'England']",€600k,: Ablöse free transfer,34,"May 11, 1974",Retired
+Goalkeeper,left,"Jul 1, 2004",Ricardo Batista,"1,92m",24846,"['Angola', 'Portugal']",€400k,Vitória Setúbal FC U19,21,"Nov 19, 1986",Casa Pia AC
+Centre-Back,right,"Jul 1, 1999",Zat Knight,"1,98m",4012,['England'],€6.50m,Fulham FC U18,28,"May 2, 1980",Retired
+Centre-Back,right,"Jan 18, 2008",Brede Hangeland,"1,99m",25553,"['Norway', 'United States']",€4.50m,: Ablöse €3.30m,27,"Jun 20, 1981",Retired
+Centre-Back,left,"Jan 13, 2003",Carlos Bocanegra,"1,83m",15829,"['United States', 'Mexico']",€4.00m,: Ablöse free transfer,29,"May 25, 1979",Retired
+Centre-Back,right,"Jul 1, 2007",Aaron Hughes,"1,83m",3580,['Northern Ireland'],€2.75m,: Ablöse €1.50m,28,"Nov 8, 1979",Retired
+Centre-Back,left,"Aug 1, 2007",Dejan Stefanovic,"1,80m",4308,['Serbia'],€1.50m,: Ablöse €1.50m,33,"Oct 28, 1974",Retired
+Centre-Back,right,"Jul 11, 2006",Gabriel Zakuani,"1,86m",41990,"['DR Congo', 'England']",€600k,Leyton Orient,22,"May 31, 1986",Retired
+Centre-Back,right,"Jan 1, 2004",Ian Pearce,"1,85m",3879,['England'],€600k,: Ablöse €1.60m,34,"May 7, 1974",Retired
+Centre-Back,left,"Jan 1, 2008",Toni Kallio,"1,94m",37181,['Finland'],€600k,BSC Young Boys,29,"Aug 9, 1978",Retired
+Centre-Back,right,"Aug 1, 2007",Adrian Leijer,"1,90m",43163,"['Australia', 'England']",€500k,Melbourne Victory,22,"Mar 25, 1986",Retired
+Centre-Back,right,"Jul 1, 2005",Philippe Christanval,"1,89m",6741,"['France', 'Guadeloupe']",€400k,Olympique Marseille,29,"Aug 31, 1978",Retired
+Left-Back,left,"Jul 13, 2007",Paul Konchesky,"1,78m",3296,['England'],€3.00m,: Ablöse €4.00m,27,"May 15, 1981",Retired
+Left-Back,left,"Aug 1, 2007",Nathan Ashton,"1,75m",34065,['England'],€100k,Charlton Athletic,21,"Jan 30, 1987",Without Club
+Left-Back,left,"Jul 1, 2008",Rob Milsom,"1,80m",55851,['England'],,Fulham FC Reserves,21,"Jan 2, 1987",Dorking Wanderers
+Right-Back,,"Jan 1, 2004",Moritz Volz,,4048,['Germany'],€3.00m,: Ablöse €1.00m,25,"Jan 21, 1983",Retired
+Right-Back,right,"Jan 1, 2008",Paul Stalteri,"1,81m",536,"['Canada', 'Italy']",€1.50m,Tottenham Hotspur,30,"Oct 18, 1977",Retired
+Right-Back,right,"Aug 1, 2006",Elliot Omozusi,"1,79m",47844,"['England', 'Nigeria']",€1.00m,Fulham FC U18,19,"Dec 15, 1988",Without Club
+Defensive Midfield,right,"Jan 1, 2007",Aleksey Smertin,"1,74m",5379,['Russia'],€4.00m,: Ablöse free transfer,33,"May 1, 1975",Retired
+Defensive Midfield,right,"Feb 18, 2016",Chris Baird,"1,85m",4115,['Northern Ireland'],€3.50m,Derby County,26,"Feb 25, 1982",Retired
+Defensive Midfield,right,"Jan 1, 2006",Simon Elliott,"1,83m",26831,['New Zealand'],€250k,: Ablöse free transfer,34,"Jun 10, 1974",Retired
+Central Midfield,right,"Jul 1, 2004",Papa Bouba Diop,"1,94m",5485,['Senegal'],€5.50m,: Ablöse €9.00m,30,"Jan 28, 1978",---
+Central Midfield,right,"Jul 1, 2007",Steven Davis,"1,72m",28973,['Northern Ireland'],€4.50m,: Ablöse €5.90m,23,"Jan 1, 1985",Retired
+Central Midfield,,"Jan 22, 2008",Leon Andreasen,,22837,['Denmark'],€4.00m,SV Werder Bremen,25,"Apr 23, 1983",Retired
+Central Midfield,right,"Jul 1, 2006",Jimmy Bullard,"1,78m",13510,"['England', 'Germany']",€3.50m,Wigan Athletic,29,"Oct 23, 1978",Retired
+Central Midfield,right,"Aug 31, 2007",Danny Murphy,"1,77m",3221,['England'],€2.50m,Tottenham Hotspur,31,"Mar 18, 1977",Retired
+Central Midfield,left,"Jul 1, 2004",Michael Timlin,"1,77m",28951,"['Ireland', 'England']",€250k,Fulham FC U18,23,"Mar 19, 1985",Dulwich Hamlet
+Right Midfield,right,"Jan 24, 2007",Simon Davies,"1,78m",4056,['Wales'],€3.50m,: Ablöse free transfer,28,"Oct 23, 1979",Retired
+Attacking Midfield,,"Jan 31, 2008",Jari Litmanen,,4675,['Finland'],€400k,Malmö FF,37,"Feb 20, 1971",Retired
+Attacking Midfield,right,"Jul 1, 2007",Wayne Brown,"1,75m",61566,['England'],,Fulham FC U18,19,"Aug 6, 1988",Colliers Wood United
+Left Winger,left,"Jul 19, 2007",Lee Cook,"1,77m",13783,['England'],€2.00m,: Ablöse €3.75m,25,"Aug 3, 1982",Retired
+Right Winger,both,"Jul 1, 2007",Diomansy Kamara,"1,84m",6053,"['Senegal', 'France']",€5.00m,West Bromwich Albion,27,"Nov 8, 1980",Retired
+Right Winger,left,"Aug 8, 2007",Hamer Bouazza,"1,78m",36793,"['Algeria', 'France']",€4.25m,Watford FC,23,"Feb 22, 1985",Retired
+Right Winger,both,"Aug 1, 2007",Ki-hyeon Seol,"1,87m",9606,"['Korea, South']",€2.25m,Reading FC,29,"Jan 8, 1979",Retired
+Second Striker,right,"Jan 1, 2014",Clint Dempsey,"1,85m",27577,['United States'],€4.25m,: Ablöse ?,25,"Mar 9, 1983",Retired
+Centre-Forward,right,"Jul 13, 2007",David Healy,"1,73m",14021,['Northern Ireland'],€3.50m,Leeds United,28,"Aug 5, 1979",Retired
+Centre-Forward,right,"Jan 23, 2008",Eddie Johnson,"1,83m",38773,['United States'],€2.50m,: Ablöse €2.50m,24,"Mar 31, 1984",Retired
+Centre-Forward,right,"Jan 1, 2008",Erik Nevland,"1,78m",13711,['Norway'],€2.50m,: Ablöse €3.00m,30,"Nov 10, 1977",Retired
+Centre-Forward,right,"Aug 1, 2007",Shefki Kuqi,"1,88m",12398,"['Finland', 'Kosovo']",€1.50m,: Ablöse free transfer,31,"Nov 10, 1976",Retired
+Centre-Forward,right,"Jan 1, 2004",Collins John,"1,85m",4694,"['Netherlands', 'Liberia']",€1.50m,: Ablöse €3.50m,22,"Oct 17, 1985",Retired
+Centre-Forward,right,"Jan 20, 2004",Brian McBride,"1,83m",3469,['United States'],€800k,: Ablöse €800k,36,"Jun 19, 1972",Retired

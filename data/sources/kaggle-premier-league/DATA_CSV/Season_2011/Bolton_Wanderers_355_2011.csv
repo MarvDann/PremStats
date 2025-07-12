@@ -1,0 +1,39 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2008",Ádám Bogdán,"1,94m",55247,['Hungary'],€2.00m,Bolton Wanderers U23,24,"Sep 27, 1987",Retired
+Goalkeeper,right,,"Nov 1, 1997",Jussi Jääskeläinen,"1,91m",3692,['Finland'],€1.00m,: Ablöse €150k,37,"Apr 19, 1975",Retired
+Goalkeeper,right,,"Jul 1, 2008",Rob Lainton,"1,85m",65691,['England'],,Bolton Wanderers U18,22,"Oct 12, 1989",Without Club
+Goalkeeper,right,,"Jul 1, 2012",Jay Lynch,"1,88m",128273,['England'],,Bolton Wanderers U23,19,"Mar 31, 1993",Fleetwood Town
+Centre-Back,right,,"Jan 30, 2008",Gary Cahill,"1,93m",27511,['England'],€16.50m,: Ablöse €6.00m,26,"Dec 19, 1985",Retired
+Centre-Back,right,,"Jan 20, 2011",David Wheater,"1,96m",29199,['England'],€2.50m,Middlesbrough FC,25,"Feb 14, 1987",Retired
+Centre-Back,right,"No eligibility - until Jan 31, 2025 - UEFA Champions League","Sep 1, 2011",Dedryck Boyata,"1,88m",88262,"['Belgium', 'DR Congo']",€2.00m,: Ablöse free transfer,21,"Nov 28, 1990",Club Brugge KV
+Centre-Back,left,,"Jan 26, 2012",Tim Ream,"1,86m",145466,['United States'],€2.00m,New York Red Bulls,24,"Oct 5, 1987",Charlotte FC
+Centre-Back,right,,"Jul 25, 2009",Zat Knight,"1,98m",4012,['England'],€1.00m,: Ablöse €4.70m,32,"May 2, 1980",Retired
+Centre-Back,right,,"Jul 1, 2009",Mark Connolly,"1,85m",128285,['Ireland'],€50k,Wolverhampton Wanderers U18,20,"Dec 16, 1991",Derry City
+Left-Back,left,,"Jul 1, 2010",Marcos Alonso,"1,88m",112515,['Spain'],€1.50m,Real Madrid Castilla,21,"Dec 28, 1990",Celta de Vigo
+Left-Back,left,,"Jan 29, 2010",Paul Robinson,"1,75m",14063,['England'],€500k,West Bromwich Albion,33,"Dec 14, 1978",Retired
+Left-Back,,,"Jul 1, 1998",Ricardo Gardner,,6264,['Jamaica'],€500k,Harbour View FC,33,"Sep 25, 1978",Retired
+Left-Back,left,,"Jul 1, 2012",Adam Blakeman,"1,75m",128228,['England'],,Bolton Wanderers U23,20,"Dec 3, 1991",Chorley FC
+Right-Back,right,,"Jul 1, 2011",Tyrone Mears,"1,81m",14050,"['England', 'Sierra Leone']",€2.50m,: Ablöse €1.70m,29,"Feb 18, 1983",Retired
+Right-Back,,,"Jul 1, 2009",Sam Ricketts,,30434,"['Wales', 'England']",€2.50m,: Ablöse €2.40m,30,"Oct 11, 1981",Retired
+Right-Back,right,,"Jan 1, 2008",Grétar Steinsson,"1,89m",30304,['Iceland'],€2.00m,AZ Alkmaar,30,"Jan 9, 1982",Retired
+Right-Back,right,,"Jul 1, 2010",Joe Riley,"1,83m",125117,['England'],,Bolton Wanderers U18,20,"Oct 13, 1991",Retired
+Defensive Midfield,right,,"Jul 1, 2011",Nigel Reo-Coker,"1,75m",14060,"['England', 'Sierra Leone']",€5.00m,: Ablöse free transfer,28,"May 14, 1984",Retired
+Defensive Midfield,right,,"Jul 1, 2009",Sean Davis,"1,78m",4036,['England'],€750k,: Ablöse free transfer,32,"Sep 20, 1979",Retired
+Central Midfield,both,,"Jan 26, 2010",Stuart Holden,"1,78m",30071,"['United States', 'Scotland']",€5.50m,: Ablöse free transfer,26,"Aug 1, 1985",Retired
+Central Midfield,right,,"Jul 1, 2008",Fabrice Muamba,"1,88m",35586,"['England', 'DR Congo']",€5.00m,: Ablöse €6.40m,24,"Apr 6, 1988",Retired
+Central Midfield,right,,"Jan 26, 2009",Mark Davies,"1,80m",36917,['England'],€4.00m,Wolverhampton Wanderers,24,"Feb 18, 1988",Retired
+Central Midfield,right,,"Jul 1, 2011",Darren Pratley,"1,86m",28957,"['England', 'Jamaica']",€750k,: Ablöse free transfer,27,"Apr 22, 1985",Leyton Orient
+Central Midfield,right,,"Jan 1, 2012",Josh Vela,"1,81m",173804,['England'],,Bolton Wanderers U18,18,"Dec 14, 1993",Carlisle United
+Left Midfield,,,"Mar 1, 2012",Gregg Wylde,"1,78m",61030,['Scotland'],€2.00m,Without Club,21,"Mar 23, 1991",Drumchapel United FC
+Attacking Midfield,left,unknown injury - Return unknown,"Aug 31, 2011",Gaël Kakuta,"1,73m",74297,"['DR Congo', 'France']",€4.00m,Chelsea FC,21,"Jun 21, 1991",Esteghlal FC
+Left Winger,both,,"Aug 12, 2011",Tuncay Şanlı,"1,82m",6934,['Türkiye'],€1.25m,VfL Wolfsburg,30,"Jan 16, 1982",Retired
+Left Winger,,,"Jul 1, 2010",Martin Petrov,,670,['Bulgaria'],€1.00m,: Ablöse free transfer,33,"Jan 15, 1979",Retired
+Right Winger,right,,"Aug 14, 2009",Chung-yong Lee,"1,80m",81801,"['Korea, South']",€7.50m,FC Seoul,23,"Jul 2, 1988",Ulsan HD FC
+Right Winger,right,,"Jul 29, 2011",Chris Eagles,"1,83m",24635,['England'],€5.50m,: Ablöse €1.70m,26,"Nov 19, 1985",Retired
+Right Winger,right,,"Jan 31, 2012",Ryo Miyaichi,"1,81m",129688,['Japan'],€3.00m,: Ablöse free transfer,19,"Dec 14, 1992",Yokohama F. Marinos
+Right Winger,right,,"Aug 1, 2009",Michael O'Halloran,"1,88m",125158,['Scotland'],,Bolton Wanderers U18,21,"Jan 6, 1991",Dunfermline Athletic FC
+Second Striker,,,"Jul 1, 2010",Robbie Blake,"1,75m",3490,['England'],€500k,: Ablöse free transfer,36,"Mar 4, 1976",Retired
+Centre-Forward,right,,"Aug 31, 2011",David N'Gog,"1,90m",41242,"['France', 'Cameroon']",€3.00m,: Ablöse €4.50m,23,"Apr 1, 1989",Without Club
+Centre-Forward,right,,"Jan 31, 2012",Marvin Sordell,"1,79m",120599,['England'],€2.50m,Watford FC,21,"Feb 17, 1991",Kettering Town
+Centre-Forward,,,"Jul 1, 2010",Ivan Klasnic,,690,['Croatia'],€1.25m,: Ablöse free transfer,32,"Jan 29, 1980",Retired
+Centre-Forward,right,,"Jul 23, 2003",Kevin Davies,"1,83m",4114,['England'],€1.00m,Southampton FC,35,"Mar 26, 1977",Retired

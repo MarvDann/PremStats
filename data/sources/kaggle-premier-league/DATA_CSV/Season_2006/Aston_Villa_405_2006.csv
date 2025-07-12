@@ -1,0 +1,35 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 2003",Thomas Sörensen,"1,96m",3473,['Denmark'],€5.40m,Sunderland AFC,31,"Jun 12, 1976",Retired
+Goalkeeper,,"Dec 14, 2006",Gábor Király,,342,['Hungary'],€2.50m,: Ablöse free transfer,31,"Apr 1, 1976",Retired
+Goalkeeper,right,"Jul 1, 2005",Stuart Taylor,"1,98m",3190,['England'],€900k,: Ablöse free transfer,26,"Nov 28, 1980",Retired
+Goalkeeper,,"Jul 1, 2005",Bobby Olejnik,"1,88m",6170,"['Austria', 'Poland']",€300k,: Ablöse -,20,"Nov 26, 1986",Retired
+Centre-Back,right,"Jul 18, 2001",Olof Mellberg,"1,87m",3098,['Sweden'],€7.10m,Racing Santander,29,"Sep 3, 1977",Retired
+Centre-Back,left,"Jul 1, 2004",Martin Laursen,"1,90m",3503,['Denmark'],€3.20m,AC Milan,29,"Jul 26, 1977",Retired
+Centre-Back,both,"Jan 1, 2003",Liam Ridgewell,"1,88m",4070,['England'],€3.20m,: Ablöse -,22,"Jul 21, 1984",Retired
+Centre-Back,right,"Jul 1, 2005",Aaron Hughes,"1,83m",3580,['Northern Ireland'],€2.90m,Newcastle United,27,"Nov 8, 1979",Retired
+Centre-Back,right,"Jul 1, 2004",Gary Cahill,"1,93m",27511,['England'],€1.90m,: Ablöse -,21,"Dec 19, 1985",Retired
+Left-Back,both,"Jul 1, 2021",Ashley Young,"1,75m",14086,"['England', 'Jamaica']",€7.10m,Inter Milan,21,"Jul 9, 1985",Everton FC
+Left-Back,left,"Aug 30, 2005",Wilfred Bouma,"1,81m",4338,"['Netherlands', 'Suriname']",€4.50m,: Ablöse €4.70m,29,"Jun 15, 1978",Retired
+Right-Back,right,"Mar 9, 1999",Mark Delaney,"1,85m",3841,['Wales'],€1.90m,: Ablöse €375k,31,"May 13, 1976",Retired
+Right-Back,right,"Jan 8, 2007",Phil Bardsley,"1,80m",15773,"['Scotland', 'England']",€1.25m,Manchester United,22,"Jun 28, 1985",Retired
+Defensive Midfield,left,"Jul 1, 1998",Gareth Barry,"1,84m",3291,['England'],€6.40m,: Ablöse -,26,"Feb 23, 1981",Unknown
+Defensive Midfield,left,"Jul 1, 1998",Jlloyd Samuel,"1,80m",4067,"['Trinidad and Tobago', 'England']",€2.00m,: Ablöse -,26,"Mar 29, 1981",---
+Defensive Midfield,right,"Jan 31, 2005",Eric Djemba Djemba,"1,77m",5509,"['Cameroon', 'France']",€2.00m,Manchester United,26,"May 4, 1981",Retired
+Central Midfield,right,"Aug 1, 2006",Stiliyan Petrov,"1,80m",3252,['Bulgaria'],€9.10m,Celtic FC,27,"Jul 5, 1979",Retired
+Central Midfield,right,"Jul 1, 2004",Steven Davis,"1,72m",28973,['Northern Ireland'],€4.60m,: Ablöse -,22,"Jan 1, 1985",Retired
+Central Midfield,left,"Jul 1, 2003",Gavin McCann,"1,80m",4136,['England'],€3.50m,Sunderland AFC,29,"Jan 10, 1978",Retired
+Central Midfield,right,"Jul 1, 1994",Lee Hendrie,"1,68m",4069,['England'],€2.10m,: Ablöse -,30,"May 18, 1977",Retired
+Central Midfield,left,"Jul 1, 2002",Peter Whittingham,"1,77m",3762,['England'],€850k,: Ablöse -,22,"Sep 8, 1984",---
+Central Midfield,right,"Jan 1, 2006",Craig Gardner,"1,76m",37171,['England'],€400k,: Ablöse -,20,"Nov 25, 1986",Retired
+Central Midfield,right,"Jul 1, 2006",Isaiah Osbourne,"1,88m",45276,"['England', 'Jamaica']",€400k,: Ablöse -,19,"Nov 5, 1987",Barwell FC
+Right Midfield,right,"Jul 1, 2006",Didier Agathé,"1,81m",9490,"['France', 'Réunion']",€1.20m,Without Club,31,"Aug 16, 1975",Retired
+Attacking Midfield,right,"Jan 31, 2007",Shaun Maloney,"1,71m",9508,"['Scotland', 'England']",€3.70m,Celtic FC,24,"Jan 24, 1983",Retired
+Attacking Midfield,,"Jul 1, 2005",Patrik Berger,,3218,['Czech Republic'],€1.90m,: Ablöse free transfer,33,"Nov 10, 1973",Retired
+Centre-Forward,right,"Jan 22, 2007",John Carew,"1,96m",3570,['Norway'],€7.10m,: Ablöse ?,27,"Sep 5, 1979",Retired
+Centre-Forward,right,"Aug 23, 2005",Milan Baros,"1,83m",3216,['Czech Republic'],€7.00m,: Ablöse €8.84m,25,"Oct 28, 1981",FK Vigantice
+Centre-Forward,both,"Jan 1, 2001",Juan Pablo Ángel,"1,85m",3278,['Colombia'],€5.00m,: Ablöse €14.40m,31,"Oct 24, 1975",Retired
+Centre-Forward,right,"Jul 1, 2005",Kevin Phillips,"1,70m",3131,['England'],€3.30m,Southampton FC,33,"Jul 25, 1973",Retired
+Centre-Forward,right,"Jul 1, 2005",Gabriel Agbonlahor,"1,83m",37148,"['England', 'Nigeria']",€2.90m,: Ablöse -,20,"Oct 13, 1986",Retired
+Centre-Forward,,"Oct 3, 2006",Chris Sutton,,7453,['England'],€2.00m,Without Club,34,"Mar 10, 1973",Retired
+Centre-Forward,,"Jul 1, 2003",Luke Moore,"1,80m",4075,"['England', 'Jamaica']",€1.90m,: Ablöse -,21,"Feb 13, 1986",Retired
+Centre-Forward,right,"Jul 1, 2005",Sam Williams,"1,88m",45554,['England'],,: Ablöse -,20,"Jun 9, 1987",Retired

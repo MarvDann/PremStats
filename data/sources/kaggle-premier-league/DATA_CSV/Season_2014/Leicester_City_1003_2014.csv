@@ -1,0 +1,38 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2011",Kasper Schmeichel,"1,89m",16911,['Denmark'],€3.50m,Leeds United,28,"Nov 5, 1986",Celtic FC
+Goalkeeper,right,,"Jul 1, 2014",Ben Hamer,"1,93m",67283,['England'],€750k,Charlton Athletic,27,"Nov 20, 1987",Sheffield Wednesday
+Goalkeeper,,,"Jan 6, 2015",Mark Schwarzer,,3357,"['Australia', 'Germany']",€500k,Chelsea FC,42,"Oct 6, 1972",Retired
+Goalkeeper,right,,"Jul 1, 2011",Adam Smith,"1,93m",163532,['England'],€250k,Leicester City U18,22,"Nov 23, 1992",Hartlepool United
+Goalkeeper,right,,"Jul 1, 2004",Conrad Logan,"1,88m",27053,['Ireland'],€250k,Leicester City U18,29,"Apr 18, 1986",Anstey Nomads
+Centre-Back,right,,"Jul 1, 2015",Robert Huth,"1,91m",2998,['Germany'],€5.00m,Stoke City,30,"Aug 18, 1984",Retired
+Centre-Back,right,,"Jul 1, 2012",Liam Moore,"1,85m",128906,"['Jamaica', 'England']",€2.50m,Leicester City U21,22,"Jan 31, 1993",Spalding United
+Centre-Back,right,,"Jan 30, 2012",Wes Morgan,"1,85m",10003,"['Jamaica', 'England']",€2.00m,: Ablöse €1.13m,31,"Jan 21, 1984",Retired
+Centre-Back,left,,"Jul 1, 2014",Matthew Upson,"1,85m",3273,['England'],€500k,Brighton & Hove Albion,36,"Apr 18, 1979",Retired
+Centre-Back,right,,"Sep 17, 2013",Marcin Wasilewski,"1,86m",16947,['Poland'],€500k,: Ablöse free transfer,35,"Jun 9, 1980",Retired
+Left-Back,left,,"Jul 13, 2011",Paul Konchesky,"1,78m",3296,['England'],€500k,: Ablöse €1.70m,34,"May 15, 1981",Retired
+Left-Back,left,,"Jul 22, 2013",Zoumana Bakayogo,"1,75m",48411,"[""Cote d'Ivoire"", 'France']",€250k,: Ablöse free transfer,28,"Aug 17, 1986",Without Club
+Right-Back,right,,"Jul 1, 2012",Ritchie De Laet,"1,84m",55687,['Belgium'],€2.50m,Manchester United,26,"Nov 28, 1988",Retired
+Right-Back,right,,"Aug 30, 2014",Danny Simpson,"1,76m",37442,"['England', 'Jamaica']",€2.00m,: Ablöse €2.50m,28,"Jan 4, 1987",Retired
+Right-Back,right,,,James Pearson,"1,86m",295652,['England'],,,22,"Jan 19, 1993",Retired
+Defensive Midfield,left,,"Aug 28, 2014",Esteban Cambiasso,"1,77m",7520,"['Argentina', 'Italy']",€2.00m,: Ablöse free transfer,34,"Aug 18, 1980",Retired
+Defensive Midfield,right,,"Sep 16, 2013",Ryan Watson,"1,85m",121269,['England'],,Without Club,21,"Jul 7, 1993",Salford City
+Central Midfield,right,,"Jan 20, 2012",Danny Drinkwater,"1,78m",73491,['England'],€3.00m,Manchester United Reserves,25,"Mar 5, 1990",Retired
+Central Midfield,right,,"Jul 1, 2007",Andy King,"1,84m",56872,"['Wales', 'England']",€2.50m,Leicester City U18,26,"Oct 29, 1988",Retired
+Central Midfield,right,,"Jul 1, 2012",Matty James,"1,81m",73522,['England'],€2.00m,Manchester United U21,23,"Jul 22, 1991",Wrexham AFC
+Central Midfield,right,,"Aug 30, 2013",Dean Hammond,"1,82m",33065,['England'],€500k,Southampton FC,32,"Mar 7, 1983",Retired
+Central Midfield,right,,"Aug 21, 2009",Paul Gallagher,"1,85m",10501,['Scotland'],€400k,Blackburn Rovers,30,"Sep 8, 1984",Retired
+Central Midfield,right,,"Jul 1, 2013",Michael Cain,"1,82m",284763,['England'],€100k,Leicester City U18,21,"Feb 18, 1994",Retired
+Right Midfield,right,,"Jul 1, 2014",Marc Albrighton,"1,75m",61560,['England'],€1.50m,: Ablöse free transfer,25,"Nov 18, 1989",Retired
+Left Midfield,left,,"Jul 1, 2010",Jeffrey Schlupp,"1,78m",157506,"['Ghana', 'Germany']",€3.00m,Leicester City U18,22,"Dec 23, 1992",Crystal Palace
+Left Midfield,left,,,Jack Barmby,"1,78m",218086,['England'],€100k,,20,"Nov 14, 1994",Retired
+Attacking Midfield,both,,"Sep 1, 2014",Nick Powell,"1,83m",134424,['England'],€2.50m,Manchester United,21,"Mar 23, 1994",Stockport County
+Attacking Midfield,right,,"Sep 1, 2014",Tom Lawrence,"1,75m",229970,['Wales'],€1.00m,Manchester United U21,21,"Jan 13, 1994",Rangers FC
+Right Winger,left,,"Jan 11, 2014",Riyad Mahrez,"1,79m",171424,"['Algeria', 'France']",€3.00m,Le Havre AC,24,"Feb 21, 1991",Al-Ahli SFC
+Right Winger,left,,"Aug 1, 2012",Anthony Knockaert,"1,72m",149237,"['France', 'Belgium']",€2.00m,: Ablöse €900k,23,"Nov 20, 1991",Stade Mouscronnois
+Right Winger,right,,"Sep 20, 2013",Gary Taylor-Fletcher,"1,83m",49101,['England'],€500k,Without Club,34,"Jun 4, 1981",Retired
+Centre-Forward,right,,"Jul 22, 2014",Leonardo Ulloa,"1,88m",54890,"['Argentina', 'Spain']",€8.50m,Brighton & Hove Albion,28,"Jul 26, 1986",Retired
+Centre-Forward,right,,"Jan 16, 2015",Andrej Kramaric,"1,77m",46580,['Croatia'],€8.00m,: Ablöse €9.00m,24,"Jun 19, 1991",TSG 1899 Hoffenheim
+Centre-Forward,right,Team captain,"Jul 1, 2012",Jamie Vardy,"1,79m",197838,['England'],€2.00m,Fleetwood Town,28,"Jan 11, 1987",Leicester City
+Centre-Forward,right,,"Jul 5, 2011",David Nugent,"1,80m",33963,"['England', 'Ireland']",€2.00m,: Ablöse free transfer,30,"May 2, 1985",Retired
+Centre-Forward,right,,"Jan 1, 2013",Chris Wood,"1,91m",108725,['New Zealand'],€1.00m,West Bromwich Albion,23,"Dec 7, 1991",Nottingham Forest
+Centre-Forward,left,,,Tom Hopper,"1,86m",184397,['England'],€100k,,21,"Dec 14, 1993",Colchester United

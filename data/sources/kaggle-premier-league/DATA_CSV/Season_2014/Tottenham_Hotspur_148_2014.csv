@@ -1,0 +1,43 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,,"Aug 31, 2012",Hugo Lloris,"1,88m",17965,['France'],€20.00m,,: Ablöse €12.60m,28,"Dec 26, 1986",Los Angeles FC
+Goalkeeper,right,,"Oct 14, 2019",Michel Vorm,"1,83m",26276,"['Netherlands', 'Suriname']",€5.00m,,Without Club,31,"Oct 20, 1983",Retired
+Goalkeeper,right,,"Jul 1, 2011",Brad Friedel,"1,91m",3476,"['United States', 'England']",€750k,,: Ablöse free transfer,44,"May 18, 1971",Retired
+Goalkeeper,right,,"Jul 1, 2013",Jordan Archer,"1,90m",177952,"['Scotland', 'England']",,,Tottenham Hotspur U21,22,"Apr 12, 1993",Portsmouth FC
+Goalkeeper,right,,,Luke McGee,"1,93m",183301,['England'],,,,19,"Sep 2, 1995",Tranmere Rovers
+Centre-Back,left,Achilles tendon problems - Return unknown,"Jul 12, 2012",Jan Vertonghen,"1,89m",43250,['Belgium'],€19.00m,,: Ablöse €12.50m,28,"Apr 24, 1987",RSC Anderlecht
+Centre-Back,left,,"Jul 23, 2014",Ben Davies,"1,81m",192765,['Wales'],€9.00m,,: Ablöse €12.65m,22,"Apr 24, 1993",Tottenham Hotspur
+Centre-Back,right,,"Aug 30, 2013",Vlad Chiricheș,"1,84m",123261,['Romania'],€8.00m,,: Ablöse €9.50m,25,"Nov 14, 1989",FCSB
+Centre-Back,right,,"Aug 26, 2014",Federico Fazio,"1,95m",45314,"['Argentina', 'Italy']",€8.00m,,Sevilla FC,28,"Mar 17, 1987",Without Club
+Centre-Back,right,,"Jul 31, 2014",Eric Dier,"1,91m",175722,"['England', 'Portugal']",€7.00m,"Returned after loan spell with Bayern Munich; date: Jun 30, 2024; fee: End of loan",Sporting CP,21,"Jan 15, 1994",Bayern Munich
+Centre-Back,right,,"Jan 1, 2010",Younès Kaboul,"1,92m",27114,"['France', 'Morocco']",€5.50m,,: Ablöse €5.90m,29,"Jan 4, 1986",Retired
+Centre-Back,right,,"Jan 31, 2005",Michael Dawson,"1,89m",9988,['England'],€4.00m,,: Ablöse €7.00m,31,"Nov 18, 1983",Retired
+Centre-Back,right,,"Dec 31, 2010",Bongani Khumalo,"1,89m",82215,"['South Africa', 'Eswatini']",€750k,,: Ablöse €1.80m,28,"Jan 6, 1987",Retired
+Centre-Back,right,,,Milos Veljkovic,"1,88m",202228,"['Serbia', 'Switzerland']",€250k,,,19,"Sep 26, 1995",SV Werder Bremen
+Centre-Back,right,,"Jul 1, 2012",Grant Hall,"1,92m",124845,"['England', 'Ireland']",€100k,,Brighton & Hove Albion,23,"Oct 29, 1991",Swindon Town
+Left-Back,left,,"Jul 25, 2007",Danny Rose,"1,73m",50174,"['England', 'Jamaica']",€9.00m,,Leeds United U18,24,"Jul 2, 1990",Retired
+Right-Back,right,,"Jul 22, 2009",Kyle Walker,"1,78m",95424,['England'],€17.00m,,Sheffield United,25,"May 28, 1990",Manchester City
+Right-Back,right,,"Jul 1, 2009",Kyle Naughton,"1,81m",66219,"['England', 'Ireland']",€6.00m,,Sheffield United,26,"Nov 17, 1988",Swansea City
+Right-Back,right,,"Aug 13, 2014",DeAndre Yedlin,"1,73m",255916,"['United States', 'Latvia']",€1.50m,,: Ablöse €2.60m,21,"Jul 9, 1993",FC Cincinnati
+Defensive Midfield,right,,"Aug 15, 2013",Étienne Capoue,"1,89m",63494,"['France', 'Guadeloupe']",€7.50m,,: Ablöse €11.00m,26,"Jul 11, 1988",Without Club
+Defensive Midfield,left,heart problems - Return unknown,"Jan 1, 2014",Nabil Bentaleb,"1,87m",245537,"['Algeria', 'France']",€6.00m,,Tottenham Hotspur U21,20,"Nov 24, 1994",LOSC Lille
+Defensive Midfield,right,,"Sep 1, 2014",Benjamin Stambouli,"1,80m",127160,"['France', 'Algeria']",€5.00m,,: Ablöse €5.90m,24,"Aug 13, 1990",FC Metz
+Defensive Midfield,right,,,Dominic Ball,"1,84m",167254,"['England', 'Northern Ireland']",,,,19,"Aug 2, 1995",Leyton Orient
+Defensive Midfield,right,,"Jul 1, 2016",Harry Winks,"1,78m",249126,['England'],,,Tottenham Hotspur U23,19,"Feb 2, 1996",Leicester City
+Central Midfield,right,,"Aug 30, 2013",Christian Eriksen,"1,82m",69633,['Denmark'],€27.00m,,: Ablöse €14.15m,23,"Feb 14, 1992",Manchester United
+Central Midfield,left,,"Aug 29, 2012",Mousa Dembélé,"1,85m",19368,"['Belgium', 'Mali']",€15.00m,,Fulham FC,27,"Jul 16, 1987",Retired
+Central Midfield,right,,"Aug 18, 2010",Sandro,"1,88m",74590,"['Brazil', 'Portugal']",€9.00m,,Sport Club Internacional,26,"Mar 15, 1989",Harborough Town
+Central Midfield,right,,"Jul 1, 2013",Paulinho,"1,83m",57229,['Brazil'],€9.00m,,Sport Club Corinthians Paulista,26,"Jul 25, 1988",Retired
+Central Midfield,left,,"Jan 28, 2013",Lewis Holtby,"1,76m",55508,"['Germany', 'England']",€6.00m,,FC Schalke 04,24,"Sep 18, 1990",Holstein Kiel
+Central Midfield,right,,"Jul 1, 2009",Ryan Mason,"1,75m",61834,['England'],€4.50m,,Tottenham Hotspur U18,24,"Jun 13, 1991",Retired
+Central Midfield,left,,"Jul 1, 2010",Tom Carroll,"1,77m",121279,['England'],€3.00m,,Tottenham Hotspur U18,23,"May 28, 1992",Milton Keynes Dons
+Central Midfield,right,,"Jul 1, 2015",Josh Onomah,"1,85m",243589,"['England', 'Nigeria']",,,Tottenham Hotspur U18,18,"Apr 27, 1997",Blackpool FC
+Attacking Midfield,right,,"Feb 2, 2015",Dele Alli,"1,88m",207929,"['England', 'Nigeria']",€5.00m,,Milton Keynes Dons,19,"Apr 11, 1996",Without Club
+Attacking Midfield,right,Torn thigh muscle - Return unknown,"Jul 1, 2011",Alex Pritchard,"1,68m",200777,['England'],€1.00m,,Tottenham Hotspur U18,22,"May 3, 1993",Sivasspor
+Attacking Midfield,left,,"Jul 1, 2013",Cristian Ceballos,"1,73m",166640,['Spain'],€300k,,Tottenham Hotspur U21,22,"Dec 3, 1992",Without Club
+Left Winger,right,,"Jul 26, 2013",Nacer Chadli,"1,87m",59631,"['Belgium', 'Morocco']",€10.00m,,Twente Enschede FC,25,"Aug 2, 1989",Without Club
+Right Winger,left,,"Aug 30, 2013",Erik Lamela,"1,84m",111630,"['Argentina', 'Spain']",€22.00m,,: Ablöse €30.00m,23,"Mar 4, 1992",AEK Athens
+Right Winger,right,,"Jul 1, 2005",Aaron Lennon,"1,65m",14221,"['England', 'Ireland']",€9.00m,,Leeds United,28,"Apr 16, 1987",Retired
+Right Winger,left,,"Jul 1, 2011",Andros Townsend,"1,81m",61842,['England'],€8.00m,,Tottenham Hotspur Reserves,23,"Jul 16, 1991",Antalyaspor
+Centre-Forward,right,,"Jul 1, 2010",Harry Kane,"1,88m",132098,['England'],€15.00m,,Tottenham Hotspur U18,21,"Jul 28, 1993",Bayern Munich
+Centre-Forward,right,,"Aug 5, 2013",Roberto Soldado,"1,80m",34870,['Spain'],€14.00m,,Valencia CF,30,"May 27, 1985",Retired
+Centre-Forward,right,,"Aug 21, 2012",Emmanuel Adebayor,"1,92m",8883,"['Togo', 'Nigeria']",€7.00m,,: Ablöse €6.40m,31,"Feb 26, 1984",Retired

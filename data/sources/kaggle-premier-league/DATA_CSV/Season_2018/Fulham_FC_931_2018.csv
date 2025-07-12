@@ -1,0 +1,34 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"No eligibility - until Jun 30, 2025 - Qatar Stars League","Aug 9, 2018",Sergio Rico,"1,96m",207302,['Spain'],€12.00m,,Sevilla FC,25,"Sep 1, 1993",Al-Gharafa SC
+Goalkeeper,right,"No eligibility - until Dec 31, 2024 - UEFA Conference League","Jul 1, 2012",Marcus Bettinelli,"1,93m",116648,"['England', 'Italy']",€4.00m,,Fulham FC U21,27,"May 24, 1992",Chelsea FC
+Goalkeeper,,,"Jul 24, 2018",Fabri,"1,84m",45882,"['Spain', 'Uruguay']",€4.00m,,Besiktas JK,31,"Dec 31, 1987",Without Club
+Centre-Back,right,,"Aug 2, 2018",Alfie Mawson,"1,89m",287431,['England'],€15.00m,,: Ablöse €16.85m,25,"Jan 19, 1994",Retired
+Centre-Back,right,,"Aug 7, 2018",Calum Chambers,"1,82m",215118,['England'],€14.00m,,Arsenal FC,24,"Jan 20, 1995",Cardiff City
+Centre-Back,left,,"Jul 12, 2018",Maxime Le Marchand,"1,85m",60558,['France'],€5.00m,,OGC Nice,29,"Oct 11, 1989",Retired
+Centre-Back,left,,"Aug 20, 2015",Tim Ream,"1,86m",145466,['United States'],€4.00m,,Bolton Wanderers,31,"Oct 5, 1987",Charlotte FC
+Centre-Back,right,,"Jul 3, 2017",Marcelo Djaló,"1,93m",142022,"['Guinea-Bissau', 'Spain']",€500k,,CD Lugo,25,"Oct 8, 1993",Buriram United
+Left-Back,left,,"Jul 26, 2024",Ryan Sessegnon,"1,78m",392775,['England'],€35.00m,"Joined from Tottenham Hotspur; date: Jul 26, 2024; fee: free transfer",Tottenham Hotspur,19,"May 18, 2000",Fulham FC
+Left-Back,left,,"Aug 9, 2018",Joe Bryan,"1,70m",194460,['England'],€6.00m,,: Ablöse €6.70m,25,"Sep 17, 1993",Millwall FC
+Right-Back,right,,"Aug 9, 2018",Timothy Fosu-Mensah,"1,85m",315131,"['Netherlands', 'Ghana']",€7.00m,,Manchester United,21,"Jan 2, 1998",Without Club
+Right-Back,right,,"Jan 31, 2018",Cyrus Christie,"1,88m",158623,"['Ireland', 'England']",€3.50m,,Middlesbrough FC,26,"Sep 30, 1992",Swansea City
+Right-Back,right,minor knock - Return unknown,"Jul 14, 2016",Denis Odoi,"1,78m",59641,"['Ghana', 'Belgium']",€2.50m,,KSC Lokeren (-2020),31,"May 27, 1988",Royal Antwerp FC
+Right-Back,right,,"Jul 1, 2019",Steven Sessegnon,"1,75m",406558,['England'],,,Fulham FC U21,19,"May 18, 2000",Wigan Athletic
+Defensive Midfield,right,,"Jul 12, 2018",Jean Michaël Seri,"1,68m",178614,"[""Cote d'Ivoire""]",€25.00m,,OGC Nice,27,"Jul 19, 1991",Al-Orobah FC
+Defensive Midfield,right,,"Jan 31, 2019",Håvard Nordtveit,"1,88m",42234,['Norway'],€4.00m,,TSG 1899 Hoffenheim,29,"Jun 21, 1990",Retired
+Defensive Midfield,right,,"Jul 22, 2016",Kevin McDonald,"1,92m",36529,['Scotland'],€3.00m,,Wolverhampton Wanderers,30,"Nov 4, 1988",Without Club
+Defensive Midfield,right,,"Jul 7, 2017",Ibrahima Cissé,"1,84m",160380,"['Guinea', 'Belgium']",€1.50m,,: Ablöse €2.50m,25,"Feb 28, 1994",Dibba Al-Hisn SC
+Central Midfield,right,,"Aug 9, 2018",Frank Anguissa,"1,84m",354361,['Cameroon'],€25.00m,,Olympique Marseille,23,"Nov 16, 1995",SSC Napoli
+Central Midfield,left,Team captain,"Jul 1, 2015",Tom Cairney,"1,85m",123275,"['Scotland', 'England']",€15.00m,,Blackburn Rovers,28,"Jan 20, 1991",Fulham FC
+Central Midfield,left,,"Aug 26, 2016",Stefan Johansen,"1,82m",62008,['Norway'],€4.00m,,Celtic FC,28,"Jan 8, 1991",Sarpsborg 08 FF
+Central Midfield,right,Ankle injury - Return unknown,"Jul 1, 2017",Luca de la Torre,"1,77m",315762,"['United States', 'Spain']",€500k,,Fulham FC U21,21,"May 23, 1998",Celta de Vigo
+Central Midfield,left,,"Jul 1, 2019",Matt O'Riley,"1,89m",406634,"['Denmark', 'England']",,,Fulham FC U21,18,"Nov 21, 2000",Brighton & Hove Albion
+Central Midfield,left,Broken foot - Return unknown,,Harvey Elliott,"1,70m",565822,['England'],,,,16,"Apr 4, 2003",Liverpool FC
+Left Winger,,,"Jul 25, 2018",André Schürrle,,58205,['Germany'],€12.00m,,Borussia Dortmund,28,"Nov 6, 1990",Retired
+Left Winger,right,,"Jan 15, 2019",Ryan Babel,"1,85m",16135,"['Netherlands', 'Suriname']",€5.00m,,Besiktas JK,32,"Dec 19, 1986",Without Club
+Left Winger,right,,"Aug 26, 2016",Neeskens Kebano,"1,70m",111422,"['DR Congo', 'France']",€3.00m,,KRC Genk,27,"Mar 10, 1992",Al-Jazira Club
+Left Winger,right,,"Jul 1, 2016",Floyd Ayité,"1,75m",77974,"['Togo', 'France']",€2.50m,,: Ablöse €2.00m,30,"Dec 15, 1988",Without Club
+Right Winger,right,,"Jan 31, 2019",Lazar Markovic,"1,75m",144303,['Serbia'],€4.00m,,: Ablöse free transfer,25,"Mar 2, 1994",FC Baniyas
+Centre-Forward,right,,"Jul 30, 2018",Aleksandar Mitrović,"1,89m",51152,['Serbia'],€25.00m,,Newcastle United,24,"Sep 16, 1994",Al-Hilal SFC
+Centre-Forward,right,,"Aug 9, 2018",Luciano Vietto,"1,73m",214316,"['Argentina', 'Italy']",€7.00m,,: Ablöse ?,25,"Dec 5, 1993",Racing Club
+Centre-Forward,right,,"Jul 31, 2017",Aboubakar Kamara,"1,77m",290951,"['Mauritania', 'France']",€2.75m,,: Ablöse €6.00m,24,"Mar 7, 1995",Sepahan FC
+Centre-Forward,right,,"Aug 17, 2017",Rui Fonte,"1,81m",9335,['Portugal'],€2.50m,,SC Braga,29,"Apr 23, 1990",FC Paços de Ferreira

@@ -1,0 +1,36 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 2008",Paul Robinson,"1,93m",3630,['England'],€5.00m,Tottenham Hotspur,30,"Oct 15, 1979",Retired
+Goalkeeper,,"Jul 1, 2006",Jason Brown,,15916,['Wales'],€500k,Gillingham FC,28,"May 18, 1982",Retired
+Goalkeeper,right,"Aug 1, 2008",Mark Bunn,"1,83m",49319,"['England', 'Ireland']",€300k,: Ablöse €150k,25,"Nov 16, 1984",Retired
+Goalkeeper,right,"Jul 1, 2007",Frank Fielding,"1,85m",57070,['England'],€250k,Blackburn Rovers U18,22,"Apr 4, 1988",Stoke City
+Centre-Back,,"Jan 25, 2007",Christopher Samba,,29016,"['Congo', 'France']",€6.00m,: Ablöse €500k,26,"Mar 28, 1984",Retired
+Centre-Back,left,"Jul 1, 2009",Gaël Givet,"1,81m",5286,['France'],€3.50m,Olympique Marseille,28,"Oct 9, 1981",Retired
+Centre-Back,right,"Jan 6, 2005",Ryan Nelsen,"1,85m",28878,['New Zealand'],€3.50m,: Ablöse free transfer,32,"Oct 18, 1977",Retired
+Centre-Back,right,"Jul 1, 2006",Zurab Khizanishvili,"1,86m",9621,['Georgia'],€1.00m,: Ablöse €750k,28,"Oct 6, 1981",Retired
+Centre-Back,left,"Jul 1, 2009",Gavin Gunning,"1,87m",38083,['Ireland'],€75k,Blackburn Rovers U18,19,"Jan 26, 1991",Retired
+Centre-Back,right,"Jan 1, 2010",Phil Jones,"1,85m",117996,['England'],€50k,Blackburn Rovers Reserves,18,"Feb 21, 1992",Retired
+Centre-Back,right,"Jan 1, 2010",Grant Hanley,"1,88m",121385,['Scotland'],,Blackburn Rovers U18,18,"Nov 20, 1991",Norwich City
+Left-Back,left,"Jan 22, 2007",Stephen Warnock,"1,78m",3308,['England'],€8.50m,: Ablöse €2.25m,28,"Dec 12, 1981",Retired
+Left-Back,left,"Jul 1, 2007",Martin Olsson,"1,78m",38073,['Sweden'],€750k,Blackburn Rovers U18,22,"May 17, 1988",Malmö FF
+Right-Back,right,"Aug 27, 2009",Pascal Chimbonda,"1,82m",18875,"['Guadeloupe', 'France']",€4.50m,Tottenham Hotspur,31,"Feb 21, 1979",Skelmersdale United
+Right-Back,right,"Jul 1, 2003",Steven Reid,"1,85m",7330,"['Ireland', 'England']",€3.00m,: Ablöse €3.60m,29,"Mar 10, 1981",Retired
+Right-Back,both,"Jul 1, 2009",Lars Jacobsen,"1,81m",1423,['Denmark'],€2.50m,: Ablöse free transfer,30,"Sep 20, 1979",Retired
+Right-Back,right,"Aug 1, 2009",Míchel Salgado,"1,74m",7515,['Spain'],€1.50m,Real Madrid,34,"Oct 22, 1975",Retired
+Defensive Midfield,right,"Jul 1, 2009",Steven Nzonzi,"1,96m",73734,"['France', 'DR Congo']",€3.00m,: Ablöse €580k,21,"Dec 15, 1988",Sepahan FC
+Central Midfield,left,"Aug 27, 2004",Morten Gamst Pedersen,"1,83m",22741,['Norway'],€7.00m,Tromsø IL,28,"Sep 8, 1981",Retired
+Central Midfield,both,"Aug 26, 2008",Vincenzo Grella,"1,83m",6021,"['Australia', 'Italy']",€3.00m,Torino FC,30,"Oct 5, 1979",Retired
+Central Midfield,right,"Aug 28, 2008",Keith Andrews,"1,83m",8035,"['Ireland', 'England']",€2.50m,Milton Keynes Dons,29,"Sep 13, 1980",Retired
+Central Midfield,right,"Jul 1, 2003",Paul Gallagher,"1,85m",10501,['Scotland'],€1.75m,Blackburn Rovers U18,25,"Sep 8, 1984",Retired
+Central Midfield,right,"Jan 28, 2010",Amine Linganzi,"1,86m",88596,"['Congo', 'France']",€150k,: Ablöse free transfer,20,"Nov 16, 1989",Retired
+Right Midfield,right,"Jul 10, 2003",Brett Emerton,"1,85m",4367,['Australia'],€4.00m,: Ablöse €3.00m,31,"Feb 22, 1979",Retired
+Right Midfield,both,"Jul 1, 2009",Aaron Doran,"1,70m",96148,['Ireland'],€50k,Blackburn Rovers U18,19,"May 13, 1991",Strathspey Thistle FC
+Attacking Midfield,right,"Jan 17, 2007",David Dunn,"1,78m",4243,['England'],€5.00m,: Ablöse €3.20m,30,"Dec 27, 1979",Retired
+Attacking Midfield,,"Jan 1, 2010",Yıldıray Baştürk,,618,"['Türkiye', 'Germany']",€1.50m,: Ablöse free transfer,31,"Dec 24, 1978",Retired
+Attacking Midfield,both,"Jul 1, 2009",Elrio van Heerden,"1,68m",14920,['South Africa'],€750k,: Ablöse free transfer,26,"Jul 11, 1983",Retired
+Left Winger,right,"Jul 1, 2009",Junior Hoilett,"1,74m",58993,"['Canada', 'Jamaica']",€1.50m,Blackburn Rovers Reserves,20,"Jun 5, 1990",Hibernian FC
+Centre-Forward,right,"Jul 1, 2006",Benni McCarthy,"1,84m",3091,['South Africa'],€5.50m,FC Porto,32,"Nov 12, 1977",Retired
+Centre-Forward,both,"Aug 3, 2009",Nikola Kalinić,"1,87m",36371,['Croatia'],€5.00m,HNK Hajduk Split,22,"Jan 5, 1988",Retired
+Centre-Forward,right,"Jan 30, 2009",El-Hadji Diouf,"1,80m",3604,"['Senegal', 'France']",€4.00m,Sunderland AFC,29,"Jan 15, 1981",Retired
+Centre-Forward,right,"Jul 3, 2006",Jason Roberts,"1,85m",3666,"['Grenada', 'England']",€3.00m,Wigan Athletic,32,"Jan 25, 1978",Retired
+Centre-Forward,right,"Aug 4, 2009",Franco Di Santo,"1,93m",59783,"['Argentina', 'Italy']",€2.50m,Chelsea FC,21,"Apr 7, 1989",Without Club
+Centre-Forward,right,"Jul 1, 2007",Maceo Rigters,"1,79m",27701,"['Netherlands', 'Suriname']",€500k,: Ablöse €1.20m,26,"Jan 22, 1984",Retired

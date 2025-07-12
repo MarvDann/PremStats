@@ -1,0 +1,36 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Dec 4, 1989",Ian Walker,"1,85m",4137,['England'],Tottenham Hotspur U18,21,"Oct 31, 1971",Retired
+Goalkeeper,right,"Jan 1, 1993",Chris Day,"1,88m",13721,['England'],Tottenham Hotspur U18,17,"Jul 28, 1975",Retired
+Goalkeeper,,"Jan 1, 1989",Erik Thorstvedt,,97270,['Norway'],: Ablöse ?,30,"Oct 28, 1962",Retired
+Goalkeeper,right,"Aug 5, 1988",Kevin Dearden,"1,80m",238049,['England'],Tottenham Hotspur U18,23,"Mar 8, 1970",Retired
+Centre-Back,,"Jul 1, 1992",Sol Campbell,,3198,"['England', 'Jamaica']",Tottenham Hotspur U18,18,"Sep 18, 1974",Retired
+Centre-Back,,"Dec 1, 1988",Gudni Bergsson,,3268,['Iceland'],: Ablöse €150k,27,"Jul 21, 1965",Retired
+Centre-Back,left,"Jul 29, 1992",Neil Ruddock,"1,88m",3487,['England'],Southampton FC,25,"May 9, 1968",Retired
+Centre-Back,right,,Stuart Nethercott,"1,85m",13595,['England'],,20,"Mar 21, 1973",Retired
+Centre-Back,right,"Aug 1, 1982",Gary Mabbutt,"1,78m",109493,['England'],Bristol Rovers,31,"Aug 23, 1961",Retired
+Centre-Back,,"Jul 1, 1991",Terry Fenwick,,117191,['England'],: Ablöse ?,33,"Nov 17, 1959",Retired
+Centre-Back,right,"Jul 2, 1992",Jason Cundy,"1,83m",176789,['England'],: Ablöse €875k,23,"Nov 12, 1969",Retired
+Centre-Back,,"Feb 8, 1990",Dave Tuttle,"1,88m",195615,['England'],Tottenham Hotspur U18,21,"Feb 6, 1972",Retired
+Left-Back,,"Jul 1, 1990",Justin Edinburgh,,104903,['England'],Southend United,23,"Dec 18, 1969",---
+Left-Back,right,"Aug 25, 1989",Pat van den Hauwe,"1,80m",177254,"['Wales', 'Belgium']",: Ablöse €760k,32,"Dec 16, 1960",Retired
+Right-Back,right,"Jul 1, 1992",Dean Austin,"1,80m",109486,['England'],Southend United,23,"Apr 26, 1970",Retired
+Right-Back,,"Aug 5, 1988",David McDonald,,240737,['Ireland'],Unknown,22,"Jan 2, 1971",Retired
+Defensive Midfield,right,"Jan 28, 1985",David Howells,"1,80m",109492,['England'],Tottenham Hotspur Youth,25,"Dec 15, 1967",Retired
+Midfielder,,,Jeff Minton,"1,68m",302315,['England'],,19,"Dec 28, 1973",Retired
+Central Midfield,left,"Jul 1, 1986",Vinny Samways,"1,72m",7711,['England'],Tottenham Hotspur U18,24,"Oct 27, 1968",Retired
+Central Midfield,right,"Jul 1, 1992",Kevin Watson,"1,83m",13432,['England'],Tottenham Hotspur U18,19,"Jan 3, 1974",Retired
+Central Midfield,,"May 27, 1992",Andy Gray,,222684,['England'],: Ablöse €876k,29,"Feb 22, 1964",Retired
+Central Midfield,left,"Jul 28, 1989",Steve Sedgley,,222742,['England'],Coventry City,25,"May 26, 1968",Retired
+Central Midfield,,"Sep 9, 1992",Danny Hill,,228070,['England'],Tottenham Hotspur U18,18,"Oct 1, 1974",Retired
+Right Midfield,right,"Jul 1, 1992",Darren Anderton,"1,85m",3277,['England'],: Ablöse €2.70m,21,"Mar 3, 1972",Retired
+Right Midfield,both,"Jul 1, 1988",Nayim,"1,76m",184495,"['Spain', 'Morocco']",: Ablöse €120k,26,"Nov 5, 1966",Retired
+Right Midfield,,"Jul 1, 1985",Paul Allen,"1,70m",222253,['England'],: Ablöse €480k,30,"Aug 28, 1962",Retired
+Left Midfield,,"Jul 1, 1991",Nick Barmby,,3222,['England'],Tottenham Hotspur U18,19,"Feb 11, 1974",Retired
+Left Midfield,left,"Feb 29, 1992",Lee Hodges,"1,83m",20970,['England'],Tottenham Hotspur U18,19,"Sep 4, 1973",Retired
+Attacking Midfield,right,"Jul 1, 1992",Stephen Robinson,"1,73m",33500,['Northern Ireland'],Tottenham Hotspur U18,18,"Dec 10, 1974",Retired
+Left Winger,,"Apr 1, 1992",Andy Turner,,226596,"['Ireland', 'England']",Tottenham Hotspur U18,18,"Mar 23, 1975",Retired
+Right Winger,right,"Jul 31, 1992",Gerry McMahon,"1,78m",163933,['Northern Ireland'],: Ablöse €120k,19,"Dec 29, 1973",Retired
+Centre-Forward,,"Jul 1, 2001",Teddy Sheringham,,3392,['England'],Manchester United,27,"Apr 2, 1966",Retired
+Centre-Forward,right,"Aug 1, 1991",Gordon Durie,"1,83m",101129,['Scotland'],: Ablöse €3.30m,27,"Dec 6, 1965",Retired
+Centre-Forward,,,John Hendry,,170380,['Scotland'],Dundee FC,23,"Jan 6, 1970",Retired
+Centre-Forward,,,Paul Moran,,229830,['England'],,25,"May 23, 1968",Retired

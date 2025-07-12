@@ -1,0 +1,36 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2011",Kasper Schmeichel,"1,89m",16911,['Denmark'],€5.00m,Leeds United,29,"Nov 5, 1986",Celtic FC
+Goalkeeper,right,,"Jul 1, 2014",Ben Hamer,"1,93m",67283,['England'],€500k,Charlton Athletic,28,"Nov 20, 1987",Sheffield Wednesday
+Goalkeeper,,,"Jan 6, 2015",Mark Schwarzer,,3357,"['Australia', 'Germany']",€500k,Chelsea FC,43,"Oct 6, 1972",Retired
+Goalkeeper,,,"Jul 1, 2014",Jonny Maddison,"1,83m",257293,['England'],,Crawley Town,21,"Sep 4, 1994",Retired
+Centre-Back,right,,"Jul 1, 2015",Robert Huth,"1,91m",2998,['Germany'],€6.00m,Stoke City,31,"Aug 18, 1984",Retired
+Centre-Back,right,,"Jan 22, 2016",Daniel Amartey,"1,86m",214056,['Ghana'],€5.00m,: Ablöse €6.60m,21,"Dec 21, 1994",Without Club
+Centre-Back,right,,"Aug 3, 2015",Yohan Benalouane,"1,85m",50477,"['Tunisia', 'France']",€3.00m,Atalanta BC,29,"Mar 28, 1987",Without Club
+Centre-Back,right,,"Jan 30, 2012",Wes Morgan,"1,85m",10003,"['Jamaica', 'England']",€2.50m,: Ablöse €1.13m,32,"Jan 21, 1984",Retired
+Centre-Back,right,,"Jul 1, 2012",Liam Moore,"1,85m",128906,"['Jamaica', 'England']",€2.00m,Leicester City U21,23,"Jan 31, 1993",Spalding United
+Centre-Back,right,,"Sep 17, 2013",Marcin Wasilewski,"1,86m",16947,['Poland'],€500k,: Ablöse free transfer,36,"Jun 9, 1980",Retired
+Left-Back,left,,"Jul 1, 2015",Christian Fuchs,"1,87m",6636,['Austria'],€6.00m,FC Schalke 04,30,"Apr 7, 1986",Retired
+Left-Back,left,"No eligibility - until Dec 31, 2024 - UEFA Conference League","Jul 1, 2015",Ben Chilwell,"1,80m",316125,"['England', 'New Zealand']",€1.00m,Leicester City U21,19,"Dec 21, 1996",Chelsea FC
+Left-Back,left,,"Jul 13, 2011",Paul Konchesky,"1,78m",3296,['England'],€500k,: Ablöse €1.70m,35,"May 15, 1981",Retired
+Right-Back,right,,"Aug 30, 2014",Danny Simpson,"1,76m",37442,"['England', 'Jamaica']",€3.00m,: Ablöse €2.50m,29,"Jan 4, 1987",Retired
+Right-Back,right,,"Jul 1, 2012",Ritchie De Laet,"1,84m",55687,['Belgium'],€2.50m,Manchester United,27,"Nov 28, 1988",Retired
+Defensive Midfield,right,,"Aug 3, 2015",N'Golo Kanté,"1,68m",225083,"['France', 'Mali']",€20.00m,: Ablöse €9.00m,25,"Mar 29, 1991",Al-Ittihad Club
+Defensive Midfield,both,,"Aug 19, 2015",Gökhan Inler,"1,83m",19041,"['Switzerland', 'Türkiye']",€6.00m,: Ablöse €7.00m,32,"Jun 27, 1984",Retired
+Central Midfield,right,,"Jan 20, 2012",Danny Drinkwater,"1,78m",73491,['England'],€6.00m,Manchester United Reserves,26,"Mar 5, 1990",Retired
+Central Midfield,right,,"Jul 1, 2007",Andy King,"1,84m",56872,"['Wales', 'England']",€3.50m,Leicester City U18,27,"Oct 29, 1988",Retired
+Central Midfield,right,,"Jul 1, 2012",Matty James,"1,81m",73522,['England'],€1.50m,Manchester United U21,24,"Jul 22, 1991",Wrexham AFC
+Central Midfield,right,,"Aug 30, 2013",Dean Hammond,"1,82m",33065,['England'],€500k,Southampton FC,33,"Mar 7, 1983",Retired
+Right Midfield,right,,"Jul 1, 2014",Marc Albrighton,"1,75m",61560,['England'],€4.00m,: Ablöse free transfer,26,"Nov 18, 1989",Retired
+Left Midfield,left,,"Jul 1, 2010",Jeffrey Schlupp,"1,78m",157506,"['Ghana', 'Germany']",€7.00m,Leicester City U18,23,"Dec 23, 1992",Crystal Palace
+Attacking Midfield,right,,"Sep 1, 2014",Tom Lawrence,"1,75m",229970,['Wales'],€1.00m,Manchester United U21,22,"Jan 13, 1994",Rangers FC
+Left Winger,right,,"Jan 4, 2016",Demarai Gray,"1,83m",292417,"['Jamaica', 'England']",€6.00m,: Ablöse €5.10m,20,"Jun 28, 1996",Al-Ettifaq FC
+Left Winger,right,,,Joseph Dodoo,"1,86m",261738,"['England', 'Ghana']",,,21,"Jun 29, 1995",Without Club
+Left Winger,,,,André Olukanmi,,383152,"['England', 'Nigeria']",,,18,"Dec 1, 1997",Unknown
+Right Winger,left,,"Jan 11, 2014",Riyad Mahrez,"1,79m",171424,"['Algeria', 'France']",€20.00m,Le Havre AC,25,"Feb 21, 1991",Al-Ahli SFC
+Right Winger,right,,"Sep 1, 2015",Nathan Dyer,"1,65m",37011,"['England', 'Jamaica']",€4.00m,: Ablöse ?,28,"Nov 29, 1987",Retired
+Second Striker,right,,,Harry Panayiotou,"1,78m",224673,"['St. Kitts & Nevis', 'England']",,,21,"Oct 28, 1994",Without Club
+Centre-Forward,right,Team captain,"Jul 1, 2012",Jamie Vardy,"1,79m",197838,['England'],€18.00m,Fleetwood Town,29,"Jan 11, 1987",Leicester City
+Centre-Forward,right,,"Jul 1, 2015",Shinji Okazaki,"1,75m",79642,['Japan'],€10.00m,: Ablöse €11.00m,30,"Apr 16, 1986",Retired
+Centre-Forward,right,,"Jul 22, 2014",Leonardo Ulloa,"1,88m",54890,"['Argentina', 'Spain']",€8.00m,Brighton & Hove Albion,29,"Jul 26, 1986",Retired
+Centre-Forward,right,,"Jan 16, 2015",Andrej Kramaric,"1,77m",46580,['Croatia'],€7.50m,: Ablöse €9.00m,25,"Jun 19, 1991",TSG 1899 Hoffenheim
+Centre-Forward,right,,"Jul 1, 2012",Jacob Blyth,"1,91m",251914,['England'],€100k,Leamington FC,23,"Aug 14, 1992",Wythenshawe Town FC

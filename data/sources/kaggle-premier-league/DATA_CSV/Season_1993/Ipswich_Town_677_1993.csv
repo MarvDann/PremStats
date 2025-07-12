@@ -1,0 +1,29 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 1985",Craig Forrest,"1,96m",107807,['Canada'],Unknown,26,"Sep 20, 1967",Retired
+Goalkeeper,,"Aug 1, 1992",Clive Baker,,224347,['England'],Coventry City,35,"Mar 14, 1959",Retired
+Goalkeeper,,,Phil Morgan,,224393,['England'],,19,"Dec 18, 1974",Retired
+Centre-Back,,"Jun 23, 1988",David Linighan,"1,88m",224386,['England'],: Ablöse €379k,29,"Jan 9, 1965",Retired
+Centre-Back,,"Aug 1, 1993",Ian Marshall,"1,86m",107794,['England'],: Ablöse €1.13m,28,"Mar 20, 1966",Retired
+Centre-Back,,,Phil Whelan,"1,93m",222239,['England'],,21,"Aug 7, 1972",Retired
+Centre-Back,,"Nov 15, 1991",Eddie Youds,"1,85m",223443,['England'],: Ablöse €300k,24,"May 3, 1970",Retired
+Centre-Back,,"Aug 1, 1989",Steve Palmer,"1,86m",223448,['England'],Unknown,26,"Mar 31, 1968",Retired
+Left-Back,left,"Jun 9, 1989",Neil Thompson,,195634,['England'],Scarborough FC (- 2007),30,"Oct 2, 1963",Retired
+Left-Back,left,,Gavin Johnson,"1,80m",170663,['England'],,23,"Oct 10, 1970",Retired
+Right-Back,right,,Frank Yallop,"1,80m",204204,"['Canada', 'England']",,30,"Apr 4, 1964",Retired
+Right-Back,,,Leo Cotterell,,224353,['England'],Ipswich Town U21,19,"Sep 2, 1974",Retired
+Defensive Midfield,right,"Jul 1, 1992",Geraint Williams,"1,73m",181597,['Wales'],: Ablöse €750k,32,"Jan 5, 1962",Retired
+Central Midfield,,"Dec 17, 1982",Mick Stockwell,,224422,['England'],Unknown,29,"Feb 14, 1965",Retired
+Central Midfield,,"Jul 1, 1993",Paul Mason,"1,75m",134345,['England'],Aberdeen FC,30,"Sep 3, 1963",Retired
+Central Midfield,,"Jan 11, 1991",Steve Whitton,,225378,['England'],: Ablöse €188k,33,"Dec 4, 1960",Retired
+Central Midfield,,"Jul 17, 1987",Simon Milton,,224391,['England'],Bury Town,30,"Aug 23, 1963",Retired
+Central Midfield,,"Mar 31, 1987",David Gregory,,224365,['England'],Ipswich Town U18,24,"Jan 23, 1970",Retired
+Central Midfield,,"Jul 1, 1992",Vlado Bozinovski,,225302,"['Australia', 'North Macedonia']",SC Beira-Mar,30,"Mar 30, 1964",Retired
+Central Midfield,,"Jul 13, 1992",Adam Tanner,,224426,['England'],Ipswich Town U18,20,"Oct 25, 1973",Retired
+Central Midfield,,"Jul 1, 1991",Graham Connell,"1,80m",1243642,['Scotland'],Ipswich Town U21,19,"Oct 31, 1974",Retired
+Left Midfield,,"Jul 13, 1992",Lee Durrant,,225312,['England'],Ipswich Town U18,20,"Dec 18, 1973",Retired
+Attacking Midfield,right,"Jul 1, 1991",John Wark,"1,80m",135271,['Scotland'],: Ablöse ?,36,"Aug 4, 1957",Retired
+Attacking Midfield,right,"Dec 11, 1992",Boncho Genchev,"1,80m",102331,['Bulgaria'],: Ablöse ?,29,"Jul 7, 1964",Retired
+Left Winger,,"Sep 1, 1993",Stuart Slater,"1,75m",224420,['England'],Celtic FC,25,"Mar 27, 1969",Retired
+Centre-Forward,,"Mar 1, 1987",Chris Kiwomya,"1,77m",173696,"['England', 'Uganda']",Unknown,24,"Dec 2, 1969",Retired
+Centre-Forward,,"Jan 1, 1991",Paul Goddard,,225319,['England'],: Ablöse ?,34,"Oct 12, 1959",Retired
+Centre-Forward,,"Feb 21, 1992",Neil Gregory,"1,80m",229022,"['Zambia', 'England']",Ipswich Town U21,21,"Oct 7, 1972",Retired

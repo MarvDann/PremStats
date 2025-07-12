@@ -1,0 +1,37 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2004",Paul Robinson,"1,93m",3630,['England'],€7.85m,Leeds United,25,"Oct 15, 1979",Retired
+Goalkeeper,,,"Aug 15, 2001",Kasey Keller,,3608,['United States'],€1.00m,: Ablöse free transfer,35,"Nov 29, 1969",Retired
+Goalkeeper,right,,"Jul 1, 2006",Radek Cerny,"1,87m",21010,['Czech Republic'],€600k,: Ablöse €200k,31,"Feb 18, 1974",Retired
+Goalkeeper,right,,"Jul 1, 2004",Márton Fülöp,"1,98m",17879,['Hungary'],€400k,: Ablöse €750k,22,"May 3, 1983",---
+Centre-Back,right,,"Jul 1, 1998",Ledley King,"1,88m",3360,"['England', 'Antigua and Barbuda']",€11.00m,Tottenham Hotspur U18,24,"Oct 12, 1980",Retired
+Centre-Back,right,,"Jan 31, 2005",Michael Dawson,"1,89m",9988,['England'],€7.00m,: Ablöse €7.00m,21,"Nov 18, 1983",Retired
+Centre-Back,right,,"Aug 1, 2004",Noé Pamarot,"1,80m",5531,['France'],€3.00m,: Ablöse €2.40m,26,"Apr 14, 1979",Retired
+Centre-Back,left,,"Jan 1, 2000",Anthony Gardner,"1,96m",4053,"['England', 'Jamaica']",€3.00m,: Ablöse €1.50m,24,"Sep 19, 1980",Retired
+Centre-Back,right,,"Aug 12, 2004",Noureddine Naybet,"1,86m",7493,['Morocco'],€2.50m,Deportivo de La Coruña,35,"Feb 10, 1970",Retired
+Centre-Back,right,,"Jul 1, 2001",Goran Bunjevcevic,"1,90m",3802,['Serbia'],€2.40m,Red Star Belgrade,32,"Feb 17, 1973",---
+Centre-Back,left,,"Aug 31, 2004",Reto Ziegler,"1,83m",9915,['Switzerland'],€2.25m,: Ablöse €1.00m,19,"Jan 16, 1986",FC Sion
+Centre-Back,right,,"Jul 1, 2004",Calum Davenport,"1,93m",4221,['England'],€2.00m,Coventry City,22,"Jan 1, 1983",Tavistock FC
+Centre-Back,right,,"Mar 1, 2000",Gary Doherty,"1,88m",4052,['Ireland'],€1.80m,: Ablöse €1.50m,25,"Jan 31, 1980",Retired
+Centre-Back,right,,"Jul 1, 2003",Mbulelo Mabizela,"1,78m",8978,['South Africa'],€700k,Orlando Pirates,24,"Sep 16, 1980",Retired
+Centre-Back,right,,"Jul 1, 2001",Dean Richards,"1,88m",3829,['England'],,Southampton FC,31,"Jun 9, 1974",---
+Left-Back,left,,"Jul 1, 2004",Erik Edman,"1,79m",4394,['Sweden'],€3.00m,: Ablöse €2.00m,26,"Nov 11, 1978",Retired
+Left-Back,,,"Aug 1, 2004",Thimothée Atouba,,2887,['Cameroon'],€3.00m,: Ablöse €4.50m,23,"Feb 17, 1982",Retired
+Left-Back,right,,"Jan 7, 2005",David Limbersky,"1,81m",16090,['Czech Republic'],€100k,FC Viktoria Plzen,21,"Oct 6, 1983",Retired
+Right-Back,right,,"Jul 1, 2004",Philip Ifil,"1,75m",28805,"['England', 'St. Lucia']",€825k,Tottenham Hotspur U18,18,"Nov 18, 1986",Retired
+Right-Back,right,,"Jul 1, 2002",Stephen Kelly,"1,84m",12125,['Ireland'],€125k,Tottenham Hotspur U18,21,"Sep 6, 1983",Retired
+Defensive Midfield,right,,"Aug 24, 2004",Michael Carrick,"1,89m",3878,['England'],€6.50m,: Ablöse €4.10m,23,"Jul 28, 1981",Retired
+Defensive Midfield,right,,"Jul 9, 2004",Sean Davis,"1,78m",4036,['England'],€4.25m,Fulham FC,25,"Sep 20, 1979",Retired
+Central Midfield,both,,"Jul 1, 2004",Pedro Mendes,"1,77m",9811,['Portugal'],€3.75m,: Ablöse €3.00m,26,"Feb 26, 1979",Retired
+Central Midfield,,,"Jan 1, 2004",Michael Brown,,13509,['England'],€3.00m,Sheffield United,28,"Jan 25, 1977",Retired
+Central Midfield,right,,"Jul 1, 2002",Jamie Redknapp,"1,83m",3424,['England'],€3.00m,: Ablöse free transfer,32,"Jun 25, 1973",Retired
+Central Midfield,right,,"Jul 1, 2002",Dean Marney,"1,83m",4055,['England'],€600k,Tottenham Hotspur U18,21,"Jan 31, 1984",Retired
+Central Midfield,left,,"Jul 1, 2000",Johnnie Jackson,"1,85m",29430,['England'],€75k,Tottenham Hotspur U18,22,"Aug 15, 1982",Retired
+Right Midfield,right,,"Dec 31, 1999",Simon Davies,"1,78m",4056,['Wales'],€5.50m,Peterborough United,25,"Oct 23, 1979",Retired
+Left Midfield,left,Groin injury - Return unknown,"Jan 1, 2005",Andy Reid,"1,70m",10008,['Ireland'],€8.00m,: Ablöse €8.00m,22,"Jul 29, 1982",Retired
+Attacking Midfield,,,"Jul 1, 2002",Rohan Ricketts,,4047,"['England', 'Jamaica']",€250k,: Ablöse free transfer,22,"Dec 22, 1982",Retired
+Left Winger,right,,"Jul 1, 2003",Mark Yeates,"1,74m",15167,['Ireland'],€75k,Tottenham Hotspur U18,20,"Jan 11, 1985",Retired
+Centre-Forward,right,,"Jan 6, 2009",Jermain Defoe,"1,71m",3875,"['England', 'St. Lucia']",€15.00m,: Ablöse €16.40m,22,"Oct 7, 1982",Retired
+Centre-Forward,right,,"Feb 2, 2009",Robbie Keane,"1,75m",3144,['Ireland'],€10.00m,: Ablöse €16.70m,24,"Jul 8, 1980",Retired
+Centre-Forward,right,,"Aug 5, 2003",Frédéric Kanouté,"1,92m",3700,"['Mali', 'France']",€7.50m,: Ablöse €5.25m,27,"Sep 2, 1977",Retired
+Centre-Forward,both,,"Aug 29, 2006",Mido,"1,88m",4329,['Egypt'],€7.00m,: Ablöse €6.75m,22,"Feb 23, 1983",Retired
+Centre-Forward,left,,"Jul 1, 2004",Edson Sousa,"1,87m",15768,"['Portugal', 'Cape Verde']",€150k,: Ablöse free transfer,21,"Sep 3, 1983",Retired

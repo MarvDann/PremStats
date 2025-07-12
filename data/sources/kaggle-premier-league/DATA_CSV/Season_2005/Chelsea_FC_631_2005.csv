@@ -1,0 +1,31 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,"Jul 1, 2004",Petr Cech,"1,96m",5658,['Czech Republic'],€23.00m,Stade Rennais FC,24,"May 20, 1982",Retired
+Goalkeeper,right,"Jul 1, 2000",Carlo Cudicini,"1,84m",3151,['Italy'],€3.00m,: Ablöse €240k,32,"Sep 6, 1973",Retired
+Goalkeeper,,"Jul 1, 2003",Lenny Pidgeley,"1,93m",3181,['England'],€100k,: Ablöse -,22,"Feb 7, 1984",Retired
+Goalkeeper,,,Yves Makabu-Makalambay,"1,98m",6168,"['DR Congo', 'Belgium']",€75k,,20,"Jan 31, 1986",Retired
+Centre-Back,right,"Jan 1, 2000",John Terry,"1,87m",3160,['England'],€30.00m,: Ablöse -,25,"Dec 7, 1980",Retired
+Centre-Back,right,"Jul 27, 2004",Ricardo Carvalho,"1,82m",9828,['Portugal'],€17.50m,: Ablöse €30.00m,28,"May 18, 1978",Retired
+Centre-Back,right,"Jul 1, 2001",William Gallas,"1,82m",3156,"['France', 'Guadeloupe']",€14.70m,: Ablöse €9.30m,28,"Aug 17, 1977",Retired
+Centre-Back,right,"Jul 1, 2003",Robert Huth,"1,91m",2998,['Germany'],€2.75m,Chelsea FC Reserves,21,"Aug 18, 1984",Retired
+Centre-Back,right,"Jul 1, 2006",Michael Mancienne,"1,84m",38100,"['Seychelles', 'England']",€250k,Chelsea FC U18,18,"Jan 8, 1988",Retired
+Left-Back,left,"Jul 1, 2005",Asier del Horno,"1,81m",7617,['Spain'],€12.00m,Athletic Bilbao,25,"Jan 19, 1981",Retired
+Left-Back,left,"Jul 21, 2003",Wayne Bridge,"1,78m",3682,['England'],€7.75m,Southampton FC,25,"Aug 5, 1980",Retired
+Right-Back,right,"Jul 1, 2004",Paulo Ferreira,"1,83m",9832,['Portugal'],€13.00m,: Ablöse €20.00m,27,"Jan 18, 1979",Retired
+Right-Back,both,"Jul 1, 2003",Glen Johnson,"1,82m",3881,['England'],€4.00m,: Ablöse €8.30m,21,"Aug 23, 1984",Retired
+Defensive Midfield,right,"Aug 19, 2005",Michael Essien,"1,78m",5588,"['Ghana', 'France']",€28.00m,: Ablöse €38.00m,23,"Dec 3, 1982",Retired
+Defensive Midfield,right,"Aug 31, 2003",Claude Makélélé,"1,74m",4182,"['France', 'DR Congo']",€9.00m,Real Madrid,33,"Feb 18, 1973",Retired
+Defensive Midfield,right,"Jul 15, 2005",Lassana Diarra,"1,73m",23914,"['France', 'Mali']",€3.00m,: Ablöse €4.50m,21,"Mar 10, 1985",Retired
+Central Midfield,right,"Jul 1, 2001",Frank Lampard,"1,84m",3163,['England'],€38.50m,: Ablöse €16.00m,28,"Jun 20, 1978",Retired
+Central Midfield,,"Jan 4, 2006",Maniche,,9822,['Portugal'],€13.00m,: Ablöse €300k,28,"Nov 11, 1977",Retired
+Central Midfield,right,"Jul 1, 2004",Tiago Mendes,"1,83m",8538,['Portugal'],€12.00m,SL Benfica,25,"May 2, 1981",Retired
+Central Midfield,right,,Jimmy Smith,"1,84m",39929,['England'],,,19,"Jan 7, 1987",Retired
+Right Midfield,left,"Jul 1, 2003",Damien Duff,"1,77m",3259,['Ireland'],€15.00m,Blackburn Rovers,27,"Mar 2, 1979",Retired
+Right Midfield,right,"Jul 1, 2003",Njitap Geremi,"1,80m",3374,['Cameroon'],€5.00m,Real Madrid,27,"Dec 20, 1978",Retired
+Right Midfield,,,Filipe Morais,,38085,"['Portugal', 'England']",€100k,,20,"Nov 21, 1985",Retired
+Attacking Midfield,right,"Aug 6, 2003",Joe Cole,"1,76m",3876,['England'],€16.50m,: Ablöse €9.90m,24,"Nov 8, 1981",Retired
+Right Winger,,"Jul 1, 2004",Arjen Robben,,4360,['Netherlands'],€25.70m,: Ablöse €18.00m,22,"Jan 23, 1984",Retired
+Right Winger,right,"Jul 1, 2005",Shaun Wright-Phillips,"1,66m",3467,"['England', 'Grenada']",€16.00m,: Ablöse €31.50m,24,"Oct 25, 1981",Retired
+Centre-Forward,both,"Jul 25, 2014",Didier Drogba,"1,89m",3924,"[""Cote d'Ivoire"", 'France']",€24.50m,Galatasaray,28,"Mar 11, 1978",Retired
+Centre-Forward,right,"Aug 26, 2003",Hernán Crespo,"1,84m",3410,"['Argentina', 'Italy']",€14.00m,: Ablöse €26.00m,30,"Jul 5, 1975",Retired
+Centre-Forward,right,"Jul 1, 2000",Eidur Gudjohnsen,"1,85m",3176,['Iceland'],€12.00m,: Ablöse €7.50m,27,"Sep 15, 1978",Retired
+Centre-Forward,right,"Jul 1, 2001",Carlton Cole,"1,91m",3179,"['England', 'Sierra Leone']",€3.00m,: Ablöse -,22,"Oct 12, 1983",Retired

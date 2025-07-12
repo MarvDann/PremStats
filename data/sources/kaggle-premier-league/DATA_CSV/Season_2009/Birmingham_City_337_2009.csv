@@ -1,0 +1,37 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2009",Joe Hart,"1,96m",40204,['England'],€7.00m,: Ablöse €1.15m,23,"Apr 19, 1987",Retired
+Goalkeeper,right,,"Mar 22, 2004",Maik Taylor,"1,93m",3723,"['Northern Ireland', 'Germany']",€750k,Fulham FC,38,"Sep 4, 1971",Retired
+Goalkeeper,right,,"Jul 1, 2003",Colin Doyle,"1,96m",28728,['Ireland'],€300k,Birmingham City U18,25,"Jun 12, 1985",Bradford City
+Goalkeeper,right,,"Jul 1, 2007",Artur Krysiak,"1,93m",44054,['Poland'],€125k,Birmingham City U18,20,"Aug 11, 1989",Retired
+Centre-Back,right,,"Jul 1, 2009",Roger Johnson,"1,91m",42751,['England'],€4.00m,: Ablöse €5.90m,27,"Apr 28, 1983",Retired
+Centre-Back,both,,"Aug 3, 2007",Liam Ridgewell,"1,88m",4070,['England'],€3.00m,: Ablöse €3.00m,25,"Jul 21, 1984",Retired
+Centre-Back,right,,"Jul 1, 2009",Scott Dann,"1,94m",62688,['England'],€2.50m,Coventry City,23,"Feb 14, 1987",Without Club
+Centre-Back,right,,"Jan 1, 2004",Martin Taylor,"1,95m",3822,['England'],€750k,Blackburn Rovers,30,"Nov 9, 1979",Retired
+Centre-Back,right,,"Jul 9, 2009",Giovanny Espinoza,"1,88m",28079,['Ecuador'],€450k,Deportivo del Valle,33,"Apr 12, 1977",Retired
+Centre-Back,right,,"Jul 1, 2009",Dan Preston,"1,80m",128411,['England'],€100k,Birmingham City U18,18,"Sep 26, 1991",Without Club
+Left-Back,left,,"Aug 3, 2007",Franck Queudrue,"1,83m",3711,['France'],€1.48m,Fulham FC,31,"Aug 27, 1978",Retired
+Left-Back,left,,"Jan 1, 2008",David Murphy,"1,85m",3868,['England'],€1.00m,Hibernian FC,26,"Mar 1, 1984",Retired
+Left-Back,left,,"Aug 1, 2009",Grégory Vignal,"1,80m",4755,['France'],€600k,: Ablöse free transfer,28,"Jul 19, 1981",Retired
+Right-Back,right,,"Jan 1, 2009",Stephen Carr,"1,75m",4046,['Ireland'],€1.50m,,33,"Aug 29, 1976",Retired
+Right-Back,right,,"Jul 1, 2007",Stuart Parnaby,"1,78m",3866,['England'],€1.25m,Middlesbrough FC,27,"Jul 19, 1982",Retired
+Defensive Midfield,right,,"Jul 17, 2009",Barry Ferguson,"1,78m",10251,['Scotland'],€5.00m,: Ablöse €1.20m,32,"Feb 2, 1978",Retired
+Defensive Midfield,right,,"Sep 1, 2009",Teemu Tainio,"1,75m",4741,['Finland'],€2.50m,Sunderland AFC,30,"Nov 27, 1979",Retired
+Defensive Midfield,right,,"Jul 1, 2008",Lee Carsley,"1,78m",3618,"['Ireland', 'England']",€1.25m,: Ablöse free transfer,36,"Feb 28, 1974",Retired
+Central Midfield,right,,"Jan 31, 2007",Sebastian Larsson,"1,78m",31720,['Sweden'],€4.50m,: Ablöse €1.50m,25,"Jun 6, 1985",Retired
+Central Midfield,right,,"Jul 8, 2009",Lee Bowyer,"1,75m",3877,['England'],€3.00m,: Ablöse free transfer,33,"Jan 3, 1977",Retired
+Central Midfield,right,,"Jan 11, 2010",Míchel Madera,"1,83m",57818,['Spain'],€3.00m,Sporting Gijón,24,"Nov 8, 1985",Retired
+Central Midfield,right,,"Jan 1, 2009",Keith Fahey,"1,79m",29878,['Ireland'],€2.00m,St. Patrick's Athletic,27,"Jan 15, 1983",Retired
+Central Midfield,right,,"Jul 1, 2017",Craig Gardner,"1,76m",37171,['England'],€2.00m,West Bromwich Albion,23,"Nov 25, 1986",Retired
+Central Midfield,right,,"Mar 8, 2002",Damien Johnson,"1,73m",3940,['Northern Ireland'],€1.00m,Blackburn Rovers,31,"Nov 18, 1978",Retired
+Central Midfield,right,,"Jul 1, 2009",Jay O'Shea,"1,83m",68327,['Ireland'],€700k,Galway United FC,21,"Aug 10, 1988",Brisbane Roar
+Central Midfield,right,,"Jul 1, 2009",Jordon Mutch,"1,84m",57207,['England'],€300k,Birmingham City U18,18,"Dec 2, 1991",Gold Coast Knights
+Central Midfield,right,,,Ashley Sammons,"1,74m",99251,['England'],€100k,,18,"Nov 10, 1991",Racing Club Warwick FC
+Left Winger,left,,"Aug 16, 2006",Gary McSheffrey,"1,73m",25383,['England'],€1.30m,Coventry City,27,"Aug 13, 1982",Retired
+Right Winger,right,Hamstring injury - Return unknown,"Jul 1, 2011",Nathan Redmond,"1,73m",129078,"['England', 'Jamaica']",,Birmingham City U18,16,"Mar 6, 1994",Burnley FC
+Second Striker,left,,"Jan 18, 2008",James McFadden,"1,78m",9956,['Scotland'],€3.50m,: Ablöse €7.50m,27,"Apr 14, 1983",Retired
+Centre-Forward,right,,"Jul 1, 2009",Christian Benítez,"1,70m",30916,['Ecuador'],€6.00m,: Ablöse €900k,24,"May 1, 1986",---
+Centre-Forward,right,,"Jul 1, 2006",Cameron Jerome,"1,85m",35855,"['Grenada', 'England']",€3.70m,: Ablöse €4.45m,23,"Aug 14, 1986",Without Club
+Centre-Forward,right,,"Jul 1, 2007",Garry O'Connor,"1,86m",15708,['Scotland'],€2.00m,: Ablöse €4.00m,27,"May 7, 1983",Retired
+Centre-Forward,right,,"Jul 9, 2008",Kevin Phillips,"1,70m",3131,['England'],€1.50m,West Bromwich Albion,36,"Jul 25, 1973",Retired
+Centre-Forward,right,,"Jul 1, 2008",Marcus Bent,"1,88m",9958,"['England', 'Jamaica']",€1.50m,Charlton Athletic,32,"May 19, 1978",Cornard United FC
+Centre-Forward,right,,"Jul 1, 2009",Jake Jervis,"1,91m",129074,['England'],,Birmingham City U18,18,"Sep 17, 1991",Hednesford Town

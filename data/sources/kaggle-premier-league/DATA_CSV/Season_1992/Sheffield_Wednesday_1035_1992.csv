@@ -1,0 +1,30 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Nov 7, 1985",Kevin Pressman,"1,85m",10242,['England'],Sheffield Wednesday U18,25,"Nov 6, 1967",Retired
+Goalkeeper,right,"Jan 12, 2001",Marlon Beresford,"1,85m",11479,['England'],: Ablöse ?,23,"Sep 2, 1969",Retired
+Goalkeeper,right,"Jul 1, 1991",Chris Woods,"1,88m",101320,['England'],: Ablöse €1.36m,33,"Nov 14, 1959",Retired
+Goalkeeper,,"Apr 1, 1990",Lance Key,"1,88m",165697,['England'],Histon FC,25,"May 13, 1968",Retired
+Centre-Back,right,"Jul 1, 1991",Paul Warhurst,"1,83m",3307,['England'],: Ablöse €1.05m,23,"Sep 26, 1969",Retired
+Centre-Back,,"Jul 1, 1989",Peter Shirtliff,"1,83m",195180,['England'],Charlton Athletic,32,"Apr 6, 1961",Retired
+Centre-Back,,"Jul 1, 1987",Nigel Pearson,"1,85m",222229,['England'],: Ablöse €300k,29,"Aug 21, 1963",Retired
+Centre-Back,,"Mar 1, 1992",Julian Watts,"1,91m",223290,['England'],Rotherham United,22,"Mar 17, 1971",Retired
+Centre-Back,,"Jul 16, 1992",Simon Stewart,"1,86m",223315,['England'],Sheffield Wednesday U18,19,"Nov 1, 1973",Retired
+Left-Back,,"Feb 1, 1984",Nigel Worthington,,117778,['Northern Ireland'],: Ablöse €150k,31,"Nov 4, 1961",Retired
+Left-Back,,"Nov 1, 1989",Phil King,"1,73m",222296,['England'],Swindon Town,25,"Dec 28, 1967",Retired
+Right-Back,,"Jan 1, 1990",Roland Nilsson,,101101,['Sweden'],: Ablöse ?,29,"Nov 27, 1963",Retired
+Right-Back,right,"Jan 10, 1991",Viv Anderson,"1,84m",117188,['England'],: Ablöse free transfer,36,"Jul 29, 1956",Retired
+Defensive Midfield,,"Feb 1, 2001",Carlton Palmer,,101325,['England'],Coventry City,27,"Dec 5, 1965",Retired
+Defensive Midfield,,"May 1, 1988",Graham Hyde,,106798,['England'],Sheffield Wednesday U18,22,"Nov 10, 1970",Retired
+Central Midfield,,"Nov 3, 1989",John Sheridan,,102496,"['Ireland', 'England']",: Ablöse €625k,28,"Oct 1, 1964",Retired
+Central Midfield,,"Jul 1, 1991",Ryan Jones,,107090,['Wales'],Unknown,19,"Jul 23, 1973",Retired
+Central Midfield,,"Aug 8, 1990",Danny Wilson,"1,68m",223317,"['Northern Ireland', 'England']",: Ablöse €221k,33,"Jan 1, 1960",Retired
+Right Midfield,right,"Oct 3, 1990",John Harkes,"1,81m",102005,['United States'],Albany Capitals,26,"Mar 8, 1967",Retired
+Attacking Midfield,right,"Jul 1, 1991",Chris Bart-Williams,"1,80m",3293,"['England', 'Sierra Leone']",Leyton Orient,19,"Jun 16, 1974",---
+Attacking Midfield,,"Jul 1, 1992",Chris Waddle,,101385,['England'],: Ablöse €1.50m,32,"Dec 14, 1960",Retired
+Centre-Forward,,"Feb 1, 1991",Trevor Francis,,130319,['England'],: Ablöse ?,39,"Apr 19, 1954",---
+Centre-Forward,,"Aug 1, 1986",David Hirst,,109491,"['England', 'Scotland']",Barnsley FC,25,"Dec 7, 1967",Retired
+Centre-Forward,,"Jan 1, 1991",Gordon Watson,"1,78m",222264,['England'],Charlton Athletic,22,"Mar 20, 1971",Retired
+Centre-Forward,right,"Sep 11, 1992",Mark Bright,"1,83m",223280,['England'],: Ablöse €1.70m,31,"Jun 6, 1962",Retired
+Centre-Forward,,"Feb 13, 1991",Mike Williams,,223291,['England'],Maltby Main FC,23,"Nov 21, 1969",Retired
+Centre-Forward,,"Sep 17, 1991",Nigel Jemson,,223302,['England'],: Ablöse €1.00m,23,"Aug 10, 1969",Retired
+Centre-Forward,,"Aug 15, 1990",Paul Williams,,223316,['England'],Charlton Athletic,27,"Aug 16, 1965",Retired
+Striker,,"Jul 1, 1990",David Johnson,,641619,['England'],Unknown,22,"Oct 29, 1970",Retired

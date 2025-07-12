@@ -1,0 +1,33 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 1997",Shay Given,"1,85m",3146,['Ireland'],Blackburn Rovers,28,"Apr 20, 1976",Retired
+Goalkeeper,right,"Jul 1, 1993",Steve Harper,"1,88m",3562,['England'],Seaham Red Star,29,"Mar 14, 1975",Retired
+Goalkeeper,,"Jan 31, 2003",Tony Caig,"1,83m",3563,['England'],Hibernian FC,30,"Apr 11, 1974",Retired
+Goalkeeper,right,,Adam Collin,"1,95m",3564,['England'],,19,"Dec 9, 1984",Retired
+Centre-Back,right,"Mar 1, 2001",Andrew O'Brien,"1,91m",3228,"['Ireland', 'England']",Bradford City,25,"Jun 29, 1979",Retired
+Centre-Back,right,"Jul 1, 1997",Aaron Hughes,"1,83m",3580,['Northern Ireland'],Newcastle United U18,24,"Nov 8, 1979",Retired
+Centre-Back,right,"Jul 12, 2002",Titus Bramble,"1,92m",3130,"['England', 'Montserrat']",Ipswich Town,22,"Jul 31, 1981",Retired
+Centre-Back,right,"Jan 31, 2003",Jonathan Woodgate,"1,88m",3224,['England'],Leeds United,24,"Jan 22, 1980",Retired
+Centre-Back,right,"Jul 1, 1998",Steven Caldwell,"1,83m",3462,['Scotland'],Newcastle United U18,23,"Sep 12, 1980",Retired
+Centre-Back,right,"Jan 1, 1998",Nikolaos Dabizas,"1,88m",3581,['Greece'],: Ablöse €2.00m,30,"Aug 3, 1973",Retired
+Centre-Back,right,"Jul 1, 2003",Steven Taylor,"1,86m",17273,['England'],Newcastle United U18,18,"Jan 23, 1986",Retired
+Left-Back,left,"Jul 1, 2001",Robbie Elliott,"1,79m",3577,['England'],: Ablöse free transfer,30,"Dec 25, 1973",Retired
+Left-Back,left,"Aug 1, 2006",Olivier Bernard,"1,75m",3301,['France'],: Ablöse free transfer,24,"Oct 14, 1979",Retired
+Right-Back,right,"Jan 30, 1998",Andy Griffin,"1,73m",3579,['England'],: Ablöse €2.50m,25,"Mar 17, 1979",Retired
+Right-Back,right,,Bradley Orr,"1,82m",16091,['England'],,21,"Nov 1, 1982",Retired
+Central Midfield,right,"Jan 31, 2002",Jermaine Jenas,"1,81m",3461,['England'],: Ablöse €7.50m,21,"Feb 18, 1983",Retired
+Central Midfield,,"Feb 6, 1998",Gary Speed,,3459,['Wales'],: Ablöse €8.25m,34,"Sep 8, 1969",---
+Central Midfield,right,"Jul 1, 1997",Jamie McClen,"1,70m",3565,['England'],Newcastle United U18,25,"May 13, 1979",Retired
+Central Midfield,right,"Jul 1, 2003",Lee Bowyer,"1,75m",3877,['England'],: Ablöse free transfer,27,"Jan 3, 1977",Retired
+Central Midfield,left,"Jul 1, 2002",Hugo Viana,"1,78m",3480,['Portugal'],Sporting CP,21,"Jan 15, 1983",Retired
+Right Midfield,right,"Jan 1, 2006",Nolberto Solano,"1,76m",3460,['Peru'],: Ablöse €2.25m,29,"Dec 12, 1974",Retired
+Right Midfield,right,"Jul 1, 1999",Kieron Dyer,"1,70m",3118,"['England', 'Antigua and Barbuda']",Ipswich Town,25,"Dec 29, 1978",Retired
+Right Midfield,right,"Mar 25, 2003",Darren Ambrose,"1,83m",4086,['England'],Ipswich Town,20,"Feb 29, 1984",Retired
+Right Midfield,right,"Jul 1, 2003",Martin Brittain,"1,73m",22221,['England'],Newcastle United U18,19,"Dec 29, 1984",Retired
+Left Winger,right,"Jul 1, 2001",Craig Bellamy,"1,73m",3297,['Wales'],Coventry City,24,"Jul 13, 1979",Retired
+Left Winger,both,"Aug 1, 2001",Laurent Robert,"1,76m",3316,['France'],: Ablöse €14.33m,29,"May 21, 1975",Retired
+Centre-Forward,right,"Jul 1, 2001",Richard Offiong,"1,85m",20902,"['England', 'Ghana']",Newcastle United U18,20,"Dec 17, 1983",Retired
+Centre-Forward,right,"Jul 30, 1996",Alan Shearer,"1,83m",3110,['England'],Blackburn Rovers,33,"Aug 13, 1970",Retired
+Centre-Forward,right,"Feb 1, 2004",Michael Bridges,"1,85m",3767,['England'],Leeds United,25,"Aug 5, 1978",Retired
+Centre-Forward,right,"Jul 1, 2000",Lomana LuaLua,"1,80m",3458,"['DR Congo', 'England']",Colchester United,23,"Dec 28, 1980",Retired
+Centre-Forward,right,"Jul 1, 2000",Shola Ameobi,"1,91m",3276,"['Nigeria', 'England']",Newcastle United U18,22,"Oct 12, 1981",Retired
+Centre-Forward,right,"Jul 1, 2001",Michael Chopra,"1,75m",3463,"['England', 'India']",Newcastle United U18,20,"Dec 23, 1983",Without Club

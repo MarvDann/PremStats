@@ -1,0 +1,32 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jul 1, 1992",Jonathan Gould,"1,85m",13788,"['Scotland', 'England']",: Ablöse free transfer,24,"Jul 18, 1968",Retired
+Goalkeeper,,"Jul 1, 1984",Steve Ogrizovic,,109480,"['England', 'Serbia']",: Ablöse €108k,35,"Sep 12, 1957",Retired
+Defender,,,Chris Greenman,,239911,['England'],,24,"Dec 22, 1968",Retired
+Centre-Back,left,"Jul 21, 1992",Phil Babb,"1,82m",3283,"['Ireland', 'England']",Bradford City,22,"Nov 30, 1970",Retired
+Centre-Back,,"Jul 1, 1995",Paul Williams,"1,83m",3323,['England'],: Ablöse €1.14m,22,"Mar 26, 1971",Retired
+Centre-Back,right,"Aug 23, 1991",Peter Atherton,"1,78m",13552,['England'],Wigan Athletic,23,"Apr 6, 1970",Retired
+Centre-Back,,"Jul 1, 1989",Peter Billing,"1,88m",222486,['England'],Crewe Alexandra,28,"Oct 24, 1964",Retired
+Centre-Back,,"Aug 1, 1992",David Busst,"1,85m",222492,['England'],Moor Green FC (- 2007),26,"Jun 30, 1967",Retired
+Centre-Back,,"May 1, 1991",Andy Pearce,"1,95m",222527,['England'],Halesowen Town,27,"Apr 20, 1966",Retired
+Centre-Back,,"Mar 1, 1993",David Rennie,"1,83m",222532,['Scotland'],: Ablöse €120k,28,"Aug 29, 1964",Retired
+Left-Back,left,"Mar 23, 1991",Kenny Sansom,"1,68m",117195,['England'],: Ablöse ?,34,"Sep 26, 1958",Retired
+Left-Back,left,,Keith Rowland,"1,78m",149519,['Northern Ireland'],,21,"Sep 1, 1971",Retired
+Right-Back,right,"Mar 1, 1985",Brian Borrows,"1,78m",177179,['England'],: Ablöse ?,32,"Dec 20, 1960",Retired
+Defensive Midfield,right,"Jul 1, 1992",Willie Boland,"1,75m",12684,['Ireland'],Coventry City U18,17,"Aug 6, 1975",Retired
+Central Midfield,,"Jul 1, 1991",Stewart Robson,,176722,['England'],: Ablöse ?,28,"Nov 6, 1964",Retired
+Central Midfield,,"Jul 1, 1983",Micky Gynn,"1,65m",222506,['England'],Peterborough United,31,"Aug 19, 1961",Retired
+Central Midfield,,"Jul 1, 1990",Lee Hurst,,222511,['England'],Coventry City U21,22,"Sep 21, 1970",Retired
+Central Midfield,,"Jul 1, 1982",Lloyd McGrath,"1,65m",222520,['England'],Coventry City U21,28,"Feb 24, 1965",Retired
+Central Midfield,,"Jul 2, 1991",Terry Fleming,,226771,['England'],Coventry City U18,20,"Jan 5, 1973",Retired
+Central Midfield,left,"May 30, 1989",Craig Middleton,"1,75m",238088,['England'],Coventry City U18,22,"Sep 10, 1970",Retired
+Right Midfield,,"Dec 1, 1991",Sean Flynn,"1,73m",222501,['England'],Halesowen Town,25,"Mar 13, 1968",Retired
+Attacking Midfield,,"Mar 1, 1993",Roy Wegerle,,102014,"['United States', 'South Africa']",Blackburn Rovers,29,"Mar 19, 1964",Retired
+Attacking Midfield,,"Jul 1, 1986",David Smith,"1,70m",222538,['England'],Coventry City U21,25,"Mar 29, 1968",Retired
+Attacking Midfield,left,"Jul 1, 1992",Tony Sheridan,"1,83m",228613,['Ireland'],Coventry City U18,18,"Oct 21, 1974",Retired
+Left Winger,right,"Mar 12, 1993",Leigh Jenkinson,"1,83m",157677,"['England', 'Wales']",: Ablöse €450k,23,"Jul 9, 1969",Retired
+Right Winger,right,"Jan 1, 1991",Kevin Gallacher,"1,74m",101134,['Scotland'],: Ablöse €1.25m,26,"Nov 23, 1966",Retired
+Right Winger,,"Jul 1, 1992",John Williams,,222545,['England'],: Ablöse €300k,25,"May 11, 1968",Retired
+Centre-Forward,right,"Aug 16, 1991",Peter Ndlovu,"1,73m",13534,['Zimbabwe'],The Highlanders,20,"Feb 25, 1973",Retired
+Centre-Forward,,"Nov 1, 1992",Micky Quinn,"1,78m",222530,['England'],Newcastle United,31,"May 2, 1962",Retired
+Centre-Forward,,"Mar 1, 1991",Robert Rosario,"1,91m",222535,['England'],: Ablöse €725k,27,"Mar 4, 1966",Retired
+Striker,,"Oct 23, 1992",Paul Williams,,267381,['Northern Ireland'],: Ablöse ?,29,"Sep 8, 1963",Retired

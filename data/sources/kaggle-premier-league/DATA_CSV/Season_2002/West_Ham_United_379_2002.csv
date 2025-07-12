@@ -1,0 +1,42 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jul 11, 2001",David James,,3646,"['England', 'Jamaica']",: Ablöse €4.80m,32,"Aug 1, 1970",Retired
+Goalkeeper,,"Jul 1, 2002",Raimond van der Gouw,"1,91m",3644,['Netherlands'],Manchester United,40,"Mar 24, 1963",Retired
+Goalkeeper,right,"Feb 1, 2002",David Forde,"1,88m",3746,['Ireland'],Barry Town,23,"Dec 20, 1979",Retired
+Goalkeeper,right,"Feb 20, 1998",Stephen Bywater,"1,89m",3873,['England'],Rochdale AFC,22,"Jun 7, 1981",Retired
+Centre-Back,right,"Aug 26, 2001",Tomas Repka,"1,82m",3647,['Czech Republic'],: Ablöse €8.25m,29,"Jan 2, 1974",Retired
+Centre-Back,right,"Jan 30, 2001",Christian Dailly,"1,83m",3799,['Scotland'],Blackburn Rovers,29,"Oct 23, 1973",Retired
+Centre-Back,right,"Jul 1, 2002",Gary Breen,"1,85m",3874,"['Ireland', 'England']",Coventry City,29,"Dec 12, 1973",Retired
+Centre-Back,right,"Jul 1, 1997",Ian Pearce,"1,85m",3879,['England'],Blackburn Rovers,29,"May 7, 1974",Retired
+Centre-Back,,,Clive Delaney,"1,98m",43913,['Ireland'],,23,"Jan 2, 1980",Retired
+Centre-Back,right,"Jul 1, 2003",Anton Ferdinand,"1,85m",3698,"['England', 'St. Lucia']",: Ablöse -,18,"Feb 18, 1985",Retired
+Centre-Back,right,"Jul 1, 1998",Izzy Iriekpen,"1,85m",3872,"['England', 'Nigeria']",: Ablöse -,21,"May 14, 1982",Retired
+Left-Back,left,"Jan 31, 2003",Rufus Brevett,"1,72m",3883,['England'],Fulham FC,33,"Sep 24, 1969",Retired
+Left-Back,left,"Jul 1, 2000",Nigel Winterburn,"1,73m",3648,['England'],: Ablöse free transfer,39,"Dec 11, 1963",Retired
+Left-Back,left,"Jan 1, 2002",Vladimír Labant,"1,89m",5013,['Slovakia'],: Ablöse €1.40m,29,"Jun 8, 1974",Retired
+Left-Back,left,"Jan 14, 1999",Scott Minto,"1,78m",3884,['England'],: Ablöse €1.50m,31,"Aug 6, 1971",Retired
+Left-Back,left,"Jul 1, 1999",Shaun Byrne,"1,75m",3882,['Ireland'],: Ablöse -,22,"Jan 21, 1981",Unknown
+Right-Back,both,"Jul 1, 2002",Glen Johnson,"1,82m",3881,['England'],: Ablöse -,18,"Aug 23, 1984",Retired
+Right-Back,right,"Jan 19, 2001",Sébastien Schemmel,"1,77m",3798,['France'],: Ablöse €700k,28,"Jun 2, 1975",Retired
+Defensive Midfield,right,"Jul 1, 1999",Michael Carrick,"1,89m",3878,['England'],: Ablöse -,21,"Jul 28, 1981",Retired
+Midfielder,,"Jul 1, 2002",Brent Rahim,"1,70m",14663,['Trinidad and Tobago'],: Ablöse ?,24,"Aug 8, 1978",Retired
+Defensive Midfield,right,"Jul 1, 2002",Édouard Cissé,"1,85m",3800,"['France', 'Senegal']",: Ablöse ?,25,"Mar 30, 1978",Retired
+Central Midfield,right,"Jul 1, 2006",Lee Bowyer,"1,75m",3877,['England'],Newcastle United,26,"Jan 3, 1977",Retired
+Central Midfield,,"Mar 1, 1997",Steve Lomas,,3801,"['Northern Ireland', 'Germany']",: Ablöse €2.40m,29,"Jan 18, 1974",Retired
+Central Midfield,right,"Mar 31, 2003",David Noble,"1,83m",14184,"['Scotland', 'England']",Arsenal FC Reserves,21,"Feb 2, 1982",St Albans City
+Central Midfield,left,"Jul 1, 1998",Grant McCann,"1,78m",44291,['Northern Ireland'],: Ablöse -,23,"Apr 14, 1980",Retired
+Central Midfield,right,,Leon Britton,"1,67m",40043,['England'],,20,"Sep 16, 1982",Retired
+Left Midfield,left,"Aug 7, 2001",Laurent Courtois,"1,75m",22403,['France'],: Ablöse free transfer,24,"Sep 11, 1978",Retired
+Attacking Midfield,right,"Aug 30, 2001",Don Hutchison,"1,85m",3880,"['Scotland', 'England']",Sunderland AFC,32,"May 9, 1971",Retired
+Attacking Midfield,right,"Jul 1, 1994",John Moncur,"1,70m",3696,['England'],Swindon Town,36,"Sep 22, 1966",Retired
+Attacking Midfield,right,"Jan 4, 2013",Joe Cole,"1,76m",3876,['England'],: Ablöse free transfer,21,"Nov 8, 1981",Retired
+Attacking Midfield,both,"Jul 1, 2000",Daryl McMahon,"1,83m",3697,['Ireland'],: Ablöse -,20,"Oct 10, 1982",Retired
+Left Winger,right,"Jan 1, 1998",Trevor Sinclair,"1,78m",3253,['England'],: Ablöse €3.05m,30,"Mar 2, 1973",Retired
+Second Striker,right,"Jul 1, 1999",Richard García,"1,80m",3695,"['Australia', 'Uruguay']",: Ablöse -,21,"Sep 4, 1981",Retired
+Striker,,"Jul 1, 2002",James Allen,,3275,['England'],: Ablöse -,19,"Oct 8, 1983",Without Club
+Centre-Forward,right,"Jul 1, 1999",Jermain Defoe,"1,71m",3875,"['England', 'St. Lucia']",Charlton Athletic U18,20,"Oct 7, 1982",Retired
+Centre-Forward,,"Jan 1, 1999",Paolo Di Canio,,3699,['Italy'],: Ablöse €2.23m,34,"Jul 9, 1968",Retired
+Centre-Forward,right,"Jul 1, 2000",Frédéric Kanouté,"1,92m",3700,"['Mali', 'France']",: Ablöse €5.63m,25,"Sep 2, 1977",Retired
+Centre-Forward,,"Jul 1, 2002",Youssef Sofiane,,3701,"['France', 'Algeria']",AJ Auxerre B,18,"Jul 8, 1984",Retired
+Centre-Forward,right,"Jan 21, 2003",Les Ferdinand,"1,80m",3645,"['England', 'St. Lucia']",: Ablöse ?,36,"Dec 8, 1966",Retired
+Centre-Forward,right,"Dec 21, 2000",Titi Camara,"1,84m",106847,['Guinea'],: Ablöse €3.30m,30,"Nov 17, 1972",Retired
+Centre-Forward,right,"Aug 1, 2002",Billy Mehmet,"1,89m",12637,"['Ireland', 'Türkiye']",: Ablöse -,19,"Jan 3, 1984",Alsancak Yesilova SK

@@ -1,0 +1,32 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,"Jul 1, 1996",Paul Gerrard,"1,88m",3584,['England'],: Ablöse €1.50m,31,"Jan 22, 1973",Retired
+Goalkeeper,right,"Jul 1, 2002",Richard Wright,"1,90m",3120,['England'],: Ablöse €5.50m,26,"Nov 5, 1977",Retired
+Goalkeeper,right,"Jul 1, 1998",Steve Simonsen,"1,87m",3583,"['England', 'Denmark']",: Ablöse €4.95m,25,"Apr 3, 1979",Retired
+Goalkeeper,right,"Sep 1, 2003",Nigel Martyn,"1,88m",3629,['England'],Leeds United,37,"Aug 11, 1966",Retired
+Goalkeeper,right,"Jul 1, 2003",Iain Turner,"1,93m",3582,['Scotland'],Stirling Albion FC,20,"Jan 26, 1984",Retired
+Centre-Back,,"Jan 1, 2006",Alan Stubbs,,3472,['England'],Sunderland AFC,32,"Oct 6, 1971",Retired
+Centre-Back,right,"Feb 1, 1999",David Weir,"1,91m",3312,['Scotland'],Heart of Midlothian FC,34,"May 10, 1970",Retired
+Centre-Back,right,"Jul 1, 2003",Joseph Yobo,"1,88m",3270,"['Nigeria', 'England']",: Ablöse €6.00m,23,"Sep 6, 1980",Retired
+Centre-Back,right,"Jan 1, 2002",Peter Clarke,"1,88m",25201,['England'],Everton FC Reserves,22,"Jan 3, 1982",Warrington Town
+Left-Back,both,"Jul 1, 2000",Alessandro Pistone,"1,80m",3588,['Italy'],Newcastle United,28,"Jul 27, 1975",Retired
+Left-Back,left,"Aug 1, 1998",David Unsworth,"1,87m",3272,['England'],: Ablöse €4.60m,30,"Oct 16, 1973",Retired
+Left-Back,left,"Oct 1, 2000",Gary Naysmith,"1,78m",3589,['Scotland'],Heart of Midlothian FC,25,"Nov 16, 1978",Retired
+Right-Back,right,"Jul 4, 2000",Steve Watson,"1,85m",3309,['England'],: Ablöse €3.75m,30,"Apr 1, 1974",Retired
+Right-Back,right,"Jul 1, 2000",Tony Hibbert,"1,73m",3614,['England'],: Ablöse -,23,"Feb 20, 1981",Retired
+Defensive Midfield,right,"Jul 19, 2002",Tie Li,"1,83m",3590,['China'],: Ablöse free transfer,27,"May 18, 1977",Retired
+Defensive Midfield,,"Aug 1, 2007",Thomas Gravesen,,301,['Denmark'],Celtic FC,28,"Mar 11, 1976",Retired
+Defensive Midfield,right,"Jan 31, 2002",Tobias Linderoth,"1,78m",3586,['Sweden'],: Ablöse €3.75m,25,"Apr 21, 1979",Retired
+Defensive Midfield,right,"Jan 1, 2003",Lee Carsley,"1,78m",3618,"['Ireland', 'England']",Coventry City,30,"Feb 28, 1974",Retired
+Central Midfield,right,"Jul 1, 2002",Steven Schumacher,"1,83m",15304,['England'],: Ablöse -,20,"Apr 30, 1984",Retired
+Central Midfield,right,"Mar 25, 1999",Scot Gemmill,"1,81m",3617,['Scotland'],: Ablöse €300k,33,"Jan 2, 1971",Retired
+Central Midfield,,"Jul 1, 2000",Alex Nyarko,,3727,"['Ghana', 'Switzerland']",: Ablöse €6.30m,30,"Oct 15, 1973",Retired
+Central Midfield,right,"Jul 1, 2002",Leon Osman,"1,73m",3620,['England'],Everton FC Reserves,23,"May 17, 1981",Retired
+Left Midfield,,"Aug 5, 1999",Mark Pembridge,,3615,['Wales'],SL Benfica,33,"Nov 29, 1970",Retired
+Left Midfield,left,"Jul 1, 2003",Kevin Kilbane,"1,83m",4135,"['Ireland', 'England']",Sunderland AFC,27,"Feb 1, 1977",Retired
+Second Striker,left,"Oct 17, 2011",James McFadden,"1,78m",9956,['Scotland'],Without Club,21,"Apr 14, 1983",Retired
+Centre-Forward,left,"Aug 20, 2001",Tomasz Radzinski,"1,74m",3585,"['Canada', 'Poland']",: Ablöse €6.75m,30,"Dec 14, 1973",Retired
+Centre-Forward,right,"Jul 23, 1999",Kevin Campbell,"1,83m",3468,"['England', 'Jamaica']",Trabzonspor,34,"Feb 4, 1970",---
+Centre-Forward,left,"Jul 1, 2000",Duncan Ferguson,"1,93m",3239,['Scotland'],Newcastle United,32,"Dec 27, 1971",Retired
+Centre-Forward,right,"Sep 1, 2003",Francis Jeffers,"1,78m",3186,['England'],: Ablöse free transfer,23,"Jan 25, 1981",Retired
+Centre-Forward,right,"Jul 9, 2017",Wayne Rooney,"1,76m",3332,['England'],Manchester United,18,"Oct 24, 1985",Retired
+Centre-Forward,right,"Jul 1, 2001",Nick Chadwick,"1,83m",3616,['England'],: Ablöse -,21,"Oct 26, 1982",Retired

@@ -1,0 +1,36 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 19, 2016",Nick Pope,"1,98m",192080,['England'],€9.50m,,Charlton Athletic,28,"Apr 19, 1992",Newcastle United
+Goalkeeper,right,,"Aug 7, 2018",Joe Hart,"1,96m",40204,['England'],€2.40m,,Manchester City,33,"Apr 19, 1987",Retired
+Goalkeeper,left,,"Aug 2, 2019",Bailey Peacock-Farrell,"1,94m",410436,"['Northern Ireland', 'England']",€1.20m,"Returned after loan spell with Aarhus GF; date: Jun 30, 2024; fee: End of loan",Leeds United,23,"Oct 29, 1996",Birmingham City
+Goalkeeper,,,"Aug 8, 2017",Adam Legzdins,"1,90m",43858,"['England', 'Latvia']",€250k,,Birmingham City,33,"Nov 28, 1986",Dundee FC
+Goalkeeper,right,,,Lukas Jensen,"1,98m",581890,"['Denmark', 'England']",€25k,,,21,"Mar 18, 1999",Millwall FC
+Centre-Back,right,,"Feb 1, 2016",James Tarkowski,"1,85m",173504,"['England', 'Poland']",€20.00m,,: Ablöse €4.00m,27,"Nov 19, 1992",Everton FC
+Centre-Back,left,,"Jan 17, 2012",Ben Mee,"1,80m",74810,['England'],€8.00m,,: Ablöse ?,30,"Sep 21, 1989",Brentford FC
+Centre-Back,left,,"Aug 5, 2018",Ben Gibson,"1,85m",128904,['England'],€6.50m,,Middlesbrough FC,27,"Jan 15, 1993",Stoke City
+Centre-Back,left,,"Jul 8, 2019",Erik Pieters,"1,83m",43763,['Netherlands'],€4.00m,,Stoke City,31,"Aug 7, 1988",Without Club
+Centre-Back,right,,"Jan 1, 2010",Kevin Long,"1,88m",111114,['Ireland'],€1.60m,,Cork City FC,29,"Aug 18, 1990",Toronto FC
+Centre-Back,right,,"Jul 1, 2020",Jimmy Dunne,"1,91m",396174,"['Ireland', 'Northern Ireland']",€300k,,: Ablöse -,22,"Oct 19, 1997",Queens Park Rangers
+Centre-Back,right,,"Jul 1, 2021",Bobby Thomas,"1,86m",788283,['England'],,,: Ablöse -,19,"Jan 30, 2001",Coventry City
+Left-Back,left,,"Jul 6, 2017",Charlie Taylor,"1,83m",195633,['England'],€4.00m,,Leeds United,26,"Sep 18, 1993",Southampton FC
+Left-Back,left,,,Anthony Driscoll-Glennon,"1,81m",503683,['England'],,,,20,"Nov 26, 1999",Newport County
+Left-Back,left,Muscle injury - Return unknown,,Ali Koiki,"1,87m",641441,"['England', 'Nigeria']",,,,20,"Aug 22, 1999",Northampton Town
+Right-Back,right,,"Jul 1, 2015",Matthew Lowton,"1,80m",102258,['England'],€4.00m,,: Ablöse €1.40m,31,"Jun 9, 1989",Precision FC
+Right-Back,right,,"Jul 25, 2017",Phil Bardsley,"1,80m",15773,"['Scotland', 'England']",€800k,,Stoke City,35,"Jun 28, 1985",Retired
+Defensive Midfield,right,,"Jul 11, 2017",Jack Cork,"1,85m",40613,['England'],€12.00m,,: Ablöse €9.10m,31,"Jun 25, 1989",Burnley FC U21
+Defensive Midfield,right,,"Jan 31, 2017",Ashley Westwood,"1,74m",91317,['England'],€5.50m,,: Ablöse €5.80m,30,"Apr 1, 1990",Charlotte FC
+Central Midfield,right,,"Aug 31, 2016",Jeff Hendrick,"1,85m",148262,['Ireland'],€9.00m,,Derby County,28,"Jan 31, 1992",Without Club
+Central Midfield,right,Team captain,"Jan 30, 2020",Josh Brownhill,"1,79m",293569,['England'],€5.50m,,Bristol City,24,"Dec 19, 1995",Burnley FC
+Central Midfield,right,,"Aug 8, 2019",Danny Drinkwater,"1,78m",73491,['England'],€4.80m,,Chelsea FC,30,"Mar 5, 1990",Retired
+Central Midfield,right,,,Mace Goodridge,"1,80m",382552,['England'],,,,20,"Sep 13, 1999",Retired
+Central Midfield,right,,"Aug 1, 2020",Josh Benson,"1,75m",397102,['England'],,,: Ablöse -,20,"Dec 5, 1999",Barnsley FC
+Left Midfield,left,Injury to the ankle - Return unknown,"Jan 31, 2017",Robbie Brady,"1,76m",128229,['Ireland'],€4.80m,,: Ablöse €15.10m,28,"Jan 14, 1992",Preston North End
+Attacking Midfield,right,,,Lewis Richardson,"1,78m",657863,['England'],,,,17,"Feb 7, 2003",Burnley FC U21
+Left Winger,left,,"Jul 1, 2018",Dwight McNeil,"1,83m",584769,['England'],€18.00m,,: Ablöse -,20,"Nov 22, 1999",Everton FC
+Right Winger,left,,"Jul 19, 2016",Jóhann Berg Gudmundsson,"1,86m",89231,['Iceland'],€8.00m,,Charlton Athletic,29,"Oct 27, 1990",Al-Orobah FC
+Right Winger,right,,"Aug 25, 2021",Aaron Lennon,"1,65m",14221,"['England', 'Ireland']",€2.40m,,Kayserispor,33,"Apr 16, 1987",Retired
+Right Winger,right,,,Max Thompson,"1,82m",598958,['England'],,,,18,"Feb 9, 2002",Queen's Park FC
+Centre-Forward,right,,"Aug 21, 2017",Chris Wood,"1,91m",108725,['New Zealand'],€14.50m,,Leeds United,28,"Dec 7, 1991",Nottingham Forest
+Centre-Forward,right,,"Jan 10, 2014",Ashley Barnes,"1,85m",63200,['England'],€8.00m,,Brighton & Hove Albion,30,"Oct 30, 1989",Norwich City
+Centre-Forward,right,,"Jul 9, 2019",Jay Rodríguez,"1,85m",53360,"['England', 'Spain']",€4.80m,,West Bromwich Albion,30,"Jul 29, 1989",Burnley FC
+Centre-Forward,right,,"Aug 7, 2018",Matej Vydra,"1,80m",101500,['Czech Republic'],€4.00m,,Derby County,28,"May 1, 1992",FC Viktoria Plzen
+Centre-Forward,right,,,Joel Mumbongo,"1,88m",381156,"['Sweden', 'DR Congo']",,,,21,"Jan 9, 1999",Dumbarton FC

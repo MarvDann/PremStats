@@ -1,0 +1,39 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jul 1, 2008",Mark Schwarzer,,3357,"['Australia', 'Germany']",€4.00m,Middlesbrough FC,36,"Oct 6, 1972",Retired
+Goalkeeper,right,"Aug 7, 2008",Pascal Zuberbühler,"1,97m",95,['Switzerland'],€400k,: Ablöse free transfer,38,"Jan 8, 1971",Retired
+Goalkeeper,right,"Jul 1, 2008",David Stockdale,"1,90m",67339,['England'],€150k,Darlington FC (- 2012),23,"Sep 20, 1985",Retired
+Centre-Back,right,"Jan 18, 2008",Brede Hangeland,"1,99m",25553,"['Norway', 'United States']",€8.50m,: Ablöse €3.30m,28,"Jun 20, 1981",Retired
+Centre-Back,right,"Jul 1, 2007",Aaron Hughes,"1,83m",3580,['Northern Ireland'],€3.50m,: Ablöse €1.50m,29,"Nov 8, 1979",Retired
+Centre-Back,right,"Aug 1, 2007",Adrian Leijer,"1,90m",43163,"['Australia', 'England']",€500k,Melbourne Victory,23,"Mar 25, 1986",Retired
+Centre-Back,left,"Jan 1, 2008",Toni Kallio,"1,94m",37181,['Finland'],€500k,BSC Young Boys,30,"Aug 9, 1978",Retired
+Centre-Back,right,"Jul 1, 2008",Chris Smalling,"1,94m",103427,"['England', 'Jamaica']",€150k,: Ablöse free transfer,19,"Nov 22, 1989",Al-Fayha FC
+Centre-Back,left,"Jul 1, 2007",Adam Watts,"1,88m",61593,['England'],€50k,Fulham FC U18,21,"Mar 4, 1988",Retired
+Left-Back,left,"Jul 13, 2007",Paul Konchesky,"1,78m",3296,['England'],€3.00m,: Ablöse €4.00m,28,"May 15, 1981",Retired
+Left-Back,left,"Jul 1, 2008",Rob Milsom,"1,80m",55851,['England'],€150k,Fulham FC Reserves,22,"Jan 2, 1987",Dorking Wanderers
+Left-Back,left,,Joe Anderson,"1,83m",61688,['England'],€50k,,19,"Oct 13, 1989",Retired
+Right-Back,right,"Jul 1, 2008",John Paintsil,"1,78m",35235,['Ghana'],€3.50m,: Ablöse €3.80m,28,"Jun 15, 1981",Retired
+Right-Back,,"Jan 1, 2004",Moritz Volz,,4048,['Germany'],€1.20m,: Ablöse €1.00m,26,"Jan 21, 1983",Retired
+Right-Back,right,"Jul 1, 2008",Fredrik Stoor Siekkinen,"1,84m",24057,['Sweden'],€1.00m,: Ablöse €3.00m,25,"Feb 28, 1984",Retired
+Right-Back,right,"Aug 1, 2006",Elliot Omozusi,"1,79m",47844,"['England', 'Nigeria']",€750k,Fulham FC U18,20,"Dec 15, 1988",Without Club
+Defensive Midfield,right,"Aug 29, 2008",Dickson Etuhu,"1,89m",14011,"['Nigeria', 'England']",€3.00m,Sunderland AFC,27,"Jun 8, 1982",Retired
+Defensive Midfield,both,"Feb 1, 2009",Olivier Dacourt,"1,75m",3572,"['France', 'Guadeloupe']",€1.50m,: Ablöse free transfer,34,"Sep 25, 1974",Retired
+Defensive Midfield,right,"Feb 18, 2016",Chris Baird,"1,85m",4115,['Northern Ireland'],€1.50m,Derby County,27,"Feb 25, 1982",Retired
+Defensive Midfield,,,Courtney Harris,,116651,['England'],,,17,"Sep 7, 1991",Unknown
+Central Midfield,right,"Jul 1, 2006",Jimmy Bullard,"1,78m",13510,"['England', 'Germany']",€5.00m,Wigan Athletic,30,"Oct 23, 1978",Retired
+Central Midfield,right,"Aug 31, 2007",Danny Murphy,"1,77m",3221,['England'],€5.00m,Tottenham Hotspur,32,"Mar 18, 1977",Retired
+Central Midfield,,"Jan 22, 2008",Leon Andreasen,,22837,['Denmark'],€3.00m,SV Werder Bremen,26,"Apr 23, 1983",Retired
+Central Midfield,right,"Jul 1, 2008",Andranik Teymourian,"1,80m",39938,['Iran'],€700k,: Ablöse free transfer,26,"Mar 6, 1983",Retired
+Central Midfield,,,Reece Jones,"1,85m",116652,['Wales'],,,16,"Jul 22, 1992",Unknown
+Right Midfield,right,"Jan 24, 2007",Simon Davies,"1,78m",4056,['Wales'],€4.70m,: Ablöse free transfer,29,"Oct 23, 1979",Retired
+Attacking Midfield,right,"Jul 1, 2008",Zoltán Gera,"1,83m",18324,['Hungary'],€4.00m,West Bromwich Albion,30,"Apr 22, 1979",Retired
+Attacking Midfield,right,"Jul 1, 2007",Wayne Brown,"1,75m",61566,['England'],€150k,Fulham FC U18,20,"Aug 6, 1988",Colliers Wood United
+Right Winger,both,"Jul 1, 2007",Diomansy Kamara,"1,84m",6053,"['Senegal', 'France']",€3.50m,West Bromwich Albion,28,"Nov 8, 1980",Retired
+Right Winger,both,"Aug 1, 2007",Ki-hyeon Seol,"1,87m",9606,"['Korea, South']",€800k,Reading FC,30,"Jan 8, 1979",Retired
+Second Striker,right,"Jan 1, 2014",Clint Dempsey,"1,85m",27577,['United States'],€5.50m,: Ablöse ?,26,"Mar 9, 1983",Retired
+Centre-Forward,right,"Aug 7, 2008",Andy Johnson,"1,72m",14031,['England'],€8.50m,: Ablöse €13.30m,28,"Feb 10, 1981",Retired
+Centre-Forward,left,"Jul 1, 2008",Bobby Zamora,"1,84m",4205,"['England', 'Trinidad and Tobago']",€3.50m,: Ablöse €4.10m,28,"Jan 16, 1981",Retired
+Centre-Forward,right,"Jan 1, 2008",Erik Nevland,"1,78m",13711,['Norway'],€2.00m,: Ablöse €3.00m,31,"Nov 10, 1977",Retired
+Centre-Forward,right,"Jan 1, 2009",Giles Barnes,"1,83m",37236,"['Jamaica', 'England']",€1.30m,: Ablöse free transfer,20,"Aug 5, 1988",Retired
+Centre-Forward,right,"Jan 23, 2008",Eddie Johnson,"1,83m",38773,['United States'],€1.30m,: Ablöse €2.50m,25,"Mar 31, 1984",Retired
+Centre-Forward,right,"Jan 1, 2004",Collins John,"1,85m",4694,"['Netherlands', 'Liberia']",€1.00m,: Ablöse €3.50m,23,"Oct 17, 1985",Retired
+Centre-Forward,left,"Sep 1, 2008",Julian Gray,"1,85m",8735,"['England', 'Jamaica']",€500k,Coventry City,29,"Sep 21, 1979",Retired

@@ -1,0 +1,37 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 1997",Ed de Goey,"1,98m",3150,['Netherlands'],: Ablöse €3.35m,35,"Dec 20, 1966",Retired
+Goalkeeper,right,"Jul 1, 2000",Carlo Cudicini,"1,84m",3151,['Italy'],: Ablöse €240k,28,"Sep 6, 1973",Retired
+Goalkeeper,left,"Jan 18, 2001",Mark Bosnich,"1,85m",3249,"['Australia', 'Croatia']",Manchester United,30,"Jan 13, 1972",Retired
+Goalkeeper,right,"Jul 1, 1998",Rhys Evans,"1,86m",3180,['England'],: Ablöse -,20,"Jan 27, 1982",Retired
+Centre-Back,right,"Jul 14, 1998",Marcel Desailly,"1,88m",3154,"['France', 'Ghana']",AC Milan,33,"Sep 7, 1968",Retired
+Centre-Back,left,"Jul 1, 2000",Winston Bogarde,"1,88m",3155,"['Netherlands', 'Suriname']",: Ablöse free transfer,31,"Oct 22, 1970",Retired
+Centre-Back,right,"Jul 1, 2001",William Gallas,"1,82m",3156,"['France', 'Guadeloupe']",: Ablöse €9.30m,24,"Aug 17, 1977",Retired
+Centre-Back,right,,Valerio Di Cesare,"1,87m",3159,['Italy'],,19,"May 23, 1983",Retired
+Centre-Back,right,"Jan 1, 2000",John Terry,"1,87m",3160,['England'],: Ablöse -,21,"Dec 7, 1980",Retired
+Centre-Back,right,"Jul 1, 2003",Robert Huth,"1,91m",2998,['Germany'],Chelsea FC Reserves,17,"Aug 18, 1984",Retired
+Centre-Back,right,"Jul 1, 2001",Joel Kitamirike,"1,80m",3161,"['Uganda', 'England']",: Ablöse -,18,"Apr 5, 1984",Retired
+Centre-Back,right,,Pat Baldwin,"1,83m",42032,['England'],,19,"Nov 12, 1982",Retired
+Left-Back,left,"Jun 20, 1997",Celestine Babayaro,"1,75m",3153,"['Nigeria', 'England']",: Ablöse €3.50m,23,"Aug 29, 1978",Retired
+Left-Back,left,"Aug 8, 1997",Graeme Le Saux,"1,78m",3157,"['England', 'Jersey']",Blackburn Rovers,33,"Oct 17, 1968",Retired
+Left-Back,left,"Nov 1, 2000",Jon Harley,"1,78m",4014,['England'],: Ablöse free transfer,22,"Sep 26, 1979",Retired
+Left-Back,left,"Jul 1, 1999",Joe Keenan,"1,76m",3162,['England'],: Ablöse -,19,"Oct 14, 1982",Retired
+Right-Back,right,"Jul 1, 1999",Mario Melchiot,"1,87m",3158,"['Netherlands', 'Suriname']",: Ablöse free transfer,25,"Nov 4, 1976",Retired
+Right-Back,,"Jul 1, 1998",Albert Ferrer,,3152,['Spain'],: Ablöse €4.30m,32,"Jun 6, 1970",Retired
+Defensive Midfield,both,"Oct 1, 2000",Slavisa Jokanovic,"1,91m",79065,"['Serbia', 'Spain']",Deportivo de La Coruña,33,"Aug 16, 1968",Retired
+Defensive Midfield,left,"Jul 1, 2001",Emmanuel Petit,"1,85m",3166,['France'],: Ablöse €11.50m,31,"Sep 22, 1970",Retired
+Midfielder,,"Jul 1, 1999",Danny Slatter,,69784,['Wales'],: Ablöse -,21,"Oct 15, 1980",Without Club
+Central Midfield,right,"Jul 1, 2001",Frank Lampard,"1,84m",3163,['England'],: Ablöse €16.00m,24,"Jun 20, 1978",Retired
+Central Midfield,right,"Jul 1, 1996",Roberto Di Matteo,"1,80m",103679,"['Italy', 'Switzerland']",SS Lazio,32,"May 29, 1970",Retired
+Central Midfield,right,"Jul 1, 1995",Jody Morris,"1,65m",3171,['England'],: Ablöse -,23,"Dec 22, 1978",Retired
+Central Midfield,right,"Jul 1, 1999",Samuele Dalla Bona,"1,85m",4291,['Italy'],: Ablöse -,21,"Feb 6, 1981",Retired
+Left Midfield,left,"Jul 1, 1999",Gabriele Ambrosetti,"1,80m",3167,['Italy'],: Ablöse €4.89m,28,"Aug 7, 1973",Retired
+Left Winger,left,"Aug 2, 2001",Boudewijn Zenden,"1,74m",3173,['Netherlands'],: Ablöse €12.90m,25,"Aug 15, 1976",Retired
+Left Winger,,"Jan 1, 2001",Jesper Grønkjaer,,3137,['Denmark'],: Ablöse €11.85m,24,"Aug 12, 1977",Retired
+Right Winger,right,"Jul 1, 2000",Mario Stanic,"1,87m",3164,['Croatia'],: Ablöse €8.40m,30,"Apr 10, 1972",Retired
+Second Striker,right,"Nov 8, 1996",Gianfranco Zola,"1,68m",3177,['Italy'],: Ablöse €6.20m,35,"Jul 5, 1966",Retired
+Centre-Forward,right,"Jul 1, 2000",Jimmy Floyd Hasselbaink,"1,78m",3175,"['Netherlands', 'Suriname']",: Ablöse €22.50m,30,"Mar 27, 1972",Retired
+Centre-Forward,right,"Jul 1, 2000",Eidur Gudjohnsen,"1,85m",3176,['Iceland'],: Ablöse €7.50m,23,"Sep 15, 1978",Retired
+Centre-Forward,both,"Aug 1, 2000",Rati Aleksidze,"1,86m",25055,['Georgia'],: Ablöse ?,23,"Aug 3, 1978",Retired
+Centre-Forward,right,"Jul 1, 1999",Leon Knight,"1,62m",4088,"['England', 'St. Lucia']",: Ablöse -,19,"Sep 16, 1982",Retired
+Centre-Forward,right,"Jul 31, 1998",Mikael Forssell,"1,84m",3127,"['Finland', 'Germany']",: Ablöse free transfer,21,"Mar 15, 1981",Retired
+Centre-Forward,right,"Jul 1, 2001",Carlton Cole,"1,91m",3179,"['England', 'Sierra Leone']",: Ablöse -,18,"Oct 12, 1983",Retired

@@ -1,0 +1,36 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jul 13, 1995",Russell Hoult,"1,93m",3653,['England'],: Ablöse €300k,27,"Nov 22, 1972",Retired
+Goalkeeper,left,"Mar 26, 1997",Mart Poom,"1,95m",3715,['Estonia'],: Ablöse €700k,28,"Feb 3, 1972",Retired
+Goalkeeper,right,"Jul 1, 1999",Andy Oakes,"1,87m",13480,['England'],: Ablöse €500k,23,"Jan 11, 1977",Retired
+Centre-Back,right,"Jul 1, 1998",Horacio Carbonari,"1,91m",30799,"['Argentina', 'Italy']",CA Rosario Central,26,"May 2, 1974",Retired
+Centre-Back,,"Jul 1, 1998",Stefan Schnoor,,702,['Germany'],: Ablöse free transfer,29,"Apr 18, 1971",Retired
+Centre-Back,right,"Jul 1, 1995",Darryl Powell,"1,83m",4081,"['Jamaica', 'England']",: Ablöse €1.13m,28,"Nov 15, 1971",Retired
+Centre-Back,right,"Jul 1, 1995",Igor Stimac,"1,88m",103812,['Croatia'],HNK Hajduk Split,32,"Sep 6, 1967",Retired
+Centre-Back,right,"Jul 17, 1996",Jacob Laursen,"1,83m",4253,['Denmark'],Silkeborg IF,28,"Oct 6, 1971",Retired
+Centre-Back,right,"Aug 21, 1998",Spencer Prior,"1,91m",12722,"['England', 'Australia']",: Ablöse €1.00m,29,"Apr 22, 1971",Retired
+Centre-Back,right,"Jul 1, 1997",Steve Elliott,"1,85m",13457,['England'],Derby County U18,21,"Oct 29, 1978",Retired
+Centre-Back,right,"Aug 1, 2011",Chris Riggott,"1,83m",3782,['England'],Without Club,19,"Sep 1, 1980",Retired
+Left-Back,left,"Oct 16, 1998",Tony Dorigo,"1,75m",101324,"['England', 'Australia']",: Ablöse ?,34,"Dec 31, 1965",Retired
+Left-Back,left,"Mar 1, 1999",Paul Boertien,"1,78m",13440,['England'],Carlisle United,21,"Jan 20, 1979",Retired
+Right-Back,right,"Jan 1, 1999",Vasilios Bormpokis,"1,80m",9875,['Greece'],Sheffield United,31,"Feb 10, 1969",Retired
+Right-Back,both,"Mar 24, 1999",Richard Jackson,"1,73m",13467,['England'],Scarborough FC (- 2007),20,"Apr 18, 1980",Retired
+Midfielder,right,"Jul 1, 2000",Adam Bolder,"1,75m",13441,['England'],: Ablöse €125k,19,"Oct 25, 1980",Retired
+Central Midfield,left,"Jul 1, 2005",Seth Johnson,"1,79m",3635,['England'],Leeds United,21,"Mar 12, 1979",Retired
+Central Midfield,right,"Feb 6, 1998",Rory Delap,"1,83m",4112,"['Ireland', 'England']",Carlisle United,23,"Jul 6, 1976",Retired
+Central Midfield,right,"Mar 1, 1998",Lars Bohinen,"1,85m",102503,['Norway'],Blackburn Rovers,30,"Sep 8, 1969",Retired
+Central Midfield,right,"Jul 1, 1997",Marc Bridge-Wilkinson,"1,68m",39231,['England'],Derby County U18,21,"Mar 16, 1979",Retired
+Central Midfield,right,"Jul 1, 1998",Adam Murray,"1,75m",9408,['England'],Derby County U18,18,"Sep 30, 1981",Retired
+Right Midfield,right,"Jul 1, 1997",Stefano Eranio,"1,80m",4227,['Italy'],: Ablöse free transfer,33,"Dec 29, 1966",Retired
+Right Midfield,right,"Jul 1, 1998",Kevin Harper,"1,68m",9220,"['Scotland', 'England']",Hibernian FC,24,"Jan 15, 1976",Retired
+Attacking Midfield,,"Jul 1, 2000",Giorgi Kinkladze,,3425,['Georgia'],: Ablöse €5.00m,26,"Jul 6, 1973",Retired
+Attacking Midfield,,"Jul 1, 1999",Avi Nimni,,58335,['Israel'],: Ablöse ?,28,"Apr 26, 1972",Retired
+Attacking Midfield,right,"Dec 1, 1999",Craig Burley,"1,85m",11319,['Scotland'],Celtic FC,28,"Sep 24, 1971",Retired
+Second Striker,both,"Jul 1, 1997",Francesco Baiano,"1,70m",107802,['Italy'],: Ablöse €1.80m,32,"Feb 24, 1968",Retired
+Centre-Forward,right,"Jan 1, 1999",Marvin Robinson,"1,80m",25387,['England'],Derby County U18,20,"Apr 11, 1980",Retired
+Centre-Forward,right,"Oct 14, 1999",Lee Morris,"1,78m",13476,['England'],Sheffield United,20,"Apr 30, 1980",Retired
+Centre-Forward,right,"Jul 1, 1991",Dean Sturridge,"1,73m",4230,['England'],Derby County U18,26,"Jul 26, 1973",Retired
+Centre-Forward,right,"Aug 6, 1997",Deon Burton,"1,78m",3464,"['Jamaica', 'England']",: Ablöse €1.25m,23,"Oct 25, 1976",Retired
+Centre-Forward,right,"Jul 1, 1998",Malcolm Christie,"1,84m",3790,['England'],: Ablöse €75k,21,"Apr 11, 1979",Retired
+Centre-Forward,,"Jul 1, 1999",Esteban Fuertes,,5493,"['Argentina', 'Spain']",: Ablöse ?,27,"Dec 26, 1972",Retired
+Centre-Forward,,"Mar 25, 1999",Mikkel Beck,,5650,['Denmark'],: Ablöse €700k,27,"May 12, 1973",Retired
+Centre-Forward,right,"Dec 17, 1999",Branko Strupar,"1,90m",10444,"['Belgium', 'Croatia']",: Ablöse €4.20m,30,"Feb 9, 1970",Retired

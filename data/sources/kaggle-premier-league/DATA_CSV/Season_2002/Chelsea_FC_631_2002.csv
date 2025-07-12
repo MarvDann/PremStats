@@ -1,0 +1,34 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 1998",Rhys Evans,"1,86m",3180,['England'],: Ablöse -,21,"Jan 27, 1982",Retired
+Goalkeeper,left,"Jan 18, 2001",Mark Bosnich,"1,85m",3249,"['Australia', 'Croatia']",Manchester United,31,"Jan 13, 1972",Retired
+Goalkeeper,right,"Jul 1, 1997",Ed de Goey,"1,98m",3150,['Netherlands'],: Ablöse €3.35m,36,"Dec 20, 1966",Retired
+Goalkeeper,right,"Jul 1, 2000",Carlo Cudicini,"1,84m",3151,['Italy'],: Ablöse €240k,29,"Sep 6, 1973",Retired
+Goalkeeper,,"Jul 1, 2003",Lenny Pidgeley,"1,93m",3181,['England'],: Ablöse -,19,"Feb 7, 1984",Retired
+Centre-Back,right,"Jul 14, 1998",Marcel Desailly,"1,88m",3154,"['France', 'Ghana']",AC Milan,34,"Sep 7, 1968",Retired
+Centre-Back,left,"Jul 1, 2000",Winston Bogarde,"1,88m",3155,"['Netherlands', 'Suriname']",: Ablöse free transfer,32,"Oct 22, 1970",Retired
+Centre-Back,right,"Jul 1, 2001",William Gallas,"1,82m",3156,"['France', 'Guadeloupe']",: Ablöse €9.30m,25,"Aug 17, 1977",Retired
+Centre-Back,right,,Valerio Di Cesare,"1,87m",3159,['Italy'],,20,"May 23, 1983",Retired
+Centre-Back,right,"Jan 1, 2000",John Terry,"1,87m",3160,['England'],: Ablöse -,22,"Dec 7, 1980",Retired
+Centre-Back,right,"Jul 1, 2003",Robert Huth,"1,91m",2998,['Germany'],Chelsea FC Reserves,18,"Aug 18, 1984",Retired
+Centre-Back,right,"Jul 1, 2001",Joel Kitamirike,"1,80m",3161,"['Uganda', 'England']",: Ablöse -,19,"Apr 5, 1984",Retired
+Left-Back,left,"Jun 20, 1997",Celestine Babayaro,"1,75m",3153,"['Nigeria', 'England']",: Ablöse €3.50m,24,"Aug 29, 1978",Retired
+Left-Back,left,"Aug 8, 1997",Graeme Le Saux,"1,78m",3157,"['England', 'Jersey']",Blackburn Rovers,34,"Oct 17, 1968",Retired
+Left-Back,left,"Jul 1, 1999",Joe Keenan,"1,76m",3162,['England'],: Ablöse -,20,"Oct 14, 1982",Retired
+Right-Back,right,"Jul 1, 1999",Mario Melchiot,"1,87m",3158,"['Netherlands', 'Suriname']",: Ablöse free transfer,26,"Nov 4, 1976",Retired
+Right-Back,,"Jul 1, 1998",Albert Ferrer,,3152,['Spain'],: Ablöse €4.30m,33,"Jun 6, 1970",Retired
+Defensive Midfield,right,"Jan 1, 2004",Alexis Nicolas,"1,78m",33073,"['Cyprus', 'England']",Chelsea FC Reserves,20,"Feb 13, 1983",Retired
+Defensive Midfield,left,"Jul 1, 2001",Emmanuel Petit,"1,85m",3166,['France'],: Ablöse €11.50m,32,"Sep 22, 1970",Retired
+Central Midfield,right,"Jul 1, 1998",Robert Wolleaston,"1,80m",3174,['England'],: Ablöse -,23,"Dec 21, 1979",Retired
+Central Midfield,right,"Jul 1, 2001",Frank Lampard,"1,84m",3163,['England'],: Ablöse €16.00m,25,"Jun 20, 1978",Retired
+Central Midfield,right,"Jul 1, 1995",Jody Morris,"1,65m",3171,['England'],: Ablöse -,24,"Dec 22, 1978",Retired
+Left Midfield,left,"Jul 1, 1999",Gabriele Ambrosetti,"1,80m",3167,['Italy'],: Ablöse €4.89m,29,"Aug 7, 1973",Retired
+Attacking Midfield,right,"Jul 1, 2002",Quique de Lucas,"1,75m",3172,['Spain'],RCD Espanyol Barcelona,24,"Aug 17, 1978",Retired
+Attacking Midfield,,"Jul 1, 2000",Sebastian Kneißl,,2902,['Germany'],Eintracht Frankfurt U17,20,"Jan 13, 1983",Retired
+Left Winger,left,"Aug 2, 2001",Boudewijn Zenden,"1,74m",3173,['Netherlands'],: Ablöse €12.90m,26,"Aug 15, 1976",Retired
+Left Winger,,"Jan 1, 2001",Jesper Grønkjaer,,3137,['Denmark'],: Ablöse €11.85m,25,"Aug 12, 1977",Retired
+Right Winger,right,"Jul 1, 2000",Mario Stanic,"1,87m",3164,['Croatia'],: Ablöse €8.40m,31,"Apr 10, 1972",Retired
+Right Winger,right,"Jul 1, 2002",Filipe Oliveira,"1,80m",3178,['Portugal'],: Ablöse -,19,"May 27, 1984",Retired
+Second Striker,right,"Nov 8, 1996",Gianfranco Zola,"1,68m",3177,['Italy'],: Ablöse €6.20m,36,"Jul 5, 1966",Retired
+Centre-Forward,right,"Jul 1, 2000",Jimmy Floyd Hasselbaink,"1,78m",3175,"['Netherlands', 'Suriname']",: Ablöse €22.50m,31,"Mar 27, 1972",Retired
+Centre-Forward,right,"Jul 1, 2000",Eidur Gudjohnsen,"1,85m",3176,['Iceland'],: Ablöse €7.50m,24,"Sep 15, 1978",Retired
+Centre-Forward,right,"Jul 1, 2001",Carlton Cole,"1,91m",3179,"['England', 'Sierra Leone']",: Ablöse -,19,"Oct 12, 1983",Retired

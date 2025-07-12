@@ -1,0 +1,27 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jul 1, 1986",Tim Flowers,"1,90m",4249,['England'],: Ablöse €70k,26,"Feb 3, 1967",Retired
+Goalkeeper,,"Dec 1, 1989",Ian Andrews,"1,88m",195510,['England'],Celtic FC,28,"Dec 1, 1964",Retired
+Centre-Back,right,"Mar 1, 1993",Derek Allan,"1,83m",14761,['Scotland'],: Ablöse ?,18,"Dec 24, 1974",Retired
+Centre-Back,,"Jul 1, 1987",Kevin Moore,"1,80m",222261,['England'],: Ablöse €150k,35,"Apr 29, 1958",---
+Centre-Back,,,Matthew Bound,"1,88m",13664,['England'],,20,"Nov 6, 1972",Retired
+Centre-Back,,"Aug 21, 1992",Ken Monkou,"1,91m",109494,"['Netherlands', 'Suriname']",: Ablöse €844k,28,"Nov 29, 1964",Retired
+Centre-Back,,"Jan 1, 1991",Richard Hall,"1,85m",222259,['England'],Scunthorpe United,21,"Mar 14, 1972",Retired
+Centre-Back,,"Jul 1, 1991",Steve Wood,,222266,['England'],: Ablöse €480k,30,"Feb 2, 1963",Retired
+Left-Back,left,"Jan 1, 1987",Francis Benali,"1,78m",3298,['England'],Southampton FC U18,24,"Dec 30, 1968",Retired
+Left-Back,,"Jan 1, 1989",Micky Adams,"1,73m",222252,['England'],: Ablöse €300k,31,"Nov 8, 1961",Retired
+Right-Back,,"Mar 1, 1989",Jason Dodd,,3685,['England'],Bath City,22,"Nov 2, 1970",Retired
+Right-Back,right,"Jul 1, 1989",Jeff Kenna,"1,80m",3933,['Ireland'],Southampton FC U18,22,"Aug 27, 1970",Retired
+Central Midfield,,"May 10, 1990",Tommy Widdrington,"1,78m",70283,['England'],Southampton FC U18,21,"Oct 1, 1971",Retired
+Central Midfield,,"Oct 1, 1985",Glenn Cockerill,"1,83m",176001,['England'],Sheffield United,33,"Aug 25, 1959",Retired
+Central Midfield,,"Apr 14, 1988",Neil Maddison,,195000,['England'],Southampton FC U18,23,"Oct 2, 1969",Retired
+Central Midfield,,"Jul 1, 1991",Terry Hurlock,"1,75m",222260,['England'],: Ablöse ?,34,"Sep 22, 1958",Retired
+Central Midfield,,,Neal Bartlett,,229822,['England'],,18,"Apr 7, 1975",Retired
+Right Midfield,,"Aug 27, 1991",David Lee,,223567,['England'],Bury FC,25,"Nov 5, 1967",Retired
+Attacking Midfield,right,"Jul 1, 1986",Matt Le Tissier,"1,85m",43705,"['England', 'Guernsey']",Southampton FC U18,24,"Oct 14, 1968",Retired
+Left Winger,,"Aug 23, 1992",Perry Groves,"1,75m",176691,['England'],: Ablöse €850k,28,"Apr 19, 1965",Retired
+Centre-Forward,right,"Jul 19, 1992",Kerry Dixon,"1,83m",117190,['England'],: Ablöse €650k,31,"Jul 24, 1961",Retired
+Centre-Forward,,"Sep 3, 1991",Iain Dowie,,149507,"['Northern Ireland', 'England']",: Ablöse €565k,28,"Jan 9, 1965",Retired
+Centre-Forward,right,"Jul 1, 1991",Paul Moody,"1,91m",175986,['England'],Waterlooville FC (- 1998),26,"Jun 13, 1967",Retired
+Centre-Forward,,"Aug 15, 1992",David Speedie,"1,70m",176832,['Scotland'],Blackburn Rovers,33,"Feb 20, 1960",Retired
+Centre-Forward,,"Apr 25, 1989",Nicky Banger,"1,73m",222254,['England'],Southampton FC U18,22,"Feb 25, 1971",Retired
+Centre-Forward,,,Lee Powell,,229831,['Wales'],,20,"Jun 2, 1973",Retired

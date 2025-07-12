@@ -1,0 +1,33 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Nov 1, 1997",Jussi Jääskeläinen,"1,91m",3692,['Finland'],€5.00m,: Ablöse €150k,35,"Apr 19, 1975",Retired
+Goalkeeper,right,"Jul 1, 2006",Ali Al-Habsi,"1,94m",26633,['Oman'],€750k,Bolton Wanderers U23,28,"Dec 30, 1981",Retired
+Goalkeeper,right,"Jul 1, 2008",Ádám Bogdán,"1,94m",55247,['Hungary'],€50k,Bolton Wanderers U23,22,"Sep 27, 1987",Retired
+Centre-Back,right,"Jan 30, 2008",Gary Cahill,"1,93m",27511,['England'],€6.50m,: Ablöse €6.00m,24,"Dec 19, 1985",Retired
+Centre-Back,right,"Jul 25, 2009",Zat Knight,"1,98m",4012,['England'],€4.00m,: Ablöse €4.70m,30,"May 2, 1980",Retired
+Centre-Back,right,"Aug 1, 2007",Andrew O'Brien,"1,91m",3228,"['Ireland', 'England']",€3.00m,: Ablöse ?,31,"Jun 29, 1979",Retired
+Centre-Back,right,"Aug 6, 2008",Danny Shittu,"1,91m",13736,['Nigeria'],€1.00m,Watford FC,29,"Sep 2, 1980",Retired
+Centre-Back,right,"Jul 1, 2008",Chris Basham,"1,90m",52495,['England'],€1.00m,Bolton Wanderers U23,21,"Jul 20, 1988",Retired
+Left-Back,left,"Jan 29, 2010",Paul Robinson,"1,75m",14063,['England'],€2.50m,West Bromwich Albion,31,"Dec 14, 1978",Retired
+Left-Back,,"Jul 1, 1998",Ricardo Gardner,,6264,['Jamaica'],€2.50m,Harbour View FC,31,"Sep 25, 1978",Retired
+Right-Back,right,"Jan 1, 2008",Grétar Steinsson,"1,89m",30304,['Iceland'],€4.50m,AZ Alkmaar,28,"Jan 9, 1982",Retired
+Right-Back,,"Jul 1, 2009",Sam Ricketts,,30434,"['Wales', 'England']",€2.50m,: Ablöse €2.40m,28,"Oct 11, 1981",Retired
+Right-Back,right,"Aug 1, 2003",Nicky Hunt,"1,91m",16835,['England'],€1.20m,Bolton Wanderers U23,26,"Sep 3, 1983",Retired
+Right-Back,right,"Jul 1, 2005",Joey O'Brien,"1,80m",34672,['Ireland'],€1.00m,Bolton Wanderers U18,24,"Feb 17, 1986",Retired
+Defensive Midfield,right,"Jul 1, 2009",Sean Davis,"1,78m",4036,['England'],€5.00m,: Ablöse free transfer,30,"Sep 20, 1979",Retired
+Defensive Midfield,left,"Jul 1, 2007",Jlloyd Samuel,"1,80m",4067,"['Trinidad and Tobago', 'England']",€3.00m,: Ablöse free transfer,29,"Mar 29, 1981",---
+Central Midfield,right,"Jul 1, 2008",Fabrice Muamba,"1,88m",35586,"['England', 'DR Congo']",€5.50m,: Ablöse €6.40m,22,"Apr 6, 1988",Retired
+Central Midfield,left,"Jan 29, 2010",Jack Wilshere,"1,72m",74223,['England'],€3.00m,: Ablöse free transfer,18,"Jan 1, 1992",Retired
+Central Midfield,right,"Jan 1, 2008",Tamir Cohen,"1,82m",24209,"['Israel', 'Italy']",€2.50m,: Ablöse €800k,26,"Mar 4, 1984",Retired
+Central Midfield,left,"Jul 1, 2007",Gavin McCann,"1,80m",4136,['England'],€2.00m,: Ablöse €1.50m,32,"Jan 10, 1978",Retired
+Central Midfield,right,"Jan 26, 2009",Mark Davies,"1,80m",36917,['England'],€1.50m,Wolverhampton Wanderers,22,"Feb 18, 1988",Retired
+Central Midfield,both,"Jan 26, 2010",Stuart Holden,"1,78m",30071,"['United States', 'Scotland']",€750k,: Ablöse free transfer,24,"Aug 1, 1985",Retired
+Left Midfield,left,"Jan 17, 2008",Matthew Taylor,"1,77m",9218,['England'],€6.00m,: Ablöse €4.70m,28,"Nov 27, 1981",Retired
+Left Winger,right,"Jan 22, 2010",Vladimir Weiss,"1,73m",92701,['Slovakia'],€1.50m,: Ablöse free transfer,20,"Nov 30, 1989",Slovan Bratislava
+Right Winger,right,"Aug 14, 2009",Chung-yong Lee,"1,80m",81801,"['Korea, South']",€3.00m,FC Seoul,21,"Jul 2, 1988",Ulsan HD FC
+Right Winger,right,"Jul 1, 2008",Riga Mustapha,"1,82m",4433,"['Netherlands', 'Ghana']",€1.50m,: Ablöse €400k,28,"Oct 10, 1981",Retired
+Right Winger,right,"Jul 1, 2004",Ricardo Vaz Tê,"1,88m",9413,"['Portugal', 'Guinea-Bissau']",€250k,Bolton Wanderers U18,23,"Oct 1, 1986",Retired
+Centre-Forward,right,"Jul 1, 2008",Johan Elmander,"1,88m",4383,['Sweden'],€6.00m,: Ablöse €12.60m,29,"May 27, 1981",Holmalunds IF
+Centre-Forward,,"Jul 1, 2010",Ivan Klasnic,,690,['Croatia'],€4.50m,: Ablöse free transfer,30,"Jan 29, 1980",Retired
+Centre-Forward,right,"Jul 23, 2003",Kevin Davies,"1,83m",4114,['England'],€4.00m,Southampton FC,33,"Mar 26, 1977",Retired
+Centre-Forward,right,"Jul 1, 2008",Tope Obadeyi,"1,82m",65692,"['England', 'Nigeria']",€250k,Bolton Wanderers U18,20,"Oct 29, 1989",Kidderminster Harriers
+Centre-Forward,left,"Jul 1, 2009",Danny Ward,"1,80m",124172,['England'],€50k,Bolton Wanderers U18,19,"Dec 9, 1990",Huddersfield Town

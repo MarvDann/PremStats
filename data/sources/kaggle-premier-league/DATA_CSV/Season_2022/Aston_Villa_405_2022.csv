@@ -1,0 +1,44 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Sep 16, 2020",Emiliano Martínez,"1,95m",111873,"['Argentina', 'Spain']",€28.00m,,Arsenal FC,30,"Sep 2, 1992",Aston Villa
+Goalkeeper,right,,"Jul 1, 2022",Robin Olsen,"1,96m",75458,"['Sweden', 'Denmark']",€1.50m,,AS Roma,33,"Jan 8, 1990",Aston Villa
+Goalkeeper,left,,"Jul 1, 2013",Jed Steer,"1,83m",110867,"['England', 'Scotland']",€500k,,: Ablöse €540k,30,"Sep 23, 1992",Peterborough United
+Goalkeeper,right,,"Jul 1, 2022",Viljami Sinisalo,"1,90m",484838,['Finland'],€500k,,: Ablöse -,21,"Oct 11, 2001",Celtic FC
+Goalkeeper,right,,,Oliwier Zych,"1,93m",555074,['Poland'],€50k,,,19,"Jun 28, 2004",Aston Villa U21
+Goalkeeper,right,,"Jul 1, 2023",Filip Marschall,"1,95m",610863,"['England', 'Poland']",,,: Ablöse -,20,"Apr 24, 2003",Crewe Alexandra
+Goalkeeper,right,,,James Wright,"1,88m",712181,['England'],,,,18,"Dec 2, 2004",Real Unión Club
+Centre-Back,right,,"Jul 11, 2019",Ezri Konsa,"1,83m",413403,"['England', 'DR Congo']",€25.00m,,Brentford FC,25,"Oct 23, 1997",Aston Villa
+Centre-Back,left,Cruciate ligament tear - Return unknown,"Jul 8, 2019",Tyrone Mings,"1,96m",253677,['England'],€22.00m,,AFC Bournemouth,30,"Mar 13, 1993",Aston Villa
+Centre-Back,right,,"Jul 1, 2022",Diego Carlos,"1,85m",329145,"['Brazil', 'Spain']",€20.00m,,Sevilla FC,30,"Mar 15, 1993",Aston Villa
+Centre-Back,right,,"Sep 1, 2022",Jan Bednarek,"1,89m",243028,['Poland'],€14.00m,,Southampton FC,27,"Apr 12, 1996",Southampton FC
+Centre-Back,right,,"Jan 27, 2022",Calum Chambers,"1,82m",215118,['England'],€8.00m,,Arsenal FC,28,"Jan 20, 1995",Cardiff City
+Centre-Back,left,"No eligibility - until Jan 31, 2025 - UEFA Champions League; Knee surgery - Return unknown","Jul 1, 2019",Kortney Hause,"1,91m",233124,"['England', 'Bermuda']",€2.20m,,Wolverhampton Wanderers,27,"Jul 16, 1995",Aston Villa
+Centre-Back,right,,"Jul 1, 2024",Lamare Bogarde,"1,85m",645686,"['Netherlands', 'Suriname']",€450k,"Internal transfer: Aston Villa U21; date: Jul 1, 2024",Aston Villa U21,19,"Jan 5, 2004",Aston Villa
+Centre-Back,right,,,Josh Feeney,"1,96m",875929,"['England', 'Scotland']",€300k,,,18,"May 6, 2005",Shrewsbury Town
+Centre-Back,,,,Sil Swinkels,,646710,['Netherlands'],€150k,,,19,"Jan 6, 2004",Aston Villa U21
+Left-Back,left,,"Jan 11, 2023",Álex Moreno,"1,79m",193098,['Spain'],€15.00m,,Real Betis Balompié,30,"Jun 8, 1993",Nottingham Forest
+Left-Back,left,,"Jan 13, 2022",Lucas Digne,"1,78m",126664,['France'],€15.00m,,Everton FC,29,"Jul 20, 1993",Aston Villa
+Left-Back,left,Knee injury - Return unknown,"Jul 11, 2022",Ludwig Augustinsson,"1,81m",170646,['Sweden'],€2.50m,,Sevilla FC,29,"Apr 21, 1994",RSC Anderlecht
+Left-Back,both,,"Jul 1, 2021",Ashley Young,"1,75m",14086,"['England', 'Jamaica']",€600k,,Inter Milan,37,"Jul 9, 1985",Everton FC
+Left-Back,left,,,Sebastian Revan,"1,81m",667925,"['England', 'St. Kitts & Nevis']",,,,19,"Jul 14, 2003",Wrexham AFC
+Left-Back,,,,Travis Patterson,,874902,['England'],,,,17,"Oct 6, 2005",Aston Villa U21
+Right-Back,right,,"Sep 3, 2020",Matty Cash,"1,85m",425334,"['Poland', 'England']",€25.00m,,Nottingham Forest,25,"Aug 7, 1997",Aston Villa
+Defensive Midfield,right,Knee injury - Return unknown,"Jul 1, 2022",Boubacar Kamara,"1,84m",394327,"['France', 'Senegal']",€30.00m,,Olympique Marseille,23,"Nov 23, 1999",Aston Villa
+Defensive Midfield,right,Ankle injury - Return unknown,"Sep 1, 2022",Leander Dendoncker,"1,88m",168157,['Belgium'],€15.00m,,Wolverhampton Wanderers,28,"Apr 15, 1995",RSC Anderlecht
+Defensive Midfield,left,,"Aug 1, 2019",Marvelous Nakamba,"1,77m",324882,['Zimbabwe'],€4.00m,,Club Brugge KV,29,"Jan 19, 1994",Luton Town
+Central Midfield,right,"Muscle fatigue - Return expected on Nov 20, 2024","Jul 25, 2019",Douglas Luiz,"1,77m",447661,['Brazil'],€40.00m,,Manchester City,25,"May 9, 1998",Juventus FC
+Central Midfield,left,Team captain,"Aug 8, 2018",John McGinn,"1,78m",193116,['Scotland'],€27.00m,,Hibernian FC,28,"Oct 18, 1994",Aston Villa
+Central Midfield,right,Injury to the ankle - Return unknown,"Jan 26, 2021",Morgan Sanson,"1,80m",174094,['France'],€6.00m,"Returned after loan spell with OGC Nice; date: Jun 30, 2024; fee: End of loan",Olympique Marseille,28,"Aug 18, 1994",OGC Nice
+Central Midfield,right,,"Jan 1, 2022",Tim Iroegbunam,"1,83m",696589,"['England', 'Nigeria']",€5.00m,,: Ablöse -,20,"Jun 30, 2003",Everton FC
+Attacking Midfield,right,,"Jul 1, 2020",Jacob Ramsey,"1,80m",503749,['England'],€42.00m,,: Ablöse -,22,"May 28, 2001",Aston Villa
+Attacking Midfield,right,,"Jul 1, 2021",Emiliano Buendía,"1,72m",321247,"['Argentina', 'Spain']",€28.00m,,: Ablöse €38.40m,26,"Dec 25, 1996",Aston Villa
+Attacking Midfield,right,,"Jul 1, 2022",Philippe Coutinho,"1,72m",80444,"['Brazil', 'Portugal']",€10.00m,,FC Barcelona,31,"Jun 12, 1992",Clube de Regatas Vasco da Gama
+Attacking Midfield,left,,,Tommi O'Reilly,"1,70m",818237,['England'],,,,19,"Dec 15, 2003",Shrewsbury Town
+Left Winger,right,,"Jul 19, 2024",Jaden Philogene,"1,81m",665390,"['England', 'Dominica']",€2.80m,"Joined from Hull City; date: Jul 19, 2024; fee: €16.00m",Hull City,21,"Feb 8, 2002",Aston Villa
+Left Winger,right,,,Kadan Young,"1,76m",887433,"['England', 'Jamaica']",,,,17,"Jan 19, 2006",Aston Villa U21
+Right Winger,left,,"Aug 4, 2021",Leon Bailey,"1,78m",387626,['Jamaica'],€28.00m,,Bayer 04 Leverkusen,25,"Aug 9, 1997",Aston Villa
+Right Winger,left,,"Sep 19, 2020",Bertrand Traoré,"1,81m",131996,['Burkina Faso'],€12.00m,,: Ablöse €18.40m,27,"Sep 6, 1995",Ajax Amsterdam
+Centre-Forward,right,,"Sep 9, 2020",Ollie Watkins,"1,80m",324358,['England'],€40.00m,,Brentford FC,27,"Dec 30, 1995",Aston Villa
+Centre-Forward,right,,"Aug 4, 2021",Danny Ings,"1,77m",134294,['England'],€12.00m,,Southampton FC,30,"Jul 23, 1992",West Ham United
+Centre-Forward,right,,"Jul 11, 2024",Cameron Archer,"1,75m",533662,"['England', 'Jamaica']",€12.00m,"Joined from Sheffield United; date: Jul 11, 2024; fee: €16.65m",Sheffield United,21,"Dec 9, 2001",Southampton FC
+Centre-Forward,left,,"Jan 23, 2023",Jhon Durán,"1,85m",649317,['Colombia'],€12.00m,,Chicago Fire FC,19,"Dec 13, 2003",Aston Villa
+Centre-Forward,left,,"Jul 1, 2017",Keinan Davis,"1,89m",412660,['England'],€3.00m,,: Ablöse -,25,"Feb 13, 1998",Udinese Calcio

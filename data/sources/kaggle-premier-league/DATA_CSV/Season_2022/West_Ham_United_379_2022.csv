@@ -1,0 +1,45 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2022",Alphonse Areola,"1,95m",120629,"['France', 'Philippines']",€8.00m,,: Ablöse €9.30m,30,"Feb 27, 1993",West Ham United
+Goalkeeper,right,,"Jul 1, 2018",Lukasz Fabianski,"1,90m",29692,['Poland'],€900k,,: Ablöse €8.00m,38,"Apr 18, 1985",West Ham United
+Goalkeeper,right,,"Jan 15, 2020",Darren Randolph,"1,87m",51321,"['Ireland', 'United States']",€400k,,Middlesbrough FC,36,"May 12, 1987",Retired
+Goalkeeper,left,,"Jul 1, 2022",Nathan Trott,"1,88m",431422,"['England', 'Bermuda']",€400k,"Returned after loan spell with Vejle Boldklub; date: Jun 30, 2024; fee: End of loan",West Ham United U21,24,"Nov 21, 1998",FC Copenhagen
+Goalkeeper,right,,,Krisztián Hegyi,"1,96m",543726,['Hungary'],€250k,,,20,"Sep 24, 2002",Motherwell FC
+Goalkeeper,right,,"Jan 24, 2023",Joseph Anang,"1,90m",576099,"['England', 'Ghana']",€100k,,West Ham United U21,23,"Jun 8, 2000",St. Patrick's Athletic
+Centre-Back,left,,"Jul 1, 2022",Nayef Aguerd,"1,90m",361914,['Morocco'],€35.00m,,Stade Rennais FC,27,"Mar 30, 1996",Real Sociedad
+Centre-Back,right,,"Aug 28, 2021",Kurt Zouma,"1,90m",157509,"['France', 'Central African Republic']",€22.00m,,Chelsea FC,28,"Oct 27, 1994",Al-Orobah FC
+Centre-Back,right,,"Aug 17, 2022",Thilo Kehrer,"1,86m",228948,"['Germany', 'Burundi']",€18.00m,"Returned after loan spell with AS Monaco; date: Jun 30, 2024; fee: End of loan",: Ablöse €12.00m,26,"Sep 21, 1996",AS Monaco
+Centre-Back,right,,"Jul 1, 2021",Craig Dawson,"1,88m",121477,['England'],€2.00m,,Watford FC,33,"May 6, 1990",Wolverhampton Wanderers
+Centre-Back,left,,"Jul 10, 2015",Angelo Ogbonna,"1,91m",48002,"['Italy', 'Nigeria']",€900k,,: Ablöse €11.00m,35,"May 23, 1988",Watford FC
+Centre-Back,,,,Jamal Baptiste,"1,90m",610706,['England'],€250k,,,19,"Nov 11, 2003",Sheffield United U21
+Centre-Back,right,,,Levi Laing,"1,88m",586982,['England'],,,,20,"Apr 12, 2003",Cheltenham Town
+Centre-Back,left,,,Michael Forbes,"1,88m",701006,['Northern Ireland'],,,,19,"Apr 29, 2004",Bristol Rovers
+Centre-Back,right,,,Kaelan Casey,"1,85m",845321,['England'],,,,18,"Oct 28, 2004",West Ham United U21
+Left-Back,left,,"Aug 23, 2022",Emerson,"1,76m",181778,"['Italy', 'Brazil']",€12.00m,,Chelsea FC,28,"Aug 3, 1994",West Ham United
+Left-Back,left,,"Jul 3, 2014",Aaron Cresswell,"1,70m",92571,['England'],€1.20m,,Ipswich Town,33,"Dec 15, 1989",West Ham United
+Left-Back,left,,,Oliver Scarles,,922563,['England'],€200k,,,17,"Dec 12, 2005",West Ham United U21
+Left-Back,left,Knee injury - Return unknown,,Regan Clayton,,845717,['England'],€150k,,,18,"Nov 11, 2004",West Ham United U21
+Right-Back,right,,"Jul 1, 2020",Ben Johnson,"1,84m",468002,['England'],€10.00m,,West Ham United U21,23,"Jan 24, 2000",Ipswich Town
+Right-Back,right,,"Oct 2, 2020",Vladimír Coufal,"1,74m",157672,['Czech Republic'],€9.00m,,: Ablöse €6.00m,30,"Aug 22, 1992",West Ham United
+Right-Back,right,,,Harrison Ashby,"1,79m",559130,"['Scotland', 'England']",€1.00m,,,21,"Nov 14, 2001",Queens Park Rangers
+Defensive Midfield,right,,"Jul 1, 2017",Declan Rice,"1,88m",357662,"['England', 'Ireland']",€90.00m,,West Ham United U21,24,"Jan 14, 1999",Arsenal FC
+Defensive Midfield,right,,"Jul 27, 2020",Tomas Soucek,"1,92m",283628,['Czech Republic'],€35.00m,,: Ablöse €16.20m,28,"Feb 27, 1995",West Ham United
+Defensive Midfield,right,,"Jul 7, 2022",Flynn Downes,"1,78m",506189,['England'],€9.00m,,: Ablöse €10.65m,24,"Jan 20, 1999",Southampton FC
+Defensive Midfield,right,,"Jan 1, 2021",Conor Coventry,"1,77m",419025,"['Ireland', 'England']",€1.80m,,West Ham United U21,23,"Mar 25, 2000",Charlton Athletic
+Defensive Midfield,left,,,Pierre Ekwah,"1,89m",538994,"['France', 'Ghana']",€500k,,,21,"Jan 15, 2002",AS Saint-Étienne
+Defensive Midfield,right,,,Keenan Appiah-Forson,"1,74m",554098,"['England', 'Ghana']",€300k,,,21,"Oct 16, 2001",Southend United
+Defensive Midfield,,,,Freddie Potts,,698164,['England'],€250k,,,19,"Sep 12, 2003",Portsmouth FC
+Central Midfield,right,,,Lewis Orford,"1,82m",845809,['England'],,,,17,"Feb 18, 2006",West Ham United U21
+Right Midfield,right,,,Dan Chesters,,561452,['England'],€250k,,,21,"Apr 4, 2002",Salford City
+Attacking Midfield,left,,"Aug 29, 2022",Lucas Paquetá,"1,80m",444523,"['Brazil', 'Portugal']",€45.00m,,Olympique Lyon,25,"Aug 27, 1997",West Ham United
+Attacking Midfield,right,,"Jul 1, 2019",Pablo Fornals,"1,78m",357885,['Spain'],€22.00m,,Villarreal CF,27,"Feb 22, 1996",Real Betis Balompié
+Attacking Midfield,right,,"Aug 31, 2021",Nikola Vlašić,"1,79m",293200,['Croatia'],€17.00m,,CSKA Moscow,25,"Oct 4, 1997",Torino FC
+Attacking Midfield,right,,"Jul 1, 2016",Manuel Lanzini,"1,70m",135853,"['Argentina', 'Italy']",€6.00m,,Al-Jazira Club,30,"Feb 15, 1993",CA River Plate
+Attacking Midfield,,,,Kamarai Swyer,,693066,['England'],€150k,,,20,"Dec 4, 2002",West Ham United U21
+Left Winger,right,,"Jan 29, 2021",Saïd Benrahma,"1,72m",290532,"['Algeria', 'France']",€25.00m,"Returned after loan spell with Olympique Lyon; date: Jun 30, 2024; fee: End of loan",Brentford FC,27,"Aug 10, 1995",Olympique Lyon
+Left Winger,left,,"Aug 5, 2022",Maxwel Cornet,"1,79m",234781,"[""Cote d'Ivoire"", 'France']",€12.00m,,: Ablöse €20.70m,26,"Sep 27, 1996",Southampton FC
+Left Winger,right,,,Armstrong Oko-Flex,"1,86m",531461,"['Ireland', 'England']",€500k,,,21,"Mar 2, 2002",FC Zürich
+Right Winger,left,Team captain,"Jan 31, 2020",Jarrod Bowen,"1,76m",314875,['England'],€38.00m,,Hull City,26,"Dec 20, 1996",West Ham United
+Centre-Forward,right,"Cruciate ligament tear - Return expected on Feb 3, 2025","Jul 26, 2022",Gianluca Scamacca,"1,95m",315867,['Italy'],€22.00m,,US Sassuolo,24,"Jan 1, 1999",Atalanta BC
+Centre-Forward,right,,"Jan 20, 2023",Danny Ings,"1,77m",134294,['England'],€12.00m,,: Ablöse €12.00m,30,"Jul 23, 1992",West Ham United
+Centre-Forward,right,,"Sep 1, 2015",Michail Antonio,"1,80m",104124,"['Jamaica', 'England']",€7.00m,,: Ablöse €9.50m,33,"Mar 28, 1990",West Ham United
+Centre-Forward,left,,"Jul 1, 2023",Divin Mubama,"1,83m",670848,"['England', 'DR Congo']",€250k,,West Ham United U21,18,"Oct 25, 2004",Manchester City U21

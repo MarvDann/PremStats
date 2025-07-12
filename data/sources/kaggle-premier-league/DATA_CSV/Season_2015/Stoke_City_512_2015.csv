@@ -1,0 +1,32 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jan 31, 2013",Jack Butland,"1,96m",128899,['England'],€9.00m,: Ablöse €3.80m,23,"Mar 10, 1993",Rangers FC
+Goalkeeper,right,"Jul 1, 2015",Jakob Haugaard,"1,99m",138335,['Denmark'],€750k,FC Midtjylland,24,"May 1, 1992",Tromsø IL
+Goalkeeper,right,"Jul 10, 2015",Shay Given,"1,85m",3146,['Ireland'],€500k,: Ablöse free transfer,40,"Apr 20, 1976",Retired
+Goalkeeper,right,,Daniel Bachmann,"1,91m",120186,['Austria'],,,21,"Jul 9, 1994",Watford FC
+Centre-Back,right,"Jan 18, 2008",Ryan Shawcross,"1,91m",45861,"['England', 'Wales']",€11.00m,Manchester United Reserves,28,"Oct 4, 1987",Retired
+Centre-Back,,"Jul 1, 2015",Philipp Wollscheid,,53173,['Germany'],€6.50m,Bayer 04 Leverkusen,27,"Mar 6, 1989",Retired
+Centre-Back,left,"Jul 1, 2013",Erik Pieters,"1,83m",43763,['Netherlands'],€5.00m,: Ablöse €3.60m,27,"Aug 7, 1988",Without Club
+Centre-Back,left,"Jul 2, 2013",Marc Muniesa,"1,80m",74228,['Spain'],€3.00m,FC Barcelona B,24,"Mar 27, 1992",Al-Shahania SC
+Centre-Back,both,"Aug 31, 2010",Marc Wilson,"1,88m",30456,"['Ireland', 'Northern Ireland']",€3.00m,: Ablöse €3.60m,28,"Aug 17, 1987",Retired
+Centre-Back,right,"Aug 8, 2012",Geoff Cameron,"1,90m",31642,['United States'],€3.00m,: Ablöse €2.15m,30,"Jul 11, 1985",Retired
+Centre-Back,left,"Jul 1, 2014",Dionatan Teixeira,"1,93m",107617,"['Slovakia', 'Brazil']",€500k,Dukla Banska Bystrica,23,"Jul 24, 1992",---
+Right-Back,both,"Jul 12, 2015",Glen Johnson,"1,82m",3881,['England'],€7.00m,: Ablöse free transfer,31,"Aug 23, 1984",Retired
+Right-Back,right,"Jul 1, 2014",Phil Bardsley,"1,80m",15773,"['Scotland', 'England']",€1.50m,Sunderland AFC,31,"Jun 28, 1985",Retired
+Defensive Midfield,left,"Feb 1, 2016",Giannelli Imbula,"1,86m",130756,"['DR Congo', 'France']",€18.00m,FC Porto,23,"Sep 12, 1992",Without Club
+Defensive Midfield,right,"Jan 30, 2008",Glenn Whelan,"1,80m",12124,['Ireland'],€3.00m,: Ablöse €670k,32,"Jan 13, 1984",Retired
+Central Midfield,right,"Jul 10, 2015",Marco van Ginkel,"1,86m",147034,['Netherlands'],€7.00m,Chelsea FC,23,"Dec 1, 1992",Without Club
+Central Midfield,left,"Aug 31, 2012",Charlie Adam,"1,85m",28990,['Scotland'],€4.50m,: Ablöse €6.20m,30,"Dec 10, 1985",Retired
+Central Midfield,right,"Jul 1, 2014",Steve Sidwell,"1,83m",13427,['England'],€1.00m,Fulham FC,33,"Dec 14, 1982",Retired
+Central Midfield,left,,Oliver Shenton,"1,75m",335541,['England'],,,18,"Nov 6, 1997",Leek Town FC
+Attacking Midfield,left,"Aug 11, 2015",Xherdan Shaqiri,"1,69m",86792,"['Switzerland', 'Kosovo']",€15.00m,: Ablöse €17.00m,24,"Oct 10, 1991",FC Basel 1893
+Attacking Midfield,right,"Jul 27, 2015",Ibrahim Afellay,"1,81m",15760,"['Netherlands', 'Morocco']",€5.00m,FC Barcelona,30,"Apr 2, 1986",Retired
+Attacking Midfield,right,"Jan 14, 2014",Stephen Ireland,"1,73m",34838,['Ireland'],€1.50m,: Ablöse free transfer,29,"Aug 22, 1986",Retired
+Left Winger,left,,Mohamed El Ouriachi,"1,80m",242280,"['Morocco', 'Spain']",€250k,,20,"Jan 13, 1996",Without Club
+Right Winger,right,"Aug 18, 2010",Jonathan Walters,"1,83m",3306,"['Ireland', 'England']",€3.50m,Ipswich Town,32,"Sep 20, 1983",Retired
+Second Striker,right,"Jul 22, 2014",Bojan Krkic,"1,70m",44675,"['Spain', 'Serbia']",€10.00m,FC Barcelona,25,"Aug 28, 1990",Retired
+Centre-Forward,both,"Sep 2, 2013",Marko Arnautovic,"1,90m",41384,"['Austria', 'Serbia']",€10.00m,SV Werder Bremen,27,"Apr 19, 1989",Inter Milan
+Centre-Forward,right,"Jul 1, 2014",Mame Diouf,"1,85m",62049,['Senegal'],€8.00m,: Ablöse free transfer,28,"Dec 16, 1987",Ankara Keciörengücü
+Centre-Forward,right,"Jul 1, 2015",Joselu,"1,91m",81999,"['Spain', 'Germany']",€6.00m,: Ablöse €8.00m,26,"Mar 27, 1990",Al-Gharafa SC
+Centre-Forward,right,"Aug 31, 2011",Peter Crouch,"2,01m",4072,"['England', 'Ireland']",€2.00m,Tottenham Hotspur,35,"Jan 30, 1981",Retired
+Centre-Forward,right,"Jan 28, 2014",Peter Odemwingie,"1,81m",12516,"['Nigeria', 'Russia']",€1.50m,: Ablöse free transfer,34,"Jul 15, 1981",Retired
+Centre-Forward,right,"Jul 1, 2013",George Waring,"1,96m",242417,['England'],,: Ablöse free transfer,21,"Dec 2, 1994",Curzon Ashton

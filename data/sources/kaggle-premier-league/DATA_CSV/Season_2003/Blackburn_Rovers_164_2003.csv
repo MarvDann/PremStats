@@ -1,0 +1,36 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Nov 3, 2000",Brad Friedel,"1,91m",3476,"['United States', 'England']",: Ablöse free transfer,33,"May 18, 1971",Retired
+Goalkeeper,right,"Jul 1, 1999",Alan Kelly,"1,89m",3819,"['Ireland', 'England']",Sheffield United,35,"Aug 11, 1968",Retired
+Goalkeeper,right,"Jul 14, 2003",David Yelldell,"1,94m",4746,"['United States', 'Germany']",Stuttgarter Kickers II,22,"Oct 1, 1981",Retired
+Goalkeeper,right,"Jan 1, 2004",Peter Enckelman,"1,88m",3719,['Finland'],: Ablöse €215k,27,"Mar 10, 1977",Retired
+Centre-Back,,,Sean Hessey,"1,83m",12737,['England'],,25,"Sep 19, 1978",Retired
+Centre-Back,right,"Sep 7, 2001",Lucas Neill,"1,85m",3826,"['Australia', 'Northern Ireland']",: Ablöse €1.50m,26,"Mar 9, 1978",Retired
+Centre-Back,right,"Jul 1, 1998",Martin Taylor,"1,95m",3822,['England'],Blackburn Rovers U18,24,"Nov 9, 1979",Retired
+Centre-Back,right,"Jul 1, 2003",Lorenzo Amoruso,"1,84m",4288,['Italy'],: Ablöse €2.10m,33,"Jun 28, 1971",Retired
+Centre-Back,both,"Jul 1, 1999",Craig Short,"1,85m",3821,['England'],: Ablöse €2.55m,36,"Jun 25, 1968",Retired
+Centre-Back,,"Aug 26, 2003",Markus Babbel,,192,['Germany'],: Ablöse free transfer,31,"Sep 8, 1972",Retired
+Centre-Back,right,"Jul 1, 2002",Andy Todd,"1,78m",3103,['England'],Charlton Athletic,29,"Sep 21, 1974",Retired
+Centre-Back,left,"Jul 1, 2002",Jay McEveley,"1,86m",3825,"['Scotland', 'England']",Blackburn Rovers U18,19,"Feb 11, 1985",Retired
+Left-Back,left,"Jul 1, 2003",Vratislav Gresko,"1,85m",71,['Slovakia'],: Ablöse €1.80m,26,"Jul 24, 1977",Retired
+Left-Back,left,"Oct 1, 2001",Nils-Eric Johansson,"1,87m",205,['Sweden'],: Ablöse €3.00m,24,"Jan 13, 1980",Retired
+Left-Back,left,"Jan 27, 2004",Michael Gray,"1,70m",4128,['England'],Sunderland AFC,29,"Aug 3, 1974",Retired
+Right-Back,right,"Jul 1, 2003",Steven Reid,"1,85m",7330,"['Ireland', 'England']",: Ablöse €3.60m,23,"Mar 10, 1981",Retired
+Defensive Midfield,right,"Jul 1, 2001",Tugay Kerimoğlu,"1,76m",3703,['Türkiye'],: Ablöse €1.95m,33,"Aug 24, 1970",Retired
+Defensive Midfield,right,,Dino Baggio,"1,87m",5843,['Italy'],,32,"Jul 24, 1971",Retired
+Defensive Midfield,right,"Aug 29, 2003",Barry Ferguson,"1,78m",10251,['Scotland'],: Ablöse €9.75m,26,"Feb 2, 1978",Retired
+Central Midfield,right,"Jan 1, 1996",Garry Flitcroft,"1,80m",3706,['England'],: Ablöse €5.25m,31,"Nov 6, 1972",Retired
+Central Midfield,right,"Jul 1, 2003",Paul Gallagher,"1,85m",10501,['Scotland'],Blackburn Rovers U18,19,"Sep 8, 1984",Retired
+Central Midfield,right,,Ciaran Donnelly,"1,77m",21308,['England'],,20,"Apr 2, 1984",Retired
+Central Midfield,,"Jan 1, 2004",Martin Andresen,,16134,['Norway'],: Ablöse ?,27,"Feb 2, 1977",Retired
+Central Midfield,right,"Jul 1, 2000",Jonathan Douglas,"1,80m",7435,['Ireland'],Blackburn Rovers U18,22,"Nov 22, 1981",Retired
+Central Midfield,right,"Jul 1, 2002",Neil Danns,"1,75m",4108,"['Guyana', 'England']",Blackburn Rovers Reserves,21,"Nov 23, 1982",Retired
+Right Midfield,right,"Aug 29, 2002",David Thompson,"1,70m",4127,['England'],Coventry City,26,"Sep 12, 1977",Retired
+Right Midfield,right,"Jul 10, 2003",Brett Emerton,"1,85m",4367,['Australia'],: Ablöse €3.00m,25,"Feb 22, 1979",Retired
+Left Midfield,left,"Aug 1, 2003",Alan Morgan,"1,83m",11368,['Scotland'],Blackburn Rovers U18,20,"Nov 27, 1983",Without Club
+Left Midfield,left,"Dec 1, 2000",Alan Mahon,"1,70m",3483,['Ireland'],: Ablöse €2.30m,26,"Apr 4, 1978",Retired
+Attacking Midfield,right,"Aug 1, 2003",Gary Harkins,"1,88m",29414,['Scotland'],Blackburn Rovers U18,19,"Jan 2, 1985",Retired
+Centre-Forward,right,"Jan 1, 2002",Andy Cole,"1,75m",3238,"['England', 'Jamaica']",Manchester United,32,"Oct 15, 1971",Retired
+Centre-Forward,right,"Jan 1, 1999",Matt Jansen,"1,80m",10502,['England'],: Ablöse €6.00m,26,"Oct 20, 1977",Retired
+Centre-Forward,right,"Jul 1, 2001",Corrado Grabbi,"1,81m",3704,['Italy'],: Ablöse €11.36m,28,"Jul 29, 1975",Retired
+Centre-Forward,right,"Feb 2, 2004",Jon Stead,"1,91m",16107,['England'],: Ablöse €1.88m,21,"Apr 7, 1983",Retired
+Centre-Forward,,"Jul 1, 2002",Dwight Yorke,"1,78m",3223,"['Trinidad and Tobago', 'England']",Manchester United,32,"Nov 3, 1971",Retired

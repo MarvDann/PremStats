@@ -1,0 +1,35 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jan 31, 2013",Jack Butland,"1,96m",128899,['England'],€15.00m,: Ablöse €3.80m,24,"Mar 10, 1993",Rangers FC
+Goalkeeper,right,,"Jan 4, 2017",Lee Grant,"1,93m",13460,['England'],€1.00m,Derby County,34,"Jan 27, 1983",Retired
+Goalkeeper,right,,"Jul 1, 2015",Jakob Haugaard,"1,99m",138335,['Denmark'],€750k,FC Midtjylland,25,"May 1, 1992",Tromsø IL
+Goalkeeper,right,,"Jul 10, 2015",Shay Given,"1,85m",3146,['Ireland'],€250k,: Ablöse free transfer,41,"Apr 20, 1976",Retired
+Goalkeeper,right,,,Daniel Bachmann,"1,91m",120186,['Austria'],€250k,,22,"Jul 9, 1994",Watford FC
+Centre-Back,left,Muscle injury - Return unknown,"Aug 10, 2017",Bruno Martins Indi,"1,85m",112052,"['Netherlands', 'Portugal']",€11.00m,FC Porto,25,"Feb 8, 1992",AZ Alkmaar
+Centre-Back,right,,"Jan 18, 2008",Ryan Shawcross,"1,91m",45861,"['England', 'Wales']",€11.00m,Manchester United Reserves,29,"Oct 4, 1987",Retired
+Centre-Back,left,,"Jul 1, 2013",Erik Pieters,"1,83m",43763,['Netherlands'],€7.00m,: Ablöse €3.60m,28,"Aug 7, 1988",Without Club
+Centre-Back,left,,"Jul 2, 2013",Marc Muniesa,"1,80m",74228,['Spain'],€3.00m,FC Barcelona B,25,"Mar 27, 1992",Al-Shahania SC
+Centre-Back,right,,"Aug 8, 2012",Geoff Cameron,"1,90m",31642,['United States'],€3.00m,: Ablöse €2.15m,31,"Jul 11, 1985",Retired
+Centre-Back,,,"Jul 1, 2015",Philipp Wollscheid,,53173,['Germany'],€2.50m,Bayer 04 Leverkusen,28,"Mar 6, 1989",Retired
+Centre-Back,left,,"Aug 5, 2016",Ryan Sweeney,"1,93m",347666,"['Ireland', 'England']",€250k,: Ablöse €295k,20,"Apr 15, 1997",Burton Albion
+Left-Back,left,,,Joel Taylor,"1,80m",258310,"['England', 'Jamaica']",,,21,"Mar 24, 1996",Hednesford Town
+Right-Back,both,,"Jul 12, 2015",Glen Johnson,"1,82m",3881,['England'],€5.00m,: Ablöse free transfer,32,"Aug 23, 1984",Retired
+Right-Back,right,,"Jul 1, 2014",Phil Bardsley,"1,80m",15773,"['Scotland', 'England']",€1.50m,Sunderland AFC,32,"Jun 28, 1985",Retired
+Right-Back,right,,"Jul 1, 2017",Tom Edwards,"1,76m",430788,['England'],,Stoke City U21,18,"Jan 22, 1999",Salford City
+Defensive Midfield,left,,"Feb 1, 2016",Giannelli Imbula,"1,86m",130756,"['DR Congo', 'France']",€12.00m,FC Porto,24,"Sep 12, 1992",Without Club
+Defensive Midfield,right,,"Jan 30, 2008",Glenn Whelan,"1,80m",12124,['Ireland'],€2.50m,: Ablöse €670k,33,"Jan 13, 1984",Retired
+Central Midfield,right,,"Jul 25, 2016",Joe Allen,"1,70m",51452,['Wales'],€15.00m,: Ablöse €15.50m,27,"Mar 14, 1990",Swansea City
+Central Midfield,left,,"Aug 31, 2012",Charlie Adam,"1,85m",28990,['Scotland'],€3.50m,: Ablöse €6.20m,31,"Dec 10, 1985",Retired
+Attacking Midfield,left,,"Aug 11, 2015",Xherdan Shaqiri,"1,69m",86792,"['Switzerland', 'Kosovo']",€15.00m,: Ablöse €17.00m,25,"Oct 10, 1991",FC Basel 1893
+Attacking Midfield,right,,"Jul 27, 2015",Ibrahim Afellay,"1,81m",15760,"['Netherlands', 'Morocco']",€3.00m,FC Barcelona,31,"Apr 2, 1986",Retired
+Attacking Midfield,right,,"Jan 14, 2014",Stephen Ireland,"1,73m",34838,['Ireland'],€1.00m,: Ablöse free transfer,30,"Aug 22, 1986",Retired
+Left Winger,right,,"Jul 25, 2016",Ramadan Sobhi,"1,83m",312017,['Egypt'],€5.00m,: Ablöse €5.00m,20,"Jan 23, 1997",Pyramids FC
+Left Winger,right,,"Jul 1, 2018",Thibaud Verlinden,"1,74m",338673,"['Belgium', 'France']",,Stoke City U21,17,"Jul 9, 1999",Beerschot VA
+Right Winger,right,,"Aug 18, 2010",Jonathan Walters,"1,83m",3306,"['Ireland', 'England']",€2.50m,Ipswich Town,33,"Sep 20, 1983",Retired
+Second Striker,right,,"Jul 22, 2014",Bojan Krkic,"1,70m",44675,"['Spain', 'Serbia']",€5.00m,FC Barcelona,26,"Aug 28, 1990",Retired
+Centre-Forward,right,,"Aug 31, 2016",Wilfried Bony,"1,83m",81808,"[""Cote d'Ivoire"", 'United Kingdom']",€18.00m,Manchester City,28,"Dec 10, 1988",Without Club
+Centre-Forward,right,,"Jan 20, 2017",Saido Berahino,"1,80m",128897,"['Burundi', 'England']",€15.00m,West Bromwich Albion,23,"Aug 4, 1993",Rajasthan United
+Centre-Forward,both,,"Sep 2, 2013",Marko Arnautovic,"1,90m",41384,"['Austria', 'Serbia']",€15.00m,SV Werder Bremen,28,"Apr 19, 1989",Inter Milan
+Centre-Forward,right,,"Jul 1, 2014",Mame Diouf,"1,85m",62049,['Senegal'],€7.00m,: Ablöse free transfer,29,"Dec 16, 1987",Ankara Keciörengücü
+Centre-Forward,right,,"Jul 1, 2015",Joselu,"1,91m",81999,"['Spain', 'Germany']",€3.50m,: Ablöse €8.00m,27,"Mar 27, 1990",Al-Gharafa SC
+Centre-Forward,right,,"Aug 31, 2011",Peter Crouch,"2,01m",4072,"['England', 'Ireland']",€1.50m,Tottenham Hotspur,36,"Jan 30, 1981",Retired
+Centre-Forward,right,ankle sprain - Return unknown,,Julien Ngoy,"1,85m",286005,"['Belgium', 'DR Congo']",,,19,"Nov 2, 1997",KV Mechelen

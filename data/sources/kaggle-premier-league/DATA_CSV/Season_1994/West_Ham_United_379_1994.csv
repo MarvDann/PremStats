@@ -1,0 +1,33 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Feb 19, 1990",Ludek Miklosko,"1,96m",106952,['Czech Republic'],TJ Banik Ostrava OKD,33,"Dec 9, 1961",Retired
+Goalkeeper,right,"Jan 1, 2001",Ian Feuer,"2,01m",141044,['United States'],: Ablöse free transfer,24,"May 20, 1971",Retired
+Goalkeeper,,"Nov 1, 1996",Les Sealey,"1,85m",176019,['England'],Leyton Orient,37,"Sep 29, 1957",---
+Centre-Back,,"Jul 1, 1977",Alvin Martin,,117194,['England'],: Ablöse -,36,"Jul 29, 1958",Retired
+Centre-Back,right,"Jul 1, 1995",Marc Rieper,"1,91m",98529,['Denmark'],Bröndby IF,27,"Jun 5, 1968",Retired
+Centre-Back,,"Jul 1, 1993",Simon Webster,,229705,['England'],Charlton Athletic,31,"Jan 20, 1964",Retired
+Centre-Back,left,"Aug 17, 1994",Adrian Whitbread,"1,85m",225376,['England'],Swindon Town,23,"Oct 22, 1971",Retired
+Left-Back,,"Oct 21, 1994",Julian Dicks,"1,78m",107806,['England'],: Ablöse €1.50m,26,"Aug 8, 1968",Retired
+Left-Back,left,"Sep 17, 1993",David Burrows,"1,78m",109481,['England'],: Ablöse ?,26,"Oct 25, 1968",Retired
+Left-Back,left,"Aug 1, 1993",Keith Rowland,"1,78m",149519,['Northern Ireland'],: Ablöse €165k,23,"Sep 1, 1971",Retired
+Right-Back,,"Oct 1, 1990",Tim Breacker,,107804,['England'],: Ablöse €900k,29,"Jul 2, 1965",Retired
+Right-Back,right,"Jan 1, 1985",Steve Potts,"1,70m",107819,"['United States', 'England']",: Ablöse -,28,"May 7, 1967",Retired
+Right-Back,,"Jul 1, 1991",Kenny Brown,"1,73m",228464,['England'],Plymouth Argyle,27,"Jul 11, 1967",Retired
+Central Midfield,,"Aug 24, 1989",Martin Allen,,226180,['England'],: Ablöse €835k,29,"Aug 14, 1965",Retired
+Central Midfield,right,"Dec 28, 1989",Ian Bishop,"1,75m",175895,['England'],: Ablöse €750k,30,"May 29, 1965",Retired
+Central Midfield,right,"Aug 12, 1992",Peter Butler,"1,75m",227611,['England'],Southend United,28,"Aug 27, 1966",Retired
+Central Midfield,right,"Mar 1, 1994",Paul Mitchell,"1,78m",229829,['England'],: Ablöse ?,23,"Oct 20, 1971",Retired
+Central Midfield,right,"Jul 1, 1992",Matt Holland,"1,75m",3102,"['Ireland', 'England']",: Ablöse -,21,"Apr 11, 1974",Retired
+Right Midfield,right,"Sep 17, 1993",Mike Marsh,"1,73m",222517,['England'],: Ablöse free transfer,25,"Jul 21, 1969",Retired
+Right Midfield,,"Jul 1, 1993",Dale Gordon,,182832,['England'],: Ablöse €850k,28,"Jan 9, 1967",Retired
+Left Midfield,left,"Aug 19, 1992",Matty Holmes,"1,70m",173497,['England'],: Ablöse €50k,25,"Aug 1, 1969",Retired
+Left Midfield,right,"Jul 1, 1996",Michael Hughes,"1,70m",14026,['Northern Ireland'],: Ablöse free transfer,23,"Aug 2, 1971",Retired
+Attacking Midfield,right,"Jul 1, 1994",John Moncur,"1,70m",3696,['England'],Swindon Town,28,"Sep 22, 1966",Retired
+Attacking Midfield,right,"Jul 1, 1992",Danny Williamson,"1,78m",197252,['England'],: Ablöse -,21,"Dec 5, 1973",Retired
+Attacking Midfield,right,"Aug 30, 2001",Don Hutchison,"1,85m",3880,"['Scotland', 'England']",Sunderland AFC,24,"May 9, 1971",Retired
+Left Winger,,"Mar 24, 1990",Matthew Rush,,228086,"['Ireland', 'England']",: Ablöse -,23,"Aug 6, 1971",Retired
+Centre-Forward,,"Jul 1, 1993",Jeroen Boere,"1,93m",227414,['Netherlands'],: Ablöse €300k,27,"Nov 18, 1967",---
+Centre-Forward,,"Jan 1, 1990",Trevor Morley,,177129,['England'],: Ablöse ?,34,"Mar 20, 1961",Retired
+Centre-Forward,,"Mar 10, 1995",Dieter Eckstein,,17948,['Germany'],: Ablöse ?,31,"Mar 12, 1964",Retired
+Centre-Forward,,"Sep 16, 1993",Lee Chapman,"1,88m",175862,['England'],: Ablöse €313k,35,"Dec 5, 1959",Retired
+Centre-Forward,right,"Jul 1, 1996",Steve Jones,"1,85m",197276,['England'],: Ablöse €249k,25,"Mar 17, 1970",Retired
+Centre-Forward,,"Sep 7, 1994",Tony Cottee,"1,70m",107792,['England'],: Ablöse ?,29,"Jul 11, 1965",Retired

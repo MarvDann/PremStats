@@ -1,0 +1,36 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 1997",Shay Given,"1,85m",3146,['Ireland'],Blackburn Rovers,26,"Apr 20, 1976",Retired
+Goalkeeper,right,"Jul 1, 1993",Steve Harper,"1,88m",3562,['England'],Seaham Red Star,27,"Mar 14, 1975",Retired
+Goalkeeper,,"Aug 13, 1999",John Karelse,,3561,['Netherlands'],: Ablöse €1.20m,32,"May 17, 1970",Retired
+Centre-Back,right,"Mar 1, 2001",Andrew O'Brien,"1,91m",3228,"['Ireland', 'England']",Bradford City,23,"Jun 29, 1979",Retired
+Centre-Back,right,"Jul 1, 1999",Marcelino,"1,87m",171977,['Spain'],RCD Mallorca,30,"Sep 26, 1971",Retired
+Centre-Back,right,"Jul 1, 1997",Aaron Hughes,"1,83m",3580,['Northern Ireland'],Newcastle United U18,22,"Nov 8, 1979",Retired
+Centre-Back,left,"Aug 2, 2001",Sylvain Distin,"1,92m",3356,"['France', 'Guadeloupe']",: Ablöse €750k,24,"Dec 16, 1977",Retired
+Centre-Back,,"Aug 1, 1998",David Beharall,"1,88m",225604,['England'],Newcastle United U18,23,"Mar 8, 1979",Retired
+Centre-Back,right,"Jul 1, 1998",Steven Caldwell,"1,83m",3462,['Scotland'],Newcastle United U18,21,"Sep 12, 1980",Retired
+Centre-Back,right,"Jan 1, 1998",Nikolaos Dabizas,"1,88m",3581,['Greece'],: Ablöse €2.00m,28,"Aug 3, 1973",Retired
+Centre-Back,right,"Aug 1, 1999",Gary Caldwell,"1,85m",3791,['Scotland'],Celtic Boys Club,20,"Apr 12, 1982",Retired
+Left-Back,left,"Jul 1, 2001",Robbie Elliott,"1,79m",3577,['England'],: Ablöse free transfer,28,"Dec 25, 1973",Retired
+Left-Back,left,"Jan 8, 2001",Wayne Quinn,"1,77m",15836,['England'],Sheffield United,25,"Nov 19, 1976",Retired
+Left-Back,left,"Aug 1, 2006",Olivier Bernard,"1,75m",3301,['France'],: Ablöse free transfer,22,"Oct 14, 1979",Retired
+Right-Back,right,"Jul 1, 1995",Warren Barton,"1,77m",13238,['England'],: Ablöse €4.50m,33,"Mar 19, 1969",Retired
+Right-Back,right,"Jan 30, 1998",Andy Griffin,"1,73m",3579,['England'],: Ablöse €2.50m,23,"Mar 17, 1979",Retired
+Defensive Midfield,right,"Sep 1, 2000",Clarence Acuña,"1,74m",3262,['Chile'],Club Universidad de Chile,27,"Feb 8, 1975",Retired
+Defensive Midfield,right,"Jul 1, 2000",Brian Kerr,"1,73m",3260,['Scotland'],Newcastle United Reserves,20,"Oct 12, 1981",Retired
+Central Midfield,right,"Jan 31, 2002",Jermaine Jenas,"1,81m",3461,['England'],: Ablöse €7.50m,19,"Feb 18, 1983",Retired
+Central Midfield,right,"Jul 1, 1992",Rob Lee,"1,78m",14183,['England'],Charlton Athletic,36,"Feb 1, 1966",Retired
+Central Midfield,,"Feb 6, 1998",Gary Speed,,3459,['Wales'],: Ablöse €8.25m,32,"Sep 8, 1969",---
+Central Midfield,right,"Jul 1, 1999",Diego Gavilán,"1,77m",4087,"['Paraguay', 'Spain']",Club Cerro Porteño,22,"Mar 1, 1980",Retired
+Central Midfield,right,"Jul 1, 1997",Jamie McClen,"1,70m",3565,['England'],Newcastle United U18,23,"May 13, 1979",Retired
+Right Midfield,right,"Jan 1, 2006",Nolberto Solano,"1,76m",3460,['Peru'],: Ablöse €2.25m,27,"Dec 12, 1974",Retired
+Right Midfield,right,"Jul 1, 1999",Kieron Dyer,"1,70m",3118,"['England', 'Antigua and Barbuda']",Ipswich Town,23,"Dec 29, 1978",Retired
+Right Midfield,right,"Mar 1, 1998",James Coppinger,"1,70m",48959,['England'],Darlington FC (- 2012),21,"Jan 18, 1981",Retired
+Attacking Midfield,right,"Jul 1, 2000",Christian Bassedas,"1,78m",3294,"['Argentina', 'Italy']",: Ablöse €5.30m,29,"Feb 16, 1973",Retired
+Left Winger,right,"Jul 1, 2001",Craig Bellamy,"1,73m",3297,['Wales'],Coventry City,22,"Jul 13, 1979",Retired
+Left Winger,both,"Aug 1, 2001",Laurent Robert,"1,76m",3316,['France'],: Ablöse €14.33m,27,"May 21, 1975",Retired
+Right Winger,right,"Jul 1, 1999",Stuart Green,"1,78m",36865,['England'],Newcastle United U18,21,"Jun 15, 1981",Retired
+Centre-Forward,right,"Jul 30, 1996",Alan Shearer,"1,83m",3110,['England'],Blackburn Rovers,31,"Aug 13, 1970",Retired
+Centre-Forward,right,"Jul 1, 2000",Carl Cort,"1,93m",3093,"['Guyana', 'England']",: Ablöse €10.50m,24,"Nov 1, 1977",Retired
+Centre-Forward,right,"Jul 1, 2000",Lomana LuaLua,"1,80m",3458,"['DR Congo', 'England']",Colchester United,21,"Dec 28, 1980",Retired
+Centre-Forward,right,"Jul 1, 2000",Shola Ameobi,"1,91m",3276,"['Nigeria', 'England']",Newcastle United U18,20,"Oct 12, 1981",Retired
+Centre-Forward,right,"Jul 1, 2000",Colin McMenamin,"1,78m",13942,['Scotland'],Annan Athletic FC ,21,"Feb 12, 1981",Retired

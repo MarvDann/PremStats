@@ -1,0 +1,41 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Aug 16, 2006",Rob Green,"1,91m",11680,['England'],€8.00m,: Ablöse €3.00m,29,"Jan 18, 1980",Retired
+Goalkeeper,right,"Aug 1, 2008",Jan Lastuvka,"1,89m",28186,['Czech Republic'],€900k,Shakhtar Donetsk,26,"Jul 7, 1982",MFK Havirov
+Goalkeeper,,"Jul 1, 2004",Jimmy Walker,"1,80m",46746,['England'],€150k,: Ablöse free transfer,35,"Jul 9, 1973",Retired
+Goalkeeper,right,"Jul 1, 2008",Marek Stech,"1,91m",61589,['Czech Republic'],€100k,: Ablöse -,19,"Jan 28, 1990",TJ Ligmet Milin
+Goalkeeper,right,"Jul 1, 2009",Péter Kurucz,"1,93m",74157,['Hungary'],€50k,: Ablöse €450k,21,"May 30, 1988",Retired
+Centre-Back,left,"Jan 18, 2007",Matthew Upson,"1,85m",3273,['England'],€9.00m,: Ablöse €12.60m,30,"Apr 18, 1979",Retired
+Centre-Back,right,"Jan 22, 2007",Lucas Neill,"1,85m",3826,"['Australia', 'Northern Ireland']",€4.80m,Blackburn Rovers,31,"Mar 9, 1978",Retired
+Centre-Back,right,"Aug 1, 2009",Radoslav Kovac,"1,89m",9702,['Czech Republic'],€4.50m,: Ablöse €3.80m,29,"Nov 27, 1979",Retired
+Centre-Back,right,"Jul 1, 2007",James Tomkins,"1,92m",61592,['England'],€3.00m,: Ablöse -,20,"Mar 29, 1989",Without Club
+Centre-Back,right,"Jul 1, 2006",Jonathan Spector,"1,83m",24637,"['United States', 'Germany']",€2.00m,Manchester United,23,"Mar 1, 1986",Retired
+Centre-Back,right,"Aug 1, 2012",James Collins,"1,88m",12691,['Wales'],€2.00m,: Ablöse €3.20m,25,"Aug 23, 1983",Retired
+Centre-Back,right,"Jan 1, 2007",Calum Davenport,"1,93m",4221,['England'],€1.00m,Tottenham Hotspur,26,"Jan 1, 1983",Tavistock FC
+Centre-Back,right,"Jul 5, 2005",Danny Gabbidon,"1,78m",12709,"['Wales', 'Jamaica']",€900k,: Ablöse €2.00m,29,"Aug 8, 1979",Retired
+Centre-Back,right,,Bondz N'Gala,"1,88m",87668,"['England', 'DR Congo']",,,19,"Sep 13, 1989",Retired
+Left-Back,left,"Jul 1, 2009",Hérita Ilunga,"1,80m",17432,"['DR Congo', 'France']",€5.50m,: Ablöse €3.50m,27,"Feb 25, 1982",Retired
+Left-Back,left,"Jul 1, 2012",George McCartney,"1,83m",3775,['Northern Ireland'],€3.30m,Sunderland AFC,28,"Apr 29, 1981",Retired
+Left-Back,left,"Sep 4, 2008",Wálter López,"1,82m",58581,"['Uruguay', 'Spain']",€500k,CA River Plate Montevideo,23,"Oct 15, 1985",Retired
+Left-Back,left,,Joe Widdowson,"1,83m",61594,['England'],€50k,,20,"Mar 28, 1989",Retired
+Right-Back,right,"Aug 1, 2007",Julien Faubert,"1,80m",18093,"['Martinique', 'France']",€7.00m,: Ablöse €9.15m,25,"Aug 1, 1983",Retired
+Right-Back,right,"Jul 1, 2008",Jordan Spence,"1,89m",61588,['England'],€50k,: Ablöse -,19,"May 24, 1990",Retired
+Defensive Midfield,right,"Jul 23, 2008",Valon Behrami,"1,84m",21905,"['Switzerland', 'Kosovo']",€8.00m,: Ablöse €6.30m,24,"Apr 19, 1985",Retired
+Defensive Midfield,right,"Jul 1, 2003",Hayden Mullins,"1,82m",14052,['England'],€4.20m,: Ablöse free transfer,30,"Mar 27, 1979",Retired
+Defensive Midfield,right,,Josh Payne,"1,83m",87670,['England'],€500k,,18,"Nov 25, 1990",Beaconsfield Town
+Central Midfield,right,"Jul 1, 2007",Scott Parker,"1,80m",3785,['England'],€9.50m,Newcastle United,28,"Oct 13, 1980",Retired
+Central Midfield,right,"Jan 1, 2005",Mark Noble,"1,80m",31835,"['England', 'Ireland']",€7.70m,: Ablöse -,22,"May 8, 1987",Retired
+Central Midfield,right,"Jul 1, 2007",Jack Collison,"1,83m",61568,"['Wales', 'England']",€2.50m,: Ablöse -,20,"Oct 2, 1988",Retired
+Central Midfield,right,"Jul 1, 2006",Lee Bowyer,"1,75m",3877,['England'],€2.00m,Newcastle United,32,"Jan 3, 1977",Retired
+Right Midfield,right,"Aug 16, 2007",Kieron Dyer,"1,70m",3118,"['England', 'Antigua and Barbuda']",€4.30m,Newcastle United,30,"Dec 29, 1978",Retired
+Left Midfield,left,"Aug 1, 2003",Matthew Etherington,"1,78m",3788,['England'],€3.80m,: Ablöse ?,27,"Aug 14, 1981",Retired
+Left Midfield,left,"Jan 1, 2007",Luís Boa Morte,"1,78m",3422,"['Portugal', 'Sao Tome and Principe']",€3.20m,Fulham FC,31,"Aug 4, 1977",Retired
+Left Winger,right,"Jul 10, 2007",Craig Bellamy,"1,73m",3297,['Wales'],€9.00m,: Ablöse €11.25m,29,"Jul 13, 1979",Retired
+Left Winger,right,"Jul 1, 2008",Junior Stanislas,"1,83m",87672,"['England', 'St. Lucia']",€1.00m,: Ablöse -,19,"Nov 26, 1989",Retired
+Left Winger,left,"Jul 1, 2005",Kyel Reid,"1,78m",39709,"['England', 'Jamaica']",€500k,: Ablöse -,21,"Nov 26, 1987",Rayners Lane FC
+Right Winger,right,"Jan 25, 2009",Savio Nsereko,"1,76m",43100,"['Germany', 'Uganda']",€4.00m,: Ablöse €8.50m,19,"Jul 27, 1989",BSC Sendling München
+Right Winger,right,"May 31, 2008",Zavon Hines,"1,78m",67081,"['Jamaica', 'England']",€200k,Coventry City,20,"Dec 27, 1988",Retired
+Second Striker,right,"Jan 1, 2008",Freddie Sears,"1,70m",70714,['England'],€1.30m,: Ablöse -,19,"Nov 27, 1989",Chatham Town
+Centre-Forward,right,"Jan 1, 2006",Dean Ashton,"1,85m",14168,['England'],€8.50m,: Ablöse €10.89m,25,"Nov 24, 1983",Retired
+Centre-Forward,right,"Oct 14, 2013",Carlton Cole,"1,91m",3179,"['England', 'Sierra Leone']",€7.00m,Without Club,25,"Oct 12, 1983",Retired
+Centre-Forward,both,"Sep 1, 2008",David Di Michele,"1,70m",6076,['Italy'],€2.50m,Torino FC,33,"Jan 6, 1976",Retired
+Centre-Forward,both,"Oct 1, 2008",Diego Tristán,"1,84m",7504,['Spain'],€1.40m,Without Club,33,"Jan 5, 1976",Retired

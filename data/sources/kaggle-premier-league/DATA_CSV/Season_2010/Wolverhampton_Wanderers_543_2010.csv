@@ -1,0 +1,43 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2006",Wayne Hennessey,"1,98m",45494,['Wales'],€2.00m,Wolverhampton Wanderers U18,24,"Jan 24, 1987",Without Club
+Goalkeeper,right,,"Jul 1, 2009",Marcus Hahnemann,"1,87m",4140,"['United States', 'Germany']",€1.00m,Reading FC,39,"Jun 15, 1972",Retired
+Goalkeeper,right,,"Jul 1, 2004",Carl Ikeme,"1,88m",26412,"['Nigeria', 'England']",€750k,Wolverhampton Wanderers U18,25,"Jun 8, 1986",Retired
+Goalkeeper,right,,"Jan 31, 2011",Adriano Basso,"1,85m",48083,"['Brazil', 'Italy']",,CR Flamengo,36,"Apr 18, 1975",Retired
+Centre-Back,left,,"Feb 2, 2009",Christophe Berra,"1,90m",36602,"['Scotland', 'France']",€4.50m,Heart of Midlothian FC,26,"Jan 31, 1985",Retired
+Centre-Back,,,"Jul 1, 2010",Jelle Van Damme,,4323,['Belgium'],€4.00m,: Ablöse €3.25m,27,"Oct 10, 1983",Retired
+Centre-Back,right,,"Aug 26, 2010",Michael Mancienne,"1,84m",38100,"['Seychelles', 'England']",€3.50m,Chelsea FC,23,"Jan 8, 1988",Retired
+Centre-Back,right,,"Aug 31, 2016",Richard Stearman,"1,91m",34349,"['England', 'Ireland']",€3.00m,Fulham FC,23,"Aug 19, 1987",Retired
+Centre-Back,left,,"Jan 31, 2008",George Elokobi,"1,82m",42048,"['Cameroon', 'England']",€2.50m,Colchester United,25,"Jan 31, 1986",Retired
+Centre-Back,right,,"Jul 4, 2009",Ronald Zubar,"1,86m",22645,"['Guadeloupe', 'France']",€2.50m,Olympique Marseille,25,"Sep 20, 1985",Retired
+Centre-Back,right,,"Jul 1, 2009",Greg Halford,"1,93m",42062,['England'],€2.00m,Sunderland AFC,26,"Dec 8, 1984",Blyth Spartans
+Centre-Back,right,,"Jul 31, 2003",Jody Craddock,"1,83m",4129,['England'],€1.50m,Sunderland AFC,35,"Jul 25, 1975",Retired
+Centre-Back,right,,"Jul 1, 2010",Steven Mouyokolo,"1,90m",58188,"['France', 'Congo']",€1.50m,: Ablöse €3.00m,24,"Jan 24, 1987",Retired
+Centre-Back,right,,"Jul 1, 2012",Danny Batth,"1,91m",129049,"['England', 'India']",€100k,Wolverhampton Wanderers U21,20,"Sep 21, 1990",Blackburn Rovers
+Centre-Back,right,,"Jul 1, 2010",Ethan Ebanks-Landell,"1,88m",129067,"['England', 'Jamaica']",,Wolverhampton Wanderers U18,18,"Dec 16, 1992",Rochdale AFC
+Centre-Back,right,,"Jul 1, 2010",John Dunleavy,"1,83m",134450,['Ireland'],,Wolverhampton Wanderers U18,19,"Jul 3, 1991",Evergreen FC Kilkenny
+Left-Back,left,,"Jan 1, 2007",Stephen Ward,"1,84m",34691,['Ireland'],€2.50m,Bohemian Football Club,25,"Aug 20, 1985",Retired
+Left-Back,left,,"Jul 1, 2008",Scott Malone,"1,89m",101682,['England'],€100k,Wolverhampton Wanderers U18,20,"Mar 25, 1991",Without Club
+Right-Back,right,,"Jul 1, 2007",Kevin Foley,"1,83m",33491,"['Ireland', 'England']",€3.00m,: Ablöse free transfer,26,"Nov 1, 1984",Retired
+Right-Back,right,,"Jul 20, 2023",Matt Doherty,"1,85m",171679,['Ireland'],,: Ablöse free transfer,19,"Jan 16, 1992",Wolverhampton Wanderers
+Defensive Midfield,right,,"Jul 1, 2006",Karl Henry,"1,84m",13582,"['England', 'Jamaica']",€3.50m,Stoke City,28,"Nov 26, 1982",Retired
+Defensive Midfield,right,,"Jul 1, 2010",Adlène Guédioura,"1,78m",74768,"['Algeria', 'France']",€1.50m,R Charleroi SC,25,"Nov 12, 1985",Retired
+Central Midfield,left,,"Jul 1, 2011",Jamie O'Hara,"1,80m",38090,['England'],€4.50m,Tottenham Hotspur,24,"Sep 25, 1986",Retired
+Central Midfield,left,,"Jul 1, 2009",Nenad Milijas,"1,88m",36123,['Serbia'],€4.00m,Red Star Belgrade,28,"Apr 30, 1983",Retired
+Central Midfield,right,,"Jan 16, 2008",David Edwards,"1,80m",54949,"['Wales', 'England']",€2.50m,: Ablöse €1.00m,25,"Feb 3, 1986",Retired
+Central Midfield,left,,"Jul 1, 2008",David Jones,"1,83m",24634,"['England', 'Wales']",€2.50m,: Ablöse €1.50m,26,"Nov 4, 1984",Retired
+Central Midfield,right,,"Jul 1, 2009",David Davis,"1,73m",129054,['England'],€50k,Wolverhampton Wanderers U18,20,"Feb 20, 1991",Kidderminster Harriers
+Central Midfield,,,"Jul 1, 2010",Nathan Rooney,"1,84m",129064,"['England', 'Ireland']",,Wolverhampton Wanderers U18,18,"Oct 2, 1992",Retired
+Left Midfield,left,,"Jul 1, 2010",Stephen Hunt,"1,74m",36799,['Ireland'],€4.50m,: Ablöse €3.60m,29,"Aug 1, 1981",Retired
+Left Midfield,left,,,Ashley Hemmings,"1,73m",85296,['England'],€50k,,20,"Mar 3, 1991",Kidderminster Harriers
+Left Winger,,,"Jul 1, 2007",Matt Jarvis,"1,73m",15921,['England'],€5.00m,Gillingham FC,25,"May 22, 1986",Retired
+Left Winger,right,,"Jan 1, 2007",Michael Kightly,"1,73m",25366,['England'],€2.00m,Grays Athletic FC,25,"Jan 24, 1986",Without Club
+Right Winger,left,,"Jan 20, 2011",Adam Hammill,"1,80m",38091,"['England', 'Ireland']",€1.00m,Barnsley FC,23,"Jan 25, 1988",Maghull FC
+Right Winger,right,,"Jan 21, 2010",Geoffrey Mujangi Bia,"1,80m",45455,"['Belgium', 'DR Congo']",€1.00m,R Charleroi SC,21,"Aug 12, 1989",FC Ganshoren
+Centre-Forward,right,,"Jul 1, 2009",Kevin Doyle,"1,80m",35193,['Ireland'],€5.50m,Reading FC,27,"Sep 18, 1983",Retired
+Centre-Forward,left,Knee problems - Return unknown,"Jul 1, 2010",Steven Fletcher,"1,85m",35099,"['Scotland', 'England']",€4.50m,: Ablöse €7.20m,24,"Mar 26, 1987",Wrexham AFC
+Centre-Forward,right,,"Jan 11, 2008",Sylvan Ebanks-Blake,"1,73m",27621,"['England', 'Jamaica']",€3.00m,Plymouth Argyle,25,"Mar 29, 1986",Retired
+Centre-Forward,right,,"Feb 1, 2007",Andy Keogh,"1,83m",29419,"['Ireland', 'Australia']",€1.50m,Scunthorpe United,25,"May 16, 1986",Dianella White Eagles SC
+Centre-Forward,right,,"Aug 1, 2010",Marcus Bent,"1,88m",9958,"['England', 'Jamaica']",€1.00m,: Ablöse free transfer,33,"May 19, 1978",Cornard United FC
+Centre-Forward,right,,"Jul 1, 2008",Sam Vokes,"1,86m",48078,"['Wales', 'England']",€750k,: Ablöse €300k,21,"Oct 21, 1989",Wycombe Wanderers
+Centre-Forward,left,,"Jan 1, 2011",Leigh Griffiths,"1,80m",45611,['Scotland'],€750k,Dundee FC,20,"Aug 20, 1990",Mandurah City
+Centre-Forward,right,,"Jul 1, 2009",Sam Winnall,"1,75m",145493,['England'],,Wolverhampton Wanderers U18,20,"Jan 19, 1991",Retired

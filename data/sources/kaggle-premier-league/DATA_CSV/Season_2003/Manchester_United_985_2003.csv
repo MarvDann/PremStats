@@ -1,0 +1,36 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 27, 2001",Roy Carroll,"1,89m",3534,['Northern Ireland'],Wigan Athletic,26,"Sep 30, 1977",Retired
+Goalkeeper,right,"Jul 1, 2003",Tim Howard,"1,91m",4267,"['United States', 'Hungary']",: Ablöse €3.20m,25,"Mar 6, 1979",Retired
+Goalkeeper,right,"Sep 1, 2001",Luke Steele,"1,88m",3539,['England'],Peterborough United,19,"Sep 24, 1984",Peterborough Sports
+Goalkeeper,left,,Ben Williams,"1,88m",3322,['England'],,21,"Aug 27, 1982",Retired
+Centre-Back,right,"Jul 22, 2002",Rio Ferdinand,"1,89m",3235,['England'],Leeds United,25,"Nov 7, 1978",Retired
+Centre-Back,right,"Jul 1, 1996",Wes Brown,"1,85m",3405,['England'],Manchester United U18,24,"Oct 13, 1979",Retired
+Centre-Back,right,"Jul 1, 2001",John O'Shea,"1,92m",3540,['Ireland'],Manchester United Reserves,23,"Apr 30, 1981",Retired
+Centre-Back,right,"Jul 1, 2004",Jonathan Spector,"1,83m",24637,"['United States', 'Germany']",Manchester United U18,18,"Mar 1, 1986",Retired
+Left-Back,left,"Jul 1, 2001",Kieran Richardson,"1,77m",3548,['England'],: Ablöse free transfer,19,"Oct 21, 1984",Retired
+Left-Back,left,"Jan 1, 2000",Quinton Fortune,"1,82m",3541,"['South Africa', 'England']",: Ablöse €2.25m,27,"May 21, 1977",Retired
+Left-Back,,"Jul 1, 2002",Danny Pugh,,3546,['England'],Manchester United Reserves,21,"Oct 19, 1982",Retired
+Left-Back,,"Sep 10, 1999",Mikaël Silvestre,,3393,"['France', 'Guadeloupe']",: Ablöse €5.70m,26,"Aug 9, 1977",Retired
+Left-Back,left,"Jul 1, 2000",Paul Tierney,"1,78m",4231,"['Ireland', 'England']",Manchester United U18,21,"Sep 15, 1982",Unknown
+Right-Back,right,"Jul 1, 1992",Gary Neville,"1,80m",3403,['England'],Manchester United U18,29,"Feb 18, 1975",Retired
+Right-Back,right,"Jul 1, 1994",Phil Neville,"1,80m",3404,['England'],Manchester United U18,27,"Jan 21, 1977",Retired
+Right-Back,right,"Jul 1, 2001",Mark Lynch,"1,80m",3537,['England'],Manchester United U18,22,"Sep 2, 1981",Retired
+Right-Back,right,"Jul 1, 2003",Phil Bardsley,"1,80m",15773,"['Scotland', 'England']",Manchester United U18,19,"Jun 28, 1985",Retired
+Defensive Midfield,right,"Jul 1, 1992",Nicky Butt,"1,78m",3543,['England'],Manchester United U18,29,"Jan 21, 1975",Retired
+Defensive Midfield,right,"Jul 1, 2003",Eric Djemba Djemba,"1,77m",5509,"['Cameroon', 'France']",: Ablöse €4.50m,23,"May 4, 1981",Retired
+Central Midfield,right,"Jul 1, 2003",Kléberson,"1,75m",3365,['Brazil'],: Ablöse €8.60m,25,"Jun 19, 1979",Retired
+Central Midfield,,"Jul 1, 1993",Roy Keane,,3396,['Ireland'],: Ablöse €4.40m,32,"Aug 10, 1971",Retired
+Central Midfield,right,"Jan 8, 2012",Paul Scholes,"1,68m",3397,['England'],,29,"Nov 16, 1974",Retired
+Central Midfield,right,"Jul 1, 2001",Darren Fletcher,"1,84m",3547,['Scotland'],Manchester United U18,20,"Feb 1, 1984",Retired
+Central Midfield,left,"Jul 1, 2004",David Jones,"1,83m",24634,"['England', 'Wales']",Manchester United Reserves,19,"Nov 4, 1984",Retired
+Central Midfield,left,,Neil Wood,"1,77m",11320,['England'],,21,"Jan 4, 1983",Retired
+Left Midfield,left,"Jul 1, 1991",Ryan Giggs,"1,79m",3406,['Wales'],Manchester United U18,30,"Nov 29, 1973",Retired
+Right Winger,right,"Jul 25, 2003",Chris Eagles,"1,83m",24635,['England'],Manchester United U18,18,"Nov 19, 1985",Retired
+Centre-Forward,right,"Aug 31, 2021",Cristiano Ronaldo,"1,88m",8198,['Portugal'],Juventus FC,19,"Feb 5, 1985",Al-Nassr FC
+Centre-Forward,left,"Jan 23, 2004",Louis Saha,"1,82m",4015,"['France', 'Guadeloupe']",Fulham FC,25,"Aug 8, 1978",Retired
+Centre-Forward,right,"Jul 1, 2001",Ruud van Nistelrooy,"1,89m",3407,['Netherlands'],: Ablöse €28.50m,27,"Jul 1, 1976",Retired
+Centre-Forward,right,"Jul 1, 2003",David Bellion,"1,81m",3115,"['France', 'Senegal']",Sunderland AFC,21,"Nov 27, 1982",Retired
+Centre-Forward,both,"Jul 29, 1996",Ole Gunnar Solskjær,"1,79m",3394,['Norway'],Molde FK,31,"Feb 26, 1973",Retired
+Centre-Forward,,"Jan 20, 2002",Diego Forlán,,3408,"['Uruguay', 'Spain']",CA Independiente,25,"May 19, 1979",Retired
+Centre-Forward,right,"Jul 1, 2001",Eddie Johnson,"1,78m",15997,['England'],Manchester United U18,19,"Sep 20, 1984",Retired
+Centre-Forward,,,Daniel Nardiello,"1,80m",3536,"['Wales', 'England']",,21,"Oct 22, 1982",Retired

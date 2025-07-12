@@ -1,0 +1,39 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 30, 2008",Thomas Sörensen,"1,96m",3473,['Denmark'],€3.00m,: Ablöse free transfer,33,"Jun 12, 1976",Retired
+Goalkeeper,right,"Jul 1, 2004",Steve Simonsen,"1,87m",3583,"['England', 'Denmark']",€750k,: Ablöse free transfer,30,"Apr 3, 1979",Retired
+Centre-Back,right,"Aug 15, 2008",Abdoulaye Faye,"1,87m",6107,"['Senegal', 'France']",€3.80m,Newcastle United,31,"Feb 26, 1978",Retired
+Centre-Back,right,"Jan 18, 2008",Ryan Shawcross,"1,91m",45861,"['England', 'Wales']",€3.70m,Manchester United Reserves,21,"Oct 4, 1987",Retired
+Centre-Back,left,"Sep 2, 2008",Danny Higginbotham,"1,85m",3686,"['Gibraltar', 'England']",€3.00m,Sunderland AFC,30,"Dec 29, 1978",Retired
+Centre-Back,right,"Nov 1, 2007",Leon Cort,"1,91m",36874,"['Guyana', 'England']",€1.40m,: Ablöse €1.80m,29,"Sep 11, 1979",Retired
+Centre-Back,right,"Aug 1, 2008",Ibrahima Sonko,"1,90m",36813,"['Senegal', 'France']",€1.30m,Reading FC,28,"Jan 22, 1981",Retired
+Centre-Back,right,"Aug 1, 2008",Andrew Davies,"1,90m",3869,['England'],€1.00m,Southampton FC,24,"Dec 17, 1984",Retired
+Centre-Back,right,"Jul 1, 2007",Ryan Shotton,"1,89m",92109,['England'],,Stoke City U18,20,"Sep 30, 1988",Hanley Town
+Left-Back,,"Jan 3, 2008",Danny Pugh,,3546,['England'],€1.60m,: Ablöse €750k,26,"Oct 19, 1982",Retired
+Left-Back,left,"Jan 1, 2006",Carl Dickinson,"1,85m",34337,['England'],€800k,Stoke City U18,22,"Mar 31, 1987",Retired
+Left-Back,left,"Jan 19, 2007",Dominic Matteo,"1,86m",3765,"['Scotland', 'England']",€300k,Blackburn Rovers,35,"Apr 28, 1974",Retired
+Left-Back,left,"Aug 1, 2007",Demar Phillips,"1,68m",58323,['Jamaica'],€250k,Waterhouse FC,25,"Sep 23, 1983",Retired
+Right-Back,right,"Jan 11, 2008",Andy Griffin,"1,73m",3579,['England'],€1.20m,: Ablöse €450k,30,"Mar 17, 1979",Retired
+Right-Back,right,"Jul 1, 2003",Andy Wilkinson,"1,80m",13616,['England'],€1.20m,Stoke City U18,24,"Aug 6, 1984",Retired
+Right-Back,right,"Feb 1, 2009",Stephen Kelly,"1,84m",12125,['Ireland'],€900k,: Ablöse free transfer,25,"Sep 6, 1983",Retired
+Right-Back,right,"Dec 1, 2004",Lewis Buxton,"1,85m",9203,['England'],€500k,: Ablöse free transfer,25,"Dec 10, 1983",Retired
+Right-Back,right,"Aug 31, 2007",Ritchie De Laet,"1,84m",55687,['Belgium'],€450k,Royal Antwerp FC,20,"Nov 28, 1988",Retired
+Defensive Midfield,right,"Jan 30, 2008",Glenn Whelan,"1,80m",12124,['Ireland'],€2.50m,: Ablöse €670k,25,"Jan 13, 1984",Retired
+Defensive Midfield,right,"Dec 10, 2007",Salif Diao,"1,83m",3600,"['Senegal', 'France']",€1.40m,Without Club,32,"Feb 10, 1977",Retired
+Defensive Midfield,right,"Jul 1, 2008",Amdy Faye,"1,84m",5428,"['Senegal', 'France']",€1.40m,Charlton Athletic,32,"Mar 12, 1977",Retired
+Defensive Midfield,left,,Nat Wedderburn,"1,94m",46567,['England'],€100k,,18,"Jun 30, 1991",Stenhousemuir FC
+Defensive Midfield,right,"Jul 1, 2008",Marc Grocott,"1,76m",85669,['England'],€50k,Stoke City U18,19,"Nov 17, 1989",Hanley Town
+Central Midfield,right,"Jan 9, 2007",Rory Delap,"1,83m",4112,"['Ireland', 'England']",€3.00m,Sunderland AFC,32,"Jul 6, 1976",Retired
+Central Midfield,both,"Jul 28, 2008",Seyi Olofinjana,"1,93m",18719,['Nigeria'],€2.20m,Wolverhampton Wanderers,29,"Jun 30, 1980",Retired
+Central Midfield,right,"Sep 1, 2008",Tom Soares,"1,83m",15910,"['England', 'Barbados']",€1.20m,: Ablöse €1.90m,22,"Jul 10, 1986",Without Club
+Central Midfield,left,"Sep 1, 2008",Michael Tonge,"1,83m",13544,['England'],€1.20m,Sheffield United,26,"Apr 7, 1983",Retired
+Left Midfield,left,"Jan 1, 2009",Matthew Etherington,"1,78m",3788,['England'],€3.80m,: Ablöse €3.00m,27,"Aug 14, 1981",Retired
+Left Midfield,right,,Jimmy Phillips,"1,70m",85680,['England'],€50k,,19,"Sep 20, 1989",Retired
+Attacking Midfield,right,"Nov 17, 2006",Liam Lawrence,"1,78m",18870,"['Ireland', 'England']",€3.00m,Sunderland AFC,27,"Dec 14, 1981",Retired
+Centre-Forward,right,"Jan 13, 2009",James Beattie,"1,85m",3112,['England'],€4.20m,Sheffield United,31,"Feb 27, 1978",Retired
+Centre-Forward,right,"Aug 30, 2006",Ricardo Fuller,"1,91m",14014,['Jamaica'],€3.80m,Southampton FC,29,"Oct 31, 1979",Retired
+Centre-Forward,right,"Jul 1, 2008",Dave Kitson,"1,91m",15698,['England'],€3.50m,Reading FC,29,"Jan 21, 1980",Retired
+Centre-Forward,right,"Jul 1, 2005",Mamady Sidibé,"1,93m",14069,"['Mali', 'France']",€2.00m,Gillingham FC,29,"Dec 18, 1979",Retired
+Centre-Forward,both,"Feb 1, 2009",Henri Camara,"1,78m",3900,"['Senegal', 'France']",€2.00m,Wigan Athletic,32,"May 10, 1977",Retired
+Centre-Forward,right,"Aug 2, 2007",Richard Cresswell,"1,83m",14002,['England'],€1.70m,Leeds United,31,"Sep 20, 1977",Retired
+Centre-Forward,right,"Jul 1, 2007",Jon Parkin,"1,93m",37550,['England'],€800k,: Ablöse €375k,27,"Dec 30, 1981",Retired
+Centre-Forward,right,"Jul 1, 2006",Vincent Péricard,"1,85m",3970,"['France', 'Cameroon']",€400k,: Ablöse free transfer,26,"Oct 3, 1982",Retired

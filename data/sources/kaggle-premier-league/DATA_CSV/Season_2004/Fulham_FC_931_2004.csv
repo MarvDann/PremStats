@@ -1,0 +1,35 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Aug 1, 2001",Edwin van der Sar,"1,99m",3516,['Netherlands'],€4.75m,: Ablöse €10.30m,34,"Oct 29, 1970",Retired
+Goalkeeper,right,"Jul 1, 2003",Mark Crossley,"1,91m",4041,"['Wales', 'England']",€1.00m,: Ablöse €750k,36,"Jun 16, 1969",Retired
+Goalkeeper,right,"Aug 1, 2003",Ross Flitney,"1,91m",9411,['England'],€100k,Fulham FC U18,21,"Jun 1, 1984",Wimborne Town FC
+Centre-Back,right,"Jul 1, 1999",Zat Knight,"1,98m",4012,['England'],€2.75m,Fulham FC U18,25,"May 2, 1980",Retired
+Centre-Back,right,"Apr 1, 2001",Alain Goma,"1,83m",4011,['France'],€2.50m,Newcastle United,32,"Oct 5, 1972",Retired
+Centre-Back,left,"Jan 13, 2003",Carlos Bocanegra,"1,83m",15829,"['United States', 'Mexico']",€2.25m,: Ablöse free transfer,26,"May 25, 1979",Retired
+Centre-Back,right,"Jan 1, 2004",Ian Pearce,"1,85m",3879,['England'],€2.00m,: Ablöse €1.60m,31,"May 7, 1974",Retired
+Centre-Back,right,"Jul 1, 2003",Zesh Rehman,"1,89m",12122,"['Pakistan', 'England']",€400k,Fulham FC U18,21,"Oct 14, 1983",Retired
+Centre-Back,right,"Jul 1, 2003",Dean Leacock,"1,90m",4039,"['England', 'Barbados']",€150k,Fulham FC U18,21,"Jun 10, 1984",Retired
+Centre-Back,left,"Jul 1, 2004",Liam Fontaine,"1,88m",28953,['England'],€50k,Fulham FC U18,19,"Jan 7, 1986",Retired
+Left-Back,left,"Aug 2, 2003",Jérôme Bonnissel,"1,74m",3911,['France'],€1.00m,: Ablöse free transfer,32,"Apr 16, 1973",Retired
+Left-Back,left,"Jul 1, 2003",Adam Green,"1,76m",4766,['England'],€350k,Fulham FC U18,21,"Jan 12, 1984",Ashford Town Middlesex FC
+Right-Back,,"Jan 1, 2004",Moritz Volz,,4048,['Germany'],€3.00m,: Ablöse €1.00m,22,"Jan 21, 1983",Retired
+Right-Back,right,"Nov 1, 2003",Liam Rosenior,"1,78m",15166,"['England', 'Sierra Leone']",€500k,: Ablöse €80k,20,"Jul 9, 1984",Retired
+Central Midfield,right,"Aug 2, 2001",Steed Malbranque,"1,71m",3569,"['France', 'Belgium']",€8.50m,: Ablöse €6.60m,25,"Jan 6, 1980",Retired
+Central Midfield,right,"Jul 1, 2004",Papa Bouba Diop,"1,94m",5485,['Senegal'],€6.00m,: Ablöse €9.00m,27,"Jan 28, 1978",---
+Central Midfield,right,"Jul 1, 2001",Sylvain Legwinski,"1,85m",3815,"['France', 'Poland']",€4.00m,: Ablöse €5.25m,32,"Jun 10, 1973",Retired
+Central Midfield,left,"Jul 1, 2004",Michael Timlin,"1,77m",28951,"['Ireland', 'England']",€50k,Fulham FC U18,20,"Mar 19, 1985",Dulwich Hamlet
+Central Midfield,right,"Jul 1, 2003",Darren Pratley,"1,86m",28957,"['England', 'Jamaica']",€50k,Fulham FC U18,20,"Apr 22, 1985",Leyton Orient
+Central Midfield,right,,Alex Lawless,"1,80m",97610,['Wales'],,,20,"Mar 26, 1985",Retired
+Right Midfield,right,"Jul 1, 2004",Billy McKinlay,"1,73m",9212,['Scotland'],€500k,: Ablöse free transfer,36,"Apr 22, 1969",Retired
+Right Midfield,right,"Jul 1, 2003",Malik Buari,"1,81m",4268,"['Ghana', 'England']",€100k,Fulham FC U18,21,"Jan 24, 1984",Retired
+Left Midfield,left,"Jul 1, 2001",Luís Boa Morte,"1,78m",3422,"['Portugal', 'Sao Tome and Principe']",€3.50m,Southampton FC,27,"Aug 4, 1977",Retired
+Left Midfield,,"Aug 31, 2003",Mark Pembridge,,3615,['Wales'],€1.25m,: Ablöse €750k,34,"Nov 29, 1970",Retired
+Left Midfield,left,,Sean Doherty,"1,75m",28952,['England'],€50k,,20,"Feb 10, 1985",Retired
+Attacking Midfield,right,"Jul 1, 2004",Claus Jensen,"1,83m",3099,['Denmark'],€5.50m,Charlton Athletic,28,"Apr 29, 1977",Retired
+Right Winger,right,"Jul 1, 1999",Lee Clark,"1,73m",3477,['England'],€2.80m,Sunderland AFC,32,"Oct 27, 1972",Retired
+Centre-Forward,right,"Jul 18, 2004",Andy Cole,"1,75m",3238,"['England', 'Jamaica']",€5.50m,Blackburn Rovers,33,"Oct 15, 1971",Retired
+Centre-Forward,left,"Jul 23, 2004",Tomasz Radzinski,"1,74m",3585,"['Canada', 'Poland']",€3.00m,: Ablöse €3.00m,31,"Dec 14, 1973",Retired
+Centre-Forward,right,"Jan 1, 2004",Collins John,"1,85m",4694,"['Netherlands', 'Liberia']",€2.25m,: Ablöse €3.50m,19,"Oct 17, 1985",Retired
+Centre-Forward,right,"Jan 20, 2004",Brian McBride,"1,83m",3469,['United States'],€1.00m,: Ablöse €800k,33,"Jun 19, 1972",Retired
+Centre-Forward,right,"Jul 1, 2000",Elvis Hammond,"1,75m",3722,"['Ghana', 'England']",€250k,Fulham FC U18,24,"Oct 6, 1980",Retired
+Centre-Forward,right,"Jan 1, 2002",Stuart Noble,"1,82m",14659,['Scotland'],€75k,Fulham FC U18,21,"Oct 14, 1983",Without Club
+Centre-Forward,both,"Jul 1, 2004",Ismael Ehui,"1,73m",28955,"['France', 'Nigeria']",€50k,Fulham FC U18,18,"Dec 10, 1986",Without Club

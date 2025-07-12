@@ -1,0 +1,37 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Feb 15, 2000",Alan Miller,"1,91m",3820,['England'],: Ablöse ?,33,"Mar 29, 1970",---
+Goalkeeper,,"Jul 1, 2002",Ryan Robinson,"1,88m",3749,['England'],Blackburn Rovers U18,20,"Oct 13, 1982",Northwich Victoria
+Goalkeeper,right,"Nov 3, 2000",Brad Friedel,"1,91m",3476,"['United States', 'England']",: Ablöse free transfer,32,"May 18, 1971",Retired
+Goalkeeper,right,"Jul 1, 1999",Alan Kelly,"1,89m",3819,"['Ireland', 'England']",Sheffield United,34,"Aug 11, 1968",Retired
+Centre-Back,right,"Jul 1, 2002",Michael Taylor,"1,88m",4107,['England'],Blackburn Rovers Reserves,20,"Nov 21, 1982",Retired
+Centre-Back,right,"Sep 7, 2001",Lucas Neill,"1,85m",3826,"['Australia', 'Northern Ireland']",: Ablöse €1.50m,25,"Mar 9, 1978",Retired
+Centre-Back,right,"Jul 1, 2002",Andy Todd,"1,78m",3103,['England'],Charlton Athletic,28,"Sep 21, 1974",Retired
+Centre-Back,both,"Jul 1, 1999",Craig Short,"1,85m",3821,['England'],: Ablöse €2.55m,35,"Jun 25, 1968",Retired
+Centre-Back,right,"Jul 1, 1998",Martin Taylor,"1,95m",3822,['England'],Blackburn Rovers U18,23,"Nov 9, 1979",Retired
+Centre-Back,left,"Jul 1, 2002",Sebastian Pelzer,"1,78m",3702,['Germany'],1.FC Kaiserslautern II,22,"Sep 24, 1980",Retired
+Centre-Back,left,"Jul 1, 2002",Jay McEveley,"1,86m",3825,"['Scotland', 'England']",Blackburn Rovers U18,18,"Feb 11, 1985",Retired
+Left-Back,left,"Feb 20, 2002",Hakan Ünsal,"1,78m",8050,['Türkiye'],Galatasaray,30,"May 14, 1973",Retired
+Left-Back,left,"Jul 1, 2000",Stig Inge Bjørnebye,"1,79m",102510,['Norway'],: Ablöse €400k,33,"Dec 11, 1969",Retired
+Left-Back,left,"Oct 1, 2001",Nils-Eric Johansson,"1,87m",205,['Sweden'],: Ablöse €3.00m,23,"Jan 13, 1980",Retired
+Left-Back,left,"Jul 1, 2003",Vratislav Gresko,"1,85m",71,['Slovakia'],: Ablöse €1.80m,25,"Jul 24, 1977",Retired
+Right-Back,right,"Jul 1, 2000",John Curtis,"1,78m",7913,['England'],Manchester United,24,"Sep 3, 1978",Retired
+Right-Back,right,"Jul 1, 2000",Henning Berg,"1,83m",3823,"['Norway', 'Cyprus']",Manchester United,33,"Sep 1, 1969",Retired
+Defensive Midfield,right,"Jul 1, 2001",Tugay Kerimoğlu,"1,76m",3703,['Türkiye'],: Ablöse €1.95m,32,"Aug 24, 1970",Retired
+Central Midfield,right,"Jan 1, 1996",Garry Flitcroft,"1,80m",3706,['England'],: Ablöse €5.25m,30,"Nov 6, 1972",Retired
+Central Midfield,right,"Jul 1, 2000",Jonathan Douglas,"1,80m",7435,['Ireland'],Blackburn Rovers U18,21,"Nov 22, 1981",Retired
+Central Midfield,right,"Jul 1, 2003",Paul Gallagher,"1,85m",10501,['Scotland'],Blackburn Rovers U18,18,"Sep 8, 1984",Retired
+Central Midfield,right,"Jul 1, 2002",Neil Danns,"1,75m",4108,"['Guyana', 'England']",Blackburn Rovers Reserves,20,"Nov 23, 1982",Retired
+Right Midfield,left,"Jul 1, 1996",Damien Duff,"1,77m",3259,['Ireland'],Blackburn Rovers U18,24,"Mar 2, 1979",Retired
+Right Midfield,right,"Dec 1, 1998",Keith Gillespie,"1,77m",3827,['Northern Ireland'],Newcastle United,28,"Feb 18, 1975",FC Mindwell
+Right Midfield,right,"Aug 29, 2002",David Thompson,"1,70m",4127,['England'],Coventry City,25,"Sep 12, 1977",Retired
+Left Midfield,left,"Dec 1, 2000",Alan Mahon,"1,70m",3483,['Ireland'],: Ablöse €2.30m,25,"Apr 4, 1978",Retired
+Attacking Midfield,right,,Jamie Milligan,"1,70m",105200,['England'],,23,"Jan 3, 1980",Retired
+Attacking Midfield,right,"Jan 17, 2007",David Dunn,"1,78m",4243,['England'],: Ablöse €3.20m,23,"Dec 27, 1979",Retired
+Right Winger,,"Jul 10, 2000",Craig Hignett,,3787,['England'],Barnsley FC,33,"Jan 12, 1970",Retired
+Centre-Forward,right,"Jul 1, 2000",Marc Richards,"1,80m",5012,['England'],Blackburn Rovers U18,20,"Jul 8, 1982",Retired
+Centre-Forward,right,"Jan 1, 2002",Andy Cole,"1,75m",3238,"['England', 'Jamaica']",Manchester United,31,"Oct 15, 1971",Retired
+Centre-Forward,right,"Jan 1, 1999",Matt Jansen,"1,80m",10502,['England'],: Ablöse €6.00m,25,"Oct 20, 1977",Retired
+Centre-Forward,right,"Jul 1, 2001",Corrado Grabbi,"1,81m",3704,['Italy'],: Ablöse €11.36m,27,"Jul 29, 1975",Retired
+Centre-Forward,,"Jul 1, 2002",Dwight Yorke,"1,78m",3223,"['Trinidad and Tobago', 'England']",Manchester United,31,"Nov 3, 1971",Retired
+Centre-Forward,left,"Jul 1, 1999",Egil Østenstad,"1,83m",3705,['Norway'],Southampton FC,31,"Jan 2, 1972",Retired
+Centre-Forward,right,"Dec 4, 2002",Hakan Şükür,"1,91m",3363,['Türkiye'],Without Club,31,"Sep 1, 1971",Retired

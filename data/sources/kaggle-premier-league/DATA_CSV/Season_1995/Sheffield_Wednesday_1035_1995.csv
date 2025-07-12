@@ -1,0 +1,44 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,,Ian Bowling,,358690,['England'],,30,"Jul 27, 1965",Retired
+Goalkeeper,,"Jul 1, 1995",Martin Bowler,,1299375,['England'],Sheffield Wednesday U18,,,Retired
+Goalkeeper,right,"Jul 1, 1991",Chris Woods,"1,88m",101320,['England'],: Ablöse €1.36m,36,"Nov 14, 1959",Retired
+Goalkeeper,,"Nov 7, 1985",Kevin Pressman,"1,85m",10242,['England'],Sheffield Wednesday U18,28,"Nov 6, 1967",Retired
+Goalkeeper,,"Apr 1, 1990",Lance Key,"1,88m",165697,['England'],Histon FC,28,"May 13, 1968",Retired
+Centre-Back,,,Tony Brien,"1,83m",358695,['Ireland'],,27,"Feb 10, 1969",---
+Centre-Back,,,David German,"1,78m",358692,['England'],,22,"Oct 16, 1973",Retired
+Centre-Back,,,David Faulkner,"1,85m",358693,['England'],,20,"Oct 8, 1975",Retired
+Centre-Back,right,"Jul 1, 1994",Peter Atherton,"1,78m",13552,['England'],Coventry City,26,"Apr 6, 1970",Retired
+Centre-Back,,"Jul 1, 1992",Brian Linighan,"1,85m",223306,['England'],Sheffield Wednesday U21,22,"Nov 2, 1973",Retired
+Centre-Back,left,"Jul 1, 1995",Dejan Stefanovic,"1,80m",4308,['Serbia'],Red Star Belgrade,21,"Oct 28, 1974",Retired
+Centre-Back,,"Jul 1, 1993",Andy Pearce,"1,95m",222527,['England'],Coventry City,30,"Apr 20, 1966",Retired
+Centre-Back,right,"Jul 1, 1993",Des Walker,"1,80m",10000,"['England', 'Jamaica']",UC Sampdoria,30,"Nov 26, 1965",Retired
+Centre-Back,right,"Mar 16, 1996",Jon Newsome,"1,88m",107093,['England'],: Ablöse €2.25m,25,"Sep 6, 1970",Retired
+Centre-Back,,"Jul 16, 1992",Simon Stewart,"1,86m",223315,['England'],Sheffield Wednesday U18,22,"Nov 1, 1973",Retired
+Centre-Back,,"Mar 1, 1992",Julian Watts,"1,91m",223290,['England'],Rotherham United,25,"Mar 17, 1971",Retired
+Left-Back,left,"Jul 1, 1994",Lee Briscoe,"1,80m",13994,['England'],Sheffield Wednesday U18,20,"Sep 30, 1975",Retired
+Left-Back,both,"Aug 1, 1994",Ian Nolan,"1,83m",107097,"['Northern Ireland', 'England']",: Ablöse €2.25m,25,"Jul 9, 1970",Retired
+Right-Back,right,"Aug 6, 1994",Dan Petrescu,"1,77m",102023,"['Romania', 'England']",: Ablöse €2.00m,28,"Dec 22, 1967",Retired
+Right-Back,,"Nov 25, 1995",Steve Nicol,,107096,['Scotland'],: Ablöse free transfer,34,"Dec 11, 1961",Retired
+Defensive Midfield,,"Jul 1, 1994",Klas Ingesson,,101095,['Sweden'],: Ablöse €1.20m,27,"Aug 20, 1968",---
+Defensive Midfield,,"May 1, 1988",Graham Hyde,,106798,['England'],Sheffield Wednesday U18,25,"Nov 10, 1970",Retired
+Defensive Midfield,,"Aug 1, 1995",Ritchie Humphreys,,66930,['England'],Sheffield Wednesday U18,18,"Nov 30, 1977",Retired
+Central Midfield,,,Andy Williams,"1,88m",261923,['England'],,33,"Jul 29, 1962",Retired
+Central Midfield,,,Darren Holmes,,358696,['England'],,21,"Jan 30, 1975",Retired
+Central Midfield,,"Oct 1, 1993",Adem Poric,"1,75m",223287,"['Australia', 'England']",: Ablöse €72k,23,"Apr 22, 1973",Retired
+Central Midfield,,"Nov 3, 1989",John Sheridan,,102496,"['Ireland', 'England']",: Ablöse €625k,31,"Oct 1, 1964",Retired
+Central Midfield,,"Jul 1, 1991",Ryan Jones,,107090,['Wales'],Unknown,22,"Jul 23, 1973",Retired
+Left Midfield,,"Jul 19, 1995",Mark Pembridge,,3615,['Wales'],: Ablöse €1.25m,25,"Nov 29, 1970",Retired
+Left Midfield,right,"Aug 1, 1993",Andy Sinton,"1,73m",101326,['England'],: Ablöse €3.35m,30,"Mar 19, 1966",Retired
+Left Midfield,left,"Mar 1, 1996",Regi Blinker,"1,73m",107125,"['Netherlands', 'Suriname']",: Ablöse €400k,27,"Jun 4, 1969",Retired
+Attacking Midfield,,"Jul 1, 1992",Chris Waddle,,101385,['England'],: Ablöse €1.50m,35,"Dec 14, 1960",Retired
+Centre-Forward,,,Gavin Bailey,,358698,['England'],,19,"Oct 10, 1976",Retired
+Centre-Forward,,"Jul 1, 1981",John Pearson,"1,88m",358700,['England'],Sheffield Wednesday U18,32,"Sep 1, 1963",Retired
+Centre-Forward,,"Aug 1, 1986",David Hirst,,109491,"['England', 'Scotland']",Barnsley FC,28,"Dec 7, 1967",Retired
+Centre-Forward,right,"Sep 11, 1992",Mark Bright,"1,83m",223280,['England'],: Ablöse €1.70m,34,"Jun 6, 1962",Retired
+Centre-Forward,right,"Jul 1, 1995",Marc Degryse,"1,72m",101751,['Belgium'],: Ablöse €1.25m,30,"Sep 4, 1965",Retired
+Centre-Forward,right,"Jan 1, 1996",Darko Kovačević,"1,88m",7479,['Serbia'],Red Star Belgrade,22,"Nov 18, 1973",Retired
+Centre-Forward,right,"Dec 21, 1994",Guy Whittingham,"1,78m",106806,['England'],: Ablöse €1.00m,31,"Nov 10, 1964",Retired
+Centre-Forward,,"Feb 13, 1991",Mike Williams,,223291,['England'],Maltby Main FC,26,"Nov 21, 1969",Retired
+Centre-Forward,,"Jul 1, 1993",Richie Barker,"1,85m",13657,['England'],Sheffield Wednesday U18,21,"May 30, 1975",Retired
+Centre-Forward,,"Jan 1, 1995",O'Neill Donaldson,"1,86m",195174,['England'],Doncaster Rovers,26,"Nov 24, 1969",Retired
+Centre-Forward,,"Aug 1, 1996",Mark Platts,"1,73m",107100,['England'],Sheffield Wednesday U18,17,"May 23, 1979",Retired

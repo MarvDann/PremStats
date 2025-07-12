@@ -1,0 +1,26 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jul 1, 1989",Andy Marriott,"1,83m",3738,"['Wales', 'England']",: Ablöse €65k,22,"Oct 11, 1970",Retired
+Goalkeeper,right,"Jul 1, 1987",Mark Crossley,"1,91m",4041,"['Wales', 'England']",Nottingham Forest U18,24,"Jun 16, 1969",Retired
+Centre-Back,,"Aug 28, 1986",Steve Chettle,"1,85m",168569,['England'],Nottingham Forest U18,24,"Sep 27, 1968",Retired
+Centre-Back,right,"May 30, 1991",Carl Tiler,"1,88m",198681,['England'],Barnsley FC,23,"Feb 11, 1970",Retired
+Centre-Back,right,"Jul 1, 1987",Terry Wilson,"1,84m",224053,['Scotland'],Nottingham Forest U18,24,"Feb 8, 1969",Retired
+Left-Back,left,"Jul 1, 1992",Craig Armstrong,"1,80m",13396,['England'],Nottingham Forest U18,18,"May 23, 1975",Retired
+Left-Back,left,"Jul 1, 1985",Stuart Pearce,"1,78m",101317,['England'],Coventry City,31,"Apr 24, 1962",Retired
+Left-Back,,"Jul 1, 1985",Brett Williams,,222544,['England'],Nottingham Forest U18,25,"Mar 19, 1968",Retired
+Right-Back,right,"Nov 7, 1987",Gary Charles,"1,75m",106810,['England'],Clapton FC,23,"Apr 13, 1970",Retired
+Right-Back,,"Jul 1, 1988",Brian Laws,,222516,['England'],: Ablöse €145k,31,"Oct 14, 1961",Retired
+Midfielder,,,Ian Kilford,,108551,['England'],,19,"Oct 6, 1973",Retired
+Defensive Midfield,right,"Jan 1, 1992",Thorvaldur Örlygsson,"1,80m",182790,['Iceland'],Fram Reykjavík,26,"Aug 2, 1966",Retired
+Midfielder,,"Aug 1, 1992",Ray McKinnon,"1,78m",224048,['Scotland'],: Ablöse ?,22,"Aug 5, 1970",Retired
+Central Midfield,,"Jul 1, 1990",Roy Keane,,3396,['Ireland'],Cobh Ramblers FC,21,"Aug 10, 1971",Retired
+Central Midfield,right,"Jan 5, 1990",Scot Gemmill,"1,81m",3617,['Scotland'],Nottingham Forest U18,22,"Jan 2, 1971",Retired
+Central Midfield,right,"Nov 23, 1992",Neil Webb,"1,83m",101329,['England'],: Ablöse €925k,29,"Jul 30, 1963",Retired
+Right Midfield,right,"Jul 1, 1989",Steve Stone,"1,75m",3364,['England'],Nottingham Forest U18,21,"Aug 20, 1971",Retired
+Right Midfield,,"Jan 1, 1988",Gary Crosby,,222495,['England'],Grantham Town,29,"May 8, 1964",Retired
+Left Midfield,,"Sep 2, 1991",Kingsley Black,"1,78m",222487,"['Northern Ireland', 'England']",: Ablöse €1.80m,25,"Jun 22, 1968",Retired
+Attacking Midfield,,"Dec 20, 1996",Nigel Clough,"1,75m",101322,['England'],: Ablöse free transfer,27,"Mar 19, 1966",Retired
+Attacking Midfield,left,"Mar 1, 1990",Ian Woan,"1,83m",168600,['England'],Runcorn FC Halton,25,"Dec 14, 1967",Retired
+Centre-Forward,,"Jul 23, 1991",Teddy Sheringham,,3392,['England'],: Ablöse €1.65m,27,"Apr 2, 1966",Retired
+Centre-Forward,,"Aug 1, 1992",Gary Bannister,"1,70m",222484,['England'],: Ablöse free transfer,32,"Jul 22, 1960",Retired
+Striker,,"Jul 1, 1987",Lee Glover,"1,78m",222504,"['Scotland', 'England']",Nottingham Forest U18,23,"Apr 24, 1970",Retired
+Centre-Forward,,"Mar 1, 1993",Robert Rosario,"1,91m",222535,['England'],Coventry City,27,"Mar 4, 1966",Retired

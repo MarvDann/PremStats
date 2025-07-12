@@ -1,0 +1,42 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Aug 29, 2006",Stephen Bywater,"1,89m",3873,['England'],€2.00m,: Ablöse €750k,27,"Jun 7, 1981",Retired
+Goalkeeper,right,"Jan 24, 2008",Roy Carroll,"1,89m",3534,['Northern Ireland'],€1.50m,: Ablöse free transfer,30,"Sep 30, 1977",Retired
+Goalkeeper,right,"Jul 1, 2007",Lewis Price,"1,91m",13350,"['Wales', 'England']",€500k,Ipswich Town,23,"Jul 19, 1984",Retired
+Goalkeeper,,"Jul 10, 2007",Ben Hinchliffe,"1,85m",49597,['England'],€100k,: Ablöse free transfer,19,"Oct 9, 1988",Stockport County
+Centre-Back,right,"Jul 1, 2007",Claude Davis,"1,91m",14006,['Jamaica'],€2.50m,Sheffield United,29,"Mar 6, 1979",Retired
+Centre-Back,left,"Jan 1, 2007",Jay McEveley,"1,86m",3825,"['Scotland', 'England']",€1.25m,Blackburn Rovers,23,"Feb 11, 1985",Retired
+Centre-Back,right,"Jul 1, 2007",Andy Todd,"1,78m",3103,['England'],€1.25m,Blackburn Rovers,33,"Sep 21, 1974",Retired
+Centre-Back,right,"Jan 1, 2006",Darren Moore,"1,88m",3243,"['Jamaica', 'England']",€1.25m,: Ablöse €400k,34,"Apr 22, 1974",Retired
+Centre-Back,right,"Jul 1, 2006",Dean Leacock,"1,90m",4039,"['England', 'Barbados']",€1.00m,Fulham FC,24,"Jun 10, 1984",Retired
+Centre-Back,,"Jan 1, 2008",Alan Stubbs,,3472,['England'],€1.00m,: Ablöse free transfer,36,"Oct 6, 1971",Retired
+Centre-Back,right,"Jul 1, 2003",Michael Johnson,"1,80m",3936,"['Jamaica', 'England']",€800k,: Ablöse €225k,34,"Jul 4, 1973",Retired
+Centre-Back,left,"Jul 1, 2005",Lewin Nyatanga,"1,88m",37014,"['Wales', 'Zimbabwe']",€500k,Derby County U18,19,"Aug 18, 1988",Retired
+Centre-Back,right,"Jul 1, 2006",Bob Malcolm,"1,83m",9622,['Scotland'],€300k,: Ablöse free transfer,27,"Nov 12, 1980",Retired
+Centre-Back,right,"Jul 1, 2007",Miles Addison,"1,89m",39377,['England'],€100k,Derby County U18,19,"Jan 7, 1989",Retired
+Left-Back,left,"Jul 1, 2006",Mohamed Camara,"1,80m",4236,"['Guinea', 'France']",€1.00m,Celtic FC,33,"Jun 25, 1975",Retired
+Right-Back,right,"Jan 1, 2007",Tyrone Mears,"1,81m",14050,"['England', 'Sierra Leone']",€1.50m,: Ablöse €1.50m,25,"Feb 18, 1983",Retired
+Right-Back,right,"Jan 1, 2008",Danny Mills,"1,80m",3743,['England'],€900k,: Ablöse free transfer,31,"May 18, 1977",Retired
+Right-Back,right,"Aug 1, 2007",Andy Griffin,"1,73m",3579,['England'],€800k,: Ablöse free transfer,29,"Mar 17, 1979",Retired
+Right-Back,right,"Jul 1, 2005",Marc Edworthy,"1,80m",4235,['England'],€450k,: Ablöse free transfer,35,"Dec 24, 1972",Retired
+Right-Back,right,"Jul 1, 2007",Mitchell Hanson,"1,85m",57492,['England'],€100k,Derby County U18,19,"Sep 2, 1988",Retired
+Right-Back,right,,Jason Beardsley,"1,84m",57487,['England'],€100k,,18,"Jul 12, 1989",Retired
+Defensive Midfield,both,"Jan 1, 2008",Robbie Savage,"1,83m",3797,['Wales'],€2.25m,Blackburn Rovers,33,"Oct 18, 1974",Retired
+Defensive Midfield,right,"Jul 1, 2006",Matt Oakley,"1,77m",3784,['England'],€1.00m,Southampton FC,30,"Aug 17, 1977",Retired
+Defensive Midfield,,"Jul 1, 2007",Matthew Richards,"1,76m",57496,['England'],€100k,Derby County U18,18,"Dec 1, 1989",Retired
+Central Midfield,right,"Jan 11, 2008",Hossam Ghaly,"1,83m",7448,['Egypt'],€2.00m,Tottenham Hotspur,26,"Dec 15, 1981",Retired
+Central Midfield,left,"Jul 1, 2006",Stephen Pearson,"1,82m",12673,['Scotland'],€1.75m,Celtic FC,25,"Oct 2, 1982",Retired
+Central Midfield,left,"Nov 1, 2006",David Jones,"1,83m",24634,"['England', 'Wales']",€1.00m,Manchester United,23,"Nov 4, 1984",Retired
+Central Midfield,both,"Jul 1, 2007",Benny Feilhaber,"1,75m",33118,"['United States', 'Austria']",€900k,: Ablöse €1.50m,23,"Jan 19, 1985",Retired
+Left Midfield,both,"Feb 4, 2008",Mile Sterjovski,"1,81m",5656,"['Australia', 'North Macedonia']",€1.50m,: Ablöse €400k,29,"May 27, 1979",Retired
+Left Midfield,left,"Aug 1, 2007",Eddie Lewis,"1,78m",3484,['United States'],€1.25m,Leeds United,34,"May 17, 1974",Retired
+Left Winger,both,"Jan 8, 2008",Laurent Robert,"1,76m",3316,['France'],€500k,Without Club,33,"May 21, 1975",Retired
+Left Winger,left,"Jul 1, 2003",Lee Holmes,"1,75m",13463,['England'],€300k,Derby County U18,21,"Apr 2, 1987",Without Club
+Right Winger,,"Jan 1, 2007",Gary Teale,,13543,['Scotland'],€1.25m,Wigan Athletic,29,"Jul 21, 1978",Retired
+Centre-Forward,right,"Aug 1, 2007",Kenny Miller,"1,78m",4750,['Scotland'],€4.75m,Celtic FC,28,"Dec 23, 1979",Retired
+Centre-Forward,right,"Jul 1, 2007",Robert Earnshaw,"1,73m",12707,"['Wales', 'Zambia']",€3.50m,: Ablöse €5.20m,27,"Apr 6, 1981",Retired
+Centre-Forward,right,"Jan 1, 2008",Emanuel Villa,"1,80m",54022,"['Argentina', 'Mexico']",€3.00m,: Ablöse €3.00m,26,"Feb 24, 1982",Retired
+Centre-Forward,right,"Jul 1, 2005",Giles Barnes,"1,83m",37236,"['Jamaica', 'England']",€2.75m,Derby County U18,19,"Aug 5, 1988",Retired
+Centre-Forward,both,"Jul 1, 2006",Steve Howard,"1,91m",33493,"['Scotland', 'England']",€2.25m,: Ablöse €1.60m,32,"May 10, 1976",Retired
+Centre-Forward,right,"Jan 9, 2007",Craig Fagan,"1,80m",3928,"['England', 'Jamaica']",€950k,: Ablöse €1.13m,25,"Dec 11, 1982",Retired
+Centre-Forward,right,"Feb 1, 2007",Jon Macken,"1,78m",4080,"['Ireland', 'England']",€500k,: Ablöse free transfer,30,"Sep 7, 1977",Retired
+Centre-Forward,,,Paris Simmons,,61671,['England'],,,18,"Jan 2, 1990",Retired

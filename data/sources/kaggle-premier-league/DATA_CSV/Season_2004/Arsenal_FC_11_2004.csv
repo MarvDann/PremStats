@@ -1,0 +1,38 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Mar 1, 2011",Jens Lehmann,,122,['Germany'],€3.15m,,35,"Nov 10, 1969",Retired
+Goalkeeper,right,"Jul 1, 2000",Stuart Taylor,"1,98m",3190,['England'],€1.00m,Arsenal FC Reserves,24,"Nov 28, 1980",Retired
+Goalkeeper,right,"Jul 14, 2004",Manuel Almunia,"1,91m",16621,['Spain'],€900k,Celta de Vigo,28,"May 19, 1977",Retired
+Goalkeeper,,,Chris Wright,"1,84m",29215,['England'],€50k,,18,"Sep 27, 1986",Boston Town FC
+Goalkeeper,,,Michael Jordan,"1,88m",34609,['England'],,,19,"Apr 7, 1986",Without Club
+Centre-Back,,"Jan 1, 2010",Sol Campbell,,3198,"['England', 'Jamaica']",€20.50m,Without Club,30,"Sep 18, 1974",Retired
+Centre-Back,right,"Feb 14, 2002",Kolo Touré,"1,78m",3202,"[""Cote d'Ivoire"", 'England']",€7.25m,ASEC Mimosas,24,"Mar 19, 1981",Retired
+Centre-Back,left,"Jul 1, 2002",Pascal Cygan,"1,92m",3193,"['France', 'Poland']",€2.00m,: Ablöse €3.83m,31,"Apr 29, 1974",Retired
+Centre-Back,right,"Jul 1, 2003",Philippe Senderos,"1,89m",4277,"['Switzerland', 'Spain']",€1.50m,: Ablöse €3.55m,20,"Feb 14, 1985",Retired
+Centre-Back,,"Jul 1, 2004",Johan Djourou,,34561,"['Switzerland', ""Cote d'Ivoire""]",,Arsenal FC U18,18,"Jan 18, 1987",Retired
+Left-Back,left,"Jul 1, 1999",Ashley Cole,"1,76m",3182,"['England', 'Barbados']",€19.50m,Arsenal FC Reserves,24,"Dec 20, 1980",Retired
+Left-Back,left,"Aug 4, 2003",Gaël Clichy,"1,76m",7449,"['France', 'Martinique']",€1.75m,: Ablöse €375k,19,"Jul 26, 1985",Retired
+Left-Back,left,"Jul 1, 2003",Daniel Karbassiyoon,"1,73m",9337,"['United States', 'Iran']",€150k,Roanoke Star,20,"Aug 10, 1984",Retired
+Right-Back,both,"Jul 1, 2000",Laurén,"1,82m",3189,"['Cameroon', 'Equatorial Guinea']",€6.50m,RCD Mallorca,28,"Jan 19, 1977",Retired
+Right-Back,right,"Jan 7, 2005",Emmanuel Eboué,"1,78m",13058,"[""Cote d'Ivoire"", 'Belgium']",€2.20m,KSK Beveren (- 2010),22,"Jun 4, 1983",Retired
+Right-Back,right,"Jan 1, 2003",Justin Hoyte,"1,78m",7335,"['Trinidad and Tobago', 'England']",€750k,Arsenal FC U18,20,"Nov 20, 1984",Miami Beach CF
+Right-Back,right,"Jul 1, 2003",Frank Simek,"1,83m",31313,"['United States', 'Poland']",€75k,Arsenal FC U18,20,"Oct 13, 1984",Retired
+Defensive Midfield,right,"Aug 14, 1996",Patrick Vieira,"1,92m",3183,"['France', 'Senegal']",€35.00m,: Ablöse €5.35m,29,"Jun 23, 1976",Retired
+Defensive Midfield,right,"Jul 26, 2002",Gilberto Silva,"1,85m",3194,['Brazil'],€7.00m,Clube Atlético Mineiro,28,"Oct 7, 1976",Retired
+Defensive Midfield,right,"Aug 29, 2013",Mathieu Flamini,"1,78m",17396,['France'],€3.00m,AC Milan,21,"Mar 7, 1984",Retired
+Defensive Midfield,,"Oct 1, 2000",Sebastian Svärd,,3204,['Denmark'],€700k,Kjöbenhavns Boldklub (FCK II),22,"Jan 15, 1983",Retired
+Midfielder,,,Jordan Fowler,"1,75m",31235,['England'],€50k,,20,"Oct 1, 1984",Unknown
+Central Midfield,right,"Jul 1, 2004",Cesc Fàbregas,"1,79m",8806,['Spain'],€7.50m,Arsenal FC U18,18,"May 4, 1987",Retired
+Central Midfield,left,"Jan 1, 2002",Edú Gaspar,"1,89m",3192,"['Brazil', 'Portugal']",€5.75m,Sport Club Corinthians Paulista,27,"May 15, 1978",Retired
+Central Midfield,right,"Jul 1, 2004",Sebastian Larsson,"1,78m",31720,['Sweden'],€175k,Arsenal FC U18,20,"Jun 6, 1985",Retired
+Central Midfield,right,"Jul 1, 2004",Patrick Cregg,"1,76m",34560,['Ireland'],,Arsenal FC U18,19,"Feb 21, 1986",Retired
+Right Midfield,,"Sep 1, 1998",Freddie Ljungberg,,3134,['Sweden'],€17.00m,Halmstads BK,28,"Apr 16, 1977",Retired
+Left Midfield,right,"Jul 1, 2000",Robert Pirès,"1,87m",3185,"['France', 'Portugal']",€18.50m,: Ablöse €9.80m,31,"Oct 29, 1973",Retired
+Left Winger,left,,Ryan Smith,"1,74m",14552,"['England', 'United States']",€50k,,18,"Nov 10, 1986",Without Club
+Left Winger,right,"Jul 1, 2004",Quincy Owusu-Abeyie,"1,82m",14551,"['Ghana', 'Netherlands']",,Arsenal FC U18,19,"Apr 15, 1986",SV Robinhood Amsterdam
+Right Winger,left,"Jan 1, 2004",José Antonio Reyes,"1,76m",7717,['Spain'],€24.50m,Sevilla FC,21,"Sep 1, 1983",---
+Right Winger,right,"Jul 1, 2001",Jermaine Pennant,"1,73m",3195,"['England', 'Jamaica']",€4.00m,Arsenal FC U18,22,"Jan 15, 1983",Retired
+Second Striker,right,"Jul 1, 1995",Dennis Bergkamp,"1,83m",3187,['Netherlands'],€3.00m,: Ablöse €11.25m,36,"May 10, 1969",Retired
+Centre-Forward,both,"Jan 6, 2012",Thierry Henry,"1,88m",3207,"['France', 'Guadeloupe']",€45.00m,New York Red Bulls,27,"Aug 17, 1977",Retired
+Centre-Forward,left,"Jul 1, 2004",Robin van Persie,"1,83m",4380,['Netherlands'],€6.00m,: Ablöse €4.50m,21,"Aug 6, 1983",Retired
+Centre-Forward,right,"Jul 1, 2001",Jérémie Aliadière,"1,83m",3266,"['France', 'Algeria']",€1.25m,Arsenal FC U18,22,"Mar 30, 1983",Retired
+Centre-Forward,left,"Jul 1, 2004",Arturo Lupoli,"1,73m",22227,['Italy'],€1.25m,Parma FC Youth,18,"Jun 24, 1987",Retired

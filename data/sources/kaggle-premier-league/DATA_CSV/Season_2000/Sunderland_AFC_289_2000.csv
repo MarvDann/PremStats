@@ -1,0 +1,39 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jul 1, 1998",Andy Marriott,"1,83m",3738,"['Wales', 'England']",Wrexham AFC,30,"Oct 11, 1970",Retired
+Goalkeeper,right,"Jul 1, 1998",Thomas Sörensen,"1,96m",3473,['Denmark'],Odense Boldklub,25,"Jun 12, 1976",Retired
+Goalkeeper,right,"Jul 1, 2000",Jürgen Macho,"1,92m",3567,['Austria'],: Ablöse free transfer,23,"Aug 24, 1977",Retired
+Goalkeeper,right,"Jul 1, 1999",Michael Ingham,"1,93m",4292,"['Northern Ireland', 'England']",Cliftonville FC,20,"Jul 9, 1980",Retired
+Centre-Back,right,"Mar 9, 2001",Patrice Carteron,"1,83m",17418,['France'],: Ablöse ?,30,"Jul 30, 1970",Retired
+Centre-Back,right,"Jul 1, 1999",Steve Bould,"1,93m",106893,['England'],: Ablöse €800k,38,"Nov 16, 1962",Retired
+Centre-Back,right,"Jul 10, 1998",Paul Butler,"1,91m",4278,['Ireland'],Bury FC,28,"Nov 2, 1972",Retired
+Centre-Back,right,"Aug 1, 1997",Jody Craddock,"1,83m",4129,['England'],Cambridge United,25,"Jul 25, 1975",Retired
+Centre-Back,right,"Aug 1, 2006",Stanislav Varga,"1,93m",9495,"['Slovakia', 'Hungary']",Celtic FC,28,"Oct 8, 1972",Retired
+Centre-Back,both,"Aug 31, 2000",Émerson Thome,"1,88m",3643,"['Brazil', 'Portugal']",: Ablöse €6.70m,29,"Mar 30, 1972",Retired
+Centre-Back,,"Jul 1, 2003",Ben Clark,"1,88m",4131,['England'],Sunderland AFC Reserves,18,"Jan 24, 1983",Retired
+Left-Back,right,"Aug 5, 1997",Chris Makin,"1,80m",13248,['England'],: Ablöse €750k,28,"May 8, 1973",Retired
+Left-Back,left,"Jul 1, 1992",Michael Gray,"1,70m",4128,['England'],Sunderland AFC U18,26,"Aug 3, 1974",Retired
+Left-Back,left,"Jul 1, 1999",Carsten Fredgaard,"1,83m",20660,['Denmark'],: Ablöse €2.20m,25,"May 20, 1976",Retired
+Left-Back,left,"Sep 1, 2008",George McCartney,"1,83m",3775,['Northern Ireland'],: Ablöse €5.50m,20,"Apr 29, 1981",Retired
+Right-Back,right,,Darren Holloway,"1,83m",14024,['England'],,23,"Oct 3, 1977",Retired
+Right-Back,right,"Oct 1, 1996",Darren Williams,"1,72m",3324,['England'],York City,24,"Apr 28, 1977",Retired
+Defensive Midfield,right,"Aug 15, 1999",Éric Roy,"1,88m",13847,['France'],: Ablöse €275k,33,"Sep 26, 1967",Retired
+Defensive Midfield,right,"Jul 1, 1997",Paul Thirlwell,"1,80m",4122,['England'],Sunderland AFC U18,22,"Feb 13, 1979",Retired
+Central Midfield,left,"Nov 1, 1998",Gavin McCann,"1,80m",4136,['England'],: Ablöse €750k,23,"Jan 10, 1978",Retired
+Central Midfield,right,"Jul 1, 1996",Alex Rae,"1,77m",4239,['Scotland'],: Ablöse €1.50m,31,"Sep 30, 1969",Retired
+Central Midfield,,"Jul 1, 1999",Stefan Schwarz,,4123,['Sweden'],: Ablöse €6.00m,32,"Apr 18, 1969",Retired
+Central Midfield,right,"Jul 1, 1997",Chris Lumsdon,"1,80m",48637,['England'],Sunderland AFC U18,21,"Dec 15, 1979",Retired
+Central Midfield,right,"Jul 1, 1999",John Oster,"1,75m",13918,"['Wales', 'England']",: Ablöse €1.00m,22,"Dec 8, 1978",Retired
+Central Midfield,left,"Jul 1, 2000",Julio Arca,"1,75m",3280,"['Argentina', 'Italy']",AA Argentinos Juniors,20,"Jan 31, 1981",Retired
+Right Midfield,right,,Jonjo Dickman,"1,73m",3773,['England'],,19,"Sep 22, 1981",Retired
+Right Midfield,both,"Jul 1, 1998",Thomas Butler,"1,70m",4132,['Ireland'],Sunderland AFC U18,20,"Apr 25, 1981",Retired
+Left Midfield,left,"Dec 1, 1999",Kevin Kilbane,"1,83m",4135,"['Ireland', 'England']",: Ablöse €3.75m,24,"Feb 1, 1977",Retired
+Left Midfield,left,"Jul 1, 2000",Tom Peeters,"1,74m",3717,['Belgium'],KV Mechelen,22,"Sep 25, 1978",Retired
+Attacking Midfield,right,"Jul 14, 2000",Don Hutchison,"1,85m",3880,"['Scotland', 'England']",: Ablöse €3.75m,30,"May 9, 1971",Retired
+Left Winger,left,"Jul 1, 1998",Neil Wainwright,"1,83m",61943,['England'],Wrexham AFC,23,"Nov 4, 1977",Retired
+Right Winger,right,"Jul 1, 1998",Brendan McGill,"1,75m",40395,['Ireland'],Sunderland AFC U18,20,"Mar 22, 1981",Retired
+Centre-Forward,,"Aug 17, 1996",Niall Quinn,,104110,['Ireland'],: Ablöse €1.30m,34,"Oct 6, 1966",Retired
+Centre-Forward,right,"Jul 15, 1997",Kevin Phillips,"1,70m",3131,['England'],: Ablöse €850k,27,"Jul 25, 1973",Retired
+Centre-Forward,right,"Jan 1, 1998",Danny Dichio,"1,91m",3651,"['England', 'Italy']",UC Sampdoria,26,"Oct 19, 1974",Retired
+Centre-Forward,,"Jul 1, 1999",Michael Reddy,"1,85m",13257,['Ireland'],Kilkenny City (- 2007),21,"Mar 24, 1980",Retired
+Centre-Forward,,"Mar 23, 2000",Milton Núñez,"1,63m",80021,['Honduras'],: Ablöse €2.63m,28,"Oct 31, 1972",Retired
+Centre-Forward,right,"Jul 1, 2000",Kevin Kyle,"1,91m",4121,['Scotland'],Sunderland AFC Reserves,20,"Jun 7, 1981",Retired

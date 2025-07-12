@@ -1,0 +1,37 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Aug 8, 2018",Kepa Arrizabalaga,"1,88m",192279,['Spain'],€32.00m,,Athletic Bilbao,25,"Oct 3, 1994",AFC Bournemouth
+Goalkeeper,right,,"Jul 1, 2017",Willy Caballero,"1,86m",19948,"['Argentina', 'Spain']",€600k,,Manchester City,38,"Sep 28, 1981",Retired
+Goalkeeper,right,,,Jamie Cumming,"1,85m",396859,['England'],€450k,,,20,"Sep 4, 1999",Oxford United
+Centre-Back,right,,"Jul 9, 2017",Antonio Rüdiger,"1,90m",86202,"['Germany', 'Sierra Leone']",€40.00m,,AS Roma,27,"Mar 3, 1993",Real Madrid
+Centre-Back,right,,"Jan 31, 2014",Kurt Zouma,"1,90m",157509,"['France', 'Central African Republic']",€28.00m,,: Ablöse €14.60m,25,"Oct 27, 1994",Al-Orobah FC
+Centre-Back,right,"Achilles tendon irritation - Return expected on Jan 1, 2025","Jul 1, 2015",Andreas Christensen,"1,87m",196948,['Denmark'],€24.00m,,Chelsea FC U21,24,"Apr 10, 1996",FC Barcelona
+Centre-Back,right,,"Aug 24, 2012",César Azpilicueta,"1,78m",57500,['Spain'],€24.00m,,Olympique Marseille,30,"Aug 28, 1989",Atlético de Madrid
+Centre-Back,right,,"Jul 1, 2017",Fikayo Tomori,"1,85m",303254,"['England', 'Canada']",€16.00m,,Chelsea FC U23,22,"Dec 19, 1997",AC Milan
+Centre-Back,right,,"Jan 1, 2020",Marc Guéhi,"1,82m",392757,"['England', ""Cote d'Ivoire""]",€2.70m,,Chelsea FC U23,19,"Jul 13, 2000",Crystal Palace
+Centre-Back,right,,,Dynel Simeu,"1,87m",503976,"['England', 'Cameroon']",,,,18,"Mar 13, 2002",KF Teuta
+Left-Back,left,,"Jan 30, 2018",Emerson,"1,76m",181778,"['Italy', 'Brazil']",€24.00m,,AS Roma,25,"Aug 3, 1994",West Ham United
+Left-Back,left,,"Aug 31, 2016",Marcos Alonso,"1,88m",112515,['Spain'],€20.00m,,: Ablöse €23.00m,29,"Dec 28, 1990",Celta de Vigo
+Left-Back,left,,"Jul 1, 2023",Ian Maatsen,"1,78m",485585,"['Netherlands', 'Suriname']",,"Returned after loan spell with Borussia Dortmund; date: Jun 30, 2024; fee: End of loan",Chelsea FC U21,18,"Mar 10, 2002",Aston Villa
+Right-Back,right,Team captain,"Jul 1, 2019",Reece James,"1,80m",472423,['England'],€22.50m,,Chelsea FC U23,20,"Dec 8, 1999",Chelsea FC
+Right-Back,right,,,Tariq Lamptey,"1,63m",504148,"['Ghana', 'England']",€3.20m,,,19,"Sep 30, 2000",Brighton & Hove Albion
+Right-Back,right,,,Henry Lawrence,"1,71m",580765,['England'],,,,18,"Sep 21, 2001",Standard Liège
+Defensive Midfield,right,,"Jul 16, 2016",N'Golo Kanté,"1,68m",225083,"['France', 'Mali']",€80.00m,,Leicester City,29,"Mar 29, 1991",Al-Ittihad Club
+Defensive Midfield,right,,"Jul 14, 2018",Jorginho,"1,78m",102017,"['Italy', 'Brazil']",€52.00m,,: Ablöse €57.00m,28,"Dec 20, 1991",Arsenal FC
+Defensive Midfield,right,,"Feb 11, 2020",Billy Gilmour,"1,70m",423744,['Scotland'],€5.40m,,Chelsea FC U23,19,"Jun 11, 2001",SSC Napoli
+Central Midfield,right,,"Jul 1, 2019",Mateo Kovacic,"1,77m",51471,['Croatia'],€36.00m,,Real Madrid,26,"May 6, 1994",Manchester City
+Central Midfield,right,,"Jan 1, 2015",Ruben Loftus-Cheek,"1,91m",202886,"['England', 'Guyana']",€24.00m,,Chelsea FC U21,24,"Jan 23, 1996",AC Milan
+Central Midfield,right,,"Jan 5, 2018",Ross Barkley,"1,89m",131978,['England'],€21.50m,,Everton FC,26,"Dec 5, 1993",Aston Villa
+Central Midfield,right,,"Jul 4, 2013",Marco van Ginkel,"1,86m",147034,['Netherlands'],€3.20m,,Vitesse Arnhem,27,"Dec 1, 1992",Without Club
+Central Midfield,left,,,Lewis Bate,"1,70m",587003,['England'],,,,17,"Oct 28, 2002",Stockport County
+Right Midfield,right,Calf problems - Return unknown,"Aug 31, 2017",Davide Zappacosta,"1,82m",173859,['Italy'],€12.00m,,Torino FC,28,"Jun 11, 1992",Atalanta BC
+Attacking Midfield,right,,"Jul 1, 2019",Mason Mount,"1,81m",346483,['England'],€40.50m,,Chelsea FC U23,21,"Jan 10, 1999",Manchester United
+Attacking Midfield,right,,"Jul 1, 2024",Tino Anjorin,"1,86m",433181,"['England', 'Nigeria']",€2.30m,"Internal transfer: Chelsea FC U21; date: Jul 1, 2024",Chelsea FC U21,18,"Nov 23, 2001",FC Empoli
+Left Winger,right,,"Jan 1, 2019",Callum Hudson-Odoi,"1,78m",392768,"['England', 'Ghana']",€31.50m,,Chelsea FC U23,19,"Nov 7, 2000",Nottingham Forest
+Left Winger,right,"Muscle injury - Return expected on Nov 29, 2024","Aug 28, 2013",Willian,"1,75m",52769,['Brazil'],€22.50m,,Anzhi Makhachkala ( -2022),31,"Aug 9, 1988",Olympiacos Piraeus
+Left Winger,left,,"Aug 22, 2015",Kenedy,"1,80m",281404,['Brazil'],€9.50m,,Fluminense Football Club,24,"Feb 8, 1996",Real Valladolid CF
+Right Winger,right,,"Jan 2, 2019",Christian Pulisic,"1,77m",315779,"['United States', 'Croatia']",€54.00m,,Borussia Dortmund,21,"Sep 18, 1998",AC Milan
+Right Winger,both,,"Aug 20, 2015",Pedro,"1,67m",65278,['Spain'],€9.50m,,FC Barcelona,32,"Jul 28, 1987",SS Lazio
+Centre-Forward,right,,"Jul 1, 2017",Tammy Abraham,"1,94m",331726,"['England', 'Nigeria']",€40.00m,,Chelsea FC U23,22,"Oct 2, 1997",AC Milan
+Centre-Forward,right,,"Jul 3, 2016",Michy Batshuayi,"1,85m",179184,"['Belgium', 'DR Congo']",€17.50m,,Olympique Marseille,26,"Oct 2, 1993",Galatasaray
+Centre-Forward,left,,"Jan 31, 2018",Olivier Giroud,"1,92m",82442,['France'],€7.00m,,Arsenal FC,33,"Sep 30, 1986",Los Angeles FC
+Centre-Forward,right,Achilles tendon problems - Return unknown,"Jul 1, 2022",Armando Broja,"1,91m",571743,"['Albania', 'England']",,,Chelsea FC U21,18,"Sep 10, 2001",Everton FC

@@ -1,0 +1,39 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2006",Joe Hart,"1,96m",40204,['England'],€17.00m,: Ablöse €900k,29,"Apr 19, 1987",Retired
+Goalkeeper,right,,"Jul 8, 2014",Willy Caballero,"1,86m",19948,"['Argentina', 'Spain']",€3.00m,Málaga CF,34,"Sep 28, 1981",Retired
+Goalkeeper,right,,"Aug 31, 2012",Richard Wright,"1,90m",3120,['England'],€250k,: Ablöse free transfer,38,"Nov 5, 1977",Retired
+Centre-Back,right,,"Aug 20, 2015",Nicolás Otamendi,"1,83m",54781,['Argentina'],€32.00m,Valencia CF,28,"Feb 12, 1988",SL Benfica
+Centre-Back,right,,"Aug 22, 2008",Vincent Kompany,"1,90m",9594,"['Belgium', 'DR Congo']",€30.00m,: Ablöse €8.50m,30,"Apr 10, 1986",Retired
+Centre-Back,left,,"Aug 11, 2014",Eliaquim Mangala,"1,87m",90681,"['France', 'Belgium']",€23.00m,FC Porto,25,"Feb 13, 1991",Estoril Praia
+Centre-Back,right,,"Jul 1, 2014",Jason Denayer,"1,84m",277114,"['Belgium', 'DR Congo']",€4.00m,: Ablöse -,21,"Jun 28, 1995",Al-Fateh SC
+Centre-Back,right,,"Sep 2, 2013",Martín Demichelis,"1,84m",2963,"['Argentina', 'Italy']",€2.00m,: Ablöse €4.50m,35,"Dec 20, 1980",Retired
+Centre-Back,right,,,Tosin Adarabioyo,"1,96m",258878,"['England', 'Nigeria']",,,18,"Sep 24, 1997",Chelsea FC
+Centre-Back,right,,,Cameron Humphreys,"1,87m",277723,['England'],,,17,"Aug 22, 1998",Rotherham United
+Left-Back,left,,"Jul 24, 2010",Aleksandar Kolarov,"1,87m",46156,['Serbia'],€11.00m,: Ablöse €23.86m,30,"Nov 10, 1985",Retired
+Left-Back,left,,"Jul 4, 2011",Gaël Clichy,"1,76m",7449,"['France', 'Martinique']",€9.00m,: Ablöse €7.75m,30,"Jul 26, 1985",Retired
+Left-Back,left,,"Jul 3, 2019",Angeliño,"1,71m",277179,['Spain'],,: Ablöse €12.00m,19,"Jan 4, 1997",AS Roma
+Right-Back,right,,"Jul 1, 2013",Jesús Navas,"1,70m",15956,['Spain'],€20.00m,Sevilla FC,30,"Nov 21, 1985",Sevilla FC
+Right-Back,right,,"Aug 31, 2008",Pablo Zabaleta,"1,76m",20007,"['Argentina', 'Spain']",€14.00m,RCD Espanyol Barcelona,31,"Jan 16, 1985",Retired
+Right-Back,right,,"Jul 1, 2014",Bacary Sagna,"1,76m",26764,"['France', 'Senegal']",€7.00m,Arsenal FC,33,"Feb 14, 1983",Retired
+Right-Back,right,,"Jul 1, 2016",Pablo Maffeo,"1,72m",251876,"['Argentina', 'Spain']",€100k,Manchester City U23,18,"Jul 12, 1997",RCD Mallorca
+Right-Back,right,,,James Horsfield,"1,78m",210202,['England'],,,20,"Nov 30, 1995",Retired
+Defensive Midfield,right,Knock - Return unknown,"Jul 1, 2013",Fernandinho,"1,79m",26267,['Brazil'],€28.00m,Shakhtar Donetsk,31,"May 4, 1985",Club Athletico Paranaense
+Defensive Midfield,right,Calf injury - Return unknown,"Jul 1, 2014",Fernando,"1,83m",51174,"['Brazil', 'Portugal']",€16.00m,FC Porto,28,"Jul 25, 1987",Sport Club Internacional
+Defensive Midfield,right,Torn ankle ligaments - Return unknown,,George Evans,"1,84m",181498,['England'],€500k,,21,"Dec 13, 1994",Wrexham AFC
+Defensive Midfield,right,,"Oct 26, 2015",Luke Brattan,"1,75m",114365,"['Australia', 'England']",€500k,Brisbane Roar,26,"Mar 8, 1990",Macarthur FC
+Central Midfield,right,,"Jul 2, 2010",Yaya Touré,"1,88m",13091,"[""Cote d'Ivoire"", 'England']",€20.00m,FC Barcelona,33,"May 13, 1983",Retired
+Central Midfield,left,,"Jul 17, 2015",Fabian Delph,"1,74m",50362,"['England', 'Guyana']",€10.00m,: Ablöse €11.50m,26,"Nov 21, 1989",Retired
+Central Midfield,right,,,George Glendon,"1,77m",201570,"['England', 'Wales']",,,21,"May 3, 1995",Chester FC
+Central Midfield,right,,"Jul 1, 2016",Aleix García,"1,73m",261504,['Spain'],,Manchester City U23,19,"Jun 28, 1997",Bayer 04 Leverkusen
+Attacking Midfield,right,,"Aug 30, 2015",Kevin De Bruyne,"1,81m",88755,['Belgium'],€60.00m,VfL Wolfsburg,25,"Jun 28, 1991",Manchester City
+Attacking Midfield,left,,"Jul 14, 2010",David Silva,"1,70m",35518,['Spain'],€33.00m,: Ablöse €28.75m,30,"Jan 8, 1986",Retired
+Attacking Midfield,right,,"Aug 24, 2011",Samir Nasri,"1,77m",18935,"['France', 'Algeria']",€21.00m,: Ablöse €27.50m,29,"Jun 26, 1987",Retired
+Attacking Midfield,right,,"Jul 1, 2016",Bersant Celina,"1,81m",229695,"['Kosovo', 'Norway']",,Manchester City U23,19,"Sep 9, 1996",AIK
+Attacking Midfield,right,,"Jul 1, 2018",Manu García,"1,69m",277118,['Spain'],,Manchester City U23,18,"Jan 2, 1998",Aris Thessaloniki
+Left Winger,right,,"Jul 14, 2015",Raheem Sterling,"1,70m",134425,"['England', 'Jamaica']",€45.00m,: Ablöse €63.70m,21,"Dec 8, 1994",Arsenal FC
+Left Winger,right,,,Brandon Barker,"1,80m",214927,['England'],,,19,"Oct 4, 1996",Without Club
+Right Winger,left,,"Jul 19, 2015",Patrick Roberts,"1,67m",225452,['England'],€5.00m,Fulham FC,19,"Feb 5, 1997",Sunderland AFC
+Centre-Forward,right,,"Jul 28, 2011",Sergio Agüero,"1,73m",26399,"['Argentina', 'Spain']",€60.00m,: Ablöse €40.00m,28,"Jun 2, 1988",Retired
+Centre-Forward,right,,"Jan 14, 2015",Wilfried Bony,"1,83m",81808,"[""Cote d'Ivoire"", 'United Kingdom']",€23.00m,: Ablöse €32.30m,27,"Dec 10, 1988",Without Club
+Centre-Forward,left,,"Jul 1, 2015",Kelechi Iheanacho,"1,85m",295330,['Nigeria'],€5.00m,: Ablöse -,19,"Oct 3, 1996",Sevilla FC
+Centre-Forward,right,,,David Faupala,"1,85m",272624,"['France', 'Neukaledonien']",,,19,"Feb 11, 1997",Without Club

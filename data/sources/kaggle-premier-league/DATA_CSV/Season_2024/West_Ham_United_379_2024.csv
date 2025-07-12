@@ -1,0 +1,25 @@
+position,foot,status,joinedOn,name,height,id,nationality,contract,marketValue,joined,age,dateOfBirth,signedFrom
+Goalkeeper,right,,"Jul 1, 2022",Alphonse Areola,"1,95m",120629,"['France', 'Philippines']","Jun 30, 2027",€10.00m,,31,"Feb 27, 1993",: Ablöse €9.30m
+Goalkeeper,left,,"Jul 1, 2024",Wes Foderingham,"1,85m",61697,['England'],"Jun 30, 2026",€900k,"Joined from Sheffield United; date: Jul 1, 2024; fee: free transfer",33,"Jan 14, 1991",Sheffield United
+Goalkeeper,right,,"Jul 1, 2018",Lukasz Fabianski,"1,90m",29692,['Poland'],"Jun 30, 2025",€700k,,39,"Apr 18, 1985",: Ablöse €8.00m
+Centre-Back,left,,"Jul 6, 2024",Maximilian Kilman,"1,94m",525247,"['England', 'Ukraine']","Jun 30, 2031",€38.00m,"Joined from Wolverhampton Wanderers; date: Jul 6, 2024; fee: €47.50m",27,"May 23, 1997",Wolverhampton Wanderers
+Centre-Back,right,,"Aug 10, 2024",Jean-Clair Todibo,"1,90m",605184,"['France', 'French Guiana']","Jun 30, 2025",€35.00m,"On loan from OGC Nice until Jun 30, 2025",24,"Dec 30, 1999",OGC Nice
+Centre-Back,right,,"Aug 22, 2023",Konstantinos Mavropanos,"1,94m",415912,['Greece'],"Jun 30, 2028",€20.00m,,26,"Dec 11, 1997",VfB Stuttgart
+Centre-Back,right,,,Kaelan Casey,"1,85m",845321,['England'],"Jun 30, 2027",€1.00m,,20,"Oct 28, 2004",
+Left-Back,left,,"Aug 23, 2022",Emerson,"1,76m",181778,"['Italy', 'Brazil']","Jun 30, 2026",€12.00m,,30,"Aug 3, 1994",Chelsea FC
+Left-Back,left,,"Jul 3, 2014",Aaron Cresswell,"1,70m",92571,['England'],"Jun 30, 2025",€900k,,34,"Dec 15, 1989",Ipswich Town
+Right-Back,right,,"Aug 13, 2024",Aaron Wan-Bissaka,"1,83m",477758,"['England', 'DR Congo']","Jun 30, 2031",€20.00m,"Joined from Manchester United; date: Aug 13, 2024; fee: €17.60m",26,"Nov 26, 1997",Manchester United
+Right-Back,right,,"Oct 2, 2020",Vladimír Coufal,"1,74m",157672,['Czech Republic'],"Jun 30, 2025",€8.00m,,32,"Aug 22, 1992",: Ablöse €6.00m
+Defensive Midfield,right,,"Aug 10, 2023",Edson Álvarez,"1,90m",401356,['Mexico'],"Jun 30, 2028",€35.00m,,27,"Oct 24, 1997",Ajax Amsterdam
+Defensive Midfield,right,,"Jul 27, 2020",Tomas Soucek,"1,92m",283628,['Czech Republic'],"Jun 30, 2027",€30.00m,,29,"Feb 27, 1995",: Ablöse €16.20m
+Defensive Midfield,right,,"Aug 6, 2024",Guido Rodríguez,"1,85m",342385,"['Argentina', 'Italy']","Jul 1, 2027",€20.00m,"Joined from Real Betis Balompié; date: Aug 6, 2024; fee: free transfer",30,"Apr 12, 1994",Real Betis Balompié
+Central Midfield,right,,"Aug 30, 2024",Carlos Soler,"1,80m",372246,['Spain'],"Jun 30, 2025",€20.00m,"On loan from Paris Saint-Germain until Jun 30, 2025",27,"Jan 2, 1997",Paris Saint-Germain
+Central Midfield,left,,"Aug 31, 2023",Andy Irving,"1,90m",430310,['Scotland'],"Jun 30, 2026",€2.00m,"Returned after loan spell with SK Austria Klagenfurt; date: Jun 30, 2024; fee: End of loan",24,"May 13, 2000",SK Austria Klagenfurt
+Attacking Midfield,left,,"Aug 29, 2022",Lucas Paquetá,"1,80m",444523,"['Brazil', 'Portugal']","Jun 30, 2027",€55.00m,,27,"Aug 27, 1997",Olympique Lyon
+Left Winger,right,,"Aug 3, 2024",Crysencio Summerville,"1,74m",474701,"['Netherlands', 'Suriname']","Jun 30, 2029",€22.00m,"Joined from Leeds United; date: Aug 3, 2024; fee: €29.30m",23,"Oct 30, 2001",Leeds United
+Right Winger,left,,"Aug 27, 2023",Mohammed Kudus,"1,77m",543499,['Ghana'],"Jun 30, 2028",€50.00m,,24,"Aug 2, 2000",Ajax Amsterdam
+Right Winger,left,Team captain,"Jan 31, 2020",Jarrod Bowen,"1,76m",314875,['England'],"Jun 30, 2030",€50.00m,,27,"Dec 20, 1996",Hull City
+Right Winger,left,,"Jul 1, 2024",Luis Guilherme,"1,75m",991800,['Brazil'],"Jun 30, 2029",€24.00m,"Joined from Sociedade Esportiva Palmeiras; date: Jul 1, 2024; fee: €23.00m",18,"Feb 9, 2006",Sociedade Esportiva Palmeiras
+Centre-Forward,right,Achilles tendon irritation - Return unknown,"Aug 5, 2024",Niclas Füllkrug,"1,89m",75489,['Germany'],"Jun 30, 2028",€15.00m,"Joined from Borussia Dortmund; date: Aug 5, 2024; fee: €27.00m",31,"Feb 9, 1993",Borussia Dortmund
+Centre-Forward,right,,"Jan 20, 2023",Danny Ings,"1,77m",134294,['England'],"Jun 30, 2025",€8.00m,,32,"Jul 23, 1992",: Ablöse €12.00m
+Centre-Forward,right,,"Sep 1, 2015",Michail Antonio,"1,80m",104124,"['Jamaica', 'England']","Jun 30, 2025",€4.00m,,34,"Mar 28, 1990",: Ablöse €9.50m

@@ -1,0 +1,29 @@
+position,foot,status,joinedOn,name,height,id,nationality,contract,marketValue,joined,age,dateOfBirth,signedFrom
+Goalkeeper,right,,"Jul 3, 2023",Bart Verbruggen,"1,94m",565093,['Netherlands'],"Jun 30, 2028",€22.00m,,22,"Aug 18, 2002",RSC Anderlecht
+Goalkeeper,right,,"Jul 1, 2018",Jason Steele,"1,88m",73564,['England'],"Jun 30, 2026",€3.50m,,34,"Aug 18, 1990",Sunderland AFC
+Centre-Back,right,,"Sep 10, 2020",Jan Paul van Hecke,"1,89m",576314,['Netherlands'],"Jun 30, 2027",€22.00m,,24,"Jun 8, 2000",NAC Breda
+Centre-Back,left,,"Jul 26, 2023",Igor,"1,88m",380350,['Brazil'],"Jun 30, 2027",€17.00m,,26,"Feb 7, 1998",ACF Fiorentina
+Centre-Back,right,,"Aug 3, 2019",Adam Webster,"1,90m",212847,['England'],"Jun 30, 2026",€15.00m,,29,"Jan 4, 1995",Bristol City
+Centre-Back,right,Team captain,"Apr 30, 2010",Lewis Dunk,"1,92m",148153,['England'],"Jun 30, 2026",€12.00m,,32,"Nov 21, 1991",: Ablöse -
+Left-Back,right,Toe injury - Return unknown,"Aug 24, 2024",Ferdi Kadıoğlu,"1,74m",369316,"['Türkiye', 'Netherlands']","Jun 30, 2028",€30.00m,"Joined from Fenerbahce; date: Aug 24, 2024; fee: €30.00m",25,"Oct 7, 1999",Fenerbahce
+Left-Back,left,,"Aug 16, 2022",Pervis Estupiñán,"1,75m",349599,"['Ecuador', 'Spain']","Jun 30, 2027",€30.00m,,26,"Jan 21, 1998",Villarreal CF
+Left-Back,left,,"Jul 1, 2024",Imari Samuels,"1,87m",565846,"['England', 'Nigeria']","Jun 30, 2025",€100k,"Internal transfer: Brighton & Hove Albion U21; date: Jul 1, 2024",21,"Feb 5, 2003",Brighton & Hove Albion U21
+Right-Back,right,,"Jul 1, 2023",Jack Hinshelwood,"1,82m",867688,['England'],"Jun 30, 2028",€20.00m,,19,"Apr 11, 2005",Brighton & Hove Albion U21
+Right-Back,right,,"Jan 31, 2020",Tariq Lamptey,"1,63m",504148,"['Ghana', 'England']","Jun 30, 2025",€12.00m,,24,"Sep 30, 2000",Chelsea FC U23
+Right-Back,right,,"Jul 29, 2020",Joël Veltman,"1,84m",111195,['Netherlands'],"Jun 30, 2025",€8.00m,,32,"Jan 15, 1992",Ajax Amsterdam
+Defensive Midfield,right,,"Jul 5, 2024",Mats Wieffer,"1,88m",415381,['Netherlands'],"Jun 30, 2029",€30.00m,"Joined from Feyenoord Rotterdam; date: Jul 5, 2024; fee: €32.00m",24,"Nov 16, 1999",Feyenoord Rotterdam
+Defensive Midfield,left,,"Aug 29, 2023",Carlos Baleba,"1,79m",973085,['Cameroon'],"Jun 30, 2028",€22.00m,,20,"Jan 3, 2004",LOSC Lille
+Central Midfield,left,,"Aug 26, 2024",Matt O'Riley,"1,89m",406634,"['Denmark', 'England']","Jun 30, 2029",€20.00m,"Joined from Celtic FC; date: Aug 26, 2024; fee: €29.50m",23,"Nov 21, 2000",Celtic FC
+Central Midfield,right,,"Oct 4, 2020",Jakub Moder,"1,91m",384461,['Poland'],"Jun 30, 2025",€10.00m,,25,"Apr 7, 1999",Lech Poznan
+Central Midfield,right,,"Jan 30, 2023",Yasin Ayari,"1,72m",667287,"['Sweden', 'Tunisia']","Jun 30, 2027",€4.50m,,21,"Oct 6, 2003",AIK
+Central Midfield,right,,"Jul 1, 2023",James Milner,"1,75m",3333,['England'],"Jun 30, 2025",€1.00m,,38,"Jan 4, 1986",: Ablöse free transfer
+Attacking Midfield,right,,"Jul 1, 2022",Julio Enciso,"1,73m",660867,['Paraguay'],"Jun 30, 2026",€22.00m,,20,"Jan 23, 2004",Club Libertad Asunción
+Left Winger,right,,"Aug 10, 2021",Kaoru Mitoma,"1,78m",504849,['Japan'],"Jun 30, 2027",€45.00m,,27,"May 20, 1997",Kawasaki Frontale
+Right Winger,right,,"Jul 1, 2022",Simon Adingra,"1,75m",658536,"[""Cote d'Ivoire""]","Jun 30, 2026",€30.00m,,22,"Jan 1, 2002",FC Nordsjaelland
+Right Winger,left,Muscle injury - Return unknown,"Jul 1, 2024",Yankuba Minteh,"1,80m",1012534,['The Gambia'],"Jun 30, 2029",€28.00m,"Joined from Newcastle United; date: Jul 1, 2024; fee: €35.00m",20,"Jul 22, 2004",Newcastle United
+Right Winger,left,,"Aug 14, 2024",Brajan Gruda,"1,78m",700106,"['Germany', 'Albania']","Jun 30, 2028",€25.00m,"Joined from 1.FSV Mainz 05; date: Aug 14, 2024; fee: €31.50m",20,"May 31, 2004",1.FSV Mainz 05
+Right Winger,left,Knee injury - Return unknown,"Jul 1, 2013",Solly March,"1,80m",209212,['England'],"Jun 30, 2026",€15.00m,,30,"Jul 20, 1994",Brighton & Hove Albion U18
+Centre-Forward,right,,"Jul 1, 2023",João Pedro,"1,82m",626724,['Brazil'],"Jun 30, 2028",€50.00m,,23,"Sep 26, 2001",Watford FC
+Centre-Forward,right,,"Jul 1, 2022",Evan Ferguson,"1,88m",648046,"['Ireland', 'England']","Jun 30, 2029",€45.00m,,20,"Oct 19, 2004",Brighton & Hove Albion U21
+Centre-Forward,left,,"Aug 19, 2024",Georginio Rutter,"1,82m",538977,"['France', 'Martinique']","Jun 30, 2028",€28.00m,"Joined from Leeds United; date: Aug 19, 2024; fee: €46.70m",22,"Apr 20, 2002",Leeds United
+Centre-Forward,right,,"Oct 18, 2020",Danny Welbeck,"1,85m",67063,"['England', 'Ghana']","Jun 30, 2026",€5.00m,,33,"Nov 26, 1990",Watford FC

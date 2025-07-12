@@ -1,0 +1,42 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jul 1, 1988",Andy Dibble,"1,89m",39339,['Wales'],: Ablöse €304k,31,"May 8, 1965",Retired
+Goalkeeper,left,"Jul 20, 1990",Tony Coton,"1,88m",176010,['England'],: Ablöse €1.15m,35,"May 19, 1961",Retired
+Goalkeeper,,"Jul 1, 1990",Martyn Margetson,"1,83m",12718,['Wales'],Unknown,24,"Sep 8, 1971",Retired
+Goalkeeper,,"Aug 1, 1995",Eike Immel,,73587,['Germany'],: Ablöse €500k,35,"Nov 27, 1960",Retired
+Centre-Back,,"Jul 1, 1993",Alan Kernaghan,,14619,"['Ireland', 'England']",: Ablöse €2.40m,29,"Apr 25, 1967",Retired
+Centre-Back,,"Aug 1, 1991",Keith Curle,"1,83m",101316,['England'],: Ablöse ?,32,"Nov 14, 1963",Retired
+Centre-Back,,"Jan 1, 1992",Michel Vonk,,150889,['Netherlands'],: Ablöse ?,27,"Oct 28, 1968",Retired
+Centre-Back,,"Aug 17, 1995",Kit Symons,"1,85m",175935,"['Wales', 'England']",: Ablöse €1.50m,25,"Mar 8, 1971",Retired
+Centre-Back,,"Jul 1, 1988",David Brightwell,"1,85m",222212,['England'],: Ablöse -,25,"Jan 7, 1971",Retired
+Left-Back,left,"Jan 1, 1996",Michael Frontzeck,"1,84m",77398,['Germany'],: Ablöse €420k,32,"Mar 26, 1964",Retired
+Left-Back,left,"Aug 1, 1992",Terry Phelan,"1,72m",102495,"['Ireland', 'England']",: Ablöse ?,29,"Mar 16, 1967",Retired
+Left-Back,,"Jul 9, 1993",Rae Ingram,,226942,['England'],: Ablöse -,21,"Dec 6, 1974",Retired
+Left-Back,,"Jul 1, 1992",Chris Beech,"1,78m",1043525,['England'],: Ablöse -,20,"Nov 5, 1975",Retired
+Left-Back,left,"Jul 1, 1995",Eduard Abazaj,"1,85m",221662,"['Albania', 'Portugal']",Boavista FC,32,"Nov 29, 1963",Retired
+Right-Back,right,"Jul 1, 1992",Richard Edghill,"1,75m",13724,['England'],: Ablöse -,21,"Sep 23, 1974",Retired
+Right-Back,right,"Jan 1, 1996",Giuseppe Mazzarelli,"1,80m",3511,"['Switzerland', 'Italy']",: Ablöse ?,23,"Aug 14, 1972",Retired
+Right-Back,right,"Jul 1, 1986",Ian Brightwell,"1,78m",67373,['England'],: Ablöse -,28,"Apr 9, 1968",Retired
+Right-Back,right,"Apr 1, 1996",Scott Hiley,"1,75m",211250,['England'],: Ablöse €313k,27,"Sep 27, 1968",Retired
+Right-Back,right,"Jul 15, 1992",John Foster,"1,78m",226719,['England'],: Ablöse -,22,"Sep 19, 1973",Retired
+Defensive Midfield,right,"Jul 1, 1994",Lee Crooks,"1,88m",21363,['England'],: Ablöse -,18,"Jan 14, 1978",Ossett Town (- 2018)
+Central Midfield,right,"Nov 1, 1995",Martin Phillips,"1,68m",21266,['England'],: Ablöse €750k,20,"Mar 13, 1976",Retired
+Central Midfield,,"Jul 1, 1990",Steve Lomas,,3801,"['Northern Ireland', 'Germany']",: Ablöse -,22,"Jan 18, 1974",Retired
+Central Midfield,right,,Garry Flitcroft,"1,80m",3706,['England'],,23,"Nov 6, 1972",Retired
+Central Midfield,,"Jul 1, 1994",Michael Brown,,13509,['England'],: Ablöse -,19,"Jan 25, 1977",Retired
+Central Midfield,,,David Kerr,"1,80m",226944,['Scotland'],,21,"Sep 6, 1974",Retired
+Central Midfield,right,"Oct 28, 1986",Paul Lake,"1,83m",177122,['England'],: Ablöse -,27,"Oct 28, 1968",Retired
+Right Midfield,right,"Jul 1, 1994",Nicky Summerbee,"1,80m",10378,['England'],Swindon Town,24,"Aug 26, 1971",Retired
+Right Midfield,right,"Mar 6, 1992",Fitzroy Simpson,"1,73m",157682,"['Jamaica', 'England']",Swindon Town,26,"Feb 26, 1970",Retired
+Left Midfield,right,"Dec 1, 1995",Ronnie Ekelund,"1,79m",168498,['Denmark'],: Ablöse ?,23,"Aug 21, 1972",Retired
+Attacking Midfield,,"Jul 1, 1995",Giorgi Kinkladze,,3425,['Georgia'],: Ablöse €4.00m,22,"Jul 6, 1973",Retired
+Attacking Midfield,,"Jan 24, 1996",Nigel Clough,"1,75m",101322,['England'],: Ablöse €1.70m,30,"Mar 19, 1966",Retired
+Left Winger,left,"Mar 1, 1994",Peter Beagrie,,138385,['England'],: Ablöse €1.70m,30,"Nov 28, 1965",Retired
+Left Winger,right,,Aled Rowlands,,774252,['Wales'],,18,"Jun 9, 1978",Retired
+Centre-Forward,,"Mar 10, 1994",Paul Walsh,"1,73m",202797,['England'],: Ablöse €850k,33,"Oct 1, 1962",Retired
+Centre-Forward,,"Sep 1, 1995",Gerry Creaney,"1,78m",215645,['Scotland'],: Ablöse €1.00m,26,"Apr 13, 1970",Retired
+Centre-Forward,,"Mar 21, 1990",Niall Quinn,,104110,['Ireland'],: Ablöse €920k,29,"Oct 6, 1966",Retired
+Centre-Forward,,"Jul 1, 1993",Carl Griffiths,"1,75m",222217,"['Wales', 'England']",: Ablöse €600k,24,"Jul 16, 1971",Retired
+Centre-Forward,,"Jul 15, 1992",Adie Mike,,228081,['England'],: Ablöse -,22,"Nov 16, 1973",Retired
+Centre-Forward,,,Scott Thomas,"1,75m",228268,['England'],,21,"Oct 30, 1974",Retired
+Centre-Forward,right,"Mar 2, 1994",Uwe Rösler,"1,85m",1440,['Germany'],: Ablöse €1.00m,27,"Nov 15, 1968",Retired
+Centre-Forward,left,"Jan 1, 1996",Mikheil Kavelashvili,"1,80m",4933,['Georgia'],: Ablöse €2.00m,24,"Jul 22, 1971",Retired

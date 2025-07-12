@@ -97,6 +97,35 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - **Go Path**: Add ~/go/bin to PATH: `export PATH=$HOME/go/bin:$PATH`
 - **WSL Compatibility**: Redis task queues work perfectly, no MCP needed (#1)
 
+### ⚠️ Critical Lessons Learned & Best Practices
+
+#### 🕒 Date/Time Handling (Critical Issue #40)
+- **NEVER** manipulate timezone offsets manually in date parsing
+- **Use UTC date parsing**: `new Date(dateString + ' UTC')` to avoid timezone conversion
+- **Example Bug**: `new Date(tempDate.getTime() + tempDate.getTimezoneOffset() * 60000)` converted "August 18" to "August 17"
+- **Match Linking**: Date inconsistencies caused 0% match rate, fixed to 85.8% match rate
+- **Best Practice**: Always validate date parsing with known test cases before production use
+
+#### 🔧 Regex Patterns in JavaScript Strings (Critical Issue #41)
+- **NEVER** use double-escaped regex in JavaScript: `\\d+` becomes literal `\d+` string, not regex
+- **Correct**: `/(\d+)/` or `new RegExp('(\\d+)')`
+- **Bug Impact**: Caused 100% parsing failure in goal minute extraction
+- **Best Practice**: Test regex patterns immediately with simple examples
+
+#### 🚀 API Process Management (Critical Issue #42)
+- **NEVER** create multiple API binaries (`api`, `api-new`, etc.) 
+- **NEVER** change API port from 8081 without coordinated frontend update
+- **Use**: `./scripts/dev/restart-api-robust.sh` for all API management
+- **Check processes**: Always verify running processes before starting new ones
+- **Best Practice**: Single source of truth for API binary and consistent port usage
+
+#### 📊 Data Import & Validation (Critical Issue #43)
+- **Always validate CSV parsing** with known data samples before bulk processing
+- **Test player/team linking** on small datasets before production runs
+- **Implement progressive debugging**: Start with 1 match, then 10, then 50, then production
+- **Match Linking Strategy**: Use teams + date, not CSV IDs for cross-source linking
+- **Data Quality**: Verify 80%+ success rates before considering import successful
+
 ### 🎯 UI Patterns
 - **Pagination**: 50 items per page, include total count, reset to page 1 on filter change (#38)
 - **Team Filters**: Use team dropdown with ID values but display names, filter by `current_team_id` (#39)
@@ -136,16 +165,34 @@ node scripts/agent-cli.js status
 **Key Discovery**: Squad data must be imported first to properly map goal scorers to players
 
 **Data Sources Identified**:
-- **OpenFootball Project**: Complete historical JSON data (1992-2025) - FREE
+- **Kaggle Premier League Dataset**: Complete historical squad data (1992-2024) - FREE ✅ **IMPLEMENTED**
+- **Fantasy Premier League API**: Current season player data - FREE ✅ **IMPLEMENTED**
 - **API-Football**: Comprehensive match events and player stats - FREE tier + paid plans  
 - **Football-Data.co.uk**: Historical CSV files with match statistics - FREE
-- **Fantasy Premier League API**: Current season player data - FREE
 
 **Implementation Priority Order**:
-1. **Squad Data Import** - All players + team affiliations by season (1992-2025)
-2. **Player Name Normalization** - Handle name variations across data sources
-3. **Goal Scorer Import** - Match events with proper player/team references
-4. **Database Schema Enhancement** - Extended match_events and goals tables
+1. **Squad Data Import** - All players + team affiliations by season (1992-2025) ✅ **COMPLETE**
+2. **Player Name Normalization** - Handle name variations across data sources ✅ **COMPLETE**
+3. **Goal Scorer Import Phase 1** - Match events with proper player/team references ⚡ **IN PROGRESS**
+4. **Database Schema Enhancement** - Extended match_events and goals tables ✅ **COMPLETE**
+
+**🔄 GOALS IMPORT STATUS (Phase 1: 2001-2022)** - ✅ **MAJOR BREAKTHROUGH**:
+- **Production Script**: `scripts/data/import-goals-to-existing-matches.js` ✅ **WORKING**
+- **Data Source**: Kaggle Premier League Match Events (21 seasons) ✅ Downloaded
+- **Critical Fixes Applied**: Timezone handling, regex patterns, API management ✅ **RESOLVED**
+- **Test Results**: 986 goals successfully imported from 500 matches ✅ **VERIFIED**
+- **Match Rate**: 85.8% (429/500 matches found) ✅ **EXCELLENT**
+- **Player Linking**: 89.5% success rate (986 goals, 115 linking issues) ✅ **STRONG**
+- **Database Status**: 59,368 total goals in database ✅ **MASSIVE IMPROVEMENT**
+- **API Integration**: Goal events serving correctly via REST API ✅ **WORKING**
+- **Frontend Display**: Timeline shows goal scorer information ✅ **WORKING**
+
+**Next Steps for Complete Data Integrity**:
+1. **Scale to Full Dataset**: Process all 7,979 matches (currently 500/7,979 = 6.3% complete)
+2. **Address 14.2% Missing Matches**: Investigate and resolve 71 unmatched fixtures
+3. **Improve Player Linking**: Target 95%+ success rate (currently 89.5%)
+4. **Add Data Validation**: Implement cross-referencing with actual match scores
+5. **Expand Event Types**: Include assists, cards, substitutions beyond just goals
 
 **Target Features**:
 - Goals per player per season
@@ -153,6 +200,43 @@ node scripts/agent-cli.js status
 - Goal timing and type analysis
 - Assist tracking
 - Transfer window considerations
+
+## 🎯 Data Integrity & Completeness Roadmap
+
+### Phase 2: Complete Historical Goals Import (HIGH PRIORITY)
+- **Goal**: Process all 7,979 matches from Kaggle dataset (2001-2022)
+- **Current**: 500 matches processed (6.3% complete)
+- **Target**: 95%+ match rate, 95%+ player linking success
+- **Expected Output**: ~20,000+ goals for 21 seasons of data
+- **Script**: `scripts/data/import-goals-to-existing-matches.js`
+
+### Phase 3: Data Quality & Validation (HIGH PRIORITY)
+- **Match Score Validation**: Cross-reference imported goals with actual match scores
+- **Duplicate Detection**: Identify and resolve duplicate goal entries
+- **Missing Player Resolution**: Manual review of 115 failed player linkings
+- **Date Accuracy**: Verify match dates align with official Premier League records
+- **Performance Metrics**: Track import success rates and data quality over time
+
+### Phase 4: Comprehensive Event Data (MEDIUM PRIORITY)
+- **Assists Import**: Link assist data to goal events
+- **Cards & Bookings**: Yellow/red card events with player attribution
+- **Substitutions**: Player substitution events with timing
+- **Match Officials**: Referee assignment and performance tracking
+- **Venue Information**: Stadium capacity, attendance accuracy
+
+### Phase 5: Data Pipeline Automation (MEDIUM PRIORITY)
+- **Scheduled Imports**: Automated weekly/monthly data refreshes
+- **Error Monitoring**: Alert system for import failures or data inconsistencies
+- **Data Lineage**: Track data source provenance and transformation history
+- **Backup & Recovery**: Automated database backups with point-in-time recovery
+- **API Rate Limiting**: Implement proper throttling for external data sources
+
+### Phase 6: Advanced Analytics Support (LOW PRIORITY)
+- **Player Performance Metrics**: Goals per 90 minutes, conversion rates
+- **Team Formation Analysis**: Starting lineups and tactical formations
+- **Weather & Pitch Conditions**: Match environment data
+- **Transfer Window Impact**: Performance correlation with squad changes
+- **Historical Trends**: Multi-season trend analysis and prediction models
 
 ## Project Overview
 

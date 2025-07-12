@@ -1,0 +1,35 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,,"Aug 31, 2012",Hugo Lloris,"1,88m",17965,['France'],€25.00m,,: Ablöse €12.60m,32,"Dec 26, 1986",Los Angeles FC
+Goalkeeper,right,,"Aug 23, 2017",Paulo Gazzaniga,"1,95m",195488,"['Argentina', 'Italy']",€2.00m,,Southampton FC,27,"Jan 2, 1992",Girona FC
+Goalkeeper,right,,"Oct 14, 2019",Michel Vorm,"1,83m",26276,"['Netherlands', 'Suriname']",€1.00m,,Without Club,35,"Oct 20, 1983",Retired
+Goalkeeper,right,,"Jul 1, 2019",Alfie Whiteman,"1,88m",282823,['England'],,,Tottenham Hotspur U23,20,"Oct 2, 1998",Tottenham Hotspur
+Centre-Back,right,"Yellow card suspension - until Nov 24, 2024 - Süper Lig - 1 matchday","Aug 23, 2017",Davinson Sánchez,"1,87m",341429,['Colombia'],€55.00m,,Ajax Amsterdam,23,"Jun 12, 1996",Galatasaray
+Centre-Back,right,,"Jul 8, 2015",Toby Alderweireld,"1,87m",42710,['Belgium'],€40.00m,,: Ablöse €16.00m,30,"Mar 2, 1989",Royal Antwerp FC
+Centre-Back,right,,"Jul 31, 2014",Eric Dier,"1,91m",175722,"['England', 'Portugal']",€40.00m,"Returned after loan spell with Bayern Munich; date: Jun 30, 2024; fee: End of loan",Sporting CP,25,"Jan 15, 1994",Bayern Munich
+Centre-Back,left,Achilles tendon problems - Return unknown,"Jul 12, 2012",Jan Vertonghen,"1,89m",43250,['Belgium'],€28.00m,,: Ablöse €12.50m,32,"Apr 24, 1987",RSC Anderlecht
+Centre-Back,left,,"Jul 23, 2014",Ben Davies,"1,81m",192765,['Wales'],€25.00m,,: Ablöse €12.65m,26,"Apr 24, 1993",Tottenham Hotspur
+Centre-Back,right,,"Jul 1, 2016",Cameron Carter-Vickers,"1,83m",341049,"['United States', 'England']",€1.50m,,Tottenham Hotspur U23,21,"Dec 31, 1997",Celtic FC
+Centre-Back,right,,,Timothy Eyoma,"1,83m",406559,"['England', 'Nigeria']",,,,19,"Jan 29, 2000",Northampton Town
+Left-Back,left,,"Jul 25, 2007",Danny Rose,"1,73m",50174,"['England', 'Jamaica']",€25.00m,,Leeds United U18,28,"Jul 2, 1990",Retired
+Right-Back,right,Hamstring injury - Return unknown,"Jul 1, 2015",Kieran Trippier,"1,73m",95810,['England'],€35.00m,,: Ablöse €4.90m,28,"Sep 19, 1990",Newcastle United
+Right-Back,right,,"Aug 31, 2017",Serge Aurier,"1,76m",127032,"[""Cote d'Ivoire""]",€18.00m,,: Ablöse €25.00m,26,"Dec 24, 1992",Without Club
+Right-Back,right,,"Aug 30, 2017",Juan Foyth,"1,87m",480763,"['Argentina', 'Spain']",€15.00m,,Club Estudiantes de La Plata,21,"Jan 12, 1998",Villarreal CF
+Right-Back,right,,"Jul 1, 2017",Kyle Walker-Peters,"1,73m",341051,"['England', 'Jamaica']",€3.50m,,Tottenham Hotspur U23,22,"Apr 13, 1997",Southampton FC
+Defensive Midfield,right,,"Jul 1, 2016",Harry Winks,"1,78m",249126,['England'],€25.00m,,Tottenham Hotspur U23,23,"Feb 2, 1996",Leicester City
+Defensive Midfield,right,,"Jul 1, 2016",Victor Wanyama,"1,84m",77760,['Kenya'],€20.00m,,Southampton FC,28,"Jun 25, 1991",CF Montréal
+Defensive Midfield,right,,"Jul 1, 2018",Oliver Skipp,"1,75m",406638,['England'],€5.00m,,Tottenham Hotspur U23,18,"Sep 16, 2000",Leicester City
+Defensive Midfield,right,,,George Marsh,"1,77m",431424,['England'],,,,20,"Nov 5, 1998",Larne FC
+Central Midfield,right,,"Aug 30, 2013",Christian Eriksen,"1,82m",69633,['Denmark'],€100.00m,,: Ablöse €14.15m,27,"Feb 14, 1992",Manchester United
+Central Midfield,right,,"Aug 31, 2016",Moussa Sissoko,"1,87m",46001,"['France', 'Mali']",€25.00m,,Newcastle United,29,"Aug 16, 1989",Watford FC
+Central Midfield,left,,"Aug 29, 2012",Mousa Dembélé,"1,85m",19368,"['Belgium', 'Mali']",€12.00m,,Fulham FC,31,"Jul 16, 1987",Retired
+Central Midfield,right,,"Jul 1, 2015",Josh Onomah,"1,85m",243589,"['England', 'Nigeria']",€3.00m,,Tottenham Hotspur U18,22,"Apr 27, 1997",Blackpool FC
+Central Midfield,right,,,Luke Amos,"1,79m",258912,"['England', 'Nigeria']",€100k,,,22,"Feb 23, 1997",Hibernian FC
+Attacking Midfield,right,,"Feb 2, 2015",Dele Alli,"1,88m",207929,"['England', 'Nigeria']",€90.00m,,Milton Keynes Dons,23,"Apr 11, 1996",Without Club
+Left Winger,both,Team captain,"Aug 28, 2015",Heung-min Son,"1,84m",91845,"['Korea, South']",€80.00m,,Bayer 04 Leverkusen,26,"Jul 8, 1992",Tottenham Hotspur
+Left Winger,right,,"Aug 31, 2016",Georges-Kevin N'Koudou,"1,72m",215679,"['Cameroon', 'France']",€5.00m,,Olympique Marseille,24,"Feb 13, 1995",Damac FC
+Right Winger,right,,"Jan 31, 2018",Lucas Moura,"1,72m",77100,['Brazil'],€40.00m,,: Ablöse €28.40m,26,"Aug 13, 1992",São Paulo Futebol Clube
+Right Winger,left,,"Aug 30, 2013",Erik Lamela,"1,84m",111630,"['Argentina', 'Spain']",€18.00m,,: Ablöse €30.00m,27,"Mar 4, 1992",AEK Athens
+Centre-Forward,right,,"Jul 1, 2010",Harry Kane,"1,88m",132098,['England'],€150.00m,,Tottenham Hotspur U18,25,"Jul 28, 1993",Bayern Munich
+Centre-Forward,left,,"Jul 12, 2016",Vincent Janssen,"1,85m",207015,['Netherlands'],€8.00m,,AZ Alkmaar,25,"Jun 15, 1994",Royal Antwerp FC
+Centre-Forward,right,,"Aug 31, 2017",Fernando Llorente,"1,95m",35564,['Spain'],€3.50m,,: Ablöse €15.10m,34,"Feb 26, 1985",Retired
+Centre-Forward,right,,,Kazaiah Sterling,"1,75m",357397,"['England', 'Jamaica']",,,,20,"Nov 9, 1998",Pittsburgh Riverhounds SC

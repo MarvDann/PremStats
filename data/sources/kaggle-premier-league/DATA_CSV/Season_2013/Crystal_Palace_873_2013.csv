@@ -1,0 +1,46 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jan 31, 2014",Wayne Hennessey,"1,98m",45494,['Wales'],€3.00m,Wolverhampton Wanderers,27,"Jan 24, 1987",Without Club
+Goalkeeper,right,,"Jul 13, 2004",Julián Speroni,"1,86m",12814,"['Argentina', 'Italy']",€500k,Dundee FC,35,"May 18, 1979",Retired
+Goalkeeper,right,,"Jul 1, 2010",Lewis Price,"1,91m",13350,"['Wales', 'England']",€500k,: Ablöse free transfer,29,"Jul 19, 1984",Retired
+Goalkeeper,,,"Aug 13, 2013",Neil Alexander,"1,85m",12682,['Scotland'],€250k,: Ablöse free transfer,36,"Mar 10, 1978",Retired
+Goalkeeper,right,,,Ross Fitzsimons,"1,85m",211076,['England'],,,20,"May 28, 1994",Scunthorpe United
+Centre-Back,right,,"Jan 31, 2014",Scott Dann,"1,94m",62688,['England'],€3.00m,Blackburn Rovers,27,"Feb 14, 1987",Without Club
+Centre-Back,right,,"Sep 2, 2013",Adrian Mariappa,"1,79m",38145,"['Jamaica', 'England']",€2.50m,Reading FC,27,"Oct 3, 1986",Wealdstone FC
+Centre-Back,right,,"Aug 8, 2012",Peter Ramage,"1,85m",28801,"['England', 'Scotland']",€1.00m,: Ablöse free transfer,30,"Nov 22, 1983",Retired
+Centre-Back,right,,"Jul 1, 2008",Patrick McCarthy,"1,85m",29974,['Ireland'],€1.00m,Charlton Athletic,31,"May 31, 1983",Retired
+Centre-Back,left,,"Aug 31, 2012",Damien Delaney,"1,90m",36861,['Ireland'],€1.00m,Ipswich Town,32,"Jul 20, 1981",Retired
+Centre-Back,right,,"Sep 18, 2012",Danny Gabbidon,"1,78m",12709,"['Wales', 'Jamaica']",€500k,Without Club,34,"Aug 8, 1979",Retired
+Centre-Back,right,,,Alex Wynter,"1,83m",137150,"['England', 'Jamaica']",,,20,"Sep 15, 1993",Retired
+Centre-Back,right,Red card suspension -  - National League,"Jul 1, 2013",Ryan Inniss,"1,97m",183284,"['England', 'Trinidad and Tobago']",,Crystal Palace U18,19,"Jun 5, 1995",Forest Green Rovers
+Centre-Back,right,,,Quade Taylor,"1,91m",244140,['England'],,,20,"Dec 11, 1993",Cray Wanderers FC
+Left-Back,both,,"Jul 1, 2011",Jonathan Parr,"1,82m",41665,['Norway'],€1.50m,: Ablöse ?,25,"Oct 21, 1988",Retired
+Left-Back,left,,"Jan 31, 2011",Dean Moxey,"1,80m",77559,['England'],€1.00m,: Ablöse ?,28,"Jan 14, 1986",Torquay United
+Left-Back,left,,"Aug 16, 2013",Florian Marange,"1,81m",33942,['France'],€750k,: Ablöse free transfer,28,"Mar 3, 1986",Retired
+Left-Back,left,,"Jul 1, 2010",Matt Parsons,"1,78m",158263,['England'],€250k,: Ablöse -,22,"Dec 25, 1991",Without Club
+Left-Back,left,,,Jerome Binnom-Williams,"1,87m",245334,['England'],,,19,"Mar 7, 1995",Dulwich Hamlet
+Right-Back,right,Team captain,"Jul 1, 2012",Joel Ward,"1,86m",92572,['England'],€2.00m,: Ablöse €650k,24,"Oct 29, 1989",Crystal Palace
+Defensive Midfield,right,,"Aug 12, 2011",Mile Jedinak,"1,87m",28336,"['Australia', 'Croatia']",€2.50m,Genclerbirligi Ankara,29,"Aug 3, 1984",Retired
+Defensive Midfield,right,,"Sep 2, 2013",Adlène Guédioura,"1,78m",74768,"['Algeria', 'France']",€2.50m,: Ablöse €3.50m,28,"Nov 12, 1985",Retired
+Central Midfield,left,,"Jan 31, 2014",Joe Ledley,"1,83m",34409,['Wales'],€3.50m,Celtic FC,27,"Jan 23, 1987",Retired
+Central Midfield,left,,"Jan 31, 2014",Jason Puncheon,"1,73m",47995,"['England', 'Jamaica']",€3.00m,Southampton FC,28,"Jun 18, 1986",Kissos Kissonergas
+Central Midfield,left,,"Sep 2, 2013",Barry Bannan,"1,69m",61561,['Scotland'],€3.00m,: Ablöse €2.10m,24,"Dec 1, 1989",Sheffield Wednesday
+Central Midfield,right,,"Jul 18, 2013",José Campaña,"1,79m",120095,['Spain'],€2.00m,Sevilla FC,21,"May 31, 1993",UD Las Palmas
+Central Midfield,right,,"Jul 9, 2011",Kagisho Dikgacoi,"1,83m",63285,['South Africa'],€2.00m,Fulham FC,29,"Nov 24, 1984",Retired
+Central Midfield,left,,"Aug 1, 2010",Owen Garvan,"1,83m",33249,['Ireland'],€1.50m,Ipswich Town,26,"Jan 29, 1988",Retired
+Central Midfield,right,,"Aug 18, 2010",Stuart O'Keefe,"1,73m",93626,['England'],€500k,Southend United,23,"Mar 4, 1991",Chatham Town
+Central Midfield,left,,"Jan 1, 2014",Hiram Boateng,"1,82m",244125,"['England', 'Ghana']",,Crystal Palace U18,18,"Jan 8, 1996",Mansfield Town
+Left Midfield,right,,,Kyle De Silva,"1,70m",212730,['England'],€250k,,20,"Nov 29, 1993",Sevenoaks Town
+Attacking Midfield,both,,"Jul 1, 2011",Jonny Williams,"1,68m",170322,"['Wales', 'England']",€2.00m,: Ablöse -,20,"Oct 9, 1993",Gillingham FC
+Attacking Midfield,right,,"Aug 2, 2013",Elliot Grandin,"1,80m",56785,"['France', 'DR Congo']",€1.20m,Blackpool FC,26,"Oct 17, 1987",Retired
+Left Winger,right,,"Aug 24, 2012",Yannick Bolasie,"1,85m",75471,"['DR Congo', 'England']",€2.00m,: Ablöse €630k,25,"May 24, 1989",Criciúma Esporte Clube
+Left Winger,left,,"Jul 10, 2013",Jerome Thomas,"1,77m",3560,"['England', 'Guyana']",€1.50m,West Bromwich Albion,31,"Mar 23, 1983",Retired
+Right Winger,left,,"Jan 30, 2014",Tom Ince,"1,78m",157368,"['England', 'Barbados']",€8.00m,Blackpool FC,22,"Jan 30, 1992",Watford FC
+Right Winger,left,,"Aug 31, 2013",Jimmy Kébé,"1,87m",33822,"['Mali', 'France']",€1.00m,Reading FC,30,"Jan 19, 1984",Retired
+Centre-Forward,right,,"Jul 3, 2013",Dwight Gayle,"1,74m",196522,"['England', 'Jamaica']",€4.00m,Peterborough United,24,"Oct 17, 1989",Hibernian FC
+Centre-Forward,right,,"Jul 1, 2011",Glenn Murray,"1,86m",45693,['England'],€3.50m,Brighton & Hove Albion,30,"Sep 25, 1983",Retired
+Centre-Forward,right,,"Aug 12, 2013",Marouane Chamakh,"1,88m",19085,"['Morocco', 'France']",€2.50m,Arsenal FC,30,"Jan 10, 1984",Retired
+Centre-Forward,right,,"Sep 2, 2013",Cameron Jerome,"1,85m",35855,"['Grenada', 'England']",€2.00m,Stoke City,27,"Aug 14, 1986",Without Club
+Centre-Forward,right,,"Jul 2, 2013",Stephen Dobbie,"1,78m",12693,['Scotland'],€1.00m,Brighton & Hove Albion,31,"Dec 5, 1982",Retired
+Centre-Forward,right,,"Jul 20, 2013",Kevin Phillips,"1,70m",3131,['England'],€250k,Blackpool FC,40,"Jul 25, 1973",Retired
+Centre-Forward,right,,"Jul 4, 2012",Aaron Wilbraham,"1,91m",67202,['England'],€250k,: Ablöse free transfer,34,"Oct 21, 1979",Retired
+Centre-Forward,right,,"Jan 31, 2012",Kwesi Appiah,"1,80m",121223,"['Ghana', 'England']",,Margate FC,23,"Aug 12, 1990",Boreham Wood FC

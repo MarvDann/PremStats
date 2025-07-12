@@ -1,0 +1,43 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 1998",Thomas Sörensen,"1,96m",3473,['Denmark'],Odense Boldklub,27,"Jun 12, 1976",Retired
+Goalkeeper,right,"Jul 1, 1999",Michael Ingham,"1,93m",4292,"['Northern Ireland', 'England']",Cliftonville FC,22,"Jul 9, 1980",Retired
+Goalkeeper,left,"Dec 9, 2002",Thomas Myhre,"1,88m",3566,['Norway'],Besiktas JK,29,"Oct 16, 1973",Retired
+Goalkeeper,right,"Jul 1, 2000",Jürgen Macho,"1,92m",3567,['Austria'],: Ablöse free transfer,25,"Aug 24, 1977",Retired
+Goalkeeper,,,Craig Turns,,4125,['England'],,20,"Nov 4, 1982",Without Club
+Goalkeeper,left,"Jan 10, 2003",Mart Poom,"1,95m",3715,['Estonia'],: Ablöse €3.75m,31,"Feb 3, 1972",Retired
+Centre-Back,left,"Jul 1, 2002",Phil Babb,"1,82m",3283,"['Ireland', 'England']",Sporting CP,32,"Nov 30, 1970",Retired
+Centre-Back,right,"Jan 1, 2002",Joachim Björklund,"1,86m",3642,['Sweden'],: Ablöse €2.23m,32,"Mar 15, 1971",Retired
+Centre-Back,both,"Aug 31, 2000",Émerson Thome,"1,88m",3643,"['Brazil', 'Portugal']",: Ablöse €6.70m,31,"Mar 30, 1972",Retired
+Centre-Back,right,"Aug 1, 1997",Jody Craddock,"1,83m",4129,['England'],Cambridge United,27,"Jul 25, 1975",Retired
+Centre-Back,right,"Jan 1, 2003",Talal El Karkouri,"1,86m",4130,"['Morocco', 'France']",: Ablöse ?,26,"Jul 8, 1976",Retired
+Centre-Back,right,"Aug 1, 2006",Stanislav Varga,"1,93m",9495,"['Slovakia', 'Hungary']",Celtic FC,30,"Oct 8, 1972",Retired
+Centre-Back,,"Jul 1, 2003",Ben Clark,"1,88m",4131,['England'],Sunderland AFC Reserves,20,"Jan 24, 1983",Retired
+Left-Back,left,"Jul 1, 1992",Michael Gray,"1,70m",4128,['England'],Sunderland AFC U18,28,"Aug 3, 1974",Retired
+Left-Back,left,"Sep 1, 2008",George McCartney,"1,83m",3775,['Northern Ireland'],: Ablöse €5.50m,22,"Apr 29, 1981",Retired
+Right-Back,right,"Aug 15, 2002",Stephen Wright,"1,83m",4126,['England'],: Ablöse €4.80m,23,"Feb 8, 1980",Retired
+Right-Back,right,"Oct 1, 1996",Darren Williams,"1,72m",3324,['England'],York City,26,"Apr 28, 1977",Retired
+Right-Back,,"Aug 10, 2001",Bernt Haas,,2888,"['Switzerland', 'Austria']",: Ablöse €1.80m,25,"Apr 8, 1978",Retired
+Right-Back,both,"Jul 1, 2002",Mark Rossiter,"1,80m",3774,['Ireland'],Sunderland AFC U18,20,"May 27, 1983",Unknown
+Right-Back,right,"Jul 1, 2001",Cliff Byrne,"1,83m",49533,['Ireland'],Sunderland AFC U18,21,"Apr 26, 1982",Retired
+Defensive Midfield,right,"Jul 1, 1997",Paul Thirlwell,"1,80m",4122,['England'],Sunderland AFC U18,24,"Feb 13, 1979",Retired
+Defensive Midfield,left,"Jul 1, 2001",Nicolás Medina,"1,77m",3776,"['Argentina', 'Italy']",AA Argentinos Juniors,21,"Feb 17, 1982",Retired
+Midfielder,,,Chris Black,"1,83m",13779,['England'],,20,"Sep 7, 1982",Unknown
+Defensive Midfield,both,"Jul 1, 2003",Richie Ryan,"1,78m",4133,['Ireland'],Sunderland AFC U18,18,"Jan 6, 1985",Retired
+Central Midfield,right,"Jan 1, 2002",Claudio Reyna,"1,75m",3475,"['United States', 'Portugal']",: Ablöse €6.70m,29,"Jul 20, 1973",Retired
+Central Midfield,left,"Nov 1, 1998",Gavin McCann,"1,80m",4136,['England'],: Ablöse €750k,25,"Jan 10, 1978",Retired
+Central Midfield,,"Jul 1, 1999",Stefan Schwarz,,4123,['Sweden'],: Ablöse €6.00m,34,"Apr 18, 1969",Retired
+Central Midfield,right,"Jul 1, 2002",Sean Thornton,"1,78m",3303,['Ireland'],: Ablöse €280k,20,"May 18, 1983",Retired
+Central Midfield,right,"Jul 1, 1999",John Oster,"1,75m",13918,"['Wales', 'England']",: Ablöse €1.00m,24,"Dec 8, 1978",Retired
+Central Midfield,left,"Jul 1, 2000",Julio Arca,"1,75m",3280,"['Argentina', 'Italy']",AA Argentinos Juniors,22,"Jan 31, 1981",Retired
+Right Midfield,right,"Jul 1, 2002",Matt Piper,"1,85m",4134,['England'],: Ablöse €5.25m,21,"Sep 29, 1981",Retired
+Right Midfield,both,"Jul 1, 1998",Thomas Butler,"1,70m",4132,['Ireland'],Sunderland AFC U18,22,"Apr 25, 1981",Retired
+Right Midfield,right,"Oct 19, 2001",Jason McAteer,"1,75m",3710,"['Ireland', 'England']",Blackburn Rovers,32,"Jun 18, 1971",Retired
+Right Midfield,right,,Jonjo Dickman,"1,73m",3773,['England'],,21,"Sep 22, 1981",Retired
+Left Midfield,left,"Dec 1, 1999",Kevin Kilbane,"1,83m",4135,"['Ireland', 'England']",: Ablöse €3.75m,26,"Feb 1, 1977",Retired
+Centre-Forward,right,"Aug 30, 2002",Tore André Flo,"1,93m",3081,['Norway'],: Ablöse €11.00m,30,"Jun 15, 1973",Retired
+Centre-Forward,right,"Jul 15, 1997",Kevin Phillips,"1,70m",3131,['England'],: Ablöse €850k,29,"Jul 25, 1973",Retired
+Centre-Forward,right,"Jul 3, 2001",David Bellion,"1,81m",3115,"['France', 'Senegal']",: Ablöse free transfer,20,"Nov 27, 1982",Retired
+Centre-Forward,right,"Jul 1, 2000",Kevin Kyle,"1,91m",4121,['Scotland'],Sunderland AFC Reserves,22,"Jun 7, 1981",Retired
+Centre-Forward,,"Aug 17, 1996",Niall Quinn,,104110,['Ireland'],: Ablöse €1.30m,36,"Oct 6, 1966",Retired
+Centre-Forward,left,"Aug 30, 2002",Marcus Stewart,"1,78m",4119,['England'],Ipswich Town,30,"Nov 8, 1972",Retired
+Centre-Forward,right,"Jul 1, 1997",Michael Proctor,"1,80m",4118,['England'],Sunderland AFC U18,22,"Oct 3, 1980",Retired

@@ -1,0 +1,40 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2017",Mathew Ryan,"1,84m",128969,"['Australia', 'Scotland']",€8.00m,Valencia CF,26,"Apr 8, 1992",AS Roma
+Goalkeeper,left,,"Sep 20, 2017",Tim Krul,"1,93m",33027,['Netherlands'],€2.50m,Newcastle United,30,"Apr 3, 1988",Luton Town
+Goalkeeper,left,,"Jul 1, 2014",Christian Walton,"1,95m",208379,['England'],€250k,Brighton & Hove Albion U18,22,"Nov 9, 1995",Ipswich Town
+Goalkeeper,right,,"Jul 6, 2015",Niki Mäenpää,"1,87m",12359,['Finland'],€250k,VVV-Venlo,33,"Jan 23, 1985",HJK Helsinki
+Centre-Back,right,,"Aug 26, 2016",Shane Duffy,"1,93m",119269,"['Ireland', 'Northern Ireland']",€12.00m,Blackburn Rovers,26,"Jan 1, 1992",Norwich City
+Centre-Back,right,Team captain,"Apr 30, 2010",Lewis Dunk,"1,92m",148153,['England'],€10.00m,: Ablöse -,26,"Nov 21, 1991",Brighton & Hove Albion
+Centre-Back,right,,"Aug 12, 2015",Uwe Hünemeier,"1,89m",10503,['Germany'],€1.00m,SC Paderborn 07,32,"Jan 9, 1986",Retired
+Centre-Back,right,,"Aug 19, 2015",Connor Goldson,"1,91m",163656,['England'],€1.00m,Shrewsbury Town,25,"Dec 18, 1992",Aris Limassol
+Left-Back,left,,"Jul 13, 2017",Markus Suttner,"1,79m",31514,['Austria'],€2.50m,FC Ingolstadt 04,31,"Apr 16, 1987",ASV 13
+Left-Back,left,,"Jul 2, 2015",Gaëtan Bong,"1,83m",36291,"['Cameroon', 'France']",€1.50m,Wigan Athletic,30,"Apr 25, 1988",Retired
+Right-Back,right,,"Aug 4, 2017",Ales Mateju,"1,85m",242078,['Czech Republic'],€1.50m,FC Viktoria Plzen,22,"Jun 3, 1996",Spezia Calcio
+Right-Back,right,,"Jul 1, 2015",Liam Rosenior,"1,78m",15166,"['England', 'Sierra Leone']",€1.00m,: Ablöse free transfer,33,"Jul 9, 1984",Retired
+Right-Back,right,,"Jul 1, 2012",Bruno Saltor,"1,80m",51528,['Spain'],€750k,Valencia CF,37,"Oct 1, 1980",Retired
+Defensive Midfield,right,,"Feb 5, 2013",Rohan Ince,"1,94m",141568,"['Montserrat', 'England']",€500k,Without Club,25,"Nov 8, 1992",Woking FC
+Defensive Midfield,right,,,Dessie Hutchinson,,335595,"['Ireland', 'England']",,,21,"Dec 5, 1996",Retired
+Central Midfield,right,,"Aug 7, 2017",Davy Pröpper,"1,85m",79027,['Netherlands'],€15.00m,: Ablöse €13.00m,26,"Sep 2, 1991",Retired
+Central Midfield,right,,"Jul 1, 2017",Pascal Groß,"1,81m",82873,['Germany'],€10.00m,FC Ingolstadt 04,27,"Jun 15, 1991",Borussia Dortmund
+Central Midfield,right,,"Jan 30, 2014",Dale Stephens,"1,85m",49755,['England'],€6.00m,Charlton Athletic,29,"Jun 12, 1989",Retired
+Central Midfield,right,,"Aug 3, 2016",Oliver Norwood,"1,75m",73547,"['Northern Ireland', 'England']",€3.00m,Reading FC,27,"Apr 12, 1991",Stockport County
+Central Midfield,right,Tibia and fibula fracture - Return unknown,"Jan 29, 2015",Beram Kayal,"1,78m",44741,['Israel'],€1.50m,Celtic FC,30,"May 2, 1988",Ihud Bnei Sakhnin
+Central Midfield,right,,"Jul 1, 2016",Steve Sidwell,"1,83m",13427,['England'],€1.00m,Stoke City,35,"Dec 14, 1982",Retired
+Central Midfield,right,,"Jan 3, 2016",Richie Towell,"1,79m",114116,['Ireland'],€200k,Dundalk FC,26,"Jul 17, 1991",Shamrock Rovers
+Central Midfield,right,,,Jayson Molumby,"1,76m",357656,['Ireland'],,,18,"Aug 6, 1999",West Bromwich Albion
+Central Midfield,right,,,Max Sanders,"1,75m",411495,['England'],,,19,"Jan 4, 1999",Crewe Alexandra
+Right Midfield,right,,"Aug 31, 2017",Ezequiel Schelotto,"1,87m",119164,"['Italy', 'Argentina']",€4.50m,Sporting CP,29,"May 23, 1989",FC Paradiso
+Left Winger,right,,"Aug 20, 2017",José Izquierdo,"1,71m",147094,['Colombia'],€14.00m,Club Brugge KV,25,"Jul 7, 1992",Retired
+Left Winger,right,,"Jul 25, 2017",Izzy Brown,"1,82m",245805,"['England', 'Jamaica']",€5.00m,Chelsea FC U23,21,"Jan 7, 1997",Retired
+Left Winger,right,,"Aug 14, 2015",Jamie Murphy,"1,78m",51730,['Scotland'],€1.75m,Sheffield United,28,"Aug 28, 1989",Ayr United FC
+Left Winger,right,,"Feb 1, 2016",Jiri Skalak,"1,77m",148734,['Czech Republic'],€1.50m,FK Mlada Boleslav,26,"Mar 12, 1992",SK Dynamo Ceske Budejovice
+Left Winger,right,,"Aug 10, 2017",Soufyan Ahannach,"1,79m",262895,"['Netherlands', 'Morocco']",€500k,Almere City FC,22,"Sep 9, 1995",Union Touarga Sportif
+Right Winger,left,,"Jan 7, 2016",Anthony Knockaert,"1,72m",149237,"['France', 'Belgium']",€8.00m,: Ablöse €3.50m,26,"Nov 20, 1991",Stade Mouscronnois
+Right Winger,left,Knee injury - Return unknown,"Jul 1, 2013",Solly March,"1,80m",209212,['England'],€5.00m,Brighton & Hove Albion U18,23,"Jul 20, 1994",Brighton & Hove Albion
+Right Winger,left,,,James Tilley,"1,74m",359693,['England'],,,20,"Jun 13, 1998",AFC Wimbledon
+Centre-Forward,right,,"Jan 19, 2018",Jürgen Locadia,"1,93m",166240,"['Curacao', 'Netherlands']",€15.00m,: Ablöse €17.00m,24,"Nov 7, 1993",CF Intercity
+Centre-Forward,right,,"Jan 29, 2018",Leonardo Ulloa,"1,88m",54890,"['Argentina', 'Spain']",€5.00m,Leicester City,31,"Jul 26, 1986",Retired
+Centre-Forward,right,,"Aug 27, 2014",Sam Baldock,"1,70m",67211,"['England', 'Greece']",€3.00m,: Ablöse €2.50m,29,"Mar 15, 1989",Retired
+Centre-Forward,right,,"Jan 31, 2017",Glenn Murray,"1,86m",45693,['England'],€3.00m,AFC Bournemouth,34,"Sep 25, 1983",Retired
+Centre-Forward,right,,"Jul 1, 2015",Tomer Hemed,"1,82m",112668,"['Israel', 'Poland']",€2.50m,UD Almería,31,"May 2, 1987",Retired
+Centre-Forward,right,,"Jul 1, 2019",Aaron Connolly,"1,74m",434207,['Ireland'],,Brighton & Hove Albion U23,18,"Jan 28, 2000",Sunderland AFC

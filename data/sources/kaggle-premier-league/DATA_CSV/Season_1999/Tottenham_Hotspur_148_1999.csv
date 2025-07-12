@@ -1,0 +1,35 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Dec 4, 1989",Ian Walker,"1,85m",4137,['England'],Tottenham Hotspur U18,28,"Oct 31, 1971",Retired
+Goalkeeper,right,"Jul 1, 1996",Espen Baardsen,"1,96m",3850,"['Norway', 'United States']",San Francisco United FC,22,"Dec 7, 1977",Retired
+Goalkeeper,,"Jul 1, 1998",Hans Segers,"1,80m",104902,['Netherlands'],: Ablöse free transfer,38,"Oct 30, 1961",Retired
+Centre-Back,,"Jul 1, 1992",Sol Campbell,,3198,"['England', 'Jamaica']",Tottenham Hotspur U18,25,"Sep 18, 1974",Retired
+Centre-Back,right,"Jul 1, 1999",Chris Perry,"1,75m",4051,['England'],: Ablöse €6.00m,27,"Apr 26, 1973",Retired
+Centre-Back,right,"Mar 1, 2000",Gary Doherty,"1,88m",4052,['Ireland'],: Ablöse €1.50m,20,"Jan 31, 1980",Retired
+Centre-Back,right,"Jan 1, 1997",Ramon Vega,"1,91m",103731,['Switzerland'],: Ablöse ?,29,"Jun 14, 1971",Retired
+Centre-Back,right,"Dec 11, 1996",John Scales,"1,88m",104899,['England'],: Ablöse €3.00m,33,"Jul 4, 1966",Retired
+Centre-Back,right,"Jul 1, 1998",Ledley King,"1,88m",3360,"['England', 'Antigua and Barbuda']",Tottenham Hotspur U18,19,"Oct 12, 1980",Retired
+Centre-Back,left,"Jan 1, 2000",Anthony Gardner,"1,96m",4053,"['England', 'Jamaica']",: Ablöse €1.50m,19,"Sep 19, 1980",Retired
+Centre-Back,right,"Oct 1, 1998",Alton Thelwell,"1,83m",4054,['England'],Tottenham Hotspur U18,19,"Sep 5, 1980",Retired
+Left-Back,,"Jul 1, 1990",Justin Edinburgh,,104903,['England'],Southend United,30,"Dec 18, 1969",---
+Left-Back,right,"Nov 5, 1998",Mauricio Taricco,"1,75m",4050,"['Argentina', 'Italy']",Ipswich Town,27,"Mar 10, 1973",Retired
+Right-Back,right,"Jul 1, 1993",Stephen Carr,"1,75m",4046,['Ireland'],Tottenham Hotspur U18,23,"Aug 29, 1976",Retired
+Right-Back,right,"Jul 1, 1997",Luke Young,"1,83m",3271,['England'],Tottenham Hotspur U18,20,"Jul 19, 1979",Retired
+Defensive Midfield,,"Jan 1, 1999",Steffen Freund,,3990,['Germany'],Borussia Dortmund,30,"Jan 19, 1970",Retired
+Midfielder,,"Aug 1, 1999",John Piercy,"1,80m",202858,['England'],Tottenham Hotspur Reserves,20,"Sep 18, 1979",Retired
+Central Midfield,,"Jan 1, 1999",Tim Sherwood,,4005,['England'],Blackburn Rovers,31,"Feb 6, 1969",Retired
+Central Midfield,,"Sep 1, 1996",Allan Nielsen,,31829,['Denmark'],Bröndby IF,29,"Mar 13, 1971",Retired
+Central Midfield,both,"Jul 1, 1996",Mark Gower,"1,80m",39700,['England'],Tottenham Hotspur U18,21,"Oct 5, 1978",Retired
+Right Midfield,right,"Jul 1, 1992",Darren Anderton,"1,85m",3277,['England'],: Ablöse €2.70m,28,"Mar 3, 1972",Retired
+Right Midfield,left,"Jul 1, 1997",Stephen Clemence,"1,80m",3641,['England'],Tottenham Hotspur U18,22,"Mar 31, 1978",Retired
+Right Midfield,right,"Dec 31, 1999",Simon Davies,"1,78m",4056,['Wales'],Peterborough United,20,"Oct 23, 1979",Retired
+Left Midfield,,"Feb 1, 1998",Moussa Saïb,,109496,['Algeria'],: Ablöse €2.60m,31,"Mar 6, 1969",Retired
+Left Midfield,left,"Jul 1, 1999",Matthew Etherington,"1,78m",3788,['England'],Peterborough United,18,"Aug 14, 1981",Retired
+Attacking Midfield,right,"Jul 1, 1999",Øyvind Leonhardsen,"1,77m",4071,['Norway'],: Ablöse €4.50m,29,"Aug 17, 1970",Retired
+Left Winger,,"Jul 1, 1999",Willem Korsten,,104898,['Netherlands'],Vitesse Arnhem,25,"Jan 21, 1975",Retired
+Left Winger,right,"Jul 1, 1997",David Ginola,"1,86m",104897,['France'],Newcastle United,33,"Jan 25, 1967",Retired
+Left Winger,left,"Aug 8, 1997",José Dominguez,"1,65m",704,['Portugal'],: Ablöse €2.40m,26,"Feb 16, 1974",Retired
+Right Winger,right,"Oct 6, 1995",Ruel Fox,"1,68m",104904,"['Montserrat', 'England']",Newcastle United,32,"Jan 14, 1968",Retired
+Second Striker,right,"Nov 1, 1996",Steffen Iversen,"1,85m",3478,['Norway'],: Ablöse €3.25m,23,"Nov 10, 1976",Retired
+Centre-Forward,right,"Jul 28, 1997",Les Ferdinand,"1,80m",3645,"['England', 'St. Lucia']",Newcastle United,33,"Dec 8, 1966",Retired
+Centre-Forward,right,"Jul 1, 1995",Chris Armstrong,"1,84m",3281,['England'],: Ablöse €6.80m,29,"Jun 19, 1971",Retired
+Striker,,"Jan 17, 2000",Dave McEwen,"1,83m",202857,['England'],: Ablöse ?,22,"Nov 2, 1977",Retired

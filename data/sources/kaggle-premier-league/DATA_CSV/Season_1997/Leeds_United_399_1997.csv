@@ -1,0 +1,38 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 1996",Nigel Martyn,"1,88m",3629,['England'],: Ablöse €3.35m,31,"Aug 11, 1966",Retired
+Goalkeeper,right,"Apr 22, 1993",Mark Beeney,"1,93m",107177,['England'],: Ablöse €350k,30,"Dec 30, 1967",Retired
+Goalkeeper,right,"Jul 1, 1998",Paul Robinson,"1,93m",3630,['England'],Leeds United U18,18,"Oct 15, 1979",Retired
+Centre-Back,right,"Jul 1, 1994",Lucas Radebe,"1,86m",3088,['South Africa'],Kaizer Chiefs,29,"Apr 12, 1969",Retired
+Centre-Back,right,"Jul 1, 1991",David Wetherall,"1,91m",13615,['England'],: Ablöse €180k,27,"Mar 14, 1971",Retired
+Centre-Back,right,"Jan 1, 1998",Martin Hiden,"1,84m",2942,['Austria'],: Ablöse €2.18m,25,"Mar 11, 1973",Retired
+Centre-Back,right,"Jul 1, 1995",Mark Jackson,"1,83m",48257,['England'],Leeds United U18,20,"Sep 30, 1977",Retired
+Centre-Back,right,"Jan 1, 1997",Robert Molenaar,"1,92m",6249,['Netherlands'],: Ablöse €1.40m,29,"Feb 27, 1969",Retired
+Centre-Back,right,"Jul 1, 2004",Paul Butler,"1,91m",4278,['Ireland'],Wolverhampton Wanderers,25,"Nov 2, 1972",Retired
+Left-Back,left,"Jul 8, 1998",Danny Granville,"1,80m",13789,['England'],: Ablöse €2.20m,23,"Jan 19, 1975",Retired
+Left-Back,,"Jul 1, 1997",Davie Robertson,"1,80m",107180,['Scotland'],: Ablöse €750k,29,"Oct 17, 1968",Retired
+Left-Back,left,"Jul 1, 1995",Ian Harte,"1,75m",3634,['Ireland'],Leeds United U18,20,"Aug 31, 1977",Retired
+Right-Back,right,"Jul 1, 1991",Gary Kelly,"1,73m",3631,['Ireland'],Leeds United U18,23,"Jul 9, 1974",Retired
+Right-Back,right,"Jul 1, 1996",Gunnar Halle,"1,83m",102506,['Norway'],: Ablöse €575k,32,"Aug 11, 1965",Retired
+Right-Back,right,"Jul 1, 1995",Alan Maybury,"1,80m",12597,['Ireland'],Leeds United U18,19,"Aug 8, 1978",Retired
+Right-Back,,,Damien Lynch,"1,78m",57430,['Ireland'],,18,"Jul 31, 1979",Retired
+Defensive Midfield,right,"Jul 1, 1997",Alf-Inge Haaland,"1,86m",107179,['Norway'],: Ablöse €2.40m,25,"Nov 23, 1972",Retired
+Midfielder,,,Martin Foster,"1,68m",105594,['England'],,20,"Oct 29, 1977",Retired
+Midfielder,,"Jul 1, 1997",Wesley Boyle,"1,83m",107186,['Northern Ireland'],Leeds United U18,19,"Mar 30, 1979",Retired
+Central Midfield,,"Jul 1, 1998",Alan Smith,,3768,['England'],Leeds United U18,17,"Oct 28, 1980",Retired
+Central Midfield,right,"Jul 1, 1996",Lee Bowyer,"1,75m",3877,['England'],Charlton Athletic,21,"Jan 3, 1977",Retired
+Central Midfield,right,"Feb 1, 1999",Matt Jones,"1,80m",4252,['Wales'],Leeds United Reserves,17,"Sep 1, 1980",Retired
+Central Midfield,right,"Mar 5, 1993",Andy Couzens,"1,75m",176011,['England'],Leeds United U18,23,"Jun 4, 1975",Retired
+Central Midfield,right,"Jul 1, 1997",Lee Matthews,"1,88m",20977,['England'],Leeds United U18,19,"Jan 16, 1979",Retired
+Right Midfield,,"Jul 21, 1997",David Hopkin,,107198,['Scotland'],: Ablöse €4.90m,27,"Aug 21, 1970",Retired
+Left Midfield,left,"Aug 14, 1996",Lee Sharpe,"1,83m",107229,['England'],: Ablöse €6.75m,27,"May 27, 1971",Retired
+Left Midfield,,"Jul 1, 1997",Bruno Ribeiro,,24213,['Portugal'],Vitória Setúbal FC,22,"Oct 22, 1975",Retired
+Left Midfield,left,"Jul 1, 1997",Stephen McPhail,"1,77m",3764,"['Ireland', 'England']",Leeds United U18,18,"Dec 9, 1979",Retired
+Left Winger,left,"Dec 23, 1995",Harry Kewell,"1,80m",3241,"['Australia', 'England']",Marconi Stallions FC,19,"Sep 22, 1978",Retired
+Centre-Forward,both,"Jul 1, 1995",Anthony Yeboah,"1,80m",328,['Ghana'],: Ablöse €3.25m,32,"Jun 6, 1966",Retired
+Centre-Forward,,"Mar 26, 1997",Pierre Laurent,"1,76m",5629,['France'],: Ablöse free transfer,27,"Dec 13, 1970",Retired
+Centre-Forward,both,"Jul 1, 1998",Clyde Wijnhard,"1,80m",14387,"['Netherlands', 'Suriname']",: Ablöse €2.10m,24,"Nov 1, 1973",Retired
+Centre-Forward,right,"Jul 1, 1995",Paul Shepherd,"1,83m",228811,['England'],Leeds United U18,20,"Nov 17, 1977",Retired
+Centre-Forward,right,"Jul 1, 1991",Rod Wallace,"1,70m",13803,['England'],Southampton FC,28,"Oct 2, 1969",Retired
+Centre-Forward,right,"Jul 1, 1997",Jimmy Floyd Hasselbaink,"1,78m",3175,"['Netherlands', 'Suriname']",Boavista FC,26,"Mar 27, 1972",Retired
+Centre-Forward,right,"Jul 24, 2012",Andy Gray,"1,83m",13575,"['Scotland', 'England']",Barnsley FC,20,"Nov 15, 1977",Retired
+Centre-Forward,right,"Jul 1, 1996",Derek Lilley,"1,80m",13327,['Scotland'],Greenock Morton FC,24,"Feb 9, 1974",Retired

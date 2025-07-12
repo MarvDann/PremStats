@@ -1,0 +1,25 @@
+position,foot,status,joinedOn,name,height,id,nationality,contract,marketValue,joined,age,dateOfBirth,signedFrom
+Goalkeeper,left,,"Jul 1, 2017",Jordan Pickford,"1,85m",130164,['England'],"Jun 30, 2027",€22.00m,,30,"Mar 7, 1994",Sunderland AFC
+Goalkeeper,left,,"Jul 1, 2020",João Virgínia,"1,92m",329813,['Portugal'],"Jun 30, 2025",€800k,,25,"Oct 10, 1999",Everton FC U23
+Goalkeeper,right,,"Aug 23, 2024",Asmir Begovic,"1,99m",33873,"['Bosnia-Herzegovina', 'Canada']","Jun 30, 2025",€300k,"Joined from Queens Park Rangers; date: Aug 23, 2024; fee: free transfer",37,"Jun 20, 1987",Queens Park Rangers
+Centre-Back,left,,"Jan 13, 2020",Jarrad Branthwaite,"1,95m",661053,['England'],"Jun 30, 2027",€42.00m,,22,"Jun 27, 2002",Carlisle United
+Centre-Back,right,,"Jul 30, 2024",Jake O'Brien,"1,97m",711544,['Ireland'],"Jun 30, 2028",€15.00m,"Joined from Olympique Lyon; date: Jul 30, 2024; fee: €19.50m",23,"May 15, 2001",Olympique Lyon
+Centre-Back,right,,"Jul 2, 2022",James Tarkowski,"1,85m",173504,"['England', 'Poland']","Jun 30, 2026",€13.00m,,31,"Nov 19, 1992",: Ablöse free transfer
+Centre-Back,right,,"Jul 3, 2017",Michael Keane,"1,88m",118534,"['England', 'Ireland']","Jun 30, 2025",€6.00m,,31,"Jan 11, 1993",: Ablöse €28.50m
+Left-Back,left,,"Jan 1, 2022",Vitaliy Mykolenko,"1,80m",404842,['Ukraine'],"Jun 30, 2026",€28.00m,,25,"May 29, 1999",Dynamo Kyiv
+Left-Back,both,,"Jul 13, 2023",Ashley Young,"1,75m",14086,"['England', 'Jamaica']","Jun 30, 2025",€500k,,39,"Jul 9, 1985",: Ablöse free transfer
+Right-Back,right,,"Jan 4, 2022",Nathan Patterson,"1,89m",424015,['Scotland'],"Jun 30, 2027",€15.00m,,23,"Oct 16, 2001",: Ablöse €14.00m
+Right-Back,right,Team captain,"Jan 1, 2009",Séamus Coleman,"1,77m",68390,['Ireland'],"Jun 30, 2025",€500k,,36,"Oct 11, 1988",Sligo Rovers
+Defensive Midfield,right,,"Sep 1, 2022",James Garner,"1,82m",505219,['England'],"Jun 30, 2026",€22.00m,,23,"Mar 13, 2001",Manchester United
+Defensive Midfield,right,,"Aug 30, 2024",Orel Mangala,"1,78m",289592,"['Belgium', 'DR Congo']","Jun 30, 2025",€20.00m,"On loan from Olympique Lyon until Jun 30, 2025",26,"Mar 18, 1998",Olympique Lyon
+Central Midfield,right,,"Sep 8, 2020",Abdoulaye Doucouré,"1,83m",127187,"['Mali', 'France']","Jun 30, 2025",€10.00m,,31,"Jan 1, 1993",Watford FC
+Central Midfield,right,,"Jul 1, 2024",Tim Iroegbunam,"1,83m",696589,"['England', 'Nigeria']","Jun 30, 2027",€10.00m,"Joined from Aston Villa; date: Jul 1, 2024; fee: €10.70m",21,"Jun 30, 2003",Aston Villa
+Central Midfield,right,,"Sep 1, 2022",Idrissa Gueye,"1,74m",126665,['Senegal'],"Jun 30, 2025",€2.00m,,35,"Sep 26, 1989",: Ablöse €4.00m
+Attacking Midfield,right,,"Jul 26, 2024",Jesper Lindstrøm,"1,82m",513245,['Denmark'],"Jun 30, 2025",€22.00m,"On loan from SSC Napoli until Jun 30, 2025",24,"Feb 29, 2000",SSC Napoli
+Left Winger,left,,"Jul 28, 2022",Dwight McNeil,"1,83m",584769,['England'],"Jun 30, 2027",€22.00m,,24,"Nov 22, 1999",: Ablöse €17.00m
+Right Winger,left,,"Aug 14, 2023",Jack Harrison,"1,75m",417346,['England'],"Jun 30, 2025",€18.00m,"On loan from Leeds United until Jun 30, 2025",27,"Nov 20, 1996",Leeds United
+Centre-Forward,right,,"Aug 31, 2016",Dominic Calvert-Lewin,"1,89m",306024,['England'],"Jun 30, 2025",€22.00m,,27,"Mar 16, 1997",Sheffield United
+Centre-Forward,right,,"Aug 29, 2023",Beto,"1,94m",595809,"['Guinea-Bissau', 'Portugal']","Jun 30, 2027",€20.00m,,26,"Jan 31, 1998",Udinese Calcio
+Centre-Forward,right,Achilles tendon problems - Return unknown,"Aug 30, 2024",Armando Broja,"1,91m",571743,"['Albania', 'England']","May 31, 2025",€18.00m,"On loan from Chelsea FC until May 31, 2025",23,"Sep 10, 2001",Chelsea FC
+Centre-Forward,right,,"Jul 3, 2024",Iliman Ndiaye,"1,80m",623570,"['Senegal', 'France']","Jun 30, 2029",€15.00m,"Joined from Olympique Marseille; date: Jul 3, 2024; fee: €18.00m",24,"Mar 6, 2000",Olympique Marseille
+Centre-Forward,right,Foot injury - Return unknown,"Aug 11, 2023",Chermiti,"1,92m",670688,"['Portugal', 'Tunisia']","Jun 30, 2027",€9.00m,,20,"May 24, 2004",Sporting CP

@@ -1,0 +1,32 @@
+position,foot,status,joinedOn,name,height,id,nationality,contract,marketValue,joined,age,dateOfBirth,signedFrom
+Goalkeeper,right,,"Jul 1, 2022",Nick Pope,"1,98m",192080,['England'],"Jun 30, 2026",€16.00m,,32,"Apr 19, 1992",: Ablöse €11.50m
+Goalkeeper,right,,"Jul 1, 2024",Odysseas Vlachodimos,"1,91m",124419,"['Greece', 'Germany']",,€7.00m,"Joined from Nottingham Forest; date: Jul 1, 2024; fee: €23.60m",30,"Apr 26, 1994",Nottingham Forest
+Goalkeeper,right,,"Jul 1, 2018",Martin Dúbravka,"1,91m",74960,['Slovakia'],"Jun 30, 2025",€1.00m,,35,"Jan 15, 1989",: Ablöse €4.00m
+Goalkeeper,right,,"Jul 3, 2020",Mark Gillespie,"1,91m",142389,['England'],"Jun 30, 2025",€300k,,32,"Mar 27, 1992",Motherwell FC
+Goalkeeper,right,,"Jul 1, 2024",John Ruddy,"1,92m",29712,['England'],"Jun 30, 2025",€200k,"Joined from Birmingham City; date: Jul 1, 2024; fee: free transfer",38,"Oct 24, 1986",Birmingham City
+Centre-Back,left,"Cruciate ligament surgery - Return expected on Dec 2, 2024","Jul 1, 2022",Sven Botman,"1,95m",361093,['Netherlands'],"Jun 30, 2027",€45.00m,,24,"Jan 12, 2000",LOSC Lille
+Centre-Back,left,,"Jul 1, 2024",Lloyd Kelly,"1,90m",480116,['England'],"Jun 30, 2029",€18.00m,"Joined from AFC Bournemouth; date: Jul 1, 2024; fee: free transfer",26,"Oct 6, 1998",AFC Bournemouth
+Centre-Back,right,,"Jul 26, 2018",Fabian Schär,"1,86m",135343,['Switzerland'],"Jun 30, 2025",€10.00m,,32,"Dec 20, 1991",Deportivo de La Coruña
+Centre-Back,left,"Yellow card suspension - until Nov 26, 2024 - Premier League - 1 matchday","Jan 31, 2022",Dan Burn,"2,01m",134270,['England'],"Jun 30, 2026",€8.00m,,32,"May 9, 1992",Brighton & Hove Albion
+Centre-Back,right,Team captain,"Aug 9, 2014",Jamaal Lascelles,"1,88m",183318,"['England', 'Barbados']","Jun 30, 2025",€7.00m,,31,"Nov 11, 1993",: Ablöse €5.00m
+Left-Back,left,,"Jul 1, 2024",Lewis Hall,"1,79m",670858,['England'],,€22.00m,"Joined from Chelsea FC; date: Jul 1, 2024; fee: €33.00m",20,"Sep 8, 2004",Chelsea FC
+Left-Back,left,,"Jul 1, 2022",Matt Targett,"1,83m",250478,"['England', 'Scotland']","Jun 30, 2026",€8.00m,,29,"Sep 18, 1995",: Ablöse €17.50m
+Left-Back,left,,"Jul 1, 2024",Alex Murphy,"1,88m",900601,['Ireland'],"Jun 30, 2027",€250k,"Internal transfer: Newcastle United U21; date: Jul 1, 2024",20,"Jun 25, 2004",Newcastle United U21
+Right-Back,right,,"Aug 8, 2023",Tino Livramento,"1,82m",503981,"['England', 'Scotland']","Jun 30, 2028",€35.00m,,21,"Nov 12, 2002",Southampton FC
+Right-Back,right,Hamstring injury - Return unknown,"Jan 7, 2022",Kieran Trippier,"1,73m",95810,['England'],"Jun 30, 2026",€10.00m,,34,"Sep 19, 1990",: Ablöse €14.00m
+Right-Back,right,unknown injury - Return unknown,"Aug 8, 2019",Emil Krafth,"1,84m",184528,['Sweden'],"Jun 30, 2025",€2.50m,,30,"Aug 2, 1994",: Ablöse €5.40m
+Defensive Midfield,right,,"Jan 30, 2022",Bruno Guimarães,"1,82m",520624,"['Brazil', 'Spain']","Jun 30, 2028",€85.00m,,26,"Nov 16, 1997",: Ablöse €42.10m
+Defensive Midfield,right,,"Jul 11, 2016",Isaac Hayden,"1,87m",206225,"['England', 'Jamaica']","Jun 30, 2026",€1.80m,,29,"Mar 22, 1995",Arsenal FC U23
+Central Midfield,right,,"Jul 23, 2019",Joelinton,"1,86m",333241,['Brazil'],"Jun 30, 2028",€40.00m,,28,"Aug 14, 1996",TSG 1899 Hoffenheim
+Central Midfield,right,,"Jul 3, 2023",Sandro Tonali,"1,81m",397033,['Italy'],"Jun 30, 2028",€38.00m,,24,"May 8, 2000",AC Milan
+Central Midfield,right,,"Aug 13, 2021",Joe Willock,"1,86m",340329,"['England', 'Montserrat']","Jun 30, 2027",€30.00m,,25,"Aug 20, 1999",Arsenal FC
+Central Midfield,right,,"Jan 1, 2019",Sean Longstaff,"1,87m",346707,['England'],"Jun 30, 2025",€25.00m,,27,"Oct 30, 1997",Newcastle United U23
+Central Midfield,right,,"Jul 1, 2023",Lewis Miley,"1,89m",922769,['England'],"Jun 30, 2029",€22.00m,,18,"May 1, 2006",Newcastle United U21
+Left Winger,right,,"Jan 29, 2023",Anthony Gordon,"1,83m",503733,['England'],,€60.00m,,23,"Feb 24, 2001",Everton FC
+Left Winger,right,,"Jul 23, 2023",Harvey Barnes,"1,82m",398065,"['England', 'Scotland']","Jun 30, 2028",€35.00m,,26,"Dec 9, 1997",Leicester City
+Left Winger,right,,"Jan 1, 2023",Garang Kuol,"1,75m",967948,"['Australia', 'Southern Sudan']","Jun 30, 2026",€600k,"Returned after loan spell with FC Volendam; date: Jun 30, 2024; fee: End of loan",20,"Sep 15, 2004",Central Coast Mariners
+Right Winger,left,,"Jan 31, 2019",Miguel Almirón,"1,74m",272999,['Paraguay'],"Jun 30, 2026",€20.00m,,30,"Feb 10, 1994",Atlanta United FC
+Right Winger,right,,"Jul 19, 2017",Jacob Murphy,"1,79m",199527,"['England', 'Ireland']","Jun 30, 2027",€15.00m,,29,"Feb 24, 1995",: Ablöse €11.30m
+Centre-Forward,right,,"Aug 26, 2022",Alexander Isak,"1,92m",349066,"['Sweden', 'Eritrea']","Jun 30, 2028",€75.00m,,25,"Sep 21, 1999",Real Sociedad
+Centre-Forward,right,Back injury - Return unknown,"Sep 7, 2020",Callum Wilson,"1,80m",123682,['England'],"Jun 30, 2025",€13.00m,,32,"Feb 27, 1992",AFC Bournemouth
+Centre-Forward,right,,"Aug 8, 2024",William Osula,"1,86m",609556,"['Denmark', 'England']","Jun 30, 2029",€7.00m,"Joined from Sheffield United; date: Aug 8, 2024; fee: €11.60m",21,"Aug 4, 2003",Sheffield United

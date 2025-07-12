@@ -1,0 +1,39 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2008",Heurelho Gomes,"1,91m",19059,['Brazil'],€10.00m,: Ablöse €9.00m,30,"Feb 15, 1981",Retired
+Goalkeeper,right,,"Aug 1, 2010",Stipe Pletikosa,"1,93m",14937,['Croatia'],€2.50m,: Ablöse €700k,32,"Jan 8, 1979",Retired
+Goalkeeper,right,,"Jan 26, 2009",Carlo Cudicini,"1,84m",3151,['Italy'],€1.00m,Chelsea FC,37,"Sep 6, 1973",Retired
+Goalkeeper,right,,"Jul 1, 2007",David Button,"1,91m",61814,['England'],€125k,Tottenham Hotspur U18,22,"Feb 27, 1989",Reading FC
+Goalkeeper,right,,"Jan 1, 2007",Ben Alnwick,"1,83m",27036,['England'],€100k,Sunderland AFC,24,"Jan 1, 1987",Retired
+Centre-Back,right,,"Sep 1, 2008",Vedran Corluka,"1,92m",34393,['Croatia'],€12.00m,: Ablöse €13.75m,25,"Feb 5, 1986",Retired
+Centre-Back,right,,"Jan 31, 2005",Michael Dawson,"1,89m",9988,['England'],€11.00m,: Ablöse €7.00m,27,"Nov 18, 1983",Retired
+Centre-Back,right,,"Jan 1, 2010",Younès Kaboul,"1,92m",27114,"['France', 'Morocco']",€7.50m,: Ablöse €5.90m,25,"Jan 4, 1986",Retired
+Centre-Back,right,,"Aug 20, 2010",William Gallas,"1,82m",3156,"['France', 'Guadeloupe']",€7.50m,: Ablöse free transfer,33,"Aug 17, 1977",Retired
+Centre-Back,left,,"Aug 6, 2009",Sébastien Bassong,"1,87m",33951,"['Cameroon', 'France']",€7.50m,Newcastle United,24,"Jul 9, 1986",Retired
+Centre-Back,right,,"Jul 1, 1998",Ledley King,"1,88m",3360,"['England', 'Antigua and Barbuda']",€6.00m,Tottenham Hotspur U18,30,"Oct 12, 1980",Retired
+Centre-Back,right,,"Jan 28, 2008",Jonathan Woodgate,"1,88m",3224,['England'],€4.00m,Middlesbrough FC,31,"Jan 22, 1980",Retired
+Centre-Back,right,,"Dec 31, 2010",Bongani Khumalo,"1,89m",82215,"['South Africa', 'Eswatini']",€1.00m,: Ablöse €1.80m,24,"Jan 6, 1987",Retired
+Centre-Back,right,,"Jul 1, 2009",Steven Caulker,"1,91m",121280,"['Sierra Leone', 'England']",€50k,Tottenham Hotspur U18,19,"Dec 29, 1991",Ankara Keciörengücü
+Left-Back,left,,"Jul 1, 2006",Benoît Assou-Ekotto,"1,78m",18310,"['Cameroon', 'France']",€8.50m,: Ablöse €5.00m,27,"Mar 24, 1984",Retired
+Left-Back,left,,"Jul 25, 2007",Danny Rose,"1,73m",50174,"['England', 'Jamaica']",€500k,Leeds United U18,20,"Jul 2, 1990",Retired
+Right-Back,right,Knee injury - Return unknown,"Jan 30, 2008",Alan Hutton,"1,85m",9619,['Scotland'],€7.50m,: Ablöse €13.00m,26,"Nov 30, 1984",Retired
+Right-Back,right,,"Jul 1, 2009",Kyle Naughton,"1,81m",66219,"['England', 'Ireland']",€2.00m,Sheffield United,22,"Nov 17, 1988",Swansea City
+Right-Back,right,,"Jul 22, 2009",Kyle Walker,"1,78m",95424,['England'],€2.00m,Sheffield United,21,"May 28, 1990",Manchester City
+Defensive Midfield,right,,"Jan 1, 2009",Wilson Palacios,"1,81m",58361,['Honduras'],€14.00m,Wigan Athletic,26,"Jul 29, 1984",Retired
+Defensive Midfield,right,,"Jul 1, 2005",Tom Huddlestone,"1,88m",13465,['England'],€12.00m,: Ablöse €4.70m,24,"Dec 28, 1986",Retired
+Defensive Midfield,right,,"Jul 1, 2010",Jake Livermore,"1,80m",61832,['England'],€300k,Tottenham Hotspur Reserves,21,"Nov 14, 1989",Without Club
+Central Midfield,right,,"Jul 1, 2008",Luka Modric,"1,72m",27992,['Croatia'],€28.00m,GNK Dinamo Zagreb,25,"Sep 9, 1985",Real Madrid
+Central Midfield,right,,"Aug 1, 2005",Jermaine Jenas,"1,81m",3461,['England'],€8.50m,Newcastle United,28,"Feb 18, 1983",Retired
+Central Midfield,right,,"Aug 18, 2010",Sandro,"1,88m",74590,"['Brazil', 'Portugal']",€8.00m,Sport Club Internacional,22,"Mar 15, 1989",Harborough Town
+Central Midfield,left,,"Jul 1, 2008",John Bostock,"1,88m",58097,"['Trinidad and Tobago', 'England']",,: Ablöse €2.00m,19,"Jan 15, 1992",Solihull Moors
+Right Midfield,right,,"Jul 31, 2008",David Bentley,"1,78m",3205,['England'],€7.00m,Blackburn Rovers,26,"Aug 27, 1984",Retired
+Left Midfield,,,"Jan 18, 2011",Steven Pienaar,,4321,['South Africa'],€11.00m,: Ablöse €3.60m,29,"Mar 17, 1982",Retired
+Attacking Midfield,,,"Aug 31, 2010",Rafael van der Vaart,,4192,"['Netherlands', 'Spain']",€20.00m,Real Madrid,28,"Feb 11, 1983",Retired
+Attacking Midfield,both,,"Sep 1, 2009",Niko Kranjcar,"1,86m",16746,['Croatia'],€10.00m,: Ablöse €2.80m,26,"Aug 13, 1984",Retired
+Right Winger,left,,"Sep 19, 2020",Gareth Bale,"1,86m",39381,['Wales'],€25.00m,Real Madrid,21,"Jul 16, 1989",Retired
+Right Winger,right,,"Jul 1, 2005",Aaron Lennon,"1,65m",14221,"['England', 'Ireland']",€21.00m,Leeds United,24,"Apr 16, 1987",Retired
+Right Winger,left,,"Jul 1, 2011",Andros Townsend,"1,81m",61842,['England'],€500k,Tottenham Hotspur Reserves,19,"Jul 16, 1991",Antalyaspor
+Second Striker,left,,"Jul 1, 2008",Giovani dos Santos,"1,75m",44674,"['Mexico', 'Spain']",€5.00m,FC Barcelona,22,"May 11, 1989",Retired
+Centre-Forward,right,,"Jan 6, 2009",Jermain Defoe,"1,71m",3875,"['England', 'St. Lucia']",€18.00m,: Ablöse €16.40m,28,"Oct 7, 1982",Retired
+Centre-Forward,right,,"Jul 27, 2009",Peter Crouch,"2,01m",4072,"['England', 'Ireland']",€12.00m,: Ablöse €10.50m,30,"Jan 30, 1981",Retired
+Centre-Forward,right,,"Aug 30, 2008",Roman Pavlyuchenko,"1,88m",15072,['Russia'],€9.00m,: Ablöse €17.40m,29,"Dec 15, 1981",Retired
+Centre-Forward,right,,"Feb 2, 2009",Robbie Keane,"1,75m",3144,['Ireland'],€7.00m,: Ablöse €16.70m,30,"Jul 8, 1980",Retired

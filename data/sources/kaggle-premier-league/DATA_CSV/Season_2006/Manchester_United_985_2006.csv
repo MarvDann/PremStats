@@ -1,0 +1,39 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 2005",Edwin van der Sar,"1,99m",3516,['Netherlands'],€5.40m,Fulham FC,36,"Oct 29, 1970",Retired
+Goalkeeper,,"Jul 2, 2007",Tomasz Kuszczak,,1320,"['Poland', 'England']",€3.40m,West Bromwich Albion,25,"Mar 20, 1982",Retired
+Goalkeeper,right,"Jul 2, 2021",Tom Heaton,"1,88m",34130,['England'],€100k,: Ablöse free transfer,21,"Apr 15, 1986",Manchester United
+Centre-Back,right,"Jul 22, 2002",Rio Ferdinand,"1,89m",3235,['England'],€27.00m,Leeds United,28,"Nov 7, 1978",Retired
+Centre-Back,right,"Jan 5, 2006",Nemanja Vidic‎,"1,90m",19726,['Serbia'],€14.20m,: Ablöse €10.50m,25,"Oct 21, 1981",Retired
+Centre-Back,left,"Jul 1, 2004",Gabriel Heinze,"1,79m",5555,"['Argentina', 'Italy']",€13.10m,: Ablöse €10.00m,29,"Apr 19, 1978",Retired
+Centre-Back,right,"Jul 1, 2001",John O'Shea,"1,92m",3540,['Ireland'],€5.20m,Manchester United Reserves,26,"Apr 30, 1981",Retired
+Centre-Back,right,"Jul 1, 1996",Wes Brown,"1,85m",3405,['England'],€5.00m,Manchester United U18,27,"Oct 13, 1979",Retired
+Centre-Back,both,"Jul 18, 2023",Jonny Evans,"1,88m",42412,['Northern Ireland'],€500k,Leicester City,19,"Jan 3, 1988",Manchester United
+Centre-Back,right,,Ryan Shawcross,"1,91m",45861,"['England', 'Wales']",,,19,"Oct 4, 1987",Retired
+Centre-Back,right,,Craig Cathcart,"1,89m",59606,['Northern Ireland'],,,18,"Feb 6, 1989",Retired
+Left-Back,left,"Jan 10, 2006",Patrice Evra,"1,74m",5285,"['France', 'Senegal']",€8.50m,: Ablöse €8.00m,26,"May 15, 1981",Retired
+Left-Back,left,"Jul 1, 2001",Kieran Richardson,"1,77m",3548,['England'],€5.00m,: Ablöse free transfer,22,"Oct 21, 1984",Retired
+Left-Back,,"Sep 10, 1999",Mikaël Silvestre,,3393,"['France', 'Guadeloupe']",€4.90m,: Ablöse €5.70m,29,"Aug 9, 1977",Retired
+Left-Back,left,,Adam Eckersley,"1,80m",37138,['England'],€75k,,21,"Sep 7, 1985",Retired
+Right-Back,right,"Jul 1, 1992",Gary Neville,"1,80m",3403,['England'],€7.00m,Manchester United U18,32,"Feb 18, 1975",Retired
+Right-Back,right,"Jul 1, 2007",Danny Simpson,"1,76m",37442,"['England', 'Jamaica']",€50k,Manchester United Reserves,20,"Jan 4, 1987",Retired
+Right-Back,right,"Jul 1, 2006",David Gray,"1,80m",37678,['Scotland'],,Manchester United U18,19,"May 4, 1988",Retired
+Defensive Midfield,right,"Jul 31, 2006",Michael Carrick,"1,89m",3878,['England'],€26.50m,Tottenham Hotspur,25,"Jul 28, 1981",Retired
+Defensive Midfield,right,,Floribert N'Galula,"1,87m",4218,"['Belgium', 'DR Congo']",€250k,,20,"Mar 7, 1987",Retired
+Defensive Midfield,right,,Kieran Lee,"1,85m",50439,['England'],€50k,,19,"Jun 22, 1988",Retired
+Central Midfield,right,"Jan 8, 2012",Paul Scholes,"1,68m",3397,['England'],€11.00m,,32,"Nov 16, 1974",Retired
+Central Midfield,right,"Jul 1, 2001",Darren Fletcher,"1,84m",3547,['Scotland'],€6.00m,Manchester United U18,23,"Feb 1, 1984",Retired
+Central Midfield,,"Jul 1, 2004",Alan Smith,,3768,['England'],€5.40m,Leeds United,26,"Oct 28, 1980",Retired
+Central Midfield,left,"Jul 1, 2004",David Jones,"1,83m",24634,"['England', 'Wales']",€1.50m,Manchester United Reserves,22,"Nov 4, 1984",Retired
+Central Midfield,right,"Jul 1, 2005",Ritchie Jones,"1,83m",37140,['England'],€175k,Manchester United U18,20,"Sep 26, 1986",Retired
+Left Midfield,left,"Jul 1, 1991",Ryan Giggs,"1,79m",3406,['Wales'],€11.00m,Manchester United U18,33,"Nov 29, 1973",Retired
+Left Midfield,,,Michael Barnes,"1,78m",67250,['England'],,,19,"Jun 24, 1988",Retired
+Attacking Midfield,both,"Jul 5, 2005",Ji-sung Park,"1,78m",4592,"['Korea, South']",€10.00m,: Ablöse €7.30m,26,"Feb 25, 1981",Retired
+Attacking Midfield,left,"Jul 1, 2005",Lee Martin,"1,80m",15449,['England'],€1.25m,Manchester United U18,20,"Feb 9, 1987",Ramsgate FC
+Right Winger,right,"Jul 25, 2003",Chris Eagles,"1,83m",24635,['England'],€600k,Manchester United U18,21,"Nov 19, 1985",Retired
+Centre-Forward,right,"Aug 31, 2004",Wayne Rooney,"1,76m",3332,['England'],€36.00m,: Ablöse €37.00m,21,"Oct 24, 1985",Retired
+Centre-Forward,right,"Aug 31, 2021",Cristiano Ronaldo,"1,88m",8198,['Portugal'],€34.00m,Juventus FC,22,"Feb 5, 1985",Al-Nassr FC
+Centre-Forward,left,"Jan 23, 2004",Louis Saha,"1,82m",4015,"['France', 'Guadeloupe']",€12.00m,Fulham FC,28,"Aug 8, 1978",Retired
+Centre-Forward,,"Jan 1, 2007",Henrik Larsson,,3514,"['Sweden', 'Cape Verde']",€2.00m,Helsingborgs IF,35,"Sep 20, 1971",Retired
+Centre-Forward,both,"Jul 29, 1996",Ole Gunnar Solskjær,"1,79m",3394,['Norway'],€1.10m,Molde FK,34,"Feb 26, 1973",Retired
+Centre-Forward,right,"Jan 1, 2004",Fangzhuo Dong,"1,85m",15832,['China'],€900k,Dalian Shide,22,"Jan 23, 1985",Retired
+Centre-Forward,right,"Jul 1, 2003",Phil Marsh,"1,78m",59175,['England'],,Manchester United U18,20,"Nov 15, 1986",Unknown

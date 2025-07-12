@@ -1,0 +1,38 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jul 1, 1986",Bryan Gunn,,209817,['Scotland'],Aberdeen FC,31,"Dec 22, 1963",Retired
+Goalkeeper,,"Aug 1, 1993",Scott Howie,"1,88m",105170,['Scotland'],Clyde FC,23,"Jan 4, 1972",Retired
+Goalkeeper,right,"Jul 1, 1993",Andy Marshall,"1,88m",13249,['England'],Norwich City U18,20,"Apr 14, 1975",Retired
+Goalkeeper,,"Dec 1, 1994",Andy Rhodes,"1,86m",33258,['England'],: Ablöse ?,30,"Aug 23, 1964",Retired
+Goalkeeper,,"Dec 1, 1994",Jon Hallworth,,222507,['England'],: Ablöse free transfer,29,"Oct 26, 1965",Retired
+Goalkeeper,,"Dec 31, 1994",Simon Tracey,,224428,['England'],Sheffield United,27,"Dec 9, 1967",Retired
+Centre-Back,,"Jul 1, 1991",Rob Newman,"1,88m",67000,['England'],: Ablöse ?,31,"Dec 13, 1963",Retired
+Centre-Back,right,"Jul 1, 1994",Jon Newsome,"1,88m",107093,['England'],: Ablöse €1.50m,24,"Sep 6, 1970",Retired
+Centre-Back,,"Jul 24, 1990",John Polston,"1,80m",222902,['England'],: Ablöse €316k,27,"Jun 10, 1968",Retired
+Centre-Back,,"Mar 9, 1995",Andrew Brownrigg,,1235808,['England'],Hereford United (- 2014),18,"Aug 2, 1976",Retired
+Centre-Back,right,"Jul 1, 1993",Spencer Prior,"1,91m",12722,"['England', 'Australia']",Southend United,24,"Apr 22, 1971",Retired
+Centre-Back,,"Sep 1, 1986",Ian Butterworth,"1,85m",222894,['England'],: Ablöse €203k,31,"Jan 25, 1964",Retired
+Left-Back,left,"Jul 23, 1987",Mark Bowen,"1,73m",181585,['Wales'],: Ablöse €100k,31,"Dec 7, 1963",Retired
+Left-Back,left,"Jul 1, 1990",Robert Ullathorne,"1,73m",107798,['England'],Norwich City U18,23,"Oct 11, 1971",Retired
+Right-Back,right,"Feb 17, 1994",Neil Adams,"1,73m",222481,['England'],: Ablöse €375k,29,"Nov 23, 1965",Retired
+Right-Back,right,"Oct 8, 1985",Ian Culverhouse,"1,80m",222896,['England'],: Ablöse €63k,30,"Sep 22, 1964",Retired
+Right-Back,right,"Jul 1, 1990",Daryl Sutch,"1,83m",224424,['England'],Norwich City U18,23,"Sep 11, 1971",Retired
+Right-Back,right,"Jul 28, 1994",Carl Bradshaw,"1,78m",177104,['England'],Sheffield United,26,"Oct 2, 1968",Retired
+Right-Back,,"Jul 1, 1994",Jon Wright,,224438,['Northern Ireland'],Linfield FC,19,"Nov 24, 1975",Retired
+Right-Back,right,"Jul 1, 1994",Danny Mills,"1,80m",3743,['England'],Norwich City U18,18,"May 18, 1977",Retired
+Defensive Midfield,,"Jul 1, 1992",Gary Megson,,177126,['England'],: Ablöse free transfer,36,"May 2, 1959",Retired
+Central Midfield,,"Jun 13, 1986",Ian Crook,,222895,['England'],: Ablöse €101k,32,"Jan 18, 1963",Retired
+Central Midfield,right,"Jul 1, 1994",Mike Milligan,"1,73m",177271,"['Ireland', 'England']",: Ablöse €947k,28,"Feb 20, 1967",Retired
+Central Midfield,,"Mar 23, 1983",Jeremy Goss,,222898,"['Wales', 'Cyprus']",Norwich City U18,30,"May 11, 1965",Retired
+Central Midfield,,"Jul 1, 1994",Shaun Carey,,935021,"['Ireland', 'England']",Norwich City U18,19,"May 13, 1976",Retired
+Central Midfield,,"Jul 1, 1994",Justin Harrington,,1161744,['England'],Norwich City U18,20,"Jun 18, 1975",Retired
+Central Midfield,,"Jul 1, 1994",Marcus Oldbury,,1169213,['England'],Norwich City U18,19,"Mar 29, 1976",Retired
+Right Midfield,right,"Jul 1, 1994",Ali Gibb,"1,75m",66924,['England'],Norwich City U18,19,"Feb 17, 1976",Retired
+Left Midfield,left,"Jul 1, 1992",Darren Eadie,"1,74m",4256,['England'],Norwich City U18,20,"Jun 10, 1975",Retired
+Attacking Midfield,right,"Jul 1, 1992",Andy Johnson,"1,83m",3672,"['Wales', 'England']",Norwich City U18,21,"May 2, 1974",Retired
+Left Winger,left,"Jul 1, 1994",Keith O'Neill,"1,88m",10017,['Ireland'],Home Farm,19,"Feb 16, 1976",Retired
+Centre-Forward,right,"Dec 8, 1994",Ashley Ward,"1,85m",13548,['England'],Crewe Alexandra,24,"Nov 24, 1970",Retired
+Centre-Forward,right,"Aug 14, 1992",Mark Robins,"1,73m",13644,['England'],: Ablöse €1.00m,25,"Dec 22, 1969",Retired
+Centre-Forward,right,"Jul 1, 1994",Mike Sheron,"1,78m",21362,['England'],: Ablöse €1.38m,23,"Jan 11, 1972",Retired
+Centre-Forward,,"Mar 1, 1993",Efan Ekoku,"1,88m",102315,"['Nigeria', 'England']",: Ablöse ?,28,"Jun 8, 1967",Retired
+Centre-Forward,right,"Jul 1, 2007",Jamie Cureton,"1,73m",15469,['England'],Colchester United,19,"Aug 28, 1975",Retired
+Centre-Forward,right,"Feb 1, 1993",Ade Akinbiyi,"1,85m",4037,"['Nigeria', 'England']",Norwich City U18,20,"Oct 10, 1974",Retired

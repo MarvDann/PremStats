@@ -1,0 +1,37 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2022",Alphonse Areola,"1,95m",120629,"['France', 'Philippines']",€8.00m,,: Ablöse €9.30m,29,"Feb 27, 1993",West Ham United
+Goalkeeper,right,,"Jul 1, 2018",Lukasz Fabianski,"1,90m",29692,['Poland'],€1.00m,,: Ablöse €8.00m,37,"Apr 18, 1985",West Ham United
+Goalkeeper,right,,"Jan 15, 2020",Darren Randolph,"1,87m",51321,"['Ireland', 'United States']",€800k,,Middlesbrough FC,35,"May 12, 1987",Retired
+Goalkeeper,right,,"Jul 1, 2019",David Martin,"1,88m",15930,['England'],€250k,,Millwall FC,36,"Jan 22, 1986",Retired
+Centre-Back,right,,"Aug 28, 2021",Kurt Zouma,"1,90m",157509,"['France', 'Central African Republic']",€28.00m,,Chelsea FC,27,"Oct 27, 1994",Al-Orobah FC
+Centre-Back,right,,"Jul 1, 2018",Issa Diop,"1,94m",272622,"['France', 'Senegal']",€10.00m,,FC Toulouse,25,"Jan 9, 1997",Fulham FC
+Centre-Back,right,,"Jul 1, 2021",Craig Dawson,"1,88m",121477,['England'],€3.00m,,Watford FC,32,"May 6, 1990",Wolverhampton Wanderers
+Centre-Back,left,,"Jul 10, 2015",Angelo Ogbonna,"1,91m",48002,"['Italy', 'Nigeria']",€1.20m,,: Ablöse €11.00m,34,"May 23, 1988",Watford FC
+Centre-Back,left,,,Aji Alese,"1,92m",502065,"['England', 'Nigeria']",€500k,,,21,"Jan 17, 2001",Sunderland AFC
+Centre-Back,,,,Jamal Baptiste,"1,90m",610706,['England'],€200k,,,18,"Nov 11, 2003",Sheffield United U21
+Left-Back,left,,"Aug 8, 2016",Arthur Masuaku,"1,79m",181380,"['DR Congo', 'France']",€5.00m,,: Ablöse €7.10m,28,"Nov 7, 1993",Besiktas JK
+Left-Back,left,,"Jul 3, 2014",Aaron Cresswell,"1,70m",92571,['England'],€3.00m,,Ipswich Town,32,"Dec 15, 1989",West Ham United
+Left-Back,left,,,Emmanuel Longelo,"1,84m",504386,"['England', 'DR Congo']",€150k,,,21,"Dec 27, 2000",Cambridge United
+Right-Back,right,,"Oct 2, 2020",Vladimír Coufal,"1,74m",157672,['Czech Republic'],€12.00m,,: Ablöse €6.00m,29,"Aug 22, 1992",West Ham United
+Right-Back,right,,"Jul 1, 2020",Ben Johnson,"1,84m",468002,['England'],€9.00m,,West Ham United U21,22,"Jan 24, 2000",Ipswich Town
+Right-Back,right,Calf injury - Return unknown,"Jul 1, 2018",Ryan Fredericks,"1,81m",140191,"['England', 'Scotland']",€1.50m,,Fulham FC,29,"Oct 10, 1992",Without Club
+Right-Back,right,,,Harrison Ashby,"1,79m",559130,"['Scotland', 'England']",€300k,,,20,"Nov 14, 2001",Queens Park Rangers
+Defensive Midfield,right,,"Jul 1, 2017",Declan Rice,"1,88m",357662,"['England', 'Ireland']",€80.00m,,West Ham United U21,23,"Jan 14, 1999",Arsenal FC
+Defensive Midfield,right,,"Jul 27, 2020",Tomas Soucek,"1,92m",283628,['Czech Republic'],€45.00m,,: Ablöse €16.20m,27,"Feb 27, 1995",West Ham United
+Defensive Midfield,right,,"Jan 1, 2021",Conor Coventry,"1,77m",419025,"['Ireland', 'England']",€500k,,West Ham United U21,22,"Mar 25, 2000",Charlton Athletic
+Defensive Midfield,right,,,Keenan Appiah-Forson,"1,74m",554098,"['England', 'Ghana']",€300k,,,20,"Oct 16, 2001",Southend United
+Defensive Midfield,,,,Freddie Potts,,698164,['England'],€250k,,,18,"Sep 12, 2003",Portsmouth FC
+Defensive Midfield,left,,,Pierre Ekwah,"1,89m",538994,"['France', 'Ghana']",,,,20,"Jan 15, 2002",AS Saint-Étienne
+Central Midfield,right,,"Aug 31, 2021",Alex Král,"1,86m",337333,['Czech Republic'],€7.00m,,: Ablöse €5.20m,24,"May 19, 1998",RCD Espanyol Barcelona
+Central Midfield,right,,"Jan 1, 2005",Mark Noble,"1,80m",31835,"['England', 'Ireland']",€1.00m,,: Ablöse -,35,"May 8, 1987",Retired
+Right Midfield,right,,,Dan Chesters,,561452,['England'],€250k,,,20,"Apr 4, 2002",Salford City
+Attacking Midfield,right,,"Jul 1, 2019",Pablo Fornals,"1,78m",357885,['Spain'],€22.00m,,Villarreal CF,26,"Feb 22, 1996",Real Betis Balompié
+Attacking Midfield,right,,"Aug 31, 2021",Nikola Vlašić,"1,79m",293200,['Croatia'],€22.00m,,CSKA Moscow,24,"Oct 4, 1997",Torino FC
+Attacking Midfield,right,,"Jul 1, 2016",Manuel Lanzini,"1,70m",135853,"['Argentina', 'Italy']",€12.00m,,Al-Jazira Club,29,"Feb 15, 1993",CA River Plate
+Attacking Midfield,,,,Kamarai Swyer,,693066,['England'],,,,19,"Dec 4, 2002",West Ham United U21
+Left Winger,right,,"Jan 29, 2021",Saïd Benrahma,"1,72m",290532,"['Algeria', 'France']",€25.00m,"Returned after loan spell with Olympique Lyon; date: Jun 30, 2024; fee: End of loan",Brentford FC,26,"Aug 10, 1995",Olympique Lyon
+Left Winger,right,,,Armstrong Oko-Flex,"1,86m",531461,"['Ireland', 'England']",,,,20,"Mar 2, 2002",FC Zürich
+Right Winger,left,Team captain,"Jan 31, 2020",Jarrod Bowen,"1,76m",314875,['England'],€42.00m,,Hull City,25,"Dec 20, 1996",West Ham United
+Right Winger,left,,"Jul 11, 2018",Andriy Yarmolenko,"1,89m",69015,['Ukraine'],€2.50m,,Borussia Dortmund,32,"Oct 23, 1989",Dynamo Kyiv
+Centre-Forward,right,,"Sep 1, 2015",Michail Antonio,"1,80m",104124,"['Jamaica', 'England']",€10.00m,,: Ablöse €9.50m,32,"Mar 28, 1990",West Ham United
+Centre-Forward,left,,,Sonny Perkins,"1,89m",670877,"['England', 'Ireland']",€1.20m,,,18,"Feb 10, 2004",Leyton Orient

@@ -1,0 +1,39 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,,"Jul 24, 2018",Tim Krul,"1,93m",33027,['Netherlands'],€4.00m,,Brighton & Hove Albion,32,"Apr 3, 1988",Luton Town
+Goalkeeper,right,Torn lateral knee ligament - Return unknown,"Jul 5, 2019",Ralf Fährmann,"1,97m",39015,['Germany'],€1.60m,,FC Schalke 04,31,"Sep 27, 1988",FC Schalke 04
+Goalkeeper,right,,"Jul 19, 2016",Michael McGovern,"1,90m",29391,['Northern Ireland'],€300k,,Hamilton Academical FC,35,"Jul 12, 1984",Retired
+Goalkeeper,,,"Jul 1, 2024",Archie Mair,"1,98m",447063,['Scotland'],,"Internal transfer: Norwich City U21; date: Jul 1, 2024",Norwich City U21,19,"Feb 10, 2001",Norwich City
+Centre-Back,right,,"Jan 15, 2016",Ben Godfrey,"1,84m",343475,"['England', 'Jamaica']",€11.50m,,York City,22,"Jan 15, 1998",Atalanta BC
+Centre-Back,right,Knee problems - Return unknown,"Jul 1, 2017",Christoph Zimmermann,"1,94m",77812,['Germany'],€2.80m,,Borussia Dortmund II,27,"Jan 12, 1993",SV Darmstadt 98
+Centre-Back,right,Team captain,"Aug 30, 2017",Grant Hanley,"1,88m",121385,['Scotland'],€2.00m,,Newcastle United,28,"Nov 20, 1991",Norwich City
+Centre-Back,right,,"Jan 18, 2016",Timm Klose,"1,95m",65255,"['Switzerland', 'Germany']",€2.00m,,VfL Wolfsburg,32,"May 9, 1988",FC Basel 1893 U21
+Centre-Back,right,,"Aug 18, 2017",Sean Raggett,"1,96m",226219,"['England', 'Ireland']",€250k,,Lincoln City,26,"Jan 25, 1994",Rotherham United
+Centre-Back,left,,"Jan 29, 2019",Akin Famewo,"1,88m",425713,"['England', 'Nigeria']",€25k,,Luton Town,21,"Nov 9, 1998",Sheffield Wednesday
+Left-Back,left,,"Jan 1, 2018",Jamal Lewis,"1,78m",346018,"['Northern Ireland', 'England']",€11.00m,,Norwich City U21,22,"Jan 25, 1998",São Paulo Futebol Clube
+Left-Back,left,,"Jan 31, 2019",Philip Heise,"1,84m",112617,['Germany'],€550k,,SG Dynamo Dresden,29,"Jun 20, 1991",SG Dynamo Dresden
+Left-Back,left,,"Jan 31, 2020",Sam McCallum,"1,77m",618901,['England'],,,Coventry City,19,"Sep 2, 2000",Sheffield United
+Right-Back,right,,"Jul 1, 2018",Max Aarons,"1,77m",471690,"['England', 'Jamaica']",€20.00m,,Norwich City U21,20,"Jan 4, 2000",AFC Bournemouth
+Right-Back,right,,"Jul 16, 2019",Sam Byram,"1,83m",236953,['England'],€2.80m,,West Ham United,26,"Sep 16, 1993",Leeds United
+Right-Back,right,,,Jordan Thomas,"1,79m",563306,['England'],,,,19,"Jan 2, 2001",Yeovil Town
+Defensive Midfield,right,,"Aug 7, 2019",Ibrahim Amadou,"1,83m",205503,"['France', 'Cameroon']",€5.50m,,Sevilla FC,27,"Apr 6, 1993",Shanghai Shenhua
+Defensive Midfield,right,,"Aug 4, 2017",Tom Trybull,"1,83m",93831,['Germany'],€3.20m,,ADO Den Haag,27,"Mar 9, 1993",Odense Boldklub
+Defensive Midfield,right,,"Aug 24, 2012",Alexander Tettey,"1,81m",12384,['Norway'],€1.60m,,Stade Rennais FC,34,"Apr 4, 1986",Retired
+Central Midfield,right,,"Jan 12, 2020",Ondrej Duda,"1,80m",232418,['Slovakia'],€10.50m,,Hertha BSC,25,"Dec 5, 1994",Hellas Verona
+Central Midfield,left,,"Jan 22, 2018",Kenny McLean,"1,80m",126600,['Scotland'],€3.50m,,Aberdeen FC,28,"Jan 8, 1992",Norwich City
+Central Midfield,right,Calf injury - Return unknown,"Jan 13, 2020",Lukas Rupp,"1,78m",82863,['Germany'],€2.40m,,TSG 1899 Hoffenheim,29,"Jan 8, 1991",KSV Hessen Kassel
+Central Midfield,right,,"Jul 1, 2018",Moritz Leitner,"1,78m",82243,"['Germany', 'Austria']",€2.40m,,FC Augsburg,27,"Dec 8, 1992",Without Club
+Central Midfield,left,,"Jul 1, 2017",Mario Vrancic,"1,87m",39372,"['Bosnia-Herzegovina', 'Germany']",€2.00m,,SV Darmstadt 98,31,"May 23, 1989",Eintracht Frankfurt II
+Central Midfield,right,,"Sep 1, 2014",Louis Thompson,"1,80m",207771,"['Wales', 'England']",€250k,,Swindon Town,25,"Dec 19, 1994",Stevenage FC
+Central Midfield,right,,"Jul 1, 2019",Daniel Adshead,"1,79m",532464,['England'],,,Rochdale AFC,18,"Sep 2, 2001",Without Club
+Attacking Midfield,right,,"Jul 1, 2018",Todd Cantwell,"1,80m",332341,['England'],€20.00m,,Norwich City U21,22,"Feb 27, 1998",Blackburn Rovers
+Attacking Midfield,right,,"Jul 1, 2018",Emiliano Buendía,"1,72m",321247,"['Argentina', 'Spain']",€14.50m,,Getafe CF,23,"Dec 25, 1996",Aston Villa
+Attacking Midfield,left,,"Aug 6, 2017",Marco Stiepermann,"1,90m",45760,['Germany'],€3.20m,,VfL Bochum,29,"Feb 9, 1991",ASC 09 Dortmund
+Left Winger,right,,"Jan 25, 2018",Onel Hernández,"1,72m",109751,"['Cuba', 'Germany']",€3.20m,,Eintracht Braunschweig,27,"Feb 1, 1993",Norwich City
+Left Winger,right,,"Aug 1, 2020",Josh Martin,"1,76m",547534,"['England', 'Ireland']",,,Norwich City U18,18,"Sep 9, 2001",Notts County
+Right Winger,left,,"Jul 1, 2019",Patrick Roberts,"1,67m",225452,['England'],€2.80m,,Manchester City,23,"Feb 5, 1997",Sunderland AFC
+Centre-Forward,right,,"Jul 1, 2018",Teemu Pukki,"1,80m",46972,['Finland'],€8.00m,,Bröndby IF,30,"Mar 29, 1990",Minnesota United FC
+Centre-Forward,right,,"Jul 1, 2019",Josip Drmic,"1,84m",140579,"['Switzerland', 'Croatia']",€1.60m,,Borussia Mönchengladbach,27,"Aug 8, 1992",Without Club
+Centre-Forward,right,,"Jul 1, 2019",Adam Idah,"1,90m",434223,"['Ireland', 'Nigeria']",€900k,"Returned after loan spell with Celtic FC; date: Jun 30, 2024; fee: End of loan",Norwich City U21,19,"Feb 11, 2001",Celtic FC
+Centre-Forward,right,,"Jan 25, 2018",Dennis Srbeny,"1,90m",159239,['Germany'],€800k,,SC Paderborn 07,26,"May 5, 1994",SpVgg Greuther Fürth
+Centre-Forward,right,,"Jul 1, 2016",Carlton Morris,"1,85m",246963,['England'],€150k,,Norwich City U21,24,"Dec 16, 1995",Luton Town
+Centre-Forward,right,,"Jul 1, 2018",Mason Bloomfield,"1,91m",339013,"['England', 'Jamaica']",,,: Ablöse free transfer,23,"Nov 6, 1996",Without Club

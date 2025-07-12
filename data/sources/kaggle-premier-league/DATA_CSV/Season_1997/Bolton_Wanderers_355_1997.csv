@@ -1,0 +1,35 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jul 1, 1992",Keith Branagan,"1,83m",195173,"['Ireland', 'England']",: Ablöse free transfer,31,"Jul 10, 1966",Retired
+Goalkeeper,,"Mar 1, 1996",Gavin Ward,"1,91m",10045,['England'],Bradford City,28,"Jun 30, 1970",Retired
+Goalkeeper,right,"Nov 1, 1997",Jussi Jääskeläinen,"1,91m",3692,['Finland'],: Ablöse €150k,23,"Apr 19, 1975",Retired
+Centre-Back,right,"Aug 1, 1995",Gerry Taggart,"1,88m",4264,['Northern Ireland'],Barnsley FC,27,"Oct 18, 1970",Retired
+Centre-Back,right,"Sep 19, 1997",Mark Fish,"1,87m",3087,['South Africa'],SS Lazio,24,"Mar 14, 1974",Retired
+Centre-Back,right,"Jul 1, 1995",Greg Strong,"1,88m",29362,['England'],Wigan Athletic,22,"Sep 5, 1975",Retired
+Centre-Back,right,"Jul 1, 1997",Neil Cox,"1,83m",13784,['England'],: Ablöse €2.00m,26,"Oct 8, 1971",Retired
+Centre-Back,,"Jul 1, 1995",Chris Fairclough,,175866,['England'],: Ablöse €540k,34,"Apr 12, 1964",Retired
+Centre-Back,,"Jan 1, 1995",Gudni Bergsson,,3268,['Iceland'],: Ablöse €95k,32,"Jul 21, 1965",Retired
+Centre-Back,right,"Jul 1, 1995",Andy Todd,"1,78m",3103,['England'],: Ablöse €375k,23,"Sep 21, 1974",Retired
+Centre-Back,,"Jan 1, 1998",Mike Whitlow,"1,83m",3318,['England'],: Ablöse €750k,30,"Jan 13, 1968",Retired
+Centre-Back,left,"Jul 1, 1997",Hasney Aljofree,"1,83m",20950,['England'],Bolton Wanderers U18,19,"Jul 11, 1978",Retired
+Left-Back,,"Mar 1, 1996",Bryan Small,,222733,['England'],: Ablöse free transfer,26,"Nov 15, 1971",Retired
+Left-Back,left,"Jul 1, 1997",Robbie Elliott,"1,79m",3577,['England'],Newcastle United,24,"Dec 25, 1973",Retired
+Left-Back,,"Jul 1, 1993",Jimmy Phillips,,195178,['England'],: Ablöse €286k,32,"Feb 8, 1966",Retired
+Right-Back,right,"Sep 30, 1995",Steve McAnespie,"1,75m",176004,['Scotland'],Raith Rovers FC,26,"Feb 1, 1972",Retired
+Midfielder,,,Jamie Phillips,,188416,['Scotland'],,6,"Jul 5, 1991",Unknown
+Defensive Midfield,right,"Nov 15, 1996",Jamie Pollock,"1,78m",222230,['England'],CA Osasuna,24,"Feb 16, 1974",Retired
+Central Midfield,,"Dec 19, 1996",John Sheridan,,102496,"['Ireland', 'England']",: Ablöse €225k,33,"Oct 1, 1964",Retired
+Right Midfield,right,"Jul 1, 2000",Per Frandsen,"1,78m",3735,['Denmark'],Blackburn Rovers,28,"Feb 6, 1970",Retired
+Left Midfield,left,"Jan 1, 1998",John Salako,"1,75m",13423,"['England', 'Nigeria']",Coventry City,29,"Feb 11, 1969",Retired
+Left Midfield,left,"Dec 6, 1995",Scott Sellars,"1,73m",175888,['England'],Newcastle United,32,"Nov 27, 1965",Retired
+Left Midfield,left,"Jul 22, 1993",Alan Thompson,"1,83m",3485,['England'],Newcastle United,24,"Dec 22, 1973",Retired
+Attacking Midfield,,"Jul 1, 1996",Michael Johansen,"1,68m",15391,['Denmark'],: Ablöse €1.70m,25,"Jul 22, 1972",Retired
+Left Winger,left,,Jamie Pollock,"1,70m",60801,['Scotland'],,6,"Feb 20, 1992",Gartcairn FA Juniors
+Right Winger,right,"Aug 1, 1997",Arnar Gunnlaugsson,"1,78m",17955,['Iceland'],ÍA Akranes,25,"Mar 6, 1973",Retired
+Right Winger,,"Oct 24, 1997",Franz Carr,"1,70m",222286,['England'],: Ablöse free transfer,31,"Sep 24, 1966",Retired
+Second Striker,right,"Aug 18, 1997",Peter Beardsley,"1,73m",102030,['England'],Newcastle United,37,"Jan 18, 1961",Retired
+Centre-Forward,right,"Jan 1, 1996",Nathan Blake,"1,82m",4229,['Wales'],Sheffield United,26,"Jan 27, 1972",Retired
+Centre-Forward,right,"Mar 28, 1996",Scott Taylor,"1,78m",36996,['England'],: Ablöse €170k,22,"May 5, 1976",Retired
+Centre-Forward,,"Sep 1, 1992",John McGinlay,"1,75m",149473,['Scotland'],: Ablöse €150k,34,"Apr 8, 1964",Retired
+Centre-Forward,both,"Oct 2, 1997",Dean Holdsworth,"1,80m",13792,['England'],: Ablöse €4.87m,29,"Nov 8, 1968",Retired
+Centre-Forward,right,"Jul 1, 1998",Bob Taylor,"1,80m",3664,['England'],: Ablöse €100k,31,"Feb 3, 1967",Retired
+Centre-Forward,right,"Jan 1, 1998",Gaetano Giallanza,"1,82m",11521,"['Switzerland', 'Italy']",: Ablöse ?,24,"Jun 6, 1974",Retired

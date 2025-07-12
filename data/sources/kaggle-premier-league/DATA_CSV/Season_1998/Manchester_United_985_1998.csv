@@ -1,0 +1,43 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,"Jul 1, 1999",Nick Culkin,"1,90m",13719,['England'],Manchester United Reserves,20,"Jul 6, 1978",Retired
+Goalkeeper,left,"Jul 1, 1999",Mark Bosnich,"1,85m",3249,"['Australia', 'Croatia']",: Ablöse free transfer,27,"Jan 13, 1972",Retired
+Goalkeeper,,"Sep 1, 1999",Massimo Taibi,"1,90m",3527,['Italy'],: Ablöse €5.30m,29,"Feb 18, 1970",Retired
+Goalkeeper,right,"Jul 1, 1991",Peter Schmeichel,"1,96m",3465,"['Denmark', 'Poland']",Bröndby IF,35,"Nov 18, 1963",Retired
+Goalkeeper,,"Jul 1, 1996",Raimond van der Gouw,"1,91m",3644,['Netherlands'],Vitesse Arnhem,36,"Mar 24, 1963",Retired
+Goalkeeper,,"Jul 1, 1992",Kevin Pilkington,"1,85m",77354,['England'],Manchester United U18,25,"Mar 8, 1974",Retired
+Centre-Back,right,"Jul 1, 1994",David May,"1,84m",3538,['England'],Blackburn Rovers,29,"Jun 24, 1970",Retired
+Centre-Back,right,"Jul 1, 1996",Ronny Johnsen,"1,90m",3578,['Norway'],: Ablöse €2.23m,30,"Jun 10, 1969",Retired
+Centre-Back,right,"Jul 1, 1998",Jaap Stam,"1,91m",3557,['Netherlands'],: Ablöse €17.00m,26,"Jul 17, 1972",Retired
+Centre-Back,right,"Jul 1, 1996",Wes Brown,"1,85m",3405,['England'],Manchester United U18,19,"Oct 13, 1979",Retired
+Centre-Back,right,"Jul 1, 1992",Chris Casper,"1,83m",150434,['England'],Manchester United U18,24,"Apr 28, 1975",Retired
+Centre-Back,left,"Aug 1, 1997",Danny Higginbotham,"1,85m",3686,"['Gibraltar', 'England']",Manchester United U18,20,"Dec 29, 1978",Retired
+Left-Back,,"Sep 10, 1999",Mikaël Silvestre,,3393,"['France', 'Guadeloupe']",: Ablöse €5.70m,21,"Aug 9, 1977",Retired
+Left-Back,left,"Jan 1, 2000",Quinton Fortune,"1,82m",3541,"['South Africa', 'England']",: Ablöse €2.25m,22,"May 21, 1977",Retired
+Left-Back,right,"Jul 1, 1990",Denis Irwin,"1,73m",4280,['Ireland'],: Ablöse €700k,33,"Oct 31, 1965",Retired
+Right-Back,right,"Jul 1, 1992",Gary Neville,"1,80m",3403,['England'],Manchester United U18,24,"Feb 18, 1975",Retired
+Right-Back,right,"Jul 1, 1994",Phil Neville,"1,80m",3404,['England'],Manchester United U18,22,"Jan 21, 1977",Retired
+Right-Back,right,"Jul 1, 1997",John Curtis,"1,78m",7913,['England'],Manchester United U18,20,"Sep 3, 1978",Retired
+Right-Back,right,"Jul 1, 1997",Henning Berg,"1,83m",3823,"['Norway', 'Cyprus']",Blackburn Rovers,29,"Sep 1, 1969",Retired
+Right-Back,right,"Jul 1, 1995",Mike Clegg,"1,73m",106894,['England'],Manchester United U18,21,"Jul 3, 1977",Retired
+Midfielder,,,Ryan Ford,,642365,['England'],,20,"Sep 3, 1978",Retired
+Midfielder,,,Paul Teather,,642366,['England'],,21,"Dec 26, 1977",Retired
+Defensive Midfield,right,"Jul 1, 1992",Nicky Butt,"1,78m",3543,['England'],Manchester United U18,24,"Jan 21, 1975",Retired
+Central Midfield,right,"Jul 1, 1992",David Beckham,"1,82m",3139,['England'],Manchester United U18,24,"May 2, 1975",Retired
+Central Midfield,,"Jul 1, 1993",Roy Keane,,3396,['Ireland'],: Ablöse €4.40m,27,"Aug 10, 1971",Retired
+Central Midfield,right,"Jan 8, 2012",Paul Scholes,"1,68m",3397,['England'],,24,"Nov 16, 1974",Retired
+Central Midfield,right,,Phil Mulryne,"1,75m",11720,['Northern Ireland'],,21,"Jan 1, 1978",Retired
+Central Midfield,left,"Jul 1, 1994",Ronnie Wallwork,"1,78m",3305,['England'],Manchester United U18,21,"Sep 10, 1977",Retired
+Central Midfield,right,"Jul 1, 1997",Mark Wilson,"1,83m",3327,['England'],Manchester United U18,20,"Feb 9, 1979",Retired
+Central Midfield,right,"Mar 25, 1998",Jonathan Greening,"1,80m",3865,['England'],York City,20,"Jan 2, 1979",Retired
+Right Midfield,right,"Jul 1, 1994",Terry Cooke,"1,70m",13404,['England'],Manchester United U18,22,"Aug 5, 1976",Retired
+Right Midfield,right,"Jul 1, 1997",Michael Twiss,"1,80m",67350,['England'],Manchester United Reserves,21,"Dec 26, 1977",Retired
+Left Midfield,left,"Jul 1, 1998",Jesper Blomqvist,"1,76m",3095,['Sweden'],: Ablöse €7.00m,25,"Feb 5, 1974",Retired
+Left Midfield,left,"Jul 1, 1991",Ryan Giggs,"1,79m",3406,['Wales'],Manchester United U18,25,"Nov 29, 1973",Retired
+Attacking Midfield,right,"Jul 1, 1996",Jordi Cruyff,"1,84m",7436,"['Netherlands', 'Spain']",: Ablöse €2.50m,25,"Feb 9, 1974",Retired
+Right Winger,right,,Alex Notman,"1,70m",11729,['Scotland'],,19,"Dec 10, 1979",Retired
+Centre-Forward,right,"Jul 1, 1998",David Healy,"1,73m",14021,['Northern Ireland'],Manchester United U18,19,"Aug 5, 1979",Retired
+Centre-Forward,right,"Jan 12, 1995",Andy Cole,"1,75m",3238,"['England', 'Jamaica']",Newcastle United,27,"Oct 15, 1971",Retired
+Centre-Forward,,"Jul 1, 1997",Teddy Sheringham,,3392,['England'],: Ablöse €5.30m,33,"Apr 2, 1966",Retired
+Centre-Forward,,"Jul 1, 1998",Dwight Yorke,"1,78m",3223,"['Trinidad and Tobago', 'England']",: Ablöse €19.25m,27,"Nov 3, 1971",Retired
+Centre-Forward,both,"Jul 29, 1996",Ole Gunnar Solskjær,"1,79m",3394,['Norway'],Molde FK,26,"Feb 26, 1973",Retired
+Centre-Forward,right,"Jul 1, 1997",Erik Nevland,"1,78m",13711,['Norway'],Viking FK,21,"Nov 10, 1977",Retired

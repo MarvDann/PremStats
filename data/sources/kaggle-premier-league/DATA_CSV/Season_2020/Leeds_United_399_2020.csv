@@ -1,0 +1,40 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,,"Jul 27, 2020",Illan Meslier,"1,97m",542586,['France'],€20.00m,,FC Lorient,21,"Mar 2, 2000",Leeds United
+Goalkeeper,right,,"Jan 17, 2019",Kiko Casilla,"1,91m",27486,['Spain'],€800k,,Real Madrid,34,"Oct 2, 1986",Retired
+Goalkeeper,right,,,Elia Caprile,"1,91m",421873,['Italy'],€200k,,,19,"Aug 25, 2001",SSC Napoli
+Centre-Back,right,,"Sep 24, 2020",Diego Llorente,"1,86m",246291,['Spain'],€20.00m,"Returned after loan spell with AS Roma; date: Jun 30, 2024; fee: End of loan",Real Sociedad,27,"Aug 16, 1993",Real Betis Balompié
+Centre-Back,right,,"Aug 29, 2020",Robin Koch,"1,91m",328784,['Germany'],€17.00m,"Returned after loan spell with Eintracht Frankfurt; date: Jun 30, 2024; fee: End of loan",SC Freiburg,24,"Jul 17, 1996",Eintracht Frankfurt
+Centre-Back,left,,"Jan 1, 2020",Pascal Struijk,"1,90m",410708,"['Netherlands', 'Belgium']",€9.00m,,Leeds United U21,21,"Aug 11, 1999",Leeds United
+Centre-Back,left,,"Aug 13, 2014",Liam Cooper,"1,86m",75067,"['Scotland', 'England']",€7.00m,,Chesterfield FC,29,"Aug 30, 1991",CSKA-Sofia
+Centre-Back,right,,,Oliver Casey,"1,88m",559800,['England'],€250k,,,20,"Dec 19, 2000",Blackpool FC
+Centre-Back,right,,"Jul 1, 2021",Charlie Cresswell,"1,90m",597659,['England'],€200k,,Leeds United U21,18,"Aug 17, 2002",FC Toulouse
+Left-Back,left,,"Jul 13, 2017",Ezgjan Alioski,"1,71m",129604,"['North Macedonia', 'Switzerland']",€5.00m,,: Ablöse €2.50m,29,"Feb 12, 1992",Without Club
+Left-Back,left,,"Jul 28, 2018",Barry Douglas,"1,76m",91854,['Scotland'],€1.50m,,Wolverhampton Wanderers,31,"Sep 4, 1989",St. Johnstone FC
+Left-Back,left,,"Jul 4, 2018",Leif Davis,"1,82m",596446,['England'],€800k,,: Ablöse ?,21,"Dec 31, 1999",Ipswich Town
+Left-Back,right,Knee surgery - Return unknown,,Niall Huggins,"1,73m",559801,"['Wales', 'England']",€200k,,,20,"Dec 18, 2000",Sunderland AFC
+Right-Back,right,,"Aug 11, 2016",Luke Ayling,"1,83m",67420,['England'],€5.00m,,: Ablöse €870k,29,"Aug 25, 1991",Middlesbrough FC
+Right-Back,right,,"Jul 1, 2018",Jamie Shackleton,"1,68m",534700,['England'],€2.50m,,Leeds United U21,21,"Oct 8, 1999",Sheffield United
+Right-Back,right,,"Jul 18, 2014",Gaetano Berardi,"1,79m",43084,"['Switzerland', 'Italy']",€300k,,UC Sampdoria,32,"Aug 21, 1988",Retired
+Right-Back,right,,"Jul 1, 2021",Cody Drameh,"1,81m",531957,"['England', 'The Gambia']",,,Leeds United U21,19,"Dec 8, 2001",Hull City
+Defensive Midfield,right,,"Jul 1, 2015",Kalvin Phillips,"1,79m",351749,"['England', 'Jamaica']",€30.00m,,Leeds United U21,25,"Dec 2, 1995",Ipswich Town
+Defensive Midfield,left,,"Aug 1, 2017",Ouasim Bouy,"1,81m",126412,"['Morocco', 'Netherlands']",€250k,,: Ablöse free transfer,28,"Jun 11, 1993",Without Club
+Defensive Midfield,right,,,Jack Jenkins,"1,90m",734375,['England'],€150k,,,19,"Mar 23, 2002",FC Halifax Town
+Defensive Midfield,right,,,Alfie McCalmont,"1,75m",471368,"['Northern Ireland', 'England']",,,,21,"Mar 25, 2000",Central Coast Mariners
+Central Midfield,right,,"Jul 1, 2017",Mateusz Klich,"1,83m",92738,['Poland'],€4.00m,,Twente Enschede FC,31,"Jun 13, 1990",D.C. United
+Central Midfield,right,,"Jan 18, 2018",Adam Forshaw,"1,75m",121257,['England'],€2.00m,,Middlesbrough FC,29,"Oct 8, 1991",Plymouth Argyle
+Central Midfield,right,,"Jan 1, 2019",Robbie Gotts,"1,77m",534698,['England'],€250k,,Leeds United U21,21,"Nov 9, 1999",Barrow AFC
+Central Midfield,right,,"Aug 31, 2016",Eunan O'Kane,"1,68m",61583,"['Ireland', 'Northern Ireland']",€200k,,AFC Bournemouth,30,"Jul 10, 1990",Retired
+Left Midfield,right,,"Aug 4, 2015",Stuart Dallas,"1,83m",158764,['Northern Ireland'],€4.00m,,: Ablöse €1.90m,30,"Apr 19, 1991",Retired
+Attacking Midfield,right,,"Jan 31, 2018",Tyler Roberts,"1,80m",296986,"['Wales', 'England']",€6.00m,,West Bromwich Albion U21,22,"Jan 12, 1999",Northampton Town
+Attacking Midfield,right,,"Jan 29, 2019",Mateusz Bogusz,"1,75m",431475,['Poland'],€1.00m,,: Ablöse €100k,19,"Aug 22, 2001",Los Angeles FC
+Attacking Midfield,right,,"Jan 31, 2018",Jordan Stevens,"1,78m",533913,['England'],€200k,,Forest Green Rovers ,21,"Mar 25, 2000",Ilkeston Town FC
+Attacking Midfield,right,,"Jan 1, 2022",Sam Greenwood,"1,80m",532178,['England'],€200k,,Leeds United U21,19,"Jan 26, 2002",Preston North End
+Left Winger,left,,"Oct 5, 2020",Raphinha,"1,76m",411295,"['Brazil', 'Italy']",€30.00m,,Stade Rennais FC,24,"Dec 14, 1996",FC Barcelona
+Left Winger,right,,"Jul 1, 2021",Crysencio Summerville,"1,74m",474701,"['Netherlands', 'Suriname']",€1.50m,,Leeds United U21,19,"Oct 30, 2001",West Ham United
+Right Winger,left,,"Jul 2, 2021",Jack Harrison,"1,75m",417346,['England'],€15.00m,,Manchester City,24,"Nov 20, 1996",Everton FC
+Right Winger,left,,"Jul 1, 2020",Hélder Costa,"1,79m",173900,"['Angola', 'Portugal']",€10.00m,,Wolverhampton Wanderers,27,"Jan 12, 1994",Estoril Praia
+Right Winger,left,,"Jan 24, 2020",Ian Poveda,"1,67m",392763,"['Colombia', 'England']",€1.50m,,Manchester City U23,21,"Feb 9, 2000",Sunderland AFC
+Right Winger,right,,"Jan 9, 2017",Pablo Hernández,"1,73m",46220,['Spain'],€800k,,Al-Arabi SC,36,"Apr 11, 1985",Retired
+Centre-Forward,left,,"Jul 31, 2018",Patrick Bamford,"1,85m",183334,"['England', 'Ireland']",€22.00m,,Middlesbrough FC,27,"Sep 5, 1993",Leeds United
+Centre-Forward,left,"Finger injury - Return expected on Dec 17, 2024","Aug 29, 2020",Rodrigo,"1,82m",131505,"['Spain', 'Brazil']",€18.00m,,Valencia CF,30,"Mar 6, 1991",Al-Gharafa SC
+Centre-Forward,left,,"Aug 10, 2020",Joe Gelhardt,"1,79m",503980,['England'],€1.30m,,Wigan Athletic,19,"May 4, 2002",Leeds United

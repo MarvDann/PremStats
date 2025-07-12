@@ -1,0 +1,32 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Nov 3, 2000",Brad Friedel,"1,91m",3476,"['United States', 'England']",€2.50m,: Ablöse free transfer,36,"May 18, 1971",Retired
+Goalkeeper,right,"Jan 1, 2004",Peter Enckelman,"1,88m",3719,['Finland'],€1.25m,: Ablöse €215k,30,"Mar 10, 1977",Retired
+Goalkeeper,,"Jul 1, 2006",Jason Brown,,15916,['Wales'],€300k,Gillingham FC,25,"May 18, 1982",Retired
+Centre-Back,right,"Sep 7, 2001",Lucas Neill,"1,85m",3826,"['Australia', 'Northern Ireland']",€3.60m,: Ablöse €1.50m,29,"Mar 9, 1978",Retired
+Centre-Back,right,"Sep 9, 2006",Stéphane Henchoz,"1,85m",3210,"['Switzerland', 'Germany']",€3.40m,Without Club,32,"Sep 7, 1974",Retired
+Centre-Back,right,"Aug 1, 2006",André Ooijer,"1,87m",4345,['Netherlands'],€3.00m,: Ablöse €3.00m,32,"Jul 11, 1974",Retired
+Centre-Back,right,"Jul 1, 2006",Zurab Khizanishvili,"1,86m",9621,['Georgia'],€2.50m,: Ablöse €750k,25,"Oct 6, 1981",Retired
+Centre-Back,right,"Jan 6, 2005",Ryan Nelsen,"1,85m",28878,['New Zealand'],€2.00m,: Ablöse free transfer,29,"Oct 18, 1977",Retired
+Centre-Back,right,"Jul 1, 2002",Andy Todd,"1,78m",3103,['England'],€1.80m,Charlton Athletic,32,"Sep 21, 1974",Retired
+Centre-Back,right,"Jan 1, 2005",Aaron Mokoena,"1,85m",4756,['South Africa'],€1.75m,: Ablöse €900k,26,"Nov 25, 1980",Retired
+Centre-Back,left,"Jul 1, 2002",Jay McEveley,"1,86m",3825,"['Scotland', 'England']",€750k,Blackburn Rovers U18,22,"Feb 11, 1985",Retired
+Centre-Back,,"Jan 25, 2007",Christopher Samba,,29016,"['Congo', 'France']",€500k,: Ablöse €500k,23,"Mar 28, 1984",Retired
+Centre-Back,right,"Jul 1, 2006",Eddie Nolan,"1,83m",47601,['Ireland'],,Blackburn Rovers U18,18,"Aug 5, 1988",Retired
+Left-Back,left,"Jan 22, 2007",Stephen Warnock,"1,78m",3308,['England'],€1.80m,: Ablöse €2.25m,25,"Dec 12, 1981",Retired
+Left-Back,left,"Jan 27, 2004",Michael Gray,"1,70m",4128,['England'],€1.50m,Sunderland AFC,32,"Aug 3, 1974",Retired
+Left-Back,left,"Jan 1, 2007",Bruno Berner,"1,85m",1589,['Switzerland'],€450k,: Ablöse €500k,29,"Nov 21, 1977",Retired
+Right-Back,right,"Jul 1, 2003",Steven Reid,"1,85m",7330,"['Ireland', 'England']",€3.80m,: Ablöse €3.60m,26,"Mar 10, 1981",Retired
+Defensive Midfield,both,"Jan 1, 2005",Robbie Savage,"1,83m",3797,['Wales'],€4.00m,: Ablöse €4.50m,32,"Oct 18, 1974",Retired
+Defensive Midfield,right,"Jul 1, 2001",Tugay Kerimoğlu,"1,76m",3703,['Türkiye'],€1.30m,: Ablöse €1.95m,36,"Aug 24, 1970",Retired
+Central Midfield,left,"Aug 27, 2004",Morten Gamst Pedersen,"1,83m",22741,['Norway'],€6.20m,Tromsø IL,25,"Sep 8, 1981",Retired
+Central Midfield,right,"Jul 1, 2003",Paul Gallagher,"1,85m",10501,['Scotland'],€1.25m,Blackburn Rovers U18,22,"Sep 8, 1984",Retired
+Right Midfield,right,"Jul 10, 2003",Brett Emerton,"1,85m",4367,['Australia'],€4.50m,: Ablöse €3.00m,28,"Feb 22, 1979",Retired
+Right Midfield,right,"Feb 15, 2013",David Bentley,"1,78m",3205,['England'],€4.40m,Tottenham Hotspur,22,"Aug 27, 1984",Retired
+Left Midfield,,"Jul 1, 2005",Sergio Peter,,29341,['Germany'],€500k,Blackburn Rovers Reserves,20,"Oct 12, 1986",Retired
+Attacking Midfield,right,"Jan 17, 2007",David Dunn,"1,78m",4243,['England'],€5.50m,: Ablöse €3.20m,27,"Dec 27, 1979",Retired
+Centre-Forward,right,"Jul 1, 2006",Benni McCarthy,"1,84m",3091,['South Africa'],€6.00m,FC Porto,29,"Nov 12, 1977",Retired
+Centre-Forward,right,"Aug 1, 2006",Shabani Nonda,"1,82m",3499,"['DR Congo', 'France']",€4.00m,: Ablöse ?,30,"Mar 6, 1977",Retired
+Centre-Forward,right,"Jul 3, 2006",Jason Roberts,"1,85m",3666,"['Grenada', 'England']",€3.85m,Wigan Athletic,29,"Jan 25, 1978",Retired
+Centre-Forward,right,"Jul 1, 2005",Shefki Kuqi,"1,88m",12398,"['Finland', 'Kosovo']",€3.70m,Ipswich Town,30,"Nov 10, 1976",Retired
+Centre-Forward,right,"Jul 3, 2006",Francis Jeffers,"1,78m",3186,['England'],€2.60m,Charlton Athletic,26,"Jan 25, 1981",Retired
+Centre-Forward,right,"Jul 1, 2006",Matt Derbyshire,"1,80m",15175,['England'],€200k,Blackburn Rovers Reserves,21,"Apr 14, 1986",Retired

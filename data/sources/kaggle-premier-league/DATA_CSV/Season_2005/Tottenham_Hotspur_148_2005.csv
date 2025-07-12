@@ -1,0 +1,33 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2004",Paul Robinson,"1,93m",3630,['England'],€9.00m,Leeds United,26,"Oct 15, 1979",Retired
+Goalkeeper,right,,"Jul 1, 2006",Radek Cerny,"1,87m",21010,['Czech Republic'],€600k,: Ablöse €200k,32,"Feb 18, 1974",Retired
+Centre-Back,right,,"Jul 1, 1998",Ledley King,"1,88m",3360,"['England', 'Antigua and Barbuda']",€12.50m,Tottenham Hotspur U18,25,"Oct 12, 1980",Retired
+Centre-Back,right,,"Jan 31, 2005",Michael Dawson,"1,89m",9988,['England'],€6.50m,: Ablöse €7.00m,22,"Nov 18, 1983",Retired
+Centre-Back,left,,"Jan 1, 2000",Anthony Gardner,"1,96m",4053,"['England', 'Jamaica']",€2.50m,: Ablöse €1.50m,25,"Sep 19, 1980",Retired
+Centre-Back,right,,"Aug 1, 2004",Noé Pamarot,"1,80m",5531,['France'],€2.20m,: Ablöse €2.40m,27,"Apr 14, 1979",Retired
+Centre-Back,right,,"Jul 1, 2004",Calum Davenport,"1,93m",4221,['England'],€1.50m,Coventry City,23,"Jan 1, 1983",Tavistock FC
+Centre-Back,right,,"Jul 1, 2001",Goran Bunjevcevic,"1,90m",3802,['Serbia'],€1.00m,Red Star Belgrade,33,"Feb 17, 1973",---
+Centre-Back,right,,"Aug 12, 2004",Noureddine Naybet,"1,86m",7493,['Morocco'],€1.00m,Deportivo de La Coruña,36,"Feb 10, 1970",Retired
+Left-Back,both,,"Aug 1, 2005",Young-pyo Lee,"1,76m",6156,"['Korea, South']",€4.30m,: Ablöse €2.00m,29,"Apr 23, 1977",Retired
+Left-Back,left,,"Jul 1, 2004",Erik Edman,"1,79m",4394,['Sweden'],€3.00m,: Ablöse €2.00m,27,"Nov 11, 1978",Retired
+Right-Back,right,,"Jul 1, 2005",Paul Stalteri,"1,81m",536,"['Canada', 'Italy']",€4.00m,SV Werder Bremen,28,"Oct 18, 1977",Retired
+Right-Back,right,,"Jul 1, 2002",Stephen Kelly,"1,84m",12125,['Ireland'],€800k,Tottenham Hotspur U18,22,"Sep 6, 1983",Retired
+Defensive Midfield,right,,"Aug 24, 2004",Michael Carrick,"1,89m",3878,['England'],€6.50m,: Ablöse €4.10m,24,"Jul 28, 1981",Retired
+Defensive Midfield,right,,"Jul 1, 2005",Tom Huddlestone,"1,88m",13465,['England'],€3.70m,: Ablöse €4.70m,19,"Dec 28, 1986",Retired
+Defensive Midfield,right,,"Jul 1, 2005",Teemu Tainio,"1,75m",4741,['Finland'],€3.50m,AJ Auxerre,26,"Nov 27, 1979",Retired
+Defensive Midfield,right,,"Jul 9, 2004",Sean Davis,"1,78m",4036,['England'],€3.00m,Fulham FC,26,"Sep 20, 1979",Retired
+Central Midfield,right,,"Aug 1, 2005",Jermaine Jenas,"1,81m",3461,['England'],€12.70m,Newcastle United,23,"Feb 18, 1983",Retired
+Central Midfield,left,,"Jul 1, 2005",Edgar Davids,"1,69m",5758,"['Netherlands', 'Suriname']",€7.50m,: Ablöse free transfer,33,"Mar 13, 1973",Retired
+Central Midfield,right,,"Jan 31, 2006",Danny Murphy,"1,77m",3221,['England'],€6.00m,Charlton Athletic,29,"Mar 18, 1977",Retired
+Central Midfield,both,,"Jul 1, 2004",Pedro Mendes,"1,77m",9811,['Portugal'],€3.00m,: Ablöse €3.00m,27,"Feb 26, 1979",Retired
+Central Midfield,,,"Jan 1, 2004",Michael Brown,,13509,['England'],€3.00m,Sheffield United,29,"Jan 25, 1977",Retired
+Central Midfield,left,,"Jul 1, 2000",Johnnie Jackson,"1,85m",29430,['England'],€75k,Tottenham Hotspur U18,23,"Aug 15, 1982",Retired
+Left Midfield,left,Groin injury - Return unknown,"Jan 1, 2005",Andy Reid,"1,70m",10008,['Ireland'],€5.70m,: Ablöse €8.00m,23,"Jul 29, 1982",Retired
+Left Winger,right,,"Jul 1, 2005",Wayne Routledge,"1,70m",14066,"['England', 'Jamaica']",€2.80m,: Ablöse €3.00m,21,"Jan 7, 1985",Retired
+Right Winger,right,,"Jul 1, 2005",Aaron Lennon,"1,65m",14221,"['England', 'Ireland']",€3.50m,Leeds United,19,"Apr 16, 1987",Retired
+Centre-Forward,right,,"Jan 6, 2009",Jermain Defoe,"1,71m",3875,"['England', 'St. Lucia']",€12.20m,: Ablöse €16.40m,23,"Oct 7, 1982",Retired
+Centre-Forward,right,,"Feb 2, 2009",Robbie Keane,"1,75m",3144,['Ireland'],€10.70m,: Ablöse €16.70m,25,"Jul 8, 1980",Retired
+Centre-Forward,both,,"Aug 29, 2006",Mido,"1,88m",4329,['Egypt'],€10.50m,: Ablöse €6.75m,23,"Feb 23, 1983",Retired
+Centre-Forward,right,,"Aug 5, 2003",Frédéric Kanouté,"1,92m",3700,"['Mali', 'France']",€7.50m,: Ablöse €5.25m,28,"Sep 2, 1977",Retired
+Centre-Forward,right,,"Jul 1, 2005",Grzegorz Rasiak,"1,90m",15242,['Poland'],€3.50m,: Ablöse €3.50m,27,"Jan 12, 1979",Retired
+Centre-Forward,right,,"Aug 1, 2002",Lee Barnard,"1,78m",4058,['England'],€50k,Tottenham Hotspur U18,21,"Jul 18, 1984",Retired

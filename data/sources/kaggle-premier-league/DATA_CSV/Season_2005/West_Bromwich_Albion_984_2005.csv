@@ -1,0 +1,33 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jul 14, 2004",Tomasz Kuszczak,,1320,"['Poland', 'England']",€3.50m,: Ablöse free transfer,24,"Mar 20, 1982",Retired
+Goalkeeper,right,"Jul 16, 2005",Chris Kirkland,"1,98m",3219,['England'],€3.00m,: Ablöse free transfer,25,"May 2, 1981",Retired
+Goalkeeper,,"Jan 1, 2001",Russell Hoult,"1,93m",3653,['England'],€1.25m,: Ablöse €700k,33,"Nov 22, 1972",Retired
+Centre-Back,both,"Jul 1, 2004",Martin Albrechtsen,"1,85m",14960,['Denmark'],€8.00m,: Ablöse €3.75m,26,"Mar 31, 1980",FK Prespa
+Centre-Back,right,"Aug 31, 2005",Curtis Davies,"1,88m",18227,"['Sierra Leone', 'England']",€4.00m,: Ablöse €4.50m,21,"Mar 15, 1985",Retired
+Centre-Back,right,"Jul 1, 2004",Riccardo Scimeca,"1,85m",5174,['England'],€1.75m,: Ablöse €150k,31,"Jun 13, 1975",Retired
+Centre-Back,left,"Mar 1, 2000",Neil Clement,"1,83m",3789,['England'],€1.50m,: Ablöse €150k,27,"Oct 3, 1978",Retired
+Centre-Back,right,"Sep 1, 2001",Darren Moore,"1,88m",3243,"['Jamaica', 'England']",€1.20m,: Ablöse €1.10m,32,"Apr 22, 1974",Retired
+Centre-Back,right,"Jul 1, 2003",Thomas Gaardsöe,"1,88m",9984,['Denmark'],€900k,Ipswich Town,27,"Jan 23, 1979",Retired
+Centre-Back,right,"Jan 31, 2006",Williams Martínez,"1,83m",38065,"['Uruguay', 'Italy']",€500k,Defensor Sporting Club,23,"Dec 18, 1982",---
+Left-Back,left,"Oct 14, 2003",Paul Robinson,"1,75m",14063,['England'],€1.00m,Watford FC,27,"Dec 14, 1978",Retired
+Right-Back,right,"Jul 5, 2005",Steve Watson,"1,85m",3309,['England'],€2.50m,: Ablöse free transfer,32,"Apr 1, 1974",Retired
+Right-Back,right,"Jul 1, 2005",Jared Hodgkiss,"1,68m",39927,['England'],,West Bromwich Albion U18,19,"Nov 15, 1986",AFC Telford United
+Defensive Midfield,right,"Jul 1, 2004",Junichi Inamoto,"1,81m",3568,['Japan'],€2.25m,: Ablöse €300k,26,"Sep 18, 1979",Nankatsu SC
+Central Midfield,right,"Jul 29, 2004",Jonathan Greening,"1,80m",3865,['England'],€4.00m,: Ablöse €1.75m,27,"Jan 2, 1979",Retired
+Central Midfield,right,"Jan 31, 2005",Richard Chaplow,"1,75m",9975,['England'],€2.25m,: Ablöse €2.25m,21,"Feb 2, 1985",Retired
+Central Midfield,left,"Jul 4, 2005",Darren Carter,"1,88m",3929,['England'],€2.25m,: Ablöse €2.25m,22,"Dec 18, 1983",Retired
+Central Midfield,left,"Jan 1, 2006",Nigel Quashie,"1,75m",4139,"['Scotland', 'England']",€2.00m,Southampton FC,27,"Jul 20, 1978",Retired
+Central Midfield,left,"Jul 1, 2002",Ronnie Wallwork,"1,78m",3305,['England'],€900k,Manchester United,28,"Sep 10, 1977",Retired
+Central Midfield,right,"Jul 1, 2005",Rob Davies,"1,78m",45849,['Wales'],,West Bromwich Albion U18,19,"Mar 24, 1987",Unknown
+Left Midfield,left,"Jul 9, 2001",Lloyd Dyer,"1,73m",3668,"['England', 'Montserrat']",€350k,: Ablöse free transfer,23,"Sep 13, 1982",Retired
+Attacking Midfield,right,"Aug 2, 2011",Zoltán Gera,"1,83m",18324,['Hungary'],€3.50m,Fulham FC,27,"Apr 22, 1979",Retired
+Attacking Midfield,right,"Jul 1, 2001",Andy Johnson,"1,83m",3672,"['Wales', 'England']",€1.30m,: Ablöse €300k,32,"May 2, 1974",Retired
+Attacking Midfield,left,"Jan 1, 2006",Jan Kozak,"1,90m",34427,['Slovakia'],€1.25m,: Ablöse ?,26,"Apr 22, 1980",Retired
+Right Winger,both,"Jul 1, 2005",Diomansy Kamara,"1,84m",6053,"['Senegal', 'France']",€2.00m,: Ablöse €2.25m,25,"Nov 8, 1980",Retired
+Centre-Forward,right,"Sep 1, 2004",Robert Earnshaw,"1,73m",12707,"['Wales', 'Zambia']",€5.30m,: Ablöse €4.50m,25,"Apr 6, 1981",Retired
+Centre-Forward,right,"Jul 1, 2005",Nathan Ellington,"1,78m",13515,"['England', 'Jamaica']",€3.50m,Wigan Athletic,24,"Jul 2, 1981",Retired
+Centre-Forward,right,"Jul 30, 2004",Nwankwo Kanu,"1,97m",3133,['Nigeria'],€3.00m,: Ablöse free transfer,29,"Aug 1, 1976",Retired
+Centre-Forward,right,"Dec 1, 2003",Geoff Horsfield,"1,83m",3792,['England'],€1.25m,Wigan Athletic,32,"Nov 1, 1973",Retired
+Centre-Forward,right,"Jan 11, 2005",Kevin Campbell,"1,83m",3468,"['England', 'Jamaica']",€1.25m,: Ablöse free transfer,36,"Feb 4, 1970",---
+Centre-Forward,right,,Rob Elvins,"1,85m",33801,['England'],€50k,,19,"Sep 17, 1986",Retired
+Centre-Forward,right,"Jul 1, 2005",Stuart Nicholson,"1,78m",37683,['England'],€50k,West Bromwich Albion U18,19,"Feb 3, 1987",Retired

@@ -1,0 +1,28 @@
+position,foot,status,joinedOn,name,height,id,nationality,contract,marketValue,joined,age,dateOfBirth,signedFrom
+Goalkeeper,right,,"Feb 1, 2024",Matz Sels,"1,88m",127202,['Belgium'],"Jun 30, 2027",€7.00m,,32,"Feb 26, 1992",RC Strasbourg Alsace
+Goalkeeper,left,,"Jul 9, 2024",Carlos Miguel,"2,04m",641458,['Brazil'],"Jun 30, 2028",€4.00m,"Joined from Sport Club Corinthians Paulista; date: Jul 9, 2024; fee: €4.00m",26,"Oct 9, 1998",Sport Club Corinthians Paulista
+Centre-Back,left,,"Aug 31, 2023",Murillo,"1,84m",1005649,['Brazil'],"Jun 30, 2028",€40.00m,,22,"Jul 4, 2002",Sport Club Corinthians Paulista
+Centre-Back,right,,"Jul 18, 2024",Nikola Milenković,"1,95m",413507,['Serbia'],"Jun 30, 2029",€18.00m,"Joined from ACF Fiorentina; date: Jul 18, 2024; fee: €14.30m",27,"Oct 12, 1997",ACF Fiorentina
+Centre-Back,left,,"Aug 30, 2024",Morato,"1,92m",673492,['Brazil'],"Jun 30, 2029",€15.00m,"Joined from SL Benfica; date: Aug 30, 2024; fee: €11.00m",23,"Jun 30, 2001",SL Benfica
+Centre-Back,right,,"Sep 1, 2023",Andrew Omobamidele,"1,88m",621993,"['Ireland', 'Nigeria']","Jun 30, 2028",€11.00m,,22,"Jun 23, 2002",Norwich City
+Centre-Back,right,,"Sep 1, 2022",Willy Boly,"1,95m",142310,"[""Cote d'Ivoire"", 'France']","Jun 30, 2025",€2.50m,,33,"Feb 3, 1991",Wolverhampton Wanderers
+Centre-Back,right,,"Jul 1, 2024",Zach Abbott,,933017,['England'],"Jun 30, 2026",€300k,"Internal transfer: Nottingham Forest U21; date: Jul 1, 2024",18,"May 13, 2006",Nottingham Forest U21
+Left-Back,left,,"Aug 21, 2024",Álex Moreno,"1,79m",193098,['Spain'],"May 31, 2025",€13.00m,"On loan from Aston Villa until May 31, 2025",31,"Jun 8, 1993",Aston Villa
+Left-Back,left,,"Jul 20, 2022",Harry Toffolo,"1,83m",198516,"['England', 'Italy']","Jun 30, 2025",€5.00m,,29,"Aug 19, 1995",Huddersfield Town
+Right-Back,right,,"Jul 10, 2022",Neco Williams,"1,83m",503680,['Wales'],"Jun 30, 2026",€17.00m,,23,"Apr 13, 2001",: Ablöse €20.00m
+Right-Back,right,,"Jul 22, 2023",Ola Aina,"1,84m",236490,"['Nigeria', 'England']","Jun 30, 2025",€12.00m,,28,"Oct 8, 1996",Torino FC
+Defensive Midfield,right,Hamstring injury - Return unknown,"Sep 1, 2023",Ibrahim Sangaré,"1,91m",375885,"[""Cote d'Ivoire""]","Jun 30, 2028",€30.00m,,26,"Dec 2, 1997",PSV Eindhoven
+Defensive Midfield,left,Foot injury - Return unknown,"Jan 16, 2023",Danilo,"1,77m",808509,['Brazil'],"Jun 30, 2029",€28.00m,,23,"Apr 29, 2001",Sociedade Esportiva Palmeiras
+Central Midfield,right,,"Jul 1, 2024",Elliot Anderson,"1,79m",567576,"['England', 'Scotland']","Jun 30, 2029",€22.00m,"Joined from Newcastle United; date: Jul 1, 2024; fee: €41.20m",22,"Nov 6, 2002",Newcastle United
+Central Midfield,right,,"Aug 30, 2024",James Ward-Prowse,"1,77m",181579,['England'],"Jun 30, 2025",€22.00m,"On loan from West Ham United until Jun 30, 2025",30,"Nov 1, 1994",West Ham United
+Central Midfield,right,,"Sep 1, 2023",Nicolás Domínguez,"1,79m",497291,"['Argentina', 'Italy']","Jun 30, 2028",€17.00m,,26,"Jun 28, 1998",Bologna FC 1909
+Central Midfield,right,,"Jul 1, 2016",Ryan Yates,"1,90m",425902,['England'],"Jun 30, 2028",€12.00m,,26,"Nov 21, 1997",Nottingham Forest U18
+Attacking Midfield,right,,"Aug 19, 2022",Morgan Gibbs-White,"1,71m",429014,"['England', 'Jamaica']","Jun 30, 2027",€40.00m,,24,"Jan 27, 2000",Wolverhampton Wanderers
+Left Winger,right,,"Sep 1, 2023",Callum Hudson-Odoi,"1,78m",392768,"['England', 'Ghana']","Jun 30, 2026",€22.00m,,24,"Nov 7, 2000",Chelsea FC
+Left Winger,right,,"Aug 16, 2024",Ramón Sosa,"1,79m",745191,"['Paraguay', 'Argentina']","Jun 30, 2029",€13.00m,"Joined from CA Talleres; date: Aug 16, 2024; fee: €12.00m",25,"Aug 31, 1999",CA Talleres
+Left Winger,right,,"Aug 1, 2024",Jota Silva,"1,79m",663244,['Portugal'],"Jun 30, 2028",€12.00m,"Joined from Vitória Guimarães SC; date: Aug 1, 2024; fee: €7.00m",25,"Aug 1, 1999",Vitória Guimarães SC
+Right Winger,right,,"Jul 25, 2023",Anthony Elanga,"1,78m",583189,"['Sweden', 'Cameroon']","Jun 30, 2028",€25.00m,,22,"Apr 27, 2002",Manchester United
+Right Winger,right,,"Jul 1, 2024",Eric da Silva Moreira,"1,85m",897481,"['Germany', 'Portugal']","Jun 30, 2028",€1.00m,"Joined from FC St. Pauli; date: Jul 1, 2024; fee: €1.50m",18,"May 3, 2006",FC St. Pauli
+Centre-Forward,right,unknown injury - Return unknown,"Jul 1, 2022",Taiwo Awoniyi,"1,83m",295313,['Nigeria'],"Jun 30, 2027",€28.00m,,27,"Aug 12, 1997",1.FC Union Berlin
+Centre-Forward,right,,"Jul 1, 2023",Chris Wood,"1,91m",108725,['New Zealand'],"Jun 30, 2025",€7.00m,,32,"Dec 7, 1991",Newcastle United
+Centre-Forward,right,,"Aug 13, 2022",Emmanuel Dennis,"1,75m",448854,['Nigeria'],"Jun 30, 2026",€4.20m,,26,"Nov 15, 1997",Watford FC

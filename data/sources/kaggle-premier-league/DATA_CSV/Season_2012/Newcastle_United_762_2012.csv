@@ -1,0 +1,40 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,,"Jul 1, 2008",Tim Krul,"1,93m",33027,['Netherlands'],€8.50m,Newcastle United Reserves,25,"Apr 3, 1988",Luton Town
+Goalkeeper,right,,"Jul 1, 1993",Steve Harper,"1,88m",3562,['England'],€500k,Seaham Red Star,38,"Mar 14, 1975",Retired
+Goalkeeper,left,,"Aug 30, 2011",Rob Elliot,"1,90m",39037,"['Ireland', 'England']",€250k,Charlton Athletic,27,"Apr 30, 1986",Retired
+Goalkeeper,left,,"Jul 1, 2011",Jak Alnwick,"1,87m",128895,['England'],,Newcastle United U18,20,"Jun 17, 1993",Cardiff City
+Centre-Back,right,,"Jan 22, 2013",Mapou Yanga-Mbiwa,"1,84m",57480,"['France', 'Central African Republic']",€9.00m,: Ablöse €8.00m,24,"May 15, 1989",Without Club
+Centre-Back,right,,"Aug 15, 2008",Fabricio Coloccini,"1,84m",6150,"['Argentina', 'Italy']",€8.00m,Deportivo de La Coruña,31,"Jan 22, 1982",Retired
+Centre-Back,right,,"Jul 1, 2003",Steven Taylor,"1,86m",17273,['England'],€5.00m,Newcastle United U18,27,"Jan 23, 1986",Retired
+Centre-Back,right,,"Jan 1, 2010",Mike Williamson,"1,94m",10642,['England'],€4.00m,: Ablöse €1.10m,29,"Nov 8, 1983",Retired
+Centre-Back,right,,"Jul 1, 2010",James Perch,"1,80m",49409,"['England', 'Jamaica']",€3.00m,: Ablöse €1.20m,27,"Sep 28, 1985",Ilkeston Town FC
+Centre-Back,left,"No eligibility - until Dec 31, 2024 - Thai League - 15 matchdays","Jul 31, 2012",Curtis Good,"1,95m",179471,"['Australia', 'England']",€500k,: Ablöse €515k,20,"Mar 23, 1993",Buriram United
+Centre-Back,left,,"Jul 1, 2012",Paul Dummett,"1,83m",170321,"['Wales', 'England']",€200k,Newcastle United U21,21,"Sep 26, 1991",Wigan Athletic
+Centre-Back,right,,,Remie Streete,"1,88m",198587,"['England', 'Jamaica']",,,18,"Nov 2, 1994",Retired
+Left-Back,right,,"Aug 30, 2011",Davide Santon,"1,87m",84344,['Italy'],€10.00m,: Ablöse €5.65m,22,"Jan 2, 1991",Retired
+Left-Back,left,,"Jan 24, 2013",Massadio Haidara,"1,79m",170929,"['Mali', 'France']",€2.50m,: Ablöse €2.50m,20,"Dec 2, 1992",Stade Brestois 29
+Right-Back,right,,"Jan 4, 2013",Mathieu Debuchy,"1,77m",27306,['France'],€11.50m,: Ablöse €6.20m,27,"Jul 28, 1985",Retired
+Right-Back,right,,"Jan 20, 2010",Danny Simpson,"1,76m",37442,"['England', 'Jamaica']",€4.00m,Manchester United,26,"Jan 4, 1987",Retired
+Right-Back,right,,"Jan 1, 2009",Ryan Taylor,"1,79m",33785,['England'],€4.00m,Wigan Athletic,28,"Aug 19, 1984",Without Club
+Right-Back,right,,"Jul 1, 2011",James Tavernier,"1,82m",62094,['England'],,Newcastle United Reserves,21,"Oct 31, 1991",Rangers FC
+Defensive Midfield,right,,"Aug 26, 2010",Cheik Tioté,"1,80m",33478,"[""Cote d'Ivoire""]",€10.50m,Twente Enschede FC,27,"Jun 21, 1986",---
+Defensive Midfield,right,,"Aug 16, 2012",Vurnon Anita,"1,69m",30670,"['Curacao', 'Netherlands']",€8.00m,: Ablöse €8.50m,24,"Apr 4, 1989",Without Club
+Central Midfield,right,,"Jul 1, 2011",Yohan Cabaye,"1,73m",29434,['France'],€16.50m,: Ablöse €5.00m,27,"Jan 14, 1986",Retired
+Central Midfield,right,,"Jan 21, 2013",Moussa Sissoko,"1,87m",46001,"['France', 'Mali']",€10.00m,: Ablöse €2.00m,23,"Aug 16, 1989",Watford FC
+Central Midfield,right,,"Jul 6, 2012",Gaël Bigirimana,"1,75m",158697,"['Burundi', 'England']",€3.00m,Coventry City,19,"Oct 22, 1993",Dungannon Swifts FC
+Central Midfield,right,,"Jul 22, 2010",Dan Gosling,"1,80m",44983,['England'],€1.50m,: Ablöse free transfer,23,"Feb 1, 1990",Westfield FC
+Central Midfield,right,,"Jul 1, 2012",Romain Amalfitano,"1,75m",137841,['France'],€1.00m,: Ablöse free transfer,23,"Aug 27, 1989",Without Club
+Central Midfield,right,,"Jul 1, 2011",Mehdi Abeid,"1,78m",111036,"['Algeria', 'France']",€50k,RC Lens B,20,"Aug 6, 1992",Al-Raed SFC
+Left Midfield,right,,"Jul 2, 2008",Jonás Gutiérrez,"1,84m",26443,"['Argentina', 'Italy']",€6.00m,RCD Mallorca,29,"Jul 5, 1983",Retired
+Left Midfield,left,,"Jan 1, 2011",Shane Ferguson,"1,75m",62052,['Northern Ireland'],€1.50m,Newcastle United Reserves,21,"Jul 12, 1991",Without Club
+Attacking Midfield,left,,"Jan 1, 2011",Hatem Ben Arfa,"1,79m",18900,"['France', 'Tunisia']",€13.50m,Olympique Marseille,26,"Mar 7, 1987",Retired
+Attacking Midfield,left,,"Jul 1, 2011",Sylvain Marveaux,"1,72m",39909,"['France', 'Martinique']",€3.00m,Stade Rennais FC,27,"Apr 15, 1986",Without Club
+Left Winger,right,,"Jan 23, 2013",Yoan Gouffran,"1,75m",23825,"['France', 'Guadeloupe']",€7.50m,: Ablöse €2.00m,27,"May 25, 1986",Unknown
+Left Winger,left,,"Jul 1, 2011",Sammy Ameobi,"1,90m",92381,"['England', 'Nigeria']",€3.00m,Newcastle United Reserves,21,"May 1, 1992",Without Club
+Left Winger,right,,"Jul 1, 2012",Adam Campbell,"1,69m",204354,['England'],,Newcastle United U18,18,"Jan 1, 1995",Hartlepool United
+Right Winger,right,,"Aug 9, 2011",Gabriel Obertan,"1,86m",43261,"['France', 'Guadeloupe']",€3.00m,Manchester United,24,"Feb 26, 1989",Charlotte Independence
+Second Striker,left,,"Jan 1, 2009",Haris Vuckic,"1,88m",76560,['Slovenia'],€750k,NK Domzale,20,"Aug 21, 1992",NK Domzale
+Centre-Forward,right,,"Jul 1, 2011",Demba Ba,"1,89m",40205,"['Senegal', 'France']",€22.00m,: Ablöse €800k,28,"May 25, 1985",Retired
+Centre-Forward,right,,"Jan 17, 2012",Papiss Demba Cissé,"1,80m",33952,"['Senegal', 'France']",€15.50m,SC Freiburg,28,"Jun 3, 1985",Without Club
+Centre-Forward,right,,"Jul 1, 2000",Shola Ameobi,"1,91m",3276,"['Nigeria', 'England']",€2.00m,Newcastle United U18,31,"Oct 12, 1981",Retired
+Centre-Forward,right,,"Jul 1, 2009",Nile Ranger,"1,88m",88750,"['England', 'Jamaica']",€1.00m,Newcastle United U18,22,"Apr 11, 1991",Kettering Town

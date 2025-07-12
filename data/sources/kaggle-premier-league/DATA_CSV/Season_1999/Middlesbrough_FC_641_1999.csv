@@ -1,0 +1,35 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Feb 21, 1997",Mark Schwarzer,,3357,"['Australia', 'Germany']",Bradford City,27,"Oct 6, 1972",Retired
+Goalkeeper,right,"Mar 10, 1998",Marlon Beresford,"1,85m",11479,['England'],: Ablöse free transfer,30,"Sep 2, 1969",Retired
+Goalkeeper,,"Jul 1, 1992",Ben Roberts,"1,85m",4099,['England'],Middlesbrough FC U18,25,"Jun 22, 1975",Retired
+Goalkeeper,,"Jul 1, 1999",Chris Bennion,"1,88m",103852,['Scotland'],Heart of Midlothian FC U20,19,"Aug 30, 1980",Retired
+Centre-Back,,"Dec 3, 1993",Steve Vickers,"1,85m",3935,['England'],: Ablöse €830k,32,"Oct 13, 1967",Retired
+Centre-Back,right,"Jul 1, 1998",Gary Pallister,"1,93m",106917,['England'],Manchester United,35,"Jun 30, 1965",Retired
+Centre-Back,both,"Jul 1, 1997",Jason Gavin,"1,85m",10380,['Ireland'],Middlesbrough FC U18,20,"Mar 14, 1980",Retired
+Left-Back,left,"Jul 1, 1998",Dean Gordon,"1,83m",10049,['England'],: Ablöse €1.35m,27,"Feb 10, 1973",Retired
+Left-Back,left,"Jul 1, 1998",Colin Cooper,"1,82m",3867,['England'],: Ablöse €3.75m,33,"Feb 28, 1967",Retired
+Right-Back,,"Aug 16, 1991",Curtis Fleming,"1,78m",11353,"['Ireland', 'England']",St. Patrick's Athletic,31,"Oct 8, 1968",Retired
+Right-Back,right,"Jul 1, 1997",Gianluca Festa,"1,83m",5596,['Italy'],: Ablöse ?,31,"Mar 16, 1969",Retired
+Right-Back,right,"Jul 1, 1996",Steve Baker,"1,83m",4044,"['Ireland', 'England']",Middlesbrough FC U18,21,"Sep 8, 1978",Retired
+Right-Back,right,"Jul 1, 1997",Robbie Stockdale,"1,83m",3712,"['Scotland', 'England']",Middlesbrough FC U18,20,"Nov 30, 1979",Retired
+Right-Back,right,"Jul 1, 1998",Luke Wilkshire,"1,76m",3321,"['Australia', 'United Kingdom']",: Ablöse free transfer,18,"Oct 2, 1981",Retired
+Midfielder,,,Richard Kell,,138388,['England'],,20,"Sep 15, 1979",Retired
+Midfielder,,,Sean Kilgannon,"1,80m",12630,['Scotland'],,19,"Mar 8, 1981",Retired
+Central Midfield,right,"Jul 1, 1990",Robbie Mustoe,"1,83m",13419,['England'],: Ablöse €440k,31,"Aug 28, 1968",Retired
+Central Midfield,right,"Jul 30, 1999",Paul Ince,"1,78m",3248,"['England', 'Barbados']",: Ablöse €1.50m,32,"Oct 21, 1967",Retired
+Central Midfield,right,"Jul 1, 1993",Phil Stamp,"1,78m",12607,['England'],Middlesbrough FC U18,24,"Dec 12, 1975",Retired
+Central Midfield,,"Oct 28, 1997",Neil Maddison,,195000,['England'],Southampton FC,30,"Oct 2, 1969",Retired
+Central Midfield,right,"Sep 1, 1997",Andy Townsend,"1,80m",102498,"['Ireland', 'England']",: Ablöse €575k,36,"Jul 23, 1963",Retired
+Central Midfield,right,"Jul 1, 1995",Mark Summerbell,"1,75m",195687,['England'],Middlesbrough FC U18,23,"Oct 30, 1976",Retired
+Left Midfield,,"Jul 1, 1991",Alan Moore,"1,75m",10007,['Ireland'],Barnsley FC,25,"Nov 25, 1974",Retired
+Left Midfield,left,"Jul 1, 1999",Christian Ziege,"1,86m",916,['Germany'],AC Milan,28,"Feb 1, 1972",Retired
+Left Midfield,left,"Jul 1, 1996",Micky Cummins,"1,83m",67266,['Ireland'],Middlesbrough FC U18,22,"Jun 1, 1978",Retired
+Attacking Midfield,right,"Mar 1, 1998",Paul Gascoigne,"1,78m",3830,['England'],: Ablöse €5.00m,33,"May 27, 1967",Retired
+Attacking Midfield,right,"Jul 26, 2002",Juninho Paulista,"1,67m",3505,"['Brazil', 'Italy']",: Ablöse €6.90m,27,"Feb 22, 1973",Retired
+Attacking Midfield,left,"Jan 1, 2000",Carlos Marinelli,"1,79m",29613,"['Argentina', 'Italy']",CA Boca Juniors,18,"Mar 14, 1982",Retired
+Left Winger,left,"Mar 18, 1999",Keith O'Neill,"1,88m",10017,['Ireland'],: Ablöse ?,24,"Feb 16, 1976",Retired
+Right Winger,right,"Jul 1, 1996",Anthony Ormerod,"1,78m",106162,"['Ireland', 'England']",Middlesbrough FC U18,21,"Mar 31, 1979",Retired
+Centre-Forward,,"Oct 16, 1998",Brian Deane,,8058,"['England', 'St. Kitts & Nevis']",: Ablöse €4.18m,32,"Feb 7, 1968",Retired
+Centre-Forward,right,"Jul 1, 1996",Andy Campbell,"1,80m",12689,['England'],Middlesbrough FC U18,21,"Apr 18, 1979",Retired
+Centre-Forward,right,"Jul 1, 1997",Hámilton Ricard,"1,85m",103230,['Colombia'],Deportivo Cali,26,"Jan 12, 1974",Retired
+Centre-Forward,right,"Feb 1, 1998",Alun Armstrong,"1,84m",13237,['England'],: Ablöse €2.40m,25,"Feb 22, 1975",Retired

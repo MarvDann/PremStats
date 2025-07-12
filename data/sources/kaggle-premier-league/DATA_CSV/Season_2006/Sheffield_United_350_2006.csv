@@ -1,0 +1,44 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Apr 1, 2010",Paddy Kenny,"1,85m",13524,"['Ireland', 'England']",€1.25m,Disqualification,29,"May 17, 1978",Retired
+Goalkeeper,left,"Sep 27, 2006",Paul Gerrard,"1,88m",3584,['England'],€1.06m,Without Club,34,"Jan 22, 1973",Retired
+Goalkeeper,,"Jul 1, 2006",Ian Bennett,"1,83m",3299,['England'],€740k,Leeds United,35,"Oct 10, 1971",Retired
+Goalkeeper,,"Jul 1, 2006",Jamie Annerson,"1,88m",44509,['England'],€50k,Sheffield United U18,19,"Jun 21, 1988",Retired
+Centre-Back,right,"Jul 4, 2019",Phil Jagielka,"1,80m",13520,"['England', 'Poland']",€2.75m,Everton FC,24,"Aug 17, 1982",Retired
+Centre-Back,right,"Jul 1, 2006",David Sommeil,"1,79m",3803,"['Guadeloupe', 'France']",€1.79m,: Ablöse free transfer,32,"Aug 10, 1974",Retired
+Centre-Back,left,"Jan 1, 2007",Mamadou Seck,"1,92m",5724,['Senegal'],€1.50m,: Ablöse free transfer,27,"Aug 23, 1979",Retired
+Centre-Back,,"Jul 1, 2003",Chris Morgan,,13533,['England'],€950k,Barnsley FC,29,"Nov 9, 1977",Retired
+Centre-Back,right,"Jul 1, 2006",Claude Davis,"1,91m",14006,['Jamaica'],€770k,: Ablöse €3.50m,28,"Mar 6, 1979",Retired
+Centre-Back,right,"Mar 1, 2006",Chris Lucketti,"1,83m",14045,"['England', 'Italy']",€250k,: Ablöse €450k,35,"Sep 28, 1971",Retired
+Centre-Back,both,"Jul 1, 2005",Craig Short,"1,85m",3821,['England'],€220k,Blackburn Rovers,39,"Jun 25, 1968",Retired
+Centre-Back,,"Jan 1, 2007",Matthew Kilgallon,"1,85m",4095,['England'],€100k,Leeds United,23,"Jan 8, 1984",Retired
+Left-Back,left,"Jul 1, 2005",David Unsworth,"1,87m",3272,['England'],€2.50m,: Ablöse free transfer,33,"Oct 16, 1973",Retired
+Left-Back,left,"Nov 1, 2003",Alan Wright,"1,63m",3331,['England'],€1.00m,: Ablöse free transfer,35,"Sep 28, 1971",Retired
+Left-Back,left,"Jul 1, 2003",Chris Armstrong,"1,75m",13506,"['Scotland', 'England']",€800k,: Ablöse €140k,24,"Aug 5, 1982",Retired
+Left-Back,left,"Jul 1, 2004",Evan Horwood,"1,83m",59842,['England'],,Sheffield United U18,21,"Mar 10, 1986",Retired
+Right-Back,right,"Jan 1, 2009",Leigh Bromby,"1,83m",13400,['England'],€760k,Watford FC,27,"Jun 2, 1980",Retired
+Right-Back,right,"Oct 1, 2004",Derek Geary,"1,68m",13408,['Ireland'],€670k,: Ablöse €40k,27,"Jun 19, 1980",Retired
+Right-Back,right,"Jul 12, 2010",Rob Kozluk,"1,73m",13525,"['England', 'Poland']",€480k,Barnsley FC,29,"Aug 5, 1977",Retired
+Right-Back,right,"Jul 1, 2005",Ben Starosta,"1,76m",38210,"['Poland', 'England']",€150k,Sheffield United U18,20,"Jan 7, 1987",Retired
+Right-Back,right,"Jan 24, 2007",Ahmed Fathi,"1,75m",38168,['Egypt'],,: Ablöse €1.05m,22,"Nov 10, 1984",Retired
+Defensive Midfield,both,"Jul 1, 2006",Mikele Leigertwood,"1,88m",14041,"['Antigua and Barbuda', 'England']",€1.20m,: Ablöse €750k,24,"Nov 12, 1982",Retired
+Defensive Midfield,right,"Jul 1, 2000",Nick Montgomery,"1,75m",13532,"['Scotland', 'England']",€850k,Sheffield United U18,25,"Oct 28, 1981",Retired
+Defensive Midfield,right,"Jul 1, 2006",Tie Li,"1,83m",3590,['China'],€850k,: Ablöse free transfer,30,"May 18, 1977",Retired
+Central Midfield,left,"Jul 1, 2004",Alan Quinn,"1,75m",15561,['Ireland'],€850k,: Ablöse free transfer,28,"Jun 13, 1979",Retired
+Central Midfield,left,"Jul 1, 2001",Michael Tonge,"1,83m",13544,['England'],€800k,Sheffield United U18,24,"Apr 7, 1983",Retired
+Central Midfield,left,"Jul 1, 2005",Stephen Quinn,"1,68m",43266,['Ireland'],€500k,St. Patrick's Athletic U19,21,"Apr 1, 1986",Mansfield Town
+Central Midfield,right,,Ian Ross,"1,78m",13540,['England'],€50k,,21,"Jan 13, 1986",Retired
+Right Midfield,right,"Jul 1, 2005",Keith Gillespie,"1,77m",3827,['Northern Ireland'],€2.25m,: Ablöse free transfer,32,"Feb 18, 1975",FC Mindwell
+Right Midfield,right,"Jul 1, 2003",Kevan Hurst,"1,78m",13518,['England'],€50k,Sheffield United U18,21,"Aug 27, 1985",Retired
+Attacking Midfield,right,"Jul 1, 2006",Nicky Law,"1,78m",43265,['England'],€100k,Sheffield United U18,19,"Mar 29, 1988",Retired
+Left Winger,left,"Jan 1, 2007",Luton Shelton,"1,83m",38768,['Jamaica'],€2.70m,Helsingborgs IF,21,"Nov 11, 1985",---
+Right Winger,right,"Jul 1, 2005",Paul Ifill,"1,80m",13586,"['Barbados', 'England']",€1.50m,: Ablöse €1.20m,27,"Oct 20, 1979",Retired
+Centre-Forward,right,"Jul 1, 2006",Rob Hulse,"1,85m",9980,['England'],€3.75m,Leeds United,27,"Oct 25, 1979",Retired
+Centre-Forward,right,"Jan 26, 2006",Ade Akinbiyi,"1,85m",4037,"['Nigeria', 'England']",€2.75m,: Ablöse €2.63m,32,"Oct 10, 1974",Retired
+Centre-Forward,right,"Jan 11, 2007",Jon Stead,"1,91m",16107,['England'],€2.30m,Sunderland AFC,24,"Apr 7, 1983",Retired
+Centre-Forward,right,"Jul 1, 2005",Danny Webber,"1,78m",3551,['England'],€1.45m,Watford FC,25,"Dec 28, 1981",Retired
+Centre-Forward,right,"Jul 1, 2005",Geoff Horsfield,"1,83m",3792,['England'],€1.25m,: Ablöse €1.80m,33,"Nov 1, 1973",Retired
+Centre-Forward,right,"Nov 15, 2002",Steve Kabba,"1,78m",13522,"['England', 'Sierra Leone']",€750k,: Ablöse €375k,26,"Mar 7, 1981",Retired
+Centre-Forward,right,"Aug 31, 2006",Colin Kazım-Richards,"1,87m",36802,"['Türkiye', 'England']",€750k,: Ablöse €1.50m,20,"Aug 26, 1986",Without Club
+Centre-Forward,right,"Jul 1, 2006",Christian Nadé,"1,86m",33926,"['France', ""Cote d'Ivoire""]",€700k,: Ablöse free transfer,22,"Sep 18, 1984",Petershill FC
+Centre-Forward,right,"Jul 1, 2005",Colin Marrison,"1,87m",32525,['England'],€100k,: Ablöse free transfer,21,"Sep 23, 1985",Retford United FC
+Centre-Forward,,"Jan 31, 2013",Jonathan Forte,"1,83m",39505,"['Barbados', 'England']",€75k,Southampton FC,20,"Jul 25, 1986",Shirebrook Town FC

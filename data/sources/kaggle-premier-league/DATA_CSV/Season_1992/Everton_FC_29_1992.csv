@@ -1,0 +1,28 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jul 1, 1991",Gerry Peyton,"1,88m",104115,"['Ireland', 'England']",: Ablöse €85k,37,"May 20, 1956",Retired
+Goalkeeper,,"Jul 1, 1981",Neville Southall,,135910,['Wales'],Bury FC,34,"Sep 16, 1958",Retired
+Goalkeeper,right,"Oct 31, 1988",Jason Kearton,"1,80m",225076,['Australia'],Brisbane Lions,23,"Jul 9, 1969",Retired
+Centre-Back,right,"Jan 14, 1992",Gary Ablett,"1,88m",145765,['England'],: Ablöse €845k,27,"Nov 19, 1965",---
+Centre-Back,right,"Aug 7, 1989",Martin Keown,"1,86m",3184,['England'],: Ablöse €1.00m,26,"Jul 24, 1966",Retired
+Centre-Back,right,"Oct 1, 1991",Matt Jackson,"1,85m",13519,['England'],: Ablöse €900k,21,"Oct 19, 1971",Retired
+Centre-Back,,"Aug 22, 1986",Dave Watson,,135911,['England'],: Ablöse €1.85m,31,"Nov 20, 1961",Retired
+Centre-Back,,"Aug 12, 1991",Alan Harper,"1,83m",226890,['England'],: Ablöse €247k,32,"Nov 1, 1960",Retired
+Centre-Back,,,Neil Moore,,235746,['England'],,20,"Sep 21, 1972",Retired
+Left-Back,left,"Aug 1, 1998",David Unsworth,"1,87m",3272,['England'],: Ablöse €4.60m,19,"Oct 16, 1973",Retired
+Left-Back,left,"Jul 1, 1990",Andy Hinchcliffe,"1,78m",106797,['England'],: Ablöse €1.20m,24,"Feb 5, 1969",Retired
+Left-Back,left,"Feb 4, 1993",Kenny Sansom,"1,68m",117195,['England'],Coventry City,34,"Sep 26, 1958",Retired
+Right-Back,right,"Mar 19, 1993",Paul Holmes,"1,78m",177266,['England'],: Ablöse ?,25,"Feb 18, 1968",---
+Right-Back,right,,Iain Jenkins,"1,74m",170392,"['Northern Ireland', 'England']",: Ablöse -,20,"Nov 24, 1972",Retired
+Central Midfield,,"Jul 1, 1986",John Ebbrell,"1,70m",177250,['England'],: Ablöse -,23,"Oct 1, 1969",Retired
+Central Midfield,right,"Jan 16, 1987",Ian Snodin,"1,78m",177253,['England'],: Ablöse €950k,29,"Aug 15, 1963",Retired
+Central Midfield,right,"Jul 1, 1992",Barry Horne,"1,78m",177268,['Wales'],Southampton FC,31,"May 18, 1962",Retired
+Central Midfield,,"Aug 1, 1990",Billy Kenny,,237558,['England'],: Ablöse -,19,"Sep 19, 1973",Retired
+Right Midfield,,"Jan 1, 1991",Robert Warzycha,,177277,"['Poland', 'United States']",Górnik Zabrze,29,"Aug 20, 1963",Retired
+Attacking Midfield,left,"Jul 1, 1992",Preki,"1,75m",26847,"['United States', 'Serbia']",St. Louis Storm (indoor),30,"Jun 24, 1963",Retired
+Left Winger,left,"Mar 1, 1998",Peter Beagrie,,138385,['England'],Bradford City,27,"Nov 28, 1965",Retired
+Right Winger,,"Jul 1, 1991",Mark Ward,,177143,['England'],: Ablöse ?,30,"Oct 10, 1962",Retired
+Second Striker,right,"Aug 5, 1991",Peter Beardsley,"1,73m",102030,['England'],: Ablöse €1.15m,32,"Jan 18, 1961",Retired
+Centre-Forward,,"Nov 20, 1991",Mo Johnston,,29914,['Scotland'],: Ablöse €2.25m,30,"Apr 13, 1963",Retired
+Centre-Forward,,"Aug 2, 1988",Tony Cottee,"1,70m",107792,['England'],: Ablöse €3.45m,27,"Jul 11, 1965",Retired
+Centre-Forward,,"Jul 1, 1990",Stuart Barlow,"1,78m",177261,['England'],Unknown,24,"Jul 16, 1968",Retired
+Centre-Forward,,"Aug 14, 1992",Paul Rideout,"1,80m",177275,['England'],: Ablöse €583k,28,"Aug 14, 1964",Retired

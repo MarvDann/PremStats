@@ -1,0 +1,28 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 1989",Nigel Martyn,"1,88m",3629,['England'],Bristol Rovers,28,"Aug 11, 1966",Retired
+Goalkeeper,,"Jul 1, 1994",Rhys Wilmot,"1,85m",227870,['Wales'],Grimsby Town,33,"Feb 21, 1962",Retired
+Goalkeeper,,,Jimmy Glass,"1,93m",966448,['England'],,21,"Aug 1, 1973",Retired
+Centre-Back,right,"Jul 1, 1989",Gareth Southgate,"1,83m",3744,['England'],: Ablöse -,24,"Sep 3, 1970",Retired
+Centre-Back,,"Aug 1, 1997",Eric Young,"1,88m",222546,"['Wales', 'Singapore']",: Ablöse ?,35,"Mar 25, 1960",Retired
+Centre-Back,right,"Jul 1, 1991",Chris Coleman,"1,88m",132125,"['Wales', 'Ireland']",: Ablöse €1.31m,25,"Jun 10, 1970",Retired
+Centre-Back,right,"Jul 1, 1986",Richard Shaw,"1,75m",10034,['England'],: Ablöse -,26,"Sep 11, 1968",Retired
+Centre-Back,,"Dec 5, 1989",Andy Thorn,,222309,['England'],Newcastle United,28,"Nov 12, 1966",Retired
+Centre-Back,right,"Mar 8, 1994",Ian Cox,"1,83m",14001,"['Trinidad and Tobago', 'England']",Carshalton Athletic,24,"Mar 25, 1971",Retired
+Left-Back,left,"Jul 1, 1991",Dean Gordon,"1,83m",10049,['England'],: Ablöse -,22,"Feb 10, 1973",Retired
+Right-Back,right,"Jul 5, 1994",Darren Pitcher,"1,75m",227865,['England'],Charlton Athletic,25,"Oct 12, 1969",---
+Right-Back,,"Aug 16, 1990",John Humphrey,,222509,['England'],Charlton Athletic,34,"Jan 31, 1961",Retired
+Right-Back,right,"Jul 1, 1992",Darren Patterson,"1,88m",149517,['Northern Ireland'],Wigan Athletic,25,"Oct 15, 1969",Retired
+Defensive Midfield,,"Jul 1, 1990",Simon Rodger,,195606,['England'],Bognor Regis Town,23,"Oct 3, 1971",Retired
+Central Midfield,,"Jul 1, 1994",Ray Wilkins,,117197,['England'],: Ablöse free transfer,38,"Sep 14, 1956",---
+Central Midfield,right,"Jul 1, 1987",Ricky Newman,"1,78m",13420,['England'],: Ablöse -,24,"Aug 5, 1970",Retired
+Central Midfield,right,"Feb 11, 1994",Damian Matthew,"1,80m",222518,['England'],: Ablöse €187k,24,"Sep 23, 1970",Retired
+Central Midfield,right,"Mar 23, 1995",Ray Houghton,"1,70m",102488,"['Ireland', 'Scotland']",: Ablöse €359k,33,"Jan 9, 1962",Retired
+Central Midfield,,"Jul 1, 1993",Brian Launders,,227861,['Ireland'],Unknown,19,"Jun 8, 1976",Retired
+Right Midfield,,,Bobby Bowry,,222490,"['St. Kitts & Nevis', 'England']",,24,"May 19, 1971",Retired
+Left Midfield,left,"Jul 1, 1986",John Salako,"1,75m",13423,"['England', 'Nigeria']",Unknown,26,"Feb 11, 1969",Retired
+Centre-Forward,right,"Jul 1, 1992",George Ndah,"1,86m",9169,"['Nigeria', 'England']",: Ablöse -,20,"Dec 23, 1974",Retired
+Centre-Forward,,"Jan 13, 1995",Iain Dowie,,149507,"['Northern Ireland', 'England']",Southampton FC,30,"Jan 9, 1965",Retired
+Centre-Forward,right,"Sep 1, 1992",Chris Armstrong,"1,84m",3281,['England'],: Ablöse €1.00m,24,"Jun 19, 1971",Retired
+Centre-Forward,right,"Mar 1, 1994",Bruce Dyer,"1,83m",14009,"['England', 'Montserrat']",: Ablöse €1.50m,20,"Apr 13, 1975",Retired
+Centre-Forward,,"Sep 11, 1992",Paul Williams,,223316,['England'],: Ablöse ?,29,"Aug 16, 1965",Retired
+Centre-Forward,,"Jun 23, 1994",Andy Preece,,222529,['England'],: Ablöse €438k,28,"Mar 27, 1967",Retired

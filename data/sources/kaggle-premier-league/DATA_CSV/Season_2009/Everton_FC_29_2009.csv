@@ -1,0 +1,43 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2007",Tim Howard,"1,91m",4267,"['United States', 'Hungary']",€9.50m,Manchester United,31,"Mar 6, 1979",Retired
+Goalkeeper,right,,"Jul 1, 2005",John Ruddy,"1,92m",29712,['England'],€750k,Cambridge United,23,"Oct 24, 1986",Newcastle United
+Goalkeeper,right,,"Jul 1, 2003",Iain Turner,"1,93m",3582,['Scotland'],€500k,Stirling Albion FC,26,"Jan 26, 1984",Retired
+Goalkeeper,right,,"Aug 1, 2008",Carlo Nash,"1,97m",3804,['England'],€250k,Wigan Athletic,36,"Sep 13, 1973",Retired
+Centre-Back,left,,"Jul 1, 2006",Joleon Lescott,"1,91m",4241,['England'],€15.00m,Wolverhampton Wanderers,27,"Aug 16, 1982",Retired
+Centre-Back,right,,"Jul 4, 2007",Phil Jagielka,"1,80m",13520,"['England', 'Poland']",€12.00m,Sheffield United,27,"Aug 17, 1982",Retired
+Centre-Back,right,,"Jul 1, 2003",Joseph Yobo,"1,88m",3270,"['Nigeria', 'England']",€9.50m,: Ablöse €6.00m,29,"Sep 6, 1980",Retired
+Centre-Back,right,,"Sep 1, 2009",Johnny Heitinga,"1,80m",4315,['Netherlands'],€9.00m,: Ablöse €6.80m,26,"Nov 15, 1983",Retired
+Centre-Back,right,,"Jul 1, 2008",Jack Rodwell,"1,88m",57079,['England'],€8.00m,: Ablöse -,19,"Mar 11, 1991",Without Club
+Centre-Back,left,,"Aug 27, 2009",Sylvain Distin,"1,92m",3356,"['France', 'Guadeloupe']",€7.50m,: Ablöse €6.50m,32,"Dec 16, 1977",Retired
+Centre-Back,right,,"Sep 17, 2009",Lucas Neill,"1,85m",3826,"['Australia', 'Northern Ireland']",€4.00m,Without Club,32,"Mar 9, 1978",Retired
+Centre-Back,right,,"Jan 26, 2010",Philippe Senderos,"1,89m",4277,"['Switzerland', 'Spain']",€3.00m,: Ablöse free transfer,25,"Feb 14, 1985",Retired
+Centre-Back,right,,"Jul 1, 2010",Shane Duffy,"1,93m",119269,"['Ireland', 'Northern Ireland']",€500k,: Ablöse -,18,"Jan 1, 1992",Norwich City
+Centre-Back,right,,,Shkodran Mustafi,"1,84m",88590,"['Germany', 'Albania']",€75k,,18,"Apr 17, 1992",Retired
+Centre-Back,right,,,Toto Nsiala,"1,93m",121265,"['DR Congo', 'Wales']",,,18,"Mar 25, 1992",Shrewsbury Town
+Left-Back,left,,"Aug 7, 2007",Leighton Baines,"1,70m",13507,['England'],€8.00m,Wigan Athletic,25,"Dec 11, 1984",Retired
+Left-Back,left,,,Jake Bidwell,"1,83m",121250,['England'],,,17,"Mar 21, 1993",Coventry City
+Left-Back,left,,"Jul 1, 2011",Luke Garbutt,"1,80m",110860,['England'],,: Ablöse -,17,"May 21, 1993",Salford City
+Left-Back,left,,,Nathan Craig,"1,80m",121252,"['Wales', 'England']",,,18,"Oct 25, 1991",Retired
+Right-Back,right,,"Jul 1, 2005",Phil Neville,"1,80m",3404,['England'],€5.00m,Manchester United,33,"Jan 21, 1977",Retired
+Right-Back,right,,"Jul 1, 2000",Tony Hibbert,"1,73m",3614,['England'],€3.50m,: Ablöse -,29,"Feb 20, 1981",Retired
+Right-Back,right,Team captain,"Jan 1, 2009",Séamus Coleman,"1,77m",68390,['Ireland'],€1.00m,Sligo Rovers,21,"Oct 11, 1988",Everton FC
+Central Midfield,right,,"Sep 2, 2008",Marouane Fellaini,"1,94m",39679,"['Belgium', 'Morocco']",€19.00m,: Ablöse €21.76m,22,"Nov 22, 1987",Retired
+Central Midfield,right,,"Jul 1, 2005",Mikel Arteta,"1,77m",7451,['Spain'],€18.00m,Real Sociedad,28,"Mar 26, 1982",Retired
+Central Midfield,right,,"Jul 1, 2002",Leon Osman,"1,73m",3620,['England'],€7.00m,Everton FC Reserves,29,"May 17, 1981",Retired
+Central Midfield,right,,"Jan 3, 2008",Dan Gosling,"1,80m",44983,['England'],€3.00m,Plymouth Argyle,20,"Feb 1, 1990",Westfield FC
+Central Midfield,right,,,James Wallace,"1,80m",83495,"['England', 'Ireland']",€50k,,18,"Dec 19, 1991",Retired
+Central Midfield,right,,,Adam Forshaw,"1,75m",121257,['England'],,,18,"Oct 8, 1991",Plymouth Argyle
+Central Midfield,right,,,Hope Akpan,"1,85m",61559,"['Nigeria', 'England']",,,18,"Aug 14, 1991",Retired
+Left Midfield,,,"Jul 31, 2012",Steven Pienaar,,4321,['South Africa'],€8.00m,Tottenham Hotspur,28,"Mar 17, 1982",Retired
+Attacking Midfield,right,,"Jul 1, 2004",Tim Cahill,"1,78m",13556,"['Australia', 'Samoa']",€16.00m,: Ablöse €2.20m,30,"Dec 6, 1979",Retired
+Attacking Midfield,left,,"Aug 25, 2009",Diniyar Bilyaletdinov,"1,85m",16690,['Russia'],€9.00m,: Ablöse €10.00m,25,"Feb 27, 1985",Retired
+Attacking Midfield,right,,"Jul 1, 2009",Jose Baxter,"1,79m",82734,['England'],€750k,: Ablöse -,18,"Feb 7, 1992",Retired
+Second Striker,right,,"Jan 1, 2012",Landon Donovan,"1,73m",68,"['United States', 'Canada']",€3.00m,Los Angeles Galaxy,28,"Mar 4, 1982",Retired
+Centre-Forward,,,"Aug 30, 2007",Yakubu Aiyegbeni,"1,83m",8559,['Nigeria'],€16.50m,Middlesbrough FC,27,"Nov 22, 1982",Retired
+Centre-Forward,left,,"Sep 1, 2008",Louis Saha,"1,82m",4015,"['France', 'Guadeloupe']",€9.00m,Manchester United,31,"Aug 8, 1978",Retired
+Centre-Forward,left,,"Feb 2, 2009",Jô,"1,92m",34156,['Brazil'],€7.50m,: Ablöse free transfer,23,"Mar 20, 1987",Itabirito FC
+Centre-Forward,right,,"Jul 1, 2006",Victor Anichebe,"1,90m",39532,"['Nigeria', 'England']",€2.50m,: Ablöse -,22,"Apr 23, 1988",Retired
+Centre-Forward,right,,"Jul 1, 2006",James Vaughan,"1,81m",30471,"['England', 'Jamaica']",€1.50m,: Ablöse -,21,"Jul 14, 1988",Retired
+Centre-Forward,left,,"Jul 1, 2007",Lukas Jutkiewicz,"1,85m",33507,['England'],€800k,Swindon Town,21,"Mar 28, 1989",Birmingham City
+Centre-Forward,right,,"Jul 1, 2009",Kieran Agard,"1,78m",57066,"['England', 'Jamaica']",€250k,Everton FC Reserves,20,"Oct 10, 1989",Retired
+Centre-Forward,right,,"Jul 1, 2011",Conor McAleny,"1,78m",121260,['England'],,: Ablöse -,17,"Aug 12, 1992",Salford City

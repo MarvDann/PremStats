@@ -1,0 +1,25 @@
+position,foot,status,joinedOn,name,height,id,nationality,contract,marketValue,joined,age,dateOfBirth,signedFrom
+Goalkeeper,right,,"Aug 31, 2023",Dean Henderson,"1,88m",258919,['England'],"Jun 30, 2028",€12.00m,,27,"Mar 12, 1997",Manchester United
+Goalkeeper,right,,"Aug 30, 2024",Matt Turner,"1,91m",425306,"['United States', 'Lithuania']","Jun 30, 2025",€5.00m,"On loan from Nottingham Forest until Jun 30, 2025",30,"Jun 24, 1994",Nottingham Forest
+Goalkeeper,right,,"Jul 12, 2021",Remi Matthews,"1,92m",196722,['England'],"Jun 30, 2025",€500k,,30,"Feb 10, 1994",Sunderland AFC
+Centre-Back,right,,"Jul 18, 2021",Marc Guéhi,"1,82m",392757,"['England', ""Cote d'Ivoire""]","Jun 30, 2026",€45.00m,,24,"Jul 13, 2000",Chelsea FC
+Centre-Back,right,,"Aug 30, 2024",Maxence Lacroix,"1,90m",434224,"['France', 'Guadeloupe']","Jun 30, 2029",€20.00m,"Joined from VfL Wolfsburg; date: Aug 30, 2024; fee: €18.00m",24,"Apr 6, 2000",VfL Wolfsburg
+Centre-Back,left,Knee injury - Return unknown,"Jul 2, 2024",Chadi Riad,"1,87m",689637,"['Morocco', 'Spain']","Jun 30, 2029",€15.00m,"Joined from Real Betis Balompié; date: Jul 2, 2024; fee: €15.00m",21,"Jun 17, 2003",Real Betis Balompié
+Centre-Back,right,,"Aug 30, 2024",Trevoh Chalobah,"1,92m",346314,"['England', 'Sierra Leone']","May 31, 2025",€13.00m,"On loan from Chelsea FC until May 31, 2025",25,"Jul 5, 1999",Chelsea FC
+Centre-Back,right,,"Jul 27, 2022",Chris Richards,"1,88m",578539,['United States'],"Jun 30, 2027",€12.00m,,24,"Mar 28, 2000",: Ablöse €12.00m
+Centre-Back,right,,"Sep 1, 2023",Rob Holding,"1,89m",253341,['England'],"Jun 30, 2026",€5.00m,,29,"Sep 20, 1995",Arsenal FC
+Left-Back,left,,"Jul 1, 2020",Tyrick Mitchell,"1,81m",730893,"['England', 'Jamaica']","Jun 30, 2025",€25.00m,,25,"Sep 1, 1999",Crystal Palace U21
+Right-Back,right,,"Jan 30, 2024",Daniel Muñoz,"1,81m",493003,['Colombia'],"Jun 30, 2027",€23.00m,,28,"May 26, 1996",KRC Genk
+Right-Back,right,,"Oct 14, 2020",Nathaniel Clyne,"1,75m",85177,"['England', 'Grenada']","Jun 30, 2025",€1.50m,,33,"Apr 5, 1991",: Ablöse free transfer
+Right-Back,right,Team captain,"Jul 1, 2012",Joel Ward,"1,86m",92572,['England'],"Jun 30, 2025",€1.00m,,35,"Oct 29, 1989",: Ablöse €650k
+Defensive Midfield,right,,"Jul 11, 2022",Cheick Doucouré,"1,80m",543387,['Mali'],"Jun 30, 2029",€35.00m,,24,"Jan 8, 2000",RC Lens
+Defensive Midfield,left,,"Feb 1, 2024",Adam Wharton,"1,82m",744149,['England'],"Jun 30, 2029",€30.00m,,20,"Feb 6, 2004",Blackburn Rovers
+Defensive Midfield,right,,"Jul 1, 2023",Jefferson Lerma,"1,79m",262980,['Colombia'],"Jun 30, 2026",€18.00m,,30,"Oct 25, 1994",AFC Bournemouth
+Central Midfield,left,,"Aug 28, 2021",Will Hughes,"1,85m",207014,['England'],"Jun 30, 2025",€9.00m,,29,"Apr 17, 1995",Watford FC
+Left Midfield,left,,"Jan 13, 2017",Jeffrey Schlupp,"1,78m",157506,"['Ghana', 'Germany']","Jun 30, 2025",€7.00m,,31,"Dec 23, 1992",Leicester City
+Attacking Midfield,right,,"Aug 28, 2020",Eberechi Eze,"1,78m",479999,"['England', 'Nigeria']","Jun 30, 2027",€60.00m,,26,"Jun 29, 1998",Queens Park Rangers
+Attacking Midfield,right,,"Jul 1, 2024",Daichi Kamada,"1,84m",356141,['Japan'],"Jun 30, 2026",€18.00m,"Joined from SS Lazio; date: Jul 1, 2024; fee: free transfer",28,"Aug 5, 1996",SS Lazio
+Attacking Midfield,right,Rib fracture - Return unknown,"Aug 5, 2023",Matheus França,"1,84m",743597,['Brazil'],"Jun 30, 2028",€15.00m,,20,"Apr 1, 2004",CR Flamengo
+Right Winger,right,,"Aug 1, 2024",Ismaïla Sarr,"1,85m",410225,['Senegal'],"Jun 30, 2029",€18.00m,"Joined from Olympique Marseille; date: Aug 1, 2024; fee: €15.00m",26,"Feb 25, 1998",Olympique Marseille
+Centre-Forward,right,,"Aug 30, 2024",Eddie Nketiah,"1,75m",340324,"['England', 'Ghana']","Jun 30, 2029",€30.00m,"Joined from Arsenal FC; date: Aug 30, 2024; fee: €29.70m",25,"May 30, 1999",Arsenal FC
+Centre-Forward,right,,"Jan 31, 2022",Jean-Philippe Mateta,"1,92m",420002,"['France', 'DR Congo']","Jun 30, 2026",€20.00m,,27,"Jun 28, 1997",1.FSV Mainz 05

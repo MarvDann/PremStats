@@ -1,0 +1,41 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 20, 2018",Danny Ward,"1,91m",203026,['Wales'],€6.00m,,: Ablöse €14.00m,29,"Jun 22, 1993",Leicester City
+Goalkeeper,right,,"Jul 1, 2011",Kasper Schmeichel,"1,89m",16911,['Denmark'],€4.00m,,Leeds United,35,"Nov 5, 1986",Celtic FC
+Goalkeeper,right,,"Jul 19, 2017",Eldin Jakupovic,"1,91m",2857,"['Switzerland', 'Bosnia-Herzegovina']",€250k,,: Ablöse €2.30m,37,"Oct 2, 1984",Retired
+Goalkeeper,right,Ankle injury - Return unknown,"Jul 1, 2023",Jakub Stolarczyk,"1,94m",486144,['Poland'],€200k,,Leicester City U21,21,"Dec 19, 2000",Leicester City
+Goalkeeper,left,,,Chituru Odunze,"2,00m",627198,"['United States', 'Canada']",,,,19,"Oct 14, 2002",Charlotte FC
+Centre-Back,right,"No eligibility - until Dec 31, 2024 - UEFA Conference League","Oct 2, 2020",Wesley Fofana,"1,86m",475411,"['France', ""Cote d'Ivoire""]",€40.00m,,: Ablöse €35.00m,21,"Dec 17, 2000",Chelsea FC
+Centre-Back,both,Foot injury - Return unknown,"Aug 9, 2018",Çağlar Söyüncü,"1,85m",320141,['Türkiye'],€40.00m,,SC Freiburg,26,"May 23, 1996",Fenerbahce
+Centre-Back,both,Ankle injury - Return unknown,"Aug 13, 2021",Jannik Vestergaard,"1,99m",99331,"['Denmark', 'Germany']",€13.00m,,Southampton FC,29,"Aug 3, 1992",Leicester City
+Centre-Back,right,,"Jan 22, 2016",Daniel Amartey,"1,86m",214056,['Ghana'],€10.00m,,: Ablöse €6.60m,27,"Dec 21, 1994",Without Club
+Centre-Back,both,,"Jul 1, 2018",Jonny Evans,"1,88m",42412,['Northern Ireland'],€4.00m,,West Bromwich Albion,34,"Jan 3, 1988",Manchester United
+Centre-Back,right,,"Aug 9, 2018",Filip Benkovic,"1,94m",293168,['Croatia'],€1.80m,,GNK Dinamo Zagreb,24,"Jul 13, 1997",Without Club
+Centre-Back,right,,"Jul 1, 2017",Sam Hughes,,395797,['England'],€300k,,Chester FC,25,"Apr 15, 1997",Stockport County
+Centre-Back,,,,Lewis Brunt,"1,87m",533657,['England'],,,,21,"Nov 6, 2000",Wrexham AFC
+Centre-Back,right,,"Jul 1, 2023",Ben Nelson,"1,93m",714458,"['England', 'Scotland']",,,Leicester City U21,18,"Mar 18, 2004",Oxford United
+Left-Back,left,,"Jul 1, 2020",Luke Thomas,"1,81m",505194,['England'],€12.00m,,Leicester City U21,21,"Jun 10, 2001",Leicester City
+Left-Back,left,Knee surgery - Return unknown,"Jul 15, 2021",Ryan Bertrand,"1,79m",40611,['England'],€3.00m,,Southampton FC,32,"Aug 5, 1989",Retired
+Right-Back,right,,"Sep 3, 2020",Timothy Castagne,"1,85m",262226,['Belgium'],€28.00m,,Atalanta BC,26,"Dec 5, 1995",Fulham FC
+Right-Back,both,,"Jul 1, 2019",James Justin,"1,83m",413220,"['England', 'St. Lucia']",€25.00m,,Luton Town,24,"Feb 23, 1998",Leicester City
+Right-Back,right,,"Jul 1, 2018",Ricardo Pereira,"1,75m",215876,"['Portugal', 'Cape Verde']",€20.00m,,FC Porto,28,"Oct 6, 1993",Leicester City
+Right-Back,right,,,Vontae Daley-Campbell,"1,83m",530732,"['England', 'Jamaica']",€200k,,,21,"Apr 2, 2001",Chesterfield FC
+Defensive Midfield,right,,"Jan 3, 2017",Wilfred Ndidi,"1,83m",274839,"['Nigeria', 'England']",€60.00m,,KRC Genk,25,"Dec 16, 1996",Leicester City
+Defensive Midfield,right,,"Jul 2, 2021",Boubakary Soumaré,"1,88m",344605,"['France', 'Senegal']",€25.00m,"Returned after loan spell with Sevilla FC; date: Jun 30, 2024; fee: End of loan",LOSC Lille,23,"Feb 27, 1999",Leicester City
+Defensive Midfield,right,,"Jan 1, 2018",Hamza Choudhury,"1,78m",341501,"['England', 'Bangladesh']",€4.00m,,Leicester City U21,24,"Oct 1, 1997",Leicester City
+Defensive Midfield,right,,"Jul 3, 2016",Nampalys Mendy,"1,68m",111051,"['Senegal', 'France']",€4.00m,,OGC Nice,30,"Jun 23, 1992",RC Lens
+Defensive Midfield,right,,,Sammy Braybrooke,,840640,['England'],,,,18,"Mar 12, 2004",Dundee FC
+Central Midfield,right,,"Jul 8, 2019",Youri Tielemans,"1,77m",249565,"['Belgium', 'DR Congo']",€55.00m,,: Ablöse €45.00m,25,"May 7, 1997",Aston Villa
+Central Midfield,right,,"Aug 8, 2019",Dennis Praet,"1,81m",129588,['Belgium'],€13.00m,,UC Sampdoria,28,"May 14, 1994",Royal Antwerp FC
+Central Midfield,left,,"Jul 1, 2021",Kiernan Dewsbury-Hall,"1,78m",475188,['England'],€8.00m,,Leicester City U21,23,"Sep 6, 1998",Chelsea FC
+Central Midfield,,,,Oliver Ewing,,583953,"['Wales', 'England']",,,,19,"Jan 3, 2003",Leicester City U21
+Right Midfield,right,,"Jul 1, 2014",Marc Albrighton,"1,75m",61560,['England'],€2.50m,,: Ablöse free transfer,32,"Nov 18, 1989",Retired
+Attacking Midfield,right,,"Jul 1, 2018",James Maddison,"1,75m",294057,['England'],€50.00m,,: Ablöse €25.00m,25,"Nov 23, 1996",Tottenham Hotspur
+Attacking Midfield,right,,,Will Alves,,867711,"['England', 'Portugal']",,,,17,"May 4, 2005",Leicester City U21
+Left Winger,right,,"Jul 1, 2018",Harvey Barnes,"1,82m",398065,"['England', 'Scotland']",€32.00m,,Leicester City U21,24,"Dec 9, 1997",Newcastle United
+Left Winger,right,,"Jul 4, 2019",Ayoze Pérez,"1,78m",246968,['Spain'],€10.00m,,Newcastle United,28,"Jul 29, 1993",Villarreal CF
+Right Winger,right,,"Jul 1, 2023",Kasey McAteer,"1,77m",621193,"['Ireland', 'England']",€300k,,Leicester City U21,20,"Nov 22, 2001",Leicester City
+Right Winger,right,,"Jul 1, 2023",Wanya Marçal,"1,81m",670988,"['Portugal', 'Angola']",,,Leicester City U21,19,"Oct 19, 2002",De Graafschap Doetinchem
+Second Striker,right,,"Aug 31, 2021",Ademola Lookman,"1,74m",406040,"['Nigeria', 'England']",€10.00m,,RB Leipzig,24,"Oct 20, 1997",Atalanta BC
+Centre-Forward,left,,"Aug 3, 2017",Kelechi Iheanacho,"1,85m",295330,['Nigeria'],€20.00m,,Manchester City,25,"Oct 3, 1996",Sevilla FC
+Centre-Forward,right,,"Jul 1, 2021",Patson Daka,"1,83m",365172,['Zambia'],€20.00m,,Red Bull Salzburg,23,"Oct 9, 1998",Leicester City
+Centre-Forward,right,Team captain,"Jul 1, 2012",Jamie Vardy,"1,79m",197838,['England'],€5.00m,,Fleetwood Town,35,"Jan 11, 1987",Leicester City

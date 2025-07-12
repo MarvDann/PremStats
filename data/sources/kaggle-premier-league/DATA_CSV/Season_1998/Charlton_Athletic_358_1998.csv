@@ -1,0 +1,33 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 1989",Mike Salmon,"1,88m",591026,['England'],Wrexham AFC,34,"Jul 14, 1964",Retired
+Goalkeeper,right,"Oct 23, 1997",Sasa Ilic,"1,93m",4138,"['Serbia', 'Australia']",Unknown,26,"Jul 18, 1972",Retired
+Goalkeeper,,"Jul 15, 1994",Andy Petterson,"1,89m",15960,"['Australia', 'United Kingdom']",: Ablöse €97k,29,"Sep 26, 1969",Retired
+Goalkeeper,right,"Jul 1, 2003",Simon Royce,"1,88m",5162,['England'],: Ablöse free transfer,27,"Sep 9, 1971",Retired
+Centre-Back,right,"Jul 3, 1990",Steve Brown,"1,85m",13401,['England'],Charlton Athletic U18,27,"May 13, 1972",Retired
+Centre-Back,right,"Jul 1, 1995",Jamie Stuart,"1,78m",91483,['England'],Charlton Athletic U18,22,"Oct 15, 1976",Retired
+Centre-Back,,"Jul 1, 1995",Richard Rufus,"1,85m",4101,['England'],Charlton Athletic U18,24,"Jan 12, 1975",Retired
+Centre-Back,,"Mar 26, 1998",Eddie Youds,"1,85m",223443,['England'],Bradford City,29,"May 3, 1970",Retired
+Centre-Back,right,"Sep 29, 1998",Carl Tiler,"1,88m",198681,['England'],: Ablöse €874k,29,"Feb 11, 1970",Retired
+Left-Back,left,"Jul 1, 2007",Chris Powell,"1,78m",4100,"['England', 'Jamaica']",Watford FC,29,"Sep 8, 1969",Retired
+Left-Back,left,"Sep 15, 1997",Mark Bowen,"1,73m",181585,['Wales'],: Ablöse free transfer,35,"Dec 7, 1963",Retired
+Left-Back,,"Jul 1, 1996",Anthony Barness,"1,78m",3288,['England'],: Ablöse €200k,26,"Feb 25, 1973",Retired
+Left-Back,left,"Jul 1, 1998",Paul Konchesky,"1,78m",3296,['England'],Charlton Athletic U18,18,"May 15, 1981",Retired
+Right-Back,,"Aug 1, 1990",Stuart Balmer,,22726,['Scotland'],Celtic FC,29,"Sep 20, 1969",Retired
+Right-Back,right,"Aug 1, 2007",Danny Mills,"1,80m",3743,['England'],: Ablöse free transfer,22,"May 18, 1977",Retired
+Defensive Midfield,,"Jul 1, 1996",Mark Kinsella,,4064,['Ireland'],Colchester United,26,"Aug 12, 1972",Retired
+Midfielder,,"Jul 5, 1994",Paul Mortimer,,223447,['England'],: Ablöse €251k,31,"May 8, 1968",Retired
+Central Midfield,both,"Jul 1, 1998",Neil Redfearn,"1,75m",195179,['England'],Barnsley FC,34,"Jun 20, 1965",Retired
+Central Midfield,right,"Sep 16, 1994",Keith Jones,"1,75m",176810,['England'],Southend United,33,"Oct 14, 1965",Retired
+Central Midfield,right,"Aug 1, 1997",Scott Parker,"1,80m",3785,['England'],Charlton Athletic U18,18,"Oct 13, 1980",Retired
+Right Midfield,right,"Jul 1, 1993",Shaun Newton,"1,74m",9171,['England'],Charlton Athletic U18,23,"Aug 20, 1975",Retired
+Left Midfield,left,"Aug 21, 1997",Matty Holmes,"1,70m",173497,['England'],Blackburn Rovers,29,"Aug 1, 1969",Retired
+Left Midfield,,"Feb 8, 1999",John Barnes,,87436,"['England', 'Jamaica']",Newcastle United,35,"Nov 7, 1963",Retired
+Right Winger,right,"Mar 23, 1999",Graham Stuart,"1,73m",3334,['England'],Sheffield United,28,"Oct 24, 1970",Retired
+Right Winger,right,"Sep 15, 1992",John Robinson,"1,78m",10428,"['Wales', 'Zimbabwe']",: Ablöse €75k,27,"Aug 29, 1971",Retired
+Centre-Forward,right,"Jul 1, 1998",Andy Hunt,"1,83m",202555,['England'],: Ablöse free transfer,29,"Jun 9, 1970",Retired
+Centre-Forward,right,"May 23, 1997",Clive Mendonca,"1,78m",223425,['England'],Grimsby Town,30,"Sep 9, 1968",Retired
+Centre-Forward,right,"Mar 27, 1997",Mark Bright,"1,83m",223280,['England'],: Ablöse free transfer,37,"Jun 6, 1962",Retired
+Centre-Forward,right,"Feb 13, 1997",Steve Jones,"1,85m",197276,['England'],: Ablöse €498k,29,"Mar 17, 1970",Retired
+Centre-Forward,right,"Jul 1, 1996",Kevin Lisbie,"1,78m",4097,"['Jamaica', 'England']",Charlton Athletic U18,20,"Oct 17, 1978",Retired
+Centre-Forward,both,"Mar 28, 1996",Bradley Allen,"1,73m",223445,['England'],: Ablöse €600k,27,"Sep 13, 1971",Retired
+Centre-Forward,,"Jan 8, 1999",Martin Pringle,"1,90m",17482,['Sweden'],: Ablöse €1.10m,28,"Nov 18, 1970",Retired

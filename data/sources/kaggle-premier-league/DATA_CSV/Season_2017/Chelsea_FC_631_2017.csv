@@ -1,0 +1,47 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,Adductor injury - Return unknown,"Jul 26, 2011",Thibaut Courtois,"2,00m",108390,['Belgium'],€60.00m,: Ablöse €8.95m,26,"May 11, 1992",Real Madrid
+Goalkeeper,right,,"Jul 1, 2017",Willy Caballero,"1,86m",19948,"['Argentina', 'Spain']",€1.00m,Manchester City,36,"Sep 28, 1981",Retired
+Goalkeeper,right,,"Aug 25, 2016",Eduardo,"1,88m",34159,['Portugal'],€1.00m,GNK Dinamo Zagreb,35,"Sep 19, 1982",Retired
+Goalkeeper,right,,"Jul 1, 2010",Matej Delac,"1,90m",60220,['Croatia'],€750k,: Ablöse €3.00m,25,"Aug 20, 1992",AC Horsens
+Goalkeeper,right,,"Jul 1, 2014",Jamal Blackman,"1,99m",128898,"['England', 'Barbados']",€250k,Chelsea FC U21,24,"Oct 27, 1993",Without Club
+Centre-Back,right,,"Jul 9, 2017",Antonio Rüdiger,"1,90m",86202,"['Germany', 'Sierra Leone']",€40.00m,AS Roma,25,"Mar 3, 1993",Real Madrid
+Centre-Back,right,"Achilles tendon irritation - Return expected on Jan 1, 2025","Jul 1, 2015",Andreas Christensen,"1,87m",196948,['Denmark'],€40.00m,Chelsea FC U21,22,"Apr 10, 1996",FC Barcelona
+Centre-Back,right,,"Aug 24, 2012",César Azpilicueta,"1,78m",57500,['Spain'],€40.00m,Olympique Marseille,28,"Aug 28, 1989",Atlético de Madrid
+Centre-Back,right,,"Aug 31, 2016",David Luiz,"1,89m",46741,"['Brazil', 'Portugal']",€25.00m,: Ablöse €35.00m,31,"Apr 22, 1987",CR Flamengo
+Centre-Back,right,,"Jan 31, 2014",Kurt Zouma,"1,90m",157509,"['France', 'Central African Republic']",€15.00m,: Ablöse €14.60m,23,"Oct 27, 1994",Al-Orobah FC
+Centre-Back,right,,"Jan 16, 2012",Gary Cahill,"1,93m",27511,['England'],€15.00m,: Ablöse €8.40m,32,"Dec 19, 1985",Retired
+Centre-Back,right,,"Jul 1, 2010",Tomas Kalas,"1,84m",148657,['Czech Republic'],€5.00m,SK Sigma Olomouc,25,"May 15, 1993",FC Schalke 04
+Centre-Back,right,,"Sep 1, 2015",Michael Hector,"1,93m",157490,"['Jamaica', 'England']",€3.00m,Reading FC,25,"Jul 19, 1992",Without Club
+Centre-Back,right,,"Jul 1, 2017",Fikayo Tomori,"1,85m",303254,"['England', 'Canada']",€1.00m,Chelsea FC U23,20,"Dec 19, 1997",AC Milan
+Centre-Back,left,,"Jul 1, 2018",Jake Clarke-Salter,"1,88m",316551,"['England', 'Ireland']",€1.00m,Chelsea FC U23,20,"Sep 22, 1997",Queens Park Rangers
+Centre-Back,right,,"Jul 1, 2021",Trevoh Chalobah,"1,92m",346314,"['England', 'Sierra Leone']",,Chelsea FC U23,18,"Jul 5, 1999",Crystal Palace
+Left-Back,left,,"Aug 31, 2016",Marcos Alonso,"1,88m",112515,['Spain'],€40.00m,: Ablöse €23.00m,27,"Dec 28, 1990",Celta de Vigo
+Left-Back,left,,"Jan 30, 2018",Emerson,"1,76m",181778,"['Italy', 'Brazil']",€20.00m,AS Roma,23,"Aug 3, 1994",West Ham United
+Right-Back,right,,"Jul 1, 2016",Ola Aina,"1,84m",236490,"['Nigeria', 'England']",€1.50m,Chelsea FC U23,21,"Oct 8, 1996",Nottingham Forest
+Right-Back,right,,"Jul 1, 2012",Todd Kane,"1,80m",154287,"['England', 'Scotland']",€1.25m,Chelsea FC U18,24,"Sep 17, 1993",Ebbsfleet United
+Right-Back,right,,"Jan 1, 2013",Wallace Oliveira,"1,75m",181779,['Brazil'],€1.00m,Fluminense Football Club,24,"May 1, 1994",Retired
+Right-Back,right,,,Dujon Sterling,"1,86m",346315,"['England', 'Jamaica']",,,18,"Oct 24, 1999",Rangers FC
+Defensive Midfield,right,,"Jul 16, 2016",N'Golo Kanté,"1,68m",225083,"['France', 'Mali']",€60.00m,Leicester City,27,"Mar 29, 1991",Al-Ittihad Club
+Defensive Midfield,right,,"Jul 15, 2017",Tiemoué Bakayoko,"1,89m",182618,"['France', ""Cote d'Ivoire""]",€40.00m,: Ablöse €40.00m,23,"Aug 17, 1994",PAOK Thessaloniki
+Defensive Midfield,right,"Knee injury - Return expected on Dec 31, 2024","Jul 1, 2017",Ethan Ampadu,"1,82m",392771,"['Wales', 'England']",€5.00m,Exeter City,17,"Sep 14, 2000",Leeds United
+Central Midfield,right,,"Jul 1, 2014",Cesc Fàbregas,"1,79m",8806,['Spain'],€30.00m,FC Barcelona,31,"May 4, 1987",Retired
+Central Midfield,right,,"Jan 5, 2018",Ross Barkley,"1,89m",131978,['England'],€25.00m,Everton FC,24,"Dec 5, 1993",Aston Villa
+Central Midfield,right,,"Aug 31, 2017",Danny Drinkwater,"1,78m",73491,['England'],€20.00m,Leicester City,28,"Mar 5, 1990",Retired
+Central Midfield,right,,"Jan 1, 2015",Ruben Loftus-Cheek,"1,91m",202886,"['England', 'Guyana']",€15.00m,Chelsea FC U21,22,"Jan 23, 1996",AC Milan
+Central Midfield,right,,"Jul 4, 2013",Marco van Ginkel,"1,86m",147034,['Netherlands'],€12.00m,Vitesse Arnhem,25,"Dec 1, 1992",Without Club
+Central Midfield,right,,"Jul 1, 2014",Lewis Baker,"1,82m",198589,"['England', 'Jamaica']",€5.50m,Chelsea FC U21,23,"Apr 25, 1995",Blackburn Rovers
+Central Midfield,right,,,Kyle Scott,"1,72m",258888,"['United States', 'England']",,,20,"Dec 22, 1997",Orange County SC
+Right Midfield,right,Calf problems - Return unknown,"Aug 31, 2017",Davide Zappacosta,"1,82m",173859,['Italy'],€20.00m,Torino FC,26,"Jun 11, 1992",Atalanta BC
+Attacking Midfield,right,,"Jan 20, 2012",Lucas Piazón,"1,82m",176485,"['Brazil', 'Italy']",€2.50m,São Paulo Futebol Clube,24,"Jan 20, 1994",Avs Futebol
+Left Winger,right,,"Jul 1, 2012",Eden Hazard,"1,75m",50202,['Belgium'],€110.00m,: Ablöse €35.00m,27,"Jan 7, 1991",Retired
+Left Winger,right,"Muscle injury - Return expected on Nov 29, 2024","Aug 28, 2013",Willian,"1,75m",52769,['Brazil'],€32.00m,Anzhi Makhachkala ( -2022),29,"Aug 9, 1988",Olympiacos Piraeus
+Left Winger,left,,"Aug 22, 2015",Kenedy,"1,80m",281404,['Brazil'],€10.00m,Fluminense Football Club,22,"Feb 8, 1996",Real Valladolid CF
+Left Winger,right,,"Jul 1, 2017",Charly Musonda Jr.,"1,73m",177862,"['Belgium', 'Zambia']",€5.00m,Chelsea FC U23,21,"Oct 15, 1996",Without Club
+Left Winger,right,,,Jérémie Boga,"1,72m",216569,"[""Cote d'Ivoire"", 'France']",€2.50m,,21,"Jan 3, 1997",OGC Nice
+Left Winger,right,,"Jan 1, 2019",Callum Hudson-Odoi,"1,78m",392768,"['England', 'Ghana']",,Chelsea FC U23,17,"Nov 7, 2000",Nottingham Forest
+Right Winger,both,,"Aug 20, 2015",Pedro,"1,67m",65278,['Spain'],€25.00m,FC Barcelona,30,"Jul 28, 1987",SS Lazio
+Right Winger,right,,"Aug 24, 2012",Victor Moses,"1,77m",59866,"['Nigeria', 'England']",€20.00m,Wigan Athletic,27,"Dec 12, 1990",Luton Town
+Centre-Forward,right,"Yellow card suspension - until Nov 27, 2024 - UEFA Champions League - 1 matchday; Head injury - Return expected on Nov 12, 2024","Jul 21, 2017",Álvaro Morata,"1,89m",128223,['Spain'],€65.00m,Real Madrid,25,"Oct 23, 1992",AC Milan
+Centre-Forward,right,,"Jul 3, 2016",Michy Batshuayi,"1,85m",179184,"['Belgium', 'DR Congo']",€40.00m,Olympique Marseille,24,"Oct 2, 1993",Galatasaray
+Centre-Forward,left,,"Jan 31, 2018",Olivier Giroud,"1,92m",82442,['France'],€18.00m,Arsenal FC,31,"Sep 30, 1986",Los Angeles FC
+Centre-Forward,right,,"Jul 1, 2017",Tammy Abraham,"1,94m",331726,"['England', 'Nigeria']",€10.00m,Chelsea FC U23,20,"Oct 2, 1997",AC Milan

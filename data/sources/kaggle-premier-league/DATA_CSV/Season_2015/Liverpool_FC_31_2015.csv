@@ -1,0 +1,45 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2013",Simon Mignolet,"1,93m",50219,['Belgium'],€12.00m,Sunderland AFC,28,"Mar 6, 1988",Club Brugge KV
+Goalkeeper,right,,"Jul 1, 2015",Ádám Bogdán,"1,94m",55247,['Hungary'],€2.00m,Bolton Wanderers,28,"Sep 27, 1987",Retired
+Goalkeeper,right,,"Jan 30, 2012",Danny Ward,"1,91m",203026,['Wales'],€1.50m,Wrexham AFC,23,"Jun 22, 1993",Leicester City
+Goalkeeper,left,,"Jul 7, 2014",Lawrence Vigouroux,"1,94m",243591,"['Chile', 'England']",€100k,Tottenham Hotspur U21,22,"Nov 19, 1993",Swansea City
+Goalkeeper,right,,,Ryan Fulton,"1,91m",193861,"['Scotland', 'England']",,,20,"May 23, 1996",Heart of Midlothian FC
+Centre-Back,left,,"Sep 2, 2013",Mamadou Sakho,"1,87m",47713,"['France', 'Senegal']",€18.00m,: Ablöse €19.00m,26,"Feb 13, 1990",Torpedo Kutaisi
+Centre-Back,right,"No eligibility - until Jun 30, 2025 - UEFA Europa League","Jul 27, 2014",Dejan Lovren,"1,88m",37838,['Croatia'],€13.00m,Southampton FC,26,"Jul 5, 1989",PAOK Thessaloniki
+Centre-Back,right,,"Jan 11, 2008",Martin Skrtel,"1,91m",24180,['Slovakia'],€10.00m,: Ablöse €10.00m,31,"Dec 15, 1984",Hajskala Raztocno
+Centre-Back,right,,"Jan 12, 2016",Steven Caulker,"1,91m",121280,"['Sierra Leone', 'England']",€7.50m,: Ablöse ?,24,"Dec 29, 1991",Ankara Keciörengücü
+Centre-Back,right,,"Sep 1, 2013",Tiago Ilori,"1,90m",177859,"['Portugal', 'England']",€4.00m,Sporting CP,23,"Feb 26, 1993",Without Club
+Centre-Back,right,,"Jul 1, 2015",Joe Gomez,"1,88m",256178,"['England', 'The Gambia']",€3.50m,Charlton Athletic,19,"May 23, 1997",Liverpool FC
+Centre-Back,right,,"Jul 1, 2013",Kolo Touré,"1,78m",3202,"[""Cote d'Ivoire"", 'England']",€2.00m,: Ablöse free transfer,35,"Mar 19, 1981",Retired
+Centre-Back,right,,,Dan Cleary,"1,82m",264193,['Ireland'],,,20,"Mar 9, 1996",Shamrock Rovers
+Centre-Back,right,,,Conor Masterson,"1,85m",293784,['Ireland'],,,17,"Sep 8, 1998",Gillingham FC
+Left-Back,left,,"Aug 13, 2014",Alberto Moreno,"1,71m",207917,['Spain'],€15.00m,Sevilla FC,23,"Jul 5, 1992",Como 1907
+Left-Back,left,,"Aug 11, 2011",José Enrique,"1,84m",35571,['Spain'],€1.50m,Newcastle United,30,"Jan 23, 1986",Retired
+Left-Back,left,,"Jan 1, 2016",Brad Smith,"1,77m",175745,"['Australia', 'England']",€100k,: Ablöse -,22,"Apr 9, 1994",Houston Dynamo FC
+Left-Back,left,,,Joe Maguire,"1,79m",263556,['England'],,,20,"Jan 18, 1996",Without Club
+Right-Back,right,,"Jul 1, 2015",Nathaniel Clyne,"1,75m",85177,"['England', 'Grenada']",€21.00m,Southampton FC,25,"Apr 5, 1991",Crystal Palace
+Right-Back,right,,"Jan 1, 2011",Jon Flanagan,"1,81m",145922,"['England', 'Ireland']",€7.00m,: Ablöse -,23,"Jan 1, 1993",Retired
+Right-Back,right,,"Jul 1, 2011",Andre Wisdom,"1,86m",128912,"['England', 'Jamaica']",€4.00m,: Ablöse -,23,"May 9, 1993",Derry City
+Right-Back,right,,"Jul 1, 2015",Connor Randall,"1,80m",262545,['England'],€250k,: Ablöse -,20,"Oct 21, 1995",Ross County FC
+Defensive Midfield,right,"Red card suspension - until Dec 1, 2024 - Bundesliga - 2 matchdays","Jul 1, 2014",Emre Can,"1,86m",119296,"['Germany', 'Türkiye']",€18.00m,Bayer 04 Leverkusen,22,"Jan 12, 1994",Borussia Dortmund
+Defensive Midfield,right,,"Jul 1, 2007",Lucas Leiva,"1,79m",41414,"['Brazil', 'Italy']",€12.00m,Grêmio Foot-Ball Porto Alegrense,29,"Jan 9, 1987",Retired
+Defensive Midfield,right,,,Jordan Rossiter,"1,78m",258924,['England'],€750k,,19,"Mar 24, 1997",Shrewsbury Town
+Defensive Midfield,,,"Jul 7, 2014",Kevin Stewart,"1,82m",200782,"['Jamaica', 'England']",€500k,Tottenham Hotspur U21,22,"Sep 7, 1993",Retired
+Defensive Midfield,right,,,Pedro Chirivella,"1,78m",242273,['Spain'],€100k,,19,"May 23, 1997",FC Nantes
+Central Midfield,right,,"Jul 1, 2011",Jordan Henderson,"1,82m",61651,['England'],€28.00m,Sunderland AFC,26,"Jun 17, 1990",Ajax Amsterdam
+Central Midfield,right,,"Jul 1, 2015",James Milner,"1,75m",3333,['England'],€15.00m,: Ablöse free transfer,30,"Jan 4, 1986",Brighton & Hove Albion
+Central Midfield,right,,"Aug 10, 2012",Joe Allen,"1,70m",51452,['Wales'],€8.00m,: Ablöse €19.00m,26,"Mar 14, 1990",Swansea City
+Central Midfield,right,,,Cameron Brannagan,"1,80m",261357,['England'],,,20,"May 9, 1996",Oxford United
+Attacking Midfield,right,,"Jan 30, 2013",Philippe Coutinho,"1,72m",80444,"['Brazil', 'Portugal']",€32.00m,: Ablöse €13.00m,24,"Jun 12, 1992",Clube de Regatas Vasco da Gama
+Attacking Midfield,both,,"Jul 1, 2014",Adam Lallana,"1,72m",43530,['England'],€19.00m,Southampton FC,28,"May 10, 1988",Southampton FC
+Attacking Midfield,right,,,João Carlos Teixeira,"1,77m",132214,['Portugal'],€1.00m,,23,"Jan 18, 1993",Shanghai Shenhua
+Left Winger,right,,"Jul 1, 2018",Ryan Kent,"1,76m",279457,['England'],€100k,: Ablöse -,19,"Nov 11, 1996",Without Club
+Right Winger,right,,"Jul 1, 2013",Jordon Ibe,"1,76m",195652,"['England', 'Nigeria']",€7.00m,: Ablöse -,20,"Dec 8, 1995",Hayes & Yeading FC
+Right Winger,right,,,Sergi Canós,"1,77m",251845,['Spain'],€750k,,19,"Feb 2, 1997",Valencia CF
+Right Winger,left,,"Jul 7, 2015",Sheyi Ojo,"1,79m",236510,"['England', 'Nigeria']",€500k,: Ablöse -,19,"Jun 19, 1997",NK Maribor
+Centre-Forward,right,,"Jul 1, 2015",Roberto Firmino,"1,81m",131789,['Brazil'],€35.00m,TSG 1899 Hoffenheim,24,"Oct 2, 1991",Al-Ahli SFC
+Centre-Forward,right,,"Jul 22, 2015",Christian Benteke,"1,90m",50201,"['Belgium', 'DR Congo']",€27.00m,: Ablöse €46.50m,25,"Dec 3, 1990",D.C. United
+Centre-Forward,left,,"Jan 2, 2013",Daniel Sturridge,"1,82m",47082,['England'],€25.00m,Chelsea FC,26,"Sep 1, 1989",Retired
+Centre-Forward,right,,"Jul 1, 2015",Danny Ings,"1,77m",134294,['England'],€12.00m,: Ablöse €8.30m,23,"Jul 23, 1992",West Ham United
+Centre-Forward,right,,"Jul 29, 2014",Divock Origi,"1,89m",148368,"['Belgium', 'Kenya']",€11.00m,: Ablöse €12.63m,21,"Apr 18, 1995",Milan Futuro
+Centre-Forward,right,,,Jerome Sinclair,"1,81m",236513,['England'],€100k,,19,"Sep 20, 1996",Retired

@@ -1,0 +1,39 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Nov 1, 1997",Jussi Jääskeläinen,"1,91m",3692,['Finland'],: Ablöse €150k,28,"Apr 19, 1975",Retired
+Goalkeeper,,"Oct 26, 2001",Kevin Poole,"1,78m",16832,['England'],: Ablöse free transfer,39,"Jul 21, 1963",Retired
+Centre-Back,right,"Aug 31, 2002",David Holdsworth,"1,85m",307132,['England'],: Ablöse free transfer,34,"Nov 8, 1968",Retired
+Centre-Back,,"Jan 1, 1998",Mike Whitlow,"1,83m",3318,['England'],: Ablöse €750k,35,"Jan 13, 1968",Retired
+Centre-Back,,"Jan 1, 1995",Gudni Bergsson,,3268,['Iceland'],: Ablöse €95k,37,"Jul 21, 1965",Retired
+Centre-Back,right,"Aug 31, 2001",Bruno N'Gotty,"1,85m",3964,"['France', 'Cameroon']",: Ablöse €750k,32,"Jun 10, 1971",Retired
+Centre-Back,right,"Nov 1, 1998",Paul Warhurst,"1,83m",3307,['England'],: Ablöse €1.10m,33,"Sep 26, 1969",Retired
+Centre-Back,right,"Jul 1, 2003",Florent Laville,"1,85m",3888,['France'],: Ablöse €750k,29,"Aug 7, 1973",Retired
+Centre-Back,right,"Jul 1, 2002",Danny Livesey,"1,88m",10054,['England'],Bolton Wanderers U18,18,"Dec 31, 1984",Retired
+Centre-Back,right,"Feb 12, 2001",Colin Hendry,"1,86m",103642,['Scotland'],Coventry City,37,"Dec 7, 1965",Retired
+Centre-Back,right,"Jul 1, 2001",Wayne Buchanan,"1,88m",3944,['Northern Ireland'],Bolton Wanderers U18,21,"Jan 12, 1982",Retired
+Left-Back,left,"Jul 1, 2000",Leam Richardson,"1,75m",3943,['England'],Blackburn Rovers,23,"Nov 19, 1979",Retired
+Left-Back,,"Jul 1, 1998",Ricardo Gardner,,6264,['Jamaica'],Harbour View FC,24,"Sep 25, 1978",Retired
+Left-Back,,"Jul 1, 2000",Anthony Barness,"1,78m",3288,['England'],Charlton Athletic,30,"Feb 25, 1973",Retired
+Left-Back,right,"Jul 19, 2000",Simon Charlton,"1,73m",19846,['England'],: Ablöse free transfer,31,"Oct 25, 1971",Retired
+Right-Back,right,"Jul 16, 2002",Bernard Mendy,"1,80m",3707,"['France', 'Senegal']",: Ablöse ?,21,"Aug 20, 1981",Retired
+Right-Back,right,"Aug 1, 2003",Nicky Hunt,"1,91m",16835,['England'],Bolton Wanderers U23,19,"Sep 3, 1983",Retired
+Defensive Midfield,right,"Jul 1, 2002",Bülent Akın,"1,82m",3691,"['Türkiye', 'Belgium']",Galatasaray,24,"Aug 28, 1978",Retired
+Defensive Midfield,right,"Jul 1, 2003",Iván Campo,"1,85m",3274,['Spain'],Real Madrid,29,"Feb 21, 1974",Retired
+Defensive Midfield,right,"Jul 1, 2002",Gérald Forschelet,"1,87m",9676,"['France', 'Tahiti']",: Ablöse ?,21,"Sep 19, 1981",Retired
+Defensive Midfield,,"Feb 7, 2002",Stig Tøfting,,324,['Denmark'],: Ablöse €200k,33,"Aug 14, 1969",Retired
+Defensive Midfield,right,"Nov 1, 2001",Derek Niven,"1,85m",16297,['Scotland'],Raith Rovers FC,19,"Dec 12, 1983",Retired
+Right Midfield,right,"Jul 1, 2000",Per Frandsen,"1,78m",3735,['Denmark'],Blackburn Rovers,33,"Feb 6, 1970",Retired
+Right Midfield,right,"Aug 1, 2000",Cleveland Taylor,"1,74m",49544,"['Jamaica', 'England']",Bolton Wanderers U18,19,"Sep 9, 1983",Retired
+Left Midfield,,"Nov 1, 1999",Gareth Farrelly,,9878,['Ireland'],: Ablöse free transfer,27,"Aug 28, 1975",Retired
+Attacking Midfield,,"Jul 1, 2002",Jay-Jay Okocha,,3708,"['Nigeria', 'Türkiye']",: Ablöse free transfer,29,"Aug 14, 1973",Retired
+Attacking Midfield,,"Feb 13, 2002",Youri Djorkaeff,,4,"['France', 'Armenia']",: Ablöse €500k,35,"Mar 9, 1968",Retired
+Attacking Midfield,right,"Jul 1, 1999",Kevin Nolan,"1,83m",3950,['England'],Bolton Wanderers U18,21,"Jun 24, 1982",Retired
+Attacking Midfield,left,"Jul 1, 2001",Jeff Smith,"1,80m",3946,['England'],Bishop Auckland FC,23,"Jun 28, 1980",Retired
+Right Winger,right,"Jul 1, 2001",Jonathan Walters,"1,83m",3306,"['Ireland', 'England']",Blackburn Rovers U18,19,"Sep 20, 1983",Retired
+Right Winger,right,"Sep 1, 2001",Jermaine Johnson,"1,85m",16169,"['Jamaica', 'England']",Tivoli Gardens FC,23,"Jun 25, 1980",Retired
+Centre-Forward,right,"Jul 1, 2001",Henrik Pedersen,"1,85m",3947,['Denmark'],Silkeborg IF,28,"Jun 10, 1975",Retired
+Centre-Forward,right,"Jul 17, 2000",Michael Ricketts,"1,88m",4062,['England'],: Ablöse €600k,24,"Dec 4, 1978",Retired
+Centre-Forward,left,"Jan 31, 2003",Pierre-Yves André,"1,85m",3116,['France'],: Ablöse ?,29,"May 14, 1974",Retired
+Centre-Forward,both,"Oct 2, 1997",Dean Holdsworth,"1,80m",13792,['England'],: Ablöse €4.87m,34,"Nov 8, 1968",Retired
+Centre-Forward,right,"Jul 1, 2002",Delroy Facey,"1,83m",3948,"['Grenada', 'England']",: Ablöse free transfer,23,"Apr 22, 1980",Retired
+Centre-Forward,left,"Jan 1, 2003",Salva Ballesta,"1,83m",3693,['Spain'],: Ablöse free transfer,28,"May 22, 1975",Retired
+Centre-Forward,right,"Aug 28, 2002",Chris Armstrong,"1,84m",3281,['England'],: Ablöse free transfer,32,"Jun 19, 1971",Retired

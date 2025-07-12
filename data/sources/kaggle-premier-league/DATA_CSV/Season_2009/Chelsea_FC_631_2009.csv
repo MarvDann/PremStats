@@ -1,0 +1,37 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,,"Jul 1, 2004",Petr Cech,"1,96m",5658,['Czech Republic'],€26.00m,Stade Rennais FC,28,"May 20, 1982",Retired
+Goalkeeper,right,,"Jul 2, 2009",Ross Turnbull,"1,93m",29159,['England'],€1.50m,Middlesbrough FC,25,"Jan 4, 1985",Retired
+Goalkeeper,right,,"Jul 1, 2006",Hilário,"1,89m",13886,['Portugal'],€750k,CD Nacional,34,"Oct 21, 1975",Retired
+Goalkeeper,right,,,Rhys Taylor,"1,86m",45560,['Wales'],€200k,,20,"Apr 7, 1990",Retired
+Goalkeeper,,,,Jan Sebek,"1,98m",44409,['Czech Republic'],,,19,"Mar 31, 1991",Retired
+Centre-Back,right,,"Jan 1, 2000",John Terry,"1,87m",3160,['England'],€35.00m,: Ablöse -,29,"Dec 7, 1980",Retired
+Centre-Back,right,,"Jul 27, 2004",Ricardo Carvalho,"1,82m",9828,['Portugal'],€17.50m,: Ablöse €30.00m,32,"May 18, 1978",Retired
+Centre-Back,right,,"Jul 1, 2004",Alex,"1,88m",15420,['Brazil'],€13.00m,Santos FC,28,"Jun 17, 1982",Retired
+Centre-Back,right,,"Jul 1, 2006",Michael Mancienne,"1,84m",38100,"['Seychelles', 'England']",€2.00m,Chelsea FC U18,22,"Jan 8, 1988",Retired
+Centre-Back,right,,"Jul 1, 2009",Jeffrey Bruma,"1,89m",88721,"['Netherlands', 'Suriname']",€100k,Chelsea FC U18,18,"Nov 13, 1991",Without Club
+Left-Back,left,,"Aug 31, 2006",Ashley Cole,"1,76m",3182,"['England', 'Barbados']",€27.00m,: Ablöse €7.40m,29,"Dec 20, 1980",Retired
+Left-Back,left,,"Jul 1, 2009",Patrick van Aanholt,"1,76m",52119,"['Netherlands', 'Curacao']",€100k,Chelsea FC U18,19,"Aug 29, 1990",Without Club
+Right-Back,right,,"Jul 16, 2008",Bosingwa,"1,83m",9813,"['Portugal', 'DR Congo']",€20.00m,FC Porto,27,"Aug 24, 1982",Retired
+Right-Back,right,,"Jan 15, 2008",Branislav Ivanovic,"1,85m",36827,['Serbia'],€16.00m,: Ablöse €12.00m,26,"Feb 22, 1984",Retired
+Right-Back,right,,"Aug 1, 2007",Juliano Belletti,"1,74m",7829,"['Brazil', 'Italy']",€4.50m,FC Barcelona,34,"Jun 20, 1976",Retired
+Right-Back,right,,"Jul 1, 2004",Paulo Ferreira,"1,83m",9832,['Portugal'],€3.00m,: Ablöse €20.00m,31,"Jan 18, 1979",Retired
+Defensive Midfield,right,,"Aug 19, 2005",Michael Essien,"1,78m",5588,"['Ghana', 'France']",€38.00m,: Ablöse €38.00m,27,"Dec 3, 1982",Retired
+Defensive Midfield,right,,"Jul 19, 2006",John Obi Mikel,"1,88m",30739,"['Nigeria', 'England']",€17.00m,Lyn 1896 FK,23,"Apr 22, 1987",Retired
+Defensive Midfield,left,,"Jan 15, 2014",Nemanja Matic,"1,94m",74683,"['Serbia', 'Slovakia']",€2.00m,SL Benfica,21,"Aug 1, 1988",Olympique Lyon
+Defensive Midfield,right,Knee injury - Return unknown,"Dec 1, 2011",Sam Hutchinson,"1,82m",40617,['England'],€50k,,20,"Aug 3, 1989",Without Club
+Central Midfield,right,,"Jul 1, 2001",Frank Lampard,"1,84m",3163,['England'],€45.00m,: Ablöse €16.00m,32,"Jun 20, 1978",Retired
+Central Midfield,,,"Jul 1, 2006",Michael Ballack,,63,['Germany'],€20.00m,: Ablöse free transfer,33,"Sep 26, 1976",Retired
+Central Midfield,right,,,Danny Philliskirk,"1,78m",52228,['England'],,,19,"Apr 10, 1991",Southport FC
+Left Midfield,left,,"Jul 1, 2009",Yuriy Zhirkov,"1,80m",16760,['Russia'],€15.00m,CSKA Moscow,26,"Aug 20, 1983",Retired
+Attacking Midfield,right,,"Aug 6, 2003",Joe Cole,"1,76m",3876,['England'],€21.00m,: Ablöse €9.90m,28,"Nov 8, 1981",Retired
+Attacking Midfield,right,,"Jul 1, 2008",Deco,"1,76m",8564,"['Portugal', 'Brazil']",€10.00m,FC Barcelona,32,"Aug 27, 1977",Retired
+Attacking Midfield,left,unknown injury - Return unknown,"Jul 1, 2008",Gaël Kakuta,"1,73m",74297,"['DR Congo', 'France']",€150k,Chelsea FC U18,19,"Jun 21, 1991",Esteghlal FC
+Left Winger,left,,"Jul 9, 2007",Florent Malouda,"1,77m",5461,"['France', 'French Guiana']",€18.50m,: Ablöse €19.00m,30,"Jun 13, 1980",Retired
+Left Winger,right,,"Jul 1, 2006",Salomon Kalou,"1,84m",7971,"[""Cote d'Ivoire""]",€14.00m,: Ablöse €4.00m,24,"Aug 5, 1985",Retired
+Left Winger,right,,"Jul 1, 2007",Scott Sinclair,"1,77m",31552,"['England', 'Jamaica']",€1.50m,Chelsea FC U18,21,"Mar 25, 1989",Bristol Rovers
+Left Winger,right,,"Jul 1, 2009",Fabio Borini,"1,80m",96754,['Italy'],€100k,Chelsea FC U18,19,"Mar 29, 1991",UC Sampdoria
+Centre-Forward,both,,"Jul 25, 2014",Didier Drogba,"1,89m",3924,"[""Cote d'Ivoire"", 'France']",€38.00m,Galatasaray,32,"Mar 11, 1978",Retired
+Centre-Forward,right,,"Jan 11, 2008",Nicolas Anelka,"1,86m",3226,"['France', 'Martinique']",€30.00m,: Ablöse €18.00m,31,"Mar 14, 1979",Retired
+Centre-Forward,both,,"Jul 1, 2006",Andriy Shevchenko,"1,83m",3522,['Ukraine'],€9.00m,AC Milan,33,"Sep 29, 1976",Retired
+Centre-Forward,left,,"Jul 3, 2009",Daniel Sturridge,"1,82m",47082,['England'],€3.50m,: Ablöse €7.25m,20,"Sep 1, 1989",Retired
+Centre-Forward,right,,"Jan 25, 2008",Franco Di Santo,"1,93m",59783,"['Argentina', 'Italy']",€2.50m,: Ablöse €4.50m,21,"Apr 7, 1989",Without Club

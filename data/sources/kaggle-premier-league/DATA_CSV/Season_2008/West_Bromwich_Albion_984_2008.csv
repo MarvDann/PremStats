@@ -1,0 +1,36 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 18, 2008",Scott Carson,"1,88m",14555,['England'],€4.80m,: Ablöse €4.00m,23,"Sep 3, 1985",Manchester City
+Goalkeeper,left,"Feb 1, 2007",Dean Kiely,"1,85m",3748,"['Ireland', 'England']",€600k,: Ablöse free transfer,38,"Oct 10, 1970",Retired
+Goalkeeper,right,,Ryan Allsop,"1,89m",111073,['England'],€50k,,17,"Jun 17, 1992",Birmingham City
+Centre-Back,right,"Jul 1, 2008",Gianni Zuiverloon,"1,78m",27304,"['Netherlands', 'Suriname']",€4.00m,: Ablöse €4.00m,22,"Dec 30, 1986",Retired
+Centre-Back,right,"Aug 10, 2008",Abdoulaye Méïté,"1,85m",5315,"[""Cote d'Ivoire"", 'France']",€3.20m,: Ablöse €2.60m,28,"Oct 6, 1980",Retired
+Centre-Back,right,"Jul 26, 2007",Leon Barnett,"1,85m",33484,"['England', 'Jamaica']",€2.60m,: Ablöse €3.75m,23,"Nov 30, 1985",Retired
+Centre-Back,right,"Sep 1, 2008",Ryan Donk,"1,92m",38414,"['Suriname', 'Netherlands']",€2.40m,AZ Alkmaar,23,"Mar 30, 1986",Retired
+Centre-Back,left,"Aug 1, 2008",Jonas Olsson,"1,93m",25248,['Sweden'],€1.90m,NEC Nijmegen,26,"Mar 10, 1983",Retired
+Centre-Back,left,"Jul 1, 2007",Pelé,"1,86m",14203,"['Cape Verde', 'Portugal']",€700k,Southampton FC,31,"May 2, 1978",Retired
+Centre-Back,left,"Mar 1, 2000",Neil Clement,"1,83m",3789,['England'],€650k,: Ablöse €150k,30,"Oct 3, 1978",Retired
+Centre-Back,right,"Jul 2, 2007",Shelton Martis,"1,85m",21509,"['Curacao', 'Netherlands']",€500k,Hibernian FC,26,"Nov 29, 1982",Retired
+Centre-Back,right,,Paul Downing,"1,85m",113034,['England'],,,17,"Oct 26, 1991",Kidderminster Harriers
+Left-Back,left,"Oct 14, 2003",Paul Robinson,"1,75m",14063,['England'],€2.30m,Watford FC,30,"Dec 14, 1978",Retired
+Left-Back,left,"Jul 1, 2008",Marek Cech,"1,83m",21354,['Slovakia'],€2.20m,FC Porto,26,"Jan 26, 1983",Retired
+Right-Back,right,"Aug 7, 2007",Carl Hoefkens,"1,85m",13061,['Belgium'],€1.30m,Stoke City,30,"Oct 6, 1978",Retired
+Defensive Midfield,right,"Jul 10, 2009",Youssouf Mulumbu,"1,77m",45272,"['DR Congo', 'France']",€800k,: Ablöse €200k,22,"Jan 25, 1987",Without Club
+Central Midfield,left,"Aug 15, 2007",Chris Brunt,"1,87m",36814,['Northern Ireland'],€5.00m,: Ablöse €3.75m,24,"Dec 14, 1984",Retired
+Central Midfield,right,"Jul 29, 2004",Jonathan Greening,"1,80m",3865,['England'],€4.10m,: Ablöse €1.75m,30,"Jan 2, 1979",Retired
+Central Midfield,right,"Aug 7, 2007",James Morrison,"1,83m",27614,"['Scotland', 'England']",€3.50m,Middlesbrough FC,23,"May 25, 1986",Retired
+Central Midfield,right,"Aug 22, 2008",Borja Valero,"1,75m",40372,['Spain'],€3.30m,RCD Mallorca,24,"Jan 12, 1985",Retired
+Central Midfield,right,"Jul 1, 2008",Do-heon Kim,"1,77m",27397,"['Korea, South']",€900k,: Ablöse €720k,26,"Jul 14, 1982",Retired
+Central Midfield,right,"Jul 1, 2008",Graham Dorrans,"1,77m",36608,['Scotland'],€750k,Livingston FC,22,"May 5, 1987",Johnstone Burgh FC
+Attacking Midfield,right,"Jan 1, 2007",Robert Koren,"1,76m",26946,['Slovenia'],€3.20m,Lillestrøm SK,28,"Sep 20, 1980",Retired
+Attacking Midfield,right,"Jul 27, 2019",Romaine Sawyers,"1,85m",113036,"['St. Kitts & Nevis', 'England']",,Brentford FC,17,"Nov 2, 1991",Without Club
+Right Winger,,"Feb 1, 2009",Juan Carlos Menseguez,,8520,"['Argentina', 'Italy']",€1.40m,CA San Lorenzo de Almagro,25,"Feb 18, 1984",Retired
+Right Winger,right,"Jul 1, 2007",Filipe Teixeira,"1,75m",5568,"['Portugal', 'France']",€800k,Académica Coimbra,28,"Oct 2, 1980",Retired
+Centre-Forward,,"Aug 27, 2010",Marc-Antoine Fortuné,,5652,"['French Guiana', 'France']",€3.60m,Celtic FC,27,"Jul 2, 1981",Retired
+Centre-Forward,left,"Aug 15, 2007",Ishmael Miller,"1,92m",38776,['England'],€3.10m,: Ablöse €1.50m,22,"Mar 5, 1987",Retired
+Centre-Forward,right,"Jul 1, 2007",Roman Bednar,"1,88m",26898,['Czech Republic'],€2.20m,Heart of Midlothian FC,26,"Mar 26, 1983",SK Hovorcovice
+Centre-Forward,right,"Jul 3, 2007",Craig Beattie,"1,83m",9506,['Scotland'],€2.00m,Celtic FC,25,"Jan 16, 1984",Retired
+Centre-Forward,,"Jul 1, 2008",Luke Moore,"1,80m",4075,"['England', 'Jamaica']",€2.00m,: Ablöse €3.75m,23,"Feb 13, 1986",Retired
+Centre-Forward,right,"Jan 1, 2009",Jay Simpson,"1,78m",44801,"['England', 'Grenada']",€900k,Arsenal FC Reserves,20,"Dec 1, 1988",Retired
+Centre-Forward,left,"Aug 24, 2007",Bartosz Slusarski,"1,86m",24572,['Poland'],€750k,Dyskobolia Grodzisk Wielkopolski,27,"Dec 11, 1981",Retired
+Centre-Forward,right,"Jan 1, 2007",Sherjill MacDonald,"1,83m",9604,"['Netherlands', 'Suriname']",€600k,: Ablöse €300k,24,"Nov 20, 1984",KV Hooikt
+Centre-Forward,right,"Jul 1, 2009",Chris Wood,"1,91m",108725,['New Zealand'],,West Bromwich Albion U18,17,"Dec 7, 1991",Nottingham Forest

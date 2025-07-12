@@ -1,0 +1,28 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 2002",Boaz Myhill,"1,91m",3838,"['Wales', 'United States']",: Ablöse -,19,"Nov 9, 1982",Retired
+Goalkeeper,right,"Jul 1, 2001",Peter Schmeichel,"1,96m",3465,"['Denmark', 'Poland']",Sporting CP,38,"Nov 18, 1963",Retired
+Goalkeeper,right,"Jan 1, 1999",Peter Enckelman,"1,88m",3719,['Finland'],Turun Palloseura,25,"Mar 10, 1977",Retired
+Centre-Back,right,"Jul 18, 2001",Olof Mellberg,"1,87m",3098,['Sweden'],Racing Santander,24,"Sep 3, 1977",Retired
+Centre-Back,,"Jul 20, 2000",Alpay Özalan,,3504,['Türkiye'],: Ablöse €6.72m,29,"May 29, 1973",Retired
+Left-Back,left,"Mar 1, 1995",Alan Wright,"1,63m",3331,['England'],Blackburn Rovers,30,"Sep 28, 1971",Retired
+Left-Back,,"Dec 6, 2000",Steve Staunton,,3839,['Ireland'],: Ablöse free transfer,33,"Jan 19, 1969",Retired
+Right-Back,right,"Jul 1, 2000",Jonathan Bewers,"1,73m",4073,['England'],: Ablöse -,19,"Sep 10, 1982",Retired
+Right-Back,right,"Mar 9, 1999",Mark Delaney,"1,85m",3841,['Wales'],: Ablöse €375k,26,"May 13, 1976",Retired
+Defensive Midfield,right,"Jul 1, 1999",George Boateng,"1,76m",3358,"['Netherlands', 'Ghana']",Coventry City,26,"Sep 5, 1975",Retired
+Defensive Midfield,right,"Jan 1, 1995",Ian Taylor,"1,88m",3667,['England'],: Ablöse €1.50m,34,"Jun 4, 1968",Retired
+Defensive Midfield,left,"Jul 1, 1998",Gareth Barry,"1,84m",3291,['England'],: Ablöse -,21,"Feb 23, 1981",Unknown
+Defensive Midfield,left,"Jul 1, 1998",Jlloyd Samuel,"1,80m",4067,"['Trinidad and Tobago', 'England']",: Ablöse -,21,"Mar 29, 1981",---
+Central Midfield,right,"Jul 1, 1994",Lee Hendrie,"1,68m",4069,['England'],: Ablöse -,25,"May 18, 1977",Retired
+Central Midfield,left,"Jul 1, 2000",Thomas Hitzlsperger,"1,84m",1573,['Germany'],: Ablöse free transfer,20,"Apr 5, 1982",Retired
+Right Midfield,right,"Jul 1, 2000",Stephen Cooke,"1,73m",4074,['England'],: Ablöse -,19,"Feb 15, 1983",Retired
+Right Midfield,,"Sep 8, 1998",Paul Merson,,3250,['England'],: Ablöse €6.75m,34,"Mar 20, 1968",Retired
+Right Midfield,right,"Mar 1, 1999",Steve Stone,"1,75m",3364,['England'],: Ablöse €8.00m,30,"Aug 20, 1971",Retired
+Left Midfield,right,"Jul 1, 2001",Hassan Kachloul,"1,86m",4066,['Morocco'],Southampton FC,29,"Feb 19, 1973",Retired
+Attacking Midfield,,"Jul 1, 2001",Mustapha Hadji,,3840,"['Morocco', 'France']",Coventry City,30,"Nov 16, 1971",Retired
+Left Winger,right,"Jul 1, 2000",David Ginola,"1,86m",104897,['France'],: Ablöse ?,35,"Jan 25, 1967",Retired
+Centre-Forward,both,"Jan 1, 2001",Juan Pablo Ángel,"1,85m",3278,['Colombia'],: Ablöse €14.40m,26,"Oct 24, 1975",Retired
+Centre-Forward,right,"Nov 5, 1998",Dion Dublin,"1,88m",3763,['England'],Coventry City,33,"Apr 22, 1969",Retired
+Centre-Forward,right,"Mar 27, 2002",Peter Crouch,"2,01m",4072,"['England', 'Ireland']",: Ablöse €7.50m,21,"Jan 30, 1981",Retired
+Centre-Forward,right,"Aug 26, 2001",Bosko Balaban,"1,80m",3285,['Croatia'],GNK Dinamo Zagreb,23,"Oct 15, 1978",Retired
+Centre-Forward,right,"Jul 1, 1998",Darius Vassell,"1,71m",3236,"['England', 'Jamaica']",: Ablöse -,22,"Jun 13, 1980",Retired
+Centre-Forward,right,"Jul 1, 2002",Stefan Moore,"1,78m",4076,['England'],: Ablöse -,18,"Sep 28, 1983",Retired

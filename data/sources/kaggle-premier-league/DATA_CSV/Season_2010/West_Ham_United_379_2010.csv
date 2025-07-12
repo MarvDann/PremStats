@@ -1,0 +1,41 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Aug 16, 2006",Rob Green,"1,91m",11680,['England'],€7.00m,: Ablöse €3.00m,31,"Jan 18, 1980",Retired
+Goalkeeper,right,"Aug 1, 2010",Ruud Boffin,"1,96m",31336,['Belgium'],€500k,MVV Maastricht,23,"Nov 5, 1987",Retired
+Goalkeeper,right,"Jul 1, 2008",Marek Stech,"1,91m",61589,['Czech Republic'],€250k,: Ablöse -,21,"Jan 28, 1990",TJ Ligmet Milin
+Goalkeeper,right,,Jake Larkins,"1,88m",61584,['England'],,,17,"Jan 11, 1994",Unknown
+Centre-Back,left,"Jan 18, 2007",Matthew Upson,"1,85m",3273,['England'],€7.50m,: Ablöse €12.60m,32,"Apr 18, 1979",Retired
+Centre-Back,right,"Jul 1, 2007",James Tomkins,"1,92m",61592,['England'],€4.00m,: Ablöse -,22,"Mar 29, 1989",Without Club
+Centre-Back,right,"Aug 3, 2010",Tal Ben Haim,"1,83m",20714,['Israel'],€3.00m,: Ablöse free transfer,29,"Mar 31, 1982",Retired
+Centre-Back,right,"Aug 1, 2009",Radoslav Kovac,"1,89m",9702,['Czech Republic'],€3.00m,: Ablöse €3.80m,31,"Nov 27, 1979",Retired
+Centre-Back,right,"Aug 31, 2009",Manuel da Costa,"1,91m",37398,"['Morocco', 'Portugal']",€3.00m,: Ablöse €2.70m,25,"May 6, 1986",Retired
+Centre-Back,right,"Jul 1, 2006",Jonathan Spector,"1,83m",24637,"['United States', 'Germany']",€2.50m,Manchester United,25,"Mar 1, 1986",Retired
+Centre-Back,right,"Aug 5, 2010",Winston Reid,"1,91m",37526,"['New Zealand', 'Denmark']",€1.50m,FC Midtjylland,22,"Jul 3, 1988",Retired
+Centre-Back,right,"Jul 5, 2005",Danny Gabbidon,"1,78m",12709,"['Wales', 'Jamaica']",€1.50m,: Ablöse €2.00m,31,"Aug 8, 1979",Retired
+Left-Back,left,"Jan 12, 2011",Wayne Bridge,"1,78m",3682,['England'],€5.00m,: Ablöse €350k,30,"Aug 5, 1980",Retired
+Left-Back,left,"Jul 1, 2009",Hérita Ilunga,"1,80m",17432,"['DR Congo', 'France']",€4.00m,: Ablöse €3.50m,29,"Feb 25, 1982",Retired
+Left-Back,left,,Jordan Brown,"1,75m",87649,['England'],,,19,"Oct 11, 1991",Great Wakering Rovers
+Right-Back,right,"Aug 1, 2007",Julien Faubert,"1,80m",18093,"['Martinique', 'France']",€4.00m,: Ablöse €9.15m,27,"Aug 1, 1983",Retired
+Right-Back,both,"Aug 31, 2010",Lars Jacobsen,"1,81m",1423,['Denmark'],€2.00m,Blackburn Rovers,31,"Sep 20, 1979",Retired
+Right-Back,right,"Jul 1, 2008",Jordan Spence,"1,89m",61588,['England'],,: Ablöse -,21,"May 24, 1990",Retired
+Defensive Midfield,right,"Jul 23, 2008",Valon Behrami,"1,84m",21905,"['Switzerland', 'Kosovo']",€8.00m,: Ablöse €6.30m,26,"Apr 19, 1985",Retired
+Central Midfield,right,"Jul 1, 2007",Scott Parker,"1,80m",3785,['England'],€13.00m,Newcastle United,30,"Oct 13, 1980",Retired
+Central Midfield,right,"Jan 1, 2005",Mark Noble,"1,80m",31835,"['England', 'Ireland']",€7.50m,: Ablöse -,24,"May 8, 1987",Retired
+Central Midfield,left,"Jul 1, 2010",Thomas Hitzlsperger,"1,84m",1573,['Germany'],€4.50m,: Ablöse free transfer,29,"Apr 5, 1982",Retired
+Central Midfield,right,"Jul 1, 2007",Jack Collison,"1,83m",61568,"['Wales', 'England']",€4.00m,: Ablöse -,22,"Oct 2, 1988",Retired
+Central Midfield,right,"Jan 25, 2011",Gary O'Neil,"1,74m",3995,['England'],€2.50m,Middlesbrough FC,28,"May 18, 1983",Retired
+Right Midfield,right,"Aug 16, 2007",Kieron Dyer,"1,70m",3118,"['England', 'Antigua and Barbuda']",€2.50m,Newcastle United,32,"Dec 29, 1978",Retired
+Left Midfield,left,"Jan 1, 2007",Luís Boa Morte,"1,78m",3422,"['Portugal', 'Sao Tome and Principe']",€1.50m,Fulham FC,33,"Aug 4, 1977",Retired
+Attacking Midfield,left,"Aug 1, 2009",Alessandro Diamanti,"1,80m",23197,['Italy'],€4.00m,: Ablöse €6.80m,28,"May 2, 1983",Retired
+Left Winger,right,"Jul 1, 2008",Junior Stanislas,"1,83m",87672,"['England', 'St. Lucia']",€3.00m,: Ablöse -,21,"Nov 26, 1989",Retired
+Left Winger,left,,Anthony Edgar,"1,72m",87651,"['England', 'Dominica']",,,20,"Sep 30, 1990",Without Club
+Right Winger,right,"Jul 9, 2010",Pablo Barrera,"1,75m",51079,['Mexico'],€3.50m,UNAM Pumas,24,"Jun 21, 1987",Querétaro FC
+Right Winger,right,"May 31, 2008",Zavon Hines,"1,78m",67081,"['Jamaica', 'England']",€2.00m,Coventry City,22,"Dec 27, 1988",Retired
+Second Striker,,"Aug 27, 2010",Victor Obinna,,35852,"['Nigeria', 'Italy']",€4.50m,: Ablöse ?,24,"Mar 25, 1987",Retired
+Second Striker,right,"Jan 1, 2008",Freddie Sears,"1,70m",70714,['England'],€2.00m,: Ablöse -,21,"Nov 27, 1989",Chatham Town
+Centre-Forward,right,"Oct 14, 2013",Carlton Cole,"1,91m",3179,"['England', 'Sierra Leone']",€7.50m,Without Club,27,"Oct 12, 1983",Retired
+Centre-Forward,right,"Jan 28, 2011",Demba Ba,"1,89m",40205,"['Senegal', 'France']",€7.00m,: Ablöse €3.00m,26,"May 25, 1985",Retired
+Centre-Forward,right,"Jan 30, 2011",Robbie Keane,"1,75m",3144,['Ireland'],€7.00m,Tottenham Hotspur,30,"Jul 8, 1980",Retired
+Centre-Forward,right,"Jul 16, 2010",Frédéric Piquionne,"1,88m",5683,"['Martinique', 'France']",€4.00m,: Ablöse €1.20m,32,"Dec 8, 1978",Retired
+Centre-Forward,right,"Feb 1, 2010",Benni McCarthy,"1,84m",3091,['South Africa'],€1.00m,Blackburn Rovers,33,"Nov 12, 1977",Retired
+Centre-Forward,right,"Jul 22, 2009",Frank Nouble,"1,90m",119123,"['England', ""Cote d'Ivoire""]",€1.00m,Chelsea FC U18,19,"Sep 24, 1991",Yeovil Town
+Centre-Forward,,,Dylan Tombides,"1,80m",183966,"['Australia', 'Greece']",,,17,"Mar 8, 1994",---

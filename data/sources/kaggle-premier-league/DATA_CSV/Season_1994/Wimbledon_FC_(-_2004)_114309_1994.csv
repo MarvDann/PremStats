@@ -1,0 +1,38 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jul 1, 1988",Hans Segers,"1,80m",104902,['Netherlands'],: Ablöse €220k,33,"Oct 30, 1961",Retired
+Goalkeeper,,"Feb 10, 1995",Peter Shilton,,101383,['England'],Plymouth Argyle,45,"Sep 18, 1949",Retired
+Goalkeeper,,"Jul 1, 1988",Neil Sullivan,"1,83m",4045,"['Scotland', 'England']",: Ablöse -,25,"Feb 24, 1970",Retired
+Goalkeeper,right,"Jul 1, 1994",Brendan Murphy,"1,80m",103857,['Ireland'],Bradford City,19,"Aug 19, 1975",Retired
+Centre-Back,right,"Jul 1, 1988",Dean Blackwell,,109501,['England'],Unknown,25,"Dec 5, 1969",Retired
+Centre-Back,,"Jul 1, 1989",Scott Fitzgerald,"1,83m",222291,"['Ireland', 'England']",: Ablöse -,25,"Aug 13, 1969",Retired
+Centre-Back,right,"Jul 16, 1987",John Scales,"1,88m",104899,['England'],Bristol Rovers,28,"Jul 4, 1966",Retired
+Centre-Back,,"Jul 1, 1994",Alan Reeves,,222303,['England'],Rochdale AFC,27,"Nov 19, 1967",Retired
+Centre-Back,right,"Jul 1, 1991",Chris Perry,"1,75m",4051,['England'],: Ablöse -,22,"Apr 26, 1973",Retired
+Centre-Back,,"May 1, 2001",Peter Fear,,109505,['England'],: Ablöse ?,21,"Sep 10, 1973",Retired
+Centre-Back,,"Oct 5, 1994",Andy Thorn,,222309,['England'],: Ablöse free transfer,28,"Nov 12, 1966",Retired
+Centre-Back,right,"Nov 1, 1994",Kenny Cunningham,"1,83m",3937,['Ireland'],: Ablöse €900k,24,"Jun 28, 1971",Retired
+Left-Back,left,"Aug 20, 1990",Gary Elkins,"1,76m",222289,['England'],: Ablöse €25k,29,"May 4, 1966",Retired
+Left-Back,,"Jul 27, 1993",Alan Kimble,"1,73m",109508,['England'],Cambridge United,28,"Aug 6, 1966",Retired
+Right-Back,right,"Feb 1, 2004",Warren Barton,"1,77m",13238,['England'],: Ablöse free transfer,26,"Mar 19, 1969",Retired
+Right-Back,right,"Aug 1, 1989",Brian McAllister,"1,80m",109510,['Scotland'],Napier City Rovers,24,"Nov 30, 1970",Retired
+Right-Back,,"Jul 1, 1988",Roger Joseph,"1,80m",222295,['England'],: Ablöse ?,29,"Dec 24, 1965",Retired
+Defensive Midfield,right,"Sep 10, 1992",Vinnie Jones,"1,85m",136042,"['Wales', 'England']",: Ablöse €830k,30,"Jan 5, 1965",Retired
+Defensive Midfield,right,"Jul 29, 1991",Neal Ardley,"1,75m",13985,['England'],: Ablöse -,22,"Sep 1, 1972",Retired
+Central Midfield,,"Jan 1, 1992",Steve Talboys,,227871,['England'],: Ablöse ?,28,"Sep 18, 1966",---
+Central Midfield,,"Jul 1, 1995",Lenny Piper,"1,73m",322799,['England'],: Ablöse -,17,"Aug 8, 1977",---
+Central Midfield,,"Jul 1, 1991",Gerald Dobbs,,222287,['England'],: Ablöse -,24,"Jan 24, 1971",Retired
+Central Midfield,right,"Jul 1, 1991",Stewart Castledine,"1,85m",109502,['England'],: Ablöse -,22,"Jan 22, 1973",Retired
+Central Midfield,,,Justin Skinner,"1,83m",14673,['England'],,26,"Jan 30, 1969",Retired
+Central Midfield,,"Jul 1, 1995",Mark Thomas,,663156,['England'],: Ablöse -,20,"Nov 22, 1974",Retired
+Attacking Midfield,,"Jul 1, 1991",Robbie Earle,"1,75m",109504,"['Jamaica', 'England']",: Ablöse ?,30,"Jan 27, 1965",Retired
+Attacking Midfield,right,"Jan 1, 1995",Øyvind Leonhardsen,"1,77m",4071,['Norway'],: Ablöse €975k,24,"Aug 17, 1970",Retired
+Left Winger,,"Feb 21, 1991",Andy Clarke,"1,78m",109503,['England'],Barnet FC,27,"Jul 22, 1967",Retired
+Second Striker,,"Jul 1, 1995",Jason Euell,"1,80m",3092,"['Jamaica', 'England']",: Ablöse -,18,"Feb 6, 1977",Retired
+Centre-Forward,,"Oct 1, 1994",Efan Ekoku,"1,88m",102315,"['Nigeria', 'England']",: Ablöse €750k,28,"Jun 8, 1967",Retired
+Centre-Forward,both,"Jul 24, 2003",Dean Holdsworth,"1,80m",13792,['England'],Rushden & Diamonds (- 2011),26,"Nov 8, 1968",Retired
+Centre-Forward,,"Jul 1, 1993",Gary Blissett,,6778,['England'],: Ablöse free transfer,31,"Jun 29, 1964",Retired
+Centre-Forward,right,"Mar 1, 1994",Marcus Gayle,"1,88m",3135,"['Jamaica', 'England']",: Ablöse €375k,24,"Sep 27, 1970",Retired
+Centre-Forward,,"Feb 22, 1990",Aidan Newhouse,,237396,['England'],Chester City (- 2010),23,"May 23, 1972",Retired
+Centre-Forward,,"Aug 18, 1994",Mick Harford,"1,88m",176806,['England'],Coventry City,36,"Feb 12, 1959",Retired
+Centre-Forward,,,Grant Payne,,663143,['England'],,19,"Dec 25, 1975",Retired
+Centre-Forward,left,"Nov 9, 1994",Jon Goodman,"1,80m",109506,"['Ireland', 'England']",: Ablöse €650k,24,"Jun 2, 1971",Retired

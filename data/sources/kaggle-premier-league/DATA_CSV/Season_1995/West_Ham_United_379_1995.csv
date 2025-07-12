@@ -1,0 +1,40 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Mar 29, 1996",Steve Mautone,"1,85m",197268,"['Australia', 'Italy']",Cosmos Canberra,25,"Aug 10, 1970",Retired
+Goalkeeper,right,"Feb 19, 1990",Ludek Miklosko,"1,96m",106952,['Czech Republic'],TJ Banik Ostrava OKD,34,"Dec 9, 1961",Retired
+Goalkeeper,,"Jan 11, 1996",Peter Shilton,,101383,['England'],Coventry City,46,"Sep 18, 1949",Retired
+Goalkeeper,right,"Jan 1, 2001",Ian Feuer,"2,01m",141044,['United States'],: Ablöse free transfer,25,"May 20, 1971",Retired
+Goalkeeper,,"Nov 1, 1996",Les Sealey,"1,85m",176019,['England'],Leyton Orient,38,"Sep 29, 1957",---
+Goalkeeper,,"Aug 1, 1995",Neil Finn,,230514,['England'],: Ablöse -,17,"Dec 29, 1978",Retired
+Centre-Back,right,"Jan 1, 1996",Slaven Bilic,"1,88m",41137,['Croatia'],: Ablöse €1.65m,27,"Sep 11, 1968",Retired
+Centre-Back,,"Jul 1, 1977",Alvin Martin,,117194,['England'],: Ablöse -,37,"Jul 29, 1958",Retired
+Centre-Back,right,"Jul 1, 1995",Marc Rieper,"1,91m",98529,['Denmark'],Bröndby IF,28,"Jun 5, 1968",Retired
+Centre-Back,,"Jul 1, 1993",Simon Webster,,229705,['England'],Charlton Athletic,32,"Jan 20, 1964",Retired
+Centre-Back,left,"Aug 17, 1994",Adrian Whitbread,"1,85m",225376,['England'],Swindon Town,24,"Oct 22, 1971",Retired
+Centre-Back,,"Jan 10, 1996",Chris Whyte,"1,86m",175891,['England'],: Ablöse free transfer,34,"Sep 2, 1961",Retired
+Centre-Back,right,,Mark Watson,"1,85m",202527,"['Canada', 'Scotland']",,25,"Sep 8, 1970",Retired
+Centre-Back,right,"Nov 1, 1995",Rio Ferdinand,"1,89m",3235,['England'],: Ablöse -,17,"Nov 7, 1978",Retired
+Left-Back,,"Oct 21, 1994",Julian Dicks,"1,78m",107806,['England'],: Ablöse €1.50m,27,"Aug 8, 1968",Retired
+Left-Back,left,"Aug 1, 1993",Keith Rowland,"1,78m",149519,['Northern Ireland'],: Ablöse €165k,24,"Sep 1, 1971",Retired
+Right-Back,,"Oct 1, 1990",Tim Breacker,,107804,['England'],: Ablöse €900k,30,"Jul 2, 1965",Retired
+Right-Back,right,"Jan 1, 1985",Steve Potts,"1,70m",107819,"['United States', 'England']",: Ablöse -,29,"May 7, 1967",Retired
+Right-Back,,"Jul 1, 1991",Kenny Brown,"1,73m",228464,['England'],Plymouth Argyle,28,"Jul 11, 1967",Retired
+Central Midfield,,"Aug 24, 1989",Martin Allen,,226180,['England'],: Ablöse €835k,30,"Aug 14, 1965",Retired
+Central Midfield,right,"Dec 28, 1989",Ian Bishop,"1,75m",175895,['England'],: Ablöse €750k,31,"May 29, 1965",Retired
+Central Midfield,,"Jul 1, 1995",Robbie Slater,"1,80m",133804,"['Australia', 'England']",Blackburn Rovers,31,"Nov 22, 1964",Retired
+Central Midfield,right,"Mar 1, 1994",Paul Mitchell,"1,78m",229829,['England'],: Ablöse ?,24,"Oct 20, 1971",Retired
+Central Midfield,right,"Jul 1, 1995",Frank Lampard,"1,84m",3163,['England'],: Ablöse -,18,"Jun 20, 1978",Retired
+Right Midfield,,"Jul 1, 1993",Dale Gordon,,182832,['England'],: Ablöse €850k,29,"Jan 9, 1967",Retired
+Right Midfield,right,"Oct 27, 1995",John Harkes,"1,81m",102005,['United States'],: Ablöse ?,29,"Mar 8, 1967",Retired
+Left Midfield,left,"Jul 1, 1996",Stan Lazaridis,"1,75m",3747,"['Australia', 'Greece']",West Adelaide SC,23,"Aug 16, 1972",Retired
+Left Midfield,right,"Jul 1, 1996",Michael Hughes,"1,70m",14026,['Northern Ireland'],: Ablöse free transfer,24,"Aug 2, 1971",Retired
+Attacking Midfield,right,"Jul 1, 1994",John Moncur,"1,70m",3696,['England'],Swindon Town,29,"Sep 22, 1966",Retired
+Attacking Midfield,right,"Aug 30, 2001",Don Hutchison,"1,85m",3880,"['Scotland', 'England']",Sunderland AFC,25,"May 9, 1971",Retired
+Attacking Midfield,left,"Jan 31, 1996",Dani,"1,82m",60067,['Portugal'],: Ablöse ?,19,"Nov 2, 1976",Retired
+Attacking Midfield,right,"Jul 1, 1992",Danny Williamson,"1,78m",197252,['England'],: Ablöse -,22,"Dec 5, 1973",Retired
+Left Winger,,"Jan 1, 1996",Ilie Dumitrescu,,102020,['Romania'],: Ablöse €1.50m,27,"Jan 6, 1969",Retired
+Left Winger,,"Mar 24, 1990",Matthew Rush,,228086,"['Ireland', 'England']",: Ablöse -,24,"Aug 6, 1971",Retired
+Centre-Forward,,"Jul 1, 1993",Jeroen Boere,"1,93m",227414,['Netherlands'],: Ablöse €300k,28,"Nov 18, 1967",---
+Centre-Forward,,"Sep 7, 1994",Tony Cottee,"1,70m",107792,['England'],: Ablöse ?,30,"Jul 11, 1965",Retired
+Centre-Forward,,"Jul 1, 1995",Marco Boogers,"1,85m",206493,['Netherlands'],: Ablöse €725k,29,"Jan 12, 1967",Retired
+Centre-Forward,,"Sep 8, 1995",Iain Dowie,,149507,"['Northern Ireland', 'England']",: Ablöse €600k,31,"Jan 9, 1965",Retired
+Centre-Forward,,"Jul 1, 1995",Mark Watson,,231085,['England'],Sutton United,22,"Dec 28, 1973",Retired

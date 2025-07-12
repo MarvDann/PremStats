@@ -1,0 +1,30 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Aug 9, 2014",Fraser Forster,"2,01m",52570,['England'],€15.00m,Celtic FC,30,"Mar 17, 1988",Tottenham Hotspur
+Goalkeeper,right,,"Aug 1, 2016",Alex McCarthy,"1,93m",95976,['England'],€2.50m,Crystal Palace,28,"Dec 3, 1989",Southampton FC
+Goalkeeper,right,,"Aug 26, 2016",Stuart Taylor,"1,98m",3190,['England'],€250k,Without Club,37,"Nov 28, 1980",Retired
+Centre-Back,right,,"Sep 1, 2015",Virgil van Dijk,"1,95m",139208,"['Netherlands', 'Suriname']",€50.00m,Celtic FC,26,"Jul 8, 1991",Liverpool FC
+Centre-Back,left,,"Aug 22, 2017",Wesley Hoedt,"1,93m",253765,['Netherlands'],€15.00m,: Ablöse €16.00m,24,"Mar 6, 1994",Al-Shabab FC
+Centre-Back,right,Team captain,"Jul 1, 2013",Jack Stephens,"1,85m",163744,['England'],€8.00m,Southampton FC U21,24,"Jan 27, 1994",Southampton FC
+Centre-Back,right,,"Aug 30, 2012",Maya Yoshida,"1,89m",81789,['Japan'],€7.00m,VVV-Venlo,29,"Aug 24, 1988",Los Angeles Galaxy
+Centre-Back,right,,"Jul 1, 2017",Jan Bednarek,"1,89m",243028,['Poland'],€5.00m,Lech Poznan,22,"Apr 12, 1996",Southampton FC
+Left-Back,left,Knee surgery - Return unknown,"Feb 2, 2015",Ryan Bertrand,"1,79m",40611,['England'],€20.00m,Chelsea FC,28,"Aug 5, 1989",Retired
+Left-Back,left,,"Jul 1, 2014",Matt Targett,"1,83m",250478,"['England', 'Scotland']",€3.00m,Southampton FC U21,22,"Sep 18, 1995",Newcastle United
+Left-Back,left,,"Jul 1, 2016",Sam McQueen,"1,81m",226968,['England'],€1.00m,Southampton FC U23,23,"Feb 6, 1995",Retired
+Right-Back,right,,"Jul 1, 2015",Cédric Soares,"1,71m",112988,"['Portugal', 'Germany']",€15.00m,Sporting CP,26,"Aug 31, 1991",Without Club
+Right-Back,right,,"Aug 1, 2016",Jérémy Pied,"1,73m",60583,['France'],€2.50m,OGC Nice,29,"Feb 23, 1989",Retired
+Defensive Midfield,right,,"Aug 8, 2017",Mario Lemina,"1,84m",170934,"['Gabon', 'France']",€15.00m,: Ablöse €17.25m,24,"Sep 1, 1993",Wolverhampton Wanderers
+Defensive Midfield,right,,"Aug 12, 2015",Oriol Romeu,"1,83m",66100,['Spain'],€12.00m,Chelsea FC,26,"Sep 24, 1991",Girona FC
+Defensive Midfield,right,,"Jul 11, 2016",Pierre-Emile Højbjerg,"1,85m",167799,"['Denmark', 'France']",€10.00m,: Ablöse €15.00m,22,"Aug 5, 1995",Olympique Marseille
+Central Midfield,right,,"Jul 1, 2012",James Ward-Prowse,"1,77m",181579,['England'],€18.00m,Southampton FC U18,23,"Nov 1, 1994",Nottingham Forest
+Central Midfield,right,,"Jul 6, 2012",Steven Davis,"1,72m",28973,['Northern Ireland'],€4.00m,: Ablöse €1.00m,33,"Jan 1, 1985",Retired
+Central Midfield,right,,"Jul 1, 2014",Harrison Reed,"1,81m",226973,['England'],€1.00m,Southampton FC U21,23,"Jan 27, 1995",Fulham FC
+Left Winger,left,,"Jul 8, 2014",Dusan Tadic,"1,81m",36139,['Serbia'],€15.00m,Twente Enschede FC,29,"Nov 20, 1988",Fenerbahce
+Left Winger,right,,"Aug 29, 2016",Sofiane Boufal,"1,75m",232271,"['Morocco', 'France']",€12.00m,: Ablöse €18.70m,24,"Sep 17, 1993",Union Saint-Gilloise
+Right Winger,right,Hamstring injury - Return unknown,"Jul 1, 2016",Nathan Redmond,"1,73m",129078,"['England', 'Jamaica']",€18.00m,: Ablöse €13.50m,24,"Mar 6, 1994",Burnley FC
+Right Winger,right,,"Jan 1, 2017",Josh Sims,"1,74m",286919,['England'],€750k,Southampton FC U23,21,"Mar 28, 1997",Yeovil Town
+Centre-Forward,right,,"Jan 25, 2018",Guido Carrillo,"1,87m",184672,"['Argentina', 'Italy']",€15.00m,: Ablöse €22.00m,27,"May 25, 1991",Club Estudiantes de La Plata
+Centre-Forward,left,,"Jan 31, 2017",Manolo Gabbiadini,"1,86m",112343,['Italy'],€12.00m,: Ablöse €17.00m,26,"Nov 26, 1991",Al-Nasr SC (UAE)
+Centre-Forward,right,,"Jan 16, 2016",Charlie Austin,"1,88m",129627,['England'],€10.00m,: Ablöse €5.20m,28,"Jul 5, 1989",AFC Totton
+Centre-Forward,both,,"Aug 14, 2014",Shane Long,"1,80m",37304,['Ireland'],€7.00m,: Ablöse €14.90m,31,"Jan 22, 1987",Retired
+Centre-Forward,right,,"Jan 1, 2014",Sam Gallagher,"1,93m",227183,"['England', 'Scotland']",€3.00m,Southampton FC U18,22,"Sep 15, 1995",Stoke City
+Centre-Forward,right,,"Jan 1, 2019",Michael Obafemi,"1,70m",444208,"['Ireland', 'Nigeria']",,Southampton FC U23,17,"Jul 6, 2000",Plymouth Argyle

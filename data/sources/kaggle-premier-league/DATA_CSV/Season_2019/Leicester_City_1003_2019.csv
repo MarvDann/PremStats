@@ -1,0 +1,33 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2011",Kasper Schmeichel,"1,89m",16911,['Denmark'],€9.50m,Leeds United,33,"Nov 5, 1986",Celtic FC
+Goalkeeper,right,,"Jul 20, 2018",Danny Ward,"1,91m",203026,['Wales'],€6.50m,: Ablöse €14.00m,27,"Jun 22, 1993",Leicester City
+Goalkeeper,right,,"Jul 19, 2017",Eldin Jakupovic,"1,91m",2857,"['Switzerland', 'Bosnia-Herzegovina']",€600k,: Ablöse €2.30m,35,"Oct 2, 1984",Retired
+Centre-Back,both,Foot injury - Return unknown,"Aug 9, 2018",Çağlar Söyüncü,"1,85m",320141,['Türkiye'],€32.00m,SC Freiburg,24,"May 23, 1996",Fenerbahce
+Centre-Back,both,,"Jul 1, 2018",Jonny Evans,"1,88m",42412,['Northern Ireland'],€12.00m,West Bromwich Albion,32,"Jan 3, 1988",Manchester United
+Centre-Back,right,,"Aug 9, 2018",Filip Benkovic,"1,94m",293168,['Croatia'],€7.00m,GNK Dinamo Zagreb,22,"Jul 13, 1997",Without Club
+Centre-Back,right,,"Jan 22, 2016",Daniel Amartey,"1,86m",214056,['Ghana'],€5.50m,: Ablöse €6.60m,25,"Dec 21, 1994",Without Club
+Centre-Back,right,,"Jan 31, 2020",Ryan Bennett,"1,88m",67252,['England'],€4.00m,Wolverhampton Wanderers,30,"Mar 6, 1990",Retired
+Centre-Back,right,,"Jan 30, 2012",Wes Morgan,"1,85m",10003,"['Jamaica', 'England']",€1.20m,: Ablöse €1.13m,36,"Jan 21, 1984",Retired
+Centre-Back,right,,,Darnell Johnson,"1,85m",314372,"['England', 'Antigua and Barbuda']",,,21,"Sep 3, 1998",Without Club
+Left-Back,left,"No eligibility - until Dec 31, 2024 - UEFA Conference League","Jul 1, 2015",Ben Chilwell,"1,80m",316125,"['England', 'New Zealand']",€40.00m,Leicester City U21,23,"Dec 21, 1996",Chelsea FC
+Left-Back,left,,"Jul 1, 2015",Christian Fuchs,"1,87m",6636,['Austria'],€1.60m,FC Schalke 04,34,"Apr 7, 1986",Retired
+Left-Back,left,,"Jul 1, 2020",Luke Thomas,"1,81m",505194,['England'],,Leicester City U21,19,"Jun 10, 2001",Leicester City
+Right-Back,right,,"Jul 1, 2018",Ricardo Pereira,"1,75m",215876,"['Portugal', 'Cape Verde']",€32.00m,FC Porto,26,"Oct 6, 1993",Leicester City
+Right-Back,both,,"Jul 1, 2019",James Justin,"1,83m",413220,"['England', 'St. Lucia']",€3.60m,Luton Town,22,"Feb 23, 1998",Leicester City
+Defensive Midfield,right,,"Jan 3, 2017",Wilfred Ndidi,"1,83m",274839,"['Nigeria', 'England']",€36.00m,KRC Genk,23,"Dec 16, 1996",Leicester City
+Defensive Midfield,right,,"Jan 1, 2018",Hamza Choudhury,"1,78m",341501,"['England', 'Bangladesh']",€8.00m,Leicester City U21,22,"Oct 1, 1997",Leicester City
+Defensive Midfield,right,,"Jul 3, 2016",Nampalys Mendy,"1,68m",111051,"['Senegal', 'France']",€5.50m,OGC Nice,28,"Jun 23, 1992",RC Lens
+Central Midfield,right,,"Jul 8, 2019",Youri Tielemans,"1,77m",249565,"['Belgium', 'DR Congo']",€44.00m,: Ablöse €45.00m,23,"May 7, 1997",Aston Villa
+Central Midfield,right,,"Aug 8, 2019",Dennis Praet,"1,81m",129588,['Belgium'],€19.00m,UC Sampdoria,26,"May 14, 1994",Royal Antwerp FC
+Central Midfield,right,,"Jul 1, 2012",Matty James,"1,81m",73522,['England'],€1.20m,Manchester United U21,28,"Jul 22, 1991",Wrexham AFC
+Central Midfield,left,,"Jul 1, 2021",Kiernan Dewsbury-Hall,"1,78m",475188,['England'],,Leicester City U21,21,"Sep 6, 1998",Chelsea FC
+Right Midfield,right,,"Jul 1, 2014",Marc Albrighton,"1,75m",61560,['England'],€8.00m,: Ablöse free transfer,30,"Nov 18, 1989",Retired
+Attacking Midfield,right,,"Jul 1, 2018",James Maddison,"1,75m",294057,['England'],€48.00m,: Ablöse €25.00m,23,"Nov 23, 1996",Tottenham Hotspur
+Attacking Midfield,right,,"Aug 3, 2016",Bartosz Kapustka,"1,79m",246579,['Poland'],€1.20m,Cracovia,23,"Dec 23, 1996",Legia Warszawa
+Attacking Midfield,right,,"Aug 8, 2017",George Thomas,"1,73m",298240,"['Wales', 'England']",€250k,Coventry City,23,"Mar 24, 1997",Cambridge United
+Left Winger,right,,"Jul 4, 2019",Ayoze Pérez,"1,78m",246968,['Spain'],€24.00m,Newcastle United,26,"Jul 29, 1993",Villarreal CF
+Left Winger,right,,"Jul 1, 2018",Harvey Barnes,"1,82m",398065,"['England', 'Scotland']",€17.50m,Leicester City U21,22,"Dec 9, 1997",Newcastle United
+Left Winger,right,,"Jan 4, 2016",Demarai Gray,"1,83m",292417,"['Jamaica', 'England']",€14.50m,: Ablöse €5.10m,24,"Jun 28, 1996",Al-Ettifaq FC
+Centre-Forward,right,Team captain,"Jul 1, 2012",Jamie Vardy,"1,79m",197838,['England'],€16.00m,Fleetwood Town,33,"Jan 11, 1987",Leicester City
+Centre-Forward,left,,"Aug 3, 2017",Kelechi Iheanacho,"1,85m",295330,['Nigeria'],€12.00m,Manchester City,23,"Oct 3, 1996",Sevilla FC
+Centre-Forward,right,,"Jul 5, 2019",George Hirst,"1,91m",420808,"['England', 'Scotland']",€450k,: Ablöse ?,21,"Feb 15, 1999",Ipswich Town

@@ -1,0 +1,35 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2011",Kasper Schmeichel,"1,89m",16911,['Denmark'],€10.00m,Leeds United,31,"Nov 5, 1986",Celtic FC
+Goalkeeper,right,,"Jul 19, 2017",Eldin Jakupovic,"1,91m",2857,"['Switzerland', 'Bosnia-Herzegovina']",€1.00m,: Ablöse €2.30m,33,"Oct 2, 1984",Retired
+Goalkeeper,right,,"Jul 1, 2014",Ben Hamer,"1,93m",67283,['England'],€500k,Charlton Athletic,30,"Nov 20, 1987",Sheffield Wednesday
+Centre-Back,right,,"Jul 1, 2017",Harry Maguire,"1,94m",177907,['England'],€25.00m,: Ablöse €13.70m,25,"Mar 5, 1993",Manchester United
+Centre-Back,right,,"Aug 31, 2017",Aleksandar Dragovic,"1,86m",59032,"['Austria', 'Serbia']",€10.00m,Bayer 04 Leverkusen,27,"Mar 6, 1991",Austria Vienna
+Centre-Back,right,,"Jan 22, 2016",Daniel Amartey,"1,86m",214056,['Ghana'],€5.00m,: Ablöse €6.60m,23,"Dec 21, 1994",Without Club
+Centre-Back,right,,"Jan 30, 2012",Wes Morgan,"1,85m",10003,"['Jamaica', 'England']",€3.00m,: Ablöse €1.13m,34,"Jan 21, 1984",Retired
+Centre-Back,right,,"Jul 1, 2015",Robert Huth,"1,91m",2998,['Germany'],€2.50m,Stoke City,33,"Aug 18, 1984",Retired
+Centre-Back,right,,"Aug 3, 2015",Yohan Benalouane,"1,85m",50477,"['Tunisia', 'France']",€1.00m,Atalanta BC,31,"Mar 28, 1987",Without Club
+Centre-Back,right,,"Jul 1, 2017",Sam Hughes,,395797,['England'],,Chester FC,21,"Apr 15, 1997",Stockport County
+Centre-Back,right,,,Josh Knight,"1,85m",425026,['England'],,,20,"Sep 7, 1997",Hannover 96
+Left-Back,left,"No eligibility - until Dec 31, 2024 - UEFA Conference League","Jul 1, 2015",Ben Chilwell,"1,80m",316125,"['England', 'New Zealand']",€8.00m,Leicester City U21,21,"Dec 21, 1996",Chelsea FC
+Left-Back,left,,"Jul 1, 2015",Christian Fuchs,"1,87m",6636,['Austria'],€5.00m,FC Schalke 04,32,"Apr 7, 1986",Retired
+Right-Back,right,,"Aug 30, 2014",Danny Simpson,"1,76m",37442,"['England', 'Jamaica']",€5.00m,: Ablöse €2.50m,31,"Jan 4, 1987",Retired
+Defensive Midfield,right,,"Jan 3, 2017",Wilfred Ndidi,"1,83m",274839,"['Nigeria', 'England']",€25.00m,KRC Genk,21,"Dec 16, 1996",Leicester City
+Defensive Midfield,right,,"Jul 6, 2017",Vicente Iborra,"1,90m",65467,['Spain'],€10.00m,Sevilla FC,30,"Jan 16, 1988",Levante UD
+Defensive Midfield,right,,"Jul 3, 2016",Nampalys Mendy,"1,68m",111051,"['Senegal', 'France']",€5.00m,OGC Nice,26,"Jun 23, 1992",RC Lens
+Defensive Midfield,right,,"Jan 1, 2018",Hamza Choudhury,"1,78m",341501,"['England', 'Bangladesh']",€1.00m,Leicester City U21,20,"Oct 1, 1997",Leicester City
+Central Midfield,right,,"Aug 31, 2017",Adrien Silva,"1,75m",56810,"['Portugal', 'France']",€20.00m,Sporting CP,29,"Mar 15, 1989",United FC (UAE)
+Central Midfield,right,,"Jul 1, 2007",Andy King,"1,84m",56872,"['Wales', 'England']",€3.00m,Leicester City U18,29,"Oct 29, 1988",Retired
+Central Midfield,right,,"Jul 1, 2012",Matty James,"1,81m",73522,['England'],€1.50m,Manchester United U21,26,"Jul 22, 1991",Wrexham AFC
+Right Midfield,right,,"Jul 1, 2014",Marc Albrighton,"1,75m",61560,['England'],€10.00m,: Ablöse free transfer,28,"Nov 18, 1989",Retired
+Attacking Midfield,right,,"Aug 8, 2017",George Thomas,"1,73m",298240,"['Wales', 'England']",€500k,Coventry City,21,"Mar 24, 1997",Cambridge United
+Attacking Midfield,left,,,Layton Ndukwu,"1,77m",314284,"['England', 'Nigeria']",,,19,"Sep 7, 1998",A'Ali SC  (Bahrain)
+Left Winger,right,,"Jan 4, 2016",Demarai Gray,"1,83m",292417,"['Jamaica', 'England']",€20.00m,: Ablöse €5.10m,22,"Jun 28, 1996",Al-Ettifaq FC
+Left Winger,right,,"Jul 8, 2016",Ahmed Musa,"1,71m",168337,['Nigeria'],€15.00m,CSKA Moscow,25,"Oct 14, 1992",Kano Pillars
+Left Winger,right,,"Jul 1, 2018",Harvey Barnes,"1,82m",398065,"['England', 'Scotland']",€250k,Leicester City U21,20,"Dec 9, 1997",Newcastle United
+Right Winger,left,,"Jan 11, 2014",Riyad Mahrez,"1,79m",171424,"['Algeria', 'France']",€50.00m,Le Havre AC,27,"Feb 21, 1991",Al-Ahli SFC
+Right Winger,left,,"Jan 13, 2018",Fousseni Diabaté,"1,78m",364861,"['Mali', 'France']",€3.00m,GFC Ajaccio,22,"Oct 18, 1995",FC Lausanne-Sport
+Centre-Forward,right,Team captain,"Jul 1, 2012",Jamie Vardy,"1,79m",197838,['England'],€20.00m,Fleetwood Town,31,"Jan 11, 1987",Leicester City
+Centre-Forward,right,,"Aug 31, 2016",Islam Slimani,"1,88m",174915,['Algeria'],€18.00m,Sporting CP,30,"Jun 18, 1988",CR Belouizdad
+Centre-Forward,left,,"Aug 3, 2017",Kelechi Iheanacho,"1,85m",295330,['Nigeria'],€15.00m,Manchester City,21,"Oct 3, 1996",Sevilla FC
+Centre-Forward,right,,"Jul 1, 2015",Shinji Okazaki,"1,75m",79642,['Japan'],€6.00m,: Ablöse €11.00m,32,"Apr 16, 1986",Retired
+Centre-Forward,right,,"Jul 22, 2014",Leonardo Ulloa,"1,88m",54890,"['Argentina', 'Spain']",€5.00m,Brighton & Hove Albion,31,"Jul 26, 1986",Retired

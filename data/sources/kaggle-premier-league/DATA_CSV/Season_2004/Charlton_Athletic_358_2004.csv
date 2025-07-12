@@ -1,0 +1,27 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,"Jul 1, 1999",Dean Kiely,"1,85m",3748,"['Ireland', 'England']",€2.00m,Bury FC,34,"Oct 10, 1970",Retired
+Goalkeeper,right,"Jul 1, 2004",Stephan Andersen,"1,88m",17880,['Denmark'],€1.00m,Akademisk Boldklub,23,"Nov 26, 1981",Vaerebro BK
+Goalkeeper,left,"Jul 1, 2004",Rob Elliot,"1,90m",39037,"['Ireland', 'England']",,Charlton Athletic U18,19,"Apr 30, 1986",Retired
+Centre-Back,right,"Jul 1, 2003",Chris Perry,"1,75m",4051,['England'],€4.40m,: Ablöse €100k,32,"Apr 26, 1973",Retired
+Centre-Back,right,"Jul 1, 2004",Talal El Karkouri,"1,86m",4130,"['Morocco', 'France']",€2.00m,: Ablöse €1.50m,28,"Jul 8, 1976",Retired
+Centre-Back,right,"Aug 31, 2010",Jonathan Fortune,"1,88m",4103,['England'],€1.00m,Sheffield United,24,"Aug 23, 1980",Retired
+Centre-Back,right,"Nov 8, 2000",Mark Fish,"1,87m",3087,['South Africa'],,: Ablöse €1.55m,31,"Mar 14, 1974",Retired
+Left-Back,left,"Jul 1, 1998",Paul Konchesky,"1,78m",3296,['England'],€3.50m,Charlton Athletic U18,24,"May 15, 1981",Retired
+Left-Back,left,"Mar 27, 2003",Hermann Hreidarsson,"1,85m",3860,['Iceland'],€3.00m,Ipswich Town,30,"Jul 11, 1974",Retired
+Right-Back,right,"Jul 1, 2001",Luke Young,"1,83m",3271,['England'],€4.20m,: Ablöse €6.00m,25,"Jul 19, 1979",Retired
+Right-Back,right,"Jul 1, 2005",Osei Sankofa,"1,83m",4105,"['England', 'Jamaica']",€50k,Charlton Athletic U21,20,"Mar 19, 1985",Retired
+Defensive Midfield,right,"Jul 1, 2000",Radostin Kishishev,"1,80m",3001,['Bulgaria'],€1.80m,: Ablöse €4.50m,30,"Jul 30, 1974",Retired
+Central Midfield,right,"Aug 10, 2004",Danny Murphy,"1,77m",3221,['England'],€5.30m,: Ablöse €3.25m,28,"Mar 18, 1977",Retired
+Central Midfield,right,"Jul 1, 2003",Matt Holland,"1,75m",3102,"['Ireland', 'England']",€4.00m,Ipswich Town,31,"Apr 11, 1974",Retired
+Central Midfield,right,,Neil McCafferty,"1,70m",12139,['Ireland'],€75k,,20,"Jul 19, 1984",Unknown
+Attacking Midfield,right,"Jul 1, 2004",Bryan Hughes,"1,78m",3939,['England'],€2.00m,: Ablöse free transfer,29,"Jun 19, 1976",Retired
+Left Winger,left,"Feb 2, 2004",Jerome Thomas,"1,77m",3560,"['England', 'Guyana']",€600k,Arsenal FC Reserves,22,"Mar 23, 1983",Retired
+Left Winger,right,"Jul 1, 2003",Stacy Long,"1,73m",12140,['England'],€50k,Charlton Athletic U18,20,"Jan 11, 1985",Without Club
+Right Winger,right,"Jul 1, 2004",Dennis Rommedahl,"1,79m",4361,['Denmark'],€4.00m,: Ablöse €3.50m,26,"Jul 22, 1978",Retired
+Right Winger,right,"Jul 1, 2003",Lloyd Sam,"1,73m",12131,"['Ghana', 'England']",€75k,Charlton Athletic U18,20,"Sep 27, 1984",Retired
+Right Winger,right,"Mar 23, 1999",Graham Stuart,"1,73m",3334,['England'],,Sheffield United,34,"Oct 24, 1970",Retired
+Second Striker,,"Jul 1, 2011",Jason Euell,"1,80m",3092,"['Jamaica', 'England']",€8.00m,Blackpool FC,28,"Feb 6, 1977",Retired
+Centre-Forward,both,"Jul 1, 2000",Jonatan Johansson,"1,84m",3117,"['Finland', 'Sweden']",€3.75m,: Ablöse €4.30m,29,"Aug 16, 1975",Retired
+Centre-Forward,right,"Aug 10, 2004",Francis Jeffers,"1,78m",3186,['England'],€3.00m,: Ablöse €3.90m,24,"Jan 25, 1981",Retired
+Centre-Forward,right,"Jul 1, 1996",Kevin Lisbie,"1,78m",4097,"['Jamaica', 'England']",€2.50m,Charlton Athletic U18,26,"Oct 17, 1978",Retired
+Centre-Forward,right,"Jan 1, 2001",Shaun Bartlett,"1,88m",3089,['South Africa'],€1.50m,: Ablöse €3.00m,32,"Oct 31, 1972",Retired

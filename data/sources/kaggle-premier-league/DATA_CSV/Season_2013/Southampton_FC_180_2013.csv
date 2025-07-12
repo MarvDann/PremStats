@@ -1,0 +1,36 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 20, 2012",Paulo Gazzaniga,"1,95m",195488,"['Argentina', 'Italy']",€2.00m,,Gillingham FC,22,"Jan 2, 1992",Girona FC
+Goalkeeper,right,,"Sep 22, 2012",Artur Boruc,"1,93m",15220,['Poland'],€1.50m,,Without Club,34,"Feb 20, 1980",Retired
+Goalkeeper,right,,"Jul 1, 2006",Kelvin Davis,"1,85m",13640,['England'],€250k,,Sunderland AFC,37,"Sep 29, 1976",Retired
+Goalkeeper,right,,,Cody Cropper,"1,91m",170540,"['United States', 'England']",,,,21,"Feb 16, 1993",Retired
+Centre-Back,right,"No eligibility - until Jun 30, 2025 - UEFA Europa League","Jul 1, 2013",Dejan Lovren,"1,88m",37838,['Croatia'],€12.00m,,: Ablöse €10.00m,24,"Jul 5, 1989",PAOK Thessaloniki
+Centre-Back,right,,"Aug 30, 2012",Maya Yoshida,"1,89m",81789,['Japan'],€4.50m,,VVV-Venlo,25,"Aug 24, 1988",Los Angeles Galaxy
+Centre-Back,right,,"Jan 9, 2010",José Fonte,"1,91m",33829,['Portugal'],€3.50m,,: Ablöse €1.40m,30,"Dec 22, 1983",Casa Pia AC
+Centre-Back,right,,"Jul 1, 2013",Calum Chambers,"1,82m",215118,['England'],€2.00m,,Southampton FC U21,19,"Jan 20, 1995",Cardiff City
+Centre-Back,left,,"Dec 1, 2011",Jos Hooiveld,"1,93m",4624,['Netherlands'],€2.00m,,Celtic FC,31,"Apr 22, 1983",Retired
+Centre-Back,right,Team captain,"Jul 1, 2013",Jack Stephens,"1,85m",163744,['England'],€150k,,Southampton FC U21,20,"Jan 27, 1994",Southampton FC
+Left-Back,left,,"Nov 1, 2012",Luke Shaw,"1,78m",183288,['England'],€13.00m,,Southampton FC U18,18,"Jul 12, 1995",Manchester United
+Left-Back,left,,"Aug 1, 2011",Danny Fox,"1,83m",31553,"['Scotland', 'England']",€2.00m,,: Ablöse €2.00m,28,"May 29, 1986",Winsford United
+Left-Back,left,,"Jul 1, 2016",Sam McQueen,"1,81m",226968,['England'],,,Southampton FC U23,19,"Feb 6, 1995",Retired
+Left-Back,left,,"Jul 1, 2014",Matt Targett,"1,83m",250478,"['England', 'Scotland']",,,Southampton FC U21,18,"Sep 18, 1995",Newcastle United
+Right-Back,right,,"Jul 18, 2012",Nathaniel Clyne,"1,75m",85177,"['England', 'Grenada']",€7.00m,,: Ablöse €3.20m,23,"Apr 5, 1991",Crystal Palace
+Right-Back,right,,,Jason McCarthy,"1,86m",227185,['England'],,,,18,"Nov 7, 1995",Wycombe Wanderers
+Defensive Midfield,right,,"Jul 11, 2013",Victor Wanyama,"1,84m",77760,['Kenya'],€14.00m,,Celtic FC,23,"Jun 25, 1991",CF Montréal
+Defensive Midfield,right,,"Jul 1, 2008",Morgan Schneiderlin,"1,86m",56818,['France'],€8.50m,,: Ablöse €1.50m,24,"Nov 8, 1989",Retired
+Defensive Midfield,right,,"Jul 7, 2011",Jack Cork,"1,85m",40613,['England'],€3.50m,,Chelsea FC Reserves,25,"Jun 25, 1989",Burnley FC U21
+Central Midfield,left,,"Aug 31, 2012",Gastón Ramírez,"1,83m",123742,['Uruguay'],€7.50m,,: Ablöse €15.20m,23,"Dec 2, 1990",CA Peñarol
+Central Midfield,right,,"Jul 6, 2012",Steven Davis,"1,72m",28973,['Northern Ireland'],€5.50m,,: Ablöse €1.00m,29,"Jan 1, 1985",Retired
+Central Midfield,right,,"Jul 1, 2012",James Ward-Prowse,"1,77m",181579,['England'],€3.50m,,Southampton FC U18,19,"Nov 1, 1994",Nottingham Forest
+Central Midfield,right,,"Jul 1, 2014",Harrison Reed,"1,81m",226973,['England'],,,Southampton FC U21,19,"Jan 27, 1995",Fulham FC
+Left Midfield,left,,,Omar Rowe,"1,74m",226975,"['England', 'Jamaica']",,,,19,"Oct 30, 1994",Chesham United
+Attacking Midfield,both,,"Jul 1, 2024",Adam Lallana,"1,72m",43530,['England'],€7.50m,"Joined from Brighton & Hove Albion; date: Jul 1, 2024; fee: free transfer",Brighton & Hove Albion,26,"May 10, 1988",Southampton FC
+Attacking Midfield,right,,"Jan 1, 2011",Guly,"1,89m",22801,"['Brazil', 'Italy']",€1.00m,,: Ablöse €600k,32,"Dec 31, 1981",Retired
+Right Winger,right,,"Jan 1, 2014",Lloyd Isgrove,"1,78m",226965,"['Wales', 'England']",,,Southampton FC U21,21,"Jan 12, 1993",Hume City FC
+Right Winger,right,,,Jake Sinclair,"1,72m",226977,"['England', 'Jamaica']",,,,19,"Nov 29, 1994",Without Club
+Centre-Forward,right,,"Aug 18, 2013",Daniel Osvaldo,"1,82m",37389,"['Italy', 'Argentina']",€13.00m,,: Ablöse €15.10m,28,"Jan 12, 1986",Retired
+Centre-Forward,right,,"Jul 1, 2012",Jay Rodríguez,"1,85m",53360,"['England', 'Spain']",€7.50m,,: Ablöse €8.65m,24,"Jul 29, 1989",Burnley FC
+Centre-Forward,right,,"Aug 1, 2009",Rickie Lambert,"1,87m",49655,['England'],€5.00m,,Bristol Rovers,32,"Feb 16, 1982",Retired
+Centre-Forward,right,,"Aug 29, 2012",Emmanuel Mayuka,"1,78m",55709,['Zambia'],€2.00m,,BSC Young Boys,23,"Nov 21, 1990",Retired
+Centre-Forward,right,,"Jan 30, 2012",Billy Sharp,"1,75m",49542,['England'],€1.80m,,Doncaster Rovers,28,"Feb 5, 1986",Doncaster Rovers
+Centre-Forward,left,,"Jan 13, 2012",Tadanari Lee,"1,82m",81793,['Japan'],€800k,,Sanfrecce Hiroshima,28,"Dec 19, 1985",Retired
+Centre-Forward,right,,"Jan 1, 2014",Sam Gallagher,"1,93m",227183,"['England', 'Scotland']",€500k,,Southampton FC U18,18,"Sep 15, 1995",Stoke City

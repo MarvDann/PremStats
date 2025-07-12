@@ -1,0 +1,31 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Feb 1, 2010",Asmir Begovic,"1,99m",33873,"['Bosnia-Herzegovina', 'Canada']",€13.00m,: Ablöse €3.75m,28,"Jun 20, 1987",Everton FC
+Goalkeeper,right,"Jan 31, 2013",Jack Butland,"1,96m",128899,['England'],€3.50m,: Ablöse €3.80m,22,"Mar 10, 1993",Rangers FC
+Goalkeeper,right,"Jul 30, 2008",Thomas Sörensen,"1,96m",3473,['Denmark'],€500k,: Ablöse free transfer,39,"Jun 12, 1976",Retired
+Centre-Back,right,"Jan 18, 2008",Ryan Shawcross,"1,91m",45861,"['England', 'Wales']",€9.00m,Manchester United Reserves,27,"Oct 4, 1987",Retired
+Centre-Back,right,"Aug 1, 2009",Robert Huth,"1,91m",2998,['Germany'],€5.00m,Middlesbrough FC,30,"Aug 18, 1984",Retired
+Centre-Back,both,"Aug 31, 2010",Marc Wilson,"1,88m",30456,"['Ireland', 'Northern Ireland']",€4.50m,: Ablöse €3.60m,27,"Aug 17, 1987",Retired
+Centre-Back,,"Jul 1, 2015",Philipp Wollscheid,,53173,['Germany'],€4.00m,Bayer 04 Leverkusen,26,"Mar 6, 1989",Retired
+Centre-Back,right,"Aug 8, 2012",Geoff Cameron,"1,90m",31642,['United States'],€3.50m,: Ablöse €2.15m,29,"Jul 11, 1985",Retired
+Centre-Back,left,"Jul 1, 2013",Erik Pieters,"1,83m",43763,['Netherlands'],€3.00m,: Ablöse €3.60m,26,"Aug 7, 1988",Without Club
+Centre-Back,left,"Jul 2, 2013",Marc Muniesa,"1,80m",74228,['Spain'],€3.00m,FC Barcelona B,23,"Mar 27, 1992",Al-Shahania SC
+Centre-Back,left,"Jul 1, 2014",Dionatan Teixeira,"1,93m",107617,"['Slovakia', 'Brazil']",€500k,Dukla Banska Bystrica,22,"Jul 24, 1992",---
+Right-Back,right,"Jul 1, 2014",Phil Bardsley,"1,80m",15773,"['Scotland', 'England']",€2.50m,Sunderland AFC,30,"Jun 28, 1985",Retired
+Right-Back,right,"Jul 1, 2003",Andy Wilkinson,"1,80m",13616,['England'],€1.00m,Stoke City U18,30,"Aug 6, 1984",Retired
+Defensive Midfield,right,"Aug 31, 2012",Steven Nzonzi,"1,96m",73734,"['France', 'DR Congo']",€6.50m,Blackburn Rovers,26,"Dec 15, 1988",Sepahan FC
+Defensive Midfield,right,"Jan 30, 2008",Glenn Whelan,"1,80m",12124,['Ireland'],€2.00m,: Ablöse €670k,31,"Jan 13, 1984",Retired
+Defensive Midfield,right,"Jul 1, 2011",Wilson Palacios,"1,81m",58361,['Honduras'],€1.50m,Tottenham Hotspur,30,"Jul 29, 1984",Retired
+Central Midfield,left,"Aug 31, 2012",Charlie Adam,"1,85m",28990,['Scotland'],€4.00m,: Ablöse €6.20m,29,"Dec 10, 1985",Retired
+Central Midfield,right,"Jul 1, 2014",Steve Sidwell,"1,83m",13427,['England'],€2.00m,Fulham FC,32,"Dec 14, 1982",Retired
+Central Midfield,left,"Jul 3, 2012",Jamie Ness,"1,78m",61012,['Scotland'],€500k,: Ablöse free transfer,24,"Mar 2, 1991",Retired
+Central Midfield,left,,Oliver Shenton,"1,75m",335541,['England'],,,17,"Nov 6, 1997",Leek Town FC
+Attacking Midfield,right,"Jan 14, 2014",Stephen Ireland,"1,73m",34838,['Ireland'],€2.00m,: Ablöse free transfer,28,"Aug 22, 1986",Retired
+Left Winger,right,"Aug 27, 2013",Oussama Assaidi,"1,75m",57275,"['Morocco', 'Netherlands']",€3.50m,: Ablöse ?,26,"Aug 15, 1988",Retired
+Right Winger,right,"Aug 16, 2014",Victor Moses,"1,77m",59866,"['Nigeria', 'England']",€7.50m,Chelsea FC,24,"Dec 12, 1990",Luton Town
+Right Winger,right,"Aug 18, 2010",Jonathan Walters,"1,83m",3306,"['Ireland', 'England']",€3.50m,Ipswich Town,31,"Sep 20, 1983",Retired
+Right Winger,right,,Adam Thomas,"1,91m",156942,['England'],,,21,"Feb 4, 1994",Marine FC
+Second Striker,right,"Jul 22, 2014",Bojan Krkic,"1,70m",44675,"['Spain', 'Serbia']",€7.00m,FC Barcelona,24,"Aug 28, 1990",Retired
+Centre-Forward,right,"Jul 1, 2014",Mame Diouf,"1,85m",62049,['Senegal'],€9.00m,: Ablöse free transfer,27,"Dec 16, 1987",Ankara Keciörengücü
+Centre-Forward,both,"Sep 2, 2013",Marko Arnautovic,"1,90m",41384,"['Austria', 'Serbia']",€5.00m,SV Werder Bremen,26,"Apr 19, 1989",Inter Milan
+Centre-Forward,right,"Aug 31, 2011",Peter Crouch,"2,01m",4072,"['England', 'Ireland']",€2.00m,Tottenham Hotspur,34,"Jan 30, 1981",Retired
+Centre-Forward,right,"Jan 28, 2014",Peter Odemwingie,"1,81m",12516,"['Nigeria', 'Russia']",€1.50m,: Ablöse free transfer,33,"Jul 15, 1981",Retired

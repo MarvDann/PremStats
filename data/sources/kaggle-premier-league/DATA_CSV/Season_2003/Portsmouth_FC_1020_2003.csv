@@ -1,0 +1,38 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 2002",Shaka Hislop,"1,98m",4175,"['Trinidad and Tobago', 'England']",: Ablöse free transfer,35,"Feb 22, 1969",Retired
+Goalkeeper,,"Jul 1, 2003",Pavel Srnicek,"1,88m",5963,"['Czech Republic', 'France']",: Ablöse free transfer,36,"Mar 10, 1968",---
+Goalkeeper,both,"Jul 1, 2003",Harald Wapenaar,"1,85m",4180,['Netherlands'],: Ablöse free transfer,34,"Apr 10, 1970",Retired
+Goalkeeper,right,"Jan 1, 2003",Alan Knight,"1,83m",128501,['England'],: Ablöse free transfer,43,"Jun 3, 1961",Retired
+Centre-Back,right,"Jul 1, 2000",Linvoy Primus,"1,80m",4266,['England'],Reading FC,30,"Sep 14, 1973",Retired
+Centre-Back,left,"Jul 1, 2003",Dejan Stefanovic,"1,80m",4308,['Serbia'],Vitesse Arnhem,29,"Oct 28, 1974",Retired
+Centre-Back,,"Jul 1, 2002",Hayden Foxe,,3336,['Australia'],: Ablöse free transfer,27,"Jun 23, 1977",Retired
+Centre-Back,right,"Jul 1, 2002",Arjan de Zeeuw,"1,92m",5909,['Netherlands'],Wigan Athletic,34,"Apr 16, 1970",Retired
+Centre-Back,right,"Jan 26, 2004",Richard Duffy,"1,81m",16082,['Wales'],Swansea City,18,"Aug 30, 1985",Retired
+Centre-Back,,"Jan 1, 2004",Petri Pasanen,,4316,['Finland'],: Ablöse €300k,23,"Sep 24, 1980",Retired
+Right-Back,,"Jul 1, 2003",Boris Zivkovic,,94,['Croatia'],Bayer 04 Leverkusen,28,"Nov 15, 1975",Retired
+Right-Back,right,"Jul 1, 2003",Sébastien Schemmel,"1,77m",3798,['France'],: Ablöse free transfer,29,"Jun 2, 1975",Retired
+Right-Back,right,"Feb 1, 2004",John Curtis,"1,78m",7913,['England'],: Ablöse free transfer,25,"Sep 3, 1978",Retired
+Defensive Midfield,right,"Jul 1, 2003",Amdy Faye,"1,84m",5428,"['Senegal', 'France']",AJ Auxerre,27,"Mar 12, 1977",Retired
+Defensive Midfield,left,"Jul 1, 2002",Richard Hughes,"1,75m",9207,['Scotland'],: Ablöse €80k,25,"Jun 25, 1979",Retired
+Defensive Midfield,right,"Aug 1, 2003",Aleksey Smertin,"1,74m",5379,['Russia'],: Ablöse ?,29,"May 1, 1975",Retired
+Defensive Midfield,right,"Sep 5, 2013",Shaun Cooper,"1,78m",9222,['England'],Without Club,20,"Oct 5, 1983",Retired
+Central Midfield,,"Jan 1, 2003",Tim Sherwood,,4005,['England'],: Ablöse free transfer,35,"Feb 6, 1969",Retired
+Central Midfield,left,"Jul 1, 2000",Nigel Quashie,"1,75m",4139,"['Scotland', 'England']",: Ablöse €900k,25,"Jul 20, 1978",Retired
+Central Midfield,right,"Aug 1, 2002",Carl Robinson,"1,78m",9210,['Wales'],Wolverhampton Wanderers,27,"Oct 13, 1976",Retired
+Central Midfield,right,"Jul 1, 2000",Gary O'Neil,"1,74m",3995,['England'],: Ablöse -,21,"May 18, 1983",Retired
+Central Midfield,right,"Jul 1, 2003",Anthony Pulis,"1,78m",28759,"['Wales', 'England']",: Ablöse -,19,"Jul 21, 1984",Retired
+Right Midfield,right,"Mar 1, 2000",Kevin Harper,"1,68m",9220,"['Scotland', 'England']",: Ablöse €450k,28,"Jan 15, 1976",Retired
+Right Midfield,right,"Oct 1, 2002",Steve Stone,"1,75m",3364,['England'],: Ablöse free transfer,32,"Aug 20, 1971",Retired
+Left Midfield,left,"Jul 1, 2002",Matthew Taylor,"1,77m",9218,['England'],: Ablöse €600k,22,"Nov 27, 1981",Retired
+Attacking Midfield,,"Jul 1, 2003",Patrik Berger,,3218,['Czech Republic'],: Ablöse free transfer,30,"Nov 10, 1973",Retired
+Attacking Midfield,right,"Jan 1, 2004",Eyal Berkovic,"1,70m",3231,['Israel'],: Ablöse €750k,32,"Apr 2, 1972",Retired
+Centre-Forward,right,"Mar 1, 2002",Svetoslav Todorov,"1,83m",3978,"['Bulgaria', 'England']",: Ablöse €1.13m,25,"Aug 30, 1978",Retired
+Centre-Forward,,"Jul 1, 2003",Teddy Sheringham,,3392,['England'],: Ablöse free transfer,38,"Apr 2, 1966",Retired
+Centre-Forward,right,"Jul 1, 2002",Vincent Péricard,"1,85m",3970,"['France', 'Cameroon']",: Ablöse €600k,21,"Oct 3, 1982",Retired
+Centre-Forward,,"Jul 1, 2003",Yakubu Aiyegbeni,"1,83m",8559,['Nigeria'],: Ablöse €4.75m,21,"Nov 22, 1982",Retired
+Centre-Forward,right,"Jan 1, 2003",Deon Burton,"1,78m",3464,"['Jamaica', 'England']",: Ablöse €375k,27,"Oct 25, 1976",Retired
+Centre-Forward,right,"Sep 1, 2003",Jason Roberts,"1,85m",3666,"['Grenada', 'England']",: Ablöse free transfer,26,"Jan 25, 1978",Retired
+Centre-Forward,right,"Jul 1, 2004",Lomana LuaLua,"1,80m",3458,"['DR Congo', 'England']",Newcastle United,23,"Dec 28, 1980",Retired
+Centre-Forward,,"Jan 27, 2004",Ivica Mornar,,9615,"['Croatia', 'Belgium']",: Ablöse €600k,30,"Jan 12, 1974",Retired
+Centre-Forward,,"Jan 31, 2004",Sebastian Olszar,,2847,"['Poland', 'Germany']",: Ablöse €200k,22,"Dec 16, 1981",Retired
+Centre-Forward,,"Jul 1, 2003",Warren Hunt,,1283734,['England'],: Ablöse -,20,"Mar 2, 1984",Retired

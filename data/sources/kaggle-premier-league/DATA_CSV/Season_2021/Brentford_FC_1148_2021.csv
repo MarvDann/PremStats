@@ -1,0 +1,39 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 6, 2019",David Raya,"1,83m",262749,['Spain'],€22.00m,"Returned after loan spell with Arsenal FC; date: Jun 30, 2024; fee: End of loan",Blackburn Rovers,26,"Sep 15, 1995",Arsenal FC
+Goalkeeper,right,,"Aug 17, 2021",Álvaro Fernández,"1,85m",453704,['Spain'],€4.00m,,SD Huesca,24,"Apr 13, 1998",Sevilla FC
+Goalkeeper,right,,"Jan 1, 2022",Jonas Lössl,"1,95m",48870,['Denmark'],€1.00m,,FC Midtjylland,33,"Feb 1, 1989",FC Midtjylland
+Goalkeeper,right,Shin injury - Return unknown,"Jul 11, 2018",Patrik Gunnarsson,"1,90m",429563,['Iceland'],€500k,,Breidablik Kópavogur,21,"Nov 15, 2000",KV Kortrijk
+Goalkeeper,right,,"Jul 1, 2018",Ellery Balcombe,"1,90m",456292,"['England', 'St. Vincent & Grenadinen']",€300k,,Brentford FC B,22,"Oct 15, 1999",St. Mirren FC
+Goalkeeper,right,,"Jul 1, 2022",Matthew Cox,"1,83m",741236,['England'],,,Brentford FC B,19,"May 2, 2003",Brentford FC
+Centre-Back,right,Foot injury - Return unknown,"Jul 21, 2021",Kristoffer Ajer,"1,98m",328658,['Norway'],€18.00m,,Celtic FC,24,"Apr 17, 1998",Brentford FC
+Centre-Back,left,,"Jul 2, 2019",Ethan Pinnock,"1,94m",442248,"['Jamaica', 'England']",€12.00m,,Barnsley FC,29,"May 29, 1993",Brentford FC
+Centre-Back,right,,"Jul 8, 2019",Pontus Jansson,"1,96m",125314,['Sweden'],€7.00m,,Leeds United,31,"Feb 13, 1991",Malmö FF
+Centre-Back,left,,"Jul 1, 2018",Mads Bech Sørensen,"1,89m",372240,['Denmark'],€5.00m,,Brentford FC B,23,"Jan 7, 1999",FC Midtjylland
+Centre-Back,right,,"Sep 9, 2021",Zanka,"1,89m",52059,['Denmark'],€1.20m,,Fenerbahce,32,"Apr 23, 1990",RSC Anderlecht
+Centre-Back,right,,"Aug 19, 2020",Charlie Goode,"1,96m",376856,['England'],€900k,,Northampton Town,26,"Aug 3, 1995",Stevenage FC
+Centre-Back,right,unknown injury - Return unknown,"Jul 30, 2018",Julian Jeanvier,"1,83m",134277,"['Guinea', 'France']",€900k,,: Ablöse €2.00m,30,"Mar 31, 1992",Kayserispor
+Left-Back,left,,"Aug 31, 2016",Rico Henry,"1,70m",339556,"['England', 'Jamaica']",€20.00m,,Walsall FC,24,"Jul 8, 1997",Brentford FC
+Left-Back,left,,"Aug 8, 2019",Dominic Thompson,"1,83m",503688,"['England', 'Jamaica']",€800k,,Arsenal FC U23,21,"Jul 26, 2000",Blackpool FC
+Right-Back,right,,"Aug 7, 2019",Mads Roerslev,"1,84m",391005,['Denmark'],€2.50m,,: Ablöse €60k,23,"Jun 24, 1999",Brentford FC
+Right-Back,right,,"Jul 1, 2022",Fin Stevens,"1,79m",587019,"['Wales', 'England']",€400k,,Brentford FC B,19,"Apr 10, 2003",FC St. Pauli
+Right-Back,right,,,Daniel Oyegoke,"1,88m",586984,"['England', 'Nigeria']",,,,19,"Jan 3, 2003",Heart of Midlothian FC
+Defensive Midfield,right,Team captain,"Jul 1, 2019",Christian Nørgaard,"1,87m",148367,['Denmark'],€14.00m,,: Ablöse €3.50m,28,"Mar 10, 1994",Brentford FC
+Defensive Midfield,left,,"Oct 3, 2020",Vitaly Janelt,"1,84m",270171,['Germany'],€14.00m,,VfL Bochum,24,"May 10, 1998",Brentford FC
+Central Midfield,right,,"Jan 31, 2022",Christian Eriksen,"1,82m",69633,['Denmark'],€20.00m,,Without Club,30,"Feb 14, 1992",Manchester United
+Central Midfield,right,,"Jul 10, 2019",Mathias Jensen,"1,80m",319859,['Denmark'],€10.00m,,Celta de Vigo,26,"Jan 1, 1996",Brentford FC
+Central Midfield,left,"Knee surgery - Return expected on Mar 15, 2025","Aug 21, 2018",Josh Dasilva,"1,84m",340321,"['England', 'Angola']",€10.00m,,Arsenal FC U23,23,"Oct 23, 1998",Brentford FC
+Central Midfield,right,,"Jul 20, 2021",Frank Onyeka,"1,83m",421637,['Nigeria'],€9.00m,,FC Midtjylland,24,"Jan 1, 1998",FC Augsburg
+Central Midfield,right,,"Jan 31, 2020",Shandon Baptiste,"1,80m",533916,"['Grenada', 'England']",€3.00m,,Oxford United,24,"Apr 8, 1998",Luton Town
+Central Midfield,right,,"Jul 1, 2021",Mads Bidstrup,"1,75m",462832,['Denmark'],€1.00m,,Brentford FC B,21,"Feb 25, 2001",Red Bull Salzburg
+Central Midfield,right,,"Jul 1, 2022",Paris Maghoma,"1,84m",470596,"['England', 'DR Congo']",€200k,,Brentford FC B,21,"May 8, 2001",Brentford FC
+Attacking Midfield,right,,"Jan 14, 2021",Saman Ghoddos,"1,75m",204294,"['Iran', 'Sweden']",€2.50m,,: Ablöse ?,28,"Sep 6, 1993",Kalba FC
+Attacking Midfield,,,"Jul 23, 2021",Myles Peart-Harris,"1,87m",587002,"['Jamaica', 'England']",€1.00m,,Chelsea FC U23,19,"Sep 18, 2002",Swansea City
+Left Winger,right,,"Jan 31, 2020",Tariqe Fosu,"1,80m",249873,"['Ghana', 'England']",€2.00m,,Oxford United,26,"Nov 5, 1995",Northampton Town
+Left Winger,left,,,Max Haygarth,"1,75m",596216,['England'],€100k,,,20,"Jan 21, 2002",Altrincham FC
+Right Winger,left,,"Aug 5, 2019",Bryan Mbeumo,"1,71m",413039,"['Cameroon', 'France']",€22.00m,,ESTAC Troyes,22,"Aug 7, 1999",Brentford FC
+Right Winger,right,,"Jan 31, 2017",Sergi Canós,"1,77m",251845,['Spain'],€14.00m,,: Ablöse €2.90m,25,"Feb 2, 1997",Valencia CF
+Right Winger,right,,,Nathan Young-Coombes,"1,75m",581679,"['England', 'Jamaica']",,,,19,"Jan 15, 2003",Without Club
+Centre-Forward,right,,"Sep 1, 2020",Ivan Toney,"1,85m",251664,"['England', 'Jamaica']",€35.00m,,Peterborough United,26,"Mar 16, 1996",Al-Ahli SFC
+Centre-Forward,right,,"Aug 10, 2021",Yoane Wissa,"1,76m",388165,"['DR Congo', 'France']",€12.00m,,FC Lorient,25,"Sep 3, 1996",Brentford FC
+Centre-Forward,right,,"Jul 1, 2018",Marcus Forss,"1,82m",404584,['Finland'],€4.00m,,Brentford FC B,23,"Jun 18, 1999",Middlesbrough FC
+Centre-Forward,right,,"Jan 3, 2020",Halil Dervişoğlu,"1,83m",465606,"['Türkiye', 'Netherlands']",€3.00m,,Sparta Rotterdam,22,"Dec 8, 1999",Gaziantep FK

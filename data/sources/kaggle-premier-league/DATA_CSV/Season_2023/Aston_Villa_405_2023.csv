@@ -1,0 +1,46 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Sep 16, 2020",Emiliano Martínez,"1,95m",111873,"['Argentina', 'Spain']",€28.00m,,Arsenal FC,31,"Sep 2, 1992",Aston Villa
+Goalkeeper,right,,"Feb 1, 2024",Joe Gauci,"1,94m",591844,"['Australia', 'New Zealand']",€1.50m,,Adelaide United,23,"Jul 4, 2000",Aston Villa
+Goalkeeper,right,,"Jul 1, 2022",Robin Olsen,"1,96m",75458,"['Sweden', 'Denmark']",€1.50m,,AS Roma,34,"Jan 8, 1990",Aston Villa
+Goalkeeper,right,,"Jul 1, 2023",Filip Marschall,"1,95m",610863,"['England', 'Poland']",€800k,,: Ablöse -,21,"Apr 24, 2003",Crewe Alexandra
+Goalkeeper,right,,,Oliwier Zych,"1,93m",555074,['Poland'],€800k,,,20,"Jun 28, 2004",Aston Villa U21
+Goalkeeper,,,,Sam Proctor,,1004709,['England'],€250k,,,17,"Dec 21, 2006",Aston Villa U18
+Goalkeeper,right,,,James Wright,"1,88m",712181,['England'],€200k,,,19,"Dec 2, 2004",Real Unión Club
+Goalkeeper,,,,Lander Emery,,1237073,['Spain'],,,,21,"Mar 29, 2003",Aston Villa U21
+Centre-Back,left,,"Jul 12, 2023",Pau Torres,"1,92m",399776,['Spain'],€45.00m,,Villarreal CF,27,"Jan 16, 1997",Aston Villa
+Centre-Back,right,,"Jul 11, 2019",Ezri Konsa,"1,83m",413403,"['England', 'DR Congo']",€35.00m,,Brentford FC,26,"Oct 23, 1997",Aston Villa
+Centre-Back,right,,"Jul 1, 2022",Diego Carlos,"1,85m",329145,"['Brazil', 'Spain']",€16.00m,,Sevilla FC,31,"Mar 15, 1993",Aston Villa
+Centre-Back,left,Cruciate ligament tear - Return unknown,"Jul 8, 2019",Tyrone Mings,"1,96m",253677,['England'],€13.00m,,AFC Bournemouth,31,"Mar 13, 1993",Aston Villa
+Centre-Back,left,,"Sep 1, 2023",Clément Lenglet,"1,86m",182904,['France'],€10.00m,,FC Barcelona,29,"Jun 17, 1995",Atlético de Madrid
+Centre-Back,right,,"Jan 27, 2022",Calum Chambers,"1,82m",215118,['England'],€4.00m,,Arsenal FC,29,"Jan 20, 1995",Cardiff City
+Centre-Back,left,"No eligibility - until Jan 31, 2025 - UEFA Champions League; Knee surgery - Return unknown","Jul 1, 2019",Kortney Hause,"1,91m",233124,"['England', 'Bermuda']",€2.00m,,Wolverhampton Wanderers,28,"Jul 16, 1995",Aston Villa
+Centre-Back,right,,,Josh Feeney,"1,96m",875929,"['England', 'Scotland']",€500k,,,19,"May 6, 2005",Shrewsbury Town
+Centre-Back,left,,,Finley Munroe,,845723,['England'],€100k,,,19,"Feb 8, 2005",Real Unión Club
+Left-Back,left,,"Jan 11, 2023",Álex Moreno,"1,79m",193098,['Spain'],€13.00m,,Real Betis Balompié,31,"Jun 8, 1993",Nottingham Forest
+Left-Back,left,,"Jan 13, 2022",Lucas Digne,"1,78m",126664,['France'],€12.00m,,Everton FC,30,"Jul 20, 1993",Aston Villa
+Left-Back,left,,"Feb 1, 2024",Lino Sousa,"1,85m",743414,"['England', 'Portugal']",€2.00m,,Arsenal FC U21,19,"Jan 19, 2005",Bristol Rovers
+Left-Back,left,,,Sebastian Revan,"1,81m",667925,"['England', 'St. Kitts & Nevis']",€350k,,,20,"Jul 14, 2003",Wrexham AFC
+Left-Back,,,,Travis Patterson,,874902,['England'],,,,18,"Oct 6, 2005",Aston Villa U21
+Right-Back,right,,"Sep 3, 2020",Matty Cash,"1,85m",425334,"['Poland', 'England']",€28.00m,,Nottingham Forest,26,"Aug 7, 1997",Aston Villa
+Right-Back,right,,"Jan 15, 2024",Kaine Kesler-Hayden,"1,75m",626888,['England'],€2.20m,,: Ablöse -,21,"Oct 23, 2002",Preston North End
+Defensive Midfield,right,Knee injury - Return unknown,"Jul 1, 2022",Boubacar Kamara,"1,84m",394327,"['France', 'Senegal']",€38.00m,,Olympique Marseille,24,"Nov 23, 1999",Aston Villa
+Defensive Midfield,right,Ankle injury - Return unknown,"Sep 1, 2022",Leander Dendoncker,"1,88m",168157,['Belgium'],€7.00m,,Wolverhampton Wanderers,29,"Apr 15, 1995",RSC Anderlecht
+Central Midfield,right,"Muscle fatigue - Return expected on Nov 20, 2024","Jul 25, 2019",Douglas Luiz,"1,77m",447661,['Brazil'],€70.00m,,Manchester City,26,"May 9, 1998",Juventus FC
+Central Midfield,left,Team captain,"Aug 8, 2018",John McGinn,"1,78m",193116,['Scotland'],€30.00m,,Hibernian FC,29,"Oct 18, 1994",Aston Villa
+Central Midfield,right,,"Jul 1, 2023",Youri Tielemans,"1,77m",249565,"['Belgium', 'DR Congo']",€25.00m,,Leicester City,27,"May 7, 1997",Aston Villa
+Central Midfield,right,,"Jan 1, 2022",Tim Iroegbunam,"1,83m",696589,"['England', 'Nigeria']",€4.00m,,: Ablöse -,21,"Jun 30, 2003",Everton FC
+Attacking Midfield,right,,"Jul 1, 2020",Jacob Ramsey,"1,80m",503749,['England'],€35.00m,,: Ablöse -,23,"May 28, 2001",Aston Villa
+Attacking Midfield,right,,"Jul 1, 2021",Emiliano Buendía,"1,72m",321247,"['Argentina', 'Spain']",€22.00m,,: Ablöse €38.40m,27,"Dec 25, 1996",Aston Villa
+Attacking Midfield,left,,"Aug 18, 2023",Nicolò Zaniolo,"1,90m",392085,['Italy'],€20.00m,,Galatasaray,24,"Jul 2, 1999",Atalanta BC
+Attacking Midfield,right,,"Feb 1, 2024",Morgan Rogers,"1,87m",503743,['England'],€15.00m,,Middlesbrough FC,21,"Jul 26, 2002",Aston Villa
+Attacking Midfield,right,,"Jul 1, 2022",Philippe Coutinho,"1,72m",80444,"['Brazil', 'Portugal']",€7.50m,,FC Barcelona,32,"Jun 12, 1992",Clube de Regatas Vasco da Gama
+Attacking Midfield,left,Knee injury - Return unknown,,Omari Kellyman,"1,91m",926135,"['England', 'Northern Ireland']",€1.00m,,,18,"Sep 15, 2005",Chelsea FC U21
+Attacking Midfield,left,,,Tommi O'Reilly,"1,70m",818237,['England'],€200k,,,20,"Dec 15, 2003",Shrewsbury Town
+Left Winger,right,,"Jul 19, 2024",Jaden Philogene,"1,81m",665390,"['England', 'Dominica']",€15.00m,"Joined from Hull City; date: Jul 19, 2024; fee: €16.00m",Hull City,22,"Feb 8, 2002",Aston Villa
+Left Winger,right,,,Kadan Young,"1,76m",887433,"['England', 'Jamaica']",,,,18,"Jan 19, 2006",Aston Villa U21
+Right Winger,left,,"Jul 22, 2023",Moussa Diaby,"1,70m",395516,"['France', 'Mali']",€55.00m,,Bayer 04 Leverkusen,24,"Jul 7, 1999",Al-Ittihad Club
+Right Winger,left,,"Aug 4, 2021",Leon Bailey,"1,78m",387626,['Jamaica'],€42.00m,,Bayer 04 Leverkusen,26,"Aug 9, 1997",Aston Villa
+Right Winger,left,,"Sep 19, 2020",Bertrand Traoré,"1,81m",131996,['Burkina Faso'],€9.00m,,: Ablöse €18.40m,28,"Sep 6, 1995",Ajax Amsterdam
+Centre-Forward,right,,"Sep 9, 2020",Ollie Watkins,"1,80m",324358,['England'],€65.00m,,Brentford FC,28,"Dec 30, 1995",Aston Villa
+Centre-Forward,left,,"Jan 23, 2023",Jhon Durán,"1,85m",649317,['Colombia'],€20.00m,,Chicago Fire FC,20,"Dec 13, 2003",Aston Villa
+Centre-Forward,right,,"Jul 11, 2024",Cameron Archer,"1,75m",533662,"['England', 'Jamaica']",€13.00m,"Joined from Sheffield United; date: Jul 11, 2024; fee: €16.65m",Sheffield United,22,"Dec 9, 2001",Southampton FC

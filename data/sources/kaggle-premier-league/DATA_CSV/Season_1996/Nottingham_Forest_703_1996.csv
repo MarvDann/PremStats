@@ -1,0 +1,34 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,,David Henry,,242265,['Northern Ireland'],,19,"Nov 12, 1977",Retired
+Goalkeeper,right,"Jul 1, 1987",Mark Crossley,"1,91m",4041,"['Wales', 'England']",Nottingham Forest U18,28,"Jun 16, 1969",Retired
+Goalkeeper,right,"Jan 13, 1996",Alan Fettis,"1,85m",4222,['Northern Ireland'],: Ablöse €375k,26,"Feb 1, 1971",Retired
+Goalkeeper,,"Sep 1, 1993",Tommy Wright,"1,85m",206780,['Northern Ireland'],Newcastle United,33,"Sep 26, 1963",Retired
+Centre-Back,,"Sep 1, 1991",Vance Warner,,227869,['England'],Nottingham Forest U18,22,"Sep 3, 1974",Retired
+Centre-Back,right,"Aug 1, 1992",Steve Blatherwick,"1,85m",228541,['England'],: Ablöse ?,23,"Sep 20, 1973",Retired
+Centre-Back,,"Aug 28, 1986",Steve Chettle,"1,85m",168569,['England'],Nottingham Forest U18,28,"Sep 27, 1968",Retired
+Centre-Back,right,"Jul 1, 1996",Nikola Jerkan,"1,88m",81486,['Croatia'],Real Oviedo,32,"Dec 8, 1964",Retired
+Centre-Back,,"Oct 1, 1996",Brian O'Neil,,669,['Scotland'],Celtic FC,24,"Sep 6, 1972",Retired
+Left-Back,left,"Jul 1, 1985",Stuart Pearce,"1,78m",101317,['England'],Coventry City,35,"Apr 24, 1962",Retired
+Left-Back,left,"Jul 1, 1993",Colin Cooper,"1,82m",3867,['England'],: Ablöse €2.55m,30,"Feb 28, 1967",Retired
+Left-Back,left,"Jul 1, 1992",Craig Armstrong,"1,80m",13396,['England'],Nottingham Forest U18,22,"May 23, 1975",Retired
+Right-Back,right,"Jul 1, 1993",Des Lyttle,"1,75m",3674,['England'],: Ablöse ?,25,"Sep 24, 1971",Retired
+Midfielder,,,Justin Walker,,230674,['England'],,21,"Sep 6, 1975",Retired
+Defensive Midfield,right,"Jan 25, 1994",Alf-Inge Haaland,"1,86m",107179,['Norway'],Bryne FK,24,"Nov 23, 1972",Retired
+Central Midfield,,"Dec 5, 1990",Bobby Howe,"1,70m",228813,['England'],Nottingham Forest U18,23,"Nov 6, 1973",Retired
+Central Midfield,right,"Jan 5, 1990",Scot Gemmill,"1,81m",3617,['Scotland'],Nottingham Forest U18,26,"Jan 2, 1971",Retired
+Right Midfield,right,,Steve Melton,"1,78m",34611,['England'],,18,"Oct 3, 1978",Retired
+Right Midfield,right,"Aug 20, 1993",David Phillips,"1,78m",168585,"['Wales', 'Germany']",: Ablöse €500k,33,"Jul 29, 1963",Retired
+Right Midfield,right,"Jul 1, 1989",Steve Stone,"1,75m",3364,['England'],Nottingham Forest U18,25,"Aug 20, 1971",Retired
+Attacking Midfield,,"Dec 20, 1996",Nigel Clough,"1,75m",101322,['England'],: Ablöse free transfer,31,"Mar 19, 1966",Retired
+Attacking Midfield,right,"Jul 1, 1995",Chris Bart-Williams,"1,80m",3293,"['England', 'Sierra Leone']",: Ablöse €3.75m,23,"Jun 16, 1974",---
+Attacking Midfield,left,"Mar 1, 1990",Ian Woan,"1,83m",168600,['England'],Runcorn FC Halton,29,"Dec 14, 1967",Retired
+Left Winger,left,"Jul 1, 1996",Chris Allen,"1,80m",223949,['England'],: Ablöse €485k,24,"Nov 18, 1972",Retired
+Left Winger,,"Jul 1, 1994",Bryan Roy,,351,"['Netherlands', 'Suriname']",: Ablöse €2.50m,27,"Feb 12, 1970",Retired
+Right Winger,right,"Jul 1, 1991",Paul McGregor,"1,78m",168581,['England'],Nottingham Forest U18,22,"Dec 17, 1974",Retired
+Centre-Forward,right,"Jul 1, 1995",Andrea Silenzi,"1,91m",180552,['Italy'],: Ablöse €2.15m,31,"Feb 10, 1966",Retired
+Centre-Forward,,"Jul 12, 1996",Dean Saunders,,92213,['Wales'],Galatasaray,33,"Jun 21, 1964",Retired
+Centre-Forward,right,"Jul 1, 1995",Kevin Campbell,"1,83m",3468,"['England', 'Jamaica']",: Ablöse €4.20m,27,"Feb 4, 1970",---
+Centre-Forward,right,"Mar 1, 1994",Jason Lee,"1,91m",14624,['England'],Southend United,26,"May 9, 1971",Retired
+Centre-Forward,right,"Jul 1, 1996",Pierre van Hooijdonk,"1,93m",3520,"['Netherlands', 'Morocco']",Celtic FC,27,"Nov 29, 1969",Retired
+Centre-Forward,right,"Mar 15, 1997",Ian Thomas-Moore,"1,80m",9990,['England'],: Ablöse €1.50m,20,"Aug 26, 1976",Retired
+Centre-Forward,right,"Jul 1, 1992",Steve Guinan,"1,83m",16670,['England'],Nottingham Forest U18,21,"Dec 24, 1975",Retired

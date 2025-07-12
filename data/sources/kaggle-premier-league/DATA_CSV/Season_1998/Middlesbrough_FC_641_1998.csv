@@ -1,0 +1,33 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Feb 21, 1997",Mark Schwarzer,,3357,"['Australia', 'Germany']",Bradford City,26,"Oct 6, 1972",Retired
+Goalkeeper,right,"Mar 10, 1998",Marlon Beresford,"1,85m",11479,['England'],: Ablöse free transfer,29,"Sep 2, 1969",Retired
+Goalkeeper,,"Jul 1, 1992",Ben Roberts,"1,85m",4099,['England'],Middlesbrough FC U18,24,"Jun 22, 1975",Retired
+Defender,,"Aug 1, 1996",Craig Harrison,"1,83m",223760,['England'],Middlesbrough FC U18,21,"Nov 10, 1977",Retired
+Centre-Back,,"Dec 3, 1993",Steve Vickers,"1,85m",3935,['England'],: Ablöse €830k,31,"Oct 13, 1967",Retired
+Centre-Back,right,"Jul 1, 1998",Gary Pallister,"1,93m",106917,['England'],Manchester United,34,"Jun 30, 1965",Retired
+Centre-Back,left,"Jan 1, 1997",Vladimír Kinder,"1,77m",16483,['Slovakia'],Slovan Bratislava,30,"Mar 9, 1969",Retired
+Centre-Back,both,"Jul 1, 1997",Jason Gavin,"1,85m",10380,['Ireland'],Middlesbrough FC U18,19,"Mar 14, 1980",Retired
+Left-Back,,"Jul 1, 1994",Clayton Blackmore,"1,75m",176007,['Wales'],: Ablöse free transfer,34,"Sep 23, 1964",Retired
+Left-Back,left,"Jul 1, 1998",Dean Gordon,"1,83m",10049,['England'],: Ablöse €1.35m,26,"Feb 10, 1973",Retired
+Left-Back,left,"Jul 1, 1998",Colin Cooper,"1,82m",3867,['England'],: Ablöse €3.75m,32,"Feb 28, 1967",Retired
+Right-Back,,"Aug 16, 1991",Curtis Fleming,"1,78m",11353,"['Ireland', 'England']",St. Patrick's Athletic,30,"Oct 8, 1968",Retired
+Right-Back,right,"Jul 1, 1997",Gianluca Festa,"1,83m",5596,['Italy'],: Ablöse ?,30,"Mar 16, 1969",Retired
+Right-Back,right,"Jul 1, 1996",Steve Baker,"1,83m",4044,"['Ireland', 'England']",Middlesbrough FC U18,20,"Sep 8, 1978",Retired
+Right-Back,right,"Jul 1, 1997",Robbie Stockdale,"1,83m",3712,"['Scotland', 'England']",Middlesbrough FC U18,19,"Nov 30, 1979",Retired
+Central Midfield,right,"Jul 1, 1990",Robbie Mustoe,"1,83m",13419,['England'],: Ablöse €440k,30,"Aug 28, 1968",Retired
+Central Midfield,right,"Jul 1, 1993",Phil Stamp,"1,78m",12607,['England'],Middlesbrough FC U18,23,"Dec 12, 1975",Retired
+Central Midfield,,"Oct 28, 1997",Neil Maddison,,195000,['England'],Southampton FC,29,"Oct 2, 1969",Retired
+Central Midfield,right,"Sep 1, 1997",Andy Townsend,"1,80m",102498,"['Ireland', 'England']",: Ablöse €575k,35,"Jul 23, 1963",Retired
+Central Midfield,right,"Jul 1, 1995",Mark Summerbell,"1,75m",195687,['England'],Middlesbrough FC U18,22,"Oct 30, 1976",Retired
+Right Midfield,,"Jul 7, 1997",Paul Merson,,3250,['England'],: Ablöse €6.60m,31,"Mar 20, 1968",Retired
+Left Midfield,,"Jul 1, 1991",Alan Moore,"1,75m",10007,['Ireland'],Barnsley FC,24,"Nov 25, 1974",Retired
+Left Midfield,left,"Jul 1, 1996",Micky Cummins,"1,83m",67266,['Ireland'],Middlesbrough FC U18,21,"Jun 1, 1978",Retired
+Attacking Midfield,right,"Mar 1, 1998",Paul Gascoigne,"1,78m",3830,['England'],: Ablöse €5.00m,32,"May 27, 1967",Retired
+Left Winger,left,"Mar 18, 1999",Keith O'Neill,"1,88m",10017,['Ireland'],: Ablöse ?,23,"Feb 16, 1976",Retired
+Right Winger,right,"Jul 1, 1996",Anthony Ormerod,"1,78m",106162,"['Ireland', 'England']",Middlesbrough FC U18,20,"Mar 31, 1979",Retired
+Centre-Forward,right,"Feb 16, 1998",Marco Branca,"1,81m",169692,['Italy'],: Ablöse €1.50m,34,"Jan 6, 1965",Retired
+Centre-Forward,,"Oct 16, 1998",Brian Deane,,8058,"['England', 'St. Kitts & Nevis']",: Ablöse €4.18m,31,"Feb 7, 1968",Retired
+Centre-Forward,,"Jul 1, 1996",Mikkel Beck,,5650,['Denmark'],: Ablöse free transfer,26,"May 12, 1973",Retired
+Centre-Forward,right,"Jul 1, 1996",Andy Campbell,"1,80m",12689,['England'],Middlesbrough FC U18,20,"Apr 18, 1979",Retired
+Centre-Forward,right,"Jul 1, 1997",Hámilton Ricard,"1,85m",103230,['Colombia'],Deportivo Cali,25,"Jan 12, 1974",Retired
+Centre-Forward,right,"Feb 1, 1998",Alun Armstrong,"1,84m",13237,['England'],: Ablöse €2.40m,24,"Feb 22, 1975",Retired

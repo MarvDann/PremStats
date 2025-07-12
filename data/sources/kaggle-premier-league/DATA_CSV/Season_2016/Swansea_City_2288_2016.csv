@@ -1,0 +1,38 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2014",Lukasz Fabianski,"1,90m",29692,['Poland'],€9.00m,Arsenal FC,32,"Apr 18, 1985",West Ham United
+Goalkeeper,right,,"Jul 1, 2015",Kristoffer Nordfeldt,"1,90m",75890,['Sweden'],€1.50m,: Ablöse €850k,28,"Jun 23, 1989",AIK
+Goalkeeper,both,,"Jul 18, 2016",Mark Birighitti,"1,89m",80702,"['Australia', 'Italy']",€1.00m,Newcastle United Jets,26,"Apr 17, 1991",Without Club
+Goalkeeper,,,"Aug 1, 2011",Gerhard Tremmel,,488,['Germany'],€250k,: Ablöse free transfer,38,"Nov 16, 1978",Retired
+Centre-Back,right,,"Aug 20, 2014",Federico Fernández,"1,89m",85475,"['Argentina', 'Italy']",€9.00m,: Ablöse €10.00m,28,"Feb 21, 1989",Club Estudiantes de La Plata
+Centre-Back,right,,"Aug 30, 2016",Alfie Mawson,"1,89m",287431,['England'],€6.00m,Barnsley FC,23,"Jan 19, 1994",Retired
+Centre-Back,right,,"Aug 17, 2012",Kyle Bartley,"1,94m",67421,"['England', 'Jamaica']",€3.50m,Arsenal FC U21,26,"May 22, 1991",West Bromwich Albion
+Centre-Back,right,Ankle injury - Return unknown,"Jul 1, 2013",Jordi Amat,"1,85m",85289,"['Indonesia', 'Spain']",€2.50m,RCD Espanyol Barcelona,25,"Mar 21, 1992",Johor Darul Ta'zim
+Centre-Back,right,,"Jul 6, 2016",Mike van der Hoorn,"1,90m",187105,['Netherlands'],€2.00m,Ajax Amsterdam,24,"Oct 15, 1992",FC Utrecht
+Left-Back,left,,"Jul 1, 2010",Neil Taylor,"1,76m",67416,"['Wales', 'India']",€6.00m,Wrexham AFC,28,"Feb 7, 1989",Retired
+Left-Back,left,,"Jan 17, 2017",Martin Olsson,"1,78m",38073,['Sweden'],€5.00m,: Ablöse €4.60m,29,"May 17, 1988",Malmö FF
+Left-Back,left,,"Jul 1, 2015",Franck Tabanou,"1,78m",66413,['France'],€2.00m,: Ablöse €4.90m,28,"Jan 30, 1989",Without Club
+Left-Back,left,,"Jul 1, 2014",Stephen Kingsley,"1,78m",184398,['Scotland'],€750k,Falkirk FC,22,"Jul 23, 1994",Heart of Midlothian FC
+Right-Back,right,,"Jan 22, 2015",Kyle Naughton,"1,81m",66219,"['England', 'Ireland']",€5.00m,Tottenham Hotspur,28,"Nov 17, 1988",Swansea City
+Right-Back,right,,"Jul 1, 2007",Ángel Rangel,"1,88m",66550,['Spain'],€1.00m,Terrassa FC,34,"Nov 28, 1982",Retired
+Right-Back,right,,"Jul 1, 2017",Connor Roberts,"1,75m",214666,['Wales'],€250k,: Ablöse -,21,"Sep 23, 1995",Burnley FC
+Defensive Midfield,right,,"Jul 5, 2016",Leroy Fer,"1,88m",63342,"['Netherlands', 'Curacao']",€8.00m,Queens Park Rangers,27,"Jan 5, 1990",Al-Nasr SC (UAE)
+Defensive Midfield,right,,"Aug 24, 2012",Sung-yueng Ki,"1,89m",81796,"['Korea, South']",€7.00m,Celtic FC,28,"Jan 24, 1989",FC Seoul
+Defensive Midfield,right,,"Jan 30, 2015",Jack Cork,"1,85m",40613,['England'],€5.00m,Southampton FC,28,"Jun 25, 1989",Burnley FC U21
+Defensive Midfield,left,Team captain,"Jan 3, 2015",Matt Grimes,"1,78m",265471,['England'],€1.50m,: Ablöse €2.24m,21,"Jul 15, 1995",Swansea City
+Central Midfield,left,,"Jan 17, 2017",Tom Carroll,"1,77m",121279,['England'],€6.00m,Tottenham Hotspur,25,"May 28, 1992",Milton Keynes Dons
+Central Midfield,right,,"Jan 19, 2011",Leon Britton,"1,67m",40043,['England'],€1.00m,Sheffield United,34,"Sep 16, 1982",Retired
+Central Midfield,right,,"Jan 31, 2014",Jay Fulton,"1,85m",171260,"['Scotland', 'England']",€500k,Falkirk FC,23,"Apr 1, 1994",Swansea City
+Attacking Midfield,right,,"Jul 23, 2014",Gylfi Sigurdsson,"1,86m",90466,['Iceland'],€25.00m,Tottenham Hotspur,27,"Sep 8, 1989",Valur Reykjavík
+Left Winger,right,,"Jul 24, 2014",Jefferson Montero,"1,70m",77932,['Ecuador'],€4.50m,: Ablöse €5.00m,27,"Sep 1, 1989",Academia Antonio Valencia
+Left Winger,left,,"Sep 1, 2014",Modou Barrow,"1,76m",189070,"['The Gambia', 'Sweden']",€3.00m,Östersunds FK,24,"Oct 13, 1992",Abha Club
+Left Winger,right,,"Aug 4, 2011",Wayne Routledge,"1,70m",14066,"['England', 'Jamaica']",€2.50m,Newcastle United,32,"Jan 7, 1985",Retired
+Left Winger,right,,"Jul 1, 2013",Kenji Gorré,"1,78m",374889,"['Curacao', 'Netherlands']",€100k,Without Club,22,"Sep 29, 1994",Umm Salal SC
+Right Winger,right,,"Jan 12, 2017",Luciano Narsingh,"1,75m",72462,"['Netherlands', 'Suriname']",€5.00m,: Ablöse €4.60m,26,"Sep 13, 1990",Nea Salamina Famagusta
+Right Winger,right,,"Jan 1, 2009",Nathan Dyer,"1,65m",37011,"['England', 'Jamaica']",€3.50m,Southampton FC,29,"Nov 29, 1987",Retired
+Right Winger,right,,"Jul 1, 2018",Daniel James,"1,71m",319301,"['Wales', 'England']",,: Ablöse -,19,"Nov 10, 1997",Leeds United
+Centre-Forward,right,,"Aug 11, 2016",Borja Bastón,"1,86m",85324,['Spain'],€10.00m,: Ablöse €18.00m,24,"Aug 25, 1992",CF Pachuca
+Centre-Forward,right,,"Jan 31, 2017",Jordan Ayew,"1,82m",108354,"['Ghana', 'France']",€7.50m,: Ablöse €5.80m,25,"Sep 11, 1991",Leicester City
+Centre-Forward,right,,"Aug 5, 2016",Fernando Llorente,"1,95m",35564,['Spain'],€6.00m,Sevilla FC,32,"Feb 26, 1985",Retired
+Centre-Forward,right,"No eligibility - until Dec 31, 2024 - AFC Champions League Elite - 6 matchdays","Jul 1, 2014",Bafétimbi Gomis,"1,84m",22388,"['France', 'Senegal']",€5.00m,: Ablöse free transfer,31,"Aug 6, 1985",Retired
+Centre-Forward,both,,"Jul 2, 2014",Marvin Emnes,"1,80m",37787,"['Netherlands', 'Suriname']",€1.00m,Middlesbrough FC,29,"May 27, 1988",Without Club
+Centre-Forward,right,,"Jul 13, 2015",Oli McBurnie,"1,88m",298477,"['Scotland', 'England']",€250k,Bradford City,21,"Jun 4, 1996",UD Las Palmas

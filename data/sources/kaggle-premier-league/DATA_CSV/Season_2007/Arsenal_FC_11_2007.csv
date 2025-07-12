@@ -1,0 +1,36 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 14, 2004",Manuel Almunia,"1,91m",16621,['Spain'],€6.00m,Celta de Vigo,31,"May 19, 1977",Retired
+Goalkeeper,,"Mar 1, 2011",Jens Lehmann,,122,['Germany'],€3.00m,,38,"Nov 10, 1969",Retired
+Goalkeeper,right,"Jul 1, 2007",Lukasz Fabianski,"1,90m",29692,['Poland'],€3.00m,: Ablöse €4.35m,23,"Apr 18, 1985",West Ham United
+Goalkeeper,right,"Jul 4, 2005",Vito Mannone,"1,88m",33781,['Italy'],,Atalanta Primavera,20,"Mar 2, 1988",LOSC Lille
+Centre-Back,right,"Feb 14, 2002",Kolo Touré,"1,78m",3202,"[""Cote d'Ivoire"", 'England']",€21.00m,ASEC Mimosas,27,"Mar 19, 1981",Retired
+Centre-Back,right,"Aug 31, 2006",William Gallas,"1,82m",3156,"['France', 'Guadeloupe']",€18.00m,Chelsea FC,30,"Aug 17, 1977",Retired
+Centre-Back,right,"Jul 1, 2003",Philippe Senderos,"1,89m",4277,"['Switzerland', 'Spain']",€6.50m,: Ablöse €3.55m,23,"Feb 14, 1985",Retired
+Centre-Back,,"Jul 1, 2004",Johan Djourou,,34561,"['Switzerland', ""Cote d'Ivoire""]",€3.75m,Arsenal FC U18,21,"Jan 18, 1987",Retired
+Left-Back,left,"Aug 4, 2003",Gaël Clichy,"1,76m",7449,"['France', 'Martinique']",€11.00m,: Ablöse €375k,22,"Jul 26, 1985",Retired
+Left-Back,left,"Jul 1, 2007",Armand Traoré,"1,84m",33783,"['Senegal', 'France']",€1.00m,Arsenal FC U18,18,"Oct 8, 1989",Retired
+Left-Back,left,"Jul 1, 2007",Kieran Gibbs,"1,81m",44792,['England'],€250k,Arsenal FC U18,18,"Sep 26, 1989",Retired
+Right-Back,right,"Jul 12, 2007",Bacary Sagna,"1,76m",26764,"['France', 'Senegal']",€11.50m,AJ Auxerre,25,"Feb 14, 1983",Retired
+Right-Back,right,"Jan 7, 2005",Emmanuel Eboué,"1,78m",13058,"[""Cote d'Ivoire"", 'Belgium']",€8.00m,KSK Beveren (- 2010),25,"Jun 4, 1983",Retired
+Right-Back,right,"Jan 1, 2003",Justin Hoyte,"1,78m",7335,"['Trinidad and Tobago', 'England']",€1.50m,Arsenal FC U18,23,"Nov 20, 1984",Miami Beach CF
+Right-Back,right,"Jul 1, 2005",Kerrea Gilbert,"1,75m",34562,['England'],€450k,Arsenal FC U18,21,"Feb 28, 1987",Retired
+Right-Back,right,"Jul 1, 2007",Gavin Hoyte,"1,80m",44793,"['Trinidad and Tobago', 'England']",€50k,Arsenal FC U18,18,"Jun 6, 1990",Folkestone Invicta FC
+Defensive Midfield,right,"Aug 29, 2013",Mathieu Flamini,"1,78m",17396,['France'],€11.00m,AC Milan,24,"Mar 7, 1984",Retired
+Defensive Midfield,right,"Aug 31, 2007",Lassana Diarra,"1,73m",23914,"['France', 'Mali']",€7.00m,Chelsea FC,23,"Mar 10, 1985",Retired
+Defensive Midfield,right,"Jul 26, 2002",Gilberto Silva,"1,85m",3194,['Brazil'],€6.50m,Clube Atlético Mineiro,31,"Oct 7, 1976",Retired
+Defensive Midfield,right,"Aug 31, 2006",Denílson,"1,78m",42352,['Brazil'],€5.00m,São Paulo Futebol Clube,20,"Feb 16, 1988",Retired
+Defensive Midfield,right,,Håvard Nordtveit,"1,88m",42234,['Norway'],€3.00m,,18,"Jun 21, 1990",Retired
+Defensive Midfield,right,"Aug 11, 2005",Alex Song,"1,85m",27394,"['Cameroon', 'France']",€2.00m,: Ablöse €4.00m,20,"Sep 9, 1987",Retired
+Central Midfield,right,"Jul 1, 2004",Cesc Fàbregas,"1,79m",8806,['Spain'],€35.00m,Arsenal FC U18,21,"May 4, 1987",Retired
+Central Midfield,right,"Jan 13, 2006",Abou Diaby,"1,91m",26763,"['France', ""Cote d'Ivoire""]",€4.00m,AJ Auxerre,22,"May 11, 1986",Retired
+Central Midfield,left,"Jul 1, 2007",Fran Mérida,"1,73m",42920,['Spain'],€2.60m,Arsenal FC U18,18,"Mar 4, 1990",Retired
+Central Midfield,right,"Jul 1, 2007",Mark Randall,"1,83m",44799,['England'],€250k,Arsenal FC U18,18,"Sep 28, 1989",Larne FC
+Central Midfield,right,"Jul 1, 2008",Henri Lansbury,"1,83m",44794,['England'],€50k,Arsenal FC U18,17,"Oct 12, 1990",Retired
+Attacking Midfield,,"Jul 12, 2005",Aleksandr Hleb,,597,['Belarus'],€18.00m,: Ablöse €15.00m,27,"May 1, 1981",Retired
+Attacking Midfield,both,"Jul 1, 2006",Tomas Rosicky,"1,79m",132,['Czech Republic'],€17.50m,Borussia Dortmund,27,"Oct 4, 1980",Retired
+Attacking Midfield,right,"Jul 1, 2008",Nacer Barazite,"1,88m",44787,"['Netherlands', 'Morocco']",,Arsenal FC U18,18,"May 27, 1990",Retired
+Right Winger,both,"Jan 20, 2006",Theo Walcott,"1,75m",33713,['England'],€6.00m,Southampton FC,19,"Mar 16, 1989",Retired
+Centre-Forward,right,"Jan 13, 2006",Emmanuel Adebayor,"1,92m",8883,"['Togo', 'Nigeria']",€18.00m,: Ablöse €10.00m,24,"Feb 26, 1984",Retired
+Centre-Forward,left,"Jul 1, 2004",Robin van Persie,"1,83m",4380,['Netherlands'],€16.00m,: Ablöse €4.50m,24,"Aug 6, 1983",Retired
+Centre-Forward,left,"Jul 1, 2007",Eduardo,"1,77m",24633,"['Croatia', 'Brazil']",€11.00m,GNK Dinamo Zagreb,25,"Feb 25, 1983",Retired
+Centre-Forward,,"Jul 1, 2007",Nicklas Bendtner,,34557,['Denmark'],€4.50m,Arsenal FC Reserves,20,"Jan 16, 1988",Retired

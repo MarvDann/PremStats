@@ -1,0 +1,25 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 1993",Andy Marshall,"1,88m",13249,['England'],Norwich City U18,18,"Apr 14, 1975",Retired
+Goalkeeper,,"Jul 1, 1986",Bryan Gunn,,209817,['Scotland'],Aberdeen FC,29,"Dec 22, 1963",Retired
+Goalkeeper,,"Mar 1, 1998",Mark Walton,,222906,['Wales'],Gillingham FC,24,"Jun 1, 1969",Retired
+Defender,,"Jul 4, 1989",Jason Minett,,240279,['England'],Norwich City U18,21,"Aug 12, 1971",Retired
+Centre-Back,,"Jul 1, 1991",Rob Newman,"1,88m",67000,['England'],: Ablöse ?,29,"Dec 13, 1963",Retired
+Centre-Back,,"Sep 1, 1986",Ian Butterworth,"1,85m",222894,['England'],: Ablöse €203k,29,"Jan 25, 1964",Retired
+Centre-Back,,"Jul 24, 1990",John Polston,"1,80m",222902,['England'],: Ablöse €316k,25,"Jun 10, 1968",Retired
+Left-Back,left,"Jul 1, 1990",Colin Woodthorpe,"1,85m",23583,['England'],Chester City (- 2010),24,"Jan 13, 1969",Retired
+Left-Back,left,"Jul 1, 1990",Robert Ullathorne,"1,73m",107798,['England'],Norwich City U18,21,"Oct 11, 1971",Retired
+Left-Back,left,"Jul 23, 1987",Mark Bowen,"1,73m",181585,['Wales'],: Ablöse €100k,29,"Dec 7, 1963",Retired
+Right-Back,right,"Oct 8, 1985",Ian Culverhouse,"1,80m",222896,['England'],: Ablöse €63k,28,"Sep 22, 1964",Retired
+Right-Back,right,"Jul 1, 1990",Daryl Sutch,"1,83m",224424,['England'],Norwich City U18,21,"Sep 11, 1971",Retired
+Defensive Midfield,,"Jul 1, 1992",Gary Megson,,177126,['England'],: Ablöse free transfer,34,"May 2, 1959",Retired
+Central Midfield,,"Jul 1, 1989",David Smith,,143741,['England'],Norwich City U18,22,"Dec 26, 1970",Retired
+Central Midfield,,"Jun 13, 1986",Ian Crook,,222895,['England'],: Ablöse €101k,30,"Jan 18, 1963",Retired
+Central Midfield,,"Mar 23, 1983",Jeremy Goss,,222898,"['Wales', 'Cyprus']",Norwich City U18,28,"May 11, 1965",Retired
+Right Midfield,right,"Jul 1, 1989",David Phillips,"1,78m",168585,"['Wales', 'Germany']",Coventry City,29,"Jul 29, 1963",Retired
+Attacking Midfield,right,"Jul 1, 1992",Andy Johnson,"1,83m",3672,"['Wales', 'England']",Norwich City U18,19,"May 2, 1974",Retired
+Right Winger,right,"Jul 1, 1986",Ruel Fox,"1,68m",104904,"['Montserrat', 'England']",Norwich City U18,25,"Jan 14, 1968",Retired
+Centre-Forward,right,"Aug 14, 1992",Mark Robins,"1,73m",13644,['England'],: Ablöse €1.00m,23,"Dec 22, 1969",Retired
+Centre-Forward,,"Jul 1, 1991",Chris Sutton,,7453,['England'],Norwich City U18,20,"Mar 10, 1973",Retired
+Centre-Forward,,"Mar 1, 1993",Efan Ekoku,"1,88m",102315,"['Nigeria', 'England']",: Ablöse ?,26,"Jun 8, 1967",Retired
+Centre-Forward,,"Jun 1, 1991",Darren Beckford,"1,85m",177041,['England'],: Ablöse €1.04m,26,"May 12, 1967",Retired
+Centre-Forward,,"Jul 1, 1990",Lee Power,,227043,"['Ireland', 'England']",Norwich City U18,21,"Jun 30, 1972",Retired

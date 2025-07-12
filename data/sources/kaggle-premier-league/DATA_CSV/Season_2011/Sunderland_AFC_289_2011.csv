@@ -1,0 +1,37 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 2010",Simon Mignolet,"1,93m",50219,['Belgium'],€5.50m,: Ablöse €2.50m,24,"Mar 6, 1988",Club Brugge KV
+Goalkeeper,left,"Aug 8, 2007",Craig Gordon,"1,93m",12589,['Scotland'],€3.00m,Heart of Midlothian FC,29,"Dec 31, 1982",Heart of Midlothian FC
+Goalkeeper,left,"Jul 1, 2011",Keiren Westwood,"1,88m",15164,"['Ireland', 'England']",€1.50m,Coventry City,27,"Oct 23, 1984",Without Club
+Goalkeeper,right,"Jul 1, 2006",Trevor Carson,"1,85m",41131,['Northern Ireland'],€250k,Sunderland AFC U18,24,"Mar 5, 1988",Dundee FC
+Centre-Back,right,"Aug 31, 2009",Michael Turner,"1,93m",12127,['England'],€4.50m,: Ablöse €4.50m,28,"Nov 9, 1983",Retired
+Centre-Back,right,"Jul 7, 2011",John O'Shea,"1,92m",3540,['Ireland'],€3.50m,Manchester United,31,"Apr 30, 1981",Retired
+Centre-Back,right,"Aug 27, 2008",Anton Ferdinand,"1,85m",3698,"['England', 'St. Lucia']",€3.50m,: Ablöse €10.00m,27,"Feb 18, 1985",Retired
+Centre-Back,right,"Jul 23, 2010",Titus Bramble,"1,92m",3130,"['England', 'Montserrat']",€3.00m,Wigan Athletic,30,"Jul 31, 1981",Retired
+Centre-Back,right,"Jul 1, 2011",Wes Brown,"1,85m",3405,['England'],€2.00m,Manchester United,32,"Oct 13, 1979",Retired
+Centre-Back,,"Jan 21, 2010",Matthew Kilgallon,"1,85m",4095,['England'],€2.00m,Sheffield United,28,"Jan 8, 1984",Retired
+Centre-Back,,"Jan 31, 2012",Sotiris Kyrgiakos,,9706,['Greece'],€500k,VfL Wolfsburg,32,"Jul 23, 1979",Retired
+Centre-Back,right,"Jul 1, 2011",John Egan,"1,85m",121324,['Ireland'],,Sunderland AFC U18,19,"Oct 20, 1992",Burnley FC
+Centre-Back,right,"Jul 1, 2011",Louis Laing,"1,88m",110865,['England'],,Sunderland AFC U18,19,"Mar 6, 1993",Without Club
+Left-Back,left,"Jul 16, 2007",Kieran Richardson,"1,77m",3548,['England'],€5.00m,Manchester United,27,"Oct 21, 1984",Retired
+Left-Back,left,"Jan 31, 2012",Wayne Bridge,"1,78m",3682,['England'],€2.00m,: Ablöse free transfer,31,"Aug 5, 1980",Retired
+Left-Back,left,"Sep 1, 2008",George McCartney,"1,83m",3775,['Northern Ireland'],€1.50m,: Ablöse €5.50m,31,"Apr 29, 1981",Retired
+Right-Back,right,"Jan 22, 2008",Phil Bardsley,"1,80m",15773,"['Scotland', 'England']",€6.00m,Manchester United,27,"Jun 28, 1985",Retired
+Right-Back,right,"Jul 1, 2011",Ahmed El Mohamady,"1,82m",66333,['Egypt'],€3.00m,: Ablöse €2.50m,24,"Sep 9, 1987",Retired
+Right-Back,right,"Jul 24, 2010",Marcos Angeleri,"1,83m",27448,"['Argentina', 'Italy']",€500k,: Ablöse €1.80m,29,"Apr 7, 1983",Retired
+Defensive Midfield,right,"Aug 12, 2009",Lee Cattermole,"1,78m",37363,['England'],€6.00m,Wigan Athletic,24,"Mar 21, 1988",Retired
+Defensive Midfield,left,"Jul 1, 2009",Jack Colback,"1,77m",61644,['England'],€4.50m,Sunderland AFC Reserves,22,"Oct 24, 1989",Queens Park Rangers
+Defensive Midfield,left,"Jul 8, 2011",David Vaughan,"1,71m",14178,['Wales'],€3.00m,Blackpool FC,29,"Feb 18, 1983",Retired
+Defensive Midfield,right,"Jul 1, 2009",Adam Reed,"1,78m",61667,"['Philippines', 'England']",,Sunderland AFC U18,21,"May 8, 1991",Without Club
+Central Midfield,right,"Jul 1, 2011",Sebastian Larsson,"1,78m",31720,['Sweden'],€7.50m,: Ablöse free transfer,27,"Jun 6, 1985",Retired
+Central Midfield,right,"Jul 1, 2011",Craig Gardner,"1,76m",37171,['England'],€6.00m,: Ablöse €6.60m,25,"Nov 25, 1986",Retired
+Central Midfield,right,"Jul 30, 2008",David Meyler,"1,89m",68183,['Ireland'],€750k,Cork City FC,23,"May 29, 1989",Retired
+Left Midfield,left,"Aug 9, 2011",James McClean,"1,80m",85935,"['Ireland', 'Northern Ireland']",€4.00m,Derry City,23,"Apr 22, 1989",Wrexham AFC
+Attacking Midfield,right,"Jan 28, 2011",Stéphane Sessègnon,"1,72m",37157,['Benin'],€14.50m,: Ablöse €7.00m,28,"Jun 1, 1984",Retired
+Left Winger,,"Jul 1, 2012",Craig Lynch,"1,83m",121334,['England'],,Sunderland AFC U21,20,"Mar 25, 1992",Retired
+Centre-Forward,right,"Aug 31, 2010",Asamoah Gyan,"1,80m",26802,['Ghana'],€12.00m,Stade Rennais FC,26,"Nov 22, 1985",Retired
+Centre-Forward,,"Aug 31, 2011",Nicklas Bendtner,,34557,['Denmark'],€8.50m,: Ablöse €1.00m,24,"Jan 16, 1988",Retired
+Centre-Forward,right,"Jul 1, 2011",Connor Wickham,"1,89m",95435,"['England', 'Northern Ireland']",€6.00m,Ipswich Town,19,"Mar 31, 1993",Without Club
+Centre-Forward,right,"Jul 11, 2009",Fraizer Campbell,"1,72m",42411,"['England', 'Jamaica']",€3.50m,Manchester United,24,"Sep 13, 1987",Retired
+Centre-Forward,right,"Jul 1, 2011",Dong-won Ji,"1,87m",164265,"['Korea, South']",€2.50m,: Ablöse €2.40m,21,"May 28, 1991",Suwon FC
+Centre-Forward,right,"Jul 1, 2008",Jordan Cook,"1,74m",61646,['England'],€250k,Sunderland AFC U18,22,"Mar 20, 1990",Shildon AFC
+Centre-Forward,right,"Jul 1, 2009",Ryan Noble,"1,82m",121340,['England'],€250k,Sunderland AFC U18,21,"Jun 11, 1991",Without Club

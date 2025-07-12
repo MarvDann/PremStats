@@ -1,0 +1,27 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jan 1, 1977",Nigel Spink,"1,88m",193806,['England'],Chelmsford City,35,"Aug 8, 1958",Retired
+Goalkeeper,left,"Feb 28, 1992",Mark Bosnich,"1,85m",3249,"['Australia', 'Croatia']",Sydney United 58 FC,22,"Jan 13, 1972",Retired
+Goalkeeper,,"Jul 1, 1990",Michael Oakes,"1,88m",4237,['England'],: Ablöse -,20,"Oct 30, 1973",Retired
+Centre-Back,,"Jul 1, 1991",Shaun Teale,"1,83m",222308,['England'],: Ablöse €360k,30,"Mar 10, 1964",Retired
+Centre-Back,right,"Aug 3, 1989",Paul McGrath,"1,83m",102492,"['Ireland', 'Nigeria']",: Ablöse €500k,34,"Dec 4, 1959",Retired
+Centre-Back,right,"Jul 12, 1991",Ugo Ehiogu,"1,92m",3247,"['England', 'Nigeria']",: Ablöse €60k,21,"Nov 3, 1972",---
+Centre-Back,right,"Feb 12, 1991",Neil Cox,"1,83m",13784,['England'],Scunthorpe United,22,"Oct 8, 1971",Retired
+Left-Back,,"Dec 6, 2000",Steve Staunton,,3839,['Ireland'],: Ablöse free transfer,25,"Jan 19, 1969",Retired
+Left-Back,,"Jul 9, 1990",Bryan Small,,222733,['England'],: Ablöse -,22,"Nov 15, 1971",Retired
+Right-Back,right,"Feb 25, 1992",Earl Barrett,"1,80m",106795,['England'],: Ablöse €2.50m,27,"Apr 28, 1967",Retired
+Right-Back,,"Aug 28, 1991",Dariusz Kubicki,,117233,['Poland'],Legia Warszawa,31,"Jun 6, 1963",Retired
+Central Midfield,,"Aug 6, 1991",Kevin Richardson,"1,75m",109495,['England'],Real Sociedad,31,"Dec 4, 1962",Retired
+Central Midfield,right,"Jul 28, 1992",Ray Houghton,"1,70m",102488,"['Ireland', 'Scotland']",: Ablöse €1.08m,32,"Jan 9, 1962",Retired
+Central Midfield,,"Nov 29, 1991",Garry Parker,"1,80m",107796,['England'],: Ablöse €975k,28,"Sep 7, 1965",Retired
+Central Midfield,right,"Jul 1, 1993",Andy Townsend,"1,80m",102498,"['Ireland', 'England']",: Ablöse €2.40m,30,"Jul 23, 1963",Retired
+Central Midfield,,"Jul 1, 1993",Gordon Cowans,"1,77m",193796,['England'],Blackburn Rovers,35,"Oct 27, 1958",Retired
+Attacking Midfield,,"Jan 1, 1992",Stefan Beinlich,,64,['Germany'],SG Bergmann-Borsig Berlin,22,"Jan 13, 1972",Retired
+Attacking Midfield,,"Jan 1, 1992",Matthias Breitkreutz,,234,['Germany'],SG Bergmann-Borsig Berlin,23,"May 12, 1971",Retired
+Left Winger,left,"Jul 1, 1991",Steve Froggatt,"1,78m",222292,['England'],: Ablöse -,21,"Mar 9, 1973",Retired
+Left Winger,,"Jan 1, 1992",David Farrell,"1,80m",49585,['England'],Redditch United,22,"Nov 11, 1971",Retired
+Right Winger,,"Jul 1, 1985",Tony Daley,"1,73m",101323,"['England', 'Jamaica']",Unknown,26,"Oct 18, 1967",Retired
+Centre-Forward,,"Jul 11, 1991",Dalian Atkinson,"1,85m",200738,['England'],Real Sociedad,26,"Mar 21, 1968",---
+Centre-Forward,,"Sep 10, 1992",Dean Saunders,,92213,['Wales'],: Ablöse €2.85m,30,"Jun 21, 1964",Retired
+Centre-Forward,,"Jan 1, 1990",Dwight Yorke,"1,78m",3223,"['Trinidad and Tobago', 'England']",Unknown,22,"Nov 3, 1971",Retired
+Centre-Forward,right,"Aug 1, 1993",Guy Whittingham,"1,78m",106806,['England'],: Ablöse €1.80m,29,"Nov 10, 1964",Retired
+Centre-Forward,right,"Jul 1, 1992",Graham Fenton,"1,78m",97931,['England'],: Ablöse -,20,"May 22, 1974",Retired

@@ -1,0 +1,46 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,,"Aug 12, 2006",David James,,3646,"['England', 'Jamaica']",€3.00m,,: Ablöse €1.70m,39,"Aug 1, 1970",Retired
+Goalkeeper,right,,"Jul 1, 2005",Asmir Begovic,"1,99m",33873,"['Bosnia-Herzegovina', 'Canada']",€1.50m,,: Ablöse -,23,"Jun 20, 1987",Everton FC
+Goalkeeper,right,,"Aug 1, 2009",Antti Niemi,"1,86m",3101,['Finland'],€500k,,,38,"May 31, 1972",Retired
+Goalkeeper,right,,"Jul 1, 2004",Jamie Ashdown,"1,90m",13397,['England'],€500k,,Reading FC,29,"Nov 30, 1980",Retired
+Goalkeeper,right,,"Aug 9, 2016",Liam O'Brien,"1,88m",129015,['England'],,,: Ablöse free transfer,18,"Nov 3, 1991",Bedworth United
+Centre-Back,left,,"Jul 1, 2007",Sylvain Distin,"1,92m",3356,"['France', 'Guadeloupe']",€7.50m,,: Ablöse free transfer,32,"Dec 16, 1977",Retired
+Centre-Back,right,,"Aug 1, 2008",Younès Kaboul,"1,92m",27114,"['France', 'Morocco']",€5.50m,,Tottenham Hotspur,24,"Jan 4, 1986",Retired
+Centre-Back,right,,"Sep 1, 2009",Tal Ben Haim,"1,83m",20714,['Israel'],€3.50m,,: Ablöse free transfer,28,"Mar 31, 1982",Retired
+Centre-Back,right,,"Jul 1, 2009",Aaron Mokoena,"1,85m",4756,['South Africa'],€2.00m,,Blackburn Rovers,29,"Nov 25, 1980",Retired
+Centre-Back,right,,"Sep 1, 2009",Mike Williamson,"1,94m",10642,['England'],€1.50m,,Watford FC,26,"Nov 8, 1983",Retired
+Centre-Back,both,,"Jul 1, 2005",Marc Wilson,"1,88m",30456,"['Ireland', 'Northern Ireland']",€1.50m,,: Ablöse -,22,"Aug 17, 1987",Retired
+Centre-Back,right,,"Nov 19, 2012",Ricardo Rocha,"1,83m",13211,['Portugal'],€1.00m,,Without Club,31,"Oct 3, 1978",Retired
+Centre-Back,,,"Feb 12, 2010",Dusko Tosic,,17184,['Serbia'],€750k,,SV Werder Bremen,25,"Jan 19, 1985",Retired
+Centre-Back,right,,"Jul 1, 2009",Luke Wilkinson,"1,88m",129013,['England'],€25k,,: Ablöse -,19,"Sep 29, 1990",FC Salisbury
+Centre-Back,right,,"Jul 1, 2000",Linvoy Primus,"1,80m",4266,['England'],,,Reading FC,36,"Sep 14, 1973",Retired
+Centre-Back,right,,,James Hurst,"1,83m",110863,['England'],,,,18,"Jan 31, 1992",Career break
+Left-Back,left,,"Jan 1, 2009",Nadir Belhadj,"1,75m",23892,"['Algeria', 'France']",€5.50m,,: Ablöse €4.50m,28,"Jun 18, 1982",Retired
+Left-Back,left,,"Jul 1, 2007",Hermann Hreidarsson,"1,85m",3860,['Iceland'],€2.00m,,Charlton Athletic,35,"Jul 11, 1974",Retired
+Left-Back,,,,Joel Edwards,,122842,['England'],€25k,,,18,"Aug 18, 1991",Cardiff Metropolitan University
+Left-Back,left,,,Lennard Sowah,"1,84m",74124,"['Germany', 'Ghana']",,,,17,"Aug 23, 1992",TuS Dassendorf
+Right-Back,right,,"Jul 1, 2009",Steve Finnan,"1,83m",4038,['Ireland'],€2.50m,,RCD Espanyol Barcelona,34,"Apr 24, 1976",Retired
+Right-Back,right,,"Aug 13, 2009",Anthony Vanden Borre,"1,82m",15844,"['Belgium', 'DR Congo']",€2.50m,,: Ablöse ?,22,"Oct 24, 1987",Retired
+Right-Back,right,,"Jul 1, 2008",Joel Ward,"1,86m",92572,['England'],€50k,,: Ablöse -,20,"Oct 29, 1989",Crystal Palace
+Defensive Midfield,right,,"Jan 1, 2009",Hayden Mullins,"1,82m",14052,['England'],€3.00m,,: Ablöse €2.30m,31,"Mar 27, 1979",Retired
+Defensive Midfield,left,,"Jul 1, 2002",Richard Hughes,"1,75m",9207,['Scotland'],€1.50m,,: Ablöse €80k,31,"Jun 25, 1979",Retired
+Defensive Midfield,both,,"Feb 2, 2009",Angelos Basinas,"1,80m",9821,['Greece'],€1.00m,,: Ablöse free transfer,34,"Jan 3, 1976",Retired
+Defensive Midfield,right,,,Gauthier Mahoto,"1,85m",125168,"['France', 'DR Congo']",€200k,,,18,"Feb 2, 1992",Without Club
+Central Midfield,right,,"Sep 1, 2009",Hassan Yebda,"1,87m",12351,"['Algeria', 'France']",€4.50m,,SL Benfica,26,"May 14, 1984",Retired
+Central Midfield,left,,"Aug 28, 2009",Jamie O'Hara,"1,80m",38090,['England'],€4.00m,,Tottenham Hotspur,23,"Sep 25, 1986",Retired
+Central Midfield,right,,"Jul 1, 2007",Papa Bouba Diop,"1,94m",5485,['Senegal'],€3.00m,,Fulham FC,32,"Jan 28, 1978",---
+Central Midfield,,,"Aug 1, 2009",Michael Brown,,13509,['England'],€2.50m,,Wigan Athletic,33,"Jan 25, 1977",Retired
+Central Midfield,right,Team captain,"Jul 1, 2022",Marlon Pack,"1,88m",118779,['England'],€50k,,Cardiff City,19,"Mar 25, 1991",Portsmouth FC
+Right Midfield,left,,"Aug 6, 2024",Matt Ritchie,"1,73m",92469,"['Scotland', 'England']",€50k,"Joined from Newcastle United; date: Aug 6, 2024; fee: free transfer",Newcastle United,20,"Sep 10, 1989",Portsmouth FC
+Attacking Midfield,both,,"Aug 31, 2006",Niko Kranjcar,"1,86m",16746,['Croatia'],€12.00m,,HNK Hajduk Split,25,"Aug 13, 1984",Retired
+Attacking Midfield,right,,"Aug 28, 2009",Kevin-Prince Boateng,"1,86m",16922,"['Ghana', 'Germany']",€4.00m,,Tottenham Hotspur,23,"Mar 6, 1987",Retired
+Left Winger,right,,"Jul 11, 2007",John Utaka,"1,82m",5495,['Nigeria'],€3.50m,,Stade Rennais FC,28,"Jan 8, 1982",Retired
+Left Winger,right,,"Jan 1, 2010",Quincy Owusu-Abeyie,"1,82m",14551,"['Ghana', 'Netherlands']",€1.00m,,: Ablöse €280k,24,"Apr 15, 1986",SV Robinhood Amsterdam
+Left Winger,right,,,Gaël N'Lundulu,"1,83m",177913,"['France', 'Congo']",,,,18,"Apr 29, 1992",Paris Saint-Germain B
+Second Striker,right,,"Aug 1, 2009",Aruna Dindane,"1,74m",9597,"[""Cote d'Ivoire""]",€3.00m,,: Ablöse €500k,29,"Nov 26, 1980",Retired
+Centre-Forward,right,,"Aug 5, 2009",Frédéric Piquionne,"1,88m",5683,"['Martinique', 'France']",€4.50m,,: Ablöse €500k,31,"Dec 8, 1978",Retired
+Centre-Forward,right,,"Jul 11, 2007",David Nugent,"1,80m",33963,"['England', 'Ireland']",€2.50m,,: Ablöse €9.00m,25,"May 2, 1985",Retired
+Centre-Forward,right,,"Aug 27, 2009",Tommy Smith,"1,78m",12401,['England'],€2.00m,,Watford FC,30,"May 22, 1980",Retired
+Centre-Forward,right,,"Sep 1, 2009",Danny Webber,"1,78m",3551,['England'],€1.50m,,Without Club,28,"Dec 28, 1981",Retired
+Centre-Forward,right,,"Jul 1, 2006",Nwankwo Kanu,"1,97m",3133,['Nigeria'],€1.50m,,West Bromwich Albion,33,"Aug 1, 1976",Retired
+Centre-Forward,right,,"Jul 1, 2010",Nadir Çiftçi,"1,80m",77964,"['Türkiye', 'Netherlands']",,,: Ablöse -,18,"Feb 12, 1992",Without Club

@@ -1,0 +1,48 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,,"Jul 27, 2020",Illan Meslier,"1,97m",542586,['France'],€20.00m,,FC Lorient,23,"Mar 2, 2000",Leeds United
+Goalkeeper,left,,"Jul 31, 2021",Kristoffer Klaesson,"1,89m",418561,['Norway'],€1.80m,,Vålerenga Fotball Elite,22,"Nov 27, 2000",Aarhus GF
+Goalkeeper,right,,"Aug 9, 2022",Joel Robles,"1,94m",101118,['Spain'],€1.00m,,Real Betis Balompié,33,"Jun 17, 1990",Estoril Praia
+Goalkeeper,right,,,Dani van den Heuvel,"1,88m",559320,['Netherlands'],,,,20,"May 28, 2003",Club Brugge KV
+Centre-Back,right,,"Aug 29, 2020",Robin Koch,"1,91m",328784,['Germany'],€18.00m,"Returned after loan spell with Eintracht Frankfurt; date: Jun 30, 2024; fee: End of loan",SC Freiburg,26,"Jul 17, 1996",Eintracht Frankfurt
+Centre-Back,left,,"Jan 1, 2020",Pascal Struijk,"1,90m",410708,"['Netherlands', 'Belgium']",€18.00m,,Leeds United U21,23,"Aug 11, 1999",Leeds United
+Centre-Back,left,,"Jan 3, 2023",Maximilian Wöber,"1,88m",263361,['Austria'],€14.00m,"Returned after loan spell with Borussia Mönchengladbach; date: Jun 30, 2024; fee: End of loan",Red Bull Salzburg,25,"Feb 4, 1998",Leeds United
+Centre-Back,right,,"Sep 24, 2020",Diego Llorente,"1,86m",246291,['Spain'],€12.00m,"Returned after loan spell with AS Roma; date: Jun 30, 2024; fee: End of loan",Real Sociedad,29,"Aug 16, 1993",Real Betis Balompié
+Centre-Back,right,,"Jul 1, 2021",Charlie Cresswell,"1,90m",597659,['England'],€5.00m,,Leeds United U21,20,"Aug 17, 2002",FC Toulouse
+Centre-Back,left,,"Aug 13, 2014",Liam Cooper,"1,86m",75067,"['Scotland', 'England']",€3.00m,,Chesterfield FC,31,"Aug 30, 1991",CSKA-Sofia
+Centre-Back,right,,,Diogo Monteiro,"1,86m",670713,"['Portugal', 'Switzerland']",€500k,,,18,"Jan 28, 2005",Leeds United U21
+Centre-Back,,,,Jeremiah Chilokoa-Mullen,,719681,['Scotland'],,,,19,"Jun 17, 2004",Leeds United U21
+Centre-Back,right,,,Kris Moore,,746067,['England'],,,,19,"Nov 13, 2003",Leeds United U21
+Centre-Back,,,,James Debayo,,906891,"['England', 'Nigeria']",,,,17,"Jul 11, 2005",Leeds United U21
+Left-Back,left,,"Jul 6, 2021",Junior Firpo,"1,84m",374139,"['Dominican Republic', 'Spain']",€10.00m,,FC Barcelona,26,"Aug 22, 1996",Leeds United
+Left-Back,left,,"Aug 27, 2021",Leo Fuhr Hjelde,"1,90m",661208,"['Norway', 'England']",€1.50m,,Celtic FC B,19,"Aug 26, 2003",Sunderland AFC
+Right-Back,right,"Hamstring injury - Return expected on Nov 24, 2024","Jul 1, 2022",Rasmus Kristensen,"1,87m",369684,['Denmark'],€13.00m,,Red Bull Salzburg,25,"Jul 11, 1997",Eintracht Frankfurt
+Right-Back,right,,"Jul 1, 2021",Cody Drameh,"1,81m",531957,"['England', 'The Gambia']",€3.50m,,Leeds United U21,21,"Dec 8, 2001",Hull City
+Right-Back,right,,"Jul 1, 2018",Jamie Shackleton,"1,68m",534700,['England'],€2.00m,,Leeds United U21,23,"Oct 8, 1999",Sheffield United
+Right-Back,right,,"Aug 11, 2016",Luke Ayling,"1,83m",67420,['England'],€1.80m,,: Ablöse €870k,31,"Aug 25, 1991",Middlesbrough FC
+Right-Back,right,,"Jul 1, 2023",Archie Gray,"1,87m",922693,"['England', 'Scotland']",€200k,,Leeds United U18,17,"Mar 12, 2006",Tottenham Hotspur
+Defensive Midfield,right,Back injury - Return unknown,"Jul 6, 2022",Tyler Adams,"1,75m",332705,['United States'],€18.00m,,RB Leipzig,24,"Feb 14, 1999",AFC Bournemouth
+Defensive Midfield,left,,"Jul 1, 2022",Marc Roca,"1,84m",336869,['Spain'],€10.00m,"Returned after loan spell with Real Betis Balompié; date: Jun 30, 2024; fee: End of loan",: Ablöse €12.00m,26,"Nov 26, 1996",Real Betis Balompié
+Defensive Midfield,right,,,Alfie McCalmont,"1,75m",471368,"['Northern Ireland', 'England']",€150k,,,23,"Mar 25, 2000",Central Coast Mariners
+Central Midfield,right,,"Jan 30, 2023",Weston McKennie,"1,85m",332697,['United States'],€18.00m,,Juventus FC,24,"Aug 28, 1998",Juventus FC
+Central Midfield,right,,"Jul 4, 2022",Darko Gyabi,"1,96m",663264,"['England', 'Ghana']",€3.00m,,Manchester City U21,19,"Feb 18, 2004",Plymouth Argyle
+Central Midfield,right,,"Jul 1, 2017",Mateusz Klich,"1,83m",92738,['Poland'],€2.00m,,Twente Enschede FC,33,"Jun 13, 1990",D.C. United
+Central Midfield,right,,"Jan 18, 2018",Adam Forshaw,"1,75m",121257,['England'],€1.20m,,Middlesbrough FC,31,"Oct 8, 1991",Plymouth Argyle
+Central Midfield,right,,,Charlie Allen,"1,85m",624264,['Northern Ireland'],,,,19,"Nov 22, 2003",Linfield FC
+Central Midfield,,,,Joe Snowdon,,745692,['England'],,,,19,"Feb 14, 2004",Leeds United U21
+Left Midfield,right,,"Aug 4, 2015",Stuart Dallas,"1,83m",158764,['Northern Ireland'],€1.50m,,: Ablöse €1.90m,32,"Apr 19, 1991",Retired
+Attacking Midfield,right,,"Jul 1, 2022",Brenden Aaronson,"1,77m",393323,['United States'],€25.00m,"Returned after loan spell with 1.FC Union Berlin; date: Jun 30, 2024; fee: End of loan",Red Bull Salzburg,22,"Oct 22, 2000",Leeds United
+Attacking Midfield,right,,"Jan 1, 2022",Sam Greenwood,"1,80m",532178,['England'],€5.00m,,Leeds United U21,21,"Jan 26, 2002",Preston North End
+Attacking Midfield,right,,"Jan 31, 2018",Tyler Roberts,"1,80m",296986,"['Wales', 'England']",€3.00m,,West Bromwich Albion U21,24,"Jan 12, 1999",Northampton Town
+Left Winger,right,,"Jul 7, 2022",Luis Sinisterra,"1,72m",512385,['Colombia'],€22.00m,"Returned after loan spell with AFC Bournemouth; date: Jun 30, 2024; fee: End of loan",: Ablöse €25.00m,24,"Jun 17, 1999",AFC Bournemouth
+Left Winger,right,,"Jul 1, 2021",Crysencio Summerville,"1,74m",474701,"['Netherlands', 'Suriname']",€15.00m,,Leeds United U21,21,"Oct 30, 2001",West Ham United
+Left Winger,left,,,Amari Miller,"1,74m",733308,['England'],,,,20,"Nov 4, 2002",Leeds United U21
+Right Winger,left,,"Jul 2, 2021",Jack Harrison,"1,75m",417346,['England'],€22.00m,,Manchester City,26,"Nov 20, 1996",Everton FC
+Right Winger,right,,"Sep 1, 2022",Wilfried Gnonto,"1,70m",627626,"['Italy', ""Cote d'Ivoire""]",€18.00m,,FC Zürich,19,"Nov 5, 2003",Leeds United
+Right Winger,right,,"Aug 31, 2021",Daniel James,"1,71m",319301,"['Wales', 'England']",€12.00m,,Manchester United,25,"Nov 10, 1997",Leeds United
+Right Winger,left,,"Jan 24, 2020",Ian Poveda,"1,67m",392763,"['Colombia', 'England']",€900k,,Manchester City U23,23,"Feb 9, 2000",Sunderland AFC
+Centre-Forward,left,,"Jan 14, 2023",Georginio Rutter,"1,82m",538977,"['France', 'Martinique']",€18.00m,,TSG 1899 Hoffenheim,21,"Apr 20, 2002",Brighton & Hove Albion
+Centre-Forward,left,,"Jul 31, 2018",Patrick Bamford,"1,85m",183334,"['England', 'Ireland']",€9.00m,,Middlesbrough FC,29,"Sep 5, 1993",Leeds United
+Centre-Forward,left,,"Aug 10, 2020",Joe Gelhardt,"1,79m",503980,['England'],€8.00m,,Wigan Athletic,21,"May 4, 2002",Leeds United
+Centre-Forward,left,"Finger injury - Return expected on Dec 17, 2024","Aug 29, 2020",Rodrigo,"1,82m",131505,"['Spain', 'Brazil']",€6.00m,,Valencia CF,32,"Mar 6, 1991",Al-Gharafa SC
+Centre-Forward,left,,"Jul 19, 2022",Sonny Perkins,"1,89m",670877,"['England', 'Ireland']",€1.20m,,West Ham United U21,19,"Feb 10, 2004",Leyton Orient
+Centre-Forward,,,"Jul 1, 2023",Mateo Joseph,"1,85m",834742,"['Spain', 'England']",€900k,,Leeds United U21,19,"Oct 19, 2003",Leeds United

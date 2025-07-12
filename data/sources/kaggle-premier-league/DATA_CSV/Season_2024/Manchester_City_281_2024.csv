@@ -1,0 +1,25 @@
+position,foot,status,joinedOn,name,height,id,nationality,contract,marketValue,joined,age,dateOfBirth,signedFrom
+Goalkeeper,left,,"Jul 1, 2017",Ederson,"1,88m",238223,"['Brazil', 'Portugal']","Jun 30, 2026",€35.00m,,31,"Aug 17, 1993",SL Benfica
+Goalkeeper,right,,"Jul 1, 2022",Stefan Ortega,"1,85m",85941,"['Germany', 'Spain']","Jun 30, 2026",€9.00m,,32,"Nov 6, 1992",Arminia Bielefeld
+Goalkeeper,right,,"Jul 20, 2021",Scott Carson,"1,88m",14555,['England'],"Jun 30, 2025",€200k,,39,"Sep 3, 1985",Derby County
+Centre-Back,right,,"Sep 29, 2020",Rúben Dias,"1,87m",258004,['Portugal'],"Jun 30, 2027",€80.00m,,27,"May 14, 1997",SL Benfica
+Centre-Back,right,,"Sep 1, 2022",Manuel Akanji,"1,88m",284730,"['Switzerland', 'Nigeria']","Jun 30, 2027",€45.00m,,29,"Jul 19, 1995",Borussia Dortmund
+Centre-Back,left,,"Aug 5, 2020",Nathan Aké,"1,80m",177476,"['Netherlands', ""Cote d'Ivoire""]","Jun 30, 2027",€40.00m,,29,"Feb 18, 1995",AFC Bournemouth
+Centre-Back,right,,"Aug 9, 2016",John Stones,"1,88m",186590,['England'],"Jun 30, 2026",€38.00m,,30,"May 28, 1994",Everton FC
+Left-Back,left,,"Aug 5, 2023",Josko Gvardiol,"1,85m",475959,['Croatia'],"Jun 30, 2028",€75.00m,,22,"Jan 23, 2002",RB Leipzig
+Left-Back,left,,"Jan 1, 2023",Josh Wilson-Esbrand,"1,76m",576121,"['England', 'Jamaica']","Jun 30, 2027",€4.00m,,21,"Dec 26, 2002",Manchester City U21
+Right-Back,right,,"Jul 1, 2022",Rico Lewis,"1,69m",701057,['England'],"Jun 30, 2028",€40.00m,,19,"Nov 21, 2004",Manchester City U18
+Right-Back,right,Team captain,"Jul 14, 2017",Kyle Walker,"1,78m",95424,['England'],"Jun 30, 2026",€13.00m,,34,"May 28, 1990",Tottenham Hotspur
+Defensive Midfield,right,Cruciate ligament tear - Return unknown,"Jul 4, 2019",Rodri,"1,91m",357565,['Spain'],"Jun 30, 2027",€130.00m,,28,"Jun 22, 1996",: Ablöse €70.00m
+Central Midfield,right,,"Sep 1, 2023",Matheus Nunes,"1,83m",601883,"['Portugal', 'Brazil']","Jun 30, 2028",€40.00m,,26,"Aug 27, 1998",Wolverhampton Wanderers
+Central Midfield,right,,"Jul 1, 2023",Mateo Kovacic,"1,77m",51471,['Croatia'],"Jun 30, 2027",€30.00m,,30,"May 6, 1994",Chelsea FC
+Central Midfield,right,,"Aug 23, 2024",İlkay Gündoğan,"1,80m",53622,['Germany'],"Jun 30, 2025",€12.00m,"Joined from FC Barcelona; date: Aug 23, 2024; fee: free transfer",34,"Oct 24, 1990",FC Barcelona
+Attacking Midfield,left,,"Jul 1, 2017",Bernardo Silva,"1,73m",241641,['Portugal'],"Jun 30, 2026",€70.00m,,30,"Aug 10, 1994",: Ablöse €50.00m
+Attacking Midfield,right,,"Aug 30, 2015",Kevin De Bruyne,"1,81m",88755,['Belgium'],"Jun 30, 2025",€45.00m,,33,"Jun 28, 1991",VfL Wolfsburg
+Attacking Midfield,left,,"Jul 1, 2023",James McAtee,"1,80m",583199,['England'],"Jun 30, 2026",€12.00m,,22,"Oct 18, 2002",Manchester City U21
+Left Winger,right,,"Aug 24, 2023",Jérémy Doku,"1,73m",486049,"['Belgium', 'Ghana']","Jun 30, 2028",€65.00m,,22,"May 27, 2002",Stade Rennais FC
+Left Winger,right,,"Aug 5, 2021",Jack Grealish,"1,80m",203460,"['England', 'Ireland']","Jun 30, 2027",€55.00m,,29,"Sep 10, 1995",: Ablöse €117.50m
+Right Winger,left,,"Jul 1, 2017",Phil Foden,"1,71m",406635,['England'],"Jun 30, 2027",€150.00m,,24,"May 28, 2000",Manchester City U18
+Right Winger,left,,"Jul 18, 2024",Savinho,"1,76m",743591,['Brazil'],"Jun 30, 2029",€50.00m,"Joined from ESTAC Troyes; date: Jul 18, 2024; fee: €25.00m",20,"Apr 10, 2004",ESTAC Troyes
+Right Winger,left,Broken leg - Return unknown,"Jul 1, 2023",Oscar Bobb,"1,75m",661207,"['Norway', 'The Gambia']","Jun 30, 2029",€25.00m,,21,"Jul 12, 2003",Manchester City U21
+Centre-Forward,left,,"Jul 1, 2022",Erling Haaland,"1,95m",418560,['Norway'],"Jun 30, 2027",€200.00m,,24,"Jul 21, 2000",Borussia Dortmund

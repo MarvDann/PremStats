@@ -1,0 +1,37 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 2008",Paul Robinson,"1,93m",3630,['England'],€4.60m,Tottenham Hotspur,29,"Oct 15, 1979",Retired
+Goalkeeper,,"Jul 1, 2006",Jason Brown,,15916,['Wales'],€600k,Gillingham FC,27,"May 18, 1982",Retired
+Goalkeeper,right,"Aug 1, 2008",Mark Bunn,"1,83m",49319,"['England', 'Ireland']",€150k,: Ablöse €150k,24,"Nov 16, 1984",Retired
+Centre-Back,,"Jan 25, 2007",Christopher Samba,,29016,"['Congo', 'France']",€5.50m,: Ablöse €500k,25,"Mar 28, 1984",Retired
+Centre-Back,right,"Jan 6, 2005",Ryan Nelsen,"1,85m",28878,['New Zealand'],€3.30m,: Ablöse free transfer,31,"Oct 18, 1977",Retired
+Centre-Back,left,"Jul 1, 2009",Gaël Givet,"1,81m",5286,['France'],€2.70m,Olympique Marseille,27,"Oct 9, 1981",Retired
+Centre-Back,right,"Aug 1, 2006",André Ooijer,"1,87m",4345,['Netherlands'],€2.30m,: Ablöse €3.00m,34,"Jul 11, 1974",Retired
+Centre-Back,right,"Jan 1, 2005",Aaron Mokoena,"1,85m",4756,['South Africa'],€1.80m,: Ablöse €900k,28,"Nov 25, 1980",Retired
+Centre-Back,right,"Jul 1, 2006",Zurab Khizanishvili,"1,86m",9621,['Georgia'],€1.30m,: Ablöse €750k,27,"Oct 6, 1981",Retired
+Centre-Back,left,"Jul 1, 2009",Gavin Gunning,"1,87m",38083,['Ireland'],,Blackburn Rovers U18,18,"Jan 26, 1991",Retired
+Left-Back,left,"Jan 22, 2007",Stephen Warnock,"1,78m",3308,['England'],€5.10m,: Ablöse €2.25m,27,"Dec 12, 1981",Retired
+Left-Back,left,"Jul 1, 2007",Martin Olsson,"1,78m",38073,['Sweden'],€800k,Blackburn Rovers U18,21,"May 17, 1988",Malmö FF
+Right-Back,right,"Jul 1, 2003",Steven Reid,"1,85m",7330,"['Ireland', 'England']",€3.50m,: Ablöse €3.60m,28,"Mar 10, 1981",Retired
+Right-Back,right,"Aug 4, 2008",Danny Simpson,"1,76m",37442,"['England', 'Jamaica']",€1.10m,Manchester United,22,"Jan 4, 1987",Retired
+Right-Back,both,"Jul 1, 2006",Tony Kane,"1,83m",46762,['Northern Ireland'],,Blackburn Rovers U18,21,"Aug 29, 1987",Retired
+Defensive Midfield,both,"Mar 1, 2008",Johann Vogel,"1,77m",4352,['Switzerland'],€1.70m,Without Club,32,"Mar 8, 1977",Retired
+Defensive Midfield,right,"Jul 1, 2001",Tugay Kerimoğlu,"1,76m",3703,['Türkiye'],€800k,: Ablöse €1.95m,38,"Aug 24, 1970",Retired
+Central Midfield,left,"Aug 27, 2004",Morten Gamst Pedersen,"1,83m",22741,['Norway'],€8.70m,Tromsø IL,27,"Sep 8, 1981",Retired
+Central Midfield,both,"Aug 26, 2008",Vincenzo Grella,"1,83m",6021,"['Australia', 'Italy']",€3.30m,Torino FC,29,"Oct 5, 1979",Retired
+Central Midfield,right,"Aug 28, 2008",Keith Andrews,"1,83m",8035,"['Ireland', 'England']",€2.30m,Milton Keynes Dons,28,"Sep 13, 1980",Retired
+Central Midfield,right,"Jul 1, 2003",Paul Gallagher,"1,85m",10501,['Scotland'],€1.75m,Blackburn Rovers U18,24,"Sep 8, 1984",Retired
+Central Midfield,right,"Jul 1, 2013",Alan Judge,"1,68m",42249,['Ireland'],€50k,Notts County,20,"Nov 11, 1988",Woking FC
+Central Midfield,left,"Jul 1, 2006",Bryan Hodge,"1,78m",48106,['Scotland'],€50k,Blackburn Rovers U18,21,"Sep 23, 1987",Retired
+Right Midfield,right,"Jul 10, 2003",Brett Emerton,"1,85m",4367,['Australia'],€4.40m,: Ablöse €3.00m,30,"Feb 22, 1979",Retired
+Right Midfield,,"Jul 1, 2009",Andy Haworth,"1,80m",65416,['England'],,Blackburn Rovers U18,20,"Nov 28, 1988",Retired
+Right Midfield,both,"Jul 1, 2009",Aaron Doran,"1,70m",96148,['Ireland'],,Blackburn Rovers U18,18,"May 13, 1991",Strathspey Thistle FC
+Left Midfield,left,"Jul 1, 2007",Keith Treacy,"1,83m",57064,['Ireland'],€700k,Blackburn Rovers U18,20,"Sep 13, 1988",Retired
+Attacking Midfield,right,"Jan 17, 2007",David Dunn,"1,78m",4243,['England'],€4.00m,: Ablöse €3.20m,29,"Dec 27, 1979",Retired
+Attacking Midfield,left,"Jul 1, 2008",Carlos Villanueva,"1,73m",53164,['Chile'],€1.90m,: Ablöse ?,23,"Feb 5, 1986",Audax Italiano
+Centre-Forward,right,"Jan 14, 2011",Roque Santa Cruz,"1,93m",215,"['Paraguay', 'Spain']",€10.00m,: Ablöse free transfer,27,"Aug 16, 1981",Club Libertad Asunción
+Centre-Forward,right,"Jul 1, 2006",Benni McCarthy,"1,84m",3091,['South Africa'],€8.00m,FC Porto,31,"Nov 12, 1977",Retired
+Centre-Forward,right,"Jan 30, 2009",El-Hadji Diouf,"1,80m",3604,"['Senegal', 'France']",€4.10m,Sunderland AFC,28,"Jan 15, 1981",Retired
+Centre-Forward,right,"Jul 1, 2006",Matt Derbyshire,"1,80m",15175,['England'],€3.50m,Blackburn Rovers Reserves,23,"Apr 14, 1986",Retired
+Centre-Forward,right,"Jul 3, 2006",Jason Roberts,"1,85m",3666,"['Grenada', 'England']",€2.80m,Wigan Athletic,31,"Jan 25, 1978",Retired
+Centre-Forward,left,"Sep 1, 2008",Robbie Fowler,"1,80m",3225,['England'],€400k,Without Club,34,"Apr 9, 1975",Retired
+Centre-Forward,right,,Marcus Marshall,"1,78m",92455,['England'],,,19,"Oct 7, 1989",Eastwood Community FC

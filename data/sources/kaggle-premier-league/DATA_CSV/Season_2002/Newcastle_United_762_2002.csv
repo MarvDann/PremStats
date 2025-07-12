@@ -1,0 +1,35 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jul 1, 1999",Jonny Brain,"1,93m",67372,['England'],Carlisle United,20,"Feb 11, 1983",Retired
+Goalkeeper,right,"Jul 1, 1997",Shay Given,"1,85m",3146,['Ireland'],Blackburn Rovers,27,"Apr 20, 1976",Retired
+Goalkeeper,right,"Jul 1, 1993",Steve Harper,"1,88m",3562,['England'],Seaham Red Star,28,"Mar 14, 1975",Retired
+Goalkeeper,,"Jan 31, 2003",Tony Caig,"1,83m",3563,['England'],Hibernian FC,29,"Apr 11, 1974",Retired
+Goalkeeper,,"Aug 13, 1999",John Karelse,,3561,['Netherlands'],: Ablöse €1.20m,33,"May 17, 1970",Retired
+Goalkeeper,right,,Adam Collin,"1,95m",3564,['England'],,18,"Dec 9, 1984",Retired
+Centre-Back,right,"Mar 1, 2001",Andrew O'Brien,"1,91m",3228,"['Ireland', 'England']",Bradford City,24,"Jun 29, 1979",Retired
+Centre-Back,right,"Jul 1, 1997",Aaron Hughes,"1,83m",3580,['Northern Ireland'],Newcastle United U18,23,"Nov 8, 1979",Retired
+Centre-Back,right,"Jul 12, 2002",Titus Bramble,"1,92m",3130,"['England', 'Montserrat']",Ipswich Town,21,"Jul 31, 1981",Retired
+Centre-Back,right,"Jan 31, 2003",Jonathan Woodgate,"1,88m",3224,['England'],Leeds United,23,"Jan 22, 1980",Retired
+Centre-Back,right,"Jul 1, 1998",Steven Caldwell,"1,83m",3462,['Scotland'],Newcastle United U18,22,"Sep 12, 1980",Retired
+Centre-Back,right,"Jan 1, 1998",Nikolaos Dabizas,"1,88m",3581,['Greece'],: Ablöse €2.00m,29,"Aug 3, 1973",Retired
+Left-Back,left,"Jul 1, 2001",Robbie Elliott,"1,79m",3577,['England'],: Ablöse free transfer,29,"Dec 25, 1973",Retired
+Left-Back,left,"Jan 8, 2001",Wayne Quinn,"1,77m",15836,['England'],Sheffield United,26,"Nov 19, 1976",Retired
+Left-Back,left,"Aug 1, 2006",Olivier Bernard,"1,75m",3301,['France'],: Ablöse free transfer,23,"Oct 14, 1979",Retired
+Right-Back,right,"Jan 30, 1998",Andy Griffin,"1,73m",3579,['England'],: Ablöse €2.50m,24,"Mar 17, 1979",Retired
+Defensive Midfield,right,"Sep 1, 2000",Clarence Acuña,"1,74m",3262,['Chile'],Club Universidad de Chile,28,"Feb 8, 1975",Retired
+Defensive Midfield,right,"Jul 1, 2000",Brian Kerr,"1,73m",3260,['Scotland'],Newcastle United Reserves,21,"Oct 12, 1981",Retired
+Central Midfield,right,"Jan 31, 2002",Jermaine Jenas,"1,81m",3461,['England'],: Ablöse €7.50m,20,"Feb 18, 1983",Retired
+Central Midfield,,"Feb 6, 1998",Gary Speed,,3459,['Wales'],: Ablöse €8.25m,33,"Sep 8, 1969",---
+Central Midfield,right,"Jul 1, 1997",Jamie McClen,"1,70m",3565,['England'],Newcastle United U18,24,"May 13, 1979",Retired
+Central Midfield,left,"Jul 1, 2002",Hugo Viana,"1,78m",3480,['Portugal'],Sporting CP,20,"Jan 15, 1983",Retired
+Right Midfield,right,"Jan 1, 2006",Nolberto Solano,"1,76m",3460,['Peru'],: Ablöse €2.25m,28,"Dec 12, 1974",Retired
+Right Midfield,right,"Jul 1, 1999",Kieron Dyer,"1,70m",3118,"['England', 'Antigua and Barbuda']",Ipswich Town,24,"Dec 29, 1978",Retired
+Right Midfield,right,"Mar 25, 2003",Darren Ambrose,"1,83m",4086,['England'],Ipswich Town,19,"Feb 29, 1984",Retired
+Attacking Midfield,right,"Jul 1, 2000",Christian Bassedas,"1,78m",3294,"['Argentina', 'Italy']",: Ablöse €5.30m,30,"Feb 16, 1973",Retired
+Left Winger,right,"Jul 1, 2001",Craig Bellamy,"1,73m",3297,['Wales'],Coventry City,23,"Jul 13, 1979",Retired
+Left Winger,both,"Aug 1, 2001",Laurent Robert,"1,76m",3316,['France'],: Ablöse €14.33m,28,"May 21, 1975",Retired
+Centre-Forward,right,"Jul 1, 2001",Michael Chopra,"1,75m",3463,"['England', 'India']",Newcastle United U18,19,"Dec 23, 1983",Without Club
+Centre-Forward,right,"Jul 1, 2001",Richard Offiong,"1,85m",20902,"['England', 'Ghana']",Newcastle United U18,19,"Dec 17, 1983",Retired
+Centre-Forward,right,"Jul 30, 1996",Alan Shearer,"1,83m",3110,['England'],Blackburn Rovers,32,"Aug 13, 1970",Retired
+Centre-Forward,right,"Jul 1, 2000",Carl Cort,"1,93m",3093,"['Guyana', 'England']",: Ablöse €10.50m,25,"Nov 1, 1977",Retired
+Centre-Forward,right,"Jul 1, 2000",Lomana LuaLua,"1,80m",3458,"['DR Congo', 'England']",Colchester United,22,"Dec 28, 1980",Retired
+Centre-Forward,right,"Jul 1, 2000",Shola Ameobi,"1,91m",3276,"['Nigeria', 'England']",Newcastle United U18,21,"Oct 12, 1981",Retired

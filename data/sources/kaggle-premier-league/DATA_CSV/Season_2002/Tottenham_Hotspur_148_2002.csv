@@ -1,0 +1,38 @@
+position,foot,joinedOn,name,height,id,nationality,age,currentClub,dateOfBirth,signedFrom
+Midfielder,,,Boubacar Djibolalahou,-m,63533,['Niger'],,Unknown,,
+Goalkeeper,,,Gavin Kelly,"1,83m",114044,['England'],22,Retired,"Jun 3, 1981",
+Goalkeeper,,"Jun 5, 2000",Neil Sullivan,"1,83m",4045,"['Scotland', 'England']",33,Retired,"Feb 24, 1970",: Ablöse free transfer
+Goalkeeper,,"Aug 15, 2001",Kasey Keller,,3608,['United States'],33,Retired,"Nov 29, 1969",: Ablöse free transfer
+Goalkeeper,,"Jan 1, 2003",Lars Hirschfeld,,3609,"['Canada', 'Germany']",24,Retired,"Oct 17, 1978",Calgary Storm
+Goalkeeper,,"Jul 1, 2001",Rob Burch,"1,88m",27814,['England'],19,Retired,"Oct 8, 1983",Tottenham Hotspur U18
+Centre-Back,right,"Jul 1, 2001",Goran Bunjevcevic,"1,90m",3802,['Serbia'],30,---,"Feb 17, 1973",Red Star Belgrade
+Centre-Back,right,"Jul 1, 1999",Chris Perry,"1,75m",4051,['England'],30,Retired,"Apr 26, 1973",: Ablöse €6.00m
+Centre-Back,right,"Mar 1, 2000",Gary Doherty,"1,88m",4052,['Ireland'],23,Retired,"Jan 31, 1980",: Ablöse €1.50m
+Centre-Back,right,"Jul 1, 1998",Ledley King,"1,88m",3360,"['England', 'Antigua and Barbuda']",22,Retired,"Oct 12, 1980",Tottenham Hotspur U18
+Centre-Back,left,"Jan 1, 2000",Anthony Gardner,"1,96m",4053,"['England', 'Jamaica']",22,Retired,"Sep 19, 1980",: Ablöse €1.50m
+Centre-Back,right,"Jul 1, 2001",Dean Richards,"1,88m",3829,['England'],29,---,"Jun 9, 1974",Southampton FC
+Left-Back,right,"Nov 5, 1998",Mauricio Taricco,"1,75m",4050,"['Argentina', 'Italy']",30,Retired,"Mar 10, 1973",Ipswich Town
+Left-Back,left,"Jul 1, 2000",Ben Thatcher,"1,78m",3304,"['Wales', 'England']",27,Retired,"Nov 30, 1975",: Ablöse €7.54m
+Right-Back,right,"Jul 1, 1993",Stephen Carr,"1,75m",4046,['Ireland'],26,Retired,"Aug 29, 1976",Tottenham Hotspur U18
+Right-Back,right,,Ronnie Henry,"1,80m",70798,['England'],19,Potters Bar Town,"Jan 20, 1984",
+Defensive Midfield,,"Jan 1, 1999",Steffen Freund,,3990,['Germany'],33,Retired,"Jan 19, 1970",Borussia Dortmund
+Defensive Midfield,left,"Jul 1, 2002",Jonathan Blondel,"1,73m",3354,['Belgium'],19,Retired,"Apr 3, 1984",Excelsior Mouscron (-2009)
+Defensive Midfield,right,"Jan 1, 2003",Kazuyuki Toda,"1,79m",4057,['Japan'],25,Retired,"Dec 30, 1977",: Ablöse ?
+Central Midfield,right,"Jul 1, 2002",Jamie Redknapp,"1,83m",3424,['England'],30,Retired,"Jun 25, 1973",: Ablöse free transfer
+Right Midfield,right,"Jul 1, 1992",Darren Anderton,"1,85m",3277,['England'],31,Retired,"Mar 3, 1972",: Ablöse €2.70m
+Right Midfield,left,"Jul 1, 1997",Stephen Clemence,"1,80m",3641,['England'],25,Retired,"Mar 31, 1978",Tottenham Hotspur U18
+Right Midfield,right,"Dec 31, 1999",Simon Davies,"1,78m",4056,['Wales'],23,Retired,"Oct 23, 1979",Peterborough United
+Left Midfield,right,"Jul 1, 2002",Milenko Acimovic,"1,86m",3261,"['Slovenia', 'Serbia']",26,Retired,"Feb 15, 1977",Red Star Belgrade
+Left Midfield,left,"Jul 1, 2001",Christian Ziege,"1,86m",916,['Germany'],31,Retired,"Feb 1, 1972",: Ablöse €6.50m
+Left Midfield,left,"Jul 1, 1999",Matthew Etherington,"1,78m",3788,['England'],21,Retired,"Aug 14, 1981",Peterborough United
+Attacking Midfield,right,"Jul 1, 2001",Gustavo Poyet,"1,88m",3361,"['Uruguay', 'Spain']",35,Retired,"Nov 15, 1967",: Ablöse €3.40m
+Attacking Midfield,right,"Jul 1, 1999",Øyvind Leonhardsen,"1,77m",4071,['Norway'],32,Retired,"Aug 17, 1970",: Ablöse €4.50m
+Attacking Midfield,,"Jul 1, 2002",Rohan Ricketts,,4047,"['England', 'Jamaica']",20,Retired,"Dec 22, 1982",: Ablöse free transfer
+Left Winger,right,"Jul 1, 2003",Mark Yeates,"1,74m",15167,['Ireland'],18,Retired,"Jan 11, 1985",Tottenham Hotspur U18
+Second Striker,right,"Jul 1, 2000",Sergiy Rebrov,"1,75m",3122,['Ukraine'],29,Retired,"Jun 3, 1974",: Ablöse €18.00m
+Second Striker,right,"Nov 1, 1996",Steffen Iversen,"1,85m",3478,['Norway'],26,Retired,"Nov 10, 1976",: Ablöse €3.25m
+Centre-Forward,right,"Aug 1, 2002",Lee Barnard,"1,78m",4058,['England'],18,Retired,"Jul 18, 1984",Tottenham Hotspur U18
+Centre-Forward,right,"Jul 28, 1997",Les Ferdinand,"1,80m",3645,"['England', 'St. Lucia']",36,Retired,"Dec 8, 1966",Newcastle United
+Centre-Forward,,"Jul 1, 2001",Teddy Sheringham,,3392,['England'],37,Retired,"Apr 2, 1966",Manchester United
+Centre-Forward,right,"Feb 2, 2009",Robbie Keane,"1,75m",3144,['Ireland'],22,Retired,"Jul 8, 1980",: Ablöse €16.70m
+Centre-Forward,right,,Jamie Slabber,"1,88m",16740,['England'],18,Retired,"Dec 31, 1984",

@@ -1,0 +1,48 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Aug 7, 2022",Neto,"1,90m",111819,"['Brazil', 'Italy']",€2.50m,FC Barcelona,33,"Jul 19, 1989",Arsenal FC
+Goalkeeper,right,,"Jul 1, 2020",Mark Travers,"1,91m",357658,['Ireland'],€2.00m,AFC Bournemouth U21,24,"May 18, 1999",AFC Bournemouth
+Goalkeeper,right,,"Jan 26, 2023",Darren Randolph,"1,87m",51321,"['Ireland', 'United States']",€400k,West Ham United,36,"May 12, 1987",Retired
+Goalkeeper,right,,"Aug 1, 2021",Will Dennis,"1,88m",582078,['England'],€150k,AFC Bournemouth U21,22,"Jul 10, 2000",AFC Bournemouth
+Goalkeeper,right,,,Cameron Plain,"1,87m",655136,['England'],€100k,,21,"Sep 24, 2001",Poole Town FC
+Centre-Back,left,,"Aug 8, 2022",Marcos Senesi,"1,85m",469781,"['Argentina', 'Italy']",€22.00m,: Ablöse €15.00m,26,"May 10, 1997",AFC Bournemouth
+Centre-Back,right,,"Jan 31, 2023",Ilya Zabarnyi,"1,89m",659089,['Ukraine'],€20.00m,Dynamo Kyiv,20,"Sep 1, 2002",AFC Bournemouth
+Centre-Back,left,,"Jul 1, 2019",Lloyd Kelly,"1,90m",480116,['England'],€18.00m,Bristol City,24,"Oct 6, 1998",Newcastle United
+Centre-Back,right,,"Jan 22, 2019",Chris Mepham,"1,90m",480987,"['Wales', 'England']",€8.00m,Brentford FC,25,"Nov 5, 1997",Sunderland AFC
+Centre-Back,right,,"Sep 1, 2022",Jack Stephens,"1,85m",163744,['England'],€3.50m,Southampton FC,29,"Jan 27, 1994",Southampton FC
+Centre-Back,right,,"Jan 5, 2022",James Hill,"1,84m",611793,['England'],€1.00m,Fleetwood Town,21,"Jan 10, 2002",AFC Bournemouth
+Centre-Back,,,,Chris Francis,,855087,['England'],,,20,"Nov 15, 2002",Crystal Palace U21
+Centre-Back,,,,Owen Bevan,"1,86m",583990,"['Wales', 'England']",,,19,"Oct 26, 2003",AFC Bournemouth U21
+Centre-Back,right,,,Max Kinsey,"1,84m",939615,['England'],,,18,"Feb 2, 2005",AFC Bournemouth U21
+Left-Back,left,Knee injury - Return unknown,"Jan 30, 2023",Matías Viña,"1,75m",439072,"['Uruguay', 'Italy']",€8.00m,AS Roma,25,"Nov 9, 1997",CR Flamengo
+Left-Back,left,,"Aug 1, 2020",Jordan Zemura,"1,73m",633530,"['Zimbabwe', 'England']",€6.00m,AFC Bournemouth U21,23,"Nov 14, 1999",Udinese Calcio
+Left-Back,left,,,Ben Greenwood,"1,70m",646333,"['Ireland', 'England']",€100k,,20,"Feb 20, 2003",Weymouth FC
+Right-Back,right,,"Jul 8, 2019",Jack Stacey,"1,80m",249356,['England'],€2.00m,Luton Town,27,"Apr 6, 1996",Norwich City
+Right-Back,right,Calf injury - Return unknown,"Jul 1, 2022",Ryan Fredericks,"1,81m",140191,"['England', 'Scotland']",€1.50m,West Ham United,30,"Oct 10, 1992",Without Club
+Right-Back,right,,"Jan 28, 2014",Adam Smith,"1,74m",61841,['England'],€1.20m,Tottenham Hotspur,32,"Apr 29, 1991",AFC Bournemouth
+Right-Back,right,,,Brooklyn Genesini,"1,80m",655173,['England'],€50k,,21,"Nov 18, 2001",Weymouth FC
+Defensive Midfield,right,,"Aug 7, 2018",Jefferson Lerma,"1,79m",262980,['Colombia'],€20.00m,Levante UD,28,"Oct 25, 1994",Crystal Palace
+Defensive Midfield,right,,"Jan 29, 2021",Ben Pearson,"1,76m",183302,['England'],€2.20m,Preston North End,28,"Jan 4, 1995",Stoke City
+Midfielder,,,,Jack Wadham,"1,83m",733434,['England'],€100k,,20,"Feb 25, 2003",Worthing FC
+Central Midfield,left,,"Jul 29, 2019",Philip Billing,"1,93m",320411,"['Denmark', 'Nigeria']",€20.00m,Huddersfield Town,27,"Jun 11, 1996",AFC Bournemouth
+Central Midfield,right,,"Jul 8, 2016",Lewis Cook,"1,75m",249089,['England'],€10.00m,Leeds United,26,"Feb 3, 1997",AFC Bournemouth
+Central Midfield,left,,"Aug 31, 2021",Ryan Christie,"1,78m",188077,['Scotland'],€10.00m,Celtic FC,28,"Feb 22, 1995",AFC Bournemouth
+Central Midfield,right,,"Jul 1, 2022",Joe Rothwell,"1,85m",183293,['England'],€4.00m,Blackburn Rovers,28,"Jan 11, 1995",Leeds United
+Central Midfield,right,,"Aug 1, 2020",Gavin Kilkenny,"1,75m",469064,['Ireland'],€400k,AFC Bournemouth U21,23,"Feb 1, 2000",Swindon Town
+Central Midfield,right,,,Ferdinand Okoh,"1,8m",854708,"['England', 'Nigeria']",,,19,"Jun 3, 2004",Wingate & Finchley FC
+Left Midfield,left,,"Aug 1, 2022",Marcus Tavernier,"1,78m",399434,['England'],€17.00m,Middlesbrough FC,24,"Mar 22, 1999",AFC Bournemouth
+Attacking Midfield,right,,"Jul 1, 2023",Hamed Junior Traoré,"1,77m",391065,"[""Cote d'Ivoire""]",€22.00m,US Sassuolo,23,"Feb 16, 2000",AJ Auxerre
+Attacking Midfield,right,,"Jul 3, 2021",Emiliano Marcondes,"1,82m",232964,"['Denmark', 'Brazil']",€1.50m,Brentford FC,28,"Mar 9, 1995",Norwich City
+Left Winger,left,,"Jan 19, 2023",Dango Ouattara,"1,77m",823231,['Burkina Faso'],€25.00m,FC Lorient,21,"Feb 11, 2002",AFC Bournemouth
+Left Winger,right,,"Aug 1, 2020",Jaidon Anthony,"1,83m",684210,"['England', 'Jamaica']",€9.00m,AFC Bournemouth U21,23,"Dec 1, 1999",Burnley FC
+Left Winger,right,,"Jan 31, 2022",Siriki Dembélé,"1,73m",488656,"['Scotland', ""Cote d'Ivoire""]",€2.00m,Peterborough United,26,"Sep 7, 1996",Oxford United
+Left Winger,right,,"Jul 1, 2014",Junior Stanislas,"1,83m",87672,"['England', 'St. Lucia']",€500k,: Ablöse free transfer,33,"Nov 26, 1989",Retired
+Right Winger,left,,"Jul 1, 2018",David Brooks,"1,73m",277033,"['Wales', 'England']",€12.00m,Sheffield United,25,"Jul 8, 1997",AFC Bournemouth
+Right Winger,right,,"Jan 27, 2023",Antoine Semenyo,"1,85m",583255,"['Ghana', 'England']",€9.00m,Bristol City,23,"Jan 7, 2000",AFC Bournemouth
+Right Winger,left,,,Dominic Sadi,"1,74m",936901,['England'],€100k,,19,"Sep 2, 2003",Carlisle United
+Right Winger,left,,,Michael Dacosta,"1,86m",854722,"['Spain', 'Equatorial Guinea']",,,18,"Mar 5, 2005",AFC Bournemouth U21
+Centre-Forward,right,,"Jan 4, 2019",Dominic Solanke,"1,86m",258889,"['England', 'Nigeria']",€20.00m,: Ablöse €21.20m,25,"Sep 14, 1997",Tottenham Hotspur
+Centre-Forward,right,,"Jan 31, 2022",Kieffer Moore,"1,96m",275590,"['Wales', 'England']",€4.00m,Cardiff City,30,"Aug 8, 1992",Sheffield United
+Centre-Forward,right,,"Aug 31, 2021",Jamal Lowe,"1,83m",239949,"['Jamaica', 'England']",€1.50m,: Ablöse €1.70m,28,"Jul 21, 1994",Sheffield Wednesday
+Centre-Forward,right,,"Jul 1, 2021",Christian Saydee,"1,84m",655835,"['England', 'Liberia']",€400k,AFC Bournemouth U21,21,"May 10, 2002",Portsmouth FC
+Centre-Forward,right,,,Euan Pollock,"1,73m",655142,['England'],,,20,"Oct 3, 2002",Weymouth FC
+Centre-Forward,,,,Daniel Adu-Adjei,,963878,"['England', 'Ghana']",,,18,"Jun 21, 2005",Carlisle United

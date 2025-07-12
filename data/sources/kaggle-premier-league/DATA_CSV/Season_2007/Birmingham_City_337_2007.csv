@@ -1,0 +1,34 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Mar 22, 2004",Maik Taylor,"1,93m",3723,"['Northern Ireland', 'Germany']",€2.75m,Fulham FC,36,"Sep 4, 1971",Retired
+Goalkeeper,right,"Jul 1, 2003",Colin Doyle,"1,96m",28728,['Ireland'],€700k,Birmingham City U18,23,"Jun 12, 1985",Bradford City
+Goalkeeper,right,"Jul 1, 2007",Richard Kingson,"1,83m",7125,"['Ghana', 'Türkiye']",€500k,: Ablöse free transfer,30,"Jun 13, 1978",Retired
+Goalkeeper,,"Jul 1, 2015",Adam Legzdins,"1,90m",43858,"['England', 'Latvia']",€100k,Leyton Orient,21,"Nov 28, 1986",Dundee FC
+Centre-Back,,"Aug 10, 2007",Johan Djourou,,34561,"['Switzerland', ""Cote d'Ivoire""]",€3.75m,: Ablöse free transfer,21,"Jan 18, 1987",Retired
+Centre-Back,both,"Aug 3, 2007",Liam Ridgewell,"1,88m",4070,['England'],€3.75m,: Ablöse €3.00m,23,"Jul 21, 1984",Retired
+Centre-Back,left,"Aug 1, 2007",Rafael,"1,82m",5640,"['Brazil', 'France']",€3.50m,: Ablöse €500k,27,"Dec 17, 1980",Retired
+Centre-Back,both,"Jul 1, 2006",Radhi Jaïdi,"1,92m",19310,"['Tunisia', 'England']",€1.75m,: Ablöse €3.25m,32,"Aug 30, 1975",Retired
+Centre-Back,left,"Jan 1, 2006",Mat Sadler,"1,80m",3930,['England'],€1.10m,Birmingham City U21,23,"Feb 26, 1985",Retired
+Centre-Back,right,"Jan 1, 2004",Martin Taylor,"1,95m",3822,['England'],€1.00m,Blackburn Rovers,28,"Nov 9, 1979",Retired
+Centre-Back,right,"Jul 1, 2007",Krystian Pearce,"1,85m",62331,"['Barbados', 'England']",€100k,Birmingham City U18,18,"Jan 5, 1990",Alvechurch FC
+Left-Back,left,"Aug 3, 2007",Franck Queudrue,"1,83m",3711,['France'],€3.25m,Fulham FC,29,"Aug 27, 1978",Retired
+Left-Back,left,"Jan 1, 2008",David Murphy,"1,85m",3868,['England'],€2.25m,Hibernian FC,24,"Mar 1, 1984",Retired
+Right-Back,right,"Jul 1, 2006",Stephen Kelly,"1,84m",12125,['Ireland'],€2.25m,Tottenham Hotspur,24,"Sep 6, 1983",Retired
+Right-Back,right,"Jul 1, 2007",Stuart Parnaby,"1,78m",3866,['England'],€1.50m,Middlesbrough FC,25,"Jul 19, 1982",Retired
+Defensive Midfield,right,"Aug 1, 2007",Borja Oubiña,"1,78m",15715,['Spain'],€3.00m,Celta de Vigo,26,"May 17, 1982",Retired
+Defensive Midfield,left,"Jul 1, 2005",Mehdi Nafti,"1,79m",7862,"['Tunisia', 'France']",€2.50m,Racing Santander,29,"Nov 28, 1978",Retired
+Defensive Midfield,right,"Jul 1, 2007",Wilson Palacios,"1,81m",58361,['Honduras'],€1.00m,CD Olimpia,23,"Jul 29, 1984",Retired
+Central Midfield,right,"Jul 1, 2007",Fabrice Muamba,"1,88m",35586,"['England', 'DR Congo']",€4.50m,: Ablöse €6.00m,20,"Apr 6, 1988",Retired
+Central Midfield,right,"Jan 31, 2007",Sebastian Larsson,"1,78m",31720,['Sweden'],€4.00m,: Ablöse €1.50m,23,"Jun 6, 1985",Retired
+Central Midfield,right,"Mar 8, 2002",Damien Johnson,"1,73m",3940,['Northern Ireland'],€1.25m,Blackburn Rovers,29,"Nov 18, 1978",Retired
+Central Midfield,right,"Jul 1, 2006",Neil Danns,"1,75m",4108,"['Guyana', 'England']",€950k,Colchester United,25,"Nov 23, 1982",Retired
+Central Midfield,right,"Jul 1, 2009",Jordon Mutch,"1,84m",57207,['England'],,Birmingham City U18,16,"Dec 2, 1991",Gold Coast Knights
+Attacking Midfield,left,"Jul 1, 2007",Olivier Kapo,"1,84m",5438,"['France', ""Cote d'Ivoire""]",€4.00m,: Ablöse €2.30m,27,"Sep 27, 1980",Retired
+Left Winger,left,"Aug 16, 2006",Gary McSheffrey,"1,73m",25383,['England'],€4.25m,Coventry City,25,"Aug 13, 1982",Retired
+Left Winger,right,"Jul 1, 2007",Daniël de Ridder,"1,80m",15894,"['Netherlands', 'Israel']",€2.00m,: Ablöse free transfer,24,"Mar 6, 1984",Retired
+Right Winger,left,"Jul 1, 2007",Sone Aluko,"1,73m",42198,"['Nigeria', 'England']",€50k,Birmingham City U18,19,"Feb 19, 1989",Retired
+Second Striker,left,"Jan 18, 2008",James McFadden,"1,78m",9956,['Scotland'],€8.00m,: Ablöse €7.50m,25,"Apr 14, 1983",Retired
+Centre-Forward,right,"Jul 1, 2006",Cameron Jerome,"1,85m",35855,"['Grenada', 'England']",€5.50m,: Ablöse €4.45m,21,"Aug 14, 1986",Without Club
+Centre-Forward,right,"Jul 1, 2005",Mikael Forssell,"1,84m",3127,"['Finland', 'Germany']",€4.75m,Chelsea FC,27,"Mar 15, 1981",Retired
+Centre-Forward,right,"Jan 21, 2008",Mauro Zárate,"1,75m",26456,"['Argentina', 'Chile']",€4.00m,: Ablöse free transfer,21,"Mar 18, 1987",Without Club
+Centre-Forward,right,"Jul 1, 2007",Garry O'Connor,"1,86m",15708,['Scotland'],€3.25m,: Ablöse €4.00m,25,"May 7, 1983",Retired
+Centre-Forward,right,"Jan 1, 2007",Rowan Vine,"1,85m",7930,['England'],€1.25m,: Ablöse €2.50m,25,"Sep 21, 1982",Southall United

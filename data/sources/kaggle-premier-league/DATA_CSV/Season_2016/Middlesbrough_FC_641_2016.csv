@@ -1,0 +1,36 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 7, 2016",Víctor Valdés,"1,83m",7589,['Spain'],€2.00m,Manchester United,35,"Jan 14, 1982",Retired
+Goalkeeper,left,"Jul 29, 2016",Brad Guzan,"1,93m",39471,"['United States', 'Poland']",€1.00m,: Ablöse free transfer,32,"Sep 9, 1984",Atlanta United FC
+Goalkeeper,right,"Jul 4, 2019",Tomás Mejías,"1,95m",62947,['Spain'],€300k,Omonia Nicosia,28,"Jan 30, 1989",Without Club
+Goalkeeper,right,"Jul 1, 2011",Connor Ripley,"1,91m",163531,['England'],€250k,Middlesbrough FC U18,24,"Feb 13, 1993",Port Vale FC
+Goalkeeper,left,"Aug 17, 2013",Dimitrios Konstantopoulos,"1,93m",50552,['Greece'],€250k,: Ablöse free transfer,38,"Nov 29, 1978",Retired
+Centre-Back,right,"Aug 30, 2016",Calum Chambers,"1,82m",215118,['England'],€14.00m,Arsenal FC,22,"Jan 20, 1995",Cardiff City
+Centre-Back,left,"Jul 1, 2011",Ben Gibson,"1,85m",128904,['England'],€8.00m,Middlesbrough FC U18,24,"Jan 15, 1993",Stoke City
+Centre-Back,right,"Jul 1, 2016",Bernardo Espinosa,"1,92m",64598,"['Colombia', 'Spain']",€2.50m,Sporting Gijón,27,"Jul 11, 1989",Marbella FC
+Centre-Back,right,"Jan 24, 2014",Daniel Ayala,"1,90m",78966,['Spain'],€2.00m,: Ablöse €420k,26,"Nov 7, 1990",Potters Bar Town
+Centre-Back,right,"Jul 6, 2015",Alex Baptiste,"1,80m",16660,['England'],€1.00m,Bolton Wanderers,31,"Jan 31, 1986",Without Club
+Centre-Back,right,"Jul 1, 2015",Dael Fry,"1,90m",314140,['England'],€250k,Middlesbrough FC U21,19,"Aug 30, 1997",Middlesbrough FC
+Left-Back,left,"Jul 30, 2012",George Friend,"1,88m",77544,['England'],€1.50m,Doncaster Rovers,29,"Oct 19, 1987",Retired
+Left-Back,left,"Jul 30, 2014",James Husband,"1,79m",167393,['England'],€500k,Doncaster Rovers,23,"Jan 3, 1994",Blackpool FC
+Right-Back,right,"Jul 15, 2016",Antonio Barragán,"1,86m",32522,['Spain'],€3.00m,Valencia CF,30,"Jun 12, 1987",Retired
+Right-Back,right,"Aug 12, 2016",Fábio,"1,72m",61891,"['Brazil', 'Portugal']",€2.00m,Cardiff City,26,"Jul 9, 1990",Grêmio Foot-Ball Porto Alegrense
+Defensive Midfield,right,"Jul 4, 2016",Marten de Roon,"1,85m",133179,['Netherlands'],€10.00m,Atalanta BC,26,"Mar 29, 1991",Atalanta BC
+Defensive Midfield,right,"Feb 1, 2016",Julien De Sart,"1,87m",129592,['Belgium'],€2.00m,: Ablöse €2.60m,22,"Dec 23, 1994",Al-Rayyan SC
+Defensive Midfield,right,"Jan 31, 2017",Adlène Guédioura,"1,78m",74768,"['Algeria', 'France']",€1.00m,Watford FC,31,"Nov 12, 1985",Retired
+Central Midfield,left,"Jul 18, 2016",Gastón Ramírez,"1,83m",123742,['Uruguay'],€6.00m,Southampton FC,26,"Dec 2, 1990",CA Peñarol
+Central Midfield,right,"Aug 13, 2014",Adam Clayton,"1,75m",73067,['England'],€3.00m,: Ablöse €1.87m,28,"Jan 14, 1989",Matlock Town
+Central Midfield,right,"Jan 28, 2015",Adam Forshaw,"1,75m",121257,['England'],€3.00m,Wigan Athletic,25,"Oct 8, 1991",Plymouth Argyle
+Central Midfield,left,"Sep 1, 2015",Carlos de Pena,"1,77m",257740,"['Uruguay', 'Italy']",€2.00m,Club Nacional,25,"Mar 11, 1992",Esporte Clube Bahia
+Central Midfield,right,"Jul 1, 2012",Grant Leadbitter,"1,77m",13796,['England'],€2.00m,Ipswich Town,31,"Jan 7, 1986",Retired
+Left Midfield,left,"Jul 1, 2011",Adam Reach,"1,85m",163530,['England'],€4.50m,Middlesbrough FC U18,24,"Feb 3, 1993",Without Club
+Left Midfield,left,"Jul 16, 2015",Stewart Downing,"1,80m",4063,['England'],€3.50m,: Ablöse €7.90m,32,"Jul 22, 1984",Retired
+Left Winger,right,"Jul 1, 2016",Viktor Fischer,"1,81m",95755,['Denmark'],€5.00m,Ajax Amsterdam,23,"Jun 9, 1994",Retired
+Right Winger,right,"Aug 31, 2016",Adama Traoré,"1,78m",204103,"['Spain', 'Mali']",€8.00m,: Ablöse €8.25m,21,"Jan 25, 1996",Fulham FC
+Right Winger,right,"Aug 8, 2013",Albert Adomah,"1,85m",83430,"['Ghana', 'England']",€2.50m,: Ablöse ?,29,"Dec 13, 1987",Walsall FC
+Centre-Forward,right,"Feb 1, 2016",Jordan Rhodes,"1,85m",48950,"['Scotland', 'England']",€10.00m,Blackburn Rovers,27,"Feb 5, 1990",Blackpool FC
+Centre-Forward,left,"Jul 20, 2016",Álvaro Negredo,"1,86m",18644,['Spain'],€7.50m,Valencia CF,31,"Aug 20, 1985",Without Club
+Centre-Forward,right,"Jan 4, 2017",Rudy Gestede,"1,93m",39908,"['Benin', 'France']",€7.00m,: Ablöse €7.10m,28,"Oct 10, 1988",Retired
+Centre-Forward,left,"Jan 18, 2017",Patrick Bamford,"1,85m",183334,"['England', 'Ireland']",€5.00m,Chelsea FC,23,"Sep 5, 1993",Leeds United
+Centre-Forward,right,"Aug 7, 2015",Cristhian Stuani,"1,84m",59323,"['Uruguay', 'Italy']",€3.50m,RCD Espanyol Barcelona,30,"Oct 12, 1986",Girona FC
+Centre-Forward,right,"Aug 14, 2015",David Nugent,"1,80m",33963,"['England', 'Ireland']",€3.00m,Leicester City,32,"May 2, 1985",Retired
+Centre-Forward,right,"Aug 2, 2014",Emilio Nsue,"1,81m",59558,"['Equatorial Guinea', 'Spain']",€1.75m,RCD Mallorca,27,"Sep 30, 1989",CF Intercity

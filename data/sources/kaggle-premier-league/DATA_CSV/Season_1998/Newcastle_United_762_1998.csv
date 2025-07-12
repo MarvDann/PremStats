@@ -1,0 +1,36 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jul 1, 1998",Lionel Perez,"1,83m",223246,['France'],Sunderland AFC,32,"Apr 24, 1967",Retired
+Goalkeeper,right,"Jul 1, 1997",Shay Given,"1,85m",3146,['Ireland'],Blackburn Rovers,23,"Apr 20, 1976",Retired
+Goalkeeper,right,"Jul 1, 1993",Steve Harper,"1,88m",3562,['England'],Seaham Red Star,24,"Mar 14, 1975",Retired
+Centre-Back,left,"Aug 10, 1994",Philippe Albert,"1,90m",27972,['Belgium'],: Ablöse free transfer,31,"Aug 10, 1967",Retired
+Centre-Back,right,"Jul 1, 1989",Steve Howey,"1,86m",3138,['England'],Newcastle United U18,27,"Oct 26, 1971",Retired
+Centre-Back,right,"Jul 1, 1997",Aaron Hughes,"1,83m",3580,['Northern Ireland'],Newcastle United U18,19,"Nov 8, 1979",Retired
+Centre-Back,,"Aug 1, 1998",David Beharall,"1,88m",225604,['England'],Newcastle United U18,20,"Mar 8, 1979",Retired
+Centre-Back,right,"Jan 1, 1998",Nikolaos Dabizas,"1,88m",3581,['Greece'],: Ablöse €2.00m,25,"Aug 3, 1973",Retired
+Left-Back,left,"Jul 1, 1997",Stuart Pearce,"1,78m",101317,['England'],: Ablöse free transfer,37,"Apr 24, 1962",Retired
+Left-Back,left,"Jan 1, 1999",Didier Domi,"1,79m",3965,"['France', 'Martinique']",: Ablöse €5.58m,21,"May 2, 1978",Retired
+Left-Back,both,"Jul 1, 1997",Alessandro Pistone,"1,80m",3588,['Italy'],: Ablöse €6.50m,23,"Jul 27, 1975",Retired
+Left-Back,left,"Jul 1, 1998",Carl Serrant,"1,80m",225606,['England'],: Ablöse €600k,23,"Sep 12, 1975",Retired
+Right-Back,right,"Jul 1, 1995",Warren Barton,"1,77m",13238,['England'],: Ablöse €4.50m,30,"Mar 19, 1969",Retired
+Right-Back,right,"Jul 16, 1998",Laurent Charvet,"1,87m",107083,['France'],: Ablöse €850k,26,"May 8, 1973",Retired
+Right-Back,right,"Nov 1, 1990",Steve Watson,"1,85m",3309,['England'],Newcastle United U18,25,"Apr 1, 1974",Retired
+Right-Back,right,"Jan 30, 1998",Andy Griffin,"1,73m",3579,['England'],: Ablöse €2.50m,20,"Mar 17, 1979",Retired
+Defensive Midfield,right,"Jan 1, 1996",David Batty,"1,70m",3295,['England'],Blackburn Rovers,30,"Dec 2, 1968",Retired
+Defensive Midfield,,"Aug 5, 1998",Dietmar Hamann,,919,['Germany'],: Ablöse €7.50m,25,"Aug 27, 1973",Retired
+Central Midfield,right,"Jul 1, 1992",Rob Lee,"1,78m",14183,['England'],Charlton Athletic,33,"Feb 1, 1966",Retired
+Central Midfield,,"Feb 6, 1998",Gary Speed,,3459,['Wales'],: Ablöse €8.25m,29,"Sep 8, 1969",---
+Central Midfield,right,"Jul 1, 1998",Garry Brady,"1,78m",12822,['Scotland'],Tottenham Hotspur Reserves,22,"Sep 7, 1976",Retired
+Central Midfield,right,"Jul 1, 1997",Jamie McClen,"1,70m",3565,['England'],Newcastle United U18,20,"May 13, 1979",Retired
+Right Midfield,right,"Jan 10, 1995",Keith Gillespie,"1,77m",3827,['Northern Ireland'],: Ablöse €1.50m,24,"Feb 18, 1975",FC Mindwell
+Right Midfield,right,"Jan 1, 2006",Nolberto Solano,"1,76m",3460,['Peru'],: Ablöse €2.25m,24,"Dec 12, 1974",Retired
+Left Midfield,,"Aug 13, 1997",John Barnes,,87436,"['England', 'Jamaica']",: Ablöse free transfer,35,"Nov 7, 1963",Retired
+Left Midfield,left,"Jul 1, 1998",Stephen Glass,"1,75m",12696,['Scotland'],Aberdeen FC,23,"May 23, 1976",Retired
+Attacking Midfield,right,"Jan 1, 1999",Silvio Maric,"1,80m",9842,['Croatia'],NK Croatia Zagreb,24,"Mar 20, 1975",Retired
+Right Winger,right,"Jul 1, 1997",Temur Ketsbaia,"1,77m",28978,"['Georgia', 'Cyprus']",: Ablöse free transfer,31,"Mar 18, 1968",Retired
+Right Winger,right,"Jul 1, 1998",Georgios Georgiadis,"1,73m",9678,['Greece'],: Ablöse €420k,27,"Mar 8, 1972",Retired
+Centre-Forward,right,"Jul 1, 1998",Stéphane Guivarc'h,"1,84m",102753,['France'],AJ Auxerre,28,"Sep 6, 1970",Retired
+Centre-Forward,right,"Jul 30, 1996",Alan Shearer,"1,83m",3110,['England'],Blackburn Rovers,28,"Aug 13, 1970",Retired
+Centre-Forward,left,"Jan 8, 1999",Louis Saha,"1,82m",4015,"['France', 'Guadeloupe']",: Ablöse ?,20,"Aug 8, 1978",Retired
+Centre-Forward,left,"Jan 1, 1999",Duncan Ferguson,"1,93m",3239,['Scotland'],: Ablöse €10.70m,27,"Dec 27, 1971",Retired
+Centre-Forward,right,"Nov 21, 1997",Paul Dalglish,"1,76m",36357,['Scotland'],: Ablöse free transfer,22,"Feb 18, 1977",Retired
+Centre-Forward,right,"Jan 27, 1998",Andreas Andersson,"1,86m",15351,['Sweden'],: Ablöse €4.13m,25,"Apr 10, 1974",Retired

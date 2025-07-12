@@ -1,0 +1,43 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2008",Wojciech Szczęsny,"1,95m",44058,['Poland'],€17.00m,Arsenal FC U18,27,"Apr 18, 1990",FC Barcelona
+Goalkeeper,right,,"Jul 27, 2014",David Ospina,"1,83m",73396,"['Colombia', 'France']",€7.00m,OGC Nice,28,"Aug 31, 1988",Atlético Nacional
+Goalkeeper,left,,"Jul 1, 2015",Petr Cech,"1,96m",5658,['Czech Republic'],€7.00m,Chelsea FC,35,"May 20, 1982",Retired
+Goalkeeper,right,,"Jul 1, 2012",Emiliano Martínez,"1,95m",111873,"['Argentina', 'Spain']",€1.00m,Arsenal FC U21,24,"Sep 2, 1992",Aston Villa
+Goalkeeper,right,,"Jul 1, 2015",Matt Macey,"2,01m",220491,['England'],€500k,Arsenal FC U21,22,"Sep 9, 1994",Colchester United
+Centre-Back,right,,"Aug 30, 2016",Shkodran Mustafi,"1,84m",88590,"['Germany', 'Albania']",€30.00m,Valencia CF,25,"Apr 17, 1992",Retired
+Centre-Back,right,,"Jul 7, 2010",Laurent Koscielny,"1,86m",76277,"['France', 'Poland']",€22.00m,FC Lorient,31,"Sep 10, 1985",Retired
+Centre-Back,right,,"Jul 28, 2014",Calum Chambers,"1,82m",215118,['England'],€14.00m,Southampton FC,22,"Jan 20, 1995",Cardiff City
+Centre-Back,right,,"Jan 28, 2015",Gabriel Paulista,"1,85m",149498,"['Brazil', 'Spain']",€13.00m,Villarreal CF,26,"Nov 26, 1990",Besiktas JK
+Centre-Back,right,,"Jul 22, 2016",Rob Holding,"1,89m",253341,['England'],€7.00m,Bolton Wanderers,21,"Sep 20, 1995",Crystal Palace
+Centre-Back,right,,"Aug 31, 2011",Per Mertesacker,"2,00m",6710,['Germany'],€6.00m,SV Werder Bremen,32,"Sep 29, 1984",Retired
+Centre-Back,right,,"Jan 21, 2015",Krystian Bielik,"1,92m",287247,['Poland'],€2.00m,Legia Warszawa,19,"Jan 4, 1998",Birmingham City
+Left-Back,left,,"Jan 31, 2013",Nacho Monreal,"1,79m",43003,['Spain'],€13.00m,Málaga CF,31,"Feb 26, 1986",Retired
+Left-Back,left,,"Jul 1, 2007",Kieran Gibbs,"1,81m",44792,['England'],€10.00m,Arsenal FC U18,27,"Sep 26, 1989",Retired
+Left-Back,left,,,Marc Bola,"1,85m",340310,"['England', 'DR Congo']",,,19,"Dec 9, 1997",Samsunspor
+Right-Back,right,,"Jul 1, 2014",Héctor Bellerín,"1,78m",191217,['Spain'],€30.00m,Arsenal FC U21,22,"Mar 19, 1995",Real Betis Balompié
+Right-Back,right,,"Jul 8, 2011",Carl Jenkinson,"1,85m",126321,"['England', 'Finland']",€5.00m,Charlton Athletic,25,"Feb 8, 1992",Bromley FC
+Right-Back,right,,"Jul 17, 2014",Mathieu Debuchy,"1,77m",27306,['France'],€3.50m,Newcastle United,31,"Jul 28, 1985",Retired
+Right-Back,right,,"Jul 1, 2017",Ainsley Maitland-Niles,"1,80m",285845,"['England', 'Jamaica']",€750k,Arsenal FC U23,19,"Aug 29, 1997",Olympique Lyon
+Defensive Midfield,left,,"Jul 1, 2016",Granit Xhaka,"1,86m",111455,['Switzerland'],€35.00m,Borussia Mönchengladbach,24,"Sep 27, 1992",Bayer 04 Leverkusen
+Defensive Midfield,right,,"Jul 1, 2011",Francis Coquelin,"1,77m",74869,"['France', 'Réunion']",€15.00m,Arsenal FC Reserves,26,"May 13, 1991",Without Club
+Defensive Midfield,right,,"Jan 14, 2016",Mohamed Elneny,"1,79m",160438,['Egypt'],€10.00m,: Ablöse €12.50m,24,"Jul 11, 1992",Al-Jazira Club
+Defensive Midfield,right,,,Gedion Zelalem,"1,80m",228370,"['United States', 'Germany']",€250k,,20,"Jan 26, 1997",NK Lokomotiva Zagreb
+Defensive Midfield,right,,,Ben Sheaf,"1,85m",314384,['England'],,,19,"Feb 5, 1998",Coventry City
+Central Midfield,right,Hamstring injury - Return unknown,"Jul 1, 2008",Aaron Ramsey,"1,78m",50057,['Wales'],€35.00m,: Ablöse €6.40m,26,"Dec 26, 1990",Cardiff City
+Central Midfield,right,"No eligibility - until Jan 31, 2025 - UEFA Europa League - 8 matchdays","Aug 8, 2011",Alex Oxlade-Chamberlain,"1,80m",143424,['England'],€22.00m,Southampton FC,23,"Aug 15, 1993",Besiktas JK
+Central Midfield,left,,"Jul 1, 2008",Jack Wilshere,"1,72m",74223,['England'],€18.00m,Arsenal FC U18,25,"Jan 1, 1992",Retired
+Central Midfield,both,,"Aug 7, 2012",Santi Cazorla,"1,68m",15799,['Spain'],€12.00m,Málaga CF,32,"Dec 13, 1984",Real Oviedo
+Central Midfield,left,"Knee surgery - Return expected on Mar 15, 2025",,Josh Dasilva,"1,84m",340321,"['England', 'Angola']",,,18,"Oct 23, 1998",Brentford FC
+Attacking Midfield,left,,"Sep 2, 2013",Mesut Özil,"1,80m",35664,['Germany'],€50.00m,Real Madrid,28,"Oct 15, 1988",Retired
+Attacking Midfield,right,,,Jeff Reine-Adélaïde,"1,84m",326300,"['France', 'Martinique']",€1.00m,,19,"Jan 17, 1998",US Salernitana 1919
+Left Winger,right,,"Jul 1, 2015",Alex Iwobi,"1,83m",242631,"['Nigeria', 'England']",€10.00m,Arsenal FC U21,21,"May 3, 1996",Fulham FC
+Left Winger,right,,,Chris Willock,"1,78m",314341,"['England', 'Montserrat']",,,19,"Jan 31, 1998",Cardiff City
+Left Winger,right,,,Stephy Mavididi,"1,82m",340328,"['England', 'DR Congo']",,,19,"May 31, 1998",Leicester City
+Right Winger,both,,"Jan 20, 2006",Theo Walcott,"1,75m",33713,['England'],€20.00m,Southampton FC,28,"Mar 16, 1989",Retired
+Right Winger,left,,"Aug 12, 2011",Joel Campbell,"1,78m",131248,['Costa Rica'],€6.00m,Deportivo Saprissa,25,"Jun 26, 1992",Atlético Clube Goianiense
+Centre-Forward,right,"Calf problems - Return expected on Dec 2, 2024","Jul 10, 2014",Alexis Sánchez,"1,69m",40433,['Chile'],€65.00m,FC Barcelona,28,"Dec 19, 1988",Udinese Calcio
+Centre-Forward,left,,"Jul 1, 2012",Olivier Giroud,"1,92m",82442,['France'],€22.00m,: Ablöse €12.00m,30,"Sep 30, 1986",Los Angeles FC
+Centre-Forward,left,,"Aug 30, 2016",Lucas Pérez,"1,80m",73185,['Spain'],€15.00m,Deportivo de La Coruña,28,"Sep 10, 1988",Deportivo de La Coruña
+Centre-Forward,right,,"Sep 1, 2014",Danny Welbeck,"1,85m",67063,"['England', 'Ghana']",€15.00m,Manchester United,26,"Nov 26, 1990",Brighton & Hove Albion
+Centre-Forward,right,,"Jul 1, 2015",Chuba Akpom,"1,83m",197642,"['England', 'Nigeria']",€1.00m,Arsenal FC U21,21,"Oct 9, 1995",Ajax Amsterdam
+Centre-Forward,right,,"Jul 1, 2013",Yaya Sanogo,"1,94m",127194,"['France', ""Cote d'Ivoire""]",€1.00m,AJ Auxerre,24,"Jan 27, 1993",Qingdao Red Lions

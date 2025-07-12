@@ -1,0 +1,36 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 1998",Thomas Sörensen,"1,96m",3473,['Denmark'],Odense Boldklub,24,"Jun 12, 1976",Retired
+Goalkeeper,,"Jul 1, 1998",Andy Marriott,"1,83m",3738,"['Wales', 'England']",Wrexham AFC,29,"Oct 11, 1970",Retired
+Defender,,,Mark Maley,,1052834,['England'],,19,"Jan 26, 1981",Retired
+Centre-Back,right,"Jul 1, 1999",Steve Bould,"1,93m",106893,['England'],: Ablöse €800k,37,"Nov 16, 1962",Retired
+Centre-Back,right,"Jul 10, 1998",Paul Butler,"1,91m",4278,['Ireland'],Bury FC,27,"Nov 2, 1972",Retired
+Centre-Back,,"Jul 1, 1999",Thomas Helmer,,12405,['Germany'],: Ablöse free transfer,35,"Apr 21, 1965",Retired
+Centre-Back,right,"Aug 1, 1997",Jody Craddock,"1,83m",4129,['England'],Cambridge United,24,"Jul 25, 1975",Retired
+Left-Back,left,,David Duke,,259272,['Scotland'],,21,"Dec 7, 1978",Retired
+Left-Back,right,"Aug 5, 1997",Chris Makin,"1,80m",13248,['England'],: Ablöse €750k,27,"May 8, 1973",Retired
+Left-Back,left,"Jul 1, 1992",Michael Gray,"1,70m",4128,['England'],Sunderland AFC U18,25,"Aug 3, 1974",Retired
+Left-Back,left,"Jul 1, 1999",Carsten Fredgaard,"1,83m",20660,['Denmark'],: Ablöse €2.20m,24,"May 20, 1976",Retired
+Left-Back,left,"Sep 1, 2008",George McCartney,"1,83m",3775,['Northern Ireland'],: Ablöse €5.50m,19,"Apr 29, 1981",Retired
+Right-Back,right,,Darren Holloway,"1,83m",14024,['England'],,22,"Oct 3, 1977",Retired
+Right-Back,right,"Oct 1, 1996",Darren Williams,"1,72m",3324,['England'],York City,23,"Apr 28, 1977",Retired
+Defensive Midfield,right,"Jul 1, 1997",Paul Thirlwell,"1,80m",4122,['England'],Sunderland AFC U18,21,"Feb 13, 1979",Retired
+Defensive Midfield,right,"Aug 15, 1999",Éric Roy,"1,88m",13847,['France'],: Ablöse €275k,32,"Sep 26, 1967",Retired
+Central Midfield,right,"Jul 1, 1990",Kevin Ball,"1,79m",175973,['England'],: Ablöse ?,35,"Nov 12, 1964",Retired
+Central Midfield,right,"Jul 1, 1996",Alex Rae,"1,77m",4239,['Scotland'],: Ablöse €1.50m,30,"Sep 30, 1969",Retired
+Central Midfield,,"Jul 1, 1999",Stefan Schwarz,,4123,['Sweden'],: Ablöse €6.00m,31,"Apr 18, 1969",Retired
+Central Midfield,left,"Nov 1, 1998",Gavin McCann,"1,80m",4136,['England'],: Ablöse €750k,22,"Jan 10, 1978",Retired
+Central Midfield,right,"Jul 1, 1997",Chris Lumsdon,"1,80m",48637,['England'],Sunderland AFC U18,20,"Dec 15, 1979",Retired
+Central Midfield,right,"Jul 1, 1999",John Oster,"1,75m",13918,"['Wales', 'England']",: Ablöse €1.00m,21,"Dec 8, 1978",Retired
+Right Midfield,right,"Nov 1, 1997",Nicky Summerbee,"1,80m",10378,['England'],: Ablöse €1.50m,28,"Aug 26, 1971",Retired
+Right Midfield,right,"Apr 1, 1997",Allan Johnston,"1,81m",3649,['Scotland'],: Ablöse ?,26,"Dec 14, 1973",Retired
+Right Midfield,both,"Jul 1, 1998",Thomas Butler,"1,70m",4132,['Ireland'],Sunderland AFC U18,19,"Apr 25, 1981",Retired
+Left Midfield,left,"Dec 1, 1999",Kevin Kilbane,"1,83m",4135,"['Ireland', 'England']",: Ablöse €3.75m,23,"Feb 1, 1977",Retired
+Left Midfield,left,"Jul 14, 1995",Sam Aiston,"1,88m",49315,['England'],Newcastle United,23,"Nov 21, 1976",Retired
+Left Winger,left,"Jul 1, 1998",Neil Wainwright,"1,83m",61943,['England'],Wrexham AFC,22,"Nov 4, 1977",Retired
+Right Winger,right,"Jul 1, 1998",Brendan McGill,"1,75m",40395,['Ireland'],Sunderland AFC U18,19,"Mar 22, 1981",Retired
+Centre-Forward,,"Aug 17, 1996",Niall Quinn,,104110,['Ireland'],: Ablöse €1.30m,33,"Oct 6, 1966",Retired
+Centre-Forward,right,"Jul 15, 1997",Kevin Phillips,"1,70m",3131,['England'],: Ablöse €850k,26,"Jul 25, 1973",Retired
+Centre-Forward,right,"Jan 1, 1998",Danny Dichio,"1,91m",3651,"['England', 'Italy']",UC Sampdoria,25,"Oct 19, 1974",Retired
+Centre-Forward,right,"Jul 1, 1997",Michael Proctor,"1,80m",4118,['England'],Sunderland AFC U18,19,"Oct 3, 1980",Retired
+Centre-Forward,,"Jul 1, 1999",Michael Reddy,"1,85m",13257,['Ireland'],Kilkenny City (- 2007),20,"Mar 24, 1980",Retired
+Centre-Forward,,"Mar 23, 2000",Milton Núñez,"1,63m",80021,['Honduras'],: Ablöse €2.63m,27,"Oct 31, 1972",Retired

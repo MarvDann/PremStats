@@ -1,0 +1,39 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Feb 1, 2009",Shay Given,"1,85m",3146,['Ireland'],€8.50m,Newcastle United,33,"Apr 20, 1976",Retired
+Goalkeeper,right,"Jul 1, 2006",Joe Hart,"1,96m",40204,['England'],€6.50m,: Ablöse €900k,22,"Apr 19, 1987",Retired
+Goalkeeper,right,"Jul 1, 2007",Kasper Schmeichel,"1,89m",16911,['Denmark'],€1.00m,: Ablöse -,22,"Nov 5, 1986",Celtic FC
+Centre-Back,right,"Aug 2, 2007",Vedran Corluka,"1,92m",34393,['Croatia'],€13.00m,GNK Dinamo Zagreb,23,"Feb 5, 1986",Retired
+Centre-Back,right,"Aug 22, 2008",Vincent Kompany,"1,90m",9594,"['Belgium', 'DR Congo']",€10.00m,: Ablöse €8.50m,23,"Apr 10, 1986",Retired
+Centre-Back,right,"Oct 18, 2000",Richard Dunne,"1,88m",3807,['Ireland'],€9.50m,: Ablöse €4.50m,29,"Sep 21, 1979",Retired
+Centre-Back,right,"Jul 1, 2004",Nedum Onuoha,"1,83m",28810,"['England', 'Nigeria']",€5.00m,: Ablöse -,22,"Nov 12, 1986",Retired
+Centre-Back,right,"Jul 30, 2008",Tal Ben Haim,"1,83m",20714,['Israel'],€3.50m,Chelsea FC,27,"Mar 31, 1982",Retired
+Centre-Back,,"Aug 31, 2008",Gláuber,,37537,"['Brazil', 'Italy']",€800k,: Ablöse free transfer,25,"Aug 5, 1983",Retired
+Centre-Back,left,"Jul 1, 2008",Ryan McGivern,"1,88m",61632,['Northern Ireland'],€100k,: Ablöse -,19,"Jan 8, 1990",Newry City AFC
+Left-Back,left,"Jan 2, 2009",Wayne Bridge,"1,78m",3682,['England'],€7.50m,Chelsea FC,28,"Aug 5, 1980",Retired
+Left-Back,left,"Jul 1, 2007",Javier Garrido,"1,79m",23218,['Spain'],€3.00m,Real Sociedad,24,"Mar 15, 1985",Retired
+Left-Back,left,"Jan 31, 2007",Michael Ball,"1,78m",9423,['England'],€2.20m,: Ablöse free transfer,29,"Oct 2, 1979",Retired
+Right-Back,right,"Jan 1, 2006",Micah Richards,"1,80m",32617,"['England', 'St. Kitts & Nevis']",€12.00m,: Ablöse -,21,"Jun 24, 1988",Retired
+Right-Back,right,"Aug 31, 2008",Pablo Zabaleta,"1,76m",20007,"['Argentina', 'Spain']",€8.20m,RCD Espanyol Barcelona,24,"Jan 16, 1985",Retired
+Right-Back,right,"Jul 1, 2004",Danny Mills,"1,80m",3743,['England'],€500k,Leeds United,32,"May 18, 1977",Retired
+Right-Back,right,"Jul 1, 2007",Shay Logan,"1,73m",58579,['England'],€300k,: Ablöse -,21,"Jan 29, 1988",Retired
+Defensive Midfield,right,"Jan 21, 2009",Nigel de Jong,"1,74m",4672,"['Netherlands', 'Suriname']",€12.50m,: Ablöse €18.00m,24,"Nov 30, 1984",Retired
+Defensive Midfield,right,"Jul 1, 2006",Michael Johnson,"1,83m",45274,['England'],€6.00m,: Ablöse -,21,"Feb 24, 1988",Retired
+Defensive Midfield,,"Jul 14, 2007",Gelson Fernandes,,20081,"['Switzerland', 'Cape Verde']",€5.50m,: Ablöse €5.50m,22,"Sep 2, 1986",Retired
+Defensive Midfield,,"Jul 12, 2006",Dietmar Hamann,,919,['Germany'],€1.20m,: Ablöse €600k,35,"Aug 27, 1973",Retired
+Defensive Midfield,right,"Jul 1, 2007",Kelvin Etuhu,"1,79m",45792,"['Nigeria', 'England']",€750k,: Ablöse -,21,"May 30, 1988",Retired
+Central Midfield,right,,Adam Clayton,"1,75m",73067,['England'],€400k,,20,"Jan 14, 1989",Matlock Town
+Attacking Midfield,right,"Jul 1, 2005",Stephen Ireland,"1,73m",34838,['Ireland'],€15.00m,: Ablöse -,22,"Aug 22, 1986",Retired
+Attacking Midfield,right,"Jul 1, 2007",Elano,"1,74m",20053,"['Brazil', 'Italy']",€12.50m,Shakhtar Donetsk,28,"Jun 14, 1981",Retired
+Left Winger,right,"Sep 1, 2008",Robinho,"1,72m",15511,"['Brazil', 'Spain']",€35.00m,Real Madrid,25,"Jan 25, 1984",Retired
+Left Winger,,"Jul 1, 2007",Martin Petrov,,670,['Bulgaria'],€10.00m,: Ablöse €7.00m,30,"Jan 15, 1979",Retired
+Left Winger,right,"Jan 19, 2009",Craig Bellamy,"1,73m",3297,['Wales'],€9.00m,: Ablöse €15.50m,29,"Jul 13, 1979",Retired
+Left Winger,right,"Jan 1, 2009",Vladimir Weiss,"1,73m",92701,['Slovakia'],,: Ablöse -,19,"Nov 30, 1989",Slovan Bratislava
+Right Winger,right,"Aug 1, 2008",Shaun Wright-Phillips,"1,66m",3467,"['England', 'Grenada']",€13.00m,Chelsea FC,27,"Oct 25, 1981",Retired
+Right Winger,left,"Jan 1, 2008",Nery Castillo,"1,70m",9711,"['Mexico', 'Uruguay']",€4.00m,Shakhtar Donetsk,25,"Jun 13, 1984",Retired
+Centre-Forward,left,"Jul 31, 2008",Jô,"1,92m",34156,['Brazil'],€12.50m,CSKA Moscow,22,"Mar 20, 1987",Itabirito FC
+Centre-Forward,right,"Jan 1, 2008",Benjani,"1,88m",12063,['Zimbabwe'],€7.00m,: Ablöse €5.20m,30,"Aug 13, 1978",Retired
+Centre-Forward,left,"Aug 1, 2007",Valeri Bozhinov,"1,85m",4176,"['Bulgaria', 'Italy']",€6.00m,: Ablöse €8.00m,23,"Feb 15, 1986",Retired
+Centre-Forward,left,"Jan 31, 2008",Felipe Caicedo,"1,83m",37834,"['Ecuador', 'Spain']",€4.20m,: Ablöse €7.00m,20,"Sep 5, 1988",Without Club
+Centre-Forward,left,"Jul 1, 2008",Daniel Sturridge,"1,82m",47082,['England'],€3.00m,: Ablöse -,19,"Sep 1, 1989",Retired
+Centre-Forward,right,"Jul 1, 2005",Darius Vassell,"1,71m",3236,"['England', 'Jamaica']",€2.50m,: Ablöse €3.60m,29,"Jun 13, 1980",Retired
+Centre-Forward,right,"Jul 1, 2007",Ched Evans,"1,83m",61622,['Wales'],€1.20m,: Ablöse -,20,"Dec 28, 1988",Preston North End

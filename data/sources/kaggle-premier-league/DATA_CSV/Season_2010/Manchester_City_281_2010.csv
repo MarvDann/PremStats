@@ -1,0 +1,46 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2006",Joe Hart,"1,96m",40204,['England'],€15.00m,: Ablöse €900k,24,"Apr 19, 1987",Retired
+Goalkeeper,right,,"Feb 1, 2009",Shay Given,"1,85m",3146,['Ireland'],€5.50m,Newcastle United,35,"Apr 20, 1976",Retired
+Goalkeeper,right,,"Jul 1, 2009",Stuart Taylor,"1,98m",3190,['England'],€1.00m,: Ablöse free transfer,30,"Nov 28, 1980",Retired
+Goalkeeper,right,,"Jan 1, 2010",David González,"1,94m",52267,['Colombia'],,Without Club,28,"Jul 20, 1982",Retired
+Centre-Back,right,,"Aug 22, 2008",Vincent Kompany,"1,90m",9594,"['Belgium', 'DR Congo']",€20.00m,: Ablöse €8.50m,25,"Apr 10, 1986",Retired
+Centre-Back,right,,"Jul 28, 2009",Kolo Touré,"1,78m",3202,"[""Cote d'Ivoire"", 'England']",€19.00m,: Ablöse €18.70m,30,"Mar 19, 1981",Retired
+Centre-Back,right,,"Jul 1, 2010",Jérôme Boateng,"1,92m",26485,['Germany'],€15.00m,: Ablöse €12.50m,22,"Sep 3, 1988",LASK
+Centre-Back,left,,"Aug 25, 2009",Joleon Lescott,"1,91m",4241,['England'],€13.00m,: Ablöse €27.50m,28,"Aug 16, 1982",Retired
+Centre-Back,right,,"Jul 1, 2004",Nedum Onuoha,"1,83m",28810,"['England', 'Nigeria']",€6.00m,: Ablöse -,24,"Nov 12, 1986",Retired
+Centre-Back,right,"No eligibility - until Jan 31, 2025 - UEFA Champions League","Jul 1, 2010",Dedryck Boyata,"1,88m",88262,"['Belgium', 'DR Congo']",€2.00m,: Ablöse -,20,"Nov 28, 1990",Club Brugge KV
+Centre-Back,left,,"Jul 1, 2008",Ryan McGivern,"1,88m",61632,['Northern Ireland'],€100k,: Ablöse -,21,"Jan 8, 1990",Newry City AFC
+Centre-Back,left,,,Greg Cunningham,"1,83m",114093,['Ireland'],€50k,,20,"Jan 31, 1991",Galway United FC
+Centre-Back,right,,"Jul 1, 2011",Frédéric Veseli,"1,85m",111433,"['Albania', 'Switzerland']",,: Ablöse -,18,"Nov 20, 1992",KF Egnatia
+Centre-Back,left,,"Jul 1, 2010",Ben Mee,"1,80m",74810,['England'],,: Ablöse -,21,"Sep 21, 1989",Brentford FC
+Left-Back,left,,"Jul 24, 2010",Aleksandar Kolarov,"1,87m",46156,['Serbia'],€15.00m,: Ablöse €23.86m,25,"Nov 10, 1985",Retired
+Left-Back,left,,"Jan 2, 2009",Wayne Bridge,"1,78m",3682,['England'],€5.00m,Chelsea FC,30,"Aug 5, 1980",Retired
+Left-Back,,,,Chris Chantler,"1,80m",121403,['England'],,,20,"Dec 16, 1990",Without Club
+Right-Back,right,,"Aug 31, 2008",Pablo Zabaleta,"1,76m",20007,"['Argentina', 'Spain']",€12.00m,RCD Espanyol Barcelona,26,"Jan 16, 1985",Retired
+Right-Back,right,,"Jan 1, 2006",Micah Richards,"1,80m",32617,"['England', 'St. Kitts & Nevis']",€10.00m,: Ablöse -,23,"Jun 24, 1988",Retired
+Right-Back,right,,"Jul 1, 2007",Shay Logan,"1,73m",58579,['England'],€250k,: Ablöse -,23,"Jan 29, 1988",Retired
+Right-Back,right,,"Jul 1, 2009",Javan Vidal,"1,83m",99452,['England'],€100k,: Ablöse -,22,"May 10, 1989",Retired
+Right-Back,right,,"Jul 1, 2010",Reece Wabara,"1,83m",121416,"['England', 'Nigeria']",,: Ablöse -,19,"Dec 28, 1991",Retired
+Right-Back,right,,,Omar Elabdellaoui,"1,79m",121404,['Norway'],,,19,"Dec 5, 1991",FK Bodø/Glimt
+Defensive Midfield,right,,"Jan 21, 2009",Nigel de Jong,"1,74m",4672,"['Netherlands', 'Suriname']",€20.00m,: Ablöse €18.00m,26,"Nov 30, 1984",Retired
+Defensive Midfield,left,,"Jul 1, 2009",Gareth Barry,"1,84m",3291,['England'],€17.00m,: Ablöse €13.90m,30,"Feb 23, 1981",Unknown
+Defensive Midfield,right,,"Jul 1, 2006",Michael Johnson,"1,83m",45274,['England'],€2.50m,: Ablöse -,23,"Feb 24, 1988",Retired
+Defensive Midfield,right,,"Jan 7, 2010",Patrick Vieira,"1,92m",3183,"['France', 'Senegal']",,: Ablöse free transfer,35,"Jun 23, 1976",Retired
+Central Midfield,right,,"Jul 2, 2010",Yaya Touré,"1,88m",13091,"[""Cote d'Ivoire"", 'England']",€25.00m,FC Barcelona,28,"May 13, 1983",Retired
+Central Midfield,right,,"Aug 17, 2010",James Milner,"1,75m",3333,['England'],€20.00m,: Ablöse €22.00m,25,"Jan 4, 1986",Brighton & Hove Albion
+Central Midfield,,,"Jul 1, 2010",Abdisalam Ibrahim,,121406,['Norway'],€100k,: Ablöse -,20,"May 1, 1991",Without Club
+Central Midfield,right,,"Jul 1, 2008",Scott Kay,"1,79m",121408,['England'],,: Ablöse -,21,"Sep 18, 1989",Trafford FC
+Central Midfield,right,,"Jul 1, 2011",Abdul Razak,"1,79m",177321,"[""Cote d'Ivoire""]",,: Ablöse -,18,"Nov 11, 1992",Magusa Türk Gücü
+Attacking Midfield,left,,"Jul 14, 2010",David Silva,"1,70m",35518,['Spain'],€32.00m,: Ablöse €28.75m,25,"Jan 8, 1986",Retired
+Left Winger,right,,"Jan 19, 2009",Craig Bellamy,"1,73m",3297,['Wales'],€4.50m,: Ablöse €15.50m,31,"Jul 13, 1979",Retired
+Left Winger,right,,"Jan 1, 2009",Vladimir Weiss,"1,73m",92701,['Slovakia'],€3.00m,: Ablöse -,21,"Nov 30, 1989",Slovan Bratislava
+Right Winger,left,Suspended -  - cross-competition,"Feb 1, 2010",Adam Johnson,"1,82m",31579,['England'],€10.00m,Middlesbrough FC,23,"Jul 14, 1987",Retired
+Right Winger,right,,"Aug 1, 2008",Shaun Wright-Phillips,"1,66m",3467,"['England', 'Grenada']",€8.00m,Chelsea FC,29,"Oct 25, 1981",Retired
+Centre-Forward,right,,"Jul 14, 2009",Carlos Tevez,"1,71m",4276,['Argentina'],€38.00m,: Ablöse €29.00m,27,"Feb 5, 1984",Retired
+Centre-Forward,right,,"Jan 7, 2011",Edin Dzeko,"1,93m",28396,['Bosnia-Herzegovina'],€30.00m,VfL Wolfsburg,25,"Mar 17, 1986",Fenerbahce
+Centre-Forward,right,,"Aug 12, 2010",Mario Balotelli,"1,89m",45146,"['Italy', 'Ghana']",€26.00m,: Ablöse €29.50m,20,"Aug 12, 1990",Genoa CFC
+Centre-Forward,right,,"Jul 18, 2009",Emmanuel Adebayor,"1,92m",8883,"['Togo', 'Nigeria']",€17.00m,: Ablöse €29.00m,27,"Feb 26, 1984",Retired
+Centre-Forward,left,,"Jul 31, 2008",Jô,"1,92m",34156,['Brazil'],€7.00m,CSKA Moscow,24,"Mar 20, 1987",Itabirito FC
+Centre-Forward,right,,"Jul 1, 2009",Roque Santa Cruz,"1,93m",215,"['Paraguay', 'Spain']",€5.00m,Blackburn Rovers,29,"Aug 16, 1981",Club Libertad Asunción
+Centre-Forward,right,,"Jul 1, 2008",John Guidetti,"1,85m",98596,['Sweden'],€75k,: Ablöse -,19,"Apr 15, 1992",AIK
+Centre-Forward,right,,,Alex Nimely,"1,80m",121410,"['Liberia', 'England']",,,20,"May 11, 1991",Retired

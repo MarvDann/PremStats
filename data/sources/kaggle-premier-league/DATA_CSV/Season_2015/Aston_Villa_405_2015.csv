@@ -1,0 +1,45 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,,"Aug 1, 2008",Brad Guzan,"1,93m",39471,"['United States', 'Poland']",€3.00m,CD Chivas USA,31,"Sep 9, 1984",Atlanta United FC
+Goalkeeper,right,,"Jul 9, 2015",Mark Bunn,"1,83m",49319,"['England', 'Ireland']",€750k,: Ablöse free transfer,31,"Nov 16, 1984",Retired
+Goalkeeper,left,,"Jul 1, 2013",Jed Steer,"1,83m",110867,"['England', 'Scotland']",€500k,: Ablöse €540k,23,"Sep 23, 1992",Peterborough United
+Goalkeeper,right,,"Jul 1, 2013",Benjamin Siegrist,"1,96m",111426,['Switzerland'],€250k,: Ablöse -,24,"Jan 31, 1992",FC Rapid 1923
+Goalkeeper,right,,,Bradley Watkins,"1,88m",210662,['England'],,,21,"Sep 11, 1994",Without Club
+Centre-Back,right,,"Jul 1, 2013",Jores Okore,"1,83m",129085,"['Denmark', ""Cote d'Ivoire""]",€5.00m,: Ablöse €4.70m,23,"Aug 11, 1992",Boldklubben af 1893
+Centre-Back,left,,"Jul 1, 2010",Ciaran Clark,"1,85m",98240,"['Ireland', 'England']",€4.50m,: Ablöse -,26,"Sep 26, 1989",Without Club
+Centre-Back,right,,"Sep 1, 2015",Tiago Ilori,"1,90m",177859,"['Portugal', 'England']",€4.00m,: Ablöse €350k,23,"Feb 26, 1993",Without Club
+Centre-Back,left,,"Jul 1, 2011",Nathan Baker,"1,89m",62638,['England'],€2.50m,: Ablöse -,25,"Apr 23, 1991",Retired
+Centre-Back,left,,"Sep 1, 2015",Joleon Lescott,"1,91m",4241,['England'],€2.00m,West Bromwich Albion,33,"Aug 16, 1982",Retired
+Centre-Back,left,,"Aug 8, 2014",Aly Cissokho,"1,87m",57515,"['France', 'Senegal']",€2.00m,Valencia CF,28,"Sep 15, 1987",Muangthong United
+Centre-Back,right,,"Jul 28, 2015",José Crespo,"1,85m",37397,['Spain'],€700k,Córdoba CF,29,"Feb 9, 1987",Retired
+Centre-Back,left,,,Kevin Toner,"1,80m",265132,['Ireland'],,,19,"Jul 18, 1996",Orihuela CF
+Centre-Back,right,,,Easah Suliman,"1,88m",282820,"['Pakistan', 'England']",,,18,"Jan 26, 1998",Sumgayit PFC
+Centre-Back,right,,,Niall Mason,"1,80m",319817,"['England', 'United States']",,,19,"Jan 10, 1997",Muaither SC
+Left-Back,left,,"Jul 18, 2015",Jordan Amavi,"1,76m",241229,['France'],€10.00m,OGC Nice,22,"Mar 9, 1994",Stade Brestois 29
+Left-Back,left,,"Aug 29, 2012",Joe Bennett,"1,78m",90964,['England'],€1.50m,Middlesbrough FC,26,"Mar 28, 1990",Oxford United
+Left-Back,left,,"Jul 11, 2014",Kieran Richardson,"1,77m",3548,['England'],€1.50m,Fulham FC,31,"Oct 21, 1984",Retired
+Right-Back,right,,"Jul 1, 2015",Micah Richards,"1,80m",32617,"['England', 'St. Kitts & Nevis']",€5.00m,: Ablöse free transfer,28,"Jun 24, 1988",Retired
+Right-Back,right,,"Jul 1, 2013",Leandro Bacuna,"1,80m",126014,"['Curacao', 'Netherlands']",€3.00m,: Ablöse €1.40m,24,"Aug 21, 1991",FC Groningen
+Right-Back,right,Knee injury - Return unknown,"Aug 31, 2011",Alan Hutton,"1,85m",9619,['Scotland'],€2.00m,Tottenham Hotspur,31,"Nov 30, 1984",Retired
+Right-Back,right,Groin injury - Return unknown,"Jan 1, 2014",Janoi Donacien,"1,83m",197791,"['St. Lucia', 'England']",€250k,: Ablöse -,22,"Nov 3, 1993",Unknown
+Defensive Midfield,left,,"Aug 15, 2014",Carlos Sánchez,"1,82m",51226,['Colombia'],€5.00m,Elche CF,30,"Feb 6, 1986",CA Barracas Central
+Defensive Midfield,right,,"Aug 31, 2012",Ashley Westwood,"1,74m",91317,['England'],€4.00m,Crewe Alexandra,26,"Apr 1, 1990",Charlotte FC
+Central Midfield,right,,"Jul 10, 2015",Idrissa Gueye,"1,74m",126665,['Senegal'],€9.00m,: Ablöse €9.00m,26,"Sep 26, 1989",Everton FC
+Central Midfield,right,,"Jul 31, 2015",Jordan Veretout,"1,77m",164771,['France'],€8.00m,: Ablöse €10.00m,23,"Mar 1, 1993",Olympique Lyon
+Central Midfield,right,,"Jul 1, 2011",Gary Gardner,"1,86m",110861,['England'],€2.00m,: Ablöse -,24,"Jun 29, 1992",Cambridge United
+Central Midfield,right,,"Jan 1, 2016",Jordan Lyden,"1,83m",251289,"['Australia', 'England']",,: Ablöse -,20,"Jan 30, 1996",Hereford FC
+Attacking Midfield,left,Muscle injury - Return unknown,"Jan 13, 2015",Carles Gil,"1,71m",127987,['Spain'],€4.00m,Valencia CF,23,"Nov 22, 1992",New England Revolution
+Attacking Midfield,right,,"Jul 1, 2014",Joe Cole,"1,76m",3876,['England'],€500k,: Ablöse free transfer,34,"Nov 8, 1981",Retired
+Left Winger,right,,"Jul 1, 2013",Jack Grealish,"1,80m",203460,"['England', 'Ireland']",€4.50m,: Ablöse -,20,"Sep 10, 1995",Manchester City
+Left Winger,right,,"Jul 1, 2015",Scott Sinclair,"1,77m",31552,"['England', 'Jamaica']",€3.50m,: Ablöse €3.50m,27,"Mar 25, 1989",Bristol Rovers
+Left Winger,left,,,Jerell Sellars,"1,73m",243690,['England'],,,20,"Dec 11, 1995",Without Club
+Left Winger,right,,"Jul 1, 2016",Andre Green,"1,80m",309841,['England'],,: Ablöse -,17,"Jul 26, 1998",Rotherham United
+Right Winger,right,,"Aug 14, 2015",Adama Traoré,"1,78m",204103,"['Spain', 'Mali']",€8.00m,FC Barcelona B,20,"Jan 25, 1996",Fulham FC
+Right Winger,left,heart problems - Return unknown,"Jul 30, 2011",Charles N'Zogbia,"1,71m",22165,"['France', 'DR Congo']",€1.00m,Wigan Athletic,30,"May 28, 1986",Retired
+Right Winger,right,,,Corey Blackett-Taylor,"1,80m",282821,['England'],,,18,"Sep 23, 1997",Derby County
+Centre-Forward,right,,"Jul 27, 2015",Jordan Ayew,"1,82m",108354,"['Ghana', 'France']",€7.50m,FC Lorient,24,"Sep 11, 1991",Leicester City
+Centre-Forward,right,,"Jul 31, 2015",Rudy Gestede,"1,93m",39908,"['Benin', 'France']",€7.00m,Blackburn Rovers,27,"Oct 10, 1988",Retired
+Centre-Forward,right,,"Jul 1, 2005",Gabriel Agbonlahor,"1,83m",37148,"['England', 'Nigeria']",€3.00m,: Ablöse -,29,"Oct 13, 1986",Retired
+Centre-Forward,right,,"Sep 2, 2013",Libor Kozák,"1,93m",63824,['Czech Republic'],€2.00m,: Ablöse €6.50m,27,"May 30, 1989",Slezsky FC Opava
+Centre-Forward,right,,"Jul 1, 2014",Callum Robinson,"1,78m",183299,"['Ireland', 'England']",€500k,: Ablöse -,21,"Feb 2, 1995",Cardiff City
+Centre-Forward,right,,,Rushian Hepburn-Murphy,"1,73m",314237,"['England', 'Jamaica']",,,17,"Aug 28, 1998",Crawley Town
+Centre-Forward,left,,"Jul 1, 2017",Keinan Davis,"1,89m",412660,['England'],,: Ablöse -,18,"Feb 13, 1998",Udinese Calcio

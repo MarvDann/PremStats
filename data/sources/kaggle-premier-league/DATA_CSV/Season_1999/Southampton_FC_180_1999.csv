@@ -1,0 +1,39 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 28, 1997",Paul Jones,"1,91m",3684,['Wales'],: Ablöse €1.35m,33,"Apr 18, 1967",Retired
+Goalkeeper,,"Dec 1, 1995",Neil Moss,"1,88m",48075,['England'],: Ablöse €40k,25,"May 10, 1975",Retired
+Goalkeeper,,"Jul 1, 1997",Scott Bevan,"1,98m",4110,['England'],Southampton FC U18,20,"Sep 16, 1979",Retired
+Centre-Back,,,Paul Jones,"1,85m",97920,['England'],,22,"Jun 3, 1978",Unknown
+Centre-Back,right,"Jul 1, 1996",Claus Lundekvam,"1,91m",3687,['Norway'],SK Brann,27,"Feb 22, 1973",Retired
+Centre-Back,right,"Jul 1, 1999",Dean Richards,"1,88m",3829,['England'],: Ablöse free transfer,26,"Jun 9, 1974",---
+Centre-Back,right,"Jan 1, 2001",Richard Dryden,"1,83m",109489,['England'],Swindon Town,31,"Jun 14, 1969",Retired
+Centre-Back,right,"Jul 1, 1996",Garry Monk,"1,83m",4111,['England'],: Ablöse free transfer,21,"Mar 6, 1979",Retired
+Centre-Back,right,"Mar 8, 2000",Tahar El Khalej,"1,91m",3121,['Morocco'],SL Benfica,32,"Jun 16, 1968",Retired
+Centre-Back,right,"Jul 1, 1999",Marco Almeida,"1,85m",14333,['Portugal'],: Ablöse ?,23,"Apr 4, 1977",Retired
+Left-Back,left,"Feb 5, 1998",John Beresford,"1,68m",109487,['England'],Newcastle United,33,"Sep 4, 1966",Retired
+Left-Back,left,"Jan 1, 1987",Francis Benali,"1,78m",3298,['England'],Southampton FC U18,31,"Dec 30, 1968",Retired
+Left-Back,left,"Jan 1, 1998",Wayne Bridge,"1,78m",3682,['England'],Southampton FC U18,19,"Aug 5, 1980",Retired
+Left-Back,right,"Dec 24, 1998",Patrick Colleter,"1,78m",107065,['France'],: Ablöse ?,34,"Nov 6, 1965",Retired
+Right-Back,,"Mar 1, 1989",Jason Dodd,,3685,['England'],Bath City,29,"Nov 2, 1970",Retired
+Right-Back,right,"Aug 21, 1998",Scott Hiley,"1,75m",211250,['England'],: Ablöse free transfer,31,"Sep 27, 1968",Retired
+Right-Back,right,"Jul 1, 1997",Phil Warner,"1,75m",66508,['England'],Southampton FC U18,21,"Feb 2, 1979",Without Club
+Defensive Midfield,right,"Jul 1, 1995",Matt Oakley,"1,77m",3784,['England'],Southampton FC U18,22,"Aug 17, 1977",Retired
+Defensive Midfield,right,"Jul 1, 1998",David Howells,"1,80m",109492,['England'],: Ablöse ?,32,"Dec 15, 1967",Retired
+Central Midfield,left,"Feb 1, 1999",Chris Marsden,"1,80m",4117,['England'],: Ablöse €1.20m,31,"Jan 3, 1969",Retired
+Central Midfield,right,"Jul 1, 1999",Jo Tessem,"1,88m",4109,['Norway'],Molde FK,28,"Feb 28, 1972",Retired
+Central Midfield,right,"Jul 1, 1997",Kevin Gibbens,"1,80m",109490,['England'],Southampton FC U18,20,"Nov 4, 1979",Retired
+Right Midfield,both,"Jul 1, 1998",Stuart Ripley,"1,80m",107223,['England'],Blackburn Rovers,32,"Nov 20, 1967",Retired
+Right Midfield,right,"Jul 1, 1999",Imants Bleidelis,"1,78m",15387,['Latvia'],Skonto Riga (- 2016),24,"Aug 16, 1975",Retired
+Left Midfield,right,"Sep 15, 1994",Ronnie Ekelund,"1,79m",168498,['Denmark'],: Ablöse ?,27,"Aug 21, 1972",Retired
+Left Midfield,right,"Jul 1, 1998",Hassan Kachloul,"1,86m",4066,['Morocco'],: Ablöse €350k,27,"Feb 19, 1973",Retired
+Left Midfield,left,"Jul 1, 1999",Luís Boa Morte,"1,78m",3422,"['Portugal', 'Sao Tome and Principe']",: Ablöse €700k,22,"Aug 4, 1977",Retired
+Attacking Midfield,right,"Jul 1, 1986",Matt Le Tissier,"1,85m",43705,"['England', 'Guernsey']",Southampton FC U18,31,"Oct 14, 1968",Retired
+Attacking Midfield,right,"Jul 1, 1991",David Hughes,"1,80m",195176,"['Wales', 'England']",Weymouth FC,27,"Dec 30, 1972",Retired
+Attacking Midfield,,"Aug 1, 1999",Trond Soltvedt,"1,86m",109482,['Norway'],Coventry City,33,"Feb 15, 1967",Retired
+Left Winger,left,"Jul 1, 1999",Dani Rodrigues,"1,80m",43184,['Portugal'],CD Feirense,20,"Mar 3, 1980",Retired
+Second Striker,right,"Jul 11, 1998",Mark Hughes,"1,78m",8022,['Wales'],: Ablöse €900k,36,"Nov 1, 1963",Retired
+Centre-Forward,left,"Oct 3, 1996",Egil Østenstad,"1,83m",3705,['Norway'],Viking FK,28,"Jan 2, 1972",Retired
+Centre-Forward,right,"Aug 17, 1999",Kevin Davies,"1,83m",4114,['England'],Blackburn Rovers,23,"Mar 26, 1977",Retired
+Centre-Forward,right,"Jul 10, 1998",James Beattie,"1,85m",3112,['England'],Blackburn Rovers,22,"Feb 27, 1978",Retired
+Centre-Forward,both,"Feb 16, 1999",Marians Pahars,"1,75m",3689,['Latvia'],Skonto Riga (- 2016),23,"Aug 5, 1976",Retired
+Centre-Forward,,"Oct 1, 1997",David Hirst,,109491,"['England', 'Scotland']",: Ablöse €2.50m,32,"Dec 7, 1967",Retired
+Striker,,,Shayne Bradley,"1,80m",211242,['England'],,20,"Dec 8, 1979",Retired

@@ -1,0 +1,39 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2004",Paul Robinson,"1,93m",3630,['England'],€5.00m,Leeds United,28,"Oct 15, 1979",Retired
+Goalkeeper,right,,"Jul 1, 2006",Radek Cerny,"1,87m",21010,['Czech Republic'],€1.50m,: Ablöse €200k,34,"Feb 18, 1974",Retired
+Goalkeeper,right,,"Jan 1, 2007",Ben Alnwick,"1,83m",27036,['England'],€900k,Sunderland AFC,21,"Jan 1, 1987",Retired
+Goalkeeper,,,"Jul 1, 2005",Tommy Forecast,"1,98m",61823,['England'],,Tottenham Hotspur U18,21,"Oct 15, 1986",Retired
+Centre-Back,right,,"Jul 1, 1998",Ledley King,"1,88m",3360,"['England', 'Antigua and Barbuda']",€11.00m,Tottenham Hotspur U18,27,"Oct 12, 1980",Retired
+Centre-Back,right,,"Jan 1, 2010",Younès Kaboul,"1,92m",27114,"['France', 'Morocco']",€8.00m,: Ablöse €5.90m,22,"Jan 4, 1986",Retired
+Centre-Back,right,,"Jan 31, 2005",Michael Dawson,"1,89m",9988,['England'],€7.50m,: Ablöse €7.00m,24,"Nov 18, 1983",Retired
+Centre-Back,right,,"Jan 28, 2008",Jonathan Woodgate,"1,88m",3224,['England'],€7.50m,Middlesbrough FC,28,"Jan 22, 1980",Retired
+Centre-Back,right,,"Jan 23, 2007",Ricardo Rocha,"1,83m",13211,['Portugal'],€2.75m,SL Benfica,29,"Oct 3, 1978",Retired
+Centre-Back,left,,"Jan 1, 2000",Anthony Gardner,"1,96m",4053,"['England', 'Jamaica']",€2.00m,: Ablöse €1.50m,27,"Sep 19, 1980",Retired
+Centre-Back,right,,"Jul 1, 2006",Dorian Dervite,"1,92m",32029,['France'],€500k,: Ablöse €1.50m,19,"Jul 25, 1988",Retired
+Centre-Back,right,,"Jul 1, 2004",Leigh Mills,"1,88m",19639,['England'],€250k,Swindon Town U18,20,"Feb 8, 1988",Retired
+Centre-Back,right,,,Troy Archibald-Henville,"1,88m",61810,"['England', 'Jamaica']",€50k,,19,"Nov 4, 1988",Retired
+Left-Back,left,,"Jan 1, 2008",Gilberto,"1,79m",18734,['Brazil'],€7.50m,: Ablöse €2.80m,32,"Apr 25, 1976",Retired
+Left-Back,both,,"Aug 1, 2005",Young-pyo Lee,"1,76m",6156,"['Korea, South']",€5.00m,: Ablöse €2.00m,31,"Apr 23, 1977",Retired
+Left-Back,left,,"Jul 1, 2006",Benoît Assou-Ekotto,"1,78m",18310,"['Cameroon', 'France']",€2.75m,: Ablöse €5.00m,24,"Mar 24, 1984",Retired
+Left-Back,left,,"Jul 25, 2007",Danny Rose,"1,73m",50174,"['England', 'Jamaica']",€500k,Leeds United U18,17,"Jul 2, 1990",Retired
+Right-Back,right,Knee injury - Return unknown,"Jan 30, 2008",Alan Hutton,"1,85m",9619,['Scotland'],€8.00m,: Ablöse €13.00m,23,"Nov 30, 1984",Retired
+Right-Back,right,,"Jan 26, 2009",Pascal Chimbonda,"1,82m",18875,"['Guadeloupe', 'France']",€7.50m,Sunderland AFC,29,"Feb 21, 1979",Skelmersdale United
+Right-Back,right,,"Jan 1, 2008",Chris Gunter,"1,80m",43853,['Wales'],€4.00m,: Ablöse €3.20m,18,"Jul 21, 1989",Retired
+Right-Back,right,,"Jul 1, 2005",Paul Stalteri,"1,81m",536,"['Canada', 'Italy']",€1.50m,SV Werder Bremen,30,"Oct 18, 1977",Retired
+Defensive Midfield,right,,"Jul 1, 2006",Didier Zokora,"1,80m",13389,"[""Cote d'Ivoire""]",€9.00m,: Ablöse €12.35m,27,"Dec 14, 1980",Retired
+Defensive Midfield,right,,"Jul 1, 2005",Tom Huddlestone,"1,88m",13465,['England'],€4.50m,: Ablöse €4.70m,21,"Dec 28, 1986",Retired
+Defensive Midfield,right,,"Jul 1, 2005",Teemu Tainio,"1,75m",4741,['Finland'],€3.00m,AJ Auxerre,28,"Nov 27, 1979",Retired
+Central Midfield,right,,"Aug 1, 2005",Jermaine Jenas,"1,81m",3461,['England'],€11.50m,Newcastle United,25,"Feb 18, 1983",Retired
+Central Midfield,right,,"Aug 31, 2006",Steed Malbranque,"1,71m",3569,"['France', 'Belgium']",€9.00m,Fulham FC,28,"Jan 6, 1980",Retired
+Central Midfield,right,,"Jul 1, 2007",Adel Taarabt,"1,85m",45287,"['Morocco', 'France']",€3.00m,: Ablöse €4.00m,19,"May 24, 1989",Al-Nasr SC (UAE)
+Central Midfield,right,,"Jan 31, 2006",Hossam Ghaly,"1,83m",7448,['Egypt'],€2.00m,: Ablöse €3.00m,26,"Dec 15, 1981",Retired
+Central Midfield,left,,"Jul 1, 2007",Jamie O'Hara,"1,80m",38090,['England'],€1.00m,Tottenham Hotspur Reserves,21,"Sep 25, 1986",Retired
+Attacking Midfield,right,,"Jul 1, 2007",Kevin-Prince Boateng,"1,86m",16922,"['Ghana', 'Germany']",€5.00m,: Ablöse €7.90m,21,"Mar 6, 1987",Retired
+Left Winger,right,,"Jul 1, 2005",Wayne Routledge,"1,70m",14066,"['England', 'Jamaica']",€1.75m,: Ablöse €3.00m,23,"Jan 7, 1985",Retired
+Left Winger,right,,"Mar 14, 2011",Simon Dawkins,"1,77m",57488,"['Jamaica', 'England']",€50k,Without Club,20,"Dec 1, 1987",Retired
+Right Winger,right,,"Jul 1, 2005",Aaron Lennon,"1,65m",14221,"['England', 'Ireland']",€12.50m,Leeds United,21,"Apr 16, 1987",Retired
+Right Winger,left,,"Sep 19, 2020",Gareth Bale,"1,86m",39381,['Wales'],€11.00m,Real Madrid,18,"Jul 16, 1989",Retired
+Centre-Forward,,,"Jul 1, 2006",Dimitar Berbatov,,65,['Bulgaria'],€24.00m,Bayer 04 Leverkusen,27,"Jan 30, 1981",Retired
+Centre-Forward,right,,"Feb 2, 2009",Robbie Keane,"1,75m",3144,['Ireland'],€16.50m,: Ablöse €16.70m,27,"Jul 8, 1980",Retired
+Centre-Forward,right,,"Jul 1, 2007",Darren Bent,"1,80m",13239,"['England', 'Jamaica']",€14.00m,Charlton Athletic,24,"Feb 6, 1984",Retired
+Centre-Forward,right,,"Jan 6, 2009",Jermain Defoe,"1,71m",3875,"['England', 'St. Lucia']",€9.00m,: Ablöse €16.40m,25,"Oct 7, 1982",Retired

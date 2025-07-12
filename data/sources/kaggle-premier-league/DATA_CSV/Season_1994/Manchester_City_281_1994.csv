@@ -1,0 +1,34 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jul 1, 1988",Andy Dibble,"1,89m",39339,['Wales'],: Ablöse €304k,30,"May 8, 1965",Retired
+Goalkeeper,left,"Jul 20, 1990",Tony Coton,"1,88m",176010,['England'],: Ablöse €1.15m,34,"May 19, 1961",Retired
+Goalkeeper,,"Jul 1, 1990",Martyn Margetson,"1,83m",12718,['Wales'],Unknown,23,"Sep 8, 1971",Retired
+Goalkeeper,,"Oct 27, 1994",Simon Tracey,,224428,['England'],Sheffield United,27,"Dec 9, 1967",Retired
+Goalkeeper,,"Dec 15, 1994",John Burridge,,228060,['England'],Falkirk FC,43,"Dec 3, 1951",Retired
+Centre-Back,,"Jul 1, 1993",Alan Kernaghan,,14619,"['Ireland', 'England']",: Ablöse €2.40m,28,"Apr 25, 1967",Retired
+Centre-Back,,"Aug 1, 1991",Keith Curle,"1,83m",101316,['England'],: Ablöse ?,31,"Nov 14, 1963",Retired
+Centre-Back,,"Jan 1, 1992",Michel Vonk,,150889,['Netherlands'],: Ablöse ?,26,"Oct 28, 1968",Retired
+Centre-Back,,"Jul 1, 1988",David Brightwell,"1,85m",222212,['England'],: Ablöse -,24,"Jan 7, 1971",Retired
+Left-Back,left,"Aug 1, 1992",Terry Phelan,"1,72m",102495,"['Ireland', 'England']",: Ablöse ?,28,"Mar 16, 1967",Retired
+Left-Back,,"Jul 9, 1993",Rae Ingram,,226942,['England'],: Ablöse -,20,"Dec 6, 1974",Retired
+Right-Back,right,"Jul 1, 1991",Andy Hill,"1,80m",222219,['England'],Bury FC,30,"Jan 20, 1965",Retired
+Right-Back,right,"Jul 1, 1986",Ian Brightwell,"1,78m",67373,['England'],: Ablöse -,27,"Apr 9, 1968",Retired
+Right-Back,right,"Jul 1, 1992",Richard Edghill,"1,75m",13724,['England'],: Ablöse -,20,"Sep 23, 1974",Retired
+Right-Back,right,"Jul 15, 1992",John Foster,"1,78m",226719,['England'],: Ablöse -,21,"Sep 19, 1973",Retired
+Central Midfield,,"Dec 24, 1991",Steve McMahon,,101387,['England'],: Ablöse €1.03m,33,"Aug 20, 1961",Retired
+Central Midfield,right,,Garry Flitcroft,"1,80m",3706,['England'],,22,"Nov 6, 1972",Retired
+Central Midfield,,,Mike Quigley,,229832,['England'],,24,"Oct 2, 1970",Retired
+Central Midfield,,"Jul 1, 1990",Steve Lomas,,3801,"['Northern Ireland', 'Germany']",: Ablöse -,21,"Jan 18, 1974",Retired
+Central Midfield,,,David Kerr,"1,80m",226944,['Scotland'],,20,"Sep 6, 1974",Retired
+Central Midfield,right,"Oct 28, 1986",Paul Lake,"1,83m",177122,['England'],: Ablöse -,26,"Oct 28, 1968",Retired
+Right Midfield,right,"Jul 1, 1994",Nicky Summerbee,"1,80m",10378,['England'],Swindon Town,23,"Aug 26, 1971",Retired
+Right Midfield,right,"Mar 6, 1992",Fitzroy Simpson,"1,73m",157682,"['Jamaica', 'England']",Swindon Town,25,"Feb 26, 1970",Retired
+Attacking Midfield,,"Jan 1, 1995",Maurizio Gaudino,,9320,"['Germany', 'Italy']",: Ablöse €250k,28,"Dec 12, 1966",Retired
+Left Winger,left,"Mar 1, 1994",Peter Beagrie,,138385,['England'],: Ablöse €1.70m,29,"Nov 28, 1965",Retired
+Centre-Forward,right,,Mike Sheron,"1,78m",21362,['England'],,23,"Jan 11, 1972",Retired
+Centre-Forward,,"Feb 12, 1993",Steve Finney,,889024,['England'],: Ablöse free transfer,21,"Oct 31, 1973",---
+Centre-Forward,,"Mar 10, 1994",Paul Walsh,"1,73m",202797,['England'],: Ablöse €850k,32,"Oct 1, 1962",Retired
+Centre-Forward,,"Mar 21, 1990",Niall Quinn,,104110,['Ireland'],: Ablöse €920k,28,"Oct 6, 1966",Retired
+Centre-Forward,,"Jul 1, 1993",Carl Griffiths,"1,75m",222217,"['Wales', 'England']",: Ablöse €600k,23,"Jul 16, 1971",Retired
+Centre-Forward,,"Jul 15, 1992",Adie Mike,,228081,['England'],: Ablöse -,21,"Nov 16, 1973",Retired
+Centre-Forward,right,"Mar 2, 1994",Uwe Rösler,"1,85m",1440,['Germany'],: Ablöse €1.00m,26,"Nov 15, 1968",Retired
+Centre-Forward,,,Scott Thomas,"1,75m",228268,['England'],,20,"Oct 30, 1974",Retired

@@ -1,0 +1,34 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jan 10, 2006",Antti Niemi,"1,86m",3101,['Finland'],€4.50m,Southampton FC,34,"May 31, 1972",Retired
+Goalkeeper,left,"Jul 1, 2004",Ricardo Batista,"1,92m",24846,"['Angola', 'Portugal']",€1.00m,Vitória Setúbal FC U19,19,"Nov 19, 1986",Casa Pia AC
+Goalkeeper,right,"Jul 1, 2005",Jaroslav Drobný,"1,92m",12864,['Czech Republic'],€1.00m,: Ablöse free transfer,26,"Oct 18, 1979",Retired
+Goalkeeper,right,"Jul 1, 2003",Mark Crossley,"1,91m",4041,"['Wales', 'England']",€500k,: Ablöse €750k,37,"Jun 16, 1969",Retired
+Goalkeeper,right,"Aug 1, 2005",Tony Warner,"1,93m",10259,"['Trinidad and Tobago', 'England']",€500k,: Ablöse free transfer,32,"May 11, 1974",Retired
+Centre-Back,right,"Jul 1, 1999",Zat Knight,"1,98m",4012,['England'],€3.30m,Fulham FC U18,26,"May 2, 1980",Retired
+Centre-Back,left,"Jan 13, 2003",Carlos Bocanegra,"1,83m",15829,"['United States', 'Mexico']",€2.50m,: Ablöse free transfer,27,"May 25, 1979",Retired
+Centre-Back,right,"Apr 1, 2001",Alain Goma,"1,83m",4011,['France'],€2.00m,Newcastle United,33,"Oct 5, 1972",Retired
+Centre-Back,right,"Jan 1, 2004",Ian Pearce,"1,85m",3879,['England'],€1.50m,: Ablöse €1.60m,32,"May 7, 1974",Retired
+Centre-Back,right,"Jul 1, 2005",Philippe Christanval,"1,89m",6741,"['France', 'Guadeloupe']",€1.00m,Olympique Marseille,27,"Aug 31, 1978",Retired
+Centre-Back,right,"Jul 1, 2003",Zesh Rehman,"1,89m",12122,"['Pakistan', 'England']",€600k,Fulham FC U18,22,"Oct 14, 1983",Retired
+Centre-Back,right,"Jul 1, 2003",Dean Leacock,"1,90m",4039,"['England', 'Barbados']",€300k,Fulham FC U18,22,"Jun 10, 1984",Retired
+Centre-Back,left,"Jul 1, 2004",Liam Fontaine,"1,88m",28953,['England'],€50k,Fulham FC U18,20,"Jan 7, 1986",Retired
+Left-Back,left,"Jan 19, 2006",Wayne Bridge,"1,78m",3682,['England'],€7.75m,Chelsea FC,25,"Aug 5, 1980",Retired
+Left-Back,,"Jul 1, 2005",Niclas Jensen,,3809,['Denmark'],€1.40m,Borussia Dortmund,31,"Aug 17, 1974",Retired
+Left-Back,left,"Jul 1, 2003",Adam Green,"1,76m",4766,['England'],€350k,Fulham FC U18,22,"Jan 12, 1984",Ashford Town Middlesex FC
+Left-Back,left,"Jul 1, 2008",Rob Milsom,"1,80m",55851,['England'],,Fulham FC Reserves,19,"Jan 2, 1987",Dorking Wanderers
+Right-Back,,"Jan 1, 2004",Moritz Volz,,4048,['Germany'],€2.80m,: Ablöse €1.00m,23,"Jan 21, 1983",Retired
+Right-Back,right,"Nov 1, 2003",Liam Rosenior,"1,78m",15166,"['England', 'Sierra Leone']",€1.50m,: Ablöse €80k,21,"Jul 9, 1984",Retired
+Defensive Midfield,right,"Jan 1, 2006",Simon Elliott,"1,83m",26831,['New Zealand'],€800k,: Ablöse free transfer,32,"Jun 10, 1974",Retired
+Central Midfield,right,"Aug 2, 2001",Steed Malbranque,"1,71m",3569,"['France', 'Belgium']",€8.20m,: Ablöse €6.60m,26,"Jan 6, 1980",Retired
+Central Midfield,right,"Jul 1, 2004",Papa Bouba Diop,"1,94m",5485,['Senegal'],€5.50m,: Ablöse €9.00m,28,"Jan 28, 1978",---
+Central Midfield,right,"Jul 1, 2001",Sylvain Legwinski,"1,85m",3815,"['France', 'Poland']",€3.00m,: Ablöse €5.25m,33,"Jun 10, 1973",Retired
+Central Midfield,,"Jan 1, 2006",Michael Brown,,13509,['England'],€3.00m,: Ablöse €2.30m,29,"Jan 25, 1977",Retired
+Central Midfield,left,"Jul 1, 2004",Michael Timlin,"1,77m",28951,"['Ireland', 'England']",€125k,Fulham FC U18,21,"Mar 19, 1985",Dulwich Hamlet
+Right Midfield,right,"Jul 1, 2005",Ahmad Elrich,"1,83m",30220,['Australia'],€750k,Busan I'Park,25,"May 30, 1981",Parramatta Eagles
+Left Midfield,left,"Jul 1, 2001",Luís Boa Morte,"1,78m",3422,"['Portugal', 'Sao Tome and Principe']",€3.50m,Southampton FC,28,"Aug 4, 1977",Retired
+Left Midfield,,"Aug 31, 2003",Mark Pembridge,,3615,['Wales'],€1.00m,: Ablöse €750k,35,"Nov 29, 1970",Retired
+Attacking Midfield,right,"Jul 1, 2004",Claus Jensen,"1,83m",3099,['Denmark'],€4.50m,Charlton Athletic,29,"Apr 29, 1977",Retired
+Centre-Forward,left,"Jul 23, 2004",Tomasz Radzinski,"1,74m",3585,"['Canada', 'Poland']",€3.00m,: Ablöse €3.00m,32,"Dec 14, 1973",Retired
+Centre-Forward,right,"Jan 1, 2004",Collins John,"1,85m",4694,"['Netherlands', 'Liberia']",€2.25m,: Ablöse €3.50m,20,"Oct 17, 1985",Retired
+Centre-Forward,right,"Jan 20, 2004",Brian McBride,"1,83m",3469,['United States'],€1.50m,: Ablöse €800k,34,"Jun 19, 1972",Retired
+Centre-Forward,both,"Jul 1, 2005",Heidar Helguson,"1,78m",9886,['Iceland'],€1.20m,Watford FC,28,"Aug 22, 1977",Retired

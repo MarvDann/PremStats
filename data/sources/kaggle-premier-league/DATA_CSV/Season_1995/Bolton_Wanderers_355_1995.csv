@@ -1,0 +1,36 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jul 1, 1992",Keith Branagan,"1,83m",195173,"['Ireland', 'England']",: Ablöse free transfer,29,"Jul 10, 1966",Retired
+Goalkeeper,right,"Jul 1, 1993",Aidan Davison,"1,85m",42041,"['Northern Ireland', 'England']",: Ablöse €35k,28,"May 11, 1968",Retired
+Goalkeeper,,"Mar 1, 1996",Gavin Ward,"1,91m",10045,['England'],Bradford City,26,"Jun 30, 1970",Retired
+Goalkeeper,,"Jul 1, 1992",Mark Westhead,,1031164,['England'],AFC Blackpool,20,"Jul 19, 1975",Retired
+Centre-Back,right,"Aug 1, 1995",Gerry Taggart,"1,88m",4264,['Northern Ireland'],Barnsley FC,25,"Oct 18, 1970",Retired
+Centre-Back,right,"Jul 1, 1995",Greg Strong,"1,88m",29362,['England'],Wigan Athletic,20,"Sep 5, 1975",Retired
+Centre-Back,,"Jan 1, 1995",Gudni Bergsson,,3268,['Iceland'],: Ablöse €95k,30,"Jul 21, 1965",Retired
+Centre-Back,,"Jul 1, 1990",Alan Stubbs,,3472,['England'],Bolton Wanderers U18,24,"Oct 6, 1971",Retired
+Centre-Back,left,"Oct 5, 1994",Simon Coleman,"1,83m",223282,['England'],: Ablöse €318k,28,"Mar 13, 1968",Retired
+Centre-Back,,"Jul 1, 1989",Nicky Spooner,"1,78m",770711,['England'],Bolton Wanderers U18,25,"Jun 5, 1971",Retired
+Centre-Back,,"Jul 1, 1995",Chris Fairclough,,175866,['England'],: Ablöse €540k,32,"Apr 12, 1964",Retired
+Centre-Back,right,"Jul 1, 1995",Andy Todd,"1,78m",3103,['England'],: Ablöse €375k,21,"Sep 21, 1974",Retired
+Centre-Back,,"Jul 1, 1995",Mark Powell,"1,73m",172444,['England'],Stalybridge Celtic,21,"May 8, 1975",Retired
+Left-Back,,"Jul 1, 1993",Jimmy Phillips,,195178,['England'],: Ablöse €286k,30,"Feb 8, 1966",Retired
+Left-Back,,"Mar 1, 1996",Bryan Small,,222733,['England'],: Ablöse free transfer,24,"Nov 15, 1971",Retired
+Right-Back,right,"Sep 18, 1995",Stuart Whitehead,"1,83m",17982,['England'],Bromsgrove Rovers FC,19,"Jul 17, 1976",Retired
+Right-Back,,"Mar 17, 1990",Scott Green,,223564,['England'],: Ablöse €63k,26,"Jan 15, 1970",Retired
+Right-Back,right,"Jul 20, 1994",Neil McDonald,"1,80m",177251,['England'],: Ablöse ?,30,"Nov 2, 1965",Retired
+Right-Back,right,"Sep 30, 1995",Steve McAnespie,"1,75m",176004,['Scotland'],Raith Rovers FC,24,"Feb 1, 1972",Retired
+Defensive Midfield,right,"Jul 1, 1995",Sasa Curcic,"1,78m",174239,['Serbia'],FK Partizan Belgrade,24,"Feb 14, 1972",Retired
+Central Midfield,,"Aug 11, 1994",Richard Sneekes,,149133,['Netherlands'],: Ablöse €227k,27,"Oct 30, 1968",Retired
+Central Midfield,right,"Jan 1, 1991",Mark Patterson,"1,68m",223570,['England'],Bury FC,31,"May 24, 1965",Retired
+Central Midfield,,"Jul 1, 1993",Stuart Whittaker,,223574,['England'],: Ablöse ?,21,"Jan 2, 1975",Retired
+Central Midfield,,"Dec 1, 1995",Wayne Burnett,"1,80m",306884,['England'],Plymouth Argyle,24,"Sep 4, 1971",Retired
+Right Midfield,right,"Jan 22, 1992",Jason McAteer,"1,75m",3710,"['Ireland', 'England']",Marine FC,25,"Jun 18, 1971",Retired
+Right Midfield,,"Nov 2, 1992",David Lee,,223567,['England'],Southampton FC,28,"Nov 5, 1967",Retired
+Left Midfield,left,"Jul 22, 1993",Alan Thompson,"1,83m",3485,['England'],Newcastle United,22,"Dec 22, 1973",Retired
+Left Midfield,left,"Dec 6, 1995",Scott Sellars,"1,73m",175888,['England'],Newcastle United,30,"Nov 27, 1965",Retired
+Right Winger,right,"Jul 1, 1994",Marcus Hallows,"1,85m",677596,['England'],Bolton Wanderers U18,20,"Jul 7, 1975",Retired
+Centre-Forward,right,"Jul 1, 1994",Mixu Paatelainen,"1,83m",14660,['Finland'],Aberdeen FC,29,"Feb 3, 1967",Retired
+Centre-Forward,right,"Jan 1, 1996",Nathan Blake,"1,82m",4229,['Wales'],Sheffield United,24,"Jan 27, 1972",Retired
+Centre-Forward,,"Sep 1, 1992",John McGinlay,"1,75m",149473,['Scotland'],: Ablöse €150k,32,"Apr 8, 1964",Retired
+Centre-Forward,right,"Jul 1, 1994",Fabian de Freitas,"1,85m",148389,"['Netherlands', 'Suriname']",: Ablöse ?,23,"Jul 28, 1972",Retired
+Centre-Forward,right,"Jul 1, 1993",Owen Coyle,"1,78m",12799,"['Ireland', 'Scotland']",Airdrieonians (- 2002),29,"Jul 14, 1966",Retired
+Centre-Forward,right,"Mar 28, 1996",Scott Taylor,"1,78m",36996,['England'],: Ablöse €170k,20,"May 5, 1976",Retired

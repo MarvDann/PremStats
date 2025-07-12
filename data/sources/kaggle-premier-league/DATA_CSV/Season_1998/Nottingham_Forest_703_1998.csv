@@ -1,0 +1,40 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Aug 21, 1997",Dave Beasant,"1,93m",10384,['England'],Southampton FC,40,"Mar 20, 1959",Retired
+Goalkeeper,right,"Jul 1, 1987",Mark Crossley,"1,91m",4041,"['Wales', 'England']",Nottingham Forest U18,30,"Jun 16, 1969",Retired
+Goalkeeper,left,"Jul 1, 1997",Marco Pascolo,"1,89m",4807,"['Switzerland', 'Italy']",: Ablöse ?,33,"May 9, 1966",Retired
+Goalkeeper,,"Jul 1, 1998",Mark Goodlad,"1,85m",48211,['England'],Unknown,19,"Sep 9, 1979",Retired
+Centre-Back,right,"Jul 1, 1996",Nikola Jerkan,"1,88m",81486,['Croatia'],Real Oviedo,34,"Dec 8, 1964",Retired
+Centre-Back,right,"Jan 1, 1999",Jesper Mattsson,"1,86m",227197,['Sweden'],Halmstads BK,31,"Apr 18, 1968",Retired
+Centre-Back,,"Aug 28, 1986",Steve Chettle,"1,85m",168569,['England'],Nottingham Forest U18,30,"Sep 27, 1968",Retired
+Centre-Back,right,"Jul 1, 2004",Jon Olav Hjelde,"1,88m",22225,['Norway'],Busan I'Park,26,"Jul 30, 1972",Retired
+Centre-Back,,"Aug 1, 1997",Chris Doig,"1,88m",9973,['Scotland'],Queen of the South FC,18,"Feb 13, 1981",Retired
+Centre-Back,,"Jan 1, 1999",Richard Gough,,101124,['Scotland'],: Ablöse free transfer,37,"Apr 5, 1962",Retired
+Centre-Back,right,"Mar 26, 1998",Christian Edwards,"1,88m",139093,['Wales'],: Ablöse €275k,23,"Nov 25, 1975",Retired
+Left-Back,left,"Jul 1, 1996",Andy Dawson,"1,75m",36860,['England'],Nottingham Forest U18,20,"Oct 20, 1978",Retired
+Left-Back,left,"Feb 13, 2004",Alan Rogers,"1,78m",4263,['England'],: Ablöse free transfer,22,"Jan 3, 1977",Retired
+Left-Back,left,"Jul 1, 1992",Craig Armstrong,"1,80m",13396,['England'],Nottingham Forest U18,24,"May 23, 1975",Retired
+Left-Back,,"Jul 1, 1997",Thierry Bonalair,"1,73m",210380,['France'],: Ablöse ?,33,"Jun 14, 1966",Retired
+Left-Back,left,"Jan 29, 1999",Ståle Stensaas,"1,79m",12381,['Norway'],: Ablöse ?,27,"Jul 7, 1971",Retired
+Right-Back,right,"Jul 1, 1999",Mathieu Louis-Jean,"1,75m",3902,['France'],: Ablöse free transfer,23,"Feb 22, 1976",Retired
+Right-Back,right,"Jul 1, 1993",Des Lyttle,"1,75m",3674,['England'],: Ablöse ?,27,"Sep 24, 1971",Retired
+Defensive Midfield,,"Jan 1, 1999",Carlton Palmer,,101325,['England'],Southampton FC,33,"Dec 5, 1965",Retired
+Central Midfield,,"Jul 1, 1997",Geoff Thomas,"1,78m",222541,['England'],: Ablöse free transfer,34,"Aug 5, 1964",Retired
+Central Midfield,left,"Jul 1, 1998",Nigel Quashie,"1,75m",4139,"['Scotland', 'England']",: Ablöse €3.75m,20,"Jul 20, 1978",Retired
+Central Midfield,right,"Jan 5, 1990",Scot Gemmill,"1,81m",3617,['Scotland'],Nottingham Forest U18,28,"Jan 2, 1971",Retired
+Central Midfield,right,"Jul 1, 1998",Gareth Williams,"1,86m",9997,['Scotland'],Nottingham Forest U18,17,"Dec 16, 1981",Retired
+Right Midfield,right,,Steve Melton,"1,78m",34611,['England'],,20,"Oct 3, 1978",Retired
+Right Midfield,left,"Feb 18, 1998",Glyn Hodges,"1,85m",221987,"['Wales', 'England']",: Ablöse ?,36,"Apr 30, 1963",Retired
+Right Midfield,right,"Jul 1, 1989",Steve Stone,"1,75m",3364,['England'],Nottingham Forest U18,27,"Aug 20, 1971",Retired
+Right Midfield,right,"Jan 28, 1999",John Harkes,"1,81m",102005,['United States'],: Ablöse ?,32,"Mar 8, 1967",Retired
+Attacking Midfield,right,"Jul 1, 1997",Andy Johnson,"1,83m",3672,"['Wales', 'England']",: Ablöse €3.30m,25,"May 2, 1974",Retired
+Attacking Midfield,right,"Jul 1, 1995",Chris Bart-Williams,"1,80m",3293,"['England', 'Sierra Leone']",: Ablöse €3.75m,25,"Jun 16, 1974",---
+Attacking Midfield,left,"Mar 1, 1990",Ian Woan,"1,83m",168600,['England'],Runcorn FC Halton,31,"Dec 14, 1967",Retired
+Left Winger,left,"Jan 26, 1999",Porfírio,"1,72m",17187,['Portugal'],: Ablöse ?,25,"Sep 28, 1973",Retired
+Right Winger,,"Jan 1, 1999",Bernard Allou,"1,72m",140391,"['France', ""Cote d'Ivoire""]",: Ablöse ?,24,"Jun 19, 1975",Retired
+Centre-Forward,right,"Sep 21, 1998",Neil Shipperley,"1,85m",13801,['England'],: Ablöse €2.10m,24,"Oct 30, 1974",Retired
+Centre-Forward,both,"Jul 1, 1998",Dougie Freedman,"1,75m",13787,['Scotland'],: Ablöse €1.10m,25,"May 25, 1974",Retired
+Centre-Forward,right,"Jul 1, 1998",Jean-Claude Darcheville,"1,73m",5382,"['French Guiana', 'France']",: Ablöse free transfer,23,"Jul 25, 1975",Retired
+Centre-Forward,right,"Jul 1, 1992",Steve Guinan,"1,83m",16670,['England'],Nottingham Forest U18,23,"Dec 24, 1975",Retired
+Centre-Forward,right,"Jul 1, 1998",Andy Gray,"1,83m",13575,"['Scotland', 'England']",: Ablöse €200k,21,"Nov 15, 1977",Retired
+Centre-Forward,right,"Jan 1, 2012",Marlon Harewood,"1,85m",10011,"['England', 'Barbados']",: Ablöse free transfer,19,"Aug 25, 1979",Retired
+Centre-Forward,right,"Jul 1, 1996",Pierre van Hooijdonk,"1,93m",3520,"['Netherlands', 'Morocco']",Celtic FC,29,"Nov 29, 1969",Retired

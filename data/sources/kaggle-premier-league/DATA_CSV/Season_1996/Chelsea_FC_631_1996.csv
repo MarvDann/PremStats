@@ -1,0 +1,33 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jul 1, 1987",Kevin Hitchcock,"1,85m",26168,['England'],Mansfield Town,34,"Oct 5, 1962",Retired
+Goalkeeper,right,"Jan 1, 1993",Dmitriy Kharin,"1,88m",67109,['Russia'],: Ablöse €400k,28,"Aug 16, 1968",Retired
+Goalkeeper,,"Jul 1, 1992",Nick Colgan,"1,85m",12690,['Ireland'],Drogheda United FC,23,"Sep 19, 1973",Retired
+Goalkeeper,right,"Jul 1, 1996",Frode Grodås,"1,88m",263,['Norway'],Lillestrøm SK,32,"Oct 24, 1964",Retired
+Goalkeeper,right,"Mar 1, 1997",Craig Forrest,"1,96m",107807,['Canada'],Ipswich Town,29,"Sep 20, 1967",Retired
+Centre-Back,right,"Jul 1, 1996",Frank Leboeuf,"1,83m",5314,['France'],: Ablöse €3.45m,29,"Jan 22, 1968",Retired
+Centre-Back,both,"Jul 1, 1993",Michael Duberry,"1,85m",3633,"['England', 'Montserrat']",: Ablöse -,21,"Oct 14, 1975",Retired
+Centre-Back,right,"Jul 1, 1988",David Lee,"1,91m",107092,['England'],: Ablöse -,27,"Nov 26, 1969",Retired
+Centre-Back,right,"Dec 6, 1989",Erland Johnsen,"1,83m",95371,['Norway'],: Ablöse €335k,30,"Apr 5, 1967",Retired
+Centre-Back,left,"Jul 1, 1990",Frank Sinclair,"1,78m",8056,"['Jamaica', 'England']",: Ablöse -,25,"Dec 3, 1971",Retired
+Centre-Back,left,"Jul 1, 1996",Neil Clement,"1,83m",3789,['England'],: Ablöse -,18,"Oct 3, 1978",Retired
+Left-Back,left,"Jul 1, 1991",Andy Myers,"1,77m",15058,['England'],: Ablöse -,23,"Nov 3, 1973",Retired
+Left-Back,left,"Nov 1, 1995",Terry Phelan,"1,72m",102495,"['Ireland', 'England']",: Ablöse €1.10m,30,"Mar 16, 1967",Retired
+Left-Back,left,"Jul 1, 1994",Scott Minto,"1,78m",3884,['England'],Charlton Athletic,25,"Aug 6, 1971",Retired
+Left-Back,left,"Mar 21, 1997",Danny Granville,"1,80m",13789,['England'],Cambridge United,22,"Jan 19, 1975",Retired
+Right-Back,right,"Nov 18, 1995",Dan Petrescu,"1,77m",102023,"['Romania', 'England']",: Ablöse €3.50m,29,"Dec 22, 1967",Retired
+Right-Back,right,"Jan 19, 1987",Steve Clarke,"1,78m",107084,['Scotland'],St. Mirren FC,33,"Aug 29, 1963",Retired
+Right-Back,right,"Mar 1, 1997",Paul Parker,"1,70m",101381,['England'],: Ablöse ?,33,"Apr 4, 1964",Retired
+Defensive Midfield,right,"Jul 3, 1990",Dennis Wise,"1,68m",4006,['England'],: Ablöse €2.40m,30,"Dec 16, 1966",Retired
+Central Midfield,right,"Aug 12, 1993",Gavin Peacock,"1,73m",175582,['England'],Newcastle United,29,"Nov 18, 1967",Retired
+Central Midfield,right,"Jul 1, 1996",Roberto Di Matteo,"1,80m",103679,"['Italy', 'Switzerland']",SS Lazio,27,"May 29, 1970",Retired
+Central Midfield,right,"Jul 1, 1995",Jody Morris,"1,65m",3171,['England'],: Ablöse -,18,"Dec 22, 1978",Retired
+Central Midfield,right,"Jul 1, 1990",Eddie Newton,"1,80m",107094,['England'],: Ablöse -,25,"Dec 13, 1971",Retired
+Central Midfield,right,"Jul 1, 1994",Paul Hughes,"1,83m",33494,['England'],: Ablöse -,21,"Apr 19, 1976",Retired
+Attacking Midfield,,"Jul 1, 1995",Ruud Gullit,,101045,"['Netherlands', 'Suriname']",UC Sampdoria,34,"Sep 1, 1962",Retired
+Attacking Midfield,right,"Jul 1, 1989",Craig Burley,"1,85m",11319,['Scotland'],: Ablöse -,25,"Sep 24, 1971",Retired
+Second Striker,right,"Jul 1, 1995",Mark Hughes,"1,78m",8022,['Wales'],: Ablöse €1.90m,33,"Nov 1, 1963",Retired
+Second Striker,right,"Nov 8, 1996",Gianfranco Zola,"1,68m",3177,['Italy'],: Ablöse €6.20m,30,"Jul 5, 1966",Retired
+Centre-Forward,right,"Jul 1, 1996",Gianluca Vialli,"1,80m",16036,['Italy'],: Ablöse free transfer,32,"Jul 9, 1964",---
+Centre-Forward,,"Jul 1, 1992",John Spencer,,27004,['Scotland'],: Ablöse free transfer,26,"Sep 11, 1970",Retired
+Centre-Forward,left,"Jul 1, 1995",Mark Nicholls,"1,78m",107095,['England'],: Ablöse -,20,"May 30, 1977",Retired
+Striker,,"Jul 1, 1996",Joe Sheerin,,107103,['England'],Unknown,19,"Nov 8, 1977",Retired

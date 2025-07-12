@@ -1,0 +1,33 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jan 1, 2001",Russell Hoult,"1,93m",3653,['England'],€1.25m,: Ablöse €700k,32,"Nov 22, 1972",Retired
+Goalkeeper,right,"Jul 1, 2002",Joe Murphy,"1,88m",3655,['Ireland'],€300k,: Ablöse €250k,23,"Aug 21, 1981",Tranmere Rovers
+Goalkeeper,,"Jul 14, 2004",Tomasz Kuszczak,,1320,"['Poland', 'England']",€300k,: Ablöse free transfer,23,"Mar 20, 1982",Retired
+Goalkeeper,right,"Jan 1, 2004",Simon Miotto,"1,85m",14653,"['Australia', 'Italy']",€150k,: Ablöse free transfer,35,"Sep 5, 1969",Retired
+Centre-Back,both,"Jul 1, 2004",Martin Albrechtsen,"1,85m",14960,['Denmark'],€3.50m,: Ablöse €3.75m,25,"Mar 31, 1980",FK Prespa
+Centre-Back,right,"Jul 1, 2004",Darren Purse,"1,88m",3106,['England'],€3.00m,: Ablöse €900k,28,"Feb 14, 1977",Retired
+Centre-Back,right,"Jul 1, 2004",Riccardo Scimeca,"1,85m",5174,['England'],€1.75m,: Ablöse €150k,30,"Jun 13, 1975",Retired
+Centre-Back,right,"Sep 1, 2001",Darren Moore,"1,88m",3243,"['Jamaica', 'England']",€1.50m,: Ablöse €1.10m,31,"Apr 22, 1974",Retired
+Centre-Back,left,"Mar 1, 2000",Neil Clement,"1,83m",3789,['England'],€1.25m,: Ablöse €150k,26,"Oct 3, 1978",Retired
+Centre-Back,right,"Jul 1, 2003",Thomas Gaardsöe,"1,88m",9984,['Denmark'],€800k,Ipswich Town,26,"Jan 23, 1979",Retired
+Centre-Back,right,"Jul 1, 2003",Sekou Berthé,"1,93m",8734,['Mali'],€500k,: Ablöse free transfer,27,"Oct 7, 1977",Retired
+Centre-Back,,"Aug 1, 1999",Lárus Orri Sigurdsson,,3657,['Iceland'],,: Ablöse €500k,32,"Jun 4, 1973",Retired
+Left-Back,left,"Oct 14, 2003",Paul Robinson,"1,75m",14063,['England'],€850k,Watford FC,26,"Dec 14, 1978",Retired
+Left-Back,left,"Jan 29, 2005",Kieran Richardson,"1,77m",3548,['England'],€500k,Manchester United,20,"Oct 21, 1984",Retired
+Right-Back,,"Jul 1, 2003",Bernt Haas,,2888,"['Switzerland', 'Austria']",€1.50m,Sunderland AFC,27,"Apr 8, 1978",Retired
+Right-Back,right,"Jul 1, 2004",Cosmin Contra,"1,80m",5808,"['Romania', 'Spain']",,: Ablöse free transfer,29,"Dec 15, 1975",Retired
+Defensive Midfield,right,"Jul 1, 2004",Junichi Inamoto,"1,81m",3568,['Japan'],€2.25m,: Ablöse €300k,25,"Sep 18, 1979",Nankatsu SC
+Central Midfield,right,"Jul 29, 2004",Jonathan Greening,"1,80m",3865,['England'],€4.00m,: Ablöse €1.75m,26,"Jan 2, 1979",Retired
+Central Midfield,right,"Jan 31, 2005",Richard Chaplow,"1,75m",9975,['England'],€2.50m,: Ablöse €2.25m,20,"Feb 2, 1985",Retired
+Central Midfield,left,"Jul 1, 2002",Ronnie Wallwork,"1,78m",3305,['England'],€500k,Manchester United,27,"Sep 10, 1977",Retired
+Central Midfield,right,"Jul 1, 2003",James O'Connor,"1,73m",3786,['Ireland'],€300k,Stoke City,25,"Sep 1, 1979",Retired
+Left Midfield,left,"Jul 1, 2003",Artim Sakiri,"1,77m",9992,"['North Macedonia', 'Albania']",€600k,: Ablöse €300k,31,"Sep 23, 1973",Retired
+Left Midfield,left,"Jul 9, 2001",Lloyd Dyer,"1,73m",3668,"['England', 'Montserrat']",€350k,: Ablöse free transfer,22,"Sep 13, 1982",Retired
+Attacking Midfield,right,"Aug 2, 2011",Zoltán Gera,"1,83m",18324,['Hungary'],€3.00m,Fulham FC,26,"Apr 22, 1979",Retired
+Attacking Midfield,left,"Aug 29, 2002",Jason Koumas,"1,77m",3661,"['Wales', 'Cyprus']",€2.50m,: Ablöse €3.45m,25,"Sep 25, 1979",Retired
+Attacking Midfield,right,"Jul 1, 2001",Andy Johnson,"1,83m",3672,"['Wales', 'England']",€2.00m,: Ablöse €300k,31,"May 2, 1974",Retired
+Centre-Forward,right,"Sep 1, 2004",Robert Earnshaw,"1,73m",12707,"['Wales', 'Zambia']",€5.00m,: Ablöse €4.50m,24,"Apr 6, 1981",Retired
+Centre-Forward,right,"Jul 30, 2004",Nwankwo Kanu,"1,97m",3133,['Nigeria'],€4.00m,: Ablöse free transfer,28,"Aug 1, 1976",Retired
+Centre-Forward,right,"Jul 11, 2001",Scott Dobie,"1,85m",3665,['Scotland'],€2.50m,Carlisle United,26,"Oct 10, 1978",Retired
+Centre-Forward,right,"Jan 11, 2005",Kevin Campbell,"1,83m",3468,"['England', 'Jamaica']",€1.50m,: Ablöse free transfer,35,"Feb 4, 1970",---
+Centre-Forward,right,"Dec 1, 2003",Geoff Horsfield,"1,83m",3792,['England'],€1.25m,Wigan Athletic,31,"Nov 1, 1973",Retired
+Centre-Forward,right,"Jul 1, 2003",Rob Hulse,"1,85m",9980,['England'],€1.00m,Crewe Alexandra,25,"Oct 25, 1979",Retired

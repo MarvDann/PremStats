@@ -1,0 +1,38 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 2008",Paul Robinson,"1,93m",3630,['England'],€5.00m,Tottenham Hotspur,31,"Oct 15, 1979",Retired
+Goalkeeper,right,"Aug 1, 2008",Mark Bunn,"1,83m",49319,"['England', 'Ireland']",€500k,: Ablöse €150k,26,"Nov 16, 1984",Retired
+Goalkeeper,,"Jul 1, 2006",Jason Brown,,15916,['Wales'],€500k,Gillingham FC,29,"May 18, 1982",Retired
+Goalkeeper,right,"Jul 1, 2007",Frank Fielding,"1,85m",57070,['England'],€250k,Blackburn Rovers U18,23,"Apr 4, 1988",Stoke City
+Centre-Back,,"Jan 25, 2007",Christopher Samba,,29016,"['Congo', 'France']",€7.50m,: Ablöse €500k,27,"Mar 28, 1984",Retired
+Centre-Back,left,"Jul 1, 2009",Gaël Givet,"1,81m",5286,['France'],€4.50m,Olympique Marseille,29,"Oct 9, 1981",Retired
+Centre-Back,right,"Jan 1, 2010",Phil Jones,"1,85m",117996,['England'],€3.50m,Blackburn Rovers Reserves,19,"Feb 21, 1992",Retired
+Centre-Back,right,"Jan 6, 2005",Ryan Nelsen,"1,85m",28878,['New Zealand'],€3.00m,: Ablöse free transfer,33,"Oct 18, 1977",Retired
+Centre-Back,right,"Oct 1, 2010",Hérold Goulon,"1,95m",41978,['France'],€1.00m,Without Club,23,"Jun 12, 1988",Without Club
+Centre-Back,right,"Jul 1, 2006",Zurab Khizanishvili,"1,86m",9621,['Georgia'],€750k,: Ablöse €750k,29,"Oct 6, 1981",Retired
+Centre-Back,right,"Jan 1, 2010",Grant Hanley,"1,88m",121385,['Scotland'],€500k,Blackburn Rovers U18,19,"Nov 20, 1991",Norwich City
+Left-Back,left,"Jul 1, 2007",Martin Olsson,"1,78m",38073,['Sweden'],€2.00m,Blackburn Rovers U18,23,"May 17, 1988",Malmö FF
+Right-Back,both,"Jul 1, 2009",Lars Jacobsen,"1,81m",1423,['Denmark'],€2.00m,: Ablöse free transfer,31,"Sep 20, 1979",Retired
+Right-Back,right,"Aug 27, 2009",Pascal Chimbonda,"1,82m",18875,"['Guadeloupe', 'France']",€2.00m,Tottenham Hotspur,32,"Feb 21, 1979",Skelmersdale United
+Right-Back,right,"Aug 1, 2009",Míchel Salgado,"1,74m",7515,['Spain'],€1.00m,Real Madrid,35,"Oct 22, 1975",Retired
+Defensive Midfield,both,"Jan 18, 2011",Jermaine Jones,"1,84m",1321,"['United States', 'Germany']",€5.00m,FC Schalke 04,29,"Nov 3, 1981",Retired
+Defensive Midfield,right,"Jul 1, 2009",Steven Nzonzi,"1,96m",73734,"['France', 'DR Congo']",€4.00m,: Ablöse €580k,22,"Dec 15, 1988",Sepahan FC
+Defensive Midfield,right,"Jul 1, 2010",Jason Lowe,"1,83m",117997,['England'],€50k,Blackburn Rovers U18,19,"Sep 2, 1991",Port Vale FC
+Central Midfield,left,"Aug 27, 2004",Morten Gamst Pedersen,"1,83m",22741,['Norway'],€7.50m,Tromsø IL,29,"Sep 8, 1981",Retired
+Central Midfield,both,"Aug 26, 2008",Vincenzo Grella,"1,83m",6021,"['Australia', 'Italy']",€2.00m,Torino FC,31,"Oct 5, 1979",Retired
+Central Midfield,right,"Aug 28, 2008",Keith Andrews,"1,83m",8035,"['Ireland', 'England']",€2.00m,Milton Keynes Dons,30,"Sep 13, 1980",Retired
+Central Midfield,right,"Jul 1, 2013",Alan Judge,"1,68m",42249,['Ireland'],€50k,Notts County,22,"Nov 11, 1988",Woking FC
+Central Midfield,right,"Jan 28, 2010",Amine Linganzi,"1,86m",88596,"['Congo', 'France']",,: Ablöse free transfer,21,"Nov 16, 1989",Retired
+Right Midfield,right,"Jul 10, 2003",Brett Emerton,"1,85m",4367,['Australia'],€3.00m,: Ablöse €3.00m,32,"Feb 22, 1979",Retired
+Right Midfield,both,"Jul 1, 2009",Aaron Doran,"1,70m",96148,['Ireland'],€75k,Blackburn Rovers U18,20,"May 13, 1991",Strathspey Thistle FC
+Left Midfield,left,"Jul 1, 2010",Josh Morris,"1,80m",121391,['England'],€50k,Blackburn Rovers U18,19,"Sep 30, 1991",Without Club
+Attacking Midfield,right,"Jan 17, 2007",David Dunn,"1,78m",4243,['England'],€4.50m,: Ablöse €3.20m,31,"Dec 27, 1979",Retired
+Attacking Midfield,right,"Jan 31, 2011",Mauro Formica,"1,79m",55870,"['Argentina', 'Italy']",€3.50m,CA Newell's Old Boys,23,"Apr 4, 1988",Retired
+Attacking Midfield,,,Robbie Cotton,"1,80m",134415,['England'],,,16,"Sep 15, 1994",Goole AFC
+Left Winger,right,"Jul 1, 2009",Junior Hoilett,"1,74m",58993,"['Canada', 'Jamaica']",€3.00m,Blackburn Rovers Reserves,21,"Jun 5, 1990",Hibernian FC
+Right Winger,left,"Jan 1, 2011",Rubén Rochina,"1,82m",67548,['Spain'],€800k,FC Barcelona B,20,"Mar 23, 1991",Without Club
+Centre-Forward,right,"Jan 14, 2011",Roque Santa Cruz,"1,93m",215,"['Paraguay', 'Spain']",€5.00m,: Ablöse free transfer,29,"Aug 16, 1981",Club Libertad Asunción
+Centre-Forward,both,"Aug 3, 2009",Nikola Kalinić,"1,87m",36371,['Croatia'],€4.50m,HNK Hajduk Split,23,"Jan 5, 1988",Retired
+Centre-Forward,right,"Aug 6, 2010",Mame Diouf,"1,85m",62049,['Senegal'],€4.00m,Manchester United,23,"Dec 16, 1987",Ankara Keciörengücü
+Centre-Forward,right,"Aug 1, 2010",Benjani,"1,88m",12063,['Zimbabwe'],€3.50m,: Ablöse free transfer,32,"Aug 13, 1978",Retired
+Centre-Forward,right,"Jan 30, 2009",El-Hadji Diouf,"1,80m",3604,"['Senegal', 'France']",€3.00m,Sunderland AFC,30,"Jan 15, 1981",Retired
+Centre-Forward,right,"Jul 3, 2006",Jason Roberts,"1,85m",3666,"['Grenada', 'England']",€2.00m,Wigan Athletic,33,"Jan 25, 1978",Retired

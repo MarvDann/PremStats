@@ -1,0 +1,44 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Mar 1, 2002",Jeff Cassar,,39458,['United States'],: Ablöse ?,28,"Feb 2, 1974",Retired
+Goalkeeper,right,"Mar 25, 1999",Steve Banks,"1,80m",3287,['England'],Blackpool FC,30,"Feb 9, 1972",Retired
+Goalkeeper,right,"Nov 1, 1997",Jussi Jääskeläinen,"1,91m",3692,['Finland'],: Ablöse €150k,27,"Apr 19, 1975",Retired
+Goalkeeper,,"Oct 26, 2001",Kevin Poole,"1,78m",16832,['England'],: Ablöse free transfer,38,"Jul 21, 1963",Retired
+Goalkeeper,,"Nov 1, 2001",Jani Viander,"1,92m",6247,['Finland'],: Ablöse ?,26,"Aug 18, 1975",Retired
+Centre-Back,right,"Aug 31, 2001",Bruno N'Gotty,"1,85m",3964,"['France', 'Cameroon']",: Ablöse €750k,31,"Jun 10, 1971",Retired
+Centre-Back,,"Jan 1, 1998",Mike Whitlow,"1,83m",3318,['England'],: Ablöse €750k,34,"Jan 13, 1968",Retired
+Centre-Back,,"Jan 1, 1995",Gudni Bergsson,,3268,['Iceland'],: Ablöse €95k,36,"Jul 21, 1965",Retired
+Centre-Back,right,"Feb 12, 2001",Colin Hendry,"1,86m",103642,['Scotland'],Coventry City,36,"Dec 7, 1965",Retired
+Centre-Back,right,"Nov 1, 1998",Paul Warhurst,"1,83m",3307,['England'],: Ablöse €1.10m,32,"Sep 26, 1969",Retired
+Centre-Back,right,"Jul 1, 1998",Dean Holden,"1,85m",45627,"['Northern Ireland', 'England']",Bolton Wanderers U18,22,"Sep 15, 1979",Retired
+Centre-Back,,"Aug 1, 2000",Ian Marshall,"1,86m",107794,['England'],: Ablöse free transfer,36,"Mar 20, 1966",Retired
+Centre-Back,,"Jul 1, 2001",Djibril Diawara,"1,88m",171813,"['Senegal', 'France']",: Ablöse ?,27,"Jan 3, 1975",Retired
+Centre-Back,,"Jan 1, 2002",Konstantinos Konstantinidis,,343,['Greece'],: Ablöse free transfer,29,"Aug 31, 1972",Retired
+Centre-Back,right,"Jul 1, 2001",Wayne Buchanan,"1,88m",3944,['Northern Ireland'],Bolton Wanderers U18,20,"Jan 12, 1982",Retired
+Left-Back,,"Jul 1, 1998",Ricardo Gardner,,6264,['Jamaica'],Harbour View FC,23,"Sep 25, 1978",Retired
+Left-Back,,"Jul 1, 2000",Anthony Barness,"1,78m",3288,['England'],Charlton Athletic,29,"Feb 25, 1973",Retired
+Left-Back,right,"Jul 19, 2000",Simon Charlton,"1,73m",19846,['England'],: Ablöse free transfer,30,"Oct 25, 1971",Retired
+Left-Back,left,"Jul 1, 2000",Leam Richardson,"1,75m",3943,['England'],Blackburn Rovers,22,"Nov 19, 1979",Retired
+Left-Back,left,"Jul 1, 2000",Alan O'Hare,"1,88m",48679,['Ireland'],Bolton Wanderers U18,19,"Jul 31, 1982",Retired
+Right-Back,right,"Aug 1, 2003",Nicky Hunt,"1,91m",16835,['England'],Bolton Wanderers U23,18,"Sep 3, 1983",Retired
+Defensive Midfield,right,"Nov 1, 2001",Derek Niven,"1,85m",16297,['Scotland'],Raith Rovers FC,18,"Dec 12, 1983",Retired
+Defensive Midfield,right,"Feb 1, 2002",Mario Espartero,"1,74m",12103,['France'],: Ablöse ?,24,"Jan 17, 1978",Retired
+Defensive Midfield,right,"Jul 1, 2002",Gérald Forschelet,"1,87m",9676,"['France', 'Tahiti']",: Ablöse ?,20,"Sep 19, 1981",Retired
+Defensive Midfield,,"Feb 7, 2002",Stig Tøfting,,324,['Denmark'],: Ablöse €200k,32,"Aug 14, 1969",Retired
+Central Midfield,right,"Feb 1, 2000",David Norris,"1,70m",20984,['England'],Boston United,21,"Feb 20, 1981",Workington AFC
+Right Midfield,right,"Jul 1, 2000",Per Frandsen,"1,78m",3735,['Denmark'],Blackburn Rovers,32,"Feb 6, 1970",Retired
+Right Midfield,right,"Jul 1, 2001",Nicky Southall,"1,78m",14074,['England'],Gillingham FC,30,"Jan 28, 1972",Retired
+Right Midfield,right,"Aug 1, 2000",Cleveland Taylor,"1,74m",49544,"['Jamaica', 'England']",Bolton Wanderers U18,18,"Sep 9, 1983",Retired
+Left Midfield,,"Nov 1, 1999",Gareth Farrelly,,9878,['Ireland'],: Ablöse free transfer,26,"Aug 28, 1975",Retired
+Attacking Midfield,,"Feb 13, 2002",Youri Djorkaeff,,4,"['France', 'Armenia']",: Ablöse €500k,34,"Mar 9, 1968",Retired
+Attacking Midfield,right,"Jul 1, 1999",Kevin Nolan,"1,83m",3950,['England'],Bolton Wanderers U18,20,"Jun 24, 1982",Retired
+Attacking Midfield,left,"Jul 1, 2001",Jeff Smith,"1,80m",3946,['England'],Bishop Auckland FC,22,"Jun 28, 1980",Retired
+Right Winger,right,"Jul 1, 2001",Jonathan Walters,"1,83m",3306,"['Ireland', 'England']",Blackburn Rovers U18,18,"Sep 20, 1983",Retired
+Right Winger,right,"Sep 1, 2001",Jermaine Johnson,"1,85m",16169,"['Jamaica', 'England']",Tivoli Gardens FC,22,"Jun 25, 1980",Retired
+Right Winger,right,,Emanuele Morini,"1,85m",134183,['Italy'],,20,"Jan 31, 1982",Retired
+Centre-Forward,right,"Jan 1, 1999",Bo Hansen,"1,85m",22482,['Denmark'],Bröndby IF,30,"Jun 16, 1972",Retired
+Centre-Forward,right,"Jul 1, 2001",Henrik Pedersen,"1,85m",3947,['Denmark'],Silkeborg IF,27,"Jun 10, 1975",Retired
+Centre-Forward,both,"Oct 2, 1997",Dean Holdsworth,"1,80m",13792,['England'],: Ablöse €4.87m,33,"Nov 8, 1968",Retired
+Centre-Forward,,"Jan 1, 2002",Fredi Bobic,,104,['Germany'],Borussia Dortmund,30,"Oct 30, 1971",Retired
+Centre-Forward,right,"Jul 17, 2000",Michael Ricketts,"1,88m",4062,['England'],: Ablöse €600k,23,"Dec 4, 1978",Retired
+Centre-Forward,right,"Jul 1, 2001",Rod Wallace,"1,70m",13803,['England'],: Ablöse free transfer,32,"Oct 2, 1969",Retired
+Centre-Forward,right,"Jul 1, 2001",Akinori Nishizawa,"1,80m",3337,['Japan'],RCD Espanyol Barcelona,26,"Jun 18, 1976",Retired

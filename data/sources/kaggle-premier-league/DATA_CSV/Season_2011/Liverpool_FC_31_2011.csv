@@ -1,0 +1,32 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 4, 2005",Pepe Reina,"1,88m",7825,['Spain'],€16.00m,: Ablöse €9.80m,29,"Aug 31, 1982",Como 1907
+Goalkeeper,left,"Jul 1, 2010",Brad Jones,"1,94m",4042,"['Australia', 'England']",€1.50m,Middlesbrough FC,30,"Mar 19, 1982",Retired
+Goalkeeper,right,"Jul 15, 2011",Doni,"1,94m",20392,"['Brazil', 'Italy']",€500k,: Ablöse free transfer,32,"Oct 22, 1979",Retired
+Goalkeeper,right,"Sep 1, 2008",Péter Gulácsi,"1,90m",57071,['Hungary'],,MTK Budapest U19,22,"May 6, 1990",RB Leipzig
+Centre-Back,right,"Jan 11, 2008",Martin Skrtel,"1,91m",24180,['Slovakia'],€18.00m,: Ablöse €10.00m,27,"Dec 15, 1984",Hajskala Raztocno
+Centre-Back,left,"Jan 1, 2006",Daniel Agger,"1,91m",22832,['Denmark'],€15.00m,Bröndby IF,27,"Dec 12, 1984",Retired
+Centre-Back,right,"Aug 31, 2011",Sebastián Coates,"1,96m",102427,"['Uruguay', 'Spain']",€5.00m,Club Nacional,21,"Oct 7, 1990",Club Nacional
+Centre-Back,right,"Jul 1, 1996",Jamie Carragher,"1,85m",3597,['England'],€2.00m,: Ablöse -,34,"Jan 28, 1978",Retired
+Centre-Back,left,"Jul 1, 2010",Danny Wilson,"1,87m",103819,['Scotland'],€1.50m,: Ablöse €2.75m,20,"Dec 27, 1991",Livingston FC
+Centre-Back,left,"Jul 1, 2011",Jack Robinson,"1,80m",128909,['England'],,: Ablöse -,18,"Sep 1, 1993",Sheffield United
+Left-Back,left,"Aug 11, 2011",José Enrique,"1,84m",35571,['Spain'],€13.00m,Newcastle United,26,"Jan 23, 1986",Retired
+Left-Back,left,"Jul 5, 2006",Fábio Aurélio,"1,78m",7570,"['Brazil', 'Italy']",€900k,: Ablöse free transfer,32,"Sep 24, 1979",Retired
+Right-Back,both,"Jul 1, 2009",Glen Johnson,"1,82m",3881,['England'],€12.00m,: Ablöse €20.50m,27,"Aug 23, 1984",Retired
+Right-Back,right,"Jul 1, 2008",Martin Kelly,"1,91m",78959,['England'],€5.00m,: Ablöse -,22,"Apr 27, 1990",Without Club
+Right-Back,right,"Jan 1, 2011",Jon Flanagan,"1,81m",145922,"['England', 'Ireland']",€1.50m,: Ablöse -,19,"Jan 1, 1993",Retired
+Defensive Midfield,right,"Jul 1, 2007",Lucas Leiva,"1,79m",41414,"['Brazil', 'Italy']",€15.00m,Grêmio Foot-Ball Porto Alegrense,25,"Jan 9, 1987",Retired
+Defensive Midfield,right,"Jul 1, 2009",Jay Spearing,"1,68m",52111,['England'],€3.00m,: Ablöse -,23,"Nov 25, 1988",Liverpool FC U21
+Central Midfield,right,"Aug 1, 1998",Steven Gerrard,"1,83m",3109,['England'],€15.50m,: Ablöse -,32,"May 30, 1980",Retired
+Central Midfield,both,"Aug 29, 2010",Raúl Meireles,"1,79m",13168,['Portugal'],€15.00m,FC Porto,29,"Mar 17, 1983",Retired
+Central Midfield,right,"Jul 1, 2011",Jordan Henderson,"1,82m",61651,['England'],€15.00m,Sunderland AFC,22,"Jun 17, 1990",Ajax Amsterdam
+Central Midfield,left,"Jul 1, 2011",Charlie Adam,"1,85m",28990,['Scotland'],€8.00m,Blackpool FC,26,"Dec 10, 1985",Retired
+Central Midfield,right,"Jul 1, 2010",Jonjo Shelvey,"1,84m",71292,"['England', 'Ireland']",€3.00m,Charlton Athletic,20,"Feb 27, 1992",Eyüpspor
+Left Midfield,left,"Jul 15, 2011",Stewart Downing,"1,80m",4063,['England'],€12.00m,: Ablöse €22.80m,27,"Jul 22, 1984",Retired
+Left Winger,right,"Jan 13, 2010",Maxi Rodríguez,"1,73m",7895,"['Argentina', 'Spain']",€3.50m,: Ablöse free transfer,31,"Jan 2, 1981",Retired
+Left Winger,right,"Aug 31, 2011",Craig Bellamy,"1,73m",3297,['Wales'],€3.00m,: Ablöse free transfer,32,"Jul 13, 1979",Retired
+Left Winger,right,"Jul 1, 2012",Raheem Sterling,"1,70m",134425,"['England', 'Jamaica']",,: Ablöse -,17,"Dec 8, 1994",Arsenal FC
+Right Winger,right,"Aug 18, 2006",Dirk Kuyt,"1,84m",4010,['Netherlands'],€4.50m,: Ablöse €18.00m,31,"Jul 22, 1980",Retired
+Centre-Forward,right,"Jan 31, 2011",Luis Suárez,"1,82m",44352,['Uruguay'],€29.00m,: Ablöse €26.50m,25,"Jan 24, 1987",Inter Miami CF
+Centre-Forward,left,"Jan 31, 2011",Andy Carroll,"1,94m",48066,['England'],€15.50m,Newcastle United,23,"Jan 6, 1989",FC Girondins Bordeaux
+Centre-Forward,right,"Jul 24, 2008",David N'Gog,"1,90m",41242,"['France', 'Cameroon']",€3.00m,: Ablöse €1.50m,23,"Apr 1, 1989",Without Club
+Centre-Forward,right,"Jul 1, 2008",Nathan Eccleston,"1,78m",88983,['England'],,: Ablöse -,21,"Dec 30, 1990",Retired

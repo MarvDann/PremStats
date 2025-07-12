@@ -1,0 +1,41 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jul 30, 1999",Tim Flowers,"1,90m",4249,['England'],Blackburn Rovers,34,"Feb 3, 1967",Retired
+Goalkeeper,right,"Jul 1, 2000",Simon Royce,"1,88m",5162,['England'],Charlton Athletic,29,"Sep 9, 1971",Retired
+Goalkeeper,,"Aug 1, 2001",Michael Price,,277347,['England'],Leicester City U18,18,"Mar 4, 1983",Retired
+Goalkeeper,,"Jul 1, 1997",Ian Andrews,"1,88m",195510,['England'],: Ablöse free transfer,36,"Dec 1, 1964",Retired
+Centre-Back,right,"Jul 1, 1998",Gerry Taggart,"1,88m",4264,['Northern Ireland'],: Ablöse free transfer,30,"Oct 18, 1970",Retired
+Centre-Back,left,"Jul 1, 2000",Jon Ashton,"1,88m",4261,['England'],Leicester City U18,18,"Oct 4, 1982",Retired
+Centre-Back,right,"Jul 1, 2000",Gary Rowett,"1,85m",4102,['England'],: Ablöse €4.50m,27,"Mar 6, 1974",Retired
+Centre-Back,left,"Aug 13, 1998",Frank Sinclair,"1,78m",8056,"['Jamaica', 'England']",: Ablöse €3.00m,29,"Dec 3, 1971",Retired
+Centre-Back,,"Jul 1, 1986",Steve Walsh,"1,91m",107799,['England'],Wigan Athletic,36,"Nov 3, 1964",Retired
+Centre-Back,left,"Aug 10, 1999",Phil Gilchrist,"1,83m",3656,['England'],: Ablöse ?,27,"Aug 25, 1973",Retired
+Centre-Back,,"Jan 1, 1997",Matt Elliott,,107793,"['Scotland', 'England']",: Ablöse €2.40m,32,"Nov 1, 1968",Retired
+Centre-Back,left,"Nov 1, 2000",Damien Delaney,"1,90m",36861,['Ireland'],Cork City FC,19,"Jul 20, 1981",Retired
+Left-Back,left,,Danny Thomas,"1,69m",34614,['England'],,20,"May 1, 1981",Retired
+Left-Back,left,"Jul 1, 2000",Callum Davidson,"1,78m",4251,['Scotland'],Blackburn Rovers,25,"Jun 25, 1976",Retired
+Left-Back,left,"Jan 1, 2000",Jordan Stewart,"1,83m",9217,['England'],Leicester City U18,19,"Mar 3, 1982",Retired
+Right-Back,right,"Jan 1, 1999",Andy Impey,"1,73m",4250,['England'],: Ablöse €3.10m,29,"Sep 30, 1971",Retired
+Defensive Midfield,both,"Jul 1, 1997",Robbie Savage,"1,83m",3797,['Wales'],Crewe Alexandra,26,"Oct 18, 1974",Retired
+Defensive Midfield,,"Jul 1, 1996",Stuart Campbell,,49699,['Scotland'],Leicester City U18,23,"Dec 9, 1977",Retired
+Central Midfield,right,"Jul 1, 1996",Muzzy Izzet,"1,77m",3123,"['Türkiye', 'England']",: Ablöse €1.20m,26,"Oct 31, 1974",Retired
+Central Midfield,right,"Jul 1, 2001",Matt Jones,"1,80m",4252,['Wales'],: Ablöse €4.50m,20,"Sep 1, 1980",Retired
+Central Midfield,right,"Feb 23, 1996",Neil Lennon,"1,77m",9498,['Northern Ireland'],Crewe Alexandra,30,"Jun 25, 1971",Retired
+Central Midfield,right,"Jul 1, 1998",Stefan Oakes,"1,80m",10418,['England'],Leicester City U18,22,"Sep 6, 1978",Retired
+Central Midfield,,"Mar 21, 2001",Lee Marshall,"1,83m",3671,['England'],: Ablöse €700k,22,"Jan 21, 1979",Retired
+Right Midfield,right,"Aug 1, 2002",Billy McKinlay,"1,73m",9212,['Scotland'],Clydebank FC,32,"Apr 22, 1969",Retired
+Right Midfield,right,"Jul 1, 2000",Matt Piper,"1,85m",4134,['England'],Leicester City U18,19,"Sep 29, 1981",Retired
+Left Midfield,left,"Jan 1, 2000",Darren Eadie,"1,74m",4256,['England'],: Ablöse €4.50m,26,"Jun 10, 1975",Retired
+Left Midfield,left,"Jan 1, 2001",Junior Lewis,"1,88m",9215,['England'],Gillingham FC,27,"Oct 9, 1973",Retired
+Attacking Midfield,right,"Jul 1, 1996",Stuart Wilson,"1,73m",107800,['England'],Leicester City U18,23,"Sep 16, 1977",Retired
+Left Winger,left,"Jan 1, 2004",Steve Guppy,"1,81m",9497,['England'],Celtic FC,32,"Mar 29, 1969",Retired
+Left Winger,left,"Jul 1, 2000",Trevor Benjamin,"1,88m",9206,"['Jamaica', 'England']",Cambridge United,22,"Feb 8, 1979",Retired
+Left Winger,left,"Feb 6, 2001",Kevin Ellison,"1,85m",16881,['England'],Altrincham FC,22,"Feb 23, 1979",Vauxhall Motors FC
+Right Winger,right,"Jan 1, 1999",Arnar Gunnlaugsson,"1,78m",17955,['Iceland'],: Ablöse €2.80m,28,"Mar 6, 1973",Retired
+Second Striker,right,"Jan 18, 2001",Roberto Mancini,"1,79m",68204,['Italy'],,36,"Nov 27, 1964",Retired
+Centre-Forward,right,"Jan 1, 2002",Jon Stevenson,"1,68m",10435,['England'],Leicester City Reserves,18,"Oct 13, 1982",Unknown
+Centre-Forward,right,"Feb 10, 2000",Stan Collymore,"1,88m",106811,['England'],: Ablöse free transfer,30,"Jan 22, 1971",Retired
+Centre-Forward,right,"Jan 19, 2001",Dean Sturridge,"1,73m",4230,['England'],: Ablöse €530k,27,"Jul 26, 1973",Retired
+Centre-Forward,right,"Jul 27, 2000",Ade Akinbiyi,"1,85m",4037,"['Nigeria', 'England']",: Ablöse ?,26,"Oct 10, 1974",Retired
+Centre-Forward,right,"Sep 1, 2000",Richard Cresswell,"1,83m",14002,['England'],: Ablöse €1.05m,23,"Sep 20, 1977",Retired
+Centre-Forward,,"Aug 12, 1997",Tony Cottee,"1,70m",107792,['England'],Selangor FC,35,"Jul 11, 1965",Retired
+Centre-Forward,right,"Mar 1, 2001",Lawrie Dudfield,"1,85m",16204,['England'],: Ablöse ?,21,"May 7, 1980",Retired

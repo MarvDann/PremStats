@@ -1,0 +1,54 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Sep 16, 2020",Emiliano Martínez,"1,95m",111873,"['Argentina', 'Spain']",€30.00m,,Arsenal FC,28,"Sep 2, 1992",Aston Villa
+Goalkeeper,left,,"Jan 1, 2019",Lovre Kalinic,"2,01m",46405,['Croatia'],€2.50m,,: Ablöse €6.00m,31,"Apr 3, 1990",HNK Hajduk Split
+Goalkeeper,right,Torn lateral knee ligament - Return unknown,"Aug 7, 2018",Ørjan Nyland,"1,92m",73517,['Norway'],€1.00m,,FC Ingolstadt 04,30,"Sep 10, 1990",Sevilla FC
+Goalkeeper,right,,"Aug 1, 2019",Tom Heaton,"1,88m",34130,['England'],€1.00m,,: Ablöse €8.80m,35,"Apr 15, 1986",Manchester United
+Goalkeeper,left,,"Jul 1, 2013",Jed Steer,"1,83m",110867,"['England', 'Scotland']",€800k,,: Ablöse €540k,28,"Sep 23, 1992",Peterborough United
+Goalkeeper,right,,,Ákos Onódi,"1,95m",501156,['Hungary'],€150k,,,19,"Sep 2, 2001",Szeged-Csanád - GA
+Goalkeeper,right,,,Oliwier Zych,"1,93m",555074,['Poland'],,,,17,"Jun 28, 2004",Aston Villa U21
+Centre-Back,left,Cruciate ligament tear - Return unknown,"Jul 8, 2019",Tyrone Mings,"1,96m",253677,['England'],€30.00m,,AFC Bournemouth,28,"Mar 13, 1993",Aston Villa
+Centre-Back,right,,"Jul 11, 2019",Ezri Konsa,"1,83m",413403,"['England', 'DR Congo']",€25.00m,,Brentford FC,23,"Oct 23, 1997",Aston Villa
+Centre-Back,left,"No eligibility - until Jan 31, 2025 - UEFA Champions League; Knee surgery - Return unknown","Jul 1, 2019",Kortney Hause,"1,91m",233124,"['England', 'Bermuda']",€5.00m,,Wolverhampton Wanderers,25,"Jul 16, 1995",Aston Villa
+Centre-Back,right,Achilles heel problems - Return unknown,"Jul 16, 2019",Björn Engels,"1,95m",193469,['Belgium'],€3.00m,,: Ablöse €8.00m,26,"Sep 15, 1994",Royal Antwerp FC
+Centre-Back,right,,"Jul 1, 2024",Lamare Bogarde,"1,85m",645686,"['Netherlands', 'Suriname']",€200k,"Internal transfer: Aston Villa U21; date: Jul 1, 2024",Aston Villa U21,17,"Jan 5, 2004",Aston Villa
+Centre-Back,left,,,Mungo Bridge,"1,88m",530223,['England'],€150k,,,20,"Sep 12, 2000",Without Club
+Centre-Back,right,,,Dominic Revan,"1,80m",503750,"['England', 'St. Kitts & Nevis']",€150k,,,20,"Sep 19, 2000",Hampton & Richmond Borough
+Centre-Back,,,,Sil Swinkels,,646710,['Netherlands'],€150k,,,17,"Jan 6, 2004",Aston Villa U21
+Left-Back,left,,"Jul 1, 2019",Matt Targett,"1,83m",250478,"['England', 'Scotland']",€17.00m,,Southampton FC,25,"Sep 18, 1995",Newcastle United
+Left-Back,left,,"Jan 31, 2017",Neil Taylor,"1,76m",67416,"['Wales', 'India']",€1.50m,,: Ablöse ?,32,"Feb 7, 1989",Retired
+Left-Back,left,,,Ben Chrisene,"1,83m",670846,['England'],€150k,,,17,"Jan 12, 2004",Norwich City
+Right-Back,right,,"Sep 3, 2020",Matty Cash,"1,85m",425334,"['Poland', 'England']",€22.00m,,Nottingham Forest,23,"Aug 7, 1997",Aston Villa
+Right-Back,right,,"Jan 31, 2019",Frédéric Guilbert,"1,78m",354352,['France'],€6.00m,,SM Caen,26,"Dec 24, 1994",US Lecce
+Right-Back,right,,"Jul 19, 2017",Ahmed El Mohamady,"1,82m",66333,['Egypt'],€1.50m,,: Ablöse €1.10m,33,"Sep 9, 1987",Retired
+Right-Back,right,,"Jan 15, 2024",Kaine Kesler-Hayden,"1,75m",626888,['England'],€250k,,: Ablöse -,18,"Oct 23, 2002",Preston North End
+Right-Back,right,,,Frankie Ealing,,741700,['England'],,,,16,"Jul 14, 2004",Aberystwyth Town
+Defensive Midfield,left,,"Aug 1, 2019",Marvelous Nakamba,"1,77m",324882,['Zimbabwe'],€7.00m,,Club Brugge KV,27,"Jan 19, 1994",Luton Town
+Defensive Midfield,right,,,Hayden Lindley,"1,82m",698097,['England'],€150k,,,18,"Sep 2, 2002",FC United of Manchester
+Defensive Midfield,right,,,Taylor-Jay Hart,"1,79m",814522,['England'],,,,17,"Dec 18, 2003",Peterborough Sports
+Central Midfield,right,"Muscle fatigue - Return expected on Nov 20, 2024","Jul 25, 2019",Douglas Luiz,"1,77m",447661,['Brazil'],€35.00m,,Manchester City,23,"May 9, 1998",Juventus FC
+Central Midfield,left,Team captain,"Aug 8, 2018",John McGinn,"1,78m",193116,['Scotland'],€30.00m,,Hibernian FC,26,"Oct 18, 1994",Aston Villa
+Central Midfield,right,,"Jul 1, 2024",Ross Barkley,"1,89m",131978,['England'],€20.00m,"Joined from Luton Town; date: Jul 1, 2024; fee: €5.90m",Luton Town,27,"Dec 5, 1993",Aston Villa
+Central Midfield,right,Injury to the ankle - Return unknown,"Jan 26, 2021",Morgan Sanson,"1,80m",174094,['France'],€16.00m,"Returned after loan spell with OGC Nice; date: Jun 30, 2024; fee: End of loan",Olympique Marseille,26,"Aug 18, 1994",OGC Nice
+Central Midfield,left,,"Jan 26, 2017",Conor Hourihane,"1,81m",61653,['Ireland'],€3.50m,,Barnsley FC,30,"Feb 2, 1991",Barnsley FC
+Central Midfield,right,,"Jan 20, 2017",Henri Lansbury,"1,83m",44794,['England'],€1.00m,,Nottingham Forest,30,"Oct 12, 1990",Retired
+Central Midfield,right,,"Jul 1, 2021",Carney Chukwuemeka,"1,87m",659459,"['England', 'Nigeria']",€1.00m,,: Ablöse -,17,"Oct 20, 2003",Chelsea FC
+Central Midfield,right,,,Jake Walker,"1,79m",486100,['England'],€150k,,,20,"Nov 3, 2000",Without Club
+Central Midfield,left,,,Callum Rowe,"1,80m",459322,['England'],€150k,,,21,"Sep 2, 1999",Radcliffe FC
+Central Midfield,,,,Harrison Sohna,"1,78m",575210,['England'],€150k,,,18,"Jul 1, 2002",Cheltenham Town
+Central Midfield,right,,,Arjan Raikhy,,698637,"['England', 'India']",€150k,,,18,"Oct 20, 2002",Leicester City U21
+Central Midfield,,,,Mamadou Sylla,"1,79m",654177,"['Spain', 'Senegal']",€150k,,,18,"Jan 26, 2003",Without Club
+Central Midfield,right,,,Teddy Rowe,"1,82m",731738,['England'],€150k,,,17,"Oct 17, 2003",Leamington FC
+Attacking Midfield,right,,"Jul 1, 2020",Jacob Ramsey,"1,80m",503749,['England'],€5.00m,,: Ablöse -,20,"May 28, 2001",Aston Villa
+Left Winger,right,,"Jul 1, 2013",Jack Grealish,"1,80m",203460,"['England', 'Ireland']",€65.00m,,: Ablöse -,25,"Sep 10, 1995",Manchester City
+Left Winger,right,,"Jul 24, 2019",Mahmoud Trezeguet,"1,80m",234189,['Egypt'],€10.00m,,Kasimpasa,26,"Oct 1, 1994",Al-Rayyan SC
+Left Winger,right,,,Louie Barry,"1,74m",581670,"['England', 'Ireland']",€1.00m,,,18,"Jun 21, 2003",Stockport County
+Left Winger,right,,"Jul 19, 2024",Jaden Philogene,"1,81m",665390,"['England', 'Dominica']",€500k,"Joined from Hull City; date: Jul 19, 2024; fee: €16.00m",Hull City,19,"Feb 8, 2002",Aston Villa
+Right Winger,left,,"Sep 19, 2020",Bertrand Traoré,"1,81m",131996,['Burkina Faso'],€20.00m,,: Ablöse €18.40m,25,"Sep 6, 1995",Ajax Amsterdam
+Right Winger,right,,"Jul 1, 2019",Anwar El Ghazi,"1,89m",183720,"['Netherlands', 'Morocco']",€13.00m,,LOSC Lille,26,"May 3, 1995",Cardiff City
+Right Winger,left,,"Jul 1, 2019",Jota Peleteiro,"1,78m",176591,['Spain'],€1.80m,,Birmingham City,30,"Jun 16, 1991",Retired
+Centre-Forward,right,,"Sep 9, 2020",Ollie Watkins,"1,80m",324358,['England'],€32.00m,,Brentford FC,25,"Dec 30, 1995",Aston Villa
+Centre-Forward,right,,"Jul 1, 2019",Wesley Moraes,"1,91m",381362,['Brazil'],€13.00m,,Club Brugge KV,24,"Nov 24, 1996",Fatih Karagümrük
+Centre-Forward,right,"No eligibility - until Jun 30, 2025 - UEFA Europa League","Jan 20, 2020",Ally Samatta,"1,83m",182201,['Tanzania'],€4.20m,,KRC Genk,28,"Dec 23, 1992",PAOK Thessaloniki
+Centre-Forward,left,,"Jul 1, 2017",Keinan Davis,"1,89m",412660,['England'],€3.00m,,: Ablöse -,23,"Feb 13, 1998",Udinese Calcio
+Centre-Forward,,,,Brad Young,"1,85m",654173,['England'],€150k,,,18,"Jan 6, 2003",Al-Orobah FC
+Centre-Forward,right,,,Michael Tait,"1,77m",530222,['England'],,,,20,"Jan 29, 2001",FC Walsall Wood

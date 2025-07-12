@@ -1,0 +1,37 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 1996",Nigel Martyn,"1,88m",3629,['England'],: Ablöse €3.35m,32,"Aug 11, 1966",Retired
+Goalkeeper,,"Jul 1, 1998",Nuno Santos,"1,85m",17361,['Portugal'],Vitória Setúbal FC,26,"Apr 20, 1973",Retired
+Goalkeeper,right,"Apr 22, 1993",Mark Beeney,"1,93m",107177,['England'],: Ablöse €350k,31,"Dec 30, 1967",Retired
+Goalkeeper,right,"Jul 1, 1998",Paul Robinson,"1,93m",3630,['England'],Leeds United U18,19,"Oct 15, 1979",Retired
+Centre-Back,right,"Jul 1, 1994",Lucas Radebe,"1,86m",3088,['South Africa'],Kaizer Chiefs,30,"Apr 12, 1969",Retired
+Centre-Back,right,"Jul 1, 1991",David Wetherall,"1,91m",13615,['England'],: Ablöse €180k,28,"Mar 14, 1971",Retired
+Centre-Back,right,"Jan 1, 1998",Martin Hiden,"1,84m",2942,['Austria'],: Ablöse €2.18m,26,"Mar 11, 1973",Retired
+Centre-Back,right,"Jul 1, 1998",Jonathan Woodgate,"1,88m",3224,['England'],Leeds United U18,19,"Jan 22, 1980",Retired
+Centre-Back,right,"Jul 1, 1995",Mark Jackson,"1,83m",48257,['England'],Leeds United U18,21,"Sep 30, 1977",Retired
+Centre-Back,right,"Jan 1, 1997",Robert Molenaar,"1,92m",6249,['Netherlands'],: Ablöse €1.40m,30,"Feb 27, 1969",Retired
+Left-Back,,"Jul 1, 1997",Davie Robertson,"1,80m",107180,['Scotland'],: Ablöse €750k,30,"Oct 17, 1968",Retired
+Left-Back,left,"Jul 8, 1998",Danny Granville,"1,80m",13789,['England'],: Ablöse €2.20m,24,"Jan 19, 1975",Retired
+Left-Back,left,"Jul 1, 1995",Ian Harte,"1,75m",3634,['Ireland'],Leeds United U18,21,"Aug 31, 1977",Retired
+Right-Back,,,Paul Donnelly,"1,78m",29875,['Ireland'],,19,"Aug 31, 1979",Retired
+Right-Back,right,"Jul 1, 1991",Gary Kelly,"1,73m",3631,['Ireland'],Leeds United U18,24,"Jul 9, 1974",Retired
+Right-Back,right,"Jul 1, 1996",Gunnar Halle,"1,83m",102506,['Norway'],: Ablöse €575k,33,"Aug 11, 1965",Retired
+Right-Back,right,"Jul 1, 1995",Alan Maybury,"1,80m",12597,['Ireland'],Leeds United U18,20,"Aug 8, 1978",Retired
+Right-Back,,,Damien Lynch,"1,78m",57430,['Ireland'],,19,"Jul 31, 1979",Retired
+Defensive Midfield,right,"Jul 1, 1997",Alf-Inge Haaland,"1,86m",107179,['Norway'],: Ablöse €2.40m,26,"Nov 23, 1972",Retired
+Defensive Midfield,right,"Jan 1, 1999",David Batty,"1,70m",3295,['England'],Newcastle United,30,"Dec 2, 1968",Retired
+Midfielder,,"Jul 1, 1997",Wesley Boyle,"1,83m",107186,['Northern Ireland'],Leeds United U18,20,"Mar 30, 1979",Retired
+Central Midfield,right,"Jul 1, 1996",Lee Bowyer,"1,75m",3877,['England'],Charlton Athletic,22,"Jan 3, 1977",Retired
+Central Midfield,right,,Tommy Knarvik,"1,74m",26206,['Norway'],,19,"Nov 1, 1979",Retired
+Central Midfield,right,"Jul 1, 1997",Lee Matthews,"1,88m",20977,['England'],Leeds United U18,20,"Jan 16, 1979",Retired
+Central Midfield,,"Jul 1, 1998",Alan Smith,,3768,['England'],Leeds United U18,18,"Oct 28, 1980",Retired
+Central Midfield,right,"Feb 1, 1999",Matt Jones,"1,80m",4252,['Wales'],Leeds United Reserves,18,"Sep 1, 1980",Retired
+Right Midfield,,"Jul 21, 1997",David Hopkin,,107198,['Scotland'],: Ablöse €4.90m,28,"Aug 21, 1970",Retired
+Left Midfield,left,"Aug 14, 1996",Lee Sharpe,"1,83m",107229,['England'],: Ablöse €6.75m,28,"May 27, 1971",Retired
+Left Midfield,,"Jul 1, 1997",Bruno Ribeiro,,24213,['Portugal'],Vitória Setúbal FC,23,"Oct 22, 1975",Retired
+Left Midfield,left,"Jul 1, 1997",Stephen McPhail,"1,77m",3764,"['Ireland', 'England']",Leeds United U18,19,"Dec 9, 1979",Retired
+Attacking Midfield,right,,Tony Hackworth,"1,85m",13701,['England'],,19,"May 19, 1980",Retired
+Left Winger,,"Jan 1, 1999",Willem Korsten,,104898,['Netherlands'],Vitesse Arnhem,24,"Jan 21, 1975",Retired
+Left Winger,left,"Dec 23, 1995",Harry Kewell,"1,80m",3241,"['Australia', 'England']",Marconi Stallions FC,20,"Sep 22, 1978",Retired
+Centre-Forward,both,"Jul 1, 1998",Clyde Wijnhard,"1,80m",14387,"['Netherlands', 'Suriname']",: Ablöse €2.10m,25,"Nov 1, 1973",Retired
+Centre-Forward,right,"Jul 1, 1997",Jimmy Floyd Hasselbaink,"1,78m",3175,"['Netherlands', 'Suriname']",Boavista FC,27,"Mar 27, 1972",Retired
+Centre-Forward,right,"Jul 1, 1996",Derek Lilley,"1,80m",13327,['Scotland'],Greenock Morton FC,25,"Feb 9, 1974",Retired

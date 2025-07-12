@@ -1,0 +1,30 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Jul 1, 1995",Jamie Speare,"1,85m",92585,['England'],: Ablöse -,20,"Nov 5, 1976",Retired
+Goalkeeper,,"Jul 1, 1981",Neville Southall,,135910,['Wales'],Bury FC,38,"Sep 16, 1958",Retired
+Goalkeeper,left,"Jul 1, 1996",Paul Gerrard,"1,88m",3584,['England'],: Ablöse €1.50m,24,"Jan 22, 1973",Retired
+Centre-Back,right,"Oct 1, 1991",Matt Jackson,"1,85m",13519,['England'],: Ablöse €900k,25,"Oct 19, 1971",Retired
+Centre-Back,,,Graham Allen,"1,85m",224477,['England'],,20,"Apr 8, 1977",Retired
+Centre-Back,,,Jon O'Connor,,225080,['England'],,20,"Oct 29, 1976",Retired
+Centre-Back,,"Aug 22, 1986",Dave Watson,,135911,['England'],: Ablöse €1.85m,35,"Nov 20, 1961",Retired
+Centre-Back,,"Jan 1, 1997",Claus Thomsen,,676,['Denmark'],Ipswich Town,27,"May 31, 1970",Retired
+Centre-Back,both,"Jul 1, 1995",Craig Short,"1,85m",3821,['England'],: Ablöse €3.60m,29,"Jun 25, 1968",Retired
+Centre-Back,right,"Jul 1, 1996",Richard Dunne,"1,88m",3807,['Ireland'],: Ablöse -,17,"Sep 21, 1979",Retired
+Left-Back,left,"Jul 1, 1990",Andy Hinchcliffe,"1,78m",106797,['England'],: Ablöse €1.20m,28,"Feb 5, 1969",Retired
+Left-Back,left,"Aug 1, 1998",David Unsworth,"1,87m",3272,['England'],: Ablöse €4.60m,23,"Oct 16, 1973",Retired
+Left-Back,left,"Dec 1, 1996",Terry Phelan,"1,72m",102495,"['Ireland', 'England']",: Ablöse ?,30,"Mar 16, 1967",Retired
+Left-Back,left,"Jul 1, 1997",Michael Ball,"1,78m",9423,['England'],: Ablöse -,17,"Oct 2, 1979",Retired
+Left-Back,left,"Jul 1, 1995",John Hills,"1,78m",14023,['England'],Blackpool FC,19,"Apr 21, 1978",Retired
+Right-Back,right,"Jan 30, 1995",Earl Barrett,"1,80m",106795,['England'],: Ablöse €2.50m,30,"Apr 28, 1967",Retired
+Right-Back,right,"Jul 1, 1995",Marc Hottiger,"1,76m",15520,['Switzerland'],Newcastle United,29,"Nov 7, 1967",Retired
+Defensive Midfield,right,"Jul 1, 1993",Tony Grant,"1,77m",9976,['England'],: Ablöse -,22,"Nov 14, 1974",Retired
+Central Midfield,,"Jul 1, 1996",Gary Speed,,3459,['Wales'],: Ablöse €4.87m,27,"Sep 8, 1969",---
+Central Midfield,right,"Mar 25, 1994",Anders Limpar,"1,74m",101098,['Sweden'],: Ablöse €1.90m,31,"Sep 24, 1965",Retired
+Central Midfield,,"Jul 1, 1986",John Ebbrell,"1,70m",177250,['England'],: Ablöse -,27,"Oct 1, 1969",Retired
+Central Midfield,,"Jan 1, 1994",Joe Parkinson,,177273,['England'],: Ablöse €375k,26,"Jun 11, 1971",Retired
+Right Midfield,right,"Jul 1, 1995",Andrey Kanchelskis,"1,78m",3742,"['Russia', 'England']",: Ablöse €7.50m,28,"Jan 23, 1969",Retired
+Left Midfield,,"Oct 1, 1996",Nick Barmby,,3222,['England'],: Ablöse €8.00m,23,"Feb 11, 1974",Retired
+Right Winger,right,"Jul 1, 1993",Graham Stuart,"1,73m",3334,['England'],: Ablöse €1.28m,26,"Oct 24, 1970",Retired
+Right Winger,right,"Jul 1, 1996",Danny Cadamarteri,"1,75m",4220,"['England', 'Jamaica']",: Ablöse -,17,"Oct 12, 1979",Retired
+Centre-Forward,,"Aug 14, 1992",Paul Rideout,"1,80m",177275,['England'],: Ablöse €583k,32,"Aug 14, 1964",Retired
+Centre-Forward,left,"Jul 1, 2000",Duncan Ferguson,"1,93m",3239,['Scotland'],Newcastle United,25,"Dec 27, 1971",Retired
+Centre-Forward,right,"Oct 24, 1995",Michael Branch,"1,78m",10393,['England'],: Ablöse -,18,"Oct 18, 1978",Retired

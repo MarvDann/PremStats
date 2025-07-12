@@ -1,0 +1,43 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 4, 2005",Pepe Reina,"1,88m",7825,['Spain'],€22.00m,: Ablöse €9.80m,28,"Aug 31, 1982",Como 1907
+Goalkeeper,left,"Jul 1, 2010",Brad Jones,"1,94m",4042,"['Australia', 'England']",€1.50m,Middlesbrough FC,29,"Mar 19, 1982",Retired
+Goalkeeper,left,"Jul 1, 2008",Diego Cavalieri,"1,89m",53231,"['Brazil', 'Italy']",€600k,Sociedade Esportiva Palmeiras,28,"Dec 1, 1982",Retired
+Goalkeeper,right,,Martin Hansen,"1,90m",45601,['Denmark'],,,21,"Jun 15, 1990",Odense Boldklub
+Goalkeeper,right,"Sep 1, 2008",Péter Gulácsi,"1,90m",57071,['Hungary'],,MTK Budapest U19,21,"May 6, 1990",RB Leipzig
+Centre-Back,left,"Jan 1, 2006",Daniel Agger,"1,91m",22832,['Denmark'],€11.00m,Bröndby IF,26,"Dec 12, 1984",Retired
+Centre-Back,right,"Jan 11, 2008",Martin Skrtel,"1,91m",24180,['Slovakia'],€11.00m,: Ablöse €10.00m,26,"Dec 15, 1984",Hajskala Raztocno
+Centre-Back,right,"Jul 1, 1996",Jamie Carragher,"1,85m",3597,['England'],€10.00m,: Ablöse -,33,"Jan 28, 1978",Retired
+Centre-Back,,"Aug 20, 2009",Sotiris Kyrgiakos,,9706,['Greece'],€3.00m,: Ablöse €3.00m,31,"Jul 23, 1979",Retired
+Centre-Back,left,"Jul 1, 2010",Danny Wilson,"1,87m",103819,['Scotland'],€1.50m,: Ablöse €2.75m,19,"Dec 27, 1991",Livingston FC
+Centre-Back,right,,Daniel Ayala,"1,90m",78966,['Spain'],€750k,,20,"Nov 7, 1990",Potters Bar Town
+Centre-Back,right,,Conor Coady,"1,85m",128901,['England'],,,18,"Feb 25, 1993",Leicester City
+Centre-Back,left,"Jul 1, 2011",Jack Robinson,"1,80m",128909,['England'],,: Ablöse -,17,"Sep 1, 1993",Sheffield United
+Left-Back,left,"Jul 5, 2006",Fábio Aurélio,"1,78m",7570,"['Brazil', 'Italy']",€5.00m,: Ablöse free transfer,31,"Sep 24, 1979",Retired
+Left-Back,left,"Aug 31, 2010",Paul Konchesky,"1,78m",3296,['England'],€4.00m,Fulham FC,30,"May 15, 1981",Retired
+Right-Back,both,"Jul 1, 2009",Glen Johnson,"1,82m",3881,['England'],€15.00m,: Ablöse €20.50m,26,"Aug 23, 1984",Retired
+Right-Back,right,"Jul 1, 2008",Martin Kelly,"1,91m",78959,['England'],€2.50m,: Ablöse -,21,"Apr 27, 1990",Without Club
+Right-Back,right,"Jan 1, 2011",Jon Flanagan,"1,81m",145922,"['England', 'Ireland']",€250k,: Ablöse -,18,"Jan 1, 1993",Retired
+Right-Back,right,"Jul 1, 2008",Stephen Darby,"1,74m",29933,['England'],,: Ablöse -,22,"Oct 6, 1988",Retired
+Right-Back,right,"Jul 1, 2011",Andre Wisdom,"1,86m",128912,"['England', 'Jamaica']",,: Ablöse -,18,"May 9, 1993",Derry City
+Defensive Midfield,right,"Jul 1, 2008",Javier Mascherano,"1,74m",19981,"['Argentina', 'Italy']",€25.00m,: Ablöse €22.50m,27,"Jun 8, 1984",Retired
+Defensive Midfield,right,"Jul 1, 2007",Lucas Leiva,"1,79m",41414,"['Brazil', 'Italy']",€8.50m,Grêmio Foot-Ball Porto Alegrense,24,"Jan 9, 1987",Retired
+Defensive Midfield,,"Aug 12, 2010",Christian Poulsen,,1443,['Denmark'],€5.00m,: Ablöse €5.48m,31,"Feb 28, 1980",Retired
+Defensive Midfield,right,"Jul 1, 2009",Jay Spearing,"1,68m",52111,['England'],€500k,: Ablöse -,22,"Nov 25, 1988",Liverpool FC U21
+Defensive Midfield,both,"Jul 1, 2009",Dani Pacheco,"1,68m",28285,['Spain'],€100k,: Ablöse -,20,"Jan 5, 1991",Wisla Plock
+Central Midfield,right,"Aug 1, 1998",Steven Gerrard,"1,83m",3109,['England'],€36.00m,: Ablöse -,31,"May 30, 1980",Retired
+Central Midfield,right,"Aug 7, 2009",Alberto Aquilani,"1,86m",5957,['Italy'],€14.00m,: Ablöse €20.00m,26,"Jul 7, 1984",Retired
+Central Midfield,both,"Aug 29, 2010",Raúl Meireles,"1,79m",13168,['Portugal'],€13.00m,FC Porto,28,"Mar 17, 1983",Retired
+Central Midfield,right,"Jul 1, 2010",Jonjo Shelvey,"1,84m",71292,"['England', 'Ireland']",€2.00m,Charlton Athletic,19,"Feb 27, 1992",Eyüpspor
+Attacking Midfield,right,"Jul 19, 2010",Joe Cole,"1,76m",3876,['England'],€13.00m,Chelsea FC,29,"Nov 8, 1981",Retired
+Left Winger,right,"Jan 13, 2010",Maxi Rodríguez,"1,73m",7895,"['Argentina', 'Spain']",€9.00m,: Ablöse free transfer,30,"Jan 2, 1981",Retired
+Left Winger,left,"Jul 1, 2010",Milan Jovanovic,"1,83m",14933,['Serbia'],€7.00m,: Ablöse free transfer,30,"Apr 18, 1981",Retired
+Left Winger,right,"Jul 1, 2007",Ryan Babel,"1,85m",16135,"['Netherlands', 'Suriname']",€7.00m,: Ablöse €17.25m,24,"Dec 19, 1986",Without Club
+Right Winger,right,"Aug 18, 2006",Dirk Kuyt,"1,84m",4010,['Netherlands'],€15.00m,: Ablöse €18.00m,30,"Jul 22, 1980",Retired
+Right Winger,left,,Tom Ince,"1,78m",157368,"['England', 'Barbados']",,,19,"Jan 30, 1992",Watford FC
+Right Winger,right,,David Amoo,"1,78m",53302,"['England', 'Nigeria']",,,20,"Apr 13, 1991",Retired
+Centre-Forward,right,"Jul 4, 2007",Fernando Torres,"1,86m",7767,['Spain'],€46.00m,: Ablöse €38.00m,27,"Mar 20, 1984",Retired
+Centre-Forward,right,"Jan 31, 2011",Luis Suárez,"1,82m",44352,['Uruguay'],€25.00m,: Ablöse €26.50m,24,"Jan 24, 1987",Inter Miami CF
+Centre-Forward,left,"Jan 31, 2011",Andy Carroll,"1,94m",48066,['England'],€20.00m,Newcastle United,22,"Jan 6, 1989",FC Girondins Bordeaux
+Centre-Forward,right,"Jul 24, 2008",David N'Gog,"1,90m",41242,"['France', 'Cameroon']",€5.00m,: Ablöse €1.50m,22,"Apr 1, 1989",Without Club
+Centre-Forward,right,"Jul 1, 2008",Nathan Eccleston,"1,78m",88983,['England'],,: Ablöse -,20,"Dec 30, 1990",Retired
+Centre-Forward,left,"Jul 1, 2009",Lauri Dalla Valle,"1,80m",91056,"['Finland', 'Italy']",,: Ablöse -,19,"Sep 14, 1991",Retired

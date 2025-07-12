@@ -1,0 +1,31 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 4, 2011",Ali Al-Habsi,"1,94m",26633,['Oman'],€5.00m,: Ablöse €4.30m,30,"Dec 30, 1981",Retired
+Goalkeeper,right,,"Oct 27, 2006",Chris Kirkland,"1,98m",3219,['England'],€750k,: Ablöse €3.73m,31,"May 2, 1981",Retired
+Goalkeeper,right,,"Jul 1, 2005",Mike Pollitt,"1,93m",32217,['England'],€250k,Rotherham United,40,"Feb 29, 1972",Retired
+Goalkeeper,right,,"Jul 1, 2010",Lee Nicholls,"1,91m",126258,['England'],€250k,Wigan Athletic U18,19,"Oct 5, 1992",Huddersfield Town
+Centre-Back,right,,"Jul 1, 2010",Antolín Alcaraz,"1,87m",14259,"['Paraguay', 'Italy']",€4.00m,: Ablöse free transfer,29,"Jul 30, 1982",Retired
+Centre-Back,right,,"Jan 13, 2010",Gary Caldwell,"1,85m",3791,['Scotland'],€3.00m,Celtic FC,30,"Apr 12, 1982",Retired
+Centre-Back,,,"Jan 1, 2010",Steve Gohouri,,19857,"[""Cote d'Ivoire"", 'France']",€1.00m,Borussia Mönchengladbach,31,"Feb 8, 1981",---
+Centre-Back,right,,"Jan 1, 2011",Adrián López,"1,84m",44966,['Spain'],€500k,Deportivo de La Coruña,25,"Feb 25, 1987",Without Club
+Left-Back,left,,"Jan 25, 2012",Jean Beausejour,"1,78m",18871,"['Chile', 'Haiti']",€6.00m,: Ablöse €4.70m,28,"Jun 1, 1984",Retired
+Left-Back,left,,"Oct 21, 2014",Maynor Figueroa,"1,82m",62240,['Honduras'],€5.50m,: Ablöse free transfer,29,"May 2, 1983",Retired
+Left-Back,left,,"Aug 31, 2011",Patrick van Aanholt,"1,76m",52119,"['Netherlands', 'Curacao']",€1.50m,Chelsea FC,21,"Aug 29, 1990",Without Club
+Left-Back,left,,"Jul 1, 2009",Jordan Mustoe,"1,79m",61715,['England'],,Wigan Athletic U18,21,"Jan 28, 1991",Without Club
+Right-Back,right,,"Jul 1, 2010",Ronnie Stam,"1,79m",24877,['Netherlands'],€3.00m,Twente Enschede FC,28,"Jun 18, 1984",Retired
+Right-Back,right,,"Aug 1, 2006",Emmerson Boyce,"1,80m",19641,"['Barbados', 'England']",€1.50m,: Ablöse €1.50m,32,"Sep 24, 1979",Retired
+Defensive Midfield,right,,"Jul 1, 2009",Hendry Thomas,"1,80m",62275,['Honduras'],€1.50m,CD Olimpia,27,"Feb 23, 1985",Retired
+Central Midfield,right,,"Jul 16, 2009",James McCarthy,"1,80m",45333,"['Ireland', 'Scotland']",€5.50m,Hamilton Academical FC,21,"Nov 12, 1990",Celtic FC
+Central Midfield,right,,"Aug 22, 2009",Mohamed Diamé,"1,84m",70950,"['Senegal', 'France']",€5.00m,: Ablöse €3.00m,25,"Jun 14, 1987",Al-Sailiya SC
+Central Midfield,right,,"Jan 26, 2009",Ben Watson,"1,78m",14081,['England'],€3.00m,: Ablöse €2.10m,26,"Jul 9, 1985",Retired
+Central Midfield,left,,"Aug 17, 2016",Jordi Gómez,"1,78m",39010,['Spain'],€3.00m,Sunderland AFC,27,"May 24, 1985",Retired
+Central Midfield,both,,"Jul 1, 2010",James McArthur,"1,78m",41416,['Scotland'],€2.50m,Hamilton Academical FC,24,"Oct 7, 1987",Retired
+Central Midfield,left,,"Jul 1, 2011",David Jones,"1,83m",24634,"['England', 'Wales']",€1.50m,Wolverhampton Wanderers,27,"Nov 4, 1984",Retired
+Central Midfield,left,,"Jul 1, 2010",Daniel Redmond,"1,75m",61586,['England'],,Wigan Athletic U21,21,"Mar 2, 1991",The New Saints
+Attacking Midfield,right,,"Aug 31, 2011",Shaun Maloney,"1,71m",9508,"['Scotland', 'England']",€2.50m,Celtic FC,29,"Jan 24, 1983",Retired
+Left Winger,left,,"Aug 1, 2011",Albert Crusat,"1,60m",51536,['Spain'],€1.50m,UD Almería,30,"May 13, 1982",Retired
+Right Winger,right,,"Jan 31, 2010",Victor Moses,"1,77m",59866,"['Nigeria', 'England']",€6.50m,: Ablöse €3.00m,21,"Dec 12, 1990",Luton Town
+Right Winger,right,"Muscle injury - Return expected on Nov 24, 2024","Jul 1, 2023",Callum McManaman,"1,74m",61711,"['England', 'Ireland']",€750k,Without Club,21,"Apr 25, 1991",Wigan Athletic
+Centre-Forward,right,,"Jan 26, 2009",Hugo Rodallega,"1,81m",37934,['Colombia'],€4.50m,Club Necaxa,26,"Jul 25, 1985",Independiente Santa Fe
+Centre-Forward,right,,"Aug 31, 2010",Franco Di Santo,"1,93m",59783,"['Argentina', 'Italy']",€3.50m,Chelsea FC,23,"Apr 7, 1989",Without Club
+Centre-Forward,right,,"Jan 31, 2011",Conor Sammon,"1,88m",68331,['Ireland'],€750k,: Ablöse €700k,25,"Nov 6, 1986",Alloa Athletic FC
+Centre-Forward,right,,"Aug 11, 2011",Nouha Dicko,"1,73m",173750,"['Mali', 'France']",,Racing Strasbourg B,20,"May 14, 1992",Paris FC

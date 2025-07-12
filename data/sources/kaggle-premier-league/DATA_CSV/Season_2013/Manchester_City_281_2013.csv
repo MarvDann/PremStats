@@ -1,0 +1,28 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2006",Joe Hart,"1,96m",40204,['England'],€16.00m,: Ablöse €900k,27,"Apr 19, 1987",Retired
+Goalkeeper,right,,"Jan 31, 2012",Costel Pantilimon,"2,03m",47659,['Romania'],€2.50m,Politehnica Timisoara (- 2012),27,"Feb 1, 1987",Retired
+Goalkeeper,right,,"Aug 31, 2012",Richard Wright,"1,90m",3120,['England'],€250k,: Ablöse free transfer,36,"Nov 5, 1977",Retired
+Centre-Back,right,,"Aug 22, 2008",Vincent Kompany,"1,90m",9594,"['Belgium', 'DR Congo']",€35.00m,: Ablöse €8.50m,28,"Apr 10, 1986",Retired
+Centre-Back,left,,"Aug 31, 2012",Matija Nastasic,"1,88m",143559,['Serbia'],€21.00m,: Ablöse €15.20m,21,"Mar 28, 1993",CD Leganés
+Centre-Back,right,,"Aug 12, 2012",Jack Rodwell,"1,88m",57079,['England'],€12.00m,: Ablöse €15.00m,23,"Mar 11, 1991",Without Club
+Centre-Back,left,,"Aug 25, 2009",Joleon Lescott,"1,91m",4241,['England'],€7.00m,: Ablöse €27.50m,31,"Aug 16, 1982",Retired
+Centre-Back,right,,"Sep 2, 2013",Martín Demichelis,"1,84m",2963,"['Argentina', 'Italy']",€2.50m,: Ablöse €4.50m,33,"Dec 20, 1980",Retired
+Centre-Back,right,"No eligibility - until Jan 31, 2025 - UEFA Champions League","Jul 1, 2010",Dedryck Boyata,"1,88m",88262,"['Belgium', 'DR Congo']",€1.75m,: Ablöse -,23,"Nov 28, 1990",Club Brugge KV
+Left-Back,left,,"Jul 4, 2011",Gaël Clichy,"1,76m",7449,"['France', 'Martinique']",€13.00m,: Ablöse €7.75m,28,"Jul 26, 1985",Retired
+Left-Back,left,,"Jul 24, 2010",Aleksandar Kolarov,"1,87m",46156,['Serbia'],€12.00m,: Ablöse €23.86m,28,"Nov 10, 1985",Retired
+Right-Back,right,,"Jul 1, 2013",Jesús Navas,"1,70m",15956,['Spain'],€20.00m,Sevilla FC,28,"Nov 21, 1985",Sevilla FC
+Right-Back,right,,"Aug 31, 2008",Pablo Zabaleta,"1,76m",20007,"['Argentina', 'Spain']",€19.00m,RCD Espanyol Barcelona,29,"Jan 16, 1985",Retired
+Right-Back,right,,"Jan 1, 2006",Micah Richards,"1,80m",32617,"['England', 'St. Kitts & Nevis']",€12.00m,: Ablöse -,26,"Jun 24, 1988",Retired
+Defensive Midfield,right,Knock - Return unknown,"Jul 1, 2013",Fernandinho,"1,79m",26267,['Brazil'],€32.00m,Shakhtar Donetsk,29,"May 4, 1985",Club Athletico Paranaense
+Defensive Midfield,right,,"Aug 31, 2012",Javi García,"1,87m",36350,['Spain'],€16.00m,SL Benfica,27,"Feb 8, 1987",Retired
+Defensive Midfield,left,,,Emyr Huws,"1,85m",121474,['Wales'],€300k,,20,"Sep 30, 1993",Retired
+Central Midfield,right,,"Jul 2, 2010",Yaya Touré,"1,88m",13091,"[""Cote d'Ivoire"", 'England']",€30.00m,FC Barcelona,31,"May 13, 1983",Retired
+Central Midfield,right,,"Aug 17, 2010",James Milner,"1,75m",3333,['England'],€15.00m,: Ablöse €22.00m,28,"Jan 4, 1986",Brighton & Hove Albion
+Attacking Midfield,left,,"Jul 14, 2010",David Silva,"1,70m",35518,['Spain'],€40.00m,: Ablöse €28.75m,28,"Jan 8, 1986",Retired
+Attacking Midfield,right,,"Aug 24, 2011",Samir Nasri,"1,77m",18935,"['France', 'Algeria']",€22.00m,: Ablöse €27.50m,27,"Jun 26, 1987",Retired
+Right Winger,left,,"Aug 15, 2012",Rony Lopes,"1,74m",174694,"['Portugal', 'Brazil']",,: Ablöse -,18,"Dec 28, 1995",Alanyaspor
+Centre-Forward,right,,"Jul 28, 2011",Sergio Agüero,"1,73m",26399,"['Argentina', 'Spain']",€45.00m,: Ablöse €40.00m,26,"Jun 2, 1988",Retired
+Centre-Forward,left,,"Jul 17, 2013",Álvaro Negredo,"1,86m",18644,['Spain'],€27.00m,Sevilla FC,28,"Aug 20, 1985",Without Club
+Centre-Forward,right,,"Jul 19, 2013",Stevan Jovetic,"1,83m",46104,"['Montenegro', 'Serbia']",€26.00m,: Ablöse €26.00m,24,"Nov 2, 1989",Omonia Nicosia
+Centre-Forward,right,,"Jan 7, 2011",Edin Dzeko,"1,93m",28396,['Bosnia-Herzegovina'],€24.00m,VfL Wolfsburg,28,"Mar 17, 1986",Fenerbahce
+Centre-Forward,right,,"Jul 1, 2008",John Guidetti,"1,85m",98596,['Sweden'],€4.50m,: Ablöse -,22,"Apr 15, 1992",AIK

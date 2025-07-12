@@ -1,0 +1,44 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 15, 2021",José Sá,"1,92m",249994,['Portugal'],€18.00m,,: Ablöse €8.00m,30,"Jan 17, 1993",Wolverhampton Wanderers
+Goalkeeper,right,,"Jul 27, 2020",Matija Sarkic,,293257,"['Montenegro', 'England']",€2.00m,,: Ablöse free transfer,26,"Jul 23, 1997",---
+Goalkeeper,,,"Jan 25, 2023",Daniel Bentley,"1,93m",136401,['England'],€2.00m,,Bristol City,29,"Jul 13, 1993",Wolverhampton Wanderers
+Goalkeeper,right,,,Louie Moulden,"1,90m",444641,['England'],€200k,,,21,"Jan 6, 2002",Crystal Palace U21
+Goalkeeper,,,,Jackson Smith,"1,87m",511964,['England'],€150k,,,21,"Oct 14, 2001",Barnsley FC
+Centre-Back,left,,"Aug 9, 2018",Maximilian Kilman,"1,94m",525247,"['England', 'Ukraine']",€30.00m,,: Ablöse €4.75m,26,"May 23, 1997",West Ham United
+Centre-Back,right,,"Jul 12, 2022",Nathan Collins,"1,93m",469050,['Ireland'],€22.00m,,: Ablöse €24.30m,22,"Apr 30, 2001",Brentford FC
+Centre-Back,right,,"Jul 3, 2015",Conor Coady,"1,85m",128901,['England'],€12.00m,,: Ablöse €2.80m,30,"Feb 25, 1993",Leicester City
+Centre-Back,left,,"Sep 2, 2020",Toti,"1,87m",606718,"['Portugal', 'Guinea-Bissau']",€6.00m,,Estoril Praia,24,"Jan 16, 1999",Wolverhampton Wanderers
+Centre-Back,right,Cruciate ligament injury - Return unknown,"Jul 1, 2021",Yerson Mosquera,"1,88m",716276,['Colombia'],€3.00m,"Returned after loan spell with Villarreal CF; date: Jun 30, 2024; fee: End of loan",Atlético Nacional,22,"May 2, 2001",Wolverhampton Wanderers
+Centre-Back,right,,"Jul 1, 2018",Willy Boly,"1,95m",142310,"[""Cote d'Ivoire"", 'France']",€2.50m,,FC Porto,32,"Feb 3, 1991",Nottingham Forest
+Centre-Back,right,,"Jan 22, 2023",Craig Dawson,"1,88m",121477,['England'],€2.00m,,West Ham United,33,"May 6, 1990",Wolverhampton Wanderers
+Left-Back,left,,"Jul 9, 2021",Rayan Aït-Nouri,"1,80m",578391,"['Algeria', 'France']",€22.00m,,Angers SCO,22,"Jun 6, 2001",Wolverhampton Wanderers
+Left-Back,left,,"Jul 1, 2022",Hugo Bueno,"1,80m",698678,['Spain'],€6.00m,,Wolverhampton Wanderers U21,20,"Sep 18, 2002",Feyenoord Rotterdam
+Right-Back,right,,"Sep 23, 2020",Nélson Semedo,"1,77m",231572,"['Portugal', 'Cape Verde']",€15.00m,,FC Barcelona,29,"Nov 16, 1993",Wolverhampton Wanderers
+Right-Back,both,,"Jan 31, 2019",Jonny Otto,"1,75m",175446,['Spain'],€13.00m,,: Ablöse €21.00m,29,"Mar 3, 1994",PAOK Thessaloniki
+Right-Back,right,,"Sep 19, 2020",Ki-Jana Hoever,"1,83m",485583,"['Netherlands', 'Suriname']",€3.50m,,: Ablöse €9.80m,21,"Jan 18, 2002",AJ Auxerre
+Right-Back,right,,,Dexter Lembikisa,"1,80m",712099,"['Jamaica', 'England']",,,,19,"Nov 4, 2003",Yverdon Sport FC
+Defensive Midfield,right,,"Jul 8, 2017",Rúben Neves,"1,80m",225161,['Portugal'],€40.00m,,FC Porto,26,"Mar 13, 1997",Al-Hilal SFC
+Defensive Midfield,right,Ankle injury - Return unknown,"Jul 1, 2019",Leander Dendoncker,"1,88m",168157,['Belgium'],€15.00m,,: Ablöse €13.80m,28,"Apr 15, 1995",RSC Anderlecht
+Defensive Midfield,right,,"Jan 13, 2023",Mario Lemina,"1,84m",170934,"['Gabon', 'France']",€10.00m,,OGC Nice,29,"Sep 1, 1993",Wolverhampton Wanderers
+Defensive Midfield,right,Meniscus injury - Return unknown,"Jul 1, 2023",Boubacar Traoré,"1,83m",649020,['Mali'],€5.00m,,FC Metz,21,"Aug 20, 2001",Wolverhampton Wanderers
+Defensive Midfield,right,,"Jul 1, 2022",Joe Hodge,"1,72m",503975,"['Ireland', 'England']",€2.00m,,Wolverhampton Wanderers U21,20,"Sep 14, 2002",Huddersfield Town
+Defensive Midfield,,,,Harvey Griffiths,"1,90m",670558,['England'],,,,19,"Sep 22, 2003",Wolverhampton Wanderers U21
+Central Midfield,right,,"Aug 18, 2022",Matheus Nunes,"1,83m",601883,"['Portugal', 'Brazil']",€45.00m,,Sporting CP,24,"Aug 27, 1998",Manchester City
+Central Midfield,right,,"Jan 30, 2023",João Gomes,"1,76m",735570,['Brazil'],€18.00m,,CR Flamengo,22,"Feb 12, 2001",Wolverhampton Wanderers
+Central Midfield,right,,"Jul 1, 2021",Luke Cundle,"1,71m",532541,['England'],€3.00m,,Wolverhampton Wanderers U21,21,"Apr 26, 2002",Wolverhampton Wanderers
+Central Midfield,right,,"Jul 24, 2018",João Moutinho,"1,70m",29364,['Portugal'],€1.50m,,: Ablöse €5.60m,36,"Sep 8, 1986",SC Braga
+Central Midfield,right,,"Jan 1, 2017",Connor Ronan,"1,71m",337787,"['Ireland', 'England']",€800k,,Wolverhampton Wanderers U21,25,"Mar 6, 1998",Colorado Rapids
+Attacking Midfield,right,,"Jan 1, 2017",Morgan Gibbs-White,"1,71m",429014,"['England', 'Jamaica']",€40.00m,,Wolverhampton Wanderers U18,23,"Jan 27, 2000",Nottingham Forest
+Attacking Midfield,right,,"Jul 1, 2022",Chem Campbell,"1,80m",614603,"['Wales', 'England']",€1.00m,,Wolverhampton Wanderers U21,20,"Dec 30, 2002",Reading FC
+Left Winger,right,,"Aug 8, 2022",Gonçalo Guedes,"1,79m",225122,['Portugal'],€23.00m,"Returned after loan spell with Villarreal CF; date: Jun 30, 2024; fee: End of loan",Valencia CF,26,"Nov 29, 1996",Wolverhampton Wanderers
+Left Winger,right,,"Jan 17, 2022",Chiquinho,"1,79m",695454,"['Portugal', 'Cape Verde']",€2.00m,,Estoril Praia,23,"Feb 5, 2000",RCD Mallorca
+Right Winger,left,,"Aug 2, 2019",Pedro Neto,"1,73m",487465,['Portugal'],€28.00m,,: Ablöse €17.90m,23,"Mar 9, 2000",Chelsea FC
+Right Winger,right,,"Jan 30, 2020",Daniel Podence,"1,70m",256977,['Portugal'],€20.00m,"Returned after loan spell with Olympiacos Piraeus; date: Jun 30, 2024; fee: End of loan",: Ablöse €19.60m,27,"Oct 21, 1995",Al-Shabab FC
+Right Winger,left,,"Jan 17, 2023",Pablo Sarabia,"1,74m",74230,['Spain'],€14.00m,,: Ablöse €5.00m,31,"May 11, 1992",Wolverhampton Wanderers
+Right Winger,right,,"Aug 8, 2018",Adama Traoré,"1,78m",204103,"['Spain', 'Mali']",€10.00m,,Middlesbrough FC,27,"Jan 25, 1996",Fulham FC
+Centre-Forward,right,,"Jul 1, 2023",Matheus Cunha,"1,83m",517894,['Brazil'],€25.00m,,: Ablöse €50.00m,24,"May 27, 1999",Wolverhampton Wanderers
+Centre-Forward,right,Cruciate ligament tear - Return unknown,"Aug 31, 2022",Sasa Kalajdzic,"2,00m",369567,['Austria'],€15.00m,"Returned after loan spell with Eintracht Frankfurt; date: Jun 30, 2024; fee: End of loan",VfB Stuttgart,25,"Jul 7, 1997",Wolverhampton Wanderers
+Centre-Forward,right,"Ankle injury - Return expected on Dec 15, 2024","Jul 1, 2022",Hee-chan Hwang,"1,77m",292246,"['Korea, South']",€12.00m,,RB Leipzig,27,"Jan 26, 1996",Wolverhampton Wanderers
+Centre-Forward,right,,"Jul 1, 2019",Raúl Jiménez,"1,87m",206040,['Mexico'],€6.00m,,SL Benfica,32,"May 5, 1991",Fulham FC
+Centre-Forward,right,,"Sep 12, 2022",Diego Costa,"1,86m",44779,"['Spain', 'Brazil']",€2.00m,,Without Club,34,"Oct 7, 1988",Grêmio Foot-Ball Porto Alegrense
+Centre-Forward,right,,"Jan 1, 2024",Nathan Fraser,"1,88m",863741,"['Ireland', 'England']",,,Wolverhampton Wanderers U21,18,"Feb 22, 2005",Zulte Waregem

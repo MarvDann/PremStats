@@ -1,0 +1,49 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Jul 1, 2010",Paddy Kenny,"1,85m",13524,"['Ireland', 'England']",€1.00m,Sheffield United,34,"May 17, 1978",Retired
+Goalkeeper,right,"Jul 1, 2008",Radek Cerny,"1,87m",21010,['Czech Republic'],€500k,Tottenham Hotspur,38,"Feb 18, 1974",Retired
+Goalkeeper,right,"Jul 1, 2011",Brian Murphy,"1,85m",4190,['Ireland'],€500k,Ipswich Town,29,"May 7, 1983",Retired
+Goalkeeper,right,"Jul 1, 2009",Elvijs Putnins,"1,88m",120713,['Latvia'],€50k,Queens Park Rangers U18,21,"Jun 12, 1991",Great Yarmouth Town FC
+Centre-Back,right,"Jan 1, 2012",Nedum Onuoha,"1,83m",28810,"['England', 'Nigeria']",€4.00m,: Ablöse €4.70m,25,"Nov 12, 1986",Retired
+Centre-Back,right,"Aug 31, 2011",Anton Ferdinand,"1,85m",3698,"['England', 'St. Lucia']",€3.50m,Sunderland AFC,27,"Feb 18, 1985",Retired
+Centre-Back,right,"Jan 2, 2008",Matthew Connolly,"1,88m",34559,['England'],€1.50m,Arsenal FC Reserves,24,"Sep 24, 1987",Retired
+Centre-Back,left,"Jul 1, 2008",Kaspars Gorkss,"1,91m",30379,['Latvia'],€1.00m,Blackpool FC,30,"Nov 6, 1981",Retired
+Centre-Back,left,"Jul 1, 2010",Clint Hill,"1,83m",13583,['England'],€750k,: Ablöse free transfer,33,"Oct 19, 1978",Retired
+Centre-Back,right,"Jan 4, 2008",Fitz Hall,"1,93m",6580,['England'],€750k,Wigan Athletic,31,"Dec 20, 1980",Retired
+Centre-Back,right,"Jul 1, 2008",Peter Ramage,"1,85m",28801,"['England', 'Scotland']",€750k,Newcastle United,28,"Nov 22, 1983",Retired
+Centre-Back,right,"Jan 27, 2011",Danny Shittu,"1,91m",13736,['Nigeria'],€750k,: Ablöse free transfer,31,"Sep 2, 1980",Retired
+Centre-Back,right,"Jul 25, 2011",Danny Gabbidon,"1,78m",12709,"['Wales', 'Jamaica']",€500k,: Ablöse free transfer,32,"Aug 8, 1979",Retired
+Centre-Back,right,"Aug 1, 2011",Bruno Perone,"1,91m",67996,"['Brazil', 'Italy']",€250k,Tombense Futebol Clube (MG),24,"Jul 6, 1987",CP San Cristóbal
+Centre-Back,right,"Jul 1, 2011",Michael Harriman,"1,71m",155233,"['Ireland', 'England']",,Queens Park Rangers U18,19,"Oct 23, 1992",AFC Rushden & Diamonds
+Left-Back,left,"Jan 24, 2012",Taye Taiwo,"1,82m",28922,['Nigeria'],€6.50m,AC Milan,27,"Apr 16, 1985",Retired
+Left-Back,left,"Aug 1, 2011",Armand Traoré,"1,84m",33783,"['Senegal', 'France']",€2.50m,: Ablöse €1.35m,22,"Oct 8, 1989",Retired
+Right-Back,right,"Jul 26, 2010",Bradley Orr,"1,82m",16091,['England'],€1.50m,: Ablöse ?,29,"Nov 1, 1982",Retired
+Right-Back,right,"Aug 27, 2011",Luke Young,"1,83m",3271,['England'],€1.50m,: Ablöse €1.13m,32,"Jul 19, 1979",Retired
+Right-Back,,,Jordan Gibbons,"1,79m",198122,['England'],,,18,"Nov 18, 1993",Chesham United
+Defensive Midfield,right,"Jul 1, 2012",Samba Diakité,"1,86m",136589,"['Mali', 'France']",€4.50m,: Ablöse €4.00m,23,"Jan 24, 1989",Retired
+Defensive Midfield,right,"Jul 1, 2010",Shaun Derry,"1,77m",14007,['England'],€500k,: Ablöse free transfer,34,"Dec 6, 1977",Retired
+Central Midfield,right,"Aug 5, 2010",Adel Taarabt,"1,85m",45287,"['Morocco', 'France']",€7.50m,Tottenham Hotspur,23,"May 24, 1989",Al-Nasr SC (UAE)
+Central Midfield,right,"Aug 26, 2011",Joey Barton,"1,80m",3292,['England'],€5.00m,Newcastle United,29,"Sep 2, 1982",Retired
+Central Midfield,left,"Jul 1, 2009",Alejandro Faurlín,"1,85m",88067,"['Argentina', 'Italy']",€4.50m,Instituto ACC,25,"Aug 9, 1986",Retired
+Central Midfield,right,"Oct 30, 2007",Ákos Buzsáky,"1,80m",13878,['Hungary'],€1.00m,Plymouth Argyle,30,"May 7, 1982",Retired
+Central Midfield,both,"Jul 1, 2003",Martin Rowlands,"1,75m",13734,"['Ireland', 'England']",€750k,: Ablöse free transfer,33,"Feb 8, 1979",Retired
+Central Midfield,left,"Aug 31, 2011",Jason Puncheon,"1,73m",47995,"['England', 'Jamaica']",€750k,Southampton FC,26,"Jun 18, 1986",Kissos Kissonergas
+Right Midfield,right,"Jul 13, 2011",Kieron Dyer,"1,70m",3118,"['England', 'Antigua and Barbuda']",€500k,: Ablöse free transfer,33,"Dec 29, 1978",Retired
+Left Midfield,left,"Jan 2, 2008",Hogan Ephraim,"1,75m",31883,['England'],€500k,: Ablöse €375k,24,"Mar 31, 1988",Retired
+Left Midfield,right,"Jul 1, 2011",Bruno Andrade,"1,75m",169633,"['Portugal', 'Cape Verde']",,Queens Park Rangers U18,18,"Oct 2, 1993",Kettering Town
+Attacking Midfield,left,"Jan 1, 2011",Petter Vaagan Moen,"1,81m",26422,['Norway'],€950k,SK Brann,28,"Feb 5, 1984",Retired
+Attacking Midfield,left,"Jan 16, 2008",Ángelo Balanta,"1,79m",43696,"['Colombia', 'England']",€125k,Queens Park Rangers U18,21,"Jul 1, 1990",Hornchurch FC
+Left Winger,left,"Aug 4, 2008",Lee Cook,"1,77m",13783,['England'],€500k,Fulham FC,29,"Aug 3, 1982",Retired
+Right Winger,right,"Aug 1, 2011",Shaun Wright-Phillips,"1,66m",3467,"['England', 'Grenada']",€3.50m,: Ablöse €4.50m,30,"Oct 25, 1981",Retired
+Centre-Forward,right,"Jan 31, 2012",Djibril Cissé,"1,82m",3966,"['France', ""Cote d'Ivoire""]",€6.00m,: Ablöse €5.00m,30,"Aug 12, 1981",Retired
+Centre-Forward,left,"Jan 31, 2012",Bobby Zamora,"1,84m",4205,"['England', 'Trinidad and Tobago']",€5.00m,Fulham FC,31,"Jan 16, 1981",Retired
+Centre-Forward,right,"Jul 1, 2015",Jamie Mackie,"1,82m",15929,"['Scotland', 'England']",€3.50m,: Ablöse free transfer,26,"Sep 22, 1985",Retired
+Centre-Forward,right,"Jan 2, 2012",Federico Macheda,"1,85m",61887,['Italy'],€2.50m,Manchester United,20,"Aug 22, 1991",Asteras Aktor
+Centre-Forward,right,"Jul 1, 2011",DJ Campbell,"1,78m",37896,['England'],€1.50m,Blackpool FC,30,"Nov 12, 1981",Retired
+Centre-Forward,left,"Jul 1, 2011",Jay Bothroyd,"1,90m",8188,"['England', 'Guyana']",€1.50m,: Ablöse free transfer,30,"May 7, 1982",Retired
+Centre-Forward,right,"Sep 8, 2010",Tommy Smith,"1,78m",12401,['England'],€750k,: Ablöse €1.88m,32,"May 22, 1980",Retired
+Centre-Forward,right,"Oct 1, 2007",Rowan Vine,"1,85m",7930,['England'],€500k,: Ablöse €1.50m,29,"Sep 21, 1982",Southall United
+Centre-Forward,right,"Jan 3, 2008",Patrick Agyemang,"1,85m",13982,"['Ghana', 'England']",€500k,: Ablöse €525k,31,"Sep 29, 1980",Retired
+Centre-Forward,right,"Aug 31, 2010",Rob Hulse,"1,85m",9980,['England'],€500k,: Ablöse €975k,32,"Oct 25, 1979",Retired
+Centre-Forward,both,"Nov 20, 2008",Heidar Helguson,"1,78m",9886,['Iceland'],€500k,: Ablöse €450k,34,"Aug 22, 1977",Retired
+Centre-Forward,left,"Jul 1, 2009",Antonio German,"1,87m",105500,"['Grenada', 'England']",€250k,Queens Park Rangers U18,20,"Dec 26, 1991",Without Club
+Centre-Forward,right,"Feb 23, 2011",Troy Hewitt,"1,83m",197884,['England'],,Harrow Borough FC,22,"Feb 10, 1990",Retired

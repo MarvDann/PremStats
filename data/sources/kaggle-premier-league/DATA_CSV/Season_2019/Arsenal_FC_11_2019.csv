@@ -1,0 +1,39 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2018",Bernd Leno,"1,90m",72476,['Germany'],€28.00m,,Bayer 04 Leverkusen,28,"Mar 4, 1992",Fulham FC
+Goalkeeper,right,,"Jul 1, 2012",Emiliano Martínez,"1,95m",111873,"['Argentina', 'Spain']",€2.80m,,Arsenal FC U21,27,"Sep 2, 1992",Aston Villa
+Goalkeeper,right,,"Jul 1, 2015",Matt Macey,"2,01m",220491,['England'],€250k,,Arsenal FC U21,25,"Sep 9, 1994",Colchester United
+Centre-Back,left,"Muscle injury - Return expected on Nov 18, 2024","Jul 1, 2017",Sead Kolasinac,"1,83m",94005,"['Bosnia-Herzegovina', 'Germany']",€16.00m,,FC Schalke 04,27,"Jun 20, 1993",Atalanta BC
+Centre-Back,right,,"Jul 2, 2018",Sokratis Papastathopoulos,"1,86m",34322,['Greece'],€14.50m,,Borussia Dortmund,32,"Jun 9, 1988",Retired
+Centre-Back,right,,"Jul 28, 2014",Calum Chambers,"1,82m",215118,['England'],€14.50m,,Southampton FC,25,"Jan 20, 1995",Cardiff City
+Centre-Back,right,,"Aug 30, 2016",Shkodran Mustafi,"1,84m",88590,"['Germany', 'Albania']",€12.00m,,Valencia CF,28,"Apr 17, 1992",Retired
+Centre-Back,right,,"Aug 9, 2019",David Luiz,"1,89m",46741,"['Brazil', 'Portugal']",€12.00m,,Chelsea FC,33,"Apr 22, 1987",CR Flamengo
+Centre-Back,right,,"Jul 22, 2016",Rob Holding,"1,89m",253341,['England'],€9.50m,,Bolton Wanderers,24,"Sep 20, 1995",Crystal Palace
+Centre-Back,left,,"Jul 1, 2020",Pablo Marí,"1,93m",210178,['Spain'],€4.80m,,CR Flamengo,26,"Aug 31, 1993",AC Monza
+Centre-Back,right,,"Jan 4, 2018",Konstantinos Mavropanos,"1,94m",415912,['Greece'],€2.40m,,PAS Giannina,22,"Dec 11, 1997",West Ham United
+Centre-Back,left,Achilles tendon rupture - Return unknown,,Zech Medley,"1,95m",392761,['England'],,,,19,"Jul 9, 2000",Fleetwood Town
+Left-Back,left,Hamstring injury - Return unknown,"Aug 8, 2019",Kieran Tierney,"1,80m",300716,"['Scotland', 'Isle of Man']",€20.00m,"Returned after loan spell with Real Sociedad; date: Jun 30, 2024; fee: End of loan",Celtic FC,23,"Jun 5, 1997",Arsenal FC
+Left-Back,left,,"Jan 31, 2013",Nacho Monreal,"1,79m",43003,['Spain'],€3.20m,,Málaga CF,34,"Feb 26, 1986",Retired
+Left-Back,left,,,Tolaji Bola,"1,81m",340307,"['England', 'Nigeria']",,,,21,"Jan 4, 1999",Without Club
+Right-Back,right,,"Jul 1, 2014",Héctor Bellerín,"1,78m",191217,['Spain'],€32.00m,,Arsenal FC U21,25,"Mar 19, 1995",Real Betis Balompié
+Right-Back,right,,"Jul 1, 2017",Ainsley Maitland-Niles,"1,80m",285845,"['England', 'Jamaica']",€14.50m,,Arsenal FC U23,22,"Aug 29, 1997",Olympique Lyon
+Right-Back,right,,"Jul 1, 2020",Cédric Soares,"1,71m",112988,"['Portugal', 'Germany']",€8.00m,,Southampton FC,28,"Aug 31, 1991",Without Club
+Defensive Midfield,right,,"Jul 10, 2018",Lucas Torreira,"1,66m",318077,"['Uruguay', 'Spain']",€36.00m,,UC Sampdoria,24,"Feb 11, 1996",Galatasaray
+Defensive Midfield,left,,"Jul 1, 2016",Granit Xhaka,"1,86m",111455,['Switzerland'],€24.00m,,Borussia Mönchengladbach,27,"Sep 27, 1992",Bayer 04 Leverkusen
+Central Midfield,right,,"Jul 11, 2018",Mattéo Guendouzi,"1,85m",465830,"['France', 'Morocco']",€40.50m,,FC Lorient,21,"Apr 14, 1999",SS Lazio
+Central Midfield,right,,"Jul 25, 2019",Dani Ceballos,"1,79m",319745,['Spain'],€32.00m,,Real Madrid,23,"Aug 7, 1996",Real Madrid
+Central Midfield,both,,"Jan 22, 2018",Henrikh Mkhitaryan,"1,77m",55735,['Armenia'],€20.00m,,Manchester United,31,"Jan 21, 1989",Inter Milan
+Central Midfield,right,,"Jul 1, 2019",Joe Willock,"1,86m",340329,"['England', 'Montserrat']",€16.00m,,Arsenal FC U23,20,"Aug 20, 1999",Newcastle United
+Central Midfield,right,,,Robbie Burton,"1,75m",404386,"['Wales', 'England']",,,,20,"Dec 26, 1999",Without Club
+Central Midfield,right,,,James Olayinka,"1,75m",506965,"['England', 'Nigeria']",,,,19,"Oct 5, 2000",Without Club
+Central Midfield,right,,,Matt Smith,"1,76m",528894,['England'],,,,19,"Oct 5, 2000",Wigan Athletic
+Attacking Midfield,left,,"Sep 2, 2013",Mesut Özil,"1,80m",35664,['Germany'],€17.50m,,Real Madrid,31,"Oct 15, 1988",Retired
+Attacking Midfield,right,,"Aug 1, 2020",Emile Smith Rowe,"1,82m",392765,['England'],€2.70m,,Arsenal FC U23,19,"Jul 28, 2000",Fulham FC
+Left Winger,right,,"Jul 2, 2019",Gabriel Martinelli,"1,78m",655488,"['Brazil', 'Italy']",€25.00m,,Ituano Futebol Clube (SP),19,"Jun 18, 2001",Arsenal FC
+Right Winger,left,,"Aug 1, 2019",Nicolas Pépé,"1,83m",343052,"[""Cote d'Ivoire"", 'France']",€52.00m,,LOSC Lille,25,"May 29, 1995",Villarreal CF
+Right Winger,left,"Leg injury - Return expected on Nov 18, 2024","Jul 1, 2019",Bukayo Saka,"1,78m",433177,"['England', 'Nigeria']",€20.00m,,Arsenal FC U23,18,"Sep 5, 2001",Arsenal FC
+Right Winger,right,,"Jul 1, 2019",Reiss Nelson,"1,75m",340325,"['England', 'Jamaica']",€12.50m,,Arsenal FC U23,20,"Dec 10, 1999",Fulham FC
+Centre-Forward,right,,"Jan 31, 2018",Pierre-Emerick Aubameyang,"1,87m",58864,"['Gabon', 'France']",€56.00m,,Borussia Dortmund,31,"Jun 18, 1989",Al-Qadsiah FC
+Centre-Forward,right,,"Jul 5, 2017",Alexandre Lacazette,"1,75m",93720,"['France', 'Guadeloupe']",€48.00m,,: Ablöse €53.00m,29,"May 28, 1991",Olympique Lyon
+Centre-Forward,right,,"Jan 1, 2019",Eddie Nketiah,"1,75m",340324,"['England', 'Ghana']",€11.00m,,Arsenal FC U23,21,"May 30, 1999",Crystal Palace
+Centre-Forward,right,,,Tyreece John-Jules,"1,83m",503768,"['England', 'Dominica']",,,,19,"Feb 14, 2001",Crawley Town
+Centre-Forward,right,Shoulder injury - Return unknown,"Jul 1, 2022",Folarin Balogun,"1,78m",503770,"['United States', 'England']",,,Arsenal FC U21,18,"Jul 3, 2001",AS Monaco

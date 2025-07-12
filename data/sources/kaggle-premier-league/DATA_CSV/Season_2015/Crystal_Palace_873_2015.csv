@@ -1,0 +1,39 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jan 31, 2014",Wayne Hennessey,"1,98m",45494,['Wales'],€3.50m,Wolverhampton Wanderers,29,"Jan 24, 1987",Without Club
+Goalkeeper,right,,"Jul 23, 2015",Alex McCarthy,"1,93m",95976,['England'],€3.00m,: Ablöse €4.90m,26,"Dec 3, 1989",Southampton FC
+Goalkeeper,right,,"Jul 13, 2004",Julián Speroni,"1,86m",12814,"['Argentina', 'Italy']",€500k,Dundee FC,37,"May 18, 1979",Retired
+Centre-Back,right,,"Jan 31, 2014",Scott Dann,"1,94m",62688,['England'],€5.00m,Blackburn Rovers,29,"Feb 14, 1987",Without Club
+Centre-Back,right,,"Sep 2, 2013",Adrian Mariappa,"1,79m",38145,"['Jamaica', 'England']",€2.00m,Reading FC,29,"Oct 3, 1986",Wealdstone FC
+Centre-Back,left,,"Aug 31, 2012",Damien Delaney,"1,90m",36861,['Ireland'],€2.00m,Ipswich Town,34,"Jul 20, 1981",Retired
+Centre-Back,right,,"Aug 1, 2014",Brede Hangeland,"1,99m",25553,"['Norway', 'United States']",€1.00m,Fulham FC,35,"Jun 20, 1981",Retired
+Centre-Back,right,,"Jul 1, 2008",Patrick McCarthy,"1,85m",29974,['Ireland'],€500k,Charlton Athletic,33,"May 31, 1983",Retired
+Centre-Back,left,,,Luke Croll,"1,85m",244309,['England'],,,21,"Jan 10, 1995",Without Club
+Left-Back,left,,"Feb 1, 2015",Pape Souaré,"1,78m",125868,['Senegal'],€6.00m,: Ablöse €5.30m,26,"Jun 6, 1990",Ebbsfleet United
+Left-Back,left,,"Sep 1, 2014",Zeki Fryers,"1,85m",141655,['England'],€2.50m,Tottenham Hotspur,23,"Sep 9, 1992",Retired
+Left-Back,left,,,Jerome Binnom-Williams,"1,87m",245334,['England'],€100k,,21,"Mar 7, 1995",Dulwich Hamlet
+Right-Back,right,Team captain,"Jul 1, 2012",Joel Ward,"1,86m",92572,['England'],€5.00m,: Ablöse €650k,26,"Oct 29, 1989",Crystal Palace
+Right-Back,right,,"Aug 14, 2014",Martin Kelly,"1,91m",78959,['England'],€4.00m,: Ablöse €2.00m,26,"Apr 27, 1990",Without Club
+Defensive Midfield,right,,"Aug 12, 2011",Mile Jedinak,"1,87m",28336,"['Australia', 'Croatia']",€6.00m,Genclerbirligi Ankara,31,"Aug 3, 1984",Retired
+Defensive Midfield,right,,"Jan 1, 2013",Connor Dymond,"1,75m",261367,['England'],,: Ablöse -,21,"Sep 12, 1994",VCD Athletic FC
+Central Midfield,right,,"Jul 1, 2015",Yohan Cabaye,"1,73m",29434,['France'],€18.00m,: Ablöse €13.90m,30,"Jan 14, 1986",Retired
+Central Midfield,both,,"Sep 1, 2014",James McArthur,"1,78m",41416,['Scotland'],€7.00m,Wigan Athletic,28,"Oct 7, 1987",Retired
+Central Midfield,left,,"Jan 31, 2014",Jason Puncheon,"1,73m",47995,"['England', 'Jamaica']",€5.00m,Southampton FC,30,"Jun 18, 1986",Kissos Kissonergas
+Central Midfield,right,,"Jan 29, 2015",Jordon Mutch,"1,84m",57207,['England'],€4.00m,: Ablöse €6.34m,24,"Dec 2, 1991",Gold Coast Knights
+Central Midfield,left,,"Jan 31, 2014",Joe Ledley,"1,83m",34409,['Wales'],€3.50m,Celtic FC,29,"Jan 23, 1987",Retired
+Central Midfield,,,,Jake Gray,"1,80m",244290,['England'],,,20,"Dec 25, 1995",Hampton & Richmond Borough
+Central Midfield,right,,,Luke Dreher,"1,84m",432293,['England'],,,17,"Nov 27, 1998",AFC Croydon Athletic
+Central Midfield,left,,"Jan 1, 2014",Hiram Boateng,"1,82m",244125,"['England', 'Ghana']",,Crystal Palace U18,20,"Jan 8, 1996",Mansfield Town
+Attacking Midfield,both,,"Jul 1, 2011",Jonny Williams,"1,68m",170322,"['Wales', 'England']",€750k,: Ablöse -,22,"Oct 9, 1993",Gillingham FC
+Left Winger,right,,"Aug 24, 2012",Yannick Bolasie,"1,85m",75471,"['DR Congo', 'England']",€12.00m,: Ablöse €630k,27,"May 24, 1989",Criciúma Esporte Clube
+Left Winger,right,,"Feb 2, 2015",Wilfried Zaha,"1,80m",145988,"[""Cote d'Ivoire"", 'England']",€8.00m,Manchester United,23,"Nov 10, 1992",Olympique Lyon
+Left Winger,left,,"Jan 27, 2019",Bakary Sako,"1,83m",46791,"['Mali', 'France']",€8.00m,West Bromwich Albion,28,"Apr 26, 1988",Retired
+Left Winger,right,,"Jul 1, 2016",Sullay Kaikai,"1,82m",244130,"['Sierra Leone', 'England']",€100k,Crystal Palace U21,20,"Aug 26, 1995",Cambridge United
+Right Winger,right,,"Feb 2, 2015",Chung-yong Lee,"1,80m",81801,"['Korea, South']",€2.00m,Bolton Wanderers,27,"Jul 2, 1988",Ulsan HD FC
+Centre-Forward,right,,"Aug 3, 2015",Connor Wickham,"1,89m",95435,"['England', 'Northern Ireland']",€6.00m,Sunderland AFC,23,"Mar 31, 1993",Without Club
+Centre-Forward,left,,"Jul 21, 2015",Patrick Bamford,"1,85m",183334,"['England', 'Ireland']",€5.00m,Chelsea FC,22,"Sep 5, 1993",Leeds United
+Centre-Forward,right,,"Jul 1, 2011",Glenn Murray,"1,86m",45693,['England'],€4.00m,Brighton & Hove Albion,32,"Sep 25, 1983",Retired
+Centre-Forward,right,,"Jul 25, 2014",Fraizer Campbell,"1,72m",42411,"['England', 'Jamaica']",€3.50m,: Ablöse €1.14m,28,"Sep 13, 1987",Retired
+Centre-Forward,right,,"Jul 3, 2013",Dwight Gayle,"1,74m",196522,"['England', 'Jamaica']",€3.00m,Peterborough United,26,"Oct 17, 1989",Hibernian FC
+Centre-Forward,right,,"Jan 26, 2016",Emmanuel Adebayor,"1,92m",8883,"['Togo', 'Nigeria']",€2.50m,Without Club,32,"Feb 26, 1984",Retired
+Centre-Forward,right,,"Aug 12, 2013",Marouane Chamakh,"1,88m",19085,"['Morocco', 'France']",€2.00m,Arsenal FC,32,"Jan 10, 1984",Retired
+Centre-Forward,right,,"Jan 31, 2012",Kwesi Appiah,"1,80m",121223,"['Ghana', 'England']",€250k,Margate FC,25,"Aug 12, 1990",Boreham Wood FC

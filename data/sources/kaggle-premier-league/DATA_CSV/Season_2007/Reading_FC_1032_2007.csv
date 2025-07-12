@@ -1,0 +1,44 @@
+position,foot,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,"Aug 1, 2002",Marcus Hahnemann,"1,87m",4140,"['United States', 'Germany']",€3.00m,Fulham FC,36,"Jun 15, 1972",Retired
+Goalkeeper,right,"Jul 1, 2005",Adam Federici,"1,88m",4233,"['Australia', 'Italy']",€450k,FFA Centre of Excellence (- 2017),23,"Jan 31, 1985",Retired
+Goalkeeper,right,"Aug 1, 2006",Graham Stack,"1,88m",3559,"['Ireland', 'England']",€350k,: Ablöse free transfer,26,"Sep 26, 1981",Retired
+Goalkeeper,right,"Jan 26, 2007",Mikkel Andersen,"1,95m",42694,['Denmark'],€200k,Akademisk Boldklub,19,"Dec 17, 1988",BK Fremad Amager
+Goalkeeper,right,"Jul 1, 2005",Ben Hamer,"1,93m",67283,['England'],,Reading FC U18,20,"Nov 20, 1987",Sheffield Wednesday
+Centre-Back,left,"Oct 1, 2003",Ívar Ingimarsson,"1,88m",7434,['Iceland'],€3.00m,Wolverhampton Wanderers,30,"Aug 20, 1977",Retired
+Centre-Back,both,"Jan 31, 2007",Michael Duberry,"1,85m",3633,"['England', 'Montserrat']",€1.75m,Stoke City,32,"Oct 14, 1975",Retired
+Centre-Back,right,"Jul 1, 2007",Kalifa Cissé,"1,88m",22445,"['Mali', 'France']",€1.50m,Boavista FC,24,"Jan 9, 1984",Retired
+Centre-Back,right,"Jul 1, 2004",Ibrahima Sonko,"1,90m",36813,"['Senegal', 'France']",€1.50m,: Ablöse free transfer,27,"Jan 22, 1981",Retired
+Centre-Back,right,"Jul 1, 2007",André Bikey,"1,83m",14270,"['Cameroon', 'Spain']",€1.25m,: Ablöse €1.50m,23,"Jan 8, 1985",Retired
+Centre-Back,right,"Jul 1, 2006",Sam Sodje,"1,83m",41897,"['Nigeria', 'England']",€725k,: Ablöse €350k,29,"May 25, 1979",Retired
+Centre-Back,right,"Jan 30, 2007",Alan Bennett,"1,87m",34616,['Ireland'],€300k,Cork City FC,26,"Oct 4, 1981",Retired
+Centre-Back,right,"Aug 30, 2006",Péter Máté,"1,95m",35008,['Hungary'],€300k,: Ablöse €575k,23,"Dec 2, 1984",Retired
+Centre-Back,right,"Jan 5, 2006",Aaron Brown,"1,96m",20953,['England'],€200k,Tamworth FC,25,"Jun 23, 1983",Highgate United
+Centre-Back,right,"Jul 1, 2006",Alex Pearce,"1,88m",47768,"['Ireland', 'Scotland']",€100k,Reading FC U18,19,"Nov 9, 1988",Leatherhead FC
+Left-Back,left,"Jul 10, 2012",Nicky Shorey,"1,75m",13426,['England'],€6.50m,West Bromwich Albion,27,"Feb 19, 1981",Retired
+Left-Back,left,"Jan 1, 2006",Scott Golbourne,"1,74m",37457,['England'],€200k,: Ablöse €100k,20,"Feb 29, 1988",Retired
+Right-Back,right,"Jul 6, 1998",Graeme Murty,"1,78m",13418,['Scotland'],€1.75m,York City,33,"Nov 13, 1974",Retired
+Right-Back,right,"Aug 1, 2007",Liam Rosenior,"1,78m",15166,"['England', 'Sierra Leone']",€1.75m,Fulham FC,23,"Jul 9, 1984",Retired
+Right-Back,right,"Jul 1, 2006",Ulises de la Cruz,"1,80m",3842,"['Ecuador', 'England']",€1.50m,: Ablöse free transfer,34,"Feb 8, 1974",Retired
+Right-Back,right,,Curtis Osano,"1,80m",48449,['Kenya'],€100k,,21,"Mar 8, 1987",FC Godalming Town
+Right-Back,right,"Jul 1, 2007",Adam Bygrave,"1,88m",66920,['England'],,Reading FC U18,19,"Feb 24, 1989",Retired
+Defensive Midfield,right,"Jul 1, 2005",Brynjar Gunnarsson,"1,85m",9885,['Iceland'],€2.00m,Watford FC,32,"Oct 16, 1975",Retired
+Defensive Midfield,right,"Jan 1, 2006",John Halls,"1,82m",3556,['England'],€300k,Stoke City,26,"Feb 14, 1982",Retired
+Central Midfield,right,"Feb 28, 2001",James Harper,"1,78m",13410,"['England', 'Ghana']",€3.00m,Arsenal FC Reserves,27,"Nov 9, 1980",Without Club
+Central Midfield,both,"Aug 2, 2007",Emerse Faé,"1,75m",12392,"[""Cote d'Ivoire"", 'France']",€2.75m,: Ablöse €3.50m,24,"Jan 24, 1984",Retired
+Central Midfield,right,"Jan 1, 2008",Marek Matejovsky,"1,81m",26906,['Czech Republic'],€2.00m,FK Mlada Boleslav,26,"Dec 20, 1981",FK Mlada Boleslav
+Central Midfield,right,"Jul 1, 2005",John Oster,"1,75m",13918,"['Wales', 'England']",€750k,: Ablöse free transfer,29,"Dec 8, 1978",Retired
+Central Midfield,left,"Jan 29, 2007",Oliver Bozanic,"1,79m",43117,"['Australia', 'Slovenia']",€150k,Heidelberg United FC,19,"Jan 8, 1989",Without Club
+Central Midfield,right,"Jul 1, 2007",Jem Karacan,"1,75m",61447,"['Türkiye', 'England']",€100k,Reading FC U18,19,"Feb 21, 1989",Retired
+Right Midfield,right,"Mar 8, 2009",Glen Little,"1,91m",9879,['England'],€650k,: Ablöse free transfer,32,"Oct 15, 1975",Retired
+Right Midfield,right,"Jul 1, 2006",James Henry,"1,82m",59268,"['England', 'Scotland']",€100k,Reading FC U18,19,"Jun 10, 1989",Aldershot Town
+Left Midfield,left,"Jul 1, 2005",Stephen Hunt,"1,74m",36799,['Ireland'],€4.75m,: Ablöse free transfer,26,"Aug 1, 1981",Retired
+Left Midfield,left,"Jul 22, 2004",Bobby Convey,"1,72m",20585,['United States'],€2.50m,: Ablöse €1.20m,25,"May 27, 1983",Retired
+Right Winger,both,"Jul 1, 2006",Ki-hyeon Seol,"1,87m",9606,"['Korea, South']",€2.25m,Wolverhampton Wanderers,29,"Jan 8, 1979",Retired
+Right Winger,left,"Jan 24, 2008",Jimmy Kébé,"1,87m",33822,"['Mali', 'France']",€1.50m,RC Lens B,24,"Jan 19, 1984",Retired
+Centre-Forward,right,"Jul 1, 2005",Kevin Doyle,"1,80m",35193,['Ireland'],€6.50m,Cork City FC,24,"Sep 18, 1983",Retired
+Centre-Forward,right,"Mar 1, 2009",Dave Kitson,"1,91m",15698,['England'],€4.25m,Stoke City,28,"Jan 21, 1980",Retired
+Centre-Forward,both,"Jul 13, 2022",Shane Long,"1,80m",37304,['Ireland'],€3.00m,Southampton FC,21,"Jan 22, 1987",Retired
+Centre-Forward,right,"Jul 1, 2005",Leroy Lita,"1,76m",20975,"['England', 'DR Congo']",€2.75m,: Ablöse €1.50m,23,"Dec 28, 1984",Barwell FC
+Centre-Forward,left,"Aug 7, 2014",Simon Cox,"1,80m",37150,"['Ireland', 'England']",€100k,: Ablöse €600k,21,"Apr 28, 1987",Retired
+Centre-Forward,left,"Jul 1, 2007",Hal Robson-Kanu,"1,83m",65976,"['Wales', 'England']",€100k,Reading FC U18,19,"May 21, 1989",Retired
+Centre-Forward,right,"Jul 1, 2007",Simon Church,"1,83m",66959,"['Wales', 'England']",,Reading FC U18,19,"Dec 10, 1988",Retired

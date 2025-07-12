@@ -1,0 +1,32 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Mar 6, 1992",Steve Sutton,"1,85m",452991,['England'],: Ablöse €380k,36,"Apr 16, 1961",Retired
+Goalkeeper,,"Jul 13, 1995",Russell Hoult,"1,93m",3653,['England'],: Ablöse €300k,24,"Nov 22, 1972",Retired
+Goalkeeper,,"Jul 2, 1986",Martin Taylor,,324169,['England'],Unknown,30,"Dec 9, 1966",Retired
+Goalkeeper,left,"Mar 26, 1997",Mart Poom,"1,95m",3715,['Estonia'],: Ablöse €700k,25,"Feb 3, 1972",Retired
+Goalkeeper,,"Jul 1, 1994",Andy Quy,"1,83m",193603,['England'],: Ablöse free transfer,20,"Jul 4, 1976",Retired
+Centre-Back,right,"Jul 1, 1995",Gary Rowett,"1,85m",4102,['England'],: Ablöse €420k,23,"Mar 6, 1974",Retired
+Centre-Back,right,"Jul 1, 1995",Darryl Powell,"1,83m",4081,"['Jamaica', 'England']",: Ablöse €1.13m,25,"Nov 15, 1971",Retired
+Centre-Back,right,"Jan 1, 1995",Dean Yates,"1,85m",107825,['England'],: Ablöse ?,29,"Oct 26, 1967",Retired
+Centre-Back,right,"Jul 1, 1995",Igor Stimac,"1,88m",103812,['Croatia'],HNK Hajduk Split,29,"Sep 6, 1967",Retired
+Centre-Back,right,"Jul 17, 1996",Jacob Laursen,"1,83m",4253,['Denmark'],Silkeborg IF,25,"Oct 6, 1971",Retired
+Centre-Back,,"Jul 1, 1996",Matt Carbon,"1,88m",43138,['England'],: Ablöse free transfer,22,"Jun 8, 1975",Retired
+Centre-Back,right,"Jul 1, 1996",Christian Dailly,"1,83m",3799,['Scotland'],: Ablöse €750k,23,"Oct 23, 1973",Retired
+Centre-Back,right,"Oct 1, 1996",Paul McGrath,"1,83m",102492,"['Ireland', 'Nigeria']",: Ablöse €125k,37,"Dec 4, 1959",Retired
+Left-Back,left,"Jan 1, 1996",Chris Powell,"1,78m",4100,"['England', 'Jamaica']",Southend United,27,"Sep 8, 1969",Retired
+Right-Back,right,"Jul 1, 1996",Paul Parker,"1,70m",101381,['England'],: Ablöse free transfer,33,"Apr 4, 1964",Retired
+Right-Back,right,"Jul 1, 1997",Rob Kozluk,"1,73m",13525,"['England', 'Poland']",Derby County U18,19,"Aug 5, 1977",Retired
+Midfielder,right,"Jan 20, 1992",Paul Simpson,"1,70m",163617,['England'],: Ablöse €600k,30,"Jul 26, 1966",Retired
+Defensive Midfield,right,"Jul 1, 1992",Lee Carsley,"1,78m",3618,"['Ireland', 'England']",Derby County U18,23,"Feb 28, 1974",Retired
+Central Midfield,left,"Dec 1, 1996",Aljosa Asanovic,"1,86m",103806,['Croatia'],HNK Hajduk Split,31,"Dec 14, 1965",Retired
+Right Midfield,,"Jul 1, 1995",Sean Flynn,"1,73m",222501,['England'],Coventry City,29,"Mar 13, 1968",Retired
+Left Midfield,left,"Jul 1, 1996",Mauricio Solís,"1,78m",16446,['Costa Rica'],CS Herediano,24,"Dec 13, 1972",Retired
+Left Midfield,left,"Jul 1, 1993",Kevin Cooper,"1,73m",9162,['England'],Derby County U18,22,"Feb 8, 1975",Retired
+Attacking Midfield,,"Aug 1, 1995",Robin van der Laan,"1,80m",107826,['Netherlands'],: Ablöse €700k,28,"Sep 5, 1968",Retired
+Attacking Midfield,left,"Dec 1, 1994",Paul Trollope,"1,83m",175993,['Wales'],: Ablöse €150k,25,"Jun 3, 1972",Retired
+Centre-Forward,right,"Jan 1, 1996",Ashley Ward,"1,85m",13548,['England'],: Ablöse €1.40m,26,"Nov 24, 1970",Retired
+Centre-Forward,,"Jan 1, 1997",Marino Rahmberg,"1,80m",19274,['Sweden'],Degerfors IF,22,"Aug 7, 1974",Retired
+Centre-Forward,,"Jan 31, 1992",Marco Gabbiadini,"1,78m",223228,"['England', 'Italy']",: Ablöse €1.50m,29,"Jan 20, 1968",Retired
+Centre-Forward,right,"Jul 1, 1994",Nick Wright,"1,80m",223442,['England'],Derby County U18,21,"Oct 15, 1975",Retired
+Centre-Forward,right,"Jul 1, 1991",Dean Sturridge,"1,73m",4230,['England'],Derby County U18,23,"Jul 26, 1973",Retired
+Striker,,"Jul 27, 1995",Ron Willems,,107824,['Netherlands'],: Ablöse €450k,30,"Sep 20, 1966",Retired
+Centre-Forward,right,"Mar 1, 1997",Paulo Wanchope,"1,93m",3230,"['Costa Rica', 'England']",CS Herediano,20,"Jul 31, 1976",Retired

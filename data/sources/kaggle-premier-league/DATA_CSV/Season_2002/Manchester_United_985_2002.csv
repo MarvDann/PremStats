@@ -1,0 +1,35 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,left,,Ben Williams,"1,88m",3322,['England'],,20,"Aug 27, 1982",Retired
+Goalkeeper,left,"Jul 1, 2000",Fabien Barthez,"1,80m",3289,['France'],: Ablöse €11.70m,32,"Jun 28, 1971",Retired
+Goalkeeper,right,"Jul 27, 2001",Roy Carroll,"1,89m",3534,['Northern Ireland'],Wigan Athletic,25,"Sep 30, 1977",Retired
+Goalkeeper,left,"Jul 1, 2002",Ricardo,"1,87m",3535,['Spain'],: Ablöse €2.23m,31,"Dec 30, 1971",Retired
+Centre-Back,right,"Aug 30, 2001",Laurent Blanc,"1,92m",3113,['France'],: Ablöse free transfer,37,"Nov 19, 1965",Retired
+Centre-Back,right,"Jul 22, 2002",Rio Ferdinand,"1,89m",3235,['England'],Leeds United,24,"Nov 7, 1978",Retired
+Centre-Back,right,"Jul 1, 1994",David May,"1,84m",3538,['England'],Blackburn Rovers,33,"Jun 24, 1970",Retired
+Centre-Back,right,"Jul 1, 2001",John O'Shea,"1,92m",3540,['Ireland'],Manchester United Reserves,22,"Apr 30, 1981",Retired
+Centre-Back,right,"Jul 1, 1996",Wes Brown,"1,85m",3405,['England'],Manchester United U18,23,"Oct 13, 1979",Retired
+Left-Back,left,"Jul 1, 2000",Paul Tierney,"1,78m",4231,"['Ireland', 'England']",Manchester United U18,20,"Sep 15, 1982",Unknown
+Left-Back,left,"Jan 1, 2000",Quinton Fortune,"1,82m",3541,"['South Africa', 'England']",: Ablöse €2.25m,26,"May 21, 1977",Retired
+Left-Back,,"Jul 1, 2002",Danny Pugh,,3546,['England'],Manchester United Reserves,20,"Oct 19, 1982",Retired
+Left-Back,,"Sep 10, 1999",Mikaël Silvestre,,3393,"['France', 'Guadeloupe']",: Ablöse €5.70m,25,"Aug 9, 1977",Retired
+Left-Back,left,"Jul 1, 2001",Kieran Richardson,"1,77m",3548,['England'],: Ablöse free transfer,18,"Oct 21, 1984",Retired
+Right-Back,right,"Jul 1, 1992",Gary Neville,"1,80m",3403,['England'],Manchester United U18,28,"Feb 18, 1975",Retired
+Right-Back,right,"Jul 1, 1994",Phil Neville,"1,80m",3404,['England'],Manchester United U18,26,"Jan 21, 1977",Retired
+Right-Back,right,"Jan 1, 2000",Lee Roche,"1,78m",3545,['England'],Manchester United Reserves,22,"Oct 28, 1980",Retired
+Right-Back,right,"Jul 1, 2001",Mark Lynch,"1,80m",3537,['England'],Manchester United U18,21,"Sep 2, 1981",Retired
+Defensive Midfield,right,"Jul 1, 1992",Nicky Butt,"1,78m",3543,['England'],Manchester United U18,28,"Jan 21, 1975",Retired
+Central Midfield,right,"Jul 13, 2001",Juan Sebastián Verón,"1,82m",3143,"['Argentina', 'Italy']",: Ablöse €42.60m,28,"Mar 9, 1975",Retired
+Central Midfield,right,"Jul 1, 1992",David Beckham,"1,82m",3139,['England'],Manchester United U18,28,"May 2, 1975",Retired
+Central Midfield,,"Jul 1, 1993",Roy Keane,,3396,['Ireland'],: Ablöse €4.40m,31,"Aug 10, 1971",Retired
+Central Midfield,right,"Jan 1, 2000",Michael Stewart,"1,80m",3246,['Scotland'],Manchester United U18,22,"Feb 26, 1981",Retired
+Central Midfield,right,"Jan 8, 2012",Paul Scholes,"1,68m",3397,['England'],,28,"Nov 16, 1974",Retired
+Central Midfield,right,"Jul 1, 2001",Darren Fletcher,"1,84m",3547,['Scotland'],Manchester United U18,19,"Feb 1, 1984",Retired
+Left Midfield,left,"Jul 1, 1991",Ryan Giggs,"1,79m",3406,['Wales'],Manchester United U18,29,"Nov 29, 1973",Retired
+Attacking Midfield,right,"Jul 1, 1999",Luke Chadwick,"1,80m",3658,['England'],Manchester United Reserves,22,"Nov 18, 1980",Retired
+Left Winger,right,"Jul 1, 2001",Jimmy Davis,,4245,['England'],Royal Antwerp FC,21,"Feb 6, 1982",---
+Second Striker,right,"Jul 1, 2002",Mads Timm,"1,85m",3542,['Denmark'],Manchester United U18,18,"Oct 31, 1984",Retired
+Centre-Forward,right,"Jul 1, 2001",Ruud van Nistelrooy,"1,89m",3407,['Netherlands'],: Ablöse €28.50m,26,"Jul 1, 1976",Retired
+Centre-Forward,both,"Jul 29, 1996",Ole Gunnar Solskjær,"1,79m",3394,['Norway'],Molde FK,30,"Feb 26, 1973",Retired
+Centre-Forward,,"Jan 20, 2002",Diego Forlán,,3408,"['Uruguay', 'Spain']",CA Independiente,24,"May 19, 1979",Retired
+Centre-Forward,right,"Jul 1, 1999",Danny Webber,"1,78m",3551,['England'],Manchester United U18,21,"Dec 28, 1981",Retired
+Centre-Forward,,,Daniel Nardiello,"1,80m",3536,"['Wales', 'England']",,20,"Oct 22, 1982",Retired

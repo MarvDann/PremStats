@@ -1,0 +1,37 @@
+position,foot,joinedOn,name,height,id,nationality,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,"Dec 1, 1993",Ian Bennett,"1,83m",3299,['England'],Peterborough United,31,"Oct 10, 1971",Retired
+Goalkeeper,,"Jul 1, 2001",Nico Vaesen,"1,91m",3737,['Belgium'],: Ablöse free transfer,33,"Sep 28, 1969",Retired
+Goalkeeper,,"Mar 1, 2003",Andy Marriott,"1,83m",3738,"['Wales', 'England']",Barnsley FC,32,"Oct 11, 1970",Retired
+Defender,right,"Jul 1, 2000",Joey Hutchinson,"1,80m",3740,['England'],Birmingham City U18,21,"Apr 2, 1982",Retired
+Centre-Back,right,"Jul 1, 2002",Darryl Powell,"1,83m",4081,"['Jamaica', 'England']",: Ablöse free transfer,31,"Nov 15, 1971",Retired
+Centre-Back,,"Dec 14, 2001",Steve Vickers,"1,85m",3935,['England'],: Ablöse €475k,35,"Oct 13, 1967",Retired
+Centre-Back,right,"Feb 16, 1998",Darren Purse,"1,88m",3106,['England'],: Ablöse €850k,26,"Feb 14, 1977",Retired
+Centre-Back,right,"Jul 1, 2002",Kenny Cunningham,"1,83m",3937,['Ireland'],: Ablöse free transfer,32,"Jun 28, 1971",Retired
+Centre-Back,right,"Jul 1, 1995",Michael Johnson,"1,80m",3936,"['Jamaica', 'England']",: Ablöse €350k,29,"Jul 4, 1973",Retired
+Centre-Back,left,"Jan 22, 2003",Matthew Upson,"1,85m",3273,['England'],: Ablöse €1.40m,24,"Apr 18, 1979",Retired
+Centre-Back,right,"Mar 22, 2002",Olivier Tébily,"1,83m",3931,"[""Cote d'Ivoire"", 'France']",Celtic FC,27,"Dec 19, 1975",Retired
+Centre-Back,left,"Jan 1, 2006",Mat Sadler,"1,80m",3930,['England'],Birmingham City U21,18,"Feb 26, 1985",Retired
+Left-Back,left,"Jul 1, 2002",Tom Williams,"1,80m",16116,"['Cyprus', 'England']",Peterborough United,22,"Jul 8, 1980",Retired
+Left-Back,left,"Jul 1, 2002",Peter Gilbert,"1,75m",20968,"['Wales', 'England']",Birmingham City U18,19,"Jul 31, 1983",Retired
+Left-Back,left,"Jul 1, 1996",Martin Grainger,"1,78m",3934,['England'],: Ablöse €600k,30,"Aug 23, 1972",Retired
+Left-Back,left,"Jan 1, 2003",Jamie Clapham,"1,75m",3938,['England'],Ipswich Town,27,"Dec 7, 1975",Retired
+Right-Back,right,"Jan 1, 2002",Jeff Kenna,"1,80m",3933,['Ireland'],Blackburn Rovers,32,"Aug 27, 1970",Retired
+Right-Back,right,"Jan 4, 2003",Ferdinand Coly,"1,81m",3794,"['Senegal', 'France']",: Ablöse free transfer,29,"Sep 10, 1973",Retired
+Defensive Midfield,right,,Christophe Grondin,"1,82m",29355,"['France', 'Madagascar']",,19,"Sep 2, 1983",AS Tournefeuille
+Defensive Midfield,right,"Jul 1, 2002",Aliou Cissé,"1,80m",3796,"['Senegal', 'France']",: Ablöse €2.25m,27,"Mar 24, 1976",Retired
+Defensive Midfield,both,"Jul 1, 2002",Robbie Savage,"1,83m",3797,['Wales'],: Ablöse €1.88m,28,"Oct 18, 1974",Retired
+Defensive Midfield,,"Jan 1, 2003",Piotr Swierczewski,,3694,"['Poland', 'France']",: Ablöse ?,31,"Apr 8, 1972",Retired
+Central Midfield,right,"Mar 8, 2002",Damien Johnson,"1,73m",3940,['Northern Ireland'],Blackburn Rovers,24,"Nov 18, 1978",Retired
+Central Midfield,left,"Jul 1, 2001",Darren Carter,"1,88m",3929,['England'],Birmingham City U18,19,"Dec 18, 1983",Retired
+Right Midfield,left,"Jan 1, 2003",Stephen Clemence,"1,80m",3641,['England'],: Ablöse €1.35m,25,"Mar 31, 1978",Retired
+Left Midfield,left,"Jul 1, 1999",Stan Lazaridis,"1,75m",3747,"['Australia', 'Greece']",: Ablöse €2.25m,30,"Aug 16, 1972",Retired
+Attacking Midfield,right,"Feb 1, 2001",Curtis Woodhouse,"1,73m",3330,['England'],Sheffield United,23,"Apr 17, 1980",Retired
+Attacking Midfield,right,"Jul 1, 1996",Paul Devlin,"1,73m",3716,"['Scotland', 'England']",: Ablöse ?,31,"Apr 14, 1972",Retired
+Attacking Midfield,right,"Jul 1, 1996",Bryan Hughes,"1,78m",3939,['England'],Wrexham AFC,27,"Jun 19, 1976",Retired
+Right Winger,right,"Jul 1, 2002",Jovan Kirovski,"1,80m",3474,"['United States', 'North Macedonia']",: Ablöse free transfer,27,"Mar 18, 1976",Retired
+Centre-Forward,right,"Jul 1, 2001",Tommy Mooney,"1,80m",10410,['England'],Watford FC,31,"Aug 11, 1971",Retired
+Centre-Forward,right,"Jul 1, 2000",Geoff Horsfield,"1,83m",3792,['England'],: Ablöse €3.38m,29,"Nov 1, 1973",Retired
+Centre-Forward,right,"Feb 8, 2002",Stern John,"1,85m",3793,['Trinidad and Tobago'],: Ablöse €200k,26,"Oct 30, 1976",Retired
+Centre-Forward,right,"Jul 1, 2002",Clinton Morrison,"1,78m",3145,"['Ireland', 'England']",: Ablöse €6.38m,24,"May 14, 1979",Retired
+Centre-Forward,right,"Jan 2, 2003",Christophe Dugarry,"1,88m",3237,['France'],: Ablöse free transfer,31,"Mar 24, 1972",Retired
+Centre-Forward,right,"Jul 1, 2001",Craig Fagan,"1,80m",3928,"['England', 'Jamaica']",Birmingham City U18,20,"Dec 11, 1982",Retired

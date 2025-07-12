@@ -1,0 +1,38 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,right,,"Jul 1, 2008",David Stockdale,"1,90m",67339,['England'],€2.50m,Darlington FC (- 2012),27,"Sep 20, 1985",Retired
+Goalkeeper,,,"Jul 1, 2008",Mark Schwarzer,,3357,"['Australia', 'Germany']",€1.00m,Middlesbrough FC,40,"Oct 6, 1972",Retired
+Goalkeeper,right,,"Jan 1, 2011",Neil Etheridge,"1,88m",61694,"['Philippines', 'England']",€500k,Fulham FC Reserves,23,"Feb 7, 1990",Buriram United
+Goalkeeper,right,,"Jul 1, 2011",Csaba Somogyi,"1,90m",108471,['Hungary'],€250k,Rákospalotai EAC,28,"Apr 7, 1985",Mezőörs KSE
+Centre-Back,right,,"Jan 18, 2008",Brede Hangeland,"1,99m",25553,"['Norway', 'United States']",€5.00m,: Ablöse €3.30m,32,"Jun 20, 1981",Retired
+Centre-Back,right,,"Jul 1, 2010",Philippe Senderos,"1,89m",4277,"['Switzerland', 'Spain']",€2.00m,: Ablöse free transfer,28,"Feb 14, 1985",Retired
+Centre-Back,left,,"Jul 1, 2011",Matthew Briggs,"1,83m",51318,"['Guyana', 'England']",€1.50m,Fulham FC Reserves,22,"Mar 6, 1991",Retired
+Centre-Back,right,,"Jul 1, 2007",Aaron Hughes,"1,83m",3580,['Northern Ireland'],€1.50m,: Ablöse €1.50m,33,"Nov 8, 1979",Retired
+Centre-Back,right,,"Aug 23, 2010",Rafik Halliche,"1,87m",67815,['Algeria'],€750k,SL Benfica,26,"Sep 2, 1986",Retired
+Left-Back,left,,"Aug 31, 2012",Kieran Richardson,"1,77m",3548,['England'],€3.50m,Sunderland AFC,28,"Oct 21, 1984",Retired
+Left-Back,,,"Jul 13, 2011",John Arne Riise,,3220,['Norway'],€3.00m,: Ablöse €2.63m,32,"Sep 24, 1980",Avaldsnes IL
+Right-Back,right,,"Jan 31, 2013",Stanislav Manolev,"1,85m",36233,['Bulgaria'],€3.00m,: Ablöse ?,27,"Dec 16, 1985",Retired
+Right-Back,,,"Jul 1, 2013",Sascha Riether,,1662,['Germany'],€3.00m,1.FC Köln,30,"Mar 23, 1983",Retired
+Right-Back,right,,"Jul 1, 2009",Stephen Kelly,"1,84m",12125,['Ireland'],€1.50m,: Ablöse free transfer,29,"Sep 6, 1983",Retired
+Right-Back,right,,"Jul 1, 2014",Jack Grimmer,"1,84m",119553,['Scotland'],,Fulham FC U21,19,"Jan 25, 1994",Wycombe Wanderers
+Defensive Midfield,right,,"Feb 18, 2016",Chris Baird,"1,85m",4115,['Northern Ireland'],€2.00m,Derby County,31,"Feb 25, 1982",Retired
+Defensive Midfield,right,,"Mar 26, 2014",Mahamadou Diarra,"1,82m",5352,['Mali'],€2.00m,Without Club,32,"May 18, 1981",Retired
+Defensive Midfield,both,,"Jan 31, 2013",Eyong Enoh,"1,73m",47344,['Cameroon'],€2.00m,: Ablöse free transfer,27,"Mar 23, 1986",Retired
+Defensive Midfield,right,,"Jan 25, 2013",Emmanuel Frimpong,"1,75m",93056,"['Ghana', 'England']",€1.50m,Arsenal FC,21,"Jan 10, 1992",Retired
+Defensive Midfield,,,"Oct 5, 2012",Mickaël Tavares,,45139,"['Senegal', 'France']",€300k,Without Club,30,"Oct 25, 1982",Retired
+Central Midfield,left,,"Aug 18, 2010",Mousa Dembélé,"1,85m",19368,"['Belgium', 'Mali']",€21.00m,AZ Alkmaar,25,"Jul 16, 1987",Retired
+Central Midfield,left,,"Jan 31, 2013",Urby Emanuelson,"1,76m",20586,"['Netherlands', 'Suriname']",€8.80m,AC Milan,27,"Jun 16, 1986",Retired
+Central Midfield,right,,"Jan 1, 2011",Steve Sidwell,"1,83m",13427,['England'],€2.50m,: Ablöse €600k,30,"Dec 14, 1982",Retired
+Central Midfield,left,,"Jul 25, 2011",Pajtim Kasami,"1,88m",130108,"['Switzerland', 'North Macedonia']",€2.00m,: Ablöse €1.60m,21,"Jun 2, 1992",UC Sampdoria
+Central Midfield,right,,"Sep 11, 2012",Georgios Karagounis,"1,76m",6106,['Greece'],€1.00m,: Ablöse free transfer,36,"Mar 6, 1977",Retired
+Central Midfield,left,,,Alex Smith,"1,77m",116655,['England'],,,21,"Oct 31, 1991",Without Club
+Right Midfield,left,,"Aug 1, 2009",Damien Duff,"1,77m",3259,['Ireland'],€1.50m,Newcastle United,34,"Mar 2, 1979",Retired
+Right Midfield,right,,"Jan 24, 2007",Simon Davies,"1,78m",4056,['Wales'],€500k,: Ablöse free transfer,33,"Oct 23, 1979",Retired
+Left Midfield,,,,Charles Banya,"1,70m",185764,"['England', 'Sierra Leone']",,,19,"Sep 18, 1993",Without Club
+Attacking Midfield,left,,"Aug 31, 2011",Bryan Ruiz,"1,87m",39642,['Costa Rica'],€13.00m,Twente Enschede FC,27,"Aug 18, 1985",Retired
+Left Winger,right,,"Jul 1, 2011",Kerim Frei,"1,71m",146844,"['Türkiye', 'Switzerland']",€3.00m,Fulham FC U18,19,"Nov 19, 1993",Elazigspor
+Right Winger,right,,"Aug 31, 2012",Ashkan Dejagah,"1,81m",13979,"['Iran', 'Germany']",€3.50m,VfL Wolfsburg,26,"Jul 5, 1986",Retired
+Right Winger,left,Cruciate ligament injury - Return unknown,"Jan 1, 2012",Alexander Kacaniklic,"1,81m",51040,"['Sweden', 'North Macedonia']",€2.00m,Fulham FC Reserves,21,"Aug 13, 1991",AEL Limassol
+Centre-Forward,,,"Aug 31, 2012",Dimitar Berbatov,,65,['Bulgaria'],€7.00m,Manchester United,32,"Jan 30, 1981",Retired
+Centre-Forward,right,,"Jul 12, 2012",Hugo Rodallega,"1,81m",37934,['Colombia'],€4.00m,Wigan Athletic,27,"Jul 25, 1985",Independiente Santa Fe
+Centre-Forward,,,"Jul 1, 2012",Mladen Petric,,2874,"['Croatia', 'Switzerland']",€3.00m,: Ablöse free transfer,32,"Jan 1, 1981",Retired
+Centre-Forward,left,,,Marcello Trotta,"1,88m",129505,['Italy'],€250k,,20,"Sep 29, 1992",SS Turris Calcio

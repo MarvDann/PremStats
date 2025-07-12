@@ -1,0 +1,47 @@
+position,foot,status,joinedOn,name,height,id,nationality,marketValue,joined,signedFrom,age,dateOfBirth,currentClub
+Goalkeeper,,,"Aug 3, 2023",Thomas Kaminski,"1,90m",77757,"['Belgium', 'Poland']",€3.00m,,Blackburn Rovers,31,"Oct 23, 1992",Luton Town
+Goalkeeper,left,,"Aug 17, 2023",Tim Krul,"1,93m",33027,['Netherlands'],€500k,,Norwich City,36,"Apr 3, 1988",Luton Town
+Goalkeeper,right,,"Jan 30, 2023",Jack Walton,"1,84m",368629,['England'],€400k,,Barnsley FC,26,"Apr 23, 1998",Dundee United FC
+Goalkeeper,,,"Jul 3, 2017",James Shea,"1,85m",91340,"['England', 'Ireland']",€200k,,: Ablöse free transfer,33,"Jun 16, 1991",Luton Town
+Centre-Back,right,,"Aug 31, 2023",Teden Mengi,"1,86m",548470,"['England', 'Angola']",€12.00m,,Manchester United,22,"Apr 30, 2002",Luton Town
+Centre-Back,right,,"Jan 17, 2024",Tom Holmes,"1,89m",424900,['England'],€3.50m,,Reading FC,24,"Mar 12, 2000",Luton Town
+Centre-Back,right,,"Nov 18, 2020",Gabriel Osho,"1,85m",364409,"['Nigeria', 'England']",€3.00m,,Without Club,25,"Aug 14, 1998",AJ Auxerre
+Centre-Back,right,,"Jul 3, 2023",Mads Andersen,"1,94m",407021,['Denmark'],€3.00m,,Barnsley FC,26,"Dec 27, 1997",Luton Town
+Centre-Back,right,Team captain; heart problems - Return unknown,"Sep 1, 2020",Tom Lockyer,"1,85m",207742,['Wales'],€2.50m,,Charlton Athletic,29,"Dec 3, 1994",Luton Town
+Centre-Back,right,,"Jul 1, 2021",Reece Burke,"1,89m",264220,['England'],€1.80m,,Hull City,27,"Sep 2, 1996",Luton Town
+Centre-Back,left,,"Jul 1, 2015",Dan Potts,"1,83m",207037,['England'],€900k,,: Ablöse free transfer,30,"Apr 13, 1994",Charlton Athletic
+Centre-Back,right,,,Aidan Francis-Clarke,"1,81m",802230,['England'],,,,19,"Jul 2, 2004",Luton Town U21
+Centre-Back,,,,Christian Chigozie,,1225825,['England'],,,,17,"Mar 1, 2007",Luton Town U21
+Left-Back,left,,"Jul 28, 2023",Ryan Giles,"1,83m",504581,['England'],€4.50m,,Wolverhampton Wanderers,24,"Jan 26, 2000",Hull City
+Left-Back,left,,"Jul 1, 2021",Amari'i Bell,"1,80m",278166,"['Jamaica', 'England']",€2.50m,,Blackburn Rovers,30,"May 5, 1994",Luton Town
+Left-Back,left,,"Jul 1, 2024",Joe Johnson,"1,80m",1088818,['England'],€100k,"Internal transfer: Luton Town U21; date: Jul 1, 2024",Luton Town U21,18,"Feb 21, 2006",Luton Town
+Right-Back,right,,"Jul 21, 2023",Issa Kaboré,"1,80m",649452,['Burkina Faso'],€10.00m,,Manchester City,23,"May 12, 2001",SL Benfica
+Right-Back,right,,"Jan 30, 2024",Daiki Hashioka,"1,84m",387191,['Japan'],€2.00m,,Sint-Truidense VV,25,"May 17, 1999",Luton Town
+Defensive Midfield,left,,"Jul 20, 2023",Marvelous Nakamba,"1,77m",324882,['Zimbabwe'],€5.00m,,: Ablöse €2.90m,30,"Jan 19, 1994",Luton Town
+Defensive Midfield,right,,"Jan 28, 2014",Pelly Ruddock Mpanzu,"1,75m",244338,"['DR Congo', 'England']",€1.50m,,: Ablöse ?,30,"Mar 22, 1994",Luton Town
+Midfielder,,,,Jake Burger,,965954,['England'],,,,18,"Jul 6, 2005",Rochdale AFC
+Defensive Midfield,,,,Dominic Dos Santos Martins,,1203143,"['Portugal', 'England']",,,,18,"Oct 13, 2005",Luton Town U21
+Central Midfield,right,,"Sep 1, 2023",Albert Sambi Lokonga,"1,83m",381967,"['Belgium', 'DR Congo']",€15.00m,,Arsenal FC,24,"Oct 22, 1999",Sevilla FC
+Central Midfield,right,,"Aug 9, 2023",Ross Barkley,"1,89m",131978,['England'],€8.00m,,OGC Nice,30,"Dec 5, 1993",Aston Villa
+Central Midfield,right,,"Jul 1, 2021",Allan Campbell,"1,74m",347619,['Scotland'],€2.00m,,Motherwell FC,25,"Jul 4, 1998",Charlton Athletic
+Central Midfield,right,,"Aug 5, 2020",Jordan Clark,"1,83m",184129,['England'],€1.00m,,Accrington Stanley,30,"Sep 22, 1993",Luton Town
+Central Midfield,right,,"Aug 25, 2017",Luke Berry,"1,77m",125685,['England'],€400k,,Cambridge United,31,"Jul 12, 1992",Charlton Athletic
+Central Midfield,,,"Jul 1, 2022",Louie Watson,"1,80m",505548,"['Ireland', 'England']",€250k,,Derby County,23,"Jun 7, 2001",Without Club
+Central Midfield,right,,"Sep 24, 2021",Elliot Thorpe,"1,76m",496661,"['Wales', 'England']",€200k,,Without Club,23,"Nov 9, 2000",Wealdstone FC
+Central Midfield,left,,,Axel Piesold,,907219,['England'],€150k,,,19,"Mar 31, 2005",Cliftonville FC
+Central Midfield,,,,Jayden Luker,,1088817,['England'],,,,19,"Apr 30, 2005",Grimsby Town
+Left Midfield,left,,"Jul 1, 2022",Alfie Doughty,"1,83m",608175,['England'],€10.00m,,Stoke City,24,"Dec 21, 1999",Luton Town
+Attacking Midfield,right,,"Jul 1, 2021",Fred Onyedinma,"1,85m",305274,"['Nigeria', 'England']",€500k,,Wycombe Wanderers,27,"Nov 24, 1996",Wycombe Wanderers
+Attacking Midfield,,,"Jul 1, 2024",Zack Nelson,,965940,['England'],€100k,"Internal transfer: Luton Town U21; date: Jul 1, 2024",Luton Town U21,19,"Apr 21, 2005",Luton Town
+Left Winger,left,,"Nov 3, 2020",Dion Pereira,"1,80m",499604,"['Antigua and Barbuda', 'England']",€175k,,Without Club,25,"Mar 25, 1999",Dagenham & Redbridge FC
+Right Winger,right,Achilles tendon rupture - Return unknown,"Jul 1, 2023",Chiedozie Ogbene,"1,81m",392591,"['Ireland', 'Nigeria']",€8.00m,,Rotherham United,27,"May 1, 1997",Ipswich Town
+Right Winger,left,,"Jul 14, 2023",Tahith Chong,"1,85m",344830,"['Netherlands', 'Curacao']",€6.00m,,Birmingham City,24,"Dec 4, 1999",Luton Town
+Right Winger,left,,"Oct 11, 2023",Andros Townsend,"1,81m",61842,['England'],€1.80m,,Without Club,32,"Jul 16, 1991",Antalyaspor
+Second Striker,right,,"Aug 2, 2022",John McAtee,"1,80m",504855,['England'],€300k,,Grimsby Town,24,"Jul 23, 1999",Bolton Wanderers
+Centre-Forward,right,,"Jul 6, 2022",Carlton Morris,"1,85m",246963,['England'],€13.00m,,Barnsley FC,28,"Dec 16, 1995",Luton Town
+Centre-Forward,,,"Feb 1, 2021",Elijah Adebayo,"1,93m",319900,"['England', 'Nigeria']",€12.00m,,Walsall FC,26,"Jan 7, 1998",Luton Town
+Centre-Forward,right,,"Aug 10, 2023",Jacob Brown,"1,78m",469958,"['Scotland', 'England']",€4.00m,,Stoke City,26,"Apr 10, 1998",Luton Town
+Centre-Forward,right,,"Jul 1, 2022",Cauley Woodrow,"1,84m",169801,['England'],€1.00m,,Barnsley FC,29,"Dec 2, 1994",Luton Town
+Centre-Forward,right,,"Jan 31, 2023",Joe Taylor,"1,70m",944551,"['Wales', 'England']",€350k,,Peterborough United,21,"Nov 18, 2002",Luton Town
+Centre-Forward,right,,"Jul 15, 2021",Admiral Muskwe,"1,83m",314378,"['Zimbabwe', 'England']",€275k,,Leicester City U21,25,"Aug 21, 1998",Without Club
+Centre-Forward,,,,Taylan Harris,"1,81m",985717,"['England', 'Türkiye']",,,,18,"Oct 30, 2005",Luton Town U21
