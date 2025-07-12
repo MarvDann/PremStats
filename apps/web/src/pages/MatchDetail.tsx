@@ -147,20 +147,20 @@ const MatchDetail: Component = () => {
 
   const getEventIcon = (eventType: string) => {
     switch (eventType) {
-      case 'goal':
-        return '⚽'
-      case 'own_goal':
-        return '⚽'
-      case 'penalty':
-        return '⚽'
-      case 'yellow_card':
-        return '🟨'
-      case 'red_card':
-        return '🟥'
-      case 'substitution':
-        return '🔄'
-      default:
-        return '📝'
+    case 'goal':
+      return '⚽'
+    case 'own_goal':
+      return '⚽'
+    case 'penalty':
+      return '⚽'
+    case 'yellow_card':
+      return '🟨'
+    case 'red_card':
+      return '🟥'
+    case 'substitution':
+      return '🔄'
+    default:
+      return '📝'
     }
   }
 
@@ -185,17 +185,19 @@ const MatchDetail: Component = () => {
                 {/* Home Team */}
                 <div class="text-center">
                   <div class="flex flex-col items-center space-y-2">
-                    {getTeamCrest(matchQuery.data.homeTeam) ? (
-                      <img
-                        src={getTeamCrest(matchQuery.data.homeTeam)}
-                        alt={`${matchQuery.data.homeTeam} crest`}
-                        class="w-20 h-20 object-contain"
-                      />
-                    ) : (
-                      <div class="w-20 h-20 bg-primary/10 rounded-full flex items-center justify-center text-primary font-bold text-2xl">
-                        {matchQuery.data.homeTeam.substring(0, 3).toUpperCase()}
-                      </div>
-                    )}
+                    {getTeamCrest(matchQuery.data.homeTeam)
+                      ? (
+                        <img
+                          src={getTeamCrest(matchQuery.data.homeTeam)}
+                          alt={`${matchQuery.data.homeTeam} crest`}
+                          class="w-20 h-20 object-contain"
+                        />
+                      )
+                      : (
+                        <div class="w-20 h-20 bg-primary/10 rounded-full flex items-center justify-center text-primary font-bold text-2xl">
+                          {matchQuery.data.homeTeam.substring(0, 3).toUpperCase()}
+                        </div>
+                      )}
                     <h3 class="font-semibold text-lg">{matchQuery.data.homeTeam}</h3>
                     {getResultBadge(matchQuery.data.homeScore, matchQuery.data.awayScore, true)}
                   </div>
@@ -203,38 +205,32 @@ const MatchDetail: Component = () => {
 
                 {/* Score */}
                 <div class="text-center">
-                  {matchQuery.data.status === 'FINISHED' ? (
-                    <>
-                      <div class="text-5xl font-bold">
-                        {matchQuery.data.homeScore ?? '-'} - {matchQuery.data.awayScore ?? '-'}
-                      </div>
-                      {matchQuery.data.halfTimeHome !== null && matchQuery.data.halfTimeAway !== null && (
-                        <p class="text-sm text-muted-foreground mt-2">
+                  <div class="text-5xl font-bold">
+                    {matchQuery.data.homeScore ?? '-'} - {matchQuery.data.awayScore ?? '-'}
+                  </div>
+                  {matchQuery.data.halfTimeHome !== null && matchQuery.data.halfTimeAway !== null && (
+                    <p class="text-sm text-muted-foreground mt-2">
                           HT: {matchQuery.data.halfTimeHome} - {matchQuery.data.halfTimeAway}
-                        </p>
-                      )}
-                    </>
-                  ) : (
-                    <div class="text-2xl font-semibold text-muted-foreground">
-                      {matchQuery.data.status}
-                    </div>
+                    </p>
                   )}
                 </div>
 
                 {/* Away Team */}
                 <div class="text-center">
                   <div class="flex flex-col items-center space-y-2">
-                    {getTeamCrest(matchQuery.data.awayTeam) ? (
-                      <img
-                        src={getTeamCrest(matchQuery.data.awayTeam)}
-                        alt={`${matchQuery.data.awayTeam} crest`}
-                        class="w-20 h-20 object-contain"
-                      />
-                    ) : (
-                      <div class="w-20 h-20 bg-primary/10 rounded-full flex items-center justify-center text-primary font-bold text-2xl">
-                        {matchQuery.data.awayTeam.substring(0, 3).toUpperCase()}
-                      </div>
-                    )}
+                    {getTeamCrest(matchQuery.data.awayTeam)
+                      ? (
+                        <img
+                          src={getTeamCrest(matchQuery.data.awayTeam)}
+                          alt={`${matchQuery.data.awayTeam} crest`}
+                          class="w-20 h-20 object-contain"
+                        />
+                      )
+                      : (
+                        <div class="w-20 h-20 bg-primary/10 rounded-full flex items-center justify-center text-primary font-bold text-2xl">
+                          {matchQuery.data.awayTeam.substring(0, 3).toUpperCase()}
+                        </div>
+                      )}
                     <h3 class="font-semibold text-lg">{matchQuery.data.awayTeam}</h3>
                     {getResultBadge(matchQuery.data.homeScore, matchQuery.data.awayScore, false)}
                   </div>
@@ -500,39 +496,41 @@ const MatchDetail: Component = () => {
         <Show when={activeTab() === 'timeline'}>
           <Card>
             <div class="p-6">
-              {eventsQuery.data?.events && eventsQuery.data.events.length > 0 ? (
-                <div class="space-y-3">
-                  <h3 class="text-lg font-semibold mb-4">Match Events</h3>
-                  <For each={eventsQuery.data.events}>
-                    {(event) => {
-                      const isHomeTeam = event.teamId === matchQuery.data?.homeTeamId
-                      const teamName = isHomeTeam ? matchQuery.data?.homeTeam : matchQuery.data?.awayTeam
+              {eventsQuery.data?.events && eventsQuery.data.events.length > 0
+                ? (
+                  <div class="space-y-3">
+                    <h3 class="text-lg font-semibold mb-4">Match Events</h3>
+                    <For each={eventsQuery.data.events}>
+                      {(event) => {
+                        const isHomeTeam = event.teamId === matchQuery.data?.homeTeamId
+                        const teamName = isHomeTeam ? matchQuery.data?.homeTeam : matchQuery.data?.awayTeam
 
-                      return (
-                        <div class={`flex items-center space-x-4 p-3 rounded-lg transition-colors hover:bg-muted/50 ${
-                          event.eventType === 'goal' || event.eventType === 'penalty' ? 'bg-primary/5' : ''
-                        }`}>
-                          <div class="text-2xl flex-shrink-0">{getEventIcon(event.eventType)}</div>
-                          <div class="flex-1">
-                            <div class="flex items-center space-x-2">
-                              <p class="font-medium">{event.playerName || 'Unknown Player'}</p>
-                              <span class="text-sm text-muted-foreground">({teamName})</span>
+                        return (
+                          <div class={`flex items-center space-x-4 p-3 rounded-lg transition-colors hover:bg-muted/50 ${
+                            event.eventType === 'goal' || event.eventType === 'penalty' ? 'bg-primary/5' : ''
+                          }`}>
+                            <div class="text-2xl flex-shrink-0">{getEventIcon(event.eventType)}</div>
+                            <div class="flex-1">
+                              <div class="flex items-center space-x-2">
+                                <p class="font-medium">{event.playerName || 'Unknown Player'}</p>
+                                <span class="text-sm text-muted-foreground">({teamName})</span>
+                              </div>
+                              {event.detail && (
+                                <p class="text-sm text-muted-foreground mt-1">{event.detail}</p>
+                              )}
                             </div>
-                            {event.detail && (
-                              <p class="text-sm text-muted-foreground mt-1">{event.detail}</p>
-                            )}
+                            <div class="text-sm font-medium tabular-nums">{event.minute}'</div>
                           </div>
-                          <div class="text-sm font-medium tabular-nums">{event.minute}'</div>
-                        </div>
-                      )
-                    }}
-                  </For>
-                </div>
-              ) : (
-                <p class="text-center text-muted-foreground">
+                        )
+                      }}
+                    </For>
+                  </div>
+                )
+                : (
+                  <p class="text-center text-muted-foreground">
                   Match timeline data not yet available. Goal scorers and match events will be displayed here.
-                </p>
-              )}
+                  </p>
+                )}
             </div>
           </Card>
         </Show>
