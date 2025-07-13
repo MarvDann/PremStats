@@ -7,7 +7,6 @@ import { getTeamCrest } from '../utils/teamCrests'
 import { ErrorBoundary } from '../components/ErrorBoundary'
 import { apiUrl } from '../config/api'
 
-
 interface StandingsEntry {
   position: number
   team: string
@@ -56,7 +55,7 @@ const StatsPage: Component = () => {
 
   // Use global sorted seasons
   const sortedSeasons = () => getSortedSeasons()
-  
+
   // Get effective season ID (fallback to global current season)
   const effectiveSeasonId = () => {
     const selected = selectedSeason()
@@ -68,7 +67,7 @@ const StatsPage: Component = () => {
     queryFn: async (): Promise<StandingsResponse> => {
       const seasonId = effectiveSeasonId()
       if (!seasonId) throw new Error('No season selected')
-      
+
       const response = await fetch(apiUrl(`/standings?season=${seasonId}`))
       if (!response.ok) {
         throw new Error('Failed to fetch standings')
@@ -86,7 +85,7 @@ const StatsPage: Component = () => {
     queryFn: async (): Promise<SeasonSummary> => {
       const seasonId = effectiveSeasonId()
       if (!seasonId) throw new Error('No season selected')
-      
+
       const response = await fetch(apiUrl(`/seasons/${seasonId}/summary`))
       if (!response.ok) {
         throw new Error('Failed to fetch season summary')
@@ -112,14 +111,14 @@ const StatsPage: Component = () => {
   // Get season-specific qualification rules
   const getSeasonRules = (seasonId: number | null) => {
     if (!seasonId) return { championsLeague: 4, europaLeague: [5, 6], europaConference: null, relegation: [18, 19, 20], totalTeams: 20 }
-    
+
     // Find season by ID to get the name
     const season = sortedSeasons().find(s => s.id === seasonId)
     if (!season) return { championsLeague: 4, europaLeague: [5, 6], europaConference: null, relegation: [18, 19, 20], totalTeams: 20 }
-    
+
     // Extract year from season name (e.g., "2024/25" -> 2024)
     const startYear = parseInt(season.name.split('/')[0])
-    
+
     if (startYear >= 2024) {
       // 2024/25 onwards - 5 CL spots due to coefficient
       return { championsLeague: 5, europaLeague: [6], europaConference: [7], relegation: [18, 19, 20], totalTeams: 20 }
@@ -140,46 +139,48 @@ const StatsPage: Component = () => {
 
   const getRowClassName = (position: number) => {
     const rules = getSeasonRules(effectiveSeasonId())
-    
-    if (position === 1) return 'bg-yellow-100 border-yellow-300' // Champion
-    if (position <= rules.championsLeague) return 'bg-orange-50 border-orange-200' // Champions League
-    if (rules.europaLeague.includes(position)) return 'bg-blue-50 border-blue-200' // Europa League
-    if (rules.europaConference && rules.europaConference.includes(position)) return 'bg-purple-50 border-purple-200' // Europa Conference League
-    if (rules.relegation.includes(position)) return 'bg-red-50 border-red-200' // Relegation
+
+    if (position === 1) return 'table-champion-row' // Champion
+    if (position <= rules.championsLeague) return 'table-champions-league-row' // Champions League
+    if (rules.europaLeague.includes(position)) return 'table-europa-league-row' // Europa League
+    if (rules.europaConference && rules.europaConference.includes(position)) return 'table-europa-conference-row' // Europa Conference League
+    if (rules.relegation.includes(position)) return 'table-relegation-row' // Relegation
     return ''
   }
 
   const standingsColumns = [
     { header: 'Pos', key: 'position', align: 'center' as const, width: '60px', accessor: (item: StandingsEntry) => item.position },
-    { 
-      header: 'Team', 
-      key: 'team', 
+    {
+      header: 'Team',
+      key: 'team',
       align: 'left' as const,
       width: '300px',
       accessor: (item: StandingsEntry) => (
         <div class="flex items-center space-x-2">
-          {getTeamCrest(item.team) ? (
-            <img
-              src={getTeamCrest(item.team)}
-              alt={`${item.team} crest`}
-              class="w-5 h-5 object-contain"
-              onError={(e) => {
-                e.currentTarget.style.display = 'none'
-                const fallback = e.currentTarget.nextElementSibling as HTMLElement
-                if (fallback) fallback.style.display = 'flex'
-              }}
-            />
-          ) : null}
-          <div 
-            class={`w-5 h-5 bg-muted rounded-full flex items-center justify-center text-xs font-bold text-muted-foreground ${getTeamCrest(item.team) ? 'hidden' : 'flex'}`}
+          {getTeamCrest(item.team)
+            ? (
+              <img
+                src={getTeamCrest(item.team)}
+                alt={`${item.team} crest`}
+                class="w-5 h-5 object-contain"
+                onError={(e) => {
+                  e.currentTarget.style.display = 'none'
+                  const fallback = e.currentTarget.nextElementSibling as HTMLElement
+                  if (fallback) fallback.style.display = 'flex'
+                }}
+              />
+            )
+            : null}
+          <div
+            class={`w-5 h-5 bg-[hsl(var(--muted))] rounded-full flex items-center justify-center text-xs font-bold text-[hsl(var(--muted-foreground))] ${getTeamCrest(item.team) ? 'hidden' : 'flex'}`}
             style={getTeamCrest(item.team) ? 'display: none' : 'display: flex'}
           >
             {item.team.substring(0, 2).toUpperCase()}
           </div>
           <span>{item.team}</span>
           {item.position === 1 && (
-            <div class="w-5 h-5 bg-yellow-500 rounded-full flex items-center justify-center">
-              <span class="text-xs font-bold text-white">C</span>
+            <div class="w-5 h-5 champions-badge rounded-full flex items-center justify-center">
+              <span class="text-xs font-bold">C</span>
             </div>
           )}
         </div>
@@ -195,8 +196,6 @@ const StatsPage: Component = () => {
     { header: 'Pts', key: 'points', align: 'center' as const, width: '60px', accessor: (item: StandingsEntry) => item.points }
   ]
 
-
-
   return (
     <Container class="max-w-5xl">
       <div class="space-y-4">
@@ -208,7 +207,7 @@ const StatsPage: Component = () => {
         <div class="flex flex-col lg:flex-row lg:items-center lg:justify-between gap-4">
           <div class="flex items-center space-x-2">
             <label class="text-sm font-medium">Season:</label>
-            <select 
+            <select
               class="flex h-9 rounded-md border border-input bg-background px-3 py-1 text-sm ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
               value={effectiveSeasonId() || ''}
               onChange={(e) => setSelectedSeason(parseInt(e.currentTarget.value))}
@@ -220,62 +219,62 @@ const StatsPage: Component = () => {
               </For>
             </select>
           </div>
-          
+
           {/* Dynamic Legend */}
           <div class="flex flex-wrap gap-3 text-xs">
             {(() => {
               const rules = getSeasonRules(effectiveSeasonId())
               const legendItems = []
-              
+
               // Champion
               legendItems.push(
                 <div class="flex items-center gap-1">
-                  <div class="w-3 h-3 bg-yellow-100 border border-yellow-300 rounded"></div>
+                  <div class="w-3 h-3 table-champion-row border rounded"></div>
                   <span class="font-medium">Champion</span>
                 </div>
               )
-              
+
               // Champions League
               const clRange = rules.championsLeague === 4 ? '2nd-4th' : '2nd-5th'
               legendItems.push(
                 <div class="flex items-center gap-1">
-                  <div class="w-3 h-3 bg-orange-50 border border-orange-200 rounded"></div>
+                  <div class="w-3 h-3 table-champions-league-row border rounded"></div>
                   <span>Champions League ({clRange})</span>
                 </div>
               )
-              
+
               // Europa League
-              const elRange = rules.europaLeague.length === 1 
+              const elRange = rules.europaLeague.length === 1
                 ? getOrdinalSuffix(rules.europaLeague[0])
                 : `${getOrdinalSuffix(rules.europaLeague[0])}-${getOrdinalSuffix(rules.europaLeague[rules.europaLeague.length - 1])}`
               legendItems.push(
                 <div class="flex items-center gap-1">
-                  <div class="w-3 h-3 bg-blue-50 border border-blue-200 rounded"></div>
+                  <div class="w-3 h-3 table-europa-league-row border rounded"></div>
                   <span>Europa League ({elRange})</span>
                 </div>
               )
-              
+
               // Europa Conference League (only if applicable)
               if (rules.europaConference) {
                 legendItems.push(
                   <div class="flex items-center gap-1">
-                    <div class="w-3 h-3 bg-purple-50 border border-purple-200 rounded"></div>
+                    <div class="w-3 h-3 table-europa-conference-row border rounded"></div>
                     <span>Europa Conference League (7th)</span>
                   </div>
                 )
               }
-              
+
               // Relegation
-              const relegationRange = rules.relegation.length === 1 
+              const relegationRange = rules.relegation.length === 1
                 ? getOrdinalSuffix(rules.relegation[0])
                 : `${getOrdinalSuffix(rules.relegation[0])}-${getOrdinalSuffix(rules.relegation[rules.relegation.length - 1])}`
               legendItems.push(
                 <div class="flex items-center gap-1">
-                  <div class="w-3 h-3 bg-red-50 border border-red-200 rounded"></div>
+                  <div class="w-3 h-3 table-relegation-row border rounded"></div>
                   <span>Relegation ({relegationRange})</span>
                 </div>
               )
-              
+
               return legendItems
             })()}
           </div>
@@ -293,7 +292,6 @@ const StatsPage: Component = () => {
               getRowClass={(item: StandingsEntry) => getRowClassName(item.position)}
             />
           )}
-
 
           {/* Loading States */}
           {(standingsQuery.isLoading || seasonSummaryQuery.isLoading) && (

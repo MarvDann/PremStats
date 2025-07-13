@@ -18,14 +18,14 @@ export const initializeCurrentSeason = async () => {
     if (!seasonsResponse.ok) {
       throw new Error('Failed to fetch seasons')
     }
-    
+
     const seasonsResult = await seasonsResponse.json()
     const seasons: Season[] = seasonsResult.data.seasons
     setAllSeasons(seasons)
-    
+
     // Sort seasons by name descending (most recent first)
     const sortedSeasons = seasons.sort((a, b) => b.name.localeCompare(a.name))
-    
+
     // Find the most recent season that has actual match data
     for (const season of sortedSeasons) {
       try {
@@ -43,14 +43,14 @@ export const initializeCurrentSeason = async () => {
         continue
       }
     }
-    
+
     // Fallback to most recent season if no season has matches
     if (sortedSeasons.length > 0) {
       console.log(`Fallback: Setting current season to ${sortedSeasons[0].name} (ID: ${sortedSeasons[0].id})`)
       setCurrentSeasonId(sortedSeasons[0].id)
       return sortedSeasons[0].id
     }
-    
+
     return null
   } catch (error) {
     console.error('Failed to initialize current season:', error)

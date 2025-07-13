@@ -1,0 +1,399 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "🚀 Start PremStats",
+      "type": "shell",
+      "command": "./launch.sh",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "new",
+        "showReuseMessage": true,
+        "clear": false
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "⚡ Quick Start",
+      "type": "shell",
+      "command": "./quick-start.sh",
+      "group": "build",
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "new"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "🛑 Stop PremStats",
+      "type": "shell",
+      "command": "./stop.sh",
+      "group": "build",
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "new"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "🏗️ Setup Project",
+      "type": "shell",
+      "command": "pnpm",
+      "args": ["run", "setup"],
+      "group": "build",
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "new"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "🔧 Build API",
+      "type": "shell",
+      "command": "go",
+      "args": ["build", "-o", "bin/api", "cmd/api/main.go"],
+      "options": {
+        "cwd": "${workspaceFolder}/packages/api"
+      },
+      "group": "build",
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "shared"
+      },
+      "problemMatcher": ["$go"]
+    },
+    {
+      "label": "📦 Build UI Components",
+      "type": "shell",
+      "command": "pnpm",
+      "args": ["--filter", "@premstats/ui", "build"],
+      "group": "build",
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "🎨 Build Frontend",
+      "type": "shell",
+      "command": "pnpm",
+      "args": ["--filter", "@premstats/web", "build"],
+      "group": "build",
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "🧪 Run Tests",
+      "type": "shell",
+      "command": "pnpm",
+      "args": ["test"],
+      "group": "test",
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "🔍 Lint Code",
+      "type": "shell",
+      "command": "pnpm",
+      "args": ["lint"],
+      "group": "build",
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "🔧 Type Check",
+      "type": "shell",
+      "command": "pnpm",
+      "args": ["typecheck"],
+      "group": "build",
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "shared"
+      },
+      "problemMatcher": ["$tsc"]
+    },
+    {
+      "label": "Start Frontend Dev Server",
+      "type": "shell",
+      "command": "bash",
+      "args": ["${workspaceFolder}/scripts/start-frontend.sh"],
+      "group": "build",
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "new"
+      },
+      "isBackground": true,
+      "problemMatcher": []
+    },
+    {
+      "label": "Start Go API Server",
+      "type": "shell",
+      "command": "go",
+      "args": ["run", "cmd/api/main.go"],
+      "options": {
+        "cwd": "${workspaceFolder}/packages/api",
+        "env": {
+          "PORT": "8081"
+        }
+      },
+      "group": "build",
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "new"
+      },
+      "isBackground": true,
+      "problemMatcher": []
+    },
+    {
+      "label": "📚 Start Storybook",
+      "type": "shell",
+      "command": "pnpm",
+      "args": ["--filter", "@premstats/ui", "storybook"],
+      "group": "build",
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "new"
+      },
+      "isBackground": true,
+      "problemMatcher": []
+    },
+    {
+      "label": "🗄️ Start Docker Services",
+      "type": "shell",
+      "command": "docker",
+      "args": ["compose", "up", "-d", "postgres", "redis"],
+      "group": "build",
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "🗄️ Stop Docker Services",
+      "type": "shell",
+      "command": "docker",
+      "args": ["compose", "down"],
+      "group": "build",
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "📊 View Docker Logs",
+      "type": "shell",
+      "command": "docker",
+      "args": ["compose", "logs", "-f"],
+      "group": "build",
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "new"
+      },
+      "isBackground": true,
+      "problemMatcher": []
+    },
+    {
+      "label": "🧹 Clean Install",
+      "type": "shell",
+      "command": "bash",
+      "args": ["-c", "rm -rf node_modules */node_modules && pnpm install && pnpm ui:build"],
+      "group": "build",
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "new"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "🧪 Test UI Components",
+      "type": "shell",
+      "command": "pnpm",
+      "args": ["--filter", "@premstats/ui", "test"],
+      "group": "test",
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "🧪 Test UI Components (Watch)",
+      "type": "shell",
+      "command": "pnpm",
+      "args": ["--filter", "@premstats/ui", "test:watch"],
+      "group": "test",
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "new"
+      },
+      "isBackground": true,
+      "problemMatcher": []
+    },
+    {
+      "label": "🔧 Check API Health",
+      "type": "shell",
+      "command": "curl",
+      "args": ["-s", "http://localhost:8081/api/v1/health"],
+      "group": "build",
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "🌐 Check Frontend",
+      "type": "shell",
+      "command": "curl",
+      "args": ["-I", "http://localhost:3000"],
+      "group": "build",
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "📈 Check All Services",
+      "type": "shell",
+      "command": "bash",
+      "args": ["-c", "echo 'Checking services...' && curl -s http://localhost:8081/api/v1/health && echo '' && curl -I http://localhost:3000 2>/dev/null | head -1 && docker compose ps"],
+      "group": "build",
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "🎭 Run E2E Tests",
+      "type": "shell",
+      "command": "pnpm",
+      "args": ["--filter", "@premstats/web", "test:e2e"],
+      "group": "test",
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "new"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "🎭 Run E2E Tests (UI Mode)",
+      "type": "shell",
+      "command": "pnpm",
+      "args": ["--filter", "@premstats/web", "test:e2e:ui"],
+      "group": "test",
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "new"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "🎭 Run E2E Tests (Headed)",
+      "type": "shell",
+      "command": "pnpm",
+      "args": ["--filter", "@premstats/web", "test:e2e:headed"],
+      "group": "test",
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "new"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "📊 View E2E Test Report",
+      "type": "shell",
+      "command": "pnpm",
+      "args": ["--filter", "@premstats/web", "test:e2e:report"],
+      "group": "test",
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "new"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "🧪 Run All Tests",
+      "type": "shell",
+      "command": "bash",
+      "args": ["-c", "pnpm test && pnpm --filter @premstats/web test:e2e"],
+      "group": "test",
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "new"
+      },
+      "problemMatcher": []
+    }
+  ]
+}

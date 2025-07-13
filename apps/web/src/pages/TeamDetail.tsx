@@ -80,7 +80,7 @@ const TeamDetail: Component = () => {
       }
       const data = await response.json()
       // Sort seasons by name descending (most recent first)
-      const sortedSeasons = data.data.seasons.sort((a: Season, b: Season) => 
+      const sortedSeasons = data.data.seasons.sort((a: Season, b: Season) =>
         b.name.localeCompare(a.name)
       )
       return { seasons: sortedSeasons }
@@ -116,7 +116,7 @@ const TeamDetail: Component = () => {
       const data = await response.json()
       // Filter matches for this team using correct field names
       const teamName = teamQuery.data?.name || ''
-      const filteredMatches = data.data.matches.filter((match: any) => 
+      const filteredMatches = data.data.matches.filter((match: any) =>
         match.homeTeam === teamName || match.awayTeam === teamName
       )
       // Convert to expected format
@@ -146,7 +146,7 @@ const TeamDetail: Component = () => {
   const getMatchResult = (match: Match, teamName: string) => {
     const isHome = match.home_team === teamName
     const isAway = match.away_team === teamName
-    
+
     if (isHome) {
       if (match.home_score > match.away_score) return 'W'
       if (match.home_score < match.away_score) return 'L'
@@ -174,10 +174,10 @@ const TeamDetail: Component = () => {
 
   const getResultColor = (result: string) => {
     switch (result) {
-      case 'W': return 'bg-emerald-50 text-emerald-700 border border-emerald-200'
-      case 'L': return 'bg-rose-50 text-rose-700 border border-rose-200'
-      case 'D': return 'bg-slate-100 text-slate-600 border border-slate-200'
-      default: return 'bg-slate-100 text-slate-600 border border-slate-200'
+    case 'W': return 'bg-emerald-50 text-emerald-700 border border-emerald-200'
+    case 'L': return 'bg-rose-50 text-rose-700 border border-rose-200'
+    case 'D': return 'bg-slate-100 text-slate-600 border border-slate-200'
+    default: return 'bg-slate-100 text-slate-600 border border-slate-200'
     }
   }
 
@@ -188,17 +188,19 @@ const TeamDetail: Component = () => {
         {teamQuery.data && (
           <div class="flex items-center justify-between">
             <div class="flex items-center space-x-4">
-              {getTeamCrest(teamQuery.data.name) ? (
-                <img
-                  src={getTeamCrest(teamQuery.data.name)}
-                  alt={`${teamQuery.data.name} crest`}
-                  class="w-16 h-16 object-contain"
-                />
-              ) : (
-                <div class="w-16 h-16 bg-primary rounded-lg flex items-center justify-center text-primary-foreground font-bold text-xl">
-                  {teamQuery.data.shortName}
-                </div>
-              )}
+              {getTeamCrest(teamQuery.data.name)
+                ? (
+                  <img
+                    src={getTeamCrest(teamQuery.data.name)}
+                    alt={`${teamQuery.data.name} crest`}
+                    class="w-16 h-16 object-contain"
+                  />
+                )
+                : (
+                  <div class="w-16 h-16 bg-primary rounded-lg flex items-center justify-center text-primary-foreground font-bold text-xl">
+                    {teamQuery.data.shortName}
+                  </div>
+                )}
               <div>
                 <h1 class="text-3xl font-bold tracking-tight">{teamQuery.data.name}</h1>
                 <p class="text-muted-foreground">
@@ -215,7 +217,7 @@ const TeamDetail: Component = () => {
         {/* Season Selector */}
         <div class="flex items-center space-x-2">
           <label class="text-sm font-medium">Season:</label>
-          <select 
+          <select
             class="flex h-10 rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
             value={selectedSeason() || ''}
             onChange={(e) => setSelectedSeason(e.currentTarget.value ? parseInt(e.currentTarget.value) : null)}
@@ -255,7 +257,7 @@ const TeamDetail: Component = () => {
                 label="Goal Difference"
                 value={teamSeasonStatsQuery.data.goalDifference > 0 ? `+${teamSeasonStatsQuery.data.goalDifference}` : teamSeasonStatsQuery.data.goalDifference.toString()}
                 description={`${teamSeasonStatsQuery.data.goalsFor} for, ${teamSeasonStatsQuery.data.goalsAgainst} against`}
-                variant={teamSeasonStatsQuery.data.goalDifference > 0 ? "success" : teamSeasonStatsQuery.data.goalDifference < 0 ? "danger" : "default"}
+                variant={teamSeasonStatsQuery.data.goalDifference > 0 ? 'success' : teamSeasonStatsQuery.data.goalDifference < 0 ? 'danger' : 'default'}
               />
             </div>
           </div>

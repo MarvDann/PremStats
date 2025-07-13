@@ -11,7 +11,7 @@ A comprehensive web application for Premier League statistics from 1992 to prese
 
 - **Historical Data**: Complete Premier League statistics from 1992 to present
 - **Real-time Updates**: Automated data scraping after every match
-- **Beautiful UI**: Responsive design with dark/light themes
+- **Beautiful UI**: Responsive design with comprehensive dark/light theme system
 - **Advanced Queries**: Natural language search (e.g., "Did Manchester United beat Arsenal in 1996 at Old Trafford?")
 - **Visualizations**: Interactive charts and graphs for statistics
 - **AI Integration**: GitHub issue automation with AI agents
@@ -22,7 +22,7 @@ A comprehensive web application for Premier League statistics from 1992 to prese
 
 ### Frontend
 - **Framework**: SolidJS with TypeScript
-- **Styling**: Tailwind CSS with themeable components
+- **Styling**: Tailwind CSS with CSS variables for comprehensive theming
 - **State Management**: Solid Query
 - **Charts**: Chart.js with Solid bindings
 - **Testing**: Vitest + Playwright
@@ -44,10 +44,12 @@ A comprehensive web application for Premier League statistics from 1992 to prese
 
 ### Prerequisites
 
-- Node.js >= 20.0.0
-- pnpm >= 8.0.0
+- Node.js >= 20.0.0 (uses native fetch)
+- pnpm >= 8.0.0 (**REQUIRED** - do not use npm)
 - Docker & Docker Compose
 - Go >= 1.21 (for backend development)
+
+**⚠️ Important**: This project uses pnpm workspaces. Never run `npm install` as it will create conflicting lock files.
 
 ### Installation
 
@@ -147,23 +149,32 @@ docker-compose exec api go run ./cmd/migrate up
 
 ## 🧪 Testing
 
-### Unit Tests
-```bash
-# Frontend
-pnpm --filter @premstats/web test:unit
+**Comprehensive Test Suite**: 122 unit tests + 99 E2E tests + full lint/type validation
 
-# Backend
+### Quick Test Commands
+```bash
+# Complete test suite
+pnpm lint          # ESLint checks (all packages)
+pnpm typecheck     # TypeScript validation  
+pnpm test:unit     # 122 UI component tests
+pnpm test:e2e      # 99 E2E tests (including theme system)
+```
+
+### Detailed Testing
+```bash
+# Unit Tests
+pnpm --filter @premstats/ui test:unit      # UI components only
+pnpm --filter @premstats/web test:unit     # Frontend only
+
+# E2E Tests  
+pnpm exec playwright test --project=chromium  # Single browser
+pnpm exec playwright test tests/e2e/theme.spec.ts  # Theme tests
+
+# Backend Tests
 cd packages/api && go test ./...
-```
 
-### E2E Tests
-```bash
-pnpm test:e2e
-```
-
-### Visual Testing
-```bash
-pnpm storybook
+# Visual Testing
+pnpm storybook  # Component library at localhost:6006
 ```
 
 ## 🤖 AI Agent System
@@ -215,13 +226,21 @@ query {
 
 ## 🎨 Component Library
 
-The UI package provides themeable components:
+The UI package provides fully themeable components with dark/light mode support:
 
-- `DataTable` - Sortable, filterable tables
-- `Chart` - Line, bar, pie charts
-- `Card` - Content containers
-- `Modal` - Dialogs and overlays
-- `Form` - Input controls
+- `DataTable` - Sortable, filterable tables  
+- `StatsCard` - Statistics display cards
+- `Card` - Content containers with theme variants
+- `Button` - Interactive buttons with focus states
+- `Input` - Form controls with validation
+- `ThemeSwitcher` - Dark/light theme toggle
+- `Container` - Layout containers
+
+**Theme System Features:**
+- 🌓 Automatic dark/light mode detection
+- 💾 User preference persistence  
+- 🎨 CSS variables for complete customization
+- 📱 Mobile-responsive theme controls
 
 Access Storybook at http://localhost:6006 for component documentation.
 

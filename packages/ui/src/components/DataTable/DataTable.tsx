@@ -7,7 +7,7 @@ const tableVariants = tv({
   variants: {
     variant: {
       default: '',
-      striped: '[&_tbody_tr:nth-child(odd)]:bg-muted/50'
+      striped: '[&_tbody_tr:nth-child(odd)]:bg-[hsl(var(--muted)/0.5)]'
     },
     size: {
       default: 'text-sm',
@@ -156,15 +156,15 @@ export function DataTable<T> (props: DataTableProps<T>) {
         {...others}
       >
         <thead class="[&_tr]:border-b">
-          <tr class="border-b transition-colors hover:bg-muted/50">
+          <tr class="border-b transition-colors hover:bg-[hsl(var(--muted)/0.5)]">
             <For each={local.columns}>
               {(column) => (
                 <th
                   class={cn(
                     getHeaderPaddingClass(),
-                    'font-medium text-muted-foreground',
+                    'font-medium text-[hsl(var(--muted-foreground))]',
                     getAlignmentClass(column.align),
-                    column.sortable && local.sortable ? 'cursor-pointer select-none hover:text-foreground' : ''
+                    column.sortable && local.sortable ? 'cursor-pointer select-none hover:text-[hsl(var(--foreground))]' : ''
                   )}
                   style={column.width ? { width: column.width } : {}}
                   onClick={() => handleSort(column.key)}
@@ -182,7 +182,7 @@ export function DataTable<T> (props: DataTableProps<T>) {
           <For each={sortedData()}>
             {(item) => (
               <tr class={cn(
-                'border-b transition-colors hover:bg-muted/50 data-[state=selected]:bg-muted',
+                'border-b transition-colors hover:bg-[hsl(var(--muted)/0.5)] data-[state=selected]:bg-[hsl(var(--muted))]',
                 local.getRowClass ? local.getRowClass(item) : ''
               )}>
                 <For each={local.columns}>

@@ -1,9 +1,9 @@
 import type { Component } from 'solid-js'
 import { createSignal, For, onMount, onCleanup } from 'solid-js'
 import { createQuery } from '@tanstack/solid-query'
-import { A } from '@solidjs/router'
+import { useSearchParams } from '@solidjs/router'
 import { Container, Card } from '@premstats/ui'
-import { getCurrentSeasonId, getSortedSeasons } from '../utils/seasonStore'
+import { getSortedSeasons } from '../utils/seasonStore'
 import { getTeamCrest } from '../utils/teamCrests'
 import { apiUrl } from '../config/api'
 
@@ -21,20 +21,65 @@ interface Match {
   status: string
 }
 
+interface MatchEvent {
+  id: number
+  matchId: number
+  eventType: string
+  minute: number
+  playerId?: number
+  playerName?: string
+  teamId?: number
+  detail?: string
+}
+
+interface MatchWithEvents extends Match {
+  events?: MatchEvent[]
+}
 
 const MatchesPage: Component = () => {
-  const [selectedSeason, setSelectedSeason] = createSignal<number | null>(null)
-  const [selectedTeam, setSelectedTeam] = createSignal<string | null>(null)
+  const [searchParams, setSearchParams] = useSearchParams()
   const [currentPage, setCurrentPage] = createSignal(1)
   const limit = 20
 
-  // Initialize with global current season when component mounts
-  onMount(() => {
-    const currentId = getCurrentSeasonId()
-    if (currentId && selectedSeason() === null) {
-      setSelectedSeason(currentId)
+  // Read filters from URL parameters or use defaults
+  const selectedSeason = () => {
+    const seasonParam = searchParams.season
+    if (seasonParam) {
+      const seasonId = parseInt(seasonParam)
+      return !isNaN(seasonId) ? seasonId : 33 // Default to current season
     }
-    console.log('Matches component mounted')
+    return 33 // Default to 2024/25 season (ID: 33) - most recent with data
+  }
+
+  const selectedTeam = () => searchParams.team || null
+
+  // Update URL when filters change
+  const updateFilters = (newSeason?: number, newTeam?: string | null, resetPage = true) => {
+    const params: Record<string, string> = {}
+
+    if (newSeason !== undefined) {
+      params.season = newSeason.toString()
+    } else if (selectedSeason()) {
+      params.season = selectedSeason().toString()
+    }
+
+    if (newTeam !== undefined) {
+      if (newTeam) params.team = newTeam
+    } else if (selectedTeam()) {
+      params.team = selectedTeam()!
+    }
+
+    setSearchParams(params)
+    if (resetPage) setCurrentPage(1)
+  }
+
+  // Initialize filters from URL or set defaults
+  onMount(() => {
+    // If no season in URL, set default to current season (2024/25)
+    if (!searchParams.season) {
+      updateFilters(33, null, false)
+    }
+    console.log('Matches component mounted - reading filters from URL or setting defaults')
   })
 
   // Clean up when component unmounts
@@ -44,12 +89,9 @@ const MatchesPage: Component = () => {
 
   // Use global sorted seasons
   const sortedSeasons = () => getSortedSeasons()
-  
-  // Get effective season ID (fallback to global current season)
-  const effectiveSeasonId = () => {
-    const selected = selectedSeason()
-    return selected !== null ? selected : getCurrentSeasonId()
-  }
+
+  // Get effective season ID (always returns the URL-based selection)
+  const effectiveSeasonId = () => selectedSeason()
 
   // Teams query for filter dropdown - only teams from selected season
   const seasonTeamsQuery = createQuery(() => ({
@@ -57,21 +99,21 @@ const MatchesPage: Component = () => {
     queryFn: async (): Promise<string[]> => {
       const seasonId = effectiveSeasonId()
       if (!seasonId) return []
-      
+
       // Fetch matches for the season to get unique teams
       const response = await fetch(apiUrl(`/matches?season=${seasonId}&limit=1000`))
       if (!response.ok) {
         throw new Error('Failed to fetch matches for season teams')
       }
       const result = await response.json()
-      
+
       // Extract unique team names from matches
       const teams = new Set<string>()
       result.data.matches.forEach((match: Match) => {
         teams.add(match.homeTeam)
         teams.add(match.awayTeam)
       })
-      
+
       return Array.from(teams).sort()
     },
     get enabled() {
@@ -81,34 +123,53 @@ const MatchesPage: Component = () => {
 
   const matchesQuery = createQuery(() => ({
     queryKey: ['matches', effectiveSeasonId(), selectedTeam(), currentPage()],
-    queryFn: async (): Promise<{ matches: Match[]; total: number }> => {
+    queryFn: async (): Promise<{ matches: MatchWithEvents[]; total: number }> => {
       const seasonId = effectiveSeasonId()
       if (!seasonId) throw new Error('No season selected')
-      
+
       // Fetch ALL matches for the season first
       const response = await fetch(apiUrl(`/matches?season=${seasonId}&limit=1000`))
       if (!response.ok) {
         throw new Error('Failed to fetch matches')
       }
       const result = await response.json()
-      let allMatches = result.data.matches.sort((a: Match, b: Match) => 
-        new Date(b.date).getTime() - new Date(a.date).getTime()
+      let allMatches: Match[] = result.data.matches.sort((a: Match, b: Match) =>
+        new Date(a.date).getTime() - new Date(b.date).getTime()
       )
-      
+
       // Filter by team if selected
       if (selectedTeam()) {
-        allMatches = allMatches.filter((match: Match) => 
+        allMatches = allMatches.filter((match: Match) =>
           match.homeTeam === selectedTeam() || match.awayTeam === selectedTeam()
         )
       }
-      
+
       // Apply pagination
       const startIndex = (currentPage() - 1) * limit
       const endIndex = startIndex + limit
       const paginatedMatches = allMatches.slice(startIndex, endIndex)
-      
-      console.log(`Loaded ${paginatedMatches.length} matches (page ${currentPage()}) for season ${seasonId}`)
-      return { matches: paginatedMatches, total: allMatches.length }
+
+      // Fetch events for each match in parallel
+      const matchesWithEvents: MatchWithEvents[] = await Promise.all(
+        paginatedMatches.map(async (match) => {
+          try {
+            const eventsResponse = await fetch(apiUrl(`/matches/${match.id}/events`))
+            if (eventsResponse.ok) {
+              const eventsResult = await eventsResponse.json()
+              return {
+                ...match,
+                events: eventsResult.data.events || []
+              }
+            }
+            return { ...match, events: [] }
+          } catch {
+            return { ...match, events: [] }
+          }
+        })
+      )
+
+      console.log(`Loaded ${matchesWithEvents.length} matches with events (page ${currentPage()}) for season ${seasonId}`)
+      return { matches: matchesWithEvents, total: allMatches.length }
     },
     get enabled() {
       return effectiveSeasonId() !== null
@@ -116,12 +177,11 @@ const MatchesPage: Component = () => {
   }))
 
   // Reset page when filters change
-  const resetPage = () => setCurrentPage(1)
 
   // Clear selected team if it's not in the current season
   const clearInvalidTeamSelection = () => {
     if (selectedTeam() && seasonTeamsQuery.data && !seasonTeamsQuery.data.includes(selectedTeam()!)) {
-      setSelectedTeam(null)
+      updateFilters(selectedSeason(), null, false)
     }
   }
 
@@ -165,12 +225,11 @@ const MatchesPage: Component = () => {
         <div class="flex flex-wrap gap-4 items-center">
           <div class="flex items-center space-x-2">
             <label class="text-sm font-medium">Season:</label>
-            <select 
+            <select
               class="flex h-10 rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
               value={effectiveSeasonId() || ''}
               onChange={(e) => {
-                setSelectedSeason(parseInt(e.currentTarget.value))
-                resetPage()
+                updateFilters(parseInt(e.currentTarget.value), selectedTeam())
               }}
             >
               <For each={sortedSeasons()}>
@@ -180,15 +239,14 @@ const MatchesPage: Component = () => {
               </For>
             </select>
           </div>
-          
+
           <div class="flex items-center space-x-2">
             <label class="text-sm font-medium">Team:</label>
-            <select 
+            <select
               class="flex h-10 rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
               value={selectedTeam() || ''}
               onChange={(e) => {
-                setSelectedTeam(e.currentTarget.value || null)
-                resetPage()
+                updateFilters(selectedSeason(), e.currentTarget.value || null)
               }}
             >
               <option value="">All Teams</option>
@@ -218,9 +276,8 @@ const MatchesPage: Component = () => {
         <div class="space-y-2">
           <For each={matchesQuery.data?.matches || []}>
             {(match) => (
-              <A href={`/matches/${match.id}`} class="block">
-                <Card class="hover:shadow-md transition-shadow">
-                  <div class="p-3">
+              <Card class="transition-shadow">
+                <div class="p-3">
                   <div class="flex items-center justify-between">
                     <div class="flex items-center space-x-4">
                       <div class="text-sm text-muted-foreground min-w-[80px]">
@@ -229,19 +286,21 @@ const MatchesPage: Component = () => {
                       <div class="flex items-center space-x-3">
                         <div class="flex items-center justify-end space-x-2 w-[250px] font-medium">
                           <span class="text-right">{match.homeTeam}</span>
-                          {getTeamCrest(match.homeTeam) ? (
-                            <img
-                              src={getTeamCrest(match.homeTeam)}
-                              alt={`${match.homeTeam} crest`}
-                              class="w-5 h-5 object-contain flex-shrink-0"
-                              onError={(e) => {
-                                e.currentTarget.style.display = 'none'
-                                const fallback = e.currentTarget.nextElementSibling as HTMLElement
-                                if (fallback) fallback.style.display = 'flex'
-                              }}
-                            />
-                          ) : null}
-                          <div 
+                          {getTeamCrest(match.homeTeam)
+                            ? (
+                              <img
+                                src={getTeamCrest(match.homeTeam)}
+                                alt={`${match.homeTeam} crest`}
+                                class="w-5 h-5 object-contain flex-shrink-0"
+                                onError={(e) => {
+                                  e.currentTarget.style.display = 'none'
+                                  const fallback = e.currentTarget.nextElementSibling as HTMLElement
+                                  if (fallback) fallback.style.display = 'flex'
+                                }}
+                              />
+                            )
+                            : null}
+                          <div
                             class={`w-5 h-5 bg-muted rounded-full flex items-center justify-center text-xs font-bold text-muted-foreground flex-shrink-0 ${getTeamCrest(match.homeTeam) ? 'hidden' : 'flex'}`}
                             style={getTeamCrest(match.homeTeam) ? 'display: none' : 'display: flex'}
                           >
@@ -254,19 +313,21 @@ const MatchesPage: Component = () => {
                           <span class="font-bold text-lg tabular-nums w-[30px] text-left">{match.awayScore}</span>
                         </div>
                         <div class="flex items-center space-x-2 text-left w-[250px] font-medium">
-                          {getTeamCrest(match.awayTeam) ? (
-                            <img
-                              src={getTeamCrest(match.awayTeam)}
-                              alt={`${match.awayTeam} crest`}
-                              class="w-5 h-5 object-contain flex-shrink-0"
-                              onError={(e) => {
-                                e.currentTarget.style.display = 'none'
-                                const fallback = e.currentTarget.nextElementSibling as HTMLElement
-                                if (fallback) fallback.style.display = 'flex'
-                              }}
-                            />
-                          ) : null}
-                          <div 
+                          {getTeamCrest(match.awayTeam)
+                            ? (
+                              <img
+                                src={getTeamCrest(match.awayTeam)}
+                                alt={`${match.awayTeam} crest`}
+                                class="w-5 h-5 object-contain flex-shrink-0"
+                                onError={(e) => {
+                                  e.currentTarget.style.display = 'none'
+                                  const fallback = e.currentTarget.nextElementSibling as HTMLElement
+                                  if (fallback) fallback.style.display = 'flex'
+                                }}
+                              />
+                            )
+                            : null}
+                          <div
                             class={`w-5 h-5 bg-muted rounded-full flex items-center justify-center text-xs font-bold text-muted-foreground flex-shrink-0 ${getTeamCrest(match.awayTeam) ? 'hidden' : 'flex'}`}
                             style={getTeamCrest(match.awayTeam) ? 'display: none' : 'display: flex'}
                           >
@@ -281,19 +342,79 @@ const MatchesPage: Component = () => {
                         {match.referee && `Ref: ${match.referee}`}
                       </div>
                       <div class={`w-6 h-6 rounded-full text-xs font-bold flex items-center justify-center ${
-                        getMatchResult(match.homeScore, match.awayScore) === 'H' 
-                          ? 'bg-emerald-50 text-emerald-700 border border-emerald-200' 
+                        getMatchResult(match.homeScore, match.awayScore) === 'H'
+                          ? 'bg-emerald-50 text-emerald-700 border border-emerald-200'
                           : getMatchResult(match.homeScore, match.awayScore) === 'A'
-                          ? 'bg-rose-50 text-rose-700 border border-rose-200'
-                          : 'bg-slate-100 text-slate-600 border border-slate-200'
+                            ? 'bg-rose-50 text-rose-700 border border-rose-200'
+                            : 'bg-slate-100 text-slate-600 border border-slate-200'
                       }`}>
                         {getMatchResult(match.homeScore, match.awayScore)}
                       </div>
                     </div>
                   </div>
+
+                  {/* Goal Scorers Section */}
+                  {match.events && match.events.length > 0 && (
+                    <div class="mt-1.5 pt-1.5 border-t border-muted/30">
+                      <div class="flex items-start space-x-4">
+                        {/* Left spacing to match date column */}
+                        <div class="min-w-[80px]"></div>
+
+                        <div class="flex items-start space-x-3">
+                          {/* Home Team Goals - Right aligned to line up with badge */}
+                          <div class="w-[250px]">
+                            {(() => {
+                              const homeGoals = match.events.filter(event =>
+                                event.eventType === 'goal' && event.teamId === match.homeTeamId
+                              ).sort((a, b) => a.minute - b.minute)
+                              return homeGoals.length > 0
+                                ? (
+                                  <div class="space-y-1">
+                                    <For each={homeGoals}>
+                                      {(goal) => (
+                                        <div class="text-xs text-muted-foreground text-right">
+                                          <span class="font-medium">{goal.minute}'</span> {goal.playerName || 'Unknown'}
+                                          {goal.detail && <span class="text-primary"> ({goal.detail})</span>}
+                                        </div>
+                                      )}
+                                    </For>
+                                  </div>
+                                )
+                                : null
+                            })()}
+                          </div>
+
+                          {/* Center spacing to match the score area */}
+                          <div class="w-[100px]"></div>
+
+                          {/* Away Team Goals - Left aligned to line up with badge */}
+                          <div class="w-[250px]">
+                            {(() => {
+                              const awayGoals = match.events.filter(event =>
+                                event.eventType === 'goal' && event.teamId === match.awayTeamId
+                              ).sort((a, b) => a.minute - b.minute)
+                              return awayGoals.length > 0
+                                ? (
+                                  <div class="space-y-1">
+                                    <For each={awayGoals}>
+                                      {(goal) => (
+                                        <div class="text-xs text-muted-foreground text-left">
+                                          <span class="font-medium">{goal.minute}'</span> {goal.playerName || 'Unknown'}
+                                          {goal.detail && <span class="text-primary"> ({goal.detail})</span>}
+                                        </div>
+                                      )}
+                                    </For>
+                                  </div>
+                                )
+                                : null
+                            })()}
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  )}
                 </div>
-                </Card>
-              </A>
+              </Card>
             )}
           </For>
         </div>
@@ -308,7 +429,7 @@ const MatchesPage: Component = () => {
             >
               Previous
             </button>
-            
+
             <div class="flex items-center space-x-1">
               <For each={Array.from({ length: Math.min(5, totalPages()) }, () => {
                 const start = Math.max(1, currentPage() - 2)
@@ -329,7 +450,7 @@ const MatchesPage: Component = () => {
                 )}
               </For>
             </div>
-            
+
             <button
               class="flex items-center justify-center rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:opacity-50 disabled:pointer-events-none ring-offset-background border border-input bg-background hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2"
               disabled={currentPage() === totalPages()}

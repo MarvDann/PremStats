@@ -344,7 +344,12 @@ func (s *MatchService) GetMatchEvents(matchID int) ([]models.MatchEvent, error) 
 	goalQuery := `
 		SELECT MIN(g.id) as id, g.match_id, 'goal' as event_type, g.minute,
 			   g.player_id, p.name as player_name, g.team_id, 
-			   CASE WHEN bool_or(g.is_penalty) THEN 'Penalty' ELSE NULL END as detail
+			   CASE 
+			     WHEN bool_or(g.is_penalty) AND bool_or(g.is_own_goal) THEN 'Penalty (OG)'
+			     WHEN bool_or(g.is_penalty) THEN 'Penalty'
+			     WHEN bool_or(g.is_own_goal) THEN 'OG'
+			     ELSE NULL 
+			   END as detail
 		FROM goals g
 		LEFT JOIN players p ON g.player_id = p.id
 		WHERE g.match_id = $1

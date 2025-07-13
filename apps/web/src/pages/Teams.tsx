@@ -63,18 +63,18 @@ const TeamsPage: Component = () => {
   // Calculate form guide for a team (last 6 matches)
   const getFormGuide = (teamName: string): string[] => {
     const matches = recentMatchesQuery.data?.matches || []
-    
+
     // Filter matches for this team
     const teamMatches = matches
       .filter(match => match.homeTeam === teamName || match.awayTeam === teamName)
       .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime()) // Oldest first
       .slice(-6) // Last 6 matches
-    
+
     return teamMatches.map(match => {
       const isHome = match.homeTeam === teamName
       const teamScore = isHome ? match.homeScore : match.awayScore
       const opponentScore = isHome ? match.awayScore : match.homeScore
-      
+
       if (teamScore > opponentScore) return 'W'
       if (teamScore < opponentScore) return 'L'
       return 'D'
@@ -84,15 +84,15 @@ const TeamsPage: Component = () => {
   const filteredTeams = () => {
     const teams = teamsQuery.data?.teams || []
     const term = searchTerm().toLowerCase()
-    
+
     // Filter by tab selection
     const tabFilteredTeams = teams.filter(team => {
       const isCurrentPL = currentPLTeams.includes(team.name)
       return activeTab() === 'current' ? isCurrentPL : !isCurrentPL
     })
-    
+
     // Filter by search term
-    return tabFilteredTeams.filter(team => 
+    return tabFilteredTeams.filter(team =>
       team.name.toLowerCase().includes(term) ||
       team.shortName.toLowerCase().includes(term)
     )
@@ -144,9 +144,9 @@ const TeamsPage: Component = () => {
         {/* Tab Description and Search */}
         <div class="flex flex-col md:flex-row md:justify-between md:items-center gap-4">
           <div class="text-sm text-muted-foreground">
-            {activeTab() === 'current' 
-              ? "Teams currently competing in the 2024/25 Premier League season" 
-              : "Teams that have previously played in the Premier League but are not currently in the top division"
+            {activeTab() === 'current'
+              ? 'Teams currently competing in the 2024/25 Premier League season'
+              : 'Teams that have previously played in the Premier League but are not currently in the top division'
             }
           </div>
           <div class="max-w-md md:max-w-sm">

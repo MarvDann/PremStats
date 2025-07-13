@@ -1,328 +1,201 @@
-# Data Import Scripts
+# PremStats Data Import System
 
-Scripts for importing and processing football data from various external sources.
+## Production Import Workflow
 
-## 📋 Import Order & Dependencies
+This directory contains the **production-ready** data import scripts for PremStats. All experimental and testing scripts have been moved to `scripts/archive/`.
 
-**CRITICAL**: Squad data must be imported first to properly map goal scorers to players.
-
-### Recommended Import Sequence
-1. **Squad Data** (`import-squad-data.js`) - Foundation player data
-2. **Season Data** (`import-all-seasons.js`) - Historical match results  
-3. **Player Data** (`import-player-data.js`) - Additional player information
-4. **Goal Scorers** (`import-historical-scorers.js`) - Goal events by player
-5. **Current Season** (`refresh-current-season.js`) - Live season updates
-
-## 📁 Scripts Overview
-
-### `import-squad-data.js`
-**Priority: CRITICAL - Run First**
-
-Imports squad/team rosters by season to establish player-team relationships.
-
-**Usage:**
-```bash
-node scripts/data/import-squad-data.js [season]
-```
-
-**Data Sources:**
-- Fantasy Premier League API
-- OpenFootball Project squad data
-- Historical team rosters
-
-**What it imports:**
-- Player names and basic info
-- Team affiliations by season
-- Transfer tracking between seasons
-- Current team assignments
-
-**Environment Variables:**
-```bash
-FPL_API_URL=https://fantasy.premierleague.com/api
-OPENFOOOTBALL_API_URL=https://raw.githubusercontent.com/openfootball
-```
-
-### `import-all-seasons.js`
-**Priority: HIGH**
-
-Bulk import all historical Premier League seasons (1992/93 - 2024/25).
-
-**Usage:**
-```bash
-node scripts/data/import-all-seasons.js [--season=YYYY/YY] [--force]
-```
-
-**Options:**
-- `--season` - Import specific season only
-- `--force` - Overwrite existing data
-
-**Data Sources:**
-- Football-Data.co.uk CSV files
-- Historical match results
-- Team performance data
-
-**Imports:**
-- Match results and scores
-- Team standings by matchday
-- Historical team data
-- Season metadata
-
-### `import-fpl-data.js`
-**Priority: HIGH**
-
-Import Fantasy Premier League player data for current season.
-
-**Usage:**
-```bash
-node scripts/data/import-fpl-data.js [--season=current]
-```
-
-**Data Imported:**
-- Current player statistics
-- Team assignments
-- Player positions and metadata
-- Performance metrics
-
-**Update Frequency:** Weekly during season
-
-### `import-historical-scorers.js`
-**Priority: MEDIUM** (Requires squad data first)
-
-Import goal scorer data and match events.
-
-**Usage:**
-```bash
-node scripts/data/import-historical-scorers.js [--season=YYYY/YY]
-```
+### 🚀 Quick Start
 
 **Prerequisites:**
-- Squad data must be imported first
-- Match data must exist
-- Player records must be available
+- PostgreSQL database running
+- Environment variables configured (see `.env.example`)
+- For football-data.org: `FOOTBALL_DATA_API_KEY` required
 
-**Data Sources:**
-- API-Football match events
-- OpenFootball goal data
-- BBC Sport archives
-
-**Imports:**
-- Goals by player and match
-- Assist tracking
-- Goal timing and type
-- Match events (cards, substitutions)
-
-### `import-player-data.js`
-**Priority: MEDIUM**
-
-Import comprehensive player biographical and career data.
-
-**Usage:**
+**Complete Data Import (New Installation):**
 ```bash
-node scripts/data/import-player-data.js [--source=fpl|api-football]
+# 1. Foundation data (MUST run first)
+node scripts/data/import-kaggle-squads-production.js
+
+# 2. Historical matches (1992-2025)
+node scripts/data/import-all-seasons.js
+
+# 3. Current season player data
+node scripts/data/import-fpl-data.js
+
+# 4. Enhanced match events and goals
+node scripts/data/import-match-events-production.js
+
+# 5. Data quality fixes (if needed)
+node scripts/data/fix-team-attribution-enhanced.js
 ```
 
-**Data Imported:**
-- Date of birth and nationality
-- Position and playing style
-- Career statistics
-- Transfer history
+### 📁 Production Scripts
 
-### `import-top-scorers.js`
-**Priority: LOW**
+#### **Foundation Data (Required First)**
+- **`import-kaggle-squads-production.js`** - Squad and player data (1992-2024)
+  - **Status**: ✅ Production Ready
+  - **Dependencies**: None (run first)
+  - **Data Source**: Kaggle Premier League Dataset
+  - **Critical**: Required before any other imports
 
-Import top scorer data by season for verification and stats.
+#### **Historical Data**
+- **`import-all-seasons.js`** - Complete match results (1992-2025)
+  - **Status**: ✅ Production Ready  
+  - **Dependencies**: Squad data must be imported first
+  - **Coverage**: 33 seasons, 12,800+ matches
 
-**Usage:**
+#### **Current Season Data**
+- **`import-fpl-data.js`** - Fantasy Premier League current season data
+  - **Status**: ✅ Production Ready
+  - **Dependencies**: Squad data
+  - **Data Source**: Official FPL API
+  - **Frequency**: Run weekly during season
+
+#### **Enhanced Match Data**
+- **`import-match-events-production.js`** - Goals, events, and detailed match data
+  - **Status**: ✅ Production Ready
+  - **Dependencies**: Squad data, match data
+  - **Data Source**: Kaggle Match Events Dataset
+  - **Coverage**: 2001-2022 seasons with detailed events
+
+#### **Data Quality Tools**
+- **`fix-team-attribution-enhanced.js`** - Corrects team attribution issues
+  - **Status**: ✅ Production Tool
+  - **Usage**: Run after imports if data quality issues detected
+  - **Purpose**: Ensures goal attribution accuracy
+
+#### **Utilities**
+- **`check-available-seasons.js`** - Validates data completeness by season
+- **`debug-csv-import.js`** - Debugging tool for CSV import issues
+- **`refresh-current-season.js`** - Updates current season data
+- **`clean-nationalities.js`** - Standardizes nationality data
+- **`historical-data-completion.js`** - Fills historical data gaps
+
+### 🔧 Advanced Data Sources
+
+#### **Football-Data.org API (New System)**
+Location: `scripts/football-data-org/`
+
+**Production Scripts:**
+- **`api-client.js`** - API client for football-data.org
+- **`fixed-professional-importer.js`** - Latest professional data importer
+- **`enhanced-data-importer.js`** - Enhanced import with validation
+- **`import-professional-players.js`** - Professional player data
+
+**Setup:**
 ```bash
-node scripts/data/import-top-scorers.js --season=YYYY/YY
+# Set API key
+export FOOTBALL_DATA_API_KEY="your_api_key_here"
+
+# Run professional data import
+node scripts/football-data-org/fixed-professional-importer.js
 ```
 
-**Purpose:**
-- Data verification
-- Statistical analysis
-- Historical comparisons
+### 📊 Data Sources Overview
 
-## 🔧 Utility Scripts
+#### **Primary Sources (Production)**
+1. **Kaggle Premier League Dataset** - Historical foundation (1992-2024)
+2. **Football-Data.org API** - Modern API-based imports
+3. **Fantasy Premier League API** - Current season updates
+4. **Kaggle Match Events** - Detailed match events (2001-2022)
 
-### `check-available-seasons.js`
-Check data availability across different sources.
+#### **Data Quality Framework**
+- **6 Sigma Methodology**: Archived in `scripts/archive/6sigma/`
+- **Live Monitoring**: Available at `/data-completeness` dashboard
+- **Validation Scripts**: Located in `scripts/validation/`
 
-**Usage:**
-```bash
-node scripts/data/check-available-seasons.js
+### 🗂️ Archived Scripts
+
+**Location:** `scripts/archive/`
+
+#### **Obsolete Imports (Moved from scripts/data/)**
+- `import-kaggle-squads.js` - Original version
+- `import-kaggle-squads-fixed.js` - Fixed version
+- `import-kaggle-squads-fixed-csv.js` - CSV fix version  
+- `import-kaggle-squads-clean.js` - Clean version
+- `fix-team-attribution.js` - Original team attribution
+
+#### **Testing Scripts (Moved from scripts/data/ and scripts/football-data-org/)**
+- `test-corruption-single-season.js` - Single season testing
+- `test-csv-parsing.js` - CSV parsing validation
+- `test-nationality-cleaning.js` - Nationality validation
+- `corrected-api-test.js` - API testing
+- `test-api-directly.js` - Direct API testing
+- `test-data-boundaries.js` - Data boundary testing
+
+#### **6 Sigma Implementation (Historical)**
+- Complete 6 Sigma methodology implementation journey
+- 28 scripts documenting the quality improvement process
+- Keep archived for methodology reference
+
+### ⚠️ Important Notes
+
+#### **Execution Order**
+**Squad data MUST be imported first** - all other imports depend on player/team records existing in the database.
+
+#### **Data Dependencies**
+```
+import-kaggle-squads-production.js (foundation)
+    ↓
+import-all-seasons.js (matches)
+    ↓
+import-fpl-data.js (current season)
+    ↓
+import-match-events-production.js (detailed events)
+    ↓
+fix-team-attribution-enhanced.js (quality fixes)
 ```
 
-**Reports:**
-- Available seasons per data source
-- Data completeness scores
-- Missing data identification
-
-### `debug-csv-import.js`
-Debug CSV import issues and data formatting problems.
-
-**Usage:**
-```bash
-node scripts/data/debug-csv-import.js --file=path/to/file.csv
-```
-
-**Features:**
-- CSV validation
-- Data type checking
-- Column mapping verification
-- Error reporting
-
-### `manual-season-import.js`
-Manual import utility for specific seasons or data corrections.
-
-**Usage:**
-```bash
-node scripts/data/manual-season-import.js --season=YYYY/YY --source=csv
-```
-
-**Use Cases:**
-- Import single season
-- Data corrections
-- Testing import logic
-- Recovery from failures
-
-### `refresh-current-season.js`
-Update current season data with latest results.
-
-**Usage:**
-```bash
-node scripts/data/refresh-current-season.js
-```
-
-**Scheduling:**
-```bash
-# Add to crontab for daily updates
-0 6 * * * cd /path/to/premstats && node scripts/data/refresh-current-season.js
-```
-
-## 📊 Data Sources & APIs
-
-### Football-Data.co.uk
-- **Type**: CSV files
-- **Coverage**: Historical data 1993-2025
-- **Quality**: High reliability
-- **Format**: Standardized CSV columns
-- **Usage**: Primary source for historical matches
-
-### Fantasy Premier League API
-- **Type**: REST API
-- **Coverage**: Current season + players
-- **Quality**: Official data, very reliable
-- **Rate Limits**: Moderate usage
-- **Usage**: Current player data and statistics
-
-### OpenFootball Project
-- **Type**: JSON/YAML files
-- **Coverage**: Comprehensive historical data
-- **Quality**: Community-maintained, good quality
-- **Format**: Structured JSON
-- **Usage**: Squad data and additional statistics
-
-### API-Football
-- **Type**: REST API
-- **Coverage**: Comprehensive match events
-- **Quality**: High detail, commercial grade
-- **Rate Limits**: Subscription-based
-- **Usage**: Detailed match events and player stats
-
-## 🔍 Data Quality & Validation
-
-### Name Normalization
-Critical for linking data across sources:
-```javascript
-// Example: Different name formats
-"Mohamed Salah" (FPL) → "M. Salah" (CSV) → "Salah" (API)
-```
-
-**Normalization Strategy:**
-- Remove diacritics and special characters
-- Handle common abbreviations
-- Fuzzy matching for similar names
-- Manual mapping for edge cases
-
-### Data Validation Checks
-- Player-team consistency across seasons
-- Date range validation
-- Score and statistic reasonableness
-- Duplicate detection and removal
-
-### Error Handling
-- Graceful degradation on API failures
-- Retry logic with exponential backoff
-- Data rollback on critical errors
-- Comprehensive error logging
-
-## 🚨 Common Issues & Solutions
-
-### Player Name Mismatches
-**Problem:** Same player with different names across sources
-**Solution:** Use name normalization and manual mapping tables
-
-### Transfer Window Complexity
-**Problem:** Players changing teams mid-season
-**Solution:** Track team affiliations by date ranges
-
-### Data Source Unavailability
-**Problem:** External APIs or files become unavailable
-**Solution:** Implement fallback sources and caching
-
-### Import Performance
-**Problem:** Large dataset imports taking too long
-**Solution:** Batch processing and progress tracking
-
-## 📋 Environment Configuration
-
-### Required Environment Variables
+#### **Environment Variables Required**
 ```bash
 # Database
-DATABASE_URL=postgres://premstats:premstats@localhost:5432/premstats
+DATABASE_URL=postgresql://user:pass@localhost:5432/premstats
 
-# API Keys (if using premium sources)
-API_FOOTBALL_KEY=your_api_key_here
-RAPID_API_KEY=your_rapid_api_key
+# API Keys
+FOOTBALL_DATA_API_KEY=your_football_data_org_key
 
-# Data Sources
-FPL_API_URL=https://fantasy.premierleague.com/api
-FOOTBALL_DATA_CSV_BASE=https://www.football-data.co.uk/mmz4281
-
-# Import Settings
-BATCH_SIZE=100
-MAX_RETRIES=3
-IMPORT_TIMEOUT=300000
+# Optional
+NODE_ENV=development
 ```
 
-### Configuration Files
-- `package.json` - Script dependencies and settings
-- `.env` - Environment-specific variables
-- `config/data-sources.json` - Data source configurations
+#### **Data Validation**
+After running imports, verify data quality using:
+- Live dashboard: http://localhost:3000/data-completeness
+- Validation scripts: `scripts/validation/`
+- Database integrity checks: `scripts/validation/data-integrity-check.js`
 
-## 📈 Monitoring & Logging
+### 🚀 Modern Import Workflow (Recommended)
 
-### Import Progress Tracking
-- Progress bars for long-running imports
-- Statistics on records processed
-- Success/failure ratios
-- Performance metrics
+For new installations, prefer the **football-data.org API** approach:
 
-### Log Outputs
 ```bash
-# Monitor import progress
-tail -f logs/data-import/squad-import.log
+# 1. Foundation (still required)
+node scripts/data/import-kaggle-squads-production.js
 
-# Check for errors
-grep "ERROR" logs/data-import/*.log
+# 2. Modern API-based import
+export FOOTBALL_DATA_API_KEY="your_key"
+node scripts/football-data-org/fixed-professional-importer.js
 
-# View import statistics
-grep "STATS" logs/data-import/*.log
+# 3. Validation
+node scripts/validation/data-integrity-check.js
 ```
 
-## 🔗 Related Documentation
+This provides more accurate, up-to-date data with better API reliability than CSV-based imports.
 
+### 📈 Data Completeness Status
+
+**Current Status (as of 2025-01-12):**
+- **33 seasons** with 100% integrity
+- **12,800+ matches** imported
+- **8,500+ goals** with attribution
+- **2,300+ players** across all seasons
+- **27.9% average goal completeness**
+
+Access real-time metrics at: http://localhost:3000/data-completeness
+
+---
+
+**For detailed technical documentation, see:**
+- [6 Sigma Summary](../../docs/6-SIGMA-SUMMARY.md)
 - [Database Schema](../../docs/DATABASE_SCHEMA.md)
-- [Data Quality Guidelines](../../docs/data-quality.md)
-- [API Documentation](../../docs/API.md)
-- [Maintenance Scripts](../maintenance/README.md)
+- [Development Workflow](../../docs/development-workflow.md)

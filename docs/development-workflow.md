@@ -45,10 +45,26 @@ PORT=8081 ./bin/api > api.log 2>&1 &  # Start with logging
 
 ## Frontend Development
 
-### Color Scheme Rules
-- **Primary:** Purple theme (`from-primary to-purple-600`)
-- **StatsCards:** Use `variant="default"` (not "success")
+### 🎨 Theme System Rules
+- **Color Variables:** Always use CSS variables: `hsl(var(--variable))`
+- **Never Hard-code:** Avoid `bg-blue-500`, use `bg-[hsl(var(--primary))]`
+- **Theme Components:** Import from `@premstats/ui`: `ThemeProvider`, `ThemeSwitcher`
+- **Primary Scheme:** Purple theme with CSS variables for light/dark support
+- **StatsCards:** Use `variant="default"` (not "success") for consistent theming
 - **Green only for:** Football context (Champions League positions)
+
+### Component Development Pattern
+```typescript
+// ✅ Correct: Use CSS variables
+<div class="bg-[hsl(var(--card))] text-[hsl(var(--card-foreground))]">
+  <h1 class="text-[hsl(var(--foreground))]">Title</h1>
+</div>
+
+// ❌ Wrong: Hard-coded colors
+<div class="bg-white text-black">
+  <h1 class="text-gray-900">Title</h1>
+</div>
+```
 
 ### Pagination Standards
 - 50 items per page
@@ -69,17 +85,43 @@ PORT=8081 ./bin/api > api.log 2>&1 &  # Start with logging
 4. **Build Caching:** Always rebuild after Go code changes
 5. **Database Dependencies:** Ensure PostgreSQL is running before API
 
-## Testing New Features
+## 🧪 Testing New Features
 
+### Comprehensive Test Suite
 ```bash
-# Test team filtering
+# Run all tests
+pnpm lint          # ESLint checks (all packages)
+pnpm typecheck     # TypeScript validation
+pnpm test:unit     # 122 unit tests (UI components)
+pnpm test:e2e      # 99 E2E tests (including theme system)
+
+# Run specific test suites
+pnpm --filter @premstats/ui test:unit    # UI component tests only
+pnpm exec playwright test --project=chromium  # E2E tests (single browser)
+```
+
+### API Testing
+```bash
+# Test core endpoints
+curl -s "http://localhost:8081/api/v1/health" | jq '.data.status'
+curl -s "http://localhost:8081/api/v1/seasons" | jq '.data.seasons | length'
+curl -s "http://localhost:8081/api/v1/reports/data-completeness" | jq '.data.overallStats'
+
+# Test filtering and pagination
 curl -s "http://localhost:8081/api/v1/players?limit=3&team=1" | jq '.data.total'
-
-# Test pagination
 curl -s "http://localhost:8081/api/v1/players?limit=5&offset=10" | jq '.data | {total, count: (.players | length)}'
+```
 
-# Verify all filters working
-curl -s "http://localhost:8081/api/v1/players?team=1&position=Goalkeeper" | jq '.data.filters'
+### Theme System Testing
+```bash
+# Run theme-specific E2E tests
+pnpm exec playwright test tests/e2e/theme.spec.ts
+
+# Test theme components manually
+# 1. Navigate to http://localhost:3000
+# 2. Click theme switcher in navigation
+# 3. Verify theme changes and persistence
+# 4. Test mobile menu theme switcher
 ```
 
 ## Debugging Checklist

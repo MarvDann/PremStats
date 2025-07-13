@@ -19,9 +19,9 @@ const queryClient = new QueryClient({
       staleTime: 0, // Always consider data stale
       gcTime: 1000 * 60 * 5, // 5 minutes
       refetchOnWindowFocus: true,
-      refetchOnReconnect: true,
-    },
-  },
+      refetchOnReconnect: true
+    }
+  }
 })
 
 // Initialize the current season when the app starts

@@ -24,9 +24,26 @@
     --input: 259 20% 90%;
     --ring: 259 84% 45%;
     --radius: 0.5rem;
+    --success: 142 76% 36%;
+    --success-foreground: 355 100% 97%;
+    --warning: 48 96% 53%;
+    --warning-foreground: 20 14.3% 4.1%;
+
+    /* Table Row Colors - Ultra Subtle Light Mode */
+    --table-champion-bg: rgba(254, 240, 138, 0.5);
+    --table-champion-border: hsl(var(--border));
+    --table-champions-league-bg: rgba(254, 215, 170, 0.4);
+    --table-champions-league-border: hsl(var(--border));
+    --table-europa-league-bg: rgba(219, 234, 254, 0.5);
+    --table-europa-league-border: hsl(var(--border));
+    --table-europa-conference-bg: rgba(233, 213, 255, 0.4);
+    --table-europa-conference-border: hsl(var(--border));
+    --table-relegation-bg: rgba(254, 226, 226, 0.6);
+    --table-relegation-border: hsl(var(--border));
+    --gold-badge: hsl(45, 97%, 57%);
   }
 
-  .dark {
+  [data-theme="dark"] {
     --background: 259 30% 8%;
     --foreground: 210 40% 98%;
     --card: 259 25% 12%;
@@ -46,6 +63,23 @@
     --border: 259 20% 25%;
     --input: 259 20% 22%;
     --ring: 259 84% 65%;
+    --success: 142 84% 44%;
+    --success-foreground: 142 30% 8%;
+    --warning: 48 96% 53%;
+    --warning-foreground: 20 14.3% 4.1%;
+
+    /* Table Row Colors - Dark Mode */
+    --table-champion-bg: rgba(133, 77, 14, 0.4);
+    --table-champion-border: rgba(161, 98, 7, 0.6);
+    --table-champions-league-bg: rgba(20, 83, 45, 0.3);
+    --table-champions-league-border: rgba(21, 128, 61, 0.5);
+    --table-europa-league-bg: rgba(30, 58, 138, 0.3);
+    --table-europa-league-border: rgba(29, 78, 216, 0.5);
+    --table-europa-conference-bg: rgba(88, 28, 135, 0.3);
+    --table-europa-conference-border: rgba(126, 34, 206, 0.5);
+    --table-relegation-bg: rgba(127, 29, 29, 0.3);
+    --table-relegation-border: rgba(185, 28, 28, 0.5);
+    --gold-badge: #c29c1e;
   }
 }
 
@@ -56,4 +90,35 @@
   body {
     @apply bg-background text-foreground;
   }
+}
+
+/* Table Row Styles */
+.table-champion-row {
+  background-color: var(--table-champion-bg);
+  border-color: var(--table-champion-border);
+}
+
+.table-champions-league-row {
+  background-color: var(--table-champions-league-bg);
+  border-color: var(--table-champions-league-border);
+}
+
+.table-europa-league-row {
+  background-color: var(--table-europa-league-bg);
+  border-color: var(--table-europa-league-border);
+}
+
+.table-europa-conference-row {
+  background-color: var(--table-europa-conference-bg);
+  border-color: var(--table-europa-conference-border);
+}
+
+.table-relegation-row {
+  background-color: var(--table-relegation-bg);
+  border-color: var(--table-relegation-border);
+}
+
+.champions-badge {
+  color: black;
+  background-color: var(--gold-badge);
 }

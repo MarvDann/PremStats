@@ -4,12 +4,12 @@ import { cn } from '../../utils/cn'
 import { CardVariant } from '../../types'
 
 const cardVariants = tv({
-  base: 'rounded-lg border text-card-foreground shadow-sm',
+  base: 'rounded-lg border text-[hsl(var(--card-foreground))] shadow-sm',
   variants: {
     variant: {
-      default: 'bg-card',
-      outlined: 'bg-card border-2',
-      elevated: 'bg-card shadow-lg'
+      default: 'bg-[hsl(var(--card))] border-[hsl(var(--border))]',
+      outlined: 'bg-[hsl(var(--card))] border-[hsl(var(--border))] border-2',
+      elevated: 'bg-[hsl(var(--card))] border-[hsl(var(--border))] shadow-lg'
     }
   },
   defaultVariants: {
@@ -85,7 +85,7 @@ export const CardDescription: ParentComponent<CardDescriptionProps> = (props) =>
 
   return (
     <p
-      class={cn('text-sm text-muted-foreground', local.class)}
+      class={cn('text-sm text-[hsl(var(--muted-foreground))]', local.class)}
       {...others}
     >
       {local.children}

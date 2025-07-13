@@ -11,11 +11,11 @@ export class FootballDataClient {
   }
 
   async request(endpoint) {
-    // Rate limiting: 10 requests per minute for free tier
+    // Rate limiting: 30 requests per minute for paid tier
     const now = Date.now()
     const timeSinceLastRequest = now - this.lastRequestTime
-    if (timeSinceLastRequest < 6000) { // 6 seconds between requests
-      const waitTime = 6000 - timeSinceLastRequest
+    if (timeSinceLastRequest < 2100) { // 2.1 seconds between requests for safety
+      const waitTime = 2100 - timeSinceLastRequest
       console.log(chalk.gray(`Rate limiting: waiting ${waitTime}ms`))
       await new Promise(resolve => setTimeout(resolve, waitTime))
     }

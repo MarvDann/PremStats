@@ -1,0 +1,106 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "🚀 Launch PremStats (Full Setup)",
+      "type": "node",
+      "request": "launch",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": ["${workspaceFolder}/scripts/dev/launchers/launch.sh"],
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}",
+      "presentation": {
+        "hidden": false,
+        "group": "PremStats",
+        "order": 1
+      }
+    },
+    {
+      "name": "⚡ Quick Start PremStats",
+      "type": "node", 
+      "request": "launch",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": ["${workspaceFolder}/scripts/dev/launchers/quick-start.sh"],
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}",
+      "presentation": {
+        "hidden": false,
+        "group": "PremStats",
+        "order": 2
+      }
+    },
+    {
+      "name": "🔧 Debug Go API",
+      "type": "go",
+      "request": "launch",
+      "mode": "auto",
+      "program": "${workspaceFolder}/packages/api/cmd/api/main.go",
+      "env": {
+        "PORT": "8081"
+      },
+      "console": "integratedTerminal",
+      "presentation": {
+        "hidden": false,
+        "group": "Backend",
+        "order": 1
+      }
+    },
+    {
+      "name": "📱 Start Frontend Only",
+      "type": "node",
+      "request": "launch",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": ["${workspaceFolder}/scripts/dev/start-frontend.sh"],
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}",
+      "presentation": {
+        "hidden": false,
+        "group": "Frontend",
+        "order": 1
+      }
+    },
+    {
+      "name": "📚 Start Storybook",
+      "type": "node",
+      "request": "launch",
+      "runtimeExecutable": "pnpm",
+      "runtimeArgs": ["--filter", "@premstats/ui", "storybook"],
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}",
+      "presentation": {
+        "hidden": false,
+        "group": "UI Development",
+        "order": 1
+      }
+    },
+    {
+      "name": "🗄️ Start Docker Services",
+      "type": "node",
+      "request": "launch",
+      "runtimeExecutable": "docker",
+      "runtimeArgs": ["compose", "up", "-d", "postgres", "redis"],
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}",
+      "presentation": {
+        "hidden": false,
+        "group": "Infrastructure",
+        "order": 1
+      }
+    }
+  ],
+  "compounds": [
+    {
+      "name": "🏗️ Full Development Setup",
+      "configurations": [
+        "🗄️ Start Docker Services",
+        "🔧 Debug Go API",
+        "📱 Start Frontend Only"
+      ],
+      "presentation": {
+        "hidden": false,
+        "group": "Development",
+        "order": 1
+      }
+    }
+  ]
+}

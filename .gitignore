@@ -5,15 +5,16 @@ dist/
 build/
 *.log
 
+# Package manager lock files (project uses pnpm)
+package-lock.json
+yarn.lock
+
 # Environment
 .env
 .env.local
 .env.*.local
 
 # IDE
-.vscode/*
-!.vscode/settings.json
-!.vscode/extensions.json
 .idea/
 *.swp
 *.swo
@@ -65,6 +66,7 @@ agent*.log
 season-audit-report.json
 *.audit
 *.report
+logs/
 
 # Claude Code
 .claude/

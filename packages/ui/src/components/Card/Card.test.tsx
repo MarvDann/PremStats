@@ -7,7 +7,7 @@ describe('Card', () => {
     render(() => <Card>Card content</Card>)
     const card = screen.getByText('Card content')
     expect(card).toBeInTheDocument()
-    expect(card).toHaveClass('bg-card')
+    expect(card).toHaveClass('bg-[hsl(var(--card))]')
   })
 
   it('renders with outlined variant', () => {
@@ -65,7 +65,7 @@ describe('CardDescription', () => {
     render(() => <CardDescription>Card description</CardDescription>)
     const description = screen.getByText('Card description')
     expect(description).toBeInTheDocument()
-    expect(description).toHaveClass('text-sm', 'text-muted-foreground')
+    expect(description).toHaveClass('text-sm', 'text-[hsl(var(--muted-foreground))]')
   })
 
   it('applies custom class names', () => {

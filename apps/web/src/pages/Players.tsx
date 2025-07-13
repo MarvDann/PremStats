@@ -126,16 +126,16 @@ const PlayersPage: Component = () => {
 
   // Mock data for all-time stats (until we have historical data)
   const mockAllTimeScorers = [
-    { name: "Alan Shearer", goals: 260, seasons: 14 },
-    { name: "Harry Kane", goals: 213, seasons: 10 },
-    { name: "Wayne Rooney", goals: 208, seasons: 13 },
-    { name: "Andy Cole", goals: 187, seasons: 15 },
-    { name: "Sergio Aguero", goals: 184, seasons: 10 },
-    { name: "Frank Lampard", goals: 177, seasons: 13 },
-    { name: "Thierry Henry", goals: 175, seasons: 8 },
-    { name: "Robbie Fowler", goals: 163, seasons: 9 },
-    { name: "Jermain Defoe", goals: 162, seasons: 16 },
-    { name: "Michael Owen", goals: 150, seasons: 8 }
+    { name: 'Alan Shearer', goals: 260, seasons: 14 },
+    { name: 'Harry Kane', goals: 213, seasons: 10 },
+    { name: 'Wayne Rooney', goals: 208, seasons: 13 },
+    { name: 'Andy Cole', goals: 187, seasons: 15 },
+    { name: 'Sergio Aguero', goals: 184, seasons: 10 },
+    { name: 'Frank Lampard', goals: 177, seasons: 13 },
+    { name: 'Thierry Henry', goals: 175, seasons: 8 },
+    { name: 'Robbie Fowler', goals: 163, seasons: 9 },
+    { name: 'Jermain Defoe', goals: 162, seasons: 16 },
+    { name: 'Michael Owen', goals: 150, seasons: 8 }
   ]
 
   const topScorersColumns = [
@@ -155,10 +155,16 @@ const PlayersPage: Component = () => {
     { header: 'Nationality', key: 'nationality', align: 'center' as const, accessor: (item: Player) => item.nationality || '-' }
   ]
 
+  interface AllTimeScorer {
+    name: string
+    goals: number
+    seasons: number
+  }
+
   const allTimeColumns = [
-    { header: 'Player', key: 'name', align: 'left' as const, accessor: (item: any) => item.name },
-    { header: 'Goals', key: 'goals', align: 'center' as const, accessor: (item: any) => item.goals },
-    { header: 'Seasons', key: 'seasons', align: 'center' as const, accessor: (item: any) => item.seasons }
+    { header: 'Player', key: 'name', align: 'left' as const, accessor: (item: AllTimeScorer) => item.name },
+    { header: 'Goals', key: 'goals', align: 'center' as const, accessor: (item: AllTimeScorer) => item.goals },
+    { header: 'Seasons', key: 'seasons', align: 'center' as const, accessor: (item: AllTimeScorer) => item.seasons }
   ]
 
   return (
@@ -172,25 +178,25 @@ const PlayersPage: Component = () => {
         <div class="grid grid-cols-1 md:grid-cols-4 gap-4">
           <StatsCard
             label="Current Top Scorer"
-            value={topScorersQuery.data?.topScorers?.[0]?.playerName || "Loading..."}
-            description={topScorersQuery.data?.topScorers?.[0] ? `${topScorersQuery.data.topScorers[0].goals} goals` : ""}
-            variant="default"
+            value={topScorersQuery.data?.topScorers?.[0]?.playerName || 'Loading...'}
+            description={topScorersQuery.data?.topScorers?.[0] ? `${topScorersQuery.data.topScorers[0].goals} goals` : ''}
+            variant="secondary"
           />
           <StatsCard
             label="Most Assists"
-            value={topScorersQuery.data?.topScorers?.reduce((max, p) => p.assists > (max?.assists || 0) ? p : max, topScorersQuery.data.topScorers[0])?.playerName || "Loading..."}
-            description={topScorersQuery.data?.topScorers?.reduce((max, p) => p.assists > (max?.assists || 0) ? p : max, topScorersQuery.data.topScorers[0])?.assists ? `${topScorersQuery.data.topScorers.reduce((max, p) => p.assists > (max?.assists || 0) ? p : max, topScorersQuery.data.topScorers[0]).assists} assists` : ""}
+            value={topScorersQuery.data?.topScorers?.reduce((max, p) => p.assists > (max?.assists || 0) ? p : max, topScorersQuery.data.topScorers[0])?.playerName || 'Loading...'}
+            description={topScorersQuery.data?.topScorers?.reduce((max, p) => p.assists > (max?.assists || 0) ? p : max, topScorersQuery.data.topScorers[0])?.assists ? `${topScorersQuery.data.topScorers.reduce((max, p) => p.assists > (max?.assists || 0) ? p : max, topScorersQuery.data.topScorers[0]).assists} assists` : ''}
             variant="default"
           />
           <StatsCard
             label="All-Time Top Scorer"
             value="Alan Shearer"
             description="260 goals"
-            variant="default"
+            variant="secondary"
           />
           <StatsCard
             label="Total Players"
-            value={playersQuery.data?.total?.toString() || playersQuery.data?.players?.length?.toString() || "0"}
+            value={playersQuery.data?.total?.toString() || playersQuery.data?.players?.length?.toString() || '0'}
             description="In database"
             variant="default"
           />
@@ -201,18 +207,22 @@ const PlayersPage: Component = () => {
           <h2 class="text-2xl font-bold">Top Scorers - 2024/25 Season</h2>
           <Card>
             <div class="p-4">
-              {topScorersQuery.isLoading ? (
-                <p class="text-center py-4 text-muted-foreground">Loading top scorers...</p>
-              ) : topScorersQuery.data?.topScorers ? (
-                <DataTable
-                  data={topScorersQuery.data.topScorers}
-                  columns={topScorersColumns}
-                  sortable={true}
-                  variant="striped"
-                />
-              ) : (
-                <p class="text-center py-4 text-muted-foreground">No scorer data available</p>
-              )}
+              {topScorersQuery.isLoading
+                ? (
+                  <p class="text-center py-4 text-muted-foreground">Loading top scorers...</p>
+                )
+                : topScorersQuery.data?.topScorers
+                  ? (
+                    <DataTable
+                      data={topScorersQuery.data.topScorers}
+                      columns={topScorersColumns}
+                      sortable={true}
+                      variant="striped"
+                    />
+                  )
+                  : (
+                    <p class="text-center py-4 text-muted-foreground">No scorer data available</p>
+                  )}
             </div>
           </Card>
         </div>
@@ -292,76 +302,80 @@ const PlayersPage: Component = () => {
 
           <Card>
             <div class="p-4">
-              {playersQuery.isLoading ? (
-                <p class="text-center py-4 text-muted-foreground">Loading players...</p>
-              ) : playersQuery.data?.players ? (
-                <>
-                  <DataTable
-                    data={playersQuery.data.players}
-                    columns={playersColumns}
-                    sortable={true}
-                    variant="striped"
-                  />
+              {playersQuery.isLoading
+                ? (
+                  <p class="text-center py-4 text-muted-foreground">Loading players...</p>
+                )
+                : playersQuery.data?.players
+                  ? (
+                    <>
+                      <DataTable
+                        data={playersQuery.data.players}
+                        columns={playersColumns}
+                        sortable={true}
+                        variant="striped"
+                      />
 
-                  {/* Pagination Controls */}
-                  {playersQuery.data.total > playersPerPage() && (
-                    <div class="flex items-center justify-between mt-4 pt-4 border-t">
-                      <div class="text-sm text-muted-foreground">
+                      {/* Pagination Controls */}
+                      {playersQuery.data.total > playersPerPage() && (
+                        <div class="flex items-center justify-between mt-4 pt-4 border-t">
+                          <div class="text-sm text-muted-foreground">
                         Showing {(currentPage() - 1) * playersPerPage() + 1} to {Math.min(currentPage() * playersPerPage(), playersQuery.data.total)} of {playersQuery.data.total} players
-                      </div>
-                      <div class="flex items-center space-x-2">
-                        <button
-                          onClick={() => setCurrentPage(Math.max(1, currentPage() - 1))}
-                          disabled={currentPage() === 1}
-                          class="px-3 py-1 rounded-md border border-input bg-background text-sm font-medium hover:bg-accent hover:text-accent-foreground disabled:opacity-50 disabled:cursor-not-allowed"
-                        >
+                          </div>
+                          <div class="flex items-center space-x-2">
+                            <button
+                              onClick={() => setCurrentPage(Math.max(1, currentPage() - 1))}
+                              disabled={currentPage() === 1}
+                              class="px-3 py-1 rounded-md border border-input bg-background text-sm font-medium hover:bg-accent hover:text-accent-foreground disabled:opacity-50 disabled:cursor-not-allowed"
+                            >
                           Previous
-                        </button>
+                            </button>
 
-                        <div class="flex items-center space-x-1">
-                          {Array.from({ length: Math.min(5, Math.ceil(playersQuery.data.total / playersPerPage())) }, (_, i) => {
-                            const totalPages = Math.ceil(playersQuery.data.total / playersPerPage())
-                            let pageNum: number
+                            <div class="flex items-center space-x-1">
+                              {Array.from({ length: Math.min(5, Math.ceil(playersQuery.data.total / playersPerPage())) }, (_, i) => {
+                                const totalPages = Math.ceil(playersQuery.data.total / playersPerPage())
+                                let pageNum: number
 
-                            if (totalPages <= 5) {
-                              pageNum = i + 1
-                            } else if (currentPage() <= 3) {
-                              pageNum = i + 1
-                            } else if (currentPage() >= totalPages - 2) {
-                              pageNum = totalPages - 4 + i
-                            } else {
-                              pageNum = currentPage() - 2 + i
-                            }
+                                if (totalPages <= 5) {
+                                  pageNum = i + 1
+                                } else if (currentPage() <= 3) {
+                                  pageNum = i + 1
+                                } else if (currentPage() >= totalPages - 2) {
+                                  pageNum = totalPages - 4 + i
+                                } else {
+                                  pageNum = currentPage() - 2 + i
+                                }
 
-                            return (
-                              <button
-                                onClick={() => setCurrentPage(pageNum)}
-                                class={`px-3 py-1 rounded-md text-sm font-medium ${
-                                  currentPage() === pageNum
-                                    ? 'bg-primary text-primary-foreground'
-                                    : 'border border-input bg-background hover:bg-accent hover:text-accent-foreground'
-                                }`}
-                              >
-                                {pageNum}
-                              </button>
-                            )
-                          })}
-                        </div>
+                                return (
+                                  <button
+                                    onClick={() => setCurrentPage(pageNum)}
+                                    class={`px-3 py-1 rounded-md text-sm font-medium ${
+                                      currentPage() === pageNum
+                                        ? 'bg-primary text-primary-foreground'
+                                        : 'border border-input bg-background hover:bg-accent hover:text-accent-foreground'
+                                    }`}
+                                  >
+                                    {pageNum}
+                                  </button>
+                                )
+                              })}
+                            </div>
 
-                        <button
-                          onClick={() => setCurrentPage(Math.min(Math.ceil(playersQuery.data.total / playersPerPage()), currentPage() + 1))}
-                          disabled={currentPage() === Math.ceil(playersQuery.data.total / playersPerPage())}
-                          class="px-3 py-1 rounded-md border border-input bg-background text-sm font-medium hover:bg-accent hover:text-accent-foreground disabled:opacity-50 disabled:cursor-not-allowed"
-                        >
+                            <button
+                              onClick={() => setCurrentPage(Math.min(Math.ceil(playersQuery.data.total / playersPerPage()), currentPage() + 1))}
+                              disabled={currentPage() === Math.ceil(playersQuery.data.total / playersPerPage())}
+                              class="px-3 py-1 rounded-md border border-input bg-background text-sm font-medium hover:bg-accent hover:text-accent-foreground disabled:opacity-50 disabled:cursor-not-allowed"
+                            >
                           Next
-                        </button>
-                      </div>
-                    </div>
+                            </button>
+                          </div>
+                        </div>
+                      )}
+                    </>
+                  )
+                  : (
+                    <p class="text-center py-4 text-muted-foreground">No players found</p>
                   )}
-                </>
-              ) : (
-                <p class="text-center py-4 text-muted-foreground">No players found</p>
-              )}
             </div>
           </Card>
         </div>

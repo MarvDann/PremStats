@@ -1,0 +1,144 @@
+:root {
+  /* Light Theme Variables */
+  --background: #ffffff;
+  --foreground: #0a0a0b;
+  --card: #ffffff;
+  --card-foreground: #0a0a0b;
+  --popover: #ffffff;
+  --popover-foreground: #0a0a0b;
+  --primary: #8b5cf6;
+  --primary-foreground: #ffffff;
+  --secondary: #f1f5f9;
+  --secondary-foreground: #0a0a0b;
+  --muted: #f1f5f9;
+  --muted-foreground: #64748b;
+  --accent: #f1f5f9;
+  --accent-foreground: #0a0a0b;
+  --destructive: #ef4444;
+  --destructive-foreground: #ffffff;
+  --border: #e2e8f0;
+  --input: #e2e8f0;
+  --ring: #8b5cf6;
+  --radius: 0.5rem;
+  
+  /* Purple Theme Colors */
+  --purple-50: #faf5ff;
+  --purple-100: #f3e8ff;
+  --purple-200: #e9d5ff;
+  --purple-300: #d8b4fe;
+  --purple-400: #c084fc;
+  --purple-500: #a855f7;
+  --purple-600: #9333ea;
+  --purple-700: #7c3aed;
+  --purple-800: #6b21a8;
+  --purple-900: #581c87;
+  
+  /* Success/Warning/Error Colors */
+  --success: #22c55e;
+  --success-foreground: #ffffff;
+  --warning: #f59e0b;
+  --warning-foreground: #ffffff;
+  
+  /* Table Row Colors - Ultra Subtle Light Mode */
+  --table-champion-bg: rgba(254, 240, 138, 0.05);
+  --table-champion-border: rgba(254, 240, 138, 0.1);
+  --table-champions-league-bg: rgba(254, 215, 170, 0.05);
+  --table-champions-league-border: rgba(254, 215, 170, 0.1);
+  --table-europa-league-bg: rgba(219, 234, 254, 0.05);
+  --table-europa-league-border: rgba(219, 234, 254, 0.1);
+  --table-europa-conference-bg: rgba(233, 213, 255, 0.05);
+  --table-europa-conference-border: rgba(233, 213, 255, 0.1);
+  --table-relegation-bg: rgba(254, 226, 226, 0.05);
+  --table-relegation-border: rgba(254, 226, 226, 0.1);
+}
+
+[data-theme="dark"] {
+  /* Dark Theme Variables */
+  --background: #0a0a0b;
+  --foreground: #f8fafc;
+  --card: #0a0a0b;
+  --card-foreground: #f8fafc;
+  --popover: #0a0a0b;
+  --popover-foreground: #f8fafc;
+  --primary: #8b5cf6;
+  --primary-foreground: #ffffff;
+  --secondary: #1e293b;
+  --secondary-foreground: #f8fafc;
+  --muted: #1e293b;
+  --muted-foreground: #94a3b8;
+  --accent: #1e293b;
+  --accent-foreground: #f8fafc;
+  --destructive: #dc2626;
+  --destructive-foreground: #ffffff;
+  --border: #1e293b;
+  --input: #1e293b;
+  --ring: #8b5cf6;
+  
+  /* Dark Purple Theme Colors */
+  --purple-50: #1e1b2e;
+  --purple-100: #2d2440;
+  --purple-200: #3d2e52;
+  --purple-300: #4d3764;
+  --purple-400: #6b46c1;
+  --purple-500: #8b5cf6;
+  --purple-600: #a855f7;
+  --purple-700: #c084fc;
+  --purple-800: #d8b4fe;
+  --purple-900: #e9d5ff;
+  
+  /* Dark Success/Warning/Error Colors */
+  --success: #16a34a;
+  --success-foreground: #ffffff;
+  --warning: #d97706;
+  --warning-foreground: #ffffff;
+  
+  /* Table Row Colors - Dark Mode */
+  --table-champion-bg: rgba(133, 77, 14, 0.4);
+  --table-champion-border: rgba(161, 98, 7, 0.6);
+  --table-champions-league-bg: rgba(20, 83, 45, 0.3);
+  --table-champions-league-border: rgba(21, 128, 61, 0.5);
+  --table-europa-league-bg: rgba(30, 58, 138, 0.3);
+  --table-europa-league-border: rgba(29, 78, 216, 0.5);
+  --table-europa-conference-bg: rgba(88, 28, 135, 0.3);
+  --table-europa-conference-border: rgba(126, 34, 206, 0.5);
+  --table-relegation-bg: rgba(127, 29, 29, 0.3);
+  --table-relegation-border: rgba(185, 28, 28, 0.5);
+}
+
+/* Table Row Styles */
+.table-champion-row {
+  background-color: var(--table-champion-bg);
+  border-color: var(--table-champion-border);
+}
+
+.table-champions-league-row {
+  background-color: var(--table-champions-league-bg);
+  border-color: var(--table-champions-league-border);
+}
+
+.table-europa-league-row {
+  background-color: var(--table-europa-league-bg);
+  border-color: var(--table-europa-league-border);
+}
+
+.table-europa-conference-row {
+  background-color: var(--table-europa-conference-bg);
+  border-color: var(--table-europa-conference-border);
+}
+
+.table-relegation-row {
+  background-color: var(--table-relegation-bg);
+  border-color: var(--table-relegation-border);
+}
+
+/* Base styles using CSS variables */
+* {
+  border-color: var(--border);
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+

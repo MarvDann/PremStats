@@ -1,3 +1,5 @@
 export { cn } from './utils/cn'
 export * from './types'
 export * from './components'
+export * from './contexts/ThemeContext'
+export { ThemeSwitcher } from './components/ThemeSwitcher'

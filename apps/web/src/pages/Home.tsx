@@ -56,7 +56,7 @@ const HomePage: Component = () => {
             label="Total Goals"
             value="21,000+"
             description="All competitions"
-            variant="success"
+            variant="secondary"
           />
           <StatsCard
             label="Current Season"

@@ -1,0 +1,1222 @@
+[dotenv@17.2.0] injecting env (5) from ../../.env (tip: ⚙️  enable debug logging with { debug: true })
+🏆 IMPORTING 2024/25 SEASON WITH PROFESSIONAL DATA
+🏆 IMPORTING PROFESSIONAL DATA FOR 2024 SEASON
+=======================================================
+📋 Mapping: API year 2024 → Database season "2024/25"
+✅ Found database season: ID 33, Name: 2024/25
+⏱️ Rate limiting: waiting 2955ms
+API Request: https://api.football-data.org/v4/competitions/PL/matches?season=2024
+📊 Found 380 matches for 2024 season from API
+⏱️ Rate limiting: waiting 743ms
+API Request: https://api.football-data.org/v4/matches/497410
+✅ Manchester United FC 1-0 Fulham FC - 1 goals
+⏱️ Rate limiting: waiting 2976ms
+API Request: https://api.football-data.org/v4/matches/497411
+✅ Ipswich Town FC 0-2 Liverpool FC - 2 goals
+⏱️ Rate limiting: waiting 2975ms
+API Request: https://api.football-data.org/v4/matches/497412
+✅ Arsenal FC 2-0 Wolverhampton Wanderers FC - 2 goals
+⏱️ Rate limiting: waiting 2985ms
+API Request: https://api.football-data.org/v4/matches/497413
+✅ Everton FC 0-3 Brighton & Hove Albion FC - 3 goals
+⏱️ Rate limiting: waiting 2970ms
+API Request: https://api.football-data.org/v4/matches/497414
+✅ Newcastle United FC 1-0 Southampton FC - 1 goals
+⏱️ Rate limiting: waiting 2988ms
+API Request: https://api.football-data.org/v4/matches/497415
+✅ Nottingham Forest FC 1-1 AFC Bournemouth - 2 goals
+⏱️ Rate limiting: waiting 2978ms
+API Request: https://api.football-data.org/v4/matches/497416
+✅ West Ham United FC 1-2 Aston Villa FC - 3 goals
+⏱️ Rate limiting: waiting 2988ms
+API Request: https://api.football-data.org/v4/matches/497417
+🔄 Own goal: Ethan Pinnock (Brentford FC) → credited to opposing team
+✅ Brentford FC 2-1 Crystal Palace FC - 3 goals
+⏱️ Rate limiting: waiting 2966ms
+API Request: https://api.football-data.org/v4/matches/497418
+✅ Chelsea FC 0-2 Manchester City FC - 2 goals
+⏱️ Rate limiting: waiting 2979ms
+API Request: https://api.football-data.org/v4/matches/497419
+✅ Leicester City FC 1-1 Tottenham Hotspur FC - 2 goals
+⏱️ Rate limiting: waiting 2987ms
+API Request: https://api.football-data.org/v4/matches/497422
+✅ Brighton & Hove Albion FC 2-1 Manchester United FC - 3 goals
+⏱️ Rate limiting: waiting 2982ms
+API Request: https://api.football-data.org/v4/matches/497423
+✅ Crystal Palace FC 0-2 West Ham United FC - 2 goals
+⏱️ Rate limiting: waiting 2974ms
+API Request: https://api.football-data.org/v4/matches/497424
+✅ Fulham FC 2-1 Leicester City FC - 3 goals
+⏱️ Rate limiting: waiting 2983ms
+API Request: https://api.football-data.org/v4/matches/497426
+🔗 Last name + initial matched: Samuel Szmodics → Sam Szmodics
+✅ Manchester City FC 4-1 Ipswich Town FC - 5 goals
+⏱️ Rate limiting: waiting 2923ms
+API Request: https://api.football-data.org/v4/matches/497427
+✅ Southampton FC 0-1 Nottingham Forest FC - 1 goals
+⏱️ Rate limiting: waiting 2992ms
+API Request: https://api.football-data.org/v4/matches/497428
+✅ Tottenham Hotspur FC 4-0 Everton FC - 4 goals
+⏱️ Rate limiting: waiting 2974ms
+API Request: https://api.football-data.org/v4/matches/497421
+✅ Aston Villa FC 0-2 Arsenal FC - 2 goals
+⏱️ Rate limiting: waiting 2976ms
+API Request: https://api.football-data.org/v4/matches/497420
+✅ AFC Bournemouth 1-1 Newcastle United FC - 2 goals
+⏱️ Rate limiting: waiting 2972ms
+API Request: https://api.football-data.org/v4/matches/497429
+✅ Wolverhampton Wanderers FC 2-6 Chelsea FC - 8 goals
+⏱️ Rate limiting: waiting 2951ms
+API Request: https://api.football-data.org/v4/matches/497425
+✅ Liverpool FC 2-0 Brentford FC - 2 goals
+⏱️ Rate limiting: waiting 2988ms
+API Request: https://api.football-data.org/v4/matches/497430
+✅ Arsenal FC 1-1 Brighton & Hove Albion FC - 2 goals
+⏱️ Rate limiting: waiting 2989ms
+API Request: https://api.football-data.org/v4/matches/497431
+✅ Brentford FC 3-1 Southampton FC - 4 goals
+⏱️ Rate limiting: waiting 2979ms
+API Request: https://api.football-data.org/v4/matches/497433
+✅ Everton FC 2-3 AFC Bournemouth - 5 goals
+⏱️ Rate limiting: waiting 2976ms
+API Request: https://api.football-data.org/v4/matches/497434
+✅ Ipswich Town FC 1-1 Fulham FC - 2 goals
+⏱️ Rate limiting: waiting 2982ms
+API Request: https://api.football-data.org/v4/matches/497435
+✅ Leicester City FC 1-2 Aston Villa FC - 3 goals
+⏱️ Rate limiting: waiting 2957ms
+API Request: https://api.football-data.org/v4/matches/497438
+✅ Nottingham Forest FC 1-1 Wolverhampton Wanderers FC - 2 goals
+⏱️ Rate limiting: waiting 2972ms
+API Request: https://api.football-data.org/v4/matches/497439
+🔄 Own goal: Rúben Dias (Manchester City FC) → credited to opposing team
+✅ West Ham United FC 1-3 Manchester City FC - 4 goals
+⏱️ Rate limiting: waiting 2980ms
+API Request: https://api.football-data.org/v4/matches/497432
+✅ Chelsea FC 1-1 Crystal Palace FC - 2 goals
+⏱️ Rate limiting: waiting 2984ms
+API Request: https://api.football-data.org/v4/matches/497437
+🔄 Own goal: Dan Burn (Newcastle United FC) → credited to opposing team
+✅ Newcastle United FC 2-1 Tottenham Hotspur FC - 3 goals
+⏱️ Rate limiting: waiting 2963ms
+API Request: https://api.football-data.org/v4/matches/497436
+✅ Manchester United FC 0-3 Liverpool FC - 3 goals
+⏱️ Rate limiting: waiting 2956ms
+API Request: https://api.football-data.org/v4/matches/497447
+✅ Southampton FC 0-3 Manchester United FC - 3 goals
+⏱️ Rate limiting: waiting 2976ms
+API Request: https://api.football-data.org/v4/matches/497442
+📍 Brighton & Hove Albion FC 0-0 Ipswich Town FC - no goals
+⏱️ Rate limiting: waiting 2996ms
+API Request: https://api.football-data.org/v4/matches/497443
+✅ Crystal Palace FC 2-2 Leicester City FC - 4 goals
+⏱️ Rate limiting: waiting 2975ms
+API Request: https://api.football-data.org/v4/matches/497444
+✅ Fulham FC 1-1 West Ham United FC - 2 goals
+⏱️ Rate limiting: waiting 2976ms
+API Request: https://api.football-data.org/v4/matches/497445
+✅ Liverpool FC 0-1 Nottingham Forest FC - 1 goals
+⏱️ Rate limiting: waiting 2994ms
+API Request: https://api.football-data.org/v4/matches/497446
+✅ Manchester City FC 2-1 Brentford FC - 3 goals
+⏱️ Rate limiting: waiting 2986ms
+API Request: https://api.football-data.org/v4/matches/497441
+✅ Aston Villa FC 3-2 Everton FC - 5 goals
+⏱️ Rate limiting: waiting 2956ms
+API Request: https://api.football-data.org/v4/matches/497440
+✅ AFC Bournemouth 0-1 Chelsea FC - 1 goals
+⏱️ Rate limiting: waiting 2988ms
+API Request: https://api.football-data.org/v4/matches/497448
+✅ Tottenham Hotspur FC 0-1 Arsenal FC - 1 goals
+⏱️ Rate limiting: waiting 2984ms
+API Request: https://api.football-data.org/v4/matches/497449
+✅ Wolverhampton Wanderers FC 1-2 Newcastle United FC - 3 goals
+⏱️ Rate limiting: waiting 2964ms
+API Request: https://api.football-data.org/v4/matches/497459
+✅ West Ham United FC 0-3 Chelsea FC - 3 goals
+⏱️ Rate limiting: waiting 2963ms
+API Request: https://api.football-data.org/v4/matches/497450
+✅ Aston Villa FC 3-1 Wolverhampton Wanderers FC - 4 goals
+⏱️ Rate limiting: waiting 2961ms
+API Request: https://api.football-data.org/v4/matches/497453
+✅ Fulham FC 3-1 Newcastle United FC - 4 goals
+⏱️ Rate limiting: waiting 2961ms
+API Request: https://api.football-data.org/v4/matches/497454
+✅ Leicester City FC 1-1 Everton FC - 2 goals
+⏱️ Rate limiting: waiting 2978ms
+API Request: https://api.football-data.org/v4/matches/497455
+✅ Liverpool FC 3-0 AFC Bournemouth - 3 goals
+⏱️ Rate limiting: waiting 2975ms
+API Request: https://api.football-data.org/v4/matches/497457
+✅ Southampton FC 1-1 Ipswich Town FC - 2 goals
+⏱️ Rate limiting: waiting 2979ms
+API Request: https://api.football-data.org/v4/matches/497458
+✅ Tottenham Hotspur FC 3-1 Brentford FC - 4 goals
+⏱️ Rate limiting: waiting 2965ms
+API Request: https://api.football-data.org/v4/matches/497452
+📍 Crystal Palace FC 0-0 Manchester United FC - no goals
+⏱️ Rate limiting: waiting 2997ms
+API Request: https://api.football-data.org/v4/matches/497451
+✅ Brighton & Hove Albion FC 2-2 Nottingham Forest FC - 4 goals
+⏱️ Rate limiting: waiting 2959ms
+API Request: https://api.football-data.org/v4/matches/497456
+✅ Manchester City FC 2-2 Arsenal FC - 4 goals
+⏱️ Rate limiting: waiting 2934ms
+API Request: https://api.football-data.org/v4/matches/497467
+✅ Newcastle United FC 1-1 Manchester City FC - 2 goals
+⏱️ Rate limiting: waiting 2980ms
+API Request: https://api.football-data.org/v4/matches/497461
+🔗 Last name + initial matched: James Justin → Justin Channing
+🔗 Last name + initial matched: James Justin → Justin Channing
+✅ Arsenal FC 4-2 Leicester City FC - 6 goals
+⏱️ Rate limiting: waiting 2872ms
+API Request: https://api.football-data.org/v4/matches/497462
+✅ Brentford FC 1-1 West Ham United FC - 2 goals
+⏱️ Rate limiting: waiting 2974ms
+API Request: https://api.football-data.org/v4/matches/497463
+✅ Chelsea FC 4-2 Brighton & Hove Albion FC - 6 goals
+⏱️ Rate limiting: waiting 2930ms
+API Request: https://api.football-data.org/v4/matches/497464
+✅ Everton FC 2-1 Crystal Palace FC - 3 goals
+⏱️ Rate limiting: waiting 2968ms
+API Request: https://api.football-data.org/v4/matches/497468
+✅ Nottingham Forest FC 0-1 Fulham FC - 1 goals
+⏱️ Rate limiting: waiting 2977ms
+API Request: https://api.football-data.org/v4/matches/497469
+✅ Wolverhampton Wanderers FC 1-2 Liverpool FC - 3 goals
+⏱️ Rate limiting: waiting 2960ms
+API Request: https://api.football-data.org/v4/matches/497465
+✅ Ipswich Town FC 2-2 Aston Villa FC - 4 goals
+⏱️ Rate limiting: waiting 2970ms
+API Request: https://api.football-data.org/v4/matches/497466
+✅ Manchester United FC 0-3 Tottenham Hotspur FC - 3 goals
+⏱️ Rate limiting: waiting 2972ms
+API Request: https://api.football-data.org/v4/matches/497460
+👤 Created new player: Evanilson (no existing match found)
+✅ AFC Bournemouth 3-1 Southampton FC - 4 goals
+⏱️ Rate limiting: waiting 2940ms
+API Request: https://api.football-data.org/v4/matches/497475
+✅ Crystal Palace FC 0-1 Liverpool FC - 1 goals
+⏱️ Rate limiting: waiting 2987ms
+API Request: https://api.football-data.org/v4/matches/497470
+✅ Arsenal FC 3-1 Southampton FC - 4 goals
+⏱️ Rate limiting: waiting 2950ms
+API Request: https://api.football-data.org/v4/matches/497472
+✅ Brentford FC 5-3 Wolverhampton Wanderers FC - 8 goals
+⏱️ Rate limiting: waiting 2936ms
+API Request: https://api.football-data.org/v4/matches/497477
+✅ Leicester City FC 1-0 AFC Bournemouth - 1 goals
+⏱️ Rate limiting: waiting 2986ms
+API Request: https://api.football-data.org/v4/matches/497478
+✅ Manchester City FC 3-2 Fulham FC - 5 goals
+⏱️ Rate limiting: waiting 2957ms
+API Request: https://api.football-data.org/v4/matches/497479
+✅ West Ham United FC 4-1 Ipswich Town FC - 5 goals
+⏱️ Rate limiting: waiting 2956ms
+API Request: https://api.football-data.org/v4/matches/497476
+📍 Everton FC 0-0 Newcastle United FC - no goals
+⏱️ Rate limiting: waiting 2998ms
+API Request: https://api.football-data.org/v4/matches/497471
+📍 Aston Villa FC 0-0 Manchester United FC - no goals
+⏱️ Rate limiting: waiting 2991ms
+API Request: https://api.football-data.org/v4/matches/497474
+✅ Chelsea FC 1-1 Nottingham Forest FC - 2 goals
+⏱️ Rate limiting: waiting 2981ms
+API Request: https://api.football-data.org/v4/matches/497473
+✅ Brighton & Hove Albion FC 3-2 Tottenham Hotspur FC - 5 goals
+⏱️ Rate limiting: waiting 2933ms
+API Request: https://api.football-data.org/v4/matches/497488
+🔄 Own goal: Alphonse Aréola (West Ham United FC) → credited to opposing team
+✅ Tottenham Hotspur FC 4-1 West Ham United FC - 5 goals
+⏱️ Rate limiting: waiting 2949ms
+API Request: https://api.football-data.org/v4/matches/497481
+🔄 Own goal: Issa Diop (Fulham FC) → credited to opposing team
+✅ Fulham FC 1-3 Aston Villa FC - 4 goals
+⏱️ Rate limiting: waiting 2943ms
+API Request: https://api.football-data.org/v4/matches/497482
+✅ Ipswich Town FC 0-2 Everton FC - 2 goals
+⏱️ Rate limiting: waiting 2957ms
+API Request: https://api.football-data.org/v4/matches/497484
+✅ Manchester United FC 2-1 Brentford FC - 3 goals
+⏱️ Rate limiting: waiting 2950ms
+API Request: https://api.football-data.org/v4/matches/497485
+✅ Newcastle United FC 0-1 Brighton & Hove Albion FC - 1 goals
+⏱️ Rate limiting: waiting 2990ms
+API Request: https://api.football-data.org/v4/matches/497487
+✅ Southampton FC 2-3 Leicester City FC - 5 goals
+⏱️ Rate limiting: waiting 2950ms
+API Request: https://api.football-data.org/v4/matches/497480
+✅ AFC Bournemouth 2-0 Arsenal FC - 2 goals
+⏱️ Rate limiting: waiting 2981ms
+API Request: https://api.football-data.org/v4/matches/497489
+✅ Wolverhampton Wanderers FC 1-2 Manchester City FC - 3 goals
+⏱️ Rate limiting: waiting 2950ms
+API Request: https://api.football-data.org/v4/matches/497483
+✅ Liverpool FC 2-1 Chelsea FC - 3 goals
+⏱️ Rate limiting: waiting 2964ms
+API Request: https://api.football-data.org/v4/matches/497486
+✅ Nottingham Forest FC 1-0 Crystal Palace FC - 1 goals
+⏱️ Rate limiting: waiting 2991ms
+API Request: https://api.football-data.org/v4/matches/497497
+✅ Leicester City FC 1-3 Nottingham Forest FC - 4 goals
+⏱️ Rate limiting: waiting 2969ms
+API Request: https://api.football-data.org/v4/matches/497491
+✅ Aston Villa FC 1-1 AFC Bournemouth - 2 goals
+⏱️ Rate limiting: waiting 2972ms
+API Request: https://api.football-data.org/v4/matches/497492
+🔗 Last name + initial matched: Samuel Szmodics → Sam Szmodics
+🔄 Own goal: Harry Clarke (Ipswich Town FC) → credited to opposing team
+✅ Brentford FC 4-3 Ipswich Town FC - 7 goals
+⏱️ Rate limiting: waiting 2910ms
+API Request: https://api.football-data.org/v4/matches/497493
+✅ Brighton & Hove Albion FC 2-2 Wolverhampton Wanderers FC - 4 goals
+⏱️ Rate limiting: waiting 2968ms
+API Request: https://api.football-data.org/v4/matches/497498
+✅ Manchester City FC 1-0 Southampton FC - 1 goals
+⏱️ Rate limiting: waiting 2988ms
+API Request: https://api.football-data.org/v4/matches/497496
+✅ Everton FC 1-1 Fulham FC - 2 goals
+⏱️ Rate limiting: waiting 2964ms
+API Request: https://api.football-data.org/v4/matches/497494
+✅ Chelsea FC 2-1 Newcastle United FC - 3 goals
+⏱️ Rate limiting: waiting 2974ms
+API Request: https://api.football-data.org/v4/matches/497495
+✅ Crystal Palace FC 1-0 Tottenham Hotspur FC - 1 goals
+⏱️ Rate limiting: waiting 2988ms
+API Request: https://api.football-data.org/v4/matches/497499
+✅ West Ham United FC 2-1 Manchester United FC - 3 goals
+⏱️ Rate limiting: waiting 2967ms
+API Request: https://api.football-data.org/v4/matches/497490
+✅ Arsenal FC 2-2 Liverpool FC - 4 goals
+⏱️ Rate limiting: waiting 2961ms
+API Request: https://api.football-data.org/v4/matches/497505
+✅ Newcastle United FC 1-0 Arsenal FC - 1 goals
+⏱️ Rate limiting: waiting 2990ms
+API Request: https://api.football-data.org/v4/matches/497500
+✅ AFC Bournemouth 2-1 Manchester City FC - 3 goals
+⏱️ Rate limiting: waiting 2969ms
+API Request: https://api.football-data.org/v4/matches/497502
+✅ Ipswich Town FC 1-1 Leicester City FC - 2 goals
+⏱️ Rate limiting: waiting 2973ms
+API Request: https://api.football-data.org/v4/matches/497503
+✅ Liverpool FC 2-1 Brighton & Hove Albion FC - 3 goals
+⏱️ Rate limiting: waiting 2966ms
+API Request: https://api.football-data.org/v4/matches/497506
+✅ Nottingham Forest FC 3-0 West Ham United FC - 3 goals
+⏱️ Rate limiting: waiting 2965ms
+API Request: https://api.football-data.org/v4/matches/497507
+✅ Southampton FC 1-0 Everton FC - 1 goals
+⏱️ Rate limiting: waiting 2987ms
+API Request: https://api.football-data.org/v4/matches/497509
+✅ Wolverhampton Wanderers FC 2-2 Crystal Palace FC - 4 goals
+⏱️ Rate limiting: waiting 2942ms
+API Request: https://api.football-data.org/v4/matches/497508
+✅ Tottenham Hotspur FC 4-1 Aston Villa FC - 5 goals
+⏱️ Rate limiting: waiting 2932ms
+API Request: https://api.football-data.org/v4/matches/497504
+✅ Manchester United FC 1-1 Chelsea FC - 2 goals
+⏱️ Rate limiting: waiting 2954ms
+API Request: https://api.football-data.org/v4/matches/497501
+✅ Fulham FC 2-1 Brentford FC - 3 goals
+⏱️ Rate limiting: waiting 2964ms
+API Request: https://api.football-data.org/v4/matches/497510
+✅ Brentford FC 3-2 AFC Bournemouth - 5 goals
+⏱️ Rate limiting: waiting 2955ms
+API Request: https://api.football-data.org/v4/matches/497513
+✅ Crystal Palace FC 0-2 Fulham FC - 2 goals
+⏱️ Rate limiting: waiting 2978ms
+API Request: https://api.football-data.org/v4/matches/497518
+📍 West Ham United FC 0-0 Everton FC - no goals
+⏱️ Rate limiting: waiting 2994ms
+API Request: https://api.football-data.org/v4/matches/497519
+✅ Wolverhampton Wanderers FC 2-0 Southampton FC - 2 goals
+⏱️ Rate limiting: waiting 2975ms
+API Request: https://api.football-data.org/v4/matches/497511
+✅ Brighton & Hove Albion FC 2-1 Manchester City FC - 3 goals
+⏱️ Rate limiting: waiting 2948ms
+API Request: https://api.football-data.org/v4/matches/497514
+✅ Liverpool FC 2-0 Aston Villa FC - 2 goals
+⏱️ Rate limiting: waiting 2952ms
+API Request: https://api.football-data.org/v4/matches/497515
+🔄 Own goal: Victor Kristiansen (Leicester City FC) → credited to opposing team
+✅ Manchester United FC 3-0 Leicester City FC - 3 goals
+⏱️ Rate limiting: waiting 2933ms
+API Request: https://api.football-data.org/v4/matches/497516
+✅ Nottingham Forest FC 1-3 Newcastle United FC - 4 goals
+⏱️ Rate limiting: waiting 2932ms
+API Request: https://api.football-data.org/v4/matches/497517
+🔗 Last name + initial matched: Samuel Szmodics → Sam Szmodics
+✅ Tottenham Hotspur FC 1-2 Ipswich Town FC - 3 goals
+⏱️ Rate limiting: waiting 2909ms
+API Request: https://api.football-data.org/v4/matches/497512
+✅ Chelsea FC 1-1 Arsenal FC - 2 goals
+⏱️ Rate limiting: waiting 2972ms
+API Request: https://api.football-data.org/v4/matches/497526
+✅ Leicester City FC 1-2 Chelsea FC - 3 goals
+⏱️ Rate limiting: waiting 2942ms
+API Request: https://api.football-data.org/v4/matches/497520
+✅ AFC Bournemouth 1-2 Brighton & Hove Albion FC - 3 goals
+⏱️ Rate limiting: waiting 2947ms
+API Request: https://api.football-data.org/v4/matches/497521
+✅ Arsenal FC 3-0 Nottingham Forest FC - 3 goals
+⏱️ Rate limiting: waiting 2960ms
+API Request: https://api.football-data.org/v4/matches/497522
+✅ Aston Villa FC 2-2 Crystal Palace FC - 4 goals
+⏱️ Rate limiting: waiting 2935ms
+API Request: https://api.football-data.org/v4/matches/497523
+📍 Everton FC 0-0 Brentford FC - no goals
+⏱️ Rate limiting: waiting 2992ms
+API Request: https://api.football-data.org/v4/matches/497524
+✅ Fulham FC 1-4 Wolverhampton Wanderers FC - 5 goals
+⏱️ Rate limiting: waiting 2953ms
+API Request: https://api.football-data.org/v4/matches/497527
+✅ Manchester City FC 0-4 Tottenham Hotspur FC - 4 goals
+⏱️ Rate limiting: waiting 2937ms
+API Request: https://api.football-data.org/v4/matches/497529
+👤 Created new player: Mateus Fernandes (no existing match found)
+✅ Southampton FC 2-3 Liverpool FC - 5 goals
+⏱️ Rate limiting: waiting 2810ms
+API Request: https://api.football-data.org/v4/matches/497525
+✅ Ipswich Town FC 1-1 Manchester United FC - 2 goals
+⏱️ Rate limiting: waiting 2966ms
+API Request: https://api.football-data.org/v4/matches/497528
+✅ Newcastle United FC 0-2 West Ham United FC - 2 goals
+⏱️ Rate limiting: waiting 2962ms
+API Request: https://api.football-data.org/v4/matches/497531
+✅ Brighton & Hove Albion FC 1-1 Southampton FC - 2 goals
+⏱️ Rate limiting: waiting 2953ms
+API Request: https://api.football-data.org/v4/matches/497530
+✅ Brentford FC 4-1 Leicester City FC - 5 goals
+⏱️ Rate limiting: waiting 2930ms
+API Request: https://api.football-data.org/v4/matches/497533
+🔄 Own goal: Marc Guéhi (Crystal Palace FC) → credited to opposing team
+✅ Crystal Palace FC 1-1 Newcastle United FC - 2 goals
+⏱️ Rate limiting: waiting 2982ms
+API Request: https://api.football-data.org/v4/matches/497536
+✅ Nottingham Forest FC 1-0 Ipswich Town FC - 1 goals
+⏱️ Rate limiting: waiting 2971ms
+API Request: https://api.football-data.org/v4/matches/497539
+✅ Wolverhampton Wanderers FC 2-4 AFC Bournemouth - 6 goals
+⏱️ Rate limiting: waiting 2924ms
+API Request: https://api.football-data.org/v4/matches/497538
+✅ West Ham United FC 2-5 Arsenal FC - 7 goals
+⏱️ Rate limiting: waiting 2914ms
+API Request: https://api.football-data.org/v4/matches/497532
+✅ Chelsea FC 3-0 Aston Villa FC - 3 goals
+⏱️ Rate limiting: waiting 2956ms
+API Request: https://api.football-data.org/v4/matches/497535
+✅ Manchester United FC 4-0 Everton FC - 4 goals
+⏱️ Rate limiting: waiting 2942ms
+API Request: https://api.football-data.org/v4/matches/497537
+✅ Tottenham Hotspur FC 1-1 Fulham FC - 2 goals
+⏱️ Rate limiting: waiting 2973ms
+API Request: https://api.football-data.org/v4/matches/497534
+✅ Liverpool FC 2-0 Manchester City FC - 2 goals
+⏱️ Rate limiting: waiting 2949ms
+API Request: https://api.football-data.org/v4/matches/497545
+✅ Ipswich Town FC 0-1 Crystal Palace FC - 1 goals
+⏱️ Rate limiting: waiting 2971ms
+API Request: https://api.football-data.org/v4/matches/497546
+✅ Leicester City FC 3-1 West Ham United FC - 4 goals
+⏱️ Rate limiting: waiting 2951ms
+API Request: https://api.football-data.org/v4/matches/497543
+🔄 Own goal: Craig Dawson (Wolverhampton Wanderers FC) → credited to opposing team
+🔄 Own goal: Craig Dawson (Wolverhampton Wanderers FC) → credited to opposing team
+✅ Everton FC 4-0 Wolverhampton Wanderers FC - 4 goals
+⏱️ Rate limiting: waiting 2947ms
+API Request: https://api.football-data.org/v4/matches/497547
+✅ Manchester City FC 3-0 Nottingham Forest FC - 3 goals
+⏱️ Rate limiting: waiting 2945ms
+API Request: https://api.football-data.org/v4/matches/497548
+✅ Newcastle United FC 3-3 Liverpool FC - 6 goals
+⏱️ Rate limiting: waiting 2920ms
+API Request: https://api.football-data.org/v4/matches/497549
+✅ Southampton FC 1-5 Chelsea FC - 6 goals
+⏱️ Rate limiting: waiting 2949ms
+API Request: https://api.football-data.org/v4/matches/497541
+✅ Arsenal FC 2-0 Manchester United FC - 2 goals
+⏱️ Rate limiting: waiting 2980ms
+API Request: https://api.football-data.org/v4/matches/497542
+✅ Aston Villa FC 3-1 Brentford FC - 4 goals
+⏱️ Rate limiting: waiting 2943ms
+API Request: https://api.football-data.org/v4/matches/497544
+🔄 Own goal: Matt O'Riley (Brighton & Hove Albion FC) → credited to opposing team
+✅ Fulham FC 3-1 Brighton & Hove Albion FC - 4 goals
+⏱️ Rate limiting: waiting 2934ms
+API Request: https://api.football-data.org/v4/matches/497540
+✅ AFC Bournemouth 1-0 Tottenham Hotspur FC - 1 goals
+⏱️ Rate limiting: waiting 2967ms
+API Request: https://api.football-data.org/v4/matches/497550
+✅ Aston Villa FC 1-0 Southampton FC - 1 goals
+⏱️ Rate limiting: waiting 2986ms
+API Request: https://api.football-data.org/v4/matches/497551
+✅ Brentford FC 4-2 Newcastle United FC - 6 goals
+⏱️ Rate limiting: waiting 2909ms
+API Request: https://api.football-data.org/v4/matches/497552
+✅ Crystal Palace FC 2-2 Manchester City FC - 4 goals
+⏱️ Rate limiting: waiting 2938ms
+API Request: https://api.football-data.org/v4/matches/497557
+✅ Manchester United FC 2-3 Nottingham Forest FC - 5 goals
+⏱️ Rate limiting: waiting 2922ms
+API Request: https://api.football-data.org/v4/matches/497554
+✅ Fulham FC 1-1 Arsenal FC - 2 goals
+⏱️ Rate limiting: waiting 2960ms
+API Request: https://api.football-data.org/v4/matches/497555
+✅ Ipswich Town FC 1-2 AFC Bournemouth - 3 goals
+⏱️ Rate limiting: waiting 2974ms
+API Request: https://api.football-data.org/v4/matches/497556
+✅ Leicester City FC 2-2 Brighton & Hove Albion FC - 4 goals
+⏱️ Rate limiting: waiting 2946ms
+API Request: https://api.football-data.org/v4/matches/497558
+✅ Tottenham Hotspur FC 3-4 Chelsea FC - 7 goals
+⏱️ Rate limiting: waiting 2910ms
+API Request: https://api.football-data.org/v4/matches/497559
+✅ West Ham United FC 2-1 Wolverhampton Wanderers FC - 3 goals
+⏱️ Rate limiting: waiting 2960ms
+API Request: https://api.football-data.org/v4/matches/497561
+📍 Arsenal FC 0-0 Everton FC - no goals
+⏱️ Rate limiting: waiting 2997ms
+API Request: https://api.football-data.org/v4/matches/497564
+✅ Liverpool FC 2-2 Fulham FC - 4 goals
+⏱️ Rate limiting: waiting 2941ms
+API Request: https://api.football-data.org/v4/matches/497566
+✅ Newcastle United FC 4-0 Leicester City FC - 4 goals
+⏱️ Rate limiting: waiting 2919ms
+API Request: https://api.football-data.org/v4/matches/497569
+🔄 Own goal: Matt Doherty (Wolverhampton Wanderers FC) → credited to opposing team
+✅ Wolverhampton Wanderers FC 1-2 Ipswich Town FC - 3 goals
+⏱️ Rate limiting: waiting 2926ms
+API Request: https://api.football-data.org/v4/matches/497567
+✅ Nottingham Forest FC 2-1 Aston Villa FC - 3 goals
+⏱️ Rate limiting: waiting 2954ms
+API Request: https://api.football-data.org/v4/matches/497562
+🔄 Own goal: Marc Guéhi (Crystal Palace FC) → credited to opposing team
+✅ Brighton & Hove Albion FC 1-3 Crystal Palace FC - 4 goals
+⏱️ Rate limiting: waiting 2945ms
+API Request: https://api.football-data.org/v4/matches/497565
+✅ Manchester City FC 1-2 Manchester United FC - 3 goals
+⏱️ Rate limiting: waiting 2962ms
+API Request: https://api.football-data.org/v4/matches/497563
+✅ Chelsea FC 2-1 Brentford FC - 3 goals
+⏱️ Rate limiting: waiting 2936ms
+API Request: https://api.football-data.org/v4/matches/497568
+✅ Southampton FC 0-5 Tottenham Hotspur FC - 5 goals
+⏱️ Rate limiting: waiting 2916ms
+API Request: https://api.football-data.org/v4/matches/497560
+✅ AFC Bournemouth 1-1 West Ham United FC - 2 goals
+⏱️ Rate limiting: waiting 2941ms
+API Request: https://api.football-data.org/v4/matches/497570
+✅ Aston Villa FC 2-1 Manchester City FC - 3 goals
+⏱️ Rate limiting: waiting 2949ms
+API Request: https://api.football-data.org/v4/matches/497571
+✅ Brentford FC 0-2 Nottingham Forest FC - 2 goals
+⏱️ Rate limiting: waiting 2956ms
+API Request: https://api.football-data.org/v4/matches/497575
+✅ Ipswich Town FC 0-4 Newcastle United FC - 4 goals
+⏱️ Rate limiting: waiting 2931ms
+API Request: https://api.football-data.org/v4/matches/497579
+✅ West Ham United FC 1-1 Brighton & Hove Albion FC - 2 goals
+⏱️ Rate limiting: waiting 2965ms
+API Request: https://api.football-data.org/v4/matches/497572
+✅ Crystal Palace FC 1-5 Arsenal FC - 6 goals
+⏱️ Rate limiting: waiting 2913ms
+API Request: https://api.football-data.org/v4/matches/497573
+📍 Everton FC 0-0 Chelsea FC - no goals
+⏱️ Rate limiting: waiting 2991ms
+API Request: https://api.football-data.org/v4/matches/497574
+📍 Fulham FC 0-0 Southampton FC - no goals
+⏱️ Rate limiting: waiting 2992ms
+API Request: https://api.football-data.org/v4/matches/497576
+✅ Leicester City FC 0-3 Wolverhampton Wanderers FC - 3 goals
+⏱️ Rate limiting: waiting 2957ms
+API Request: https://api.football-data.org/v4/matches/497577
+✅ Manchester United FC 0-3 AFC Bournemouth - 3 goals
+⏱️ Rate limiting: waiting 2957ms
+API Request: https://api.football-data.org/v4/matches/497578
+✅ Tottenham Hotspur FC 3-6 Liverpool FC - 9 goals
+⏱️ Rate limiting: waiting 2906ms
+API Request: https://api.football-data.org/v4/matches/497585
+✅ Manchester City FC 1-1 Everton FC - 2 goals
+⏱️ Rate limiting: waiting 2968ms
+API Request: https://api.football-data.org/v4/matches/497580
+📍 AFC Bournemouth 0-0 Crystal Palace FC - no goals
+⏱️ Rate limiting: waiting 2989ms
+API Request: https://api.football-data.org/v4/matches/497583
+✅ Chelsea FC 1-2 Fulham FC - 3 goals
+⏱️ Rate limiting: waiting 2932ms
+API Request: https://api.football-data.org/v4/matches/497586
+✅ Newcastle United FC 3-0 Aston Villa FC - 3 goals
+⏱️ Rate limiting: waiting 2936ms
+API Request: https://api.football-data.org/v4/matches/497587
+✅ Nottingham Forest FC 1-0 Tottenham Hotspur FC - 1 goals
+⏱️ Rate limiting: waiting 2991ms
+API Request: https://api.football-data.org/v4/matches/497588
+✅ Southampton FC 0-1 West Ham United FC - 1 goals
+⏱️ Rate limiting: waiting 2972ms
+API Request: https://api.football-data.org/v4/matches/497589
+✅ Wolverhampton Wanderers FC 2-0 Manchester United FC - 2 goals
+⏱️ Rate limiting: waiting 2965ms
+API Request: https://api.football-data.org/v4/matches/497584
+✅ Liverpool FC 3-1 Leicester City FC - 4 goals
+⏱️ Rate limiting: waiting 2932ms
+API Request: https://api.football-data.org/v4/matches/497582
+📍 Brighton & Hove Albion FC 0-0 Brentford FC - no goals
+⏱️ Rate limiting: waiting 2991ms
+API Request: https://api.football-data.org/v4/matches/497581
+✅ Arsenal FC 1-0 Ipswich Town FC - 1 goals
+⏱️ Rate limiting: waiting 2974ms
+API Request: https://api.football-data.org/v4/matches/497596
+✅ Leicester City FC 0-2 Manchester City FC - 2 goals
+⏱️ Rate limiting: waiting 2967ms
+API Request: https://api.football-data.org/v4/matches/497592
+✅ Crystal Palace FC 2-1 Southampton FC - 3 goals
+⏱️ Rate limiting: waiting 2920ms
+API Request: https://api.football-data.org/v4/matches/497593
+✅ Everton FC 0-2 Nottingham Forest FC - 2 goals
+⏱️ Rate limiting: waiting 2959ms
+API Request: https://api.football-data.org/v4/matches/497594
+✅ Fulham FC 2-2 AFC Bournemouth - 4 goals
+⏱️ Rate limiting: waiting 2938ms
+API Request: https://api.football-data.org/v4/matches/497598
+✅ Tottenham Hotspur FC 2-2 Wolverhampton Wanderers FC - 4 goals
+⏱️ Rate limiting: waiting 2967ms
+API Request: https://api.football-data.org/v4/matches/497599
+✅ West Ham United FC 0-5 Liverpool FC - 5 goals
+⏱️ Rate limiting: waiting 2927ms
+API Request: https://api.football-data.org/v4/matches/497590
+✅ Aston Villa FC 2-2 Brighton & Hove Albion FC - 4 goals
+⏱️ Rate limiting: waiting 2935ms
+API Request: https://api.football-data.org/v4/matches/497595
+✅ Ipswich Town FC 2-0 Chelsea FC - 2 goals
+⏱️ Rate limiting: waiting 2950ms
+API Request: https://api.football-data.org/v4/matches/497597
+✅ Manchester United FC 0-2 Newcastle United FC - 2 goals
+⏱️ Rate limiting: waiting 2960ms
+API Request: https://api.football-data.org/v4/matches/497591
+✅ Brentford FC 1-3 Arsenal FC - 4 goals
+⏱️ Rate limiting: waiting 2945ms
+API Request: https://api.football-data.org/v4/matches/497607
+✅ Tottenham Hotspur FC 1-2 Newcastle United FC - 3 goals
+⏱️ Rate limiting: waiting 2951ms
+API Request: https://api.football-data.org/v4/matches/497601
+✅ Southampton FC 0-5 Brentford FC - 5 goals
+⏱️ Rate limiting: waiting 2930ms
+API Request: https://api.football-data.org/v4/matches/497602
+✅ Crystal Palace FC 1-1 Chelsea FC - 2 goals
+⏱️ Rate limiting: waiting 2955ms
+API Request: https://api.football-data.org/v4/matches/497603
+✅ AFC Bournemouth 1-0 Everton FC - 1 goals
+⏱️ Rate limiting: waiting 2975ms
+API Request: https://api.football-data.org/v4/matches/497605
+✅ Aston Villa FC 2-1 Leicester City FC - 3 goals
+⏱️ Rate limiting: waiting 2967ms
+API Request: https://api.football-data.org/v4/matches/497609
+🔗 Last name + initial matched: Vladimir Coufal → Vladimír Coufal
+🔄 Own goal: Vladimir Coufal (West Ham United FC) → credited to opposing team
+✅ Manchester City FC 4-1 West Ham United FC - 5 goals
+⏱️ Rate limiting: waiting 2910ms
+API Request: https://api.football-data.org/v4/matches/497600
+✅ Brighton & Hove Albion FC 1-1 Arsenal FC - 2 goals
+⏱️ Rate limiting: waiting 2965ms
+API Request: https://api.football-data.org/v4/matches/497604
+🔗 Last name + initial matched: Samuel Szmodics → Sam Szmodics
+✅ Fulham FC 2-2 Ipswich Town FC - 4 goals
+⏱️ Rate limiting: waiting 2923ms
+API Request: https://api.football-data.org/v4/matches/497606
+✅ Liverpool FC 2-2 Manchester United FC - 4 goals
+⏱️ Rate limiting: waiting 2947ms
+API Request: https://api.football-data.org/v4/matches/497608
+✅ Wolverhampton Wanderers FC 0-3 Nottingham Forest FC - 3 goals
+⏱️ Rate limiting: waiting 2945ms
+API Request: https://api.football-data.org/v4/matches/497613
+✅ West Ham United FC 3-2 Fulham FC - 5 goals
+⏱️ Rate limiting: waiting 2931ms
+API Request: https://api.football-data.org/v4/matches/497615
+✅ Brentford FC 2-2 Manchester City FC - 4 goals
+⏱️ Rate limiting: waiting 2942ms
+API Request: https://api.football-data.org/v4/matches/497617
+✅ Chelsea FC 2-2 AFC Bournemouth - 4 goals
+⏱️ Rate limiting: waiting 2936ms
+API Request: https://api.football-data.org/v4/matches/497614
+✅ Nottingham Forest FC 1-1 Liverpool FC - 2 goals
+⏱️ Rate limiting: waiting 2960ms
+API Request: https://api.football-data.org/v4/matches/497610
+✅ Everton FC 0-1 Aston Villa FC - 1 goals
+⏱️ Rate limiting: waiting 2983ms
+API Request: https://api.football-data.org/v4/matches/497612
+✅ Leicester City FC 0-2 Crystal Palace FC - 2 goals
+⏱️ Rate limiting: waiting 2952ms
+API Request: https://api.football-data.org/v4/matches/497619
+✅ Newcastle United FC 3-0 Wolverhampton Wanderers FC - 3 goals
+⏱️ Rate limiting: waiting 2952ms
+API Request: https://api.football-data.org/v4/matches/497616
+🔄 Own goal: Dominic Solanke (Tottenham Hotspur FC) → credited to opposing team
+✅ Arsenal FC 2-1 Tottenham Hotspur FC - 3 goals
+⏱️ Rate limiting: waiting 2952ms
+API Request: https://api.football-data.org/v4/matches/497611
+✅ Ipswich Town FC 0-2 Brighton & Hove Albion FC - 2 goals
+⏱️ Rate limiting: waiting 2962ms
+API Request: https://api.football-data.org/v4/matches/497618
+🔄 Own goal: Manuel Ugarte (Manchester United FC) → credited to opposing team
+✅ Manchester United FC 3-1 Southampton FC - 4 goals
+⏱️ Rate limiting: waiting 2920ms
+API Request: https://api.football-data.org/v4/matches/497620
+✅ Newcastle United FC 1-4 AFC Bournemouth - 5 goals
+⏱️ Rate limiting: waiting 2945ms
+API Request: https://api.football-data.org/v4/matches/497623
+✅ West Ham United FC 0-2 Crystal Palace FC - 2 goals
+⏱️ Rate limiting: waiting 2973ms
+API Request: https://api.football-data.org/v4/matches/497624
+✅ Leicester City FC 0-2 Fulham FC - 2 goals
+⏱️ Rate limiting: waiting 2956ms
+API Request: https://api.football-data.org/v4/matches/497625
+✅ Brentford FC 0-2 Liverpool FC - 2 goals
+⏱️ Rate limiting: waiting 2972ms
+API Request: https://api.football-data.org/v4/matches/497621
+✅ Arsenal FC 2-2 Aston Villa FC - 4 goals
+⏱️ Rate limiting: waiting 2944ms
+API Request: https://api.football-data.org/v4/matches/497622
+✅ Manchester United FC 1-3 Brighton & Hove Albion FC - 4 goals
+⏱️ Rate limiting: waiting 2938ms
+API Request: https://api.football-data.org/v4/matches/497627
+✅ Nottingham Forest FC 3-2 Southampton FC - 5 goals
+⏱️ Rate limiting: waiting 2925ms
+API Request: https://api.football-data.org/v4/matches/497628
+🔄 Own goal: Archie Gray (Tottenham Hotspur FC) → credited to opposing team
+✅ Everton FC 3-2 Tottenham Hotspur FC - 5 goals
+⏱️ Rate limiting: waiting 2952ms
+API Request: https://api.football-data.org/v4/matches/497626
+✅ Ipswich Town FC 0-6 Manchester City FC - 6 goals
+⏱️ Rate limiting: waiting 2903ms
+API Request: https://api.football-data.org/v4/matches/497629
+✅ Chelsea FC 3-1 Wolverhampton Wanderers FC - 4 goals
+⏱️ Rate limiting: waiting 2944ms
+API Request: https://api.football-data.org/v4/matches/497631
+✅ Liverpool FC 4-1 Ipswich Town FC - 5 goals
+⏱️ Rate limiting: waiting 2930ms
+API Request: https://api.football-data.org/v4/matches/497632
+✅ Wolverhampton Wanderers FC 0-1 Arsenal FC - 1 goals
+⏱️ Rate limiting: waiting 2976ms
+API Request: https://api.football-data.org/v4/matches/497633
+✅ Brighton & Hove Albion FC 0-1 Everton FC - 1 goals
+⏱️ Rate limiting: waiting 2990ms
+API Request: https://api.football-data.org/v4/matches/497634
+✅ Southampton FC 1-3 Newcastle United FC - 4 goals
+⏱️ Rate limiting: waiting 2936ms
+API Request: https://api.football-data.org/v4/matches/497635
+✅ AFC Bournemouth 5-0 Nottingham Forest FC - 5 goals
+⏱️ Rate limiting: waiting 2903ms
+API Request: https://api.football-data.org/v4/matches/497638
+✅ Manchester City FC 3-1 Chelsea FC - 4 goals
+⏱️ Rate limiting: waiting 2918ms
+API Request: https://api.football-data.org/v4/matches/497637
+✅ Crystal Palace FC 1-2 Brentford FC - 3 goals
+⏱️ Rate limiting: waiting 2942ms
+API Request: https://api.football-data.org/v4/matches/497639
+✅ Tottenham Hotspur FC 1-2 Leicester City FC - 3 goals
+⏱️ Rate limiting: waiting 2954ms
+API Request: https://api.football-data.org/v4/matches/497636
+✅ Aston Villa FC 1-1 West Ham United FC - 2 goals
+⏱️ Rate limiting: waiting 2958ms
+API Request: https://api.football-data.org/v4/matches/497630
+✅ Fulham FC 0-1 Manchester United FC - 1 goals
+⏱️ Rate limiting: waiting 2969ms
+API Request: https://api.football-data.org/v4/matches/497641
+🔄 Own goal: Lewis Dunk (Brighton & Hove Albion FC) → credited to opposing team
+✅ Nottingham Forest FC 7-0 Brighton & Hove Albion FC - 7 goals
+⏱️ Rate limiting: waiting 2907ms
+API Request: https://api.football-data.org/v4/matches/497643
+✅ Newcastle United FC 1-2 Fulham FC - 3 goals
+⏱️ Rate limiting: waiting 2945ms
+API Request: https://api.football-data.org/v4/matches/497644
+✅ Everton FC 4-0 Leicester City FC - 4 goals
+⏱️ Rate limiting: waiting 2945ms
+API Request: https://api.football-data.org/v4/matches/497645
+✅ AFC Bournemouth 0-2 Liverpool FC - 2 goals
+⏱️ Rate limiting: waiting 2956ms
+API Request: https://api.football-data.org/v4/matches/497647
+✅ Ipswich Town FC 1-2 Southampton FC - 3 goals
+⏱️ Rate limiting: waiting 2952ms
+API Request: https://api.football-data.org/v4/matches/497640
+✅ Wolverhampton Wanderers FC 2-0 Aston Villa FC - 2 goals
+⏱️ Rate limiting: waiting 2967ms
+API Request: https://api.football-data.org/v4/matches/497642
+✅ Manchester United FC 0-2 Crystal Palace FC - 2 goals
+⏱️ Rate limiting: waiting 2964ms
+API Request: https://api.football-data.org/v4/matches/497648
+🔄 Own goal: Vitaly Janelt (Brentford FC) → credited to opposing team
+✅ Brentford FC 0-2 Tottenham Hotspur FC - 2 goals
+⏱️ Rate limiting: waiting 2950ms
+API Request: https://api.football-data.org/v4/matches/497646
+✅ Arsenal FC 5-1 Manchester City FC - 6 goals
+⏱️ Rate limiting: waiting 2952ms
+API Request: https://api.football-data.org/v4/matches/497649
+🔄 Own goal: Aaron Wan-Bissaka (West Ham United FC) → credited to opposing team
+✅ Chelsea FC 2-1 West Ham United FC - 3 goals
+⏱️ Rate limiting: waiting 2975ms
+API Request: https://api.football-data.org/v4/matches/497553
+✅ Everton FC 2-2 Liverpool FC - 4 goals
+⏱️ Rate limiting: waiting 2960ms
+API Request: https://api.football-data.org/v4/matches/497653
+✅ Brighton & Hove Albion FC 3-0 Chelsea FC - 3 goals
+⏱️ Rate limiting: waiting 2962ms
+API Request: https://api.football-data.org/v4/matches/497651
+✅ Leicester City FC 0-2 Arsenal FC - 2 goals
+⏱️ Rate limiting: waiting 2982ms
+API Request: https://api.football-data.org/v4/matches/497650
+🔗 Last name + initial matched: Kamal Deen Sulemana → Kamaldeen Sulemana
+✅ Southampton FC 1-3 AFC Bournemouth - 4 goals
+⏱️ Rate limiting: waiting 2932ms
+API Request: https://api.football-data.org/v4/matches/497652
+✅ West Ham United FC 0-1 Brentford FC - 1 goals
+⏱️ Rate limiting: waiting 2990ms
+API Request: https://api.football-data.org/v4/matches/497655
+✅ Aston Villa FC 1-1 Ipswich Town FC - 2 goals
+⏱️ Rate limiting: waiting 2972ms
+API Request: https://api.football-data.org/v4/matches/497657
+✅ Manchester City FC 4-0 Newcastle United FC - 4 goals
+⏱️ Rate limiting: waiting 2971ms
+API Request: https://api.football-data.org/v4/matches/497658
+✅ Fulham FC 2-1 Nottingham Forest FC - 3 goals
+⏱️ Rate limiting: waiting 2972ms
+API Request: https://api.football-data.org/v4/matches/497654
+👤 Created new player: Carlos Alcaraz (no existing match found)
+✅ Crystal Palace FC 1-2 Everton FC - 3 goals
+⏱️ Rate limiting: waiting 2949ms
+API Request: https://api.football-data.org/v4/matches/497659
+✅ Liverpool FC 2-1 Wolverhampton Wanderers FC - 3 goals
+⏱️ Rate limiting: waiting 2975ms
+API Request: https://api.football-data.org/v4/matches/497656
+✅ Tottenham Hotspur FC 1-0 Manchester United FC - 1 goals
+⏱️ Rate limiting: waiting 2977ms
+API Request: https://api.football-data.org/v4/matches/497692
+✅ Aston Villa FC 2-2 Liverpool FC - 4 goals
+⏱️ Rate limiting: waiting 2969ms
+API Request: https://api.football-data.org/v4/matches/497660
+✅ Leicester City FC 0-4 Brentford FC - 4 goals
+⏱️ Rate limiting: waiting 2953ms
+API Request: https://api.football-data.org/v4/matches/497665
+✅ Everton FC 2-2 Manchester United FC - 4 goals
+⏱️ Rate limiting: waiting 2962ms
+API Request: https://api.football-data.org/v4/matches/497666
+✅ Ipswich Town FC 1-4 Tottenham Hotspur FC - 5 goals
+⏱️ Rate limiting: waiting 2942ms
+API Request: https://api.football-data.org/v4/matches/497667
+🔄 Own goal: Joachim Andersen (Fulham FC) → credited to opposing team
+✅ Fulham FC 0-2 Crystal Palace FC - 2 goals
+⏱️ Rate limiting: waiting 2983ms
+API Request: https://api.football-data.org/v4/matches/497668
+✅ Arsenal FC 0-1 West Ham United FC - 1 goals
+⏱️ Rate limiting: waiting 2966ms
+API Request: https://api.football-data.org/v4/matches/497669
+✅ AFC Bournemouth 0-1 Wolverhampton Wanderers FC - 1 goals
+⏱️ Rate limiting: waiting 2984ms
+API Request: https://api.football-data.org/v4/matches/497661
+✅ Southampton FC 0-4 Brighton & Hove Albion FC - 4 goals
+⏱️ Rate limiting: waiting 2970ms
+API Request: https://api.football-data.org/v4/matches/497662
+✅ Aston Villa FC 2-1 Chelsea FC - 3 goals
+⏱️ Rate limiting: waiting 2978ms
+API Request: https://api.football-data.org/v4/matches/497663
+✅ Newcastle United FC 4-3 Nottingham Forest FC - 7 goals
+⏱️ Rate limiting: waiting 2944ms
+API Request: https://api.football-data.org/v4/matches/497664
+✅ Manchester City FC 0-2 Liverpool FC - 2 goals
+⏱️ Rate limiting: waiting 2980ms
+API Request: https://api.football-data.org/v4/matches/497670
+✅ Brighton & Hove Albion FC 2-1 AFC Bournemouth - 3 goals
+⏱️ Rate limiting: waiting 2964ms
+API Request: https://api.football-data.org/v4/matches/497672
+✅ Crystal Palace FC 4-1 Aston Villa FC - 5 goals
+⏱️ Rate limiting: waiting 2936ms
+API Request: https://api.football-data.org/v4/matches/497674
+✅ Wolverhampton Wanderers FC 1-2 Fulham FC - 3 goals
+⏱️ Rate limiting: waiting 2975ms
+API Request: https://api.football-data.org/v4/matches/497678
+✅ Chelsea FC 4-0 Southampton FC - 4 goals
+⏱️ Rate limiting: waiting 2936ms
+API Request: https://api.football-data.org/v4/matches/497671
+📍 Nottingham Forest FC 0-0 Arsenal FC - no goals
+⏱️ Rate limiting: waiting 2997ms
+API Request: https://api.football-data.org/v4/matches/497673
+✅ Brentford FC 1-1 Everton FC - 2 goals
+⏱️ Rate limiting: waiting 2978ms
+API Request: https://api.football-data.org/v4/matches/497675
+✅ Tottenham Hotspur FC 0-1 Manchester City FC - 1 goals
+⏱️ Rate limiting: waiting 2978ms
+API Request: https://api.football-data.org/v4/matches/497677
+👤 Created new player: Jaden Philogene-Bidace (no existing match found)
+🔄 Own goal: Sam Morsy (Ipswich Town FC) → credited to opposing team
+✅ Manchester United FC 3-2 Ipswich Town FC - 5 goals
+⏱️ Rate limiting: waiting 2923ms
+API Request: https://api.football-data.org/v4/matches/497679
+✅ Liverpool FC 2-0 Newcastle United FC - 2 goals
+⏱️ Rate limiting: waiting 2980ms
+API Request: https://api.football-data.org/v4/matches/497676
+🔄 Own goal: Jannik Vestergaard (Leicester City FC) → credited to opposing team
+✅ West Ham United FC 2-0 Leicester City FC - 2 goals
+⏱️ Rate limiting: waiting 2978ms
+API Request: https://api.football-data.org/v4/matches/497687
+✅ Nottingham Forest FC 1-0 Manchester City FC - 1 goals
+⏱️ Rate limiting: waiting 2972ms
+API Request: https://api.football-data.org/v4/matches/497684
+✅ Brighton & Hove Albion FC 2-1 Fulham FC - 3 goals
+⏱️ Rate limiting: waiting 2961ms
+API Request: https://api.football-data.org/v4/matches/497685
+✅ Crystal Palace FC 1-0 Ipswich Town FC - 1 goals
+⏱️ Rate limiting: waiting 2988ms
+API Request: https://api.football-data.org/v4/matches/497688
+🔗 Last name + initial matched: William Smallbone → Will Smallbone
+✅ Liverpool FC 3-1 Southampton FC - 4 goals
+⏱️ Rate limiting: waiting 2923ms
+API Request: https://api.football-data.org/v4/matches/497682
+✅ Brentford FC 0-1 Aston Villa FC - 1 goals
+⏱️ Rate limiting: waiting 2982ms
+API Request: https://api.football-data.org/v4/matches/497683
+✅ Wolverhampton Wanderers FC 1-1 Everton FC - 2 goals
+⏱️ Rate limiting: waiting 2980ms
+API Request: https://api.football-data.org/v4/matches/497680
+✅ Tottenham Hotspur FC 2-2 AFC Bournemouth - 4 goals
+⏱️ Rate limiting: waiting 2963ms
+API Request: https://api.football-data.org/v4/matches/497689
+✅ Chelsea FC 1-0 Leicester City FC - 1 goals
+⏱️ Rate limiting: waiting 2972ms
+API Request: https://api.football-data.org/v4/matches/497681
+✅ Manchester United FC 1-1 Arsenal FC - 2 goals
+⏱️ Rate limiting: waiting 2984ms
+API Request: https://api.football-data.org/v4/matches/497686
+✅ West Ham United FC 0-1 Newcastle United FC - 1 goals
+⏱️ Rate limiting: waiting 2986ms
+API Request: https://api.football-data.org/v4/matches/497693
+✅ Everton FC 1-1 West Ham United FC - 2 goals
+⏱️ Rate limiting: waiting 2961ms
+API Request: https://api.football-data.org/v4/matches/497695
+✅ Ipswich Town FC 2-4 Nottingham Forest FC - 6 goals
+⏱️ Rate limiting: waiting 2951ms
+API Request: https://api.football-data.org/v4/matches/497697
+🔄 Own goal: Abdukodir Khusanov (Manchester City FC) → credited to opposing team
+✅ Manchester City FC 2-2 Brighton & Hove Albion FC - 4 goals
+⏱️ Rate limiting: waiting 2946ms
+API Request: https://api.football-data.org/v4/matches/497699
+✅ Southampton FC 1-2 Wolverhampton Wanderers FC - 3 goals
+⏱️ Rate limiting: waiting 2948ms
+API Request: https://api.football-data.org/v4/matches/497690
+🔄 Own goal: Vitaly Janelt (Brentford FC) → credited to opposing team
+✅ AFC Bournemouth 1-2 Brentford FC - 3 goals
+⏱️ Rate limiting: waiting 2973ms
+API Request: https://api.football-data.org/v4/matches/497691
+✅ Arsenal FC 1-0 Chelsea FC - 1 goals
+⏱️ Rate limiting: waiting 2990ms
+API Request: https://api.football-data.org/v4/matches/497694
+✅ Fulham FC 2-0 Tottenham Hotspur FC - 2 goals
+⏱️ Rate limiting: waiting 2959ms
+API Request: https://api.football-data.org/v4/matches/497696
+✅ Leicester City FC 0-3 Manchester United FC - 3 goals
+⏱️ Rate limiting: waiting 2960ms
+API Request: https://api.football-data.org/v4/matches/497701
+✅ Arsenal FC 2-1 Fulham FC - 3 goals
+⏱️ Rate limiting: waiting 2966ms
+API Request: https://api.football-data.org/v4/matches/497704
+✅ Wolverhampton Wanderers FC 1-0 West Ham United FC - 1 goals
+⏱️ Rate limiting: waiting 2987ms
+API Request: https://api.football-data.org/v4/matches/497703
+✅ Nottingham Forest FC 1-0 Manchester United FC - 1 goals
+⏱️ Rate limiting: waiting 2971ms
+API Request: https://api.football-data.org/v4/matches/497700
+✅ AFC Bournemouth 1-2 Ipswich Town FC - 3 goals
+⏱️ Rate limiting: waiting 2935ms
+API Request: https://api.football-data.org/v4/matches/497702
+✅ Brighton & Hove Albion FC 0-3 Aston Villa FC - 3 goals
+⏱️ Rate limiting: waiting 2942ms
+API Request: https://api.football-data.org/v4/matches/497706
+✅ Manchester City FC 2-0 Leicester City FC - 2 goals
+⏱️ Rate limiting: waiting 2968ms
+API Request: https://api.football-data.org/v4/matches/497707
+✅ Newcastle United FC 2-1 Brentford FC - 3 goals
+⏱️ Rate limiting: waiting 2966ms
+API Request: https://api.football-data.org/v4/matches/497708
+✅ Southampton FC 1-1 Crystal Palace FC - 2 goals
+⏱️ Rate limiting: waiting 2971ms
+API Request: https://api.football-data.org/v4/matches/497709
+✅ Liverpool FC 1-0 Everton FC - 1 goals
+⏱️ Rate limiting: waiting 2985ms
+API Request: https://api.football-data.org/v4/matches/497705
+✅ Chelsea FC 1-0 Tottenham Hotspur FC - 1 goals
+⏱️ Rate limiting: waiting 2988ms
+API Request: https://api.football-data.org/v4/matches/497713
+✅ Everton FC 1-1 Arsenal FC - 2 goals
+⏱️ Rate limiting: waiting 2979ms
+API Request: https://api.football-data.org/v4/matches/497712
+✅ Crystal Palace FC 2-1 Brighton & Hove Albion FC - 3 goals
+⏱️ Rate limiting: waiting 2960ms
+API Request: https://api.football-data.org/v4/matches/497715
+✅ Ipswich Town FC 1-2 Wolverhampton Wanderers FC - 3 goals
+⏱️ Rate limiting: waiting 2975ms
+API Request: https://api.football-data.org/v4/matches/497719
+✅ West Ham United FC 2-2 AFC Bournemouth - 4 goals
+⏱️ Rate limiting: waiting 2962ms
+API Request: https://api.football-data.org/v4/matches/497710
+✅ Aston Villa FC 2-1 Nottingham Forest FC - 3 goals
+⏱️ Rate limiting: waiting 2927ms
+API Request: https://api.football-data.org/v4/matches/497711
+📍 Brentford FC 0-0 Chelsea FC - no goals
+⏱️ Rate limiting: waiting 2996ms
+API Request: https://api.football-data.org/v4/matches/497714
+✅ Fulham FC 3-2 Liverpool FC - 5 goals
+⏱️ Rate limiting: waiting 2930ms
+API Request: https://api.football-data.org/v4/matches/497718
+✅ Tottenham Hotspur FC 3-1 Southampton FC - 4 goals
+⏱️ Rate limiting: waiting 2937ms
+API Request: https://api.football-data.org/v4/matches/497717
+📍 Manchester United FC 0-0 Manchester City FC - no goals
+⏱️ Rate limiting: waiting 2997ms
+API Request: https://api.football-data.org/v4/matches/497716
+✅ Leicester City FC 0-3 Newcastle United FC - 3 goals
+⏱️ Rate limiting: waiting 2957ms
+API Request: https://api.football-data.org/v4/matches/497725
+✅ Manchester City FC 5-2 Crystal Palace FC - 7 goals
+⏱️ Rate limiting: waiting 2900ms
+API Request: https://api.football-data.org/v4/matches/497722
+✅ Brighton & Hove Albion FC 2-2 Leicester City FC - 4 goals
+⏱️ Rate limiting: waiting 2946ms
+API Request: https://api.football-data.org/v4/matches/497727
+✅ Nottingham Forest FC 0-1 Everton FC - 1 goals
+⏱️ Rate limiting: waiting 2979ms
+API Request: https://api.football-data.org/v4/matches/497728
+✅ Southampton FC 0-3 Aston Villa FC - 3 goals
+⏱️ Rate limiting: waiting 2949ms
+API Request: https://api.football-data.org/v4/matches/497721
+✅ Arsenal FC 1-1 Brentford FC - 2 goals
+⏱️ Rate limiting: waiting 2981ms
+API Request: https://api.football-data.org/v4/matches/497723
+👤 Created new player: Ben Johnson (no existing match found)
+🔄 Own goal: Axel Tuanzebe (Ipswich Town FC) → credited to opposing team
+✅ Chelsea FC 2-2 Ipswich Town FC - 4 goals
+⏱️ Rate limiting: waiting 2910ms
+API Request: https://api.football-data.org/v4/matches/497724
+🔄 Own goal: Andrew Robertson (Liverpool FC) → credited to opposing team
+✅ Liverpool FC 2-1 West Ham United FC - 3 goals
+⏱️ Rate limiting: waiting 2961ms
+API Request: https://api.football-data.org/v4/matches/497729
+🔄 Own goal: Djed Spence (Tottenham Hotspur FC) → credited to opposing team
+✅ Wolverhampton Wanderers FC 4-2 Tottenham Hotspur FC - 6 goals
+⏱️ Rate limiting: waiting 2909ms
+API Request: https://api.football-data.org/v4/matches/497726
+✅ Newcastle United FC 4-1 Manchester United FC - 5 goals
+⏱️ Rate limiting: waiting 2960ms
+API Request: https://api.football-data.org/v4/matches/497720
+✅ AFC Bournemouth 1-0 Fulham FC - 1 goals
+⏱️ Rate limiting: waiting 2989ms
+API Request: https://api.football-data.org/v4/matches/497698
+🔄 Own goal: Marc Guéhi (Crystal Palace FC) → credited to opposing team
+✅ Newcastle United FC 5-0 Crystal Palace FC - 5 goals
+⏱️ Rate limiting: waiting 2948ms
+API Request: https://api.football-data.org/v4/matches/497731
+✅ Brentford FC 4-2 Brighton & Hove Albion FC - 6 goals
+⏱️ Rate limiting: waiting 2947ms
+API Request: https://api.football-data.org/v4/matches/497732
+📍 Crystal Palace FC 0-0 AFC Bournemouth - no goals
+⏱️ Rate limiting: waiting 2994ms
+API Request: https://api.football-data.org/v4/matches/497733
+✅ Everton FC 0-2 Manchester City FC - 2 goals
+⏱️ Rate limiting: waiting 2970ms
+API Request: https://api.football-data.org/v4/matches/497739
+✅ West Ham United FC 1-1 Southampton FC - 2 goals
+⏱️ Rate limiting: waiting 2979ms
+API Request: https://api.football-data.org/v4/matches/497730
+🔄 Own goal: Dan Burn (Newcastle United FC) → credited to opposing team
+✅ Aston Villa FC 4-1 Newcastle United FC - 5 goals
+⏱️ Rate limiting: waiting 2941ms
+API Request: https://api.football-data.org/v4/matches/497734
+✅ Fulham FC 1-2 Chelsea FC - 3 goals
+⏱️ Rate limiting: waiting 2952ms
+API Request: https://api.football-data.org/v4/matches/497735
+✅ Ipswich Town FC 0-4 Arsenal FC - 4 goals
+⏱️ Rate limiting: waiting 2964ms
+API Request: https://api.football-data.org/v4/matches/497737
+✅ Manchester United FC 0-1 Wolverhampton Wanderers FC - 1 goals
+⏱️ Rate limiting: waiting 2979ms
+API Request: https://api.football-data.org/v4/matches/497736
+✅ Leicester City FC 0-1 Liverpool FC - 1 goals
+⏱️ Rate limiting: waiting 2989ms
+API Request: https://api.football-data.org/v4/matches/497738
+✅ Tottenham Hotspur FC 1-2 Nottingham Forest FC - 3 goals
+⏱️ Rate limiting: waiting 2956ms
+API Request: https://api.football-data.org/v4/matches/497745
+✅ Manchester City FC 2-1 Aston Villa FC - 3 goals
+⏱️ Rate limiting: waiting 2727ms
+API Request: https://api.football-data.org/v4/matches/497741
+✅ Arsenal FC 2-2 Crystal Palace FC - 4 goals
+⏱️ Rate limiting: waiting 2938ms
+API Request: https://api.football-data.org/v4/matches/497743
+✅ Chelsea FC 1-0 Everton FC - 1 goals
+⏱️ Rate limiting: waiting 2971ms
+API Request: https://api.football-data.org/v4/matches/497742
+✅ Brighton & Hove Albion FC 3-2 West Ham United FC - 5 goals
+⏱️ Rate limiting: waiting 2923ms
+API Request: https://api.football-data.org/v4/matches/497746
+✅ Newcastle United FC 3-0 Ipswich Town FC - 3 goals
+⏱️ Rate limiting: waiting 2929ms
+API Request: https://api.football-data.org/v4/matches/497748
+✅ Southampton FC 1-2 Fulham FC - 3 goals
+⏱️ Rate limiting: waiting 2956ms
+API Request: https://api.football-data.org/v4/matches/497749
+✅ Wolverhampton Wanderers FC 3-0 Leicester City FC - 3 goals
+⏱️ Rate limiting: waiting 2960ms
+API Request: https://api.football-data.org/v4/matches/497740
+✅ AFC Bournemouth 1-1 Manchester United FC - 2 goals
+⏱️ Rate limiting: waiting 2956ms
+API Request: https://api.football-data.org/v4/matches/497744
+🔄 Own goal: Destiny Udogie (Tottenham Hotspur FC) → credited to opposing team
+✅ Liverpool FC 5-1 Tottenham Hotspur FC - 6 goals
+⏱️ Rate limiting: waiting 2951ms
+API Request: https://api.football-data.org/v4/matches/497747
+✅ Nottingham Forest FC 0-2 Brentford FC - 2 goals
+⏱️ Rate limiting: waiting 2976ms
+API Request: https://api.football-data.org/v4/matches/497758
+✅ Manchester City FC 1-0 Wolverhampton Wanderers FC - 1 goals
+⏱️ Rate limiting: waiting 2989ms
+API Request: https://api.football-data.org/v4/matches/497751
+✅ Aston Villa FC 1-0 Fulham FC - 1 goals
+⏱️ Rate limiting: waiting 2990ms
+API Request: https://api.football-data.org/v4/matches/497756
+✅ Everton FC 2-2 Ipswich Town FC - 4 goals
+⏱️ Rate limiting: waiting 2961ms
+API Request: https://api.football-data.org/v4/matches/497757
+✅ Leicester City FC 2-0 Southampton FC - 2 goals
+⏱️ Rate limiting: waiting 2981ms
+API Request: https://api.football-data.org/v4/matches/497750
+✅ Arsenal FC 1-2 AFC Bournemouth - 3 goals
+⏱️ Rate limiting: waiting 2973ms
+API Request: https://api.football-data.org/v4/matches/497752
+🔄 Own goal: Luke Shaw (Manchester United FC) → credited to opposing team
+✅ Brentford FC 4-3 Manchester United FC - 7 goals
+⏱️ Rate limiting: waiting 2948ms
+API Request: https://api.football-data.org/v4/matches/497753
+✅ Brighton & Hove Albion FC 1-1 Newcastle United FC - 2 goals
+⏱️ Rate limiting: waiting 2976ms
+API Request: https://api.football-data.org/v4/matches/497759
+✅ West Ham United FC 1-1 Tottenham Hotspur FC - 2 goals
+⏱️ Rate limiting: waiting 2955ms
+API Request: https://api.football-data.org/v4/matches/497754
+🔄 Own goal: Jarell Quansah (Liverpool FC) → credited to opposing team
+✅ Chelsea FC 3-1 Liverpool FC - 4 goals
+⏱️ Rate limiting: waiting 2968ms
+API Request: https://api.football-data.org/v4/matches/497755
+✅ Crystal Palace FC 1-1 Nottingham Forest FC - 2 goals
+⏱️ Rate limiting: waiting 2979ms
+API Request: https://api.football-data.org/v4/matches/497761
+✅ Fulham FC 1-3 Everton FC - 4 goals
+⏱️ Rate limiting: waiting 2951ms
+API Request: https://api.football-data.org/v4/matches/497762
+✅ Ipswich Town FC 0-1 Brentford FC - 1 goals
+⏱️ Rate limiting: waiting 2990ms
+API Request: https://api.football-data.org/v4/matches/497767
+📍 Southampton FC 0-0 Manchester City FC - no goals
+⏱️ Rate limiting: waiting 2997ms
+API Request: https://api.football-data.org/v4/matches/497769
+✅ Wolverhampton Wanderers FC 0-2 Brighton & Hove Albion FC - 2 goals
+⏱️ Rate limiting: waiting 2968ms
+API Request: https://api.football-data.org/v4/matches/497760
+✅ AFC Bournemouth 0-1 Aston Villa FC - 1 goals
+⏱️ Rate limiting: waiting 2984ms
+API Request: https://api.football-data.org/v4/matches/497765
+✅ Newcastle United FC 2-0 Chelsea FC - 2 goals
+⏱️ Rate limiting: waiting 2965ms
+API Request: https://api.football-data.org/v4/matches/497764
+✅ Manchester United FC 0-2 West Ham United FC - 2 goals
+⏱️ Rate limiting: waiting 2980ms
+API Request: https://api.football-data.org/v4/matches/497766
+✅ Nottingham Forest FC 2-2 Leicester City FC - 4 goals
+⏱️ Rate limiting: waiting 2967ms
+API Request: https://api.football-data.org/v4/matches/497768
+✅ Tottenham Hotspur FC 0-2 Crystal Palace FC - 2 goals
+⏱️ Rate limiting: waiting 2962ms
+API Request: https://api.football-data.org/v4/matches/497763
+✅ Liverpool FC 2-2 Arsenal FC - 4 goals
+⏱️ Rate limiting: waiting 2941ms
+API Request: https://api.football-data.org/v4/matches/497771
+✅ Aston Villa FC 2-0 Tottenham Hotspur FC - 2 goals
+⏱️ Rate limiting: waiting 2981ms
+API Request: https://api.football-data.org/v4/matches/497774
+✅ Chelsea FC 1-0 Manchester United FC - 1 goals
+⏱️ Rate limiting: waiting 2972ms
+API Request: https://api.football-data.org/v4/matches/497776
+✅ Everton FC 2-0 Southampton FC - 2 goals
+⏱️ Rate limiting: waiting 2981ms
+API Request: https://api.football-data.org/v4/matches/497779
+✅ West Ham United FC 1-2 Nottingham Forest FC - 3 goals
+⏱️ Rate limiting: waiting 2974ms
+API Request: https://api.football-data.org/v4/matches/497772
+✅ Brentford FC 2-3 Fulham FC - 5 goals
+⏱️ Rate limiting: waiting 2963ms
+API Request: https://api.football-data.org/v4/matches/497777
+✅ Leicester City FC 2-0 Ipswich Town FC - 2 goals
+⏱️ Rate limiting: waiting 2985ms
+API Request: https://api.football-data.org/v4/matches/497770
+✅ Arsenal FC 1-0 Newcastle United FC - 1 goals
+⏱️ Rate limiting: waiting 2979ms
+API Request: https://api.football-data.org/v4/matches/497773
+✅ Brighton & Hove Albion FC 3-2 Liverpool FC - 5 goals
+⏱️ Rate limiting: waiting 2968ms
+API Request: https://api.football-data.org/v4/matches/497775
+✅ Crystal Palace FC 4-2 Wolverhampton Wanderers FC - 6 goals
+⏱️ Rate limiting: waiting 2944ms
+API Request: https://api.football-data.org/v4/matches/497778
+✅ Manchester City FC 3-1 AFC Bournemouth - 4 goals
+⏱️ Rate limiting: waiting 2971ms
+API Request: https://api.football-data.org/v4/matches/497780
+✅ AFC Bournemouth 2-0 Leicester City FC - 2 goals
+⏱️ Rate limiting: waiting 2981ms
+API Request: https://api.football-data.org/v4/matches/497781
+✅ Fulham FC 0-2 Manchester City FC - 2 goals
+⏱️ Rate limiting: waiting 2966ms
+API Request: https://api.football-data.org/v4/matches/497782
+✅ Ipswich Town FC 1-3 West Ham United FC - 4 goals
+⏱️ Rate limiting: waiting 2955ms
+API Request: https://api.football-data.org/v4/matches/497783
+✅ Liverpool FC 1-1 Crystal Palace FC - 2 goals
+⏱️ Rate limiting: waiting 2982ms
+API Request: https://api.football-data.org/v4/matches/497784
+✅ Manchester United FC 2-0 Aston Villa FC - 2 goals
+⏱️ Rate limiting: waiting 2984ms
+API Request: https://api.football-data.org/v4/matches/497785
+✅ Newcastle United FC 0-1 Everton FC - 1 goals
+⏱️ Rate limiting: waiting 2987ms
+API Request: https://api.football-data.org/v4/matches/497786
+✅ Nottingham Forest FC 0-1 Chelsea FC - 1 goals
+⏱️ Rate limiting: waiting 2988ms
+API Request: https://api.football-data.org/v4/matches/497787
+✅ Southampton FC 1-2 Arsenal FC - 3 goals
+⏱️ Rate limiting: waiting 2956ms
+API Request: https://api.football-data.org/v4/matches/497788
+✅ Tottenham Hotspur FC 1-4 Brighton & Hove Albion FC - 5 goals
+⏱️ Rate limiting: waiting 2920ms
+API Request: https://api.football-data.org/v4/matches/497789
+✅ Wolverhampton Wanderers FC 1-1 Brentford FC - 2 goals
+\n🎉 IMPORT COMPLETE!
+📈 API matches found: 380
+🔗 Database matches matched: 380
+✅ Matches processed: 380
+❌ Failed matches: 0
+⚽ Goals imported: 1115
+🎯 Data source: football-data.org (verified professional data)
+\n🔍 VALIDATION REPORT FOR 2024/25
+========================================
+📊 STATISTICS:
+   Total matches: 1128
+   Expected goals: 4254
+   Imported goals: 1112
+   Completeness: 26.1%
+\nSample matches with imported goals:
+⚠️ Manchester United 1-0 Fulham | Expected: 1, Imported: 1
+⚠️ Ipswich Town 0-2 Liverpool | Expected: 2, Imported: 2
+⚠️ Everton 0-3 Brighton & Hove Albion | Expected: 3, Imported: 3
+⚠️ Nottingham Forest 1-1 Bournemouth | Expected: 2, Imported: 2
+⚠️ Newcastle United 1-0 Southampton | Expected: 1, Imported: 1
+⚠️ Arsenal 2-0 Wolverhampton Wanderers | Expected: 2, Imported: 2
+⚠️ West Ham United 1-2 Aston Villa | Expected: 3, Imported: 3
+⚠️ Chelsea 0-2 Manchester City | Expected: 2, Imported: 2
+⚠️ Brentford 2-1 Crystal Palace | Expected: 3, Imported: 3
+⚠️ Leicester City 1-1 Tottenham | Expected: 2, Imported: 2
+\n❌ Poor quality - major issues detected

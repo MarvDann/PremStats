@@ -3,6 +3,13 @@ export default {
   content: [
     './src/**/*.{js,jsx,ts,tsx}'
   ],
+  safelist: [
+    'stats-card-primary',
+    'stats-card-elevated',
+    'stats-card-success',
+    'stats-card-warning',
+    'stats-card-danger'
+  ],
   theme: {
     extend: {
       colors: {
