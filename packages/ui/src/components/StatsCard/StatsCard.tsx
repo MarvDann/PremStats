@@ -3,20 +3,20 @@ import { tv } from 'tailwind-variants'
 import { cn } from '../../utils/cn'
 
 const statsCardVariants = tv({
-  base: 'relative overflow-hidden rounded-lg border transition-all duration-200 hover:shadow-md',
+  base: 'relative overflow-hidden rounded-lg border transition-all duration-200 hover:shadow-md text-center',
   variants: {
     variant: {
       default: 'bg-[hsl(var(--card))] border-[hsl(var(--border))] shadow-sm',
-      secondary: 'bg-[var(--table-europa-conference-bg)] border-[var(--table-europa-conference-border)] shadow-sm',
-      primary: 'bg-gradient-to-br from-purple-50 to-purple-100 border-purple-200 dark:from-purple-950/30 dark:to-purple-900/20 dark:border-purple-800/30',
-      success: 'bg-gradient-to-br from-green-50 to-green-100 border-green-200 dark:from-green-950/30 dark:to-green-900/20 dark:border-green-800/30',
-      warning: 'bg-gradient-to-br from-amber-50 to-amber-100 border-amber-200 dark:from-amber-950/30 dark:to-amber-900/20 dark:border-amber-800/30',
-      danger: 'bg-gradient-to-br from-red-50 to-red-100 border-red-200 dark:from-red-950/30 dark:to-red-900/20 dark:border-red-800/30'
+      secondary: 'bg-[var(--color-table-europa-conference-bg)] border-[var(--color-table-europa-conference-border)] shadow-sm',
+      primary: 'bg-[hsl(var(--primary)/0.1)] border-[hsl(var(--primary)/0.2)]',
+      success: 'bg-[hsl(var(--success)/0.1)] border-[hsl(var(--success)/0.2)]',
+      warning: 'bg-[hsl(var(--warning)/0.1)] border-[hsl(var(--warning)/0.2)]',
+      danger: 'bg-[hsl(var(--destructive)/0.1)] border-[hsl(var(--destructive)/0.2)]'
     },
     size: {
-      sm: 'p-4',
+      sm: 'p-3',
       md: 'p-6', 
-      lg: 'p-8'
+      lg: 'p-6'
     }
   },
   defaultVariants: {

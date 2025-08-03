@@ -19,7 +19,40 @@
 }
 
 @layer utilities {
-  /* Text color utilities using CSS variables */
+  /* New standardized variable utilities */
+  .text-color-foreground {
+    color: var(--color-foreground);
+  }
+  
+  .text-color-muted-foreground {
+    color: var(--color-muted-foreground);
+  }
+  
+  .text-color-primary-foreground {
+    color: var(--color-primary-foreground);
+  }
+  
+  .text-color-secondary-foreground {
+    color: var(--color-secondary-foreground);
+  }
+  
+  .text-color-accent-foreground {
+    color: var(--color-accent-foreground);
+  }
+  
+  .text-color-destructive-foreground {
+    color: var(--color-destructive-foreground);
+  }
+  
+  .text-color-success-foreground {
+    color: var(--color-success-foreground);
+  }
+  
+  .text-color-warning-foreground {
+    color: var(--color-warning-foreground);
+  }
+
+  /* Legacy utilities using HSL (keeping for compatibility) */
   .text-foreground {
     color: hsl(var(--foreground));
   }

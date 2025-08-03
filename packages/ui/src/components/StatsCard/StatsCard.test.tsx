@@ -62,7 +62,7 @@ describe('StatsCard', () => {
     ))
     
     const card = screen.getByTestId('stats-card')
-    expect(card).toHaveClass('[&]:bg-[hsl(var(--success)/0.1)]', '[&]:border-[hsl(var(--success)/0.2)]')
+    expect(card).toHaveClass('bg-[hsl(var(--success)/0.1)]', 'border-[hsl(var(--success)/0.2)]')
   })
 
   it('applies warning variant styling', () => {
@@ -76,7 +76,7 @@ describe('StatsCard', () => {
     ))
     
     const card = screen.getByTestId('stats-card')
-    expect(card).toHaveClass('[&]:bg-[hsl(var(--warning)/0.1)]', '[&]:border-[hsl(var(--warning)/0.2)]')
+    expect(card).toHaveClass('bg-[hsl(var(--warning)/0.1)]', 'border-[hsl(var(--warning)/0.2)]')
   })
 
   it('applies danger variant styling', () => {
@@ -90,7 +90,7 @@ describe('StatsCard', () => {
     ))
     
     const card = screen.getByTestId('stats-card')
-    expect(card).toHaveClass('[&]:bg-[hsl(var(--destructive)/0.1)]', '[&]:border-[hsl(var(--destructive)/0.2)]')
+    expect(card).toHaveClass('bg-[hsl(var(--destructive)/0.1)]', 'border-[hsl(var(--destructive)/0.2)]')
   })
 
   it('applies small size styling', () => {

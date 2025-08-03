@@ -113,7 +113,7 @@ describe('DataTable', () => {
     ))
 
     const table = screen.getByTestId('table')
-    expect(table).toHaveClass('[&_tbody_tr:nth-child(odd)]:bg-muted/50')
+    expect(table).toHaveClass('[&_tbody_tr:nth-child(odd)]:bg-[hsl(var(--muted)/0.5)]')
   })
 
   it('shows sort icons when sortable', () => {
