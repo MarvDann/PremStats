@@ -61,7 +61,7 @@ cd PremStats
 
 2. Run the setup script:
 ```bash
-./scripts/setup.sh
+./scripts/dev/setup.sh
 ```
 
 3. Start the development environment:
@@ -155,7 +155,7 @@ docker-compose exec api go run ./cmd/migrate up
 ```bash
 # Complete test suite
 pnpm lint          # ESLint checks (all packages)
-pnpm typecheck     # TypeScript validation  
+pnpm typecheck     # TypeScript validation
 pnpm test:unit     # 122 UI component tests
 pnpm test:e2e      # 99 E2E tests (including theme system)
 ```
@@ -166,7 +166,7 @@ pnpm test:e2e      # 99 E2E tests (including theme system)
 pnpm --filter @premstats/ui test:unit      # UI components only
 pnpm --filter @premstats/web test:unit     # Frontend only
 
-# E2E Tests  
+# E2E Tests
 pnpm exec playwright test --project=chromium  # Single browser
 pnpm exec playwright test tests/e2e/theme.spec.ts  # Theme tests
 
@@ -228,7 +228,7 @@ query {
 
 The UI package provides fully themeable components with dark/light mode support:
 
-- `DataTable` - Sortable, filterable tables  
+- `DataTable` - Sortable, filterable tables
 - `StatsCard` - Statistics display cards
 - `Card` - Content containers with theme variants
 - `Button` - Interactive buttons with focus states
@@ -238,7 +238,7 @@ The UI package provides fully themeable components with dark/light mode support:
 
 **Theme System Features:**
 - 🌓 Automatic dark/light mode detection
-- 💾 User preference persistence  
+- 💾 User preference persistence
 - 🎨 CSS variables for complete customization
 - 📱 Mobile-responsive theme controls
 

@@ -6,12 +6,12 @@ The PremStats database is designed to store comprehensive Premier League histori
 
 ## Database Statistics
 
-- **Total Matches**: 12,786 (33 complete seasons)
-- **Teams**: 51 (all teams that have played in Premier League)
-- **Players**: 944 (with current team tracking)
-- **Seasons**: 1992/93 to 2024/25 (33 seasons with data)
+- **Total Matches**: 12,786+ (33 complete seasons)
+- **Teams**: 51+ (all teams that have played in Premier League)
+- **Players**: 944+ (with current team tracking)
+- **Seasons**: 1992/93 to 2024/25 (33+ seasons with data)
 - **Database Engine**: PostgreSQL 16
-- **Last Updated**: 2025-01-12
+- **Last Updated**: 2025-08-03
 
 ## Schema Diagram
 
@@ -54,6 +54,20 @@ erDiagram
         varchar referee "nullable"
         int attendance "nullable"
         int external_id UK "nullable"
+        int home_shots "nullable"
+        int away_shots "nullable"
+        int home_shots_on_target "nullable"
+        int away_shots_on_target "nullable"
+        int home_corners "nullable"
+        int away_corners "nullable"
+        int home_fouls "nullable"
+        int away_fouls "nullable"
+        int home_yellow_cards "nullable"
+        int away_yellow_cards "nullable"
+        int home_red_cards "nullable"
+        int away_red_cards "nullable"
+        decimal home_possession "nullable"
+        decimal away_possession "nullable"
         timestamp created_at
         timestamp updated_at
     }
@@ -133,12 +147,46 @@ erDiagram
         varchar detail "nullable"
         timestamp created_at
     }
+    
+    DATA_INTEGRITY_CHECKS {
+        int id PK
+        varchar check_type
+        int season_id FK "nullable"
+        timestamp check_date "default now()"
+        varchar status
+        jsonb details "nullable"
+        int issues_found "default 0"
+        int issues_resolved "default 0"
+    }
+    
+    PROCESSING_LOCKS {
+        int id PK
+        int season_id FK "nullable"
+        varchar process_name
+        varchar locked_by
+        timestamp locked_at "default now()"
+        varchar status "default 'active'"
+        text notes "nullable"
+    }
+    
+    TEAM_NAMES_LOOKUP {
+        int id PK
+        int team_id FK
+        varchar canonical_name
+        varchar alternative_name
+        varchar name_type
+        varchar source "nullable"
+        int confidence_score "default 100"
+        timestamp created_at "default now()"
+    }
 
     %% Relationships
     SEASONS ||--o{ MATCHES : "has"
     SEASONS ||--o{ STANDINGS : "has"
     SEASONS ||--o{ PLAYER_STATS : "has"
     SEASONS ||--o{ TEAM_SEASONS : "has"
+    SEASONS ||--o{ DATA_INTEGRITY_CHECKS : "monitored_by"
+    SEASONS ||--o{ PROCESSING_LOCKS : "locked_for"
     
     TEAMS ||--o{ MATCHES : "home_team"
     TEAMS ||--o{ MATCHES : "away_team"
@@ -146,6 +194,7 @@ erDiagram
     TEAMS ||--o{ STANDINGS : "appears_in"
     TEAMS ||--o{ PLAYER_STATS : "employs"
     TEAMS ||--o{ TEAM_SEASONS : "participates"
+    TEAMS ||--o{ TEAM_NAMES_LOOKUP : "has_aliases"
     
     MATCHES ||--o{ GOALS : "contains"
     MATCHES ||--o{ MATCH_EVENTS : "contains"
@@ -210,6 +259,22 @@ Historical match results and fixture data.
 | `referee` | `varchar(100)` | NULLABLE | Match referee |
 | `attendance` | `integer` | NULLABLE | Stadium attendance |
 | `external_id` | `integer` | UNIQUE, NULLABLE | External API reference |
+| `home_shots` | `integer` | NULLABLE | Home team total shots |
+| `away_shots` | `integer` | NULLABLE | Away team total shots |
+| `home_shots_on_target` | `integer` | NULLABLE | Home team shots on target |
+| `away_shots_on_target` | `integer` | NULLABLE | Away team shots on target |
+| `home_corners` | `integer` | NULLABLE | Home team corner kicks |
+| `away_corners` | `integer` | NULLABLE | Away team corner kicks |
+| `home_fouls` | `integer` | NULLABLE | Home team fouls committed |
+| `away_fouls` | `integer` | NULLABLE | Away team fouls committed |
+| `home_yellow_cards` | `integer` | NULLABLE | Home team yellow cards |
+| `away_yellow_cards` | `integer` | NULLABLE | Away team yellow cards |
+| `home_red_cards` | `integer` | NULLABLE | Home team red cards |
+| `away_red_cards` | `integer` | NULLABLE | Away team red cards |
+| `home_possession` | `decimal(4,1)` | NULLABLE | Home team possession percentage |
+| `away_possession` | `decimal(4,1)` | NULLABLE | Away team possession percentage |
+| `created_at` | `timestamp` | DEFAULT NOW() | Record creation time |
+| `updated_at` | `timestamp` | DEFAULT NOW() | Last update time |
 
 **Indexes**: 
 - `idx_matches_date` on `match_date`
@@ -253,10 +318,13 @@ Individual goal events within matches.
 | `minute` | `integer` | NOT NULL | Minute goal was scored |
 | `is_own_goal` | `boolean` | DEFAULT false | Own goal flag |
 | `is_penalty` | `boolean` | DEFAULT false | Penalty goal flag |
+| `created_at` | `timestamp` | DEFAULT NOW() | Record creation time |
 
 **Indexes**:
 - `idx_goals_match` on `match_id`
 - `idx_goals_player` on `player_id`
+
+**Unique Constraint**: `(match_id, player_id, minute, team_id, is_own_goal)` - Prevents duplicate goal records
 
 ### Player & Team Management
 
@@ -329,6 +397,111 @@ Detailed in-match events and occurrences.
 
 **Data Coverage**: Schema ready for comprehensive match event tracking
 
+### Operational & Data Quality Tables
+
+#### `data_integrity_checks`
+System for tracking data quality checks and issues across seasons.
+
+| Column | Type | Constraints | Description |
+|--------|------|-------------|-------------|
+| `id` | `integer` | PRIMARY KEY | Auto-increment check ID |
+| `check_type` | `varchar(100)` | NOT NULL | Type of integrity check performed |
+| `season_id` | `integer` | FOREIGN KEY, NULLABLE | Season being checked (null for global checks) |
+| `check_date` | `timestamp` | DEFAULT NOW() | When check was performed |
+| `status` | `varchar(50)` | NOT NULL | Check result status |
+| `details` | `jsonb` | NULLABLE | Detailed results in JSON format |
+| `issues_found` | `integer` | DEFAULT 0 | Number of issues detected |
+| `issues_resolved` | `integer` | DEFAULT 0 | Number of issues fixed |
+
+**Data Coverage**: Real-time data quality monitoring for all seasons
+
+#### `processing_locks`
+Prevents concurrent data processing operations and tracks system state.
+
+| Column | Type | Constraints | Description |
+|--------|------|-------------|-------------|
+| `id` | `integer` | PRIMARY KEY | Auto-increment lock ID |
+| `season_id` | `integer` | FOREIGN KEY, NULLABLE | Season being processed (null for global locks) |
+| `process_name` | `varchar(255)` | NOT NULL | Name of the processing operation |
+| `locked_by` | `varchar(255)` | NOT NULL | Identifier of the process/user |
+| `locked_at` | `timestamp` | DEFAULT NOW() | When lock was acquired |
+| `status` | `varchar(50)` | DEFAULT 'active' | Lock status |
+| `notes` | `text` | NULLABLE | Additional processing notes |
+
+**Unique Constraint**: `(season_id, process_name)`
+
+#### `team_names_lookup`
+Maps alternative team names to canonical team entries for data import.
+
+| Column | Type | Constraints | Description |
+|--------|------|-------------|-------------|
+| `id` | `integer` | PRIMARY KEY | Auto-increment lookup ID |
+| `team_id` | `integer` | FOREIGN KEY | Reference to canonical team |
+| `canonical_name` | `varchar(100)` | NOT NULL | Official team name |
+| `alternative_name` | `varchar(100)` | NOT NULL | Alternative name or alias |
+| `name_type` | `varchar(50)` | NOT NULL | Type of alternative name |
+| `source` | `varchar(100)` | NULLABLE | Source where alternative name appears |
+| `confidence_score` | `integer` | DEFAULT 100 | Confidence in name mapping (0-100) |
+| `created_at` | `timestamp` | DEFAULT NOW() | Record creation time |
+
+**Indexes**:
+- `idx_team_names_lookup_alternative` on `lower(alternative_name)`
+- `idx_team_names_lookup_team_id` on `team_id`
+
+**Unique Constraint**: `(team_id, alternative_name)`
+
+**Data Coverage**: Comprehensive name mapping for all data sources and historical team names
+
+### Database Views
+
+#### `match_goals`
+Convenience view that combines goal events with match and player information.
+
+**Columns**:
+- `id` - Match event ID
+- `match_id` - Match reference
+- `minute` - Goal minute
+- `scorer_name` - Player name who scored
+- `team_name` - Scoring team name  
+- `event_type` - Type of goal (goal, own_goal, penalty)
+- `match_date` - When the match occurred
+- `home_team` - Home team name
+- `away_team` - Away team name
+- `home_score` - Final home score
+- `away_score` - Final away score
+
+**Purpose**: Simplified querying of goal events with denormalized team and player names
+
+### Database Functions
+
+#### `calculate_table_at_date(season_id, as_of_date)`
+Calculates league table standings for any point in time within a season.
+
+**Parameters**:
+- `season_id_param` (integer) - Season to calculate table for
+- `as_of_date` (date) - Calculate table as of this date
+
+**Returns**: Table with columns: pos, team_id, team_name, played, won, drawn, lost, goals_for, goals_against, goal_difference, points, form
+
+**Purpose**: Historical league table analysis and generating tables at specific dates
+
+#### `get_match_details(match_id)`
+Retrieves comprehensive match information including goal events.
+
+**Parameters**:
+- `match_id_param` (integer) - Match to get details for
+
+**Returns**: Table with match details including goals as JSON array
+
+**Purpose**: Complete match analysis with embedded goal event data
+
+#### Processing Lock Functions
+- `acquire_season_lock(season_year, process_name, locked_by)` - Acquire processing lock
+- `release_season_lock(season_year, process_name)` - Release processing lock  
+- `is_season_processing_locked(season_year, process_name)` - Check lock status
+
+**Purpose**: Prevent concurrent data processing operations on the same season
+
 ## Key Relationships
 
 ### Primary Relationships
@@ -343,6 +516,11 @@ Detailed in-match events and occurrences.
 - **Seasons → Standings**: One-to-many (season has league table entries)
 - **Teams → Standings**: One-to-many (team appears in multiple season tables)
 - **Players → Player Stats**: One-to-many (player has stats for multiple seasons)
+
+### Operational Relationships
+- **Seasons → Data Integrity Checks**: One-to-many (seasons are monitored for data quality)
+- **Seasons → Processing Locks**: One-to-many (seasons can be locked during processing)
+- **Teams → Team Names Lookup**: One-to-many (teams have multiple name aliases)
 
 ## Database Triggers
 
