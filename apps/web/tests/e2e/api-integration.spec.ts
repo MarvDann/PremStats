@@ -5,7 +5,7 @@ test.describe('API Integration', () => {
     // Check API health endpoint
     const apiHealthResponse = await page.request.get('http://localhost:8081/api/v1/health')
     expect(apiHealthResponse.ok()).toBeTruthy()
-    
+
     const healthData = await apiHealthResponse.json()
     expect(healthData.success).toBe(true)
     expect(healthData.message).toContain('PremStats API is running')
@@ -13,35 +13,35 @@ test.describe('API Integration', () => {
 
   test('Teams API integration works', async ({ page }) => {
     await page.goto('/teams')
-    
+
     // Wait for API call to complete
     const responsePromise = page.waitForResponse('**/api/v1/teams')
     await responsePromise
-    
+
     // Check that teams are displayed or error is handled
     await page.waitForTimeout(2000)
-    
+
     // Should either show teams, loading, or error state
     const hasValidState = await page.locator(
       'text=Loading teams, text=Failed to load teams, [data-testid="team-card"], .team-card'
     ).count() > 0
-    
+
     expect(hasValidState).toBeTruthy()
   })
 
   test('Seasons API integration works', async ({ page }) => {
     await page.goto('/stats')
-    
+
     // Wait for seasons API call
     const responsePromise = page.waitForResponse('**/api/v1/seasons')
     await responsePromise
-    
+
     // Check that seasons dropdown is populated or error is handled
     await page.waitForTimeout(2000)
-    
+
     const seasonSelect = page.locator('select').first()
     const optionCount = await seasonSelect.locator('option').count()
-    
+
     // Should have at least the default option
     expect(optionCount).toBeGreaterThan(0)
   })
@@ -53,9 +53,9 @@ test.describe('API Integration', () => {
       contentType: 'application/json',
       body: JSON.stringify({ error: 'Server Error' })
     }))
-    
+
     await page.goto('/teams')
-    
+
     // Should show error message
     await page.waitForTimeout(2000)
     await expect(page.getByText(/Failed to load teams/i)).toBeVisible()
@@ -67,19 +67,19 @@ test.describe('API Integration', () => {
       await new Promise(resolve => setTimeout(resolve, 10000)) // 10 second delay
       route.continue()
     })
-    
+
     await page.goto('/teams')
-    
+
     // Should show loading state initially
     await expect(page.getByText(/Loading teams/i)).toBeVisible()
-    
+
     // After timeout, should show error or handle gracefully
     await page.waitForTimeout(5000)
   })
 
   test('CORS is properly configured', async ({ page }) => {
     await page.goto('/')
-    
+
     // Make a direct API call from the frontend context
     const apiCall = await page.evaluate(async () => {
       try {
@@ -91,11 +91,11 @@ test.describe('API Integration', () => {
         }
       } catch (error) {
         return {
-          error: error.message
+          error: error instanceof Error ? error.message : 'Unknown error'
         }
       }
     })
-    
+
     expect(apiCall.ok).toBe(true)
     expect(apiCall.data?.success).toBe(true)
   })

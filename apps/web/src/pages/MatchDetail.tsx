@@ -6,7 +6,7 @@ import { Container, Card, Button, Badge } from '@premstats/ui'
 import { getTeamCrest } from '../utils/teamCrests'
 import { apiUrl } from '../config/api'
 
-interface MatchDetail {
+interface MatchDetailData {
   id: number
   seasonId: number
   homeTeamId: number
@@ -54,7 +54,7 @@ interface HeadToHead {
   awayWins: number
   homeGoals: number
   awayGoals: number
-  lastMeetings: MatchDetail[]
+  lastMeetings: MatchDetailData[]
 }
 
 const MatchDetail: Component = () => {
@@ -65,7 +65,7 @@ const MatchDetail: Component = () => {
   // Fetch match details
   const matchQuery = createQuery(() => ({
     queryKey: ['match', matchId()],
-    queryFn: async (): Promise<MatchDetail> => {
+    queryFn: async (): Promise<MatchDetailData> => {
       const response = await fetch(apiUrl(`/matches/${matchId()}`))
       if (!response.ok) {
         throw new Error('Failed to fetch match')
@@ -563,57 +563,59 @@ const MatchDetail: Component = () => {
         <Show when={activeTab() === 'h2h'}>
           <Card>
             <div class="p-6">
-              {h2hQuery.data && h2hQuery.data.totalMatches > 0 ? (
-                <div class="space-y-6">
-                  {/* Overall H2H Stats */}
-                  <div>
-                    <h3 class="text-lg font-semibold mb-4">All-Time Record</h3>
-                    <div class="grid grid-cols-4 gap-4 text-center">
-                      <div>
-                        <p class="text-2xl font-bold text-primary">{h2hQuery.data.homeWins}</p>
-                        <p class="text-sm text-muted-foreground">{matchQuery.data?.homeTeam} Wins</p>
-                      </div>
-                      <div>
-                        <p class="text-2xl font-bold">{h2hQuery.data.draws}</p>
-                        <p class="text-sm text-muted-foreground">Draws</p>
-                      </div>
-                      <div>
-                        <p class="text-2xl font-bold text-primary">{h2hQuery.data.awayWins}</p>
-                        <p class="text-sm text-muted-foreground">{matchQuery.data?.awayTeam} Wins</p>
-                      </div>
-                      <div>
-                        <p class="text-2xl font-bold">{h2hQuery.data.totalMatches}</p>
-                        <p class="text-sm text-muted-foreground">Total Matches</p>
+              {h2hQuery.data && h2hQuery.data.totalMatches > 0
+                ? (
+                  <div class="space-y-6">
+                    {/* Overall H2H Stats */}
+                    <div>
+                      <h3 class="text-lg font-semibold mb-4">All-Time Record</h3>
+                      <div class="grid grid-cols-4 gap-4 text-center">
+                        <div>
+                          <p class="text-2xl font-bold text-primary">{h2hQuery.data.homeWins}</p>
+                          <p class="text-sm text-muted-foreground">{matchQuery.data?.homeTeam} Wins</p>
+                        </div>
+                        <div>
+                          <p class="text-2xl font-bold">{h2hQuery.data.draws}</p>
+                          <p class="text-sm text-muted-foreground">Draws</p>
+                        </div>
+                        <div>
+                          <p class="text-2xl font-bold text-primary">{h2hQuery.data.awayWins}</p>
+                          <p class="text-sm text-muted-foreground">{matchQuery.data?.awayTeam} Wins</p>
+                        </div>
+                        <div>
+                          <p class="text-2xl font-bold">{h2hQuery.data.totalMatches}</p>
+                          <p class="text-sm text-muted-foreground">Total Matches</p>
+                        </div>
                       </div>
                     </div>
-                  </div>
 
-                  {/* Recent Meetings */}
-                  <div>
-                    <h3 class="text-lg font-semibold mb-4">Recent Meetings</h3>
-                    <div class="space-y-2">
-                      <For each={h2hQuery.data.lastMeetings}>
-                        {(match) => (
-                          <div class="flex items-center justify-between p-3 border rounded-lg">
-                            <div class="flex items-center space-x-4">
-                              <span class="text-sm text-muted-foreground">
-                                {new Date(match.date).toLocaleDateString()}
-                              </span>
-                              <span class="font-medium">
-                                {match.homeTeam} {match.homeScore} - {match.awayScore} {match.awayTeam}
-                              </span>
+                    {/* Recent Meetings */}
+                    <div>
+                      <h3 class="text-lg font-semibold mb-4">Recent Meetings</h3>
+                      <div class="space-y-2">
+                        <For each={h2hQuery.data.lastMeetings}>
+                          {(match) => (
+                            <div class="flex items-center justify-between p-3 border rounded-lg">
+                              <div class="flex items-center space-x-4">
+                                <span class="text-sm text-muted-foreground">
+                                  {new Date(match.date).toLocaleDateString()}
+                                </span>
+                                <span class="font-medium">
+                                  {match.homeTeam} {match.homeScore} - {match.awayScore} {match.awayTeam}
+                                </span>
+                              </div>
                             </div>
-                          </div>
-                        )}
-                      </For>
+                          )}
+                        </For>
+                      </div>
                     </div>
                   </div>
-                </div>
-              ) : (
-                <p class="text-center text-muted-foreground">
+                )
+                : (
+                  <p class="text-center text-muted-foreground">
                   Head-to-head data will be available when historical matches are fully indexed.
-                </p>
-              )}
+                  </p>
+                )}
             </div>
           </Card>
         </Show>

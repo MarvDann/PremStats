@@ -47,6 +47,17 @@ interface Match {
   referee: string
 }
 
+interface ApiMatch {
+  id: number
+  homeTeam: string
+  awayTeam: string
+  homeScore: number
+  awayScore: number
+  date: string
+  referee: string
+  seasonId?: number
+}
+
 const TeamDetail: Component = () => {
   const params = useParams()
   const teamId = () => parseInt(params.id)
@@ -116,11 +127,11 @@ const TeamDetail: Component = () => {
       const data = await response.json()
       // Filter matches for this team using correct field names
       const teamName = teamQuery.data?.name || ''
-      const filteredMatches = data.data.matches.filter((match: any) =>
+      const filteredMatches = data.data.matches.filter((match: ApiMatch) =>
         match.homeTeam === teamName || match.awayTeam === teamName
       )
       // Convert to expected format
-      const convertedMatches = filteredMatches.map((match: any) => ({
+      const convertedMatches = filteredMatches.map((match: ApiMatch) => ({
         id: match.id,
         season_id: match.seasonId,
         home_team: match.homeTeam,
