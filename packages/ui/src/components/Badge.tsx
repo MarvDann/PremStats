@@ -14,9 +14,9 @@ const badgeVariants = (props: { variant?: BadgeVariant; class?: string }) => {
     secondary: 'bg-secondary text-secondary-foreground hover:bg-secondary/80',
     destructive: 'bg-destructive/10 text-destructive hover:bg-destructive/20',
     outline: 'border border-input text-foreground',
-    success: 'bg-green-100 text-green-800 dark:bg-green-900/20 dark:text-green-400',
-    warning: 'bg-yellow-100 text-yellow-800 dark:bg-yellow-900/20 dark:text-yellow-400',
-    info: 'bg-blue-100 text-blue-800 dark:bg-blue-900/20 dark:text-blue-400'
+    success: 'bg-[hsl(var(--success)/0.1)] text-[hsl(var(--success))] hover:bg-[hsl(var(--success)/0.2)]',
+    warning: 'bg-[hsl(var(--warning)/0.1)] text-[hsl(var(--warning))] hover:bg-[hsl(var(--warning)/0.2)]',
+    info: 'bg-primary/10 text-primary hover:bg-primary/20'
   }
   
   return cn(baseClasses, variantClasses[variant], props.class)
