@@ -1,65 +1,68 @@
 import { JSX, ParentComponent, splitProps } from 'solid-js'
-import { tv } from 'tailwind-variants'
 import { cn } from '../../utils/cn'
 
-const statsCardVariants = tv({
-  base: 'relative overflow-hidden rounded-lg border transition-all duration-200 hover:shadow-md text-center',
-  variants: {
-    variant: {
-      default: 'bg-[hsl(var(--card))] border-[hsl(var(--border))] shadow-sm',
-      secondary: 'bg-[var(--color-table-europa-conference-bg)] border-[var(--color-table-europa-conference-border)] shadow-sm',
-      primary: 'bg-[hsl(var(--primary)/0.1)] border-[hsl(var(--primary)/0.2)]',
-      success: 'bg-[hsl(var(--success)/0.1)] border-[hsl(var(--success)/0.2)]',
-      warning: 'bg-[hsl(var(--warning)/0.1)] border-[hsl(var(--warning)/0.2)]',
-      danger: 'bg-[hsl(var(--destructive)/0.1)] border-[hsl(var(--destructive)/0.2)]'
-    },
-    size: {
-      sm: 'p-3',
-      md: 'p-6', 
-      lg: 'p-6'
-    }
-  },
-  defaultVariants: {
-    variant: 'default',
-    size: 'md'
-  }
-})
+type StatsCardVariant = 'default' | 'secondary' | 'primary' | 'success' | 'warning' | 'danger'
+type StatsCardSize = 'sm' | 'md' | 'lg'
 
-const valueVariants = tv({
-  base: 'font-bold text-[hsl(var(--foreground))]',
-  variants: {
-    size: {
-      sm: 'text-xl',
-      md: 'text-2xl',
-      lg: 'text-3xl'
-    }
-  },
-  defaultVariants: {
-    size: 'md'
+const statsCardVariants = (props: { variant?: StatsCardVariant; size?: StatsCardSize }) => {
+  const variant = props.variant || 'default'
+  const size = props.size || 'md'
+  
+  const baseClasses = 'relative overflow-hidden rounded-lg border transition-all duration-200 hover:shadow-md text-center'
+  
+  const variantClasses = {
+    default: 'bg-[hsl(var(--card))] border-[hsl(var(--border))] shadow-sm',
+    secondary: 'bg-[var(--color-table-europa-conference-bg)] border-[var(--color-table-europa-conference-border)] shadow-sm',
+    primary: 'bg-[hsl(var(--primary)/0.1)] border-[hsl(var(--primary)/0.2)]',
+    success: 'bg-[hsl(var(--success)/0.1)] border-[hsl(var(--success)/0.2)]',
+    warning: 'bg-[hsl(var(--warning)/0.1)] border-[hsl(var(--warning)/0.2)]',
+    danger: 'bg-[hsl(var(--destructive)/0.1)] border-[hsl(var(--destructive)/0.2)]'
   }
-})
+  
+  const sizeClasses = {
+    sm: 'p-3',
+    md: 'p-6', 
+    lg: 'p-6'
+  }
+  
+  return cn(baseClasses, variantClasses[variant], sizeClasses[size])
+}
 
-const labelVariants = tv({
-  base: 'text-[hsl(var(--muted-foreground))] font-medium',
-  variants: {
-    size: {
-      sm: 'text-xs',
-      md: 'text-sm',
-      lg: 'text-base'
-    }
-  },
-  defaultVariants: {
-    size: 'md'
+const valueVariants = (props: { size?: StatsCardSize }) => {
+  const size = props.size || 'md'
+  
+  const baseClasses = 'font-bold text-[hsl(var(--foreground))]'
+  
+  const sizeClasses = {
+    sm: 'text-xl',
+    md: 'text-2xl',
+    lg: 'text-3xl'
   }
-})
+  
+  return cn(baseClasses, sizeClasses[size])
+}
+
+const labelVariants = (props: { size?: StatsCardSize }) => {
+  const size = props.size || 'md'
+  
+  const baseClasses = 'text-[hsl(var(--muted-foreground))] font-medium'
+  
+  const sizeClasses = {
+    sm: 'text-xs',
+    md: 'text-sm',
+    lg: 'text-base'
+  }
+  
+  return cn(baseClasses, sizeClasses[size])
+}
 
 export interface StatsCardProps extends JSX.HTMLAttributes<HTMLDivElement> {
   label: string
   value: string | number
   description?: string
   icon?: JSX.Element
-  variant?: 'default' | 'secondary' | 'primary' | 'success' | 'warning' | 'danger'
-  size?: 'sm' | 'md' | 'lg'
+  variant?: StatsCardVariant
+  size?: StatsCardSize
   class?: string
 }
 

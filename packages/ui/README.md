@@ -42,7 +42,7 @@ function MyComponent() {
 - **StatsCards**: Use `variant="default"` unless indicating success/failure states
 
 ### Styling
-- **Tailwind Variants**: Components use `tailwind-variants` for consistent styling
+- **Standard CSS Classes**: Components use standard Tailwind CSS classes for consistent styling
 - **Accessibility**: All components include ARIA labels and proper semantic HTML
 - **Responsive**: Mobile-first design with responsive breakpoints
 
@@ -275,7 +275,7 @@ pnpm dev
    - `index.ts` - Export file
 
 3. Follow established patterns:
-   - Use `tailwind-variants` for styling
+   - Use standard Tailwind CSS classes for styling
    - Include proper TypeScript types
    - Add accessibility features
    - Follow SolidJS reactivity patterns
@@ -284,31 +284,34 @@ pnpm dev
 
 ```tsx
 import { JSX, ParentComponent, splitProps } from 'solid-js'
-import { tv } from 'tailwind-variants'
 import { cn } from '../../utils/cn'
 
-const componentVariants = tv({
-  base: 'base-styles',
-  variants: {
-    variant: {
-      default: 'default-styles',
-      // other variants
-    },
-    size: {
-      sm: 'small-styles',
-      md: 'medium-styles',
-      lg: 'large-styles'
-    }
-  },
-  defaultVariants: {
-    variant: 'default',
-    size: 'md'
+type ComponentVariant = 'default' | 'secondary'
+type ComponentSize = 'sm' | 'md' | 'lg'
+
+const componentVariants = (props: { variant?: ComponentVariant; size?: ComponentSize }) => {
+  const variant = props.variant || 'default'
+  const size = props.size || 'md'
+  
+  const baseClasses = 'base-styles'
+  
+  const variantClasses = {
+    default: 'default-styles',
+    secondary: 'secondary-styles'
   }
-})
+  
+  const sizeClasses = {
+    sm: 'small-styles',
+    md: 'medium-styles',
+    lg: 'large-styles'
+  }
+  
+  return cn(baseClasses, variantClasses[variant], sizeClasses[size])
+}
 
 export interface ComponentProps extends JSX.HTMLAttributes<HTMLElement> {
-  variant?: 'default' | 'other'
-  size?: 'sm' | 'md' | 'lg'
+  variant?: ComponentVariant
+  size?: ComponentSize
   class?: string
 }
 

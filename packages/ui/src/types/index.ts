@@ -5,12 +5,6 @@ export interface BaseComponentProps {
   children?: JSX.Element
 }
 
-export interface VariantProps {
-  variant?: string
-  size?: string
-}
-
-export interface ComponentWithVariants extends BaseComponentProps, VariantProps {}
 
 export type ButtonVariant = 'primary' | 'secondary' | 'destructive' | 'outline' | 'ghost' | 'link'
 export type ButtonSize = 'sm' | 'md' | 'lg' | 'icon'

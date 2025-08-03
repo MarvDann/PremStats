@@ -1,21 +1,20 @@
 import { JSX, ParentComponent, splitProps } from 'solid-js'
-import { tv } from 'tailwind-variants'
 import { cn } from '../../utils/cn'
 import { CardVariant } from '../../types'
 
-const cardVariants = tv({
-  base: 'rounded-lg border text-[hsl(var(--card-foreground))] shadow-sm',
-  variants: {
-    variant: {
-      default: 'bg-[hsl(var(--card))] border-[hsl(var(--border))]',
-      outlined: 'bg-[hsl(var(--card))] border-[hsl(var(--border))] border-2',
-      elevated: 'bg-[hsl(var(--card))] border-[hsl(var(--border))] shadow-lg'
-    }
-  },
-  defaultVariants: {
-    variant: 'default'
+const cardVariants = (props: { variant?: CardVariant }) => {
+  const variant = props.variant || 'default'
+  
+  const baseClasses = 'rounded-lg border text-[hsl(var(--card-foreground))] shadow-sm'
+  
+  const variantClasses = {
+    default: 'bg-[hsl(var(--card))] border-[hsl(var(--border))]',
+    outlined: 'bg-[hsl(var(--card))] border-[hsl(var(--border))] border-2',
+    elevated: 'bg-[hsl(var(--card))] border-[hsl(var(--border))] shadow-lg'
   }
-})
+  
+  return cn(baseClasses, variantClasses[variant])
+}
 
 export interface CardProps extends JSX.HTMLAttributes<HTMLDivElement> {
   variant?: CardVariant

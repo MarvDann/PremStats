@@ -1,10 +1,9 @@
 import { JSX, ParentComponent, splitProps } from 'solid-js'
-import { tv } from 'tailwind-variants'
 import { cn } from '../../utils/cn'
 
-const labelVariants = tv({
-  base: 'text-sm font-medium leading-none peer-disabled:cursor-not-allowed peer-disabled:opacity-70'
-})
+const labelVariants = () => {
+  return 'text-sm font-medium leading-none peer-disabled:cursor-not-allowed peer-disabled:opacity-70'
+}
 
 export interface LabelProps extends JSX.LabelHTMLAttributes<HTMLLabelElement> {
   class?: string

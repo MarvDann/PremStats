@@ -1,24 +1,27 @@
 import { JSX, splitProps, For, createSignal, createMemo } from 'solid-js'
-import { tv } from 'tailwind-variants'
 import { cn } from '../../utils/cn'
 
-const tableVariants = tv({
-  base: 'w-full caption-bottom',
-  variants: {
-    variant: {
-      default: '',
-      striped: '[&_tbody_tr:nth-child(odd)]:bg-[hsl(var(--muted)/0.5)]'
-    },
-    size: {
-      default: 'text-sm',
-      compact: 'text-xs'
-    }
-  },
-  defaultVariants: {
-    variant: 'default',
-    size: 'default'
+type TableVariant = 'default' | 'striped'
+type TableSize = 'default' | 'compact'
+
+const tableVariants = (props: { variant?: TableVariant; size?: TableSize }) => {
+  const variant = props.variant || 'default'
+  const size = props.size || 'default'
+  
+  const baseClasses = 'w-full caption-bottom'
+  
+  const variantClasses = {
+    default: '',
+    striped: '[&_tbody_tr:nth-child(odd)]:bg-[hsl(var(--muted)/0.5)]'
   }
-})
+  
+  const sizeClasses = {
+    default: 'text-sm',
+    compact: 'text-xs'
+  }
+  
+  return cn(baseClasses, variantClasses[variant], sizeClasses[size])
+}
 
 export interface Column<T> {
   key: string
@@ -32,8 +35,8 @@ export interface Column<T> {
 export interface DataTableProps<T> extends JSX.HTMLAttributes<HTMLTableElement> {
   data: T[]
   columns: Column<T>[]
-  variant?: 'default' | 'striped'
-  size?: 'default' | 'compact'
+  variant?: TableVariant
+  size?: TableSize
   sortable?: boolean
   getRowClass?: (item: T) => string
   class?: string

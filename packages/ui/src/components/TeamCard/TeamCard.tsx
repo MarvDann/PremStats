@@ -1,27 +1,30 @@
 import { JSX, ParentComponent, splitProps, Show, For } from 'solid-js'
-import { tv } from 'tailwind-variants'
 import { cn } from '../../utils/cn'
 import { Card, CardHeader, CardContent } from '../Card'
 
-const teamCardVariants = tv({
-  base: 'hover:shadow-lg transition-shadow duration-300 cursor-pointer',
-  variants: {
-    size: {
-      sm: 'max-w-sm',
-      md: 'max-w-md',
-      lg: 'max-w-lg'
-    },
-    variant: {
-      default: '',
-      compact: '[&_.team-logo]:w-8 [&_.team-logo]:h-8',
-      featured: '[&_.team-logo]:w-16 [&_.team-logo]:h-16 p-6'
-    }
-  },
-  defaultVariants: {
-    size: 'md',
-    variant: 'default'
+type TeamCardSize = 'sm' | 'md' | 'lg'
+type TeamCardVariant = 'default' | 'compact' | 'featured'
+
+const teamCardVariants = (props: { size?: TeamCardSize; variant?: TeamCardVariant }) => {
+  const size = props.size || 'md'
+  const variant = props.variant || 'default'
+  
+  const baseClasses = 'hover:shadow-lg transition-shadow duration-300 cursor-pointer'
+  
+  const sizeClasses = {
+    sm: 'max-w-sm',
+    md: 'max-w-md',
+    lg: 'max-w-lg'
   }
-})
+  
+  const variantClasses = {
+    default: '',
+    compact: '[&_.team-logo]:w-8 [&_.team-logo]:h-8',
+    featured: '[&_.team-logo]:w-16 [&_.team-logo]:h-16 p-6'
+  }
+  
+  return cn(baseClasses, sizeClasses[size], variantClasses[variant])
+}
 
 export interface TeamCardProps extends JSX.HTMLAttributes<HTMLDivElement> {
   name: string
@@ -37,8 +40,8 @@ export interface TeamCardProps extends JSX.HTMLAttributes<HTMLDivElement> {
   lost?: number
   goalsFor?: number
   goalsAgainst?: number
-  size?: 'sm' | 'md' | 'lg'
-  variant?: 'default' | 'compact' | 'featured'
+  size?: TeamCardSize
+  variant?: TeamCardVariant
   showStats?: boolean
   formGuide?: string[] // Array of W/L/D results from last 6 matches
   class?: string
