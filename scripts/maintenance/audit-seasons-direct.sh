@@ -3,6 +3,10 @@
 echo "🚀 Starting comprehensive season audit..."
 echo "========================================"
 
+# Get script directory and resolve project root
+SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+PROJECT_ROOT="$( cd "$SCRIPT_DIR/../.." && pwd )"
+
 # Create results file
 RESULTS_FILE="/tmp/season_audit_results.txt"
 > "$RESULTS_FILE"
@@ -192,7 +196,7 @@ fi
 # Save detailed JSON report
 echo ""
 echo "💾 Creating detailed JSON report..."
-cat > "/home/marvdann/projects/PremStats/season-audit-report.json" << EOF
+cat > "$PROJECT_ROOT/season-audit-report.json" << EOF
 {
   "timestamp": "$(date -u +%Y-%m-%dT%H:%M:%SZ)",
   "summary": {
@@ -210,10 +214,10 @@ sort -t',' -k1,1n "$RESULTS_FILE" | while IFS=',' read -r season_id season_name 
     if [[ "$first" == "true" ]]; then
         first=false
     else
-        echo "," >> "/home/marvdann/projects/PremStats/season-audit-report.json"
+        echo "," >> "$PROJECT_ROOT/season-audit-report.json"
     fi
     
-    cat >> "/home/marvdann/projects/PremStats/season-audit-report.json" << EOF
+    cat >> "$PROJECT_ROOT/season-audit-report.json" << EOF
     {
       "seasonId": $season_id,
       "seasonName": "$season_name",
@@ -226,7 +230,7 @@ sort -t',' -k1,1n "$RESULTS_FILE" | while IFS=',' read -r season_id season_name 
 EOF
 done
 
-cat >> "/home/marvdann/projects/PremStats/season-audit-report.json" << EOF
+cat >> "$PROJECT_ROOT/season-audit-report.json" << EOF
   ]
 }
 EOF

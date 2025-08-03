@@ -260,7 +260,9 @@ async function main() {
     seasons: results
   }
   
-  fs.writeFileSync('/home/marvdann/projects/PremStats/season-audit-report.json', JSON.stringify(reportData, null, 2))
+  const path = require('path')
+  const projectRoot = path.resolve(__dirname, '../..')
+  fs.writeFileSync(path.join(projectRoot, 'season-audit-report.json'), JSON.stringify(reportData, null, 2))
   console.log(`\n💾 Detailed report saved to: season-audit-report.json`)
   
   console.log('\n🎯 RECOMMENDATIONS:')

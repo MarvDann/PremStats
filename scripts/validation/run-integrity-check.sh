@@ -28,9 +28,13 @@ echo "📊 Running comprehensive data integrity validation..."
 echo "📁 Report will be saved to: $REPORT_DIR"
 echo ""
 
+# Get script directory and resolve project root
+SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+PROJECT_ROOT="$( cd "$SCRIPT_DIR/../.." && pwd )"
+
 # Run the validation SQL and capture output
 docker compose exec postgres psql -U premstats -d premstats \
-    -f /home/marvdann/projects/PremStats/scripts/validation/data-integrity-check.sql \
+    -f "$PROJECT_ROOT/scripts/validation/data-integrity-check.sql" \
     > "$REPORT_DIR/integrity_report.txt" 2>&1
 
 # Check if validation completed successfully

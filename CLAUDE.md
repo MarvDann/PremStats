@@ -85,6 +85,32 @@ pnpm dev
 pnpm lint && pnpm typecheck && pnpm test:unit && pnpm test:e2e
 ```
 
+## 🤖 AI Agent System
+
+### Orchestrator-Driven Development
+The project uses an orchestrator agent that coordinates specialized sub-agents for optimal task completion:
+
+- **orchestrator**: Master coordinator ensuring simplicity, quality, and 100% task completion
+- **data-scraper**: Database operations and web scraping
+- **frontend-developer**: SolidJS UI development
+- **backend-developer**: Go API development
+- **devops-engineer**: Infrastructure and deployment
+- **qa-tester**: Comprehensive testing
+- **github-issue-resolver**: Automated issue fixes
+
+### Agent Workflow
+1. **Orchestrator analyzes** task requirements
+2. **Delegates to specialized agents** with clear, minimal requirements
+3. **Monitors progress** and provides corrective guidance
+4. **Validates completion** through qa-tester
+5. **Iterates until 100% complete** - no partial solutions accepted
+
+### Key Principles
+- **Simplicity First**: Always choose the simplest solution
+- **No Over-Engineering**: Avoid unnecessary complexity
+- **Complete Validation**: Tasks aren't done until fully tested
+- **Clear Communication**: Agents report progress and issues
+
 ## 📋 Task Workflow
 
 1. **Select Feature**: Choose from `features/` directory

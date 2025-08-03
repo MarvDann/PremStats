@@ -7,12 +7,17 @@
 import { execSync } from 'child_process'
 import fs from 'fs'
 import chalk from 'chalk'
+import path from 'path'
 
 console.log(chalk.blue('🚀 Completing Pull Request workflow for frontend agent changes'))
 
+// Dynamically resolve paths
+const projectRoot = path.resolve(process.cwd(), '../..')
+const worktreesRoot = '/tmp/worktrees' // Use temp directory for worktrees
+
 const worktrees = [
   {
-    path: '/home/marvdann/projects/worktrees/issue-1-2025-07-11T21-39-50',
+    path: `${worktreesRoot}/issue-1-2025-07-11T21-39-50`,
     issueNumber: 1,
     issueTitle: 'No score information is displayed on Match Details Page',
     branch: 'fix/issue-1-2025-07-11T21-39-50',
@@ -23,7 +28,7 @@ const worktrees = [
     ]
   },
   {
-    path: '/home/marvdann/projects/worktrees/issue-2-2025-07-11T21-39-50',
+    path: `${worktreesRoot}/issue-2-2025-07-11T21-39-50`,
     issueNumber: 2,
     issueTitle: 'Match events missing from match details page',
     branch: 'fix/issue-2-2025-07-11T21-39-50',
@@ -126,7 +131,7 @@ ${worktree.changes.map(change => `- ${change}`).join('\n')}
 The fix has been implemented and is ready for review. The worktree will be cleaned up after the PR is merged.`
     
     execSync(`gh issue comment ${worktree.issueNumber} --body "${issueComment}"`, {
-      cwd: '/home/marvdann/projects/PremStats'
+      cwd: projectRoot
     })
     
     console.log(chalk.green(`✅ Issue #${worktree.issueNumber} updated with PR link`))
