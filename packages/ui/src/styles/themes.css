@@ -4,6 +4,22 @@
    All CSS variables for the PremStats theme system.
    This file serves as the centralized location for all color,
    spacing, typography, and component variables.
+   
+   NAMING CONVENTION:
+   - New variables: --color-category-property (e.g., --color-primary, --color-table-champion-bg)
+   - Legacy variables: --property (e.g., --primary, --background) - kept for Tailwind compatibility
+   
+   USAGE:
+   - New components should use the --color-* variables
+   - Legacy Tailwind classes continue to work via hsl(var(--variable)) pattern
+   - Table row styling uses dedicated --color-table-* variables
+   - Spacing uses --spacing-* variables
+   - Typography uses --font-size-* variables
+   
+   THEME SWITCHING:
+   - Light theme: :root { ... }
+   - Dark theme: [data-theme="dark"] { ... }
+   - Variables are automatically scoped by the data-theme attribute
    ================================================================= */
 
 :root {

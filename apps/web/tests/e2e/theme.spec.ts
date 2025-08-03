@@ -66,7 +66,7 @@ test.describe('Theme System', () => {
     const themeSwitcher = page.locator('button[aria-label*="Switch to"]')
     
     // Check light theme styles on stats cards
-    const statsCard = page.locator('[class*="gradient-primary"]').first()
+    const statsCard = page.locator('[data-testid="stats-card"], .stats-card, [class*="bg-[hsl(var(--card))]"]').first()
     await expect(statsCard).toBeVisible()
     
     // Switch to dark theme

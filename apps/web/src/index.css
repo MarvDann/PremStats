@@ -1,9 +1,9 @@
+/* Import themes from UI package - Single Source of Truth */
+@import '../../../packages/ui/src/styles/themes.css';
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-/* Import themes from UI package - Single Source of Truth */
-@import '../../../packages/ui/src/styles/themes.css';
 
 @layer base {
   * {
