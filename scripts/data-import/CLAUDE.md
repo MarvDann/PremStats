@@ -82,6 +82,27 @@ This file provides data import and scraping-specific guidance for PremStats.
 - **Match Rate**: 85.8% (429/500 matches found) ✅ **EXCELLENT**
 - **Player Linking**: 89.5% success rate (986 goals, 115 linking issues) ✅ **STRONG**
 
+### 📊 Data Source Research & Strategy (August 2025)
+
+#### Comprehensive Research Completed ✅
+- **Research Document**: `docs/data-sourcing-research.md` - Complete analysis of all viable data sources
+- **Primary Recommendation**: FBref (Sports Reference) - Complete 1992-present coverage, free access
+- **Secondary Options**: Sportmonks API (commercial), Understat (xG metrics), Academic datasets
+
+#### What We've Tried - Results
+- **Football-Data.org**: ❌ Limited to 2 years only
+- **Kaggle Match Events**: ✅ Successfully integrated (21 seasons)
+
+#### Next Implementation Priority
+1. **FBref Integration**: Use `soccerdata` Python library for comprehensive historical data
+2. **Understat Integration**: Add xG/xA metrics for 2014+ seasons  
+3. **Commercial API Evaluation**: Test Sportmonks 14-day trial for production reliability
+
+#### Implementation Strategy
+- **Phase 1**: FBref scraping for missing historical coverage
+- **Phase 2**: Advanced analytics with Understat xG data
+- **Phase 3**: Commercial API evaluation for production use
+
 ### Development Commands
 ```bash
 # Start data agent (from project root)
