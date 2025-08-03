@@ -10,10 +10,12 @@
     "agent:backend": "node backend/index.js",
     "agent:devops": "node devops/index.js",
     "agent:qa": "node qa/index.js",
+    "agent:research": "node research/index.js",
     "agents:all": "npm-run-all --parallel agent:*"
   },
   "dependencies": {
     "chalk": "^5.3.0",
+    "cheerio": "^1.0.0-rc.12",
     "csv-parser": "^3.2.0",
     "dotenv": "^17.0.1",
     "node-fetch": "^3.3.2",

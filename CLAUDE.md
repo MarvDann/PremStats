@@ -97,6 +97,7 @@ The project uses an orchestrator agent that coordinates specialized sub-agents f
 - **devops-engineer**: Infrastructure and deployment
 - **qa-tester**: Comprehensive testing
 - **github-issue-resolver**: Automated issue fixes
+- **deep-research**: Internet research and feature specification creation
 
 ### Agent Workflow
 1. **Orchestrator analyzes** task requirements
